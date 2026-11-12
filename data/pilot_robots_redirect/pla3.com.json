@@ -1,0 +1,57 @@
+{
+  "site": {
+    "rank": "1700",
+    "domain": "pla3.com",
+    "stratum": "1001-10000"
+  },
+  "rows": [
+    {
+      "rank": "1700",
+      "domain": "pla3.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://pla3.com/",
+      "depth": 0,
+      "parent_url": "",
+      "attempt": 1,
+      "timestamp": "2026-11-12T21:07:38.120787+00:00",
+      "final_url": "https://pla3.com/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=1"
+        ]
+      },
+      "body_bytes": 7200,
+      "truncated": false,
+      "body_sha256": "517f7cf1784ffda0a367a70ea37fce02b2557b58820e3b227aa7e7dda14cdcd5",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Surveza",
+      "duplicate_final": false,
+      "eligible": true
+    }
+  ],
+  "robots": [
+    {
+      "url": "https://pla3.com/robots.txt",
+      "timestamp": "2026-11-12T21:07:38.120767+00:00",
+      "status": 404,
+      "decision": "not_found",
+      "body_sha256": "55f7d9e99b8e2d4e0e193b2f0275501e6d9c1ebd29cadbea6a0da48a8587e3e0",
+      "body": "<html>\r\n<head><title>404 Not Found</title></head>\r\n<body>\r\n<center><h1>404 Not Found</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n"
+    }
+  ],
+  "eligible_pages": 1,
+  "canonical_origin": [
+    "https",
+    "pla3.com",
+    443
+  ],
+  "stop_reason": "frontier_exhausted",
+  "elapsed_seconds": 0.93
+}

@@ -1,0 +1,40 @@
+{
+  "site": {
+    "rank": "27",
+    "domain": "cloudfront.net",
+    "stratum": "1-100"
+  },
+  "rows": [
+    {
+      "rank": "27",
+      "domain": "cloudfront.net",
+      "stratum": "1-100",
+      "requested_url": "https://cloudfront.net/",
+      "depth": 0,
+      "parent_url": "",
+      "attempt": 1,
+      "timestamp": "2026-11-12T21:07:19.659213+00:00",
+      "error": "robots_denied",
+      "final_url": "https://cloudfront.net/",
+      "redirect_chain": [],
+      "html": false,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    }
+  ],
+  "robots": [
+    {
+      "url": "https://cloudfront.net/robots.txt",
+      "timestamp": "2026-11-12T21:07:19.748140+00:00",
+      "decision": "conservative_block_error",
+      "error": "[Errno 8] nodename nor servname provided, or not known"
+    }
+  ],
+  "eligible_pages": 0,
+  "canonical_origin": null,
+  "stop_reason": "frontier_exhausted",
+  "elapsed_seconds": 0.09
+}

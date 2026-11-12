@@ -1,0 +1,1430 @@
+{
+  "site": {
+    "rank": "7079",
+    "domain": "fakt.pl",
+    "stratum": "1001-10000"
+  },
+  "rows": [
+    {
+      "rank": "7079",
+      "domain": "fakt.pl",
+      "stratum": "1001-10000",
+      "requested_url": "https://fakt.pl/",
+      "depth": 0,
+      "parent_url": "",
+      "attempt": 1,
+      "timestamp": "2026-11-12T21:14:14.775199+00:00",
+      "final_url": "https://www.fakt.pl/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://*.ringpublishing.com https://*.ringieraxelspringer.dev https://blumen.palantirfoundry.de; report-uri https://events.ocdn.eu/v2/csp-report?_ac=events&_fv=www.fakt.pl::fakt_4_8_44"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 275378,
+      "truncated": false,
+      "body_sha256": "77c97bcef708a9793a699b37acec9190828341d9cf55b8d773ee01884cc32aee",
+      "redirect_chain": [
+        {
+          "url": "https://fakt.pl/",
+          "status": 301,
+          "location": "https://www.fakt.pl/",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": []
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Fakt.pl \u2013 Wiadomo\u015bci, Wydarzenia, Informacje",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "7079",
+      "domain": "fakt.pl",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.fakt.pl/najnowsze",
+      "depth": 1,
+      "parent_url": "https://www.fakt.pl/",
+      "attempt": 2,
+      "timestamp": "2026-11-12T21:14:15.074657+00:00",
+      "final_url": "https://www.fakt.pl/najnowsze",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://*.ringpublishing.com https://*.ringieraxelspringer.dev https://blumen.palantirfoundry.de; report-uri https://events.ocdn.eu/v2/csp-report?_ac=events&_fv=www.fakt.pl::fakt_4_8_44"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 225166,
+      "truncated": false,
+      "body_sha256": "2a0ec53b0139d0576b65151a149a72c758f5727c5ca9d2c2f48399acb79bd2ce",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Najnowsze - najnowsze wiadomo\u015bci - Fakt.pl",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "7079",
+      "domain": "fakt.pl",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.fakt.pl/wydarzenia/polska/krakow/telefony-sprawcy-moga-ujawnic-kulisy-zamachu-z-iphonem-moze-nie-byc-latwo/f0d53hr",
+      "depth": 2,
+      "parent_url": "https://www.fakt.pl/najnowsze",
+      "attempt": 3,
+      "timestamp": "2026-11-12T21:14:15.849968+00:00",
+      "final_url": "https://www.fakt.pl/wydarzenia/polska/krakow/telefony-sprawcy-moga-ujawnic-kulisy-zamachu-z-iphonem-moze-nie-byc-latwo/f0d53hr",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://*.ringpublishing.com https://*.ringieraxelspringer.dev https://blumen.palantirfoundry.de; report-uri https://events.ocdn.eu/v2/csp-report?_ac=events&_fv=www.fakt.pl::fakt_4_8_44"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 271109,
+      "truncated": false,
+      "body_sha256": "5de49f5ad7a5e030dc585c56dd59a1e3463a4c5c7a5c6d17f1560c529e67573a",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Telefony sprawcy mog\u0105 ujawni\u0107 kulisy zamachu. Z iPhonem mo\u017ce nie by\u0107 \u0142atwo",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "7079",
+      "domain": "fakt.pl",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.fakt.pl/autorzy/piotr-wierzbicki",
+      "depth": 3,
+      "parent_url": "https://www.fakt.pl/wydarzenia/polska/krakow/telefony-sprawcy-moga-ujawnic-kulisy-zamachu-z-iphonem-moze-nie-byc-latwo/f0d53hr",
+      "attempt": 4,
+      "timestamp": "2026-11-12T21:14:16.092084+00:00",
+      "final_url": "https://www.fakt.pl/autorzy/piotr-wierzbicki",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://*.ringpublishing.com https://*.ringieraxelspringer.dev https://blumen.palantirfoundry.de; report-uri https://events.ocdn.eu/v2/csp-report?_ac=events&_fv=www.fakt.pl::fakt_4_8_44"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 235687,
+      "truncated": false,
+      "body_sha256": "9d1d95001d6a6e4b4db621e08642d168bc531af20b7f61f4ea8062469c68d845",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Piotr Wierzbicki",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "7079",
+      "domain": "fakt.pl",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.fakt.pl/pieniadze/kiedy-najlepiej-zmienic-opony-na-zimowe-eksperci-nie-maja-watpliwosci/88b6x9y",
+      "depth": 4,
+      "parent_url": "https://www.fakt.pl/autorzy/piotr-wierzbicki",
+      "attempt": 5,
+      "timestamp": "2026-11-12T21:14:17.040233+00:00",
+      "final_url": "https://www.fakt.pl/pieniadze/kiedy-najlepiej-zmienic-opony-na-zimowe-eksperci-nie-maja-watpliwosci/88b6x9y",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://*.ringpublishing.com https://*.ringieraxelspringer.dev https://blumen.palantirfoundry.de; report-uri https://events.ocdn.eu/v2/csp-report?_ac=events&_fv=www.fakt.pl::fakt_4_8_44"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 271795,
+      "truncated": false,
+      "body_sha256": "404a29259a5ee636106e101f359331a56877eb109f86039001b55072854a3675",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Kiedy najlepiej zmieni\u0107 opony na zimowe? Eksperci nie maj\u0105 w\u0105tpliwo\u015bci",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "7079",
+      "domain": "fakt.pl",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.fakt.pl/projekty-specjalne/minimalna-glebokosc-bieznika-wplyw-zuzycia-opony-na-trakcje-i-droge-hamowania/rznb28f",
+      "depth": 5,
+      "parent_url": "https://www.fakt.pl/pieniadze/kiedy-najlepiej-zmienic-opony-na-zimowe-eksperci-nie-maja-watpliwosci/88b6x9y",
+      "attempt": 6,
+      "timestamp": "2026-11-12T21:14:17.395496+00:00",
+      "final_url": "https://www.fakt.pl/projekty-specjalne/minimalna-glebokosc-bieznika-wplyw-zuzycia-opony-na-trakcje-i-droge-hamowania/rznb28f",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://*.ringpublishing.com https://*.ringieraxelspringer.dev https://blumen.palantirfoundry.de; report-uri https://events.ocdn.eu/v2/csp-report?_ac=events&_fv=www.fakt.pl::fakt_4_8_44"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 267688,
+      "truncated": false,
+      "body_sha256": "b6b48f85280b8a43e4abb9a03ad54cf3ff59a67b48137f0475a56a1812795c21",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Minimalna g\u0142\u0119boko\u015b\u0107 bie\u017cnika \u2013 wp\u0142yw zu\u017cycia opony na trakcj\u0119 i drog\u0119 hamowania",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "7079",
+      "domain": "fakt.pl",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.fakt.pl/wideo",
+      "depth": 1,
+      "parent_url": "https://www.fakt.pl/",
+      "attempt": 7,
+      "timestamp": "2026-11-12T21:14:17.965788+00:00",
+      "final_url": "https://www.fakt.pl/wideo",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://*.ringpublishing.com https://*.ringieraxelspringer.dev https://blumen.palantirfoundry.de; report-uri https://events.ocdn.eu/v2/csp-report?_ac=events&_fv=www.fakt.pl::fakt_4_8_44"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 237941,
+      "truncated": false,
+      "body_sha256": "e085284f91a061032169fe4fa7c743b4c92b99d6568a4025f03fd10502fa42d5",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Wideo - najnowsze wiadomo\u015bci - Fakt.pl",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "7079",
+      "domain": "fakt.pl",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.fakt.pl/polityka/zwrot-w-sprawie-kawalerki-pana-jerzego-chodzi-o-karola-nawrockiego/dr8npg8",
+      "depth": 2,
+      "parent_url": "https://www.fakt.pl/najnowsze",
+      "attempt": 8,
+      "timestamp": "2026-11-12T21:14:18.448202+00:00",
+      "final_url": "https://www.fakt.pl/polityka/zwrot-w-sprawie-kawalerki-pana-jerzego-chodzi-o-karola-nawrockiego/dr8npg8",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://*.ringpublishing.com https://*.ringieraxelspringer.dev https://blumen.palantirfoundry.de; report-uri https://events.ocdn.eu/v2/csp-report?_ac=events&_fv=www.fakt.pl::fakt_4_8_44"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 300966,
+      "truncated": false,
+      "body_sha256": "a4992ec4ae8ee49be2514929a851ccdbe32d38eca0a0358c95dc88c4d35dab71",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Zwrot w sprawie kawalerki pana Jerzego. Chodzi o Karola Nawrockiego",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "7079",
+      "domain": "fakt.pl",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.fakt.pl/temat/iphone",
+      "depth": 3,
+      "parent_url": "https://www.fakt.pl/wydarzenia/polska/krakow/telefony-sprawcy-moga-ujawnic-kulisy-zamachu-z-iphonem-moze-nie-byc-latwo/f0d53hr",
+      "attempt": 9,
+      "timestamp": "2026-11-12T21:14:19.006536+00:00",
+      "final_url": "https://www.fakt.pl/temat/iphone",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://*.ringpublishing.com https://*.ringieraxelspringer.dev https://blumen.palantirfoundry.de; report-uri https://events.ocdn.eu/v2/csp-report?_ac=events&_fv=www.fakt.pl::fakt_4_8_44"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 234974,
+      "truncated": false,
+      "body_sha256": "cc7299a0317dd60a6be4673c82d56a6677f6742e8df7238791d5c9777c0ec39f",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "iPhone - wiadomo\u015bci, informacje, zdj\u0119cia",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "7079",
+      "domain": "fakt.pl",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.fakt.pl/kobieta/ktos-odpisuje-tylko-ok-specjalista-wyjasnil-co-to-moze-znaczyc/dfk537j",
+      "depth": 4,
+      "parent_url": "https://www.fakt.pl/temat/iphone",
+      "attempt": 10,
+      "timestamp": "2026-11-12T21:14:20.027077+00:00",
+      "final_url": "https://www.fakt.pl/kobieta/ktos-odpisuje-tylko-ok-specjalista-wyjasnil-co-to-moze-znaczyc/dfk537j",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://*.ringpublishing.com https://*.ringieraxelspringer.dev https://blumen.palantirfoundry.de; report-uri https://events.ocdn.eu/v2/csp-report?_ac=events&_fv=www.fakt.pl::fakt_4_8_44"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 271170,
+      "truncated": false,
+      "body_sha256": "ad9d326fa5eb0bc5f1755b693fdb3f051ae685fa0df4b8d3117d96d5a68343f1",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Kto\u015b odpisuje tylko: OK. Specjalista wyja\u015bni\u0142, co to mo\u017ce znaczy\u0107",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "7079",
+      "domain": "fakt.pl",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.fakt.pl/hobby/turystyka/pojechali-do-krakowa-i-chcieli-wypic-kawe-na-rynku-niezle-sie-zdziwili/1gwbtp4",
+      "depth": 5,
+      "parent_url": "https://www.fakt.pl/kobieta/ktos-odpisuje-tylko-ok-specjalista-wyjasnil-co-to-moze-znaczyc/dfk537j",
+      "attempt": 11,
+      "timestamp": "2026-11-12T21:14:21.676119+00:00",
+      "final_url": "https://www.fakt.pl/hobby/turystyka/pojechali-do-krakowa-i-chcieli-wypic-kawe-na-rynku-niezle-sie-zdziwili/1gwbtp4",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://*.ringpublishing.com https://*.ringieraxelspringer.dev https://blumen.palantirfoundry.de; report-uri https://events.ocdn.eu/v2/csp-report?_ac=events&_fv=www.fakt.pl::fakt_4_8_44"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 271939,
+      "truncated": false,
+      "body_sha256": "db54d219aaadf50fd8adeb1ce91b09cb6220e07b6faf944f75fcdf25099d16f2",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Pojechali do Krakowa i chcieli wypi\u0107 kaw\u0119 na rynku. Nie\u017ale si\u0119 zdziwili",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "7079",
+      "domain": "fakt.pl",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.fakt.pl/premium",
+      "depth": 1,
+      "parent_url": "https://www.fakt.pl/",
+      "attempt": 12,
+      "timestamp": "2026-11-12T21:14:22.107893+00:00",
+      "final_url": "https://www.fakt.pl/premium",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://*.ringpublishing.com https://*.ringieraxelspringer.dev https://blumen.palantirfoundry.de; report-uri https://events.ocdn.eu/v2/csp-report?_ac=events&_fv=www.fakt.pl::fakt_4_8_44"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 235179,
+      "truncated": false,
+      "body_sha256": "679a4f70688c9f82c55a567ce4387491da94431ad5ab696a1fad0c631ef6c01d",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Premium - najnowsze wiadomo\u015bci - Fakt.pl",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "7079",
+      "domain": "fakt.pl",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.fakt.pl/bezpieczenstwo/protesty-w-europie-gniew-generacji-z-najmlodsi-poslowie-popieramy-postulaty/9rtnx89",
+      "depth": 2,
+      "parent_url": "https://www.fakt.pl/premium",
+      "attempt": 13,
+      "timestamp": "2026-11-12T21:14:22.622293+00:00",
+      "final_url": "https://www.fakt.pl/bezpieczenstwo/protesty-w-europie-gniew-generacji-z-najmlodsi-poslowie-popieramy-postulaty/9rtnx89",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://*.ringpublishing.com https://*.ringieraxelspringer.dev https://blumen.palantirfoundry.de; report-uri https://events.ocdn.eu/v2/csp-report?_ac=events&_fv=www.fakt.pl::fakt_4_8_44"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 310993,
+      "truncated": false,
+      "body_sha256": "691121772605d39c7bf7029b7287957cedf78d05db42ee943acb57866da2d66e",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Protesty w Europie. Gniew generacji Z. Najm\u0142odsi pos\u0142owie: popieramy postulaty",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "7079",
+      "domain": "fakt.pl",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.fakt.pl/quiz",
+      "depth": 1,
+      "parent_url": "https://www.fakt.pl/",
+      "attempt": 14,
+      "timestamp": "2026-11-12T21:14:23.380644+00:00",
+      "final_url": "https://www.fakt.pl/temat/quiz",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://*.ringpublishing.com https://*.ringieraxelspringer.dev https://blumen.palantirfoundry.de; report-uri https://events.ocdn.eu/v2/csp-report?_ac=events&_fv=www.fakt.pl::fakt_4_8_44"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 235806,
+      "truncated": false,
+      "body_sha256": "88cfb800137bc7f41618ca6526ac2d5a9260ddf0f0d49bced16c4873a1890722",
+      "redirect_chain": [
+        {
+          "url": "https://www.fakt.pl/quiz",
+          "status": 301,
+          "location": "https://www.fakt.pl/temat/quiz",
+          "headers": {
+            "content-security-policy": [
+              "frame-ancestors 'self' https://*.ringpublishing.com https://*.ringieraxelspringer.dev https://blumen.palantirfoundry.de; report-uri https://events.ocdn.eu/v2/csp-report?_ac=events&_fv=www.fakt.pl::fakt_4_8_44"
+            ],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000; includeSubDomains; preload"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Quizy Faktu - ciekawe pytania, zaskakuj\u0105ce odpowiedzi",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "7079",
+      "domain": "fakt.pl",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.fakt.pl/zdrowie/profesor-o-tarczycy-objawy-moga-przypominac-depresje-kiedy-leki-pomagaja/87m33ln",
+      "depth": 2,
+      "parent_url": "https://www.fakt.pl/premium",
+      "attempt": 15,
+      "timestamp": "2026-11-12T21:14:23.898230+00:00",
+      "final_url": "https://www.fakt.pl/zdrowie/profesor-o-tarczycy-objawy-moga-przypominac-depresje-kiedy-leki-pomagaja/87m33ln",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://*.ringpublishing.com https://*.ringieraxelspringer.dev https://blumen.palantirfoundry.de; report-uri https://events.ocdn.eu/v2/csp-report?_ac=events&_fv=www.fakt.pl::fakt_4_8_44"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 301668,
+      "truncated": false,
+      "body_sha256": "e15f87c7a5428d2c6455f33ffedd0b3bd6acd919b942a846b4c906d0a954b535",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Profesor o tarczycy: objawy mog\u0105 przypomina\u0107 depresj\u0119. Kiedy leki pomagaj\u0105?",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "7079",
+      "domain": "fakt.pl",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.fakt.pl/szukaj",
+      "depth": 1,
+      "parent_url": "https://www.fakt.pl/",
+      "attempt": 16,
+      "timestamp": "2026-11-12T21:14:24.537763+00:00",
+      "error": "robots_denied",
+      "final_url": "https://www.fakt.pl/szukaj",
+      "redirect_chain": [],
+      "html": false,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "7079",
+      "domain": "fakt.pl",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.fakt.pl/rozrywka/quizy/szybki-quiz-z-poprawnej-polszczyzny-wyksztalceni-nie-powinni-miec-problemu/n6byxry",
+      "depth": 2,
+      "parent_url": "https://www.fakt.pl/temat/quiz",
+      "attempt": 17,
+      "timestamp": "2026-11-12T21:14:24.538770+00:00",
+      "final_url": "https://www.fakt.pl/rozrywka/quizy/szybki-quiz-z-poprawnej-polszczyzny-wyksztalceni-nie-powinni-miec-problemu/n6byxry",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://*.ringpublishing.com https://*.ringieraxelspringer.dev https://blumen.palantirfoundry.de; report-uri https://events.ocdn.eu/v2/csp-report?_ac=events&_fv=www.fakt.pl::fakt_4_8_44"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 301480,
+      "truncated": false,
+      "body_sha256": "44eb7ad72051e8ce6b652b88591316246e43827f3ce13d3234a914b8e373edc8",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Szybki quiz z poprawnej polszczyzny. Wykszta\u0142ceni nie powinni mie\u0107 problemu",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "7079",
+      "domain": "fakt.pl",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.fakt.pl/informacyjne/fakt-redakcja/ghzdbwk",
+      "depth": 1,
+      "parent_url": "https://www.fakt.pl/",
+      "attempt": 18,
+      "timestamp": "2026-11-12T21:14:25.232041+00:00",
+      "final_url": "https://www.fakt.pl/informacyjne/fakt-redakcja/ghzdbwk",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://*.ringpublishing.com https://*.ringieraxelspringer.dev https://blumen.palantirfoundry.de; report-uri https://events.ocdn.eu/v2/csp-report?_ac=events&_fv=www.fakt.pl::fakt_4_8_44"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 235791,
+      "truncated": false,
+      "body_sha256": "23b486feb9f09b7b0f9754acfa38995b937609196fe8136545e718ce01befebc",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Fakt. Redakcja.",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "7079",
+      "domain": "fakt.pl",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.fakt.pl/mapa-serwisu",
+      "depth": 1,
+      "parent_url": "https://www.fakt.pl/",
+      "attempt": 19,
+      "timestamp": "2026-11-12T21:14:25.431280+00:00",
+      "final_url": "https://www.fakt.pl/mapa-serwisu",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://*.ringpublishing.com https://*.ringieraxelspringer.dev https://blumen.palantirfoundry.de; report-uri https://events.ocdn.eu/v2/csp-report?_ac=events&_fv=www.fakt.pl::fakt_4_8_44"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 1921108,
+      "truncated": false,
+      "body_sha256": "55f8e0520f4ae257db3b2ec99987f3e3f52d253e5a97aa24cd6ebd67bf71297e",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Archiwum - Fakt.pl \u2013 Wiadomo\u015bci, Wydarzenia, Informacje",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "7079",
+      "domain": "fakt.pl",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.fakt.pl/archiwum/2026-11-01",
+      "depth": 2,
+      "parent_url": "https://www.fakt.pl/mapa-serwisu",
+      "attempt": 20,
+      "timestamp": "2026-11-12T21:14:26.862929+00:00",
+      "final_url": "https://www.fakt.pl/archiwum/2026-11-01",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://*.ringpublishing.com https://*.ringieraxelspringer.dev https://blumen.palantirfoundry.de; report-uri https://events.ocdn.eu/v2/csp-report?_ac=events&_fv=www.fakt.pl::fakt_4_8_44"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 190981,
+      "truncated": false,
+      "body_sha256": "65ee4379574f418a796a37a81ff95d49b1dc507bb1f67ea1417ebea9df0364ba",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "1 lis 2026 | Archiwum - Fakt.pl \u2013 Wiadomo\u015bci, Wydarzenia, Informacje",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "7079",
+      "domain": "fakt.pl",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.fakt.pl/o-nas",
+      "depth": 1,
+      "parent_url": "https://www.fakt.pl/",
+      "attempt": 21,
+      "timestamp": "2026-11-12T21:14:27.635573+00:00",
+      "final_url": "https://www.fakt.pl/o-nas",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://*.ringpublishing.com https://*.ringieraxelspringer.dev https://blumen.palantirfoundry.de; report-uri https://events.ocdn.eu/v2/csp-report?_ac=events&_fv=www.fakt.pl::fakt_4_8_44"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 128166,
+      "truncated": false,
+      "body_sha256": "c800a93aae79690e6e6d2a5095c06dc42033f3379be9ae53ca2e8d4cebf92bd2",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Fakt.pl \u2013 Wiadomo\u015bci, Wydarzenia, Informacje",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "7079",
+      "domain": "fakt.pl",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.fakt.pl/facet",
+      "depth": 1,
+      "parent_url": "https://www.fakt.pl/",
+      "attempt": 22,
+      "timestamp": "2026-11-12T21:14:27.958384+00:00",
+      "final_url": "https://www.fakt.pl/facet",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://*.ringpublishing.com https://*.ringieraxelspringer.dev https://blumen.palantirfoundry.de; report-uri https://events.ocdn.eu/v2/csp-report?_ac=events&_fv=www.fakt.pl::fakt_4_8_44"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 226899,
+      "truncated": false,
+      "body_sha256": "a9e855bf78b2542d408cc52b32784844f9a41cbb496eb76de06c3965e6aeef21",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Facet - M\u0119ski \u015bwiat, podr\u0119cznik ka\u017cdego m\u0119\u017cczyzny - Fakt.pl",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "7079",
+      "domain": "fakt.pl",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.fakt.pl/tematy",
+      "depth": 1,
+      "parent_url": "https://www.fakt.pl/",
+      "attempt": 23,
+      "timestamp": "2026-11-12T21:14:28.954159+00:00",
+      "final_url": "https://www.fakt.pl/tematy",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://*.ringpublishing.com https://*.ringieraxelspringer.dev https://blumen.palantirfoundry.de; report-uri https://events.ocdn.eu/v2/csp-report?_ac=events&_fv=www.fakt.pl::fakt_4_8_44"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 246982,
+      "truncated": false,
+      "body_sha256": "b117f1ba91473f2fc1111db96971a61d4e9dcc7c12271904591b974191751bae",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Wszystkie tematy w jednym miejscu | Fakt.pl",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "7079",
+      "domain": "fakt.pl",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.fakt.pl/wydarzenia/polska/krakow/przeszukania-domu-michala-oksinskiego-co-znalezli-sledczy/bkfjjp3",
+      "depth": 3,
+      "parent_url": "https://www.fakt.pl/wydarzenia/polska/krakow/telefony-sprawcy-moga-ujawnic-kulisy-zamachu-z-iphonem-moze-nie-byc-latwo/f0d53hr",
+      "attempt": 24,
+      "timestamp": "2026-11-12T21:14:29.480113+00:00",
+      "final_url": "https://www.fakt.pl/wydarzenia/polska/krakow/przeszukania-domu-michala-oksinskiego-co-znalezli-sledczy/bkfjjp3",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://*.ringpublishing.com https://*.ringieraxelspringer.dev https://blumen.palantirfoundry.de; report-uri https://events.ocdn.eu/v2/csp-report?_ac=events&_fv=www.fakt.pl::fakt_4_8_44"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 269372,
+      "truncated": false,
+      "body_sha256": "e0f404c274478d4460a71448a62c157a762c11142889b2d835df718efab46ed3",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Przeszukania domu Micha\u0142a Oksi\u0144skiego. Co znale\u017ali \u015bledczy",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "7079",
+      "domain": "fakt.pl",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.fakt.pl/polityka/strzelanina-w-krakowie-nowe-informacje-o-sprawcy-nie-mial-dokumentu/ye4bf9e",
+      "depth": 4,
+      "parent_url": "https://www.fakt.pl/autorzy/piotr-wierzbicki",
+      "attempt": 25,
+      "timestamp": "2026-11-12T21:14:29.983547+00:00",
+      "final_url": "https://www.fakt.pl/polityka/strzelanina-w-krakowie-nowe-informacje-o-sprawcy-nie-mial-dokumentu/ye4bf9e",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://*.ringpublishing.com https://*.ringieraxelspringer.dev https://blumen.palantirfoundry.de; report-uri https://events.ocdn.eu/v2/csp-report?_ac=events&_fv=www.fakt.pl::fakt_4_8_44"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 522190,
+      "truncated": false,
+      "body_sha256": "bb1157b7518dc4ed6692a11d5fc8f38f801493e2658ca0c956a7413af3e51829",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Strzelanina w Krakowie. Nowe informacje o sprawcy. \"Nie mia\u0142 dokumentu\"",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "7079",
+      "domain": "fakt.pl",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.fakt.pl/pieniadze/zabka-wchodzi-do-szkol-automaty-pojawiaja-sie-w-kolejnych-miejscach/qly3dxy",
+      "depth": 5,
+      "parent_url": "https://www.fakt.pl/pieniadze/kiedy-najlepiej-zmienic-opony-na-zimowe-eksperci-nie-maja-watpliwosci/88b6x9y",
+      "attempt": 26,
+      "timestamp": "2026-11-12T21:14:30.582132+00:00",
+      "final_url": "https://www.fakt.pl/pieniadze/zabka-wchodzi-do-szkol-automaty-pojawiaja-sie-w-kolejnych-miejscach/qly3dxy",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://*.ringpublishing.com https://*.ringieraxelspringer.dev https://blumen.palantirfoundry.de; report-uri https://events.ocdn.eu/v2/csp-report?_ac=events&_fv=www.fakt.pl::fakt_4_8_44"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 273749,
+      "truncated": false,
+      "body_sha256": "448e8e7d7693f891faafe3ec4a05b9c5ff923095b2e2e8a2d02f4412b9a75f79",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "\u017babka wchodzi do szk\u00f3\u0142. Automaty pojawiaj\u0105 si\u0119 w kolejnych miejscach",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "7079",
+      "domain": "fakt.pl",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.fakt.pl/temat/zamach",
+      "depth": 3,
+      "parent_url": "https://www.fakt.pl/wydarzenia/polska/krakow/telefony-sprawcy-moga-ujawnic-kulisy-zamachu-z-iphonem-moze-nie-byc-latwo/f0d53hr",
+      "attempt": 27,
+      "timestamp": "2026-11-12T21:14:31.026383+00:00",
+      "final_url": "https://www.fakt.pl/temat/zamach",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://*.ringpublishing.com https://*.ringieraxelspringer.dev https://blumen.palantirfoundry.de; report-uri https://events.ocdn.eu/v2/csp-report?_ac=events&_fv=www.fakt.pl::fakt_4_8_44"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 236094,
+      "truncated": false,
+      "body_sha256": "7003b1757ba45d2e15b8d5586beb98cd27aed88c415d022981b86d2792fc4bd8",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Zamach - wiadomo\u015bci, informacje, zdj\u0119cia",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "7079",
+      "domain": "fakt.pl",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.fakt.pl/autorzy/aleksandra-strzedzinska",
+      "depth": 4,
+      "parent_url": "https://www.fakt.pl/wydarzenia/polska/krakow/przeszukania-domu-michala-oksinskiego-co-znalezli-sledczy/bkfjjp3",
+      "attempt": 28,
+      "timestamp": "2026-11-12T21:14:31.718402+00:00",
+      "final_url": "https://www.fakt.pl/autorzy/aleksandra-strzedzinska",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://*.ringpublishing.com https://*.ringieraxelspringer.dev https://blumen.palantirfoundry.de; report-uri https://events.ocdn.eu/v2/csp-report?_ac=events&_fv=www.fakt.pl::fakt_4_8_44"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 238335,
+      "truncated": false,
+      "body_sha256": "f396449cc2259f5597c5eac7297b51b1c544f8f555904d88ab4da26f0598ec62",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Aleksandra Strzedzi\u0144ska",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "7079",
+      "domain": "fakt.pl",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.fakt.pl/kobieta/dobre-rady/norweski-sposob-na-suszenie-prania-zima-poznaj-prosta-metode-bez-urzadzen/fd33yrb",
+      "depth": 5,
+      "parent_url": "https://www.fakt.pl/pieniadze/kiedy-najlepiej-zmienic-opony-na-zimowe-eksperci-nie-maja-watpliwosci/88b6x9y",
+      "attempt": 29,
+      "timestamp": "2026-11-12T21:14:32.229204+00:00",
+      "final_url": "https://www.fakt.pl/kobieta/dobre-rady/norweski-sposob-na-suszenie-prania-zima-poznaj-prosta-metode-bez-urzadzen/fd33yrb",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://*.ringpublishing.com https://*.ringieraxelspringer.dev https://blumen.palantirfoundry.de; report-uri https://events.ocdn.eu/v2/csp-report?_ac=events&_fv=www.fakt.pl::fakt_4_8_44"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 272186,
+      "truncated": false,
+      "body_sha256": "c74749684e86e628910d2a300298547b0407129f08653f6a739c762bfb94de85",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Norweski spos\u00f3b na suszenie prania zim\u0105. Poznaj prost\u0105 metod\u0119 bez urz\u0105dze\u0144",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "7079",
+      "domain": "fakt.pl",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.fakt.pl/bezpieczenstwo",
+      "depth": 3,
+      "parent_url": "https://www.fakt.pl/bezpieczenstwo/protesty-w-europie-gniew-generacji-z-najmlodsi-poslowie-popieramy-postulaty/9rtnx89",
+      "attempt": 30,
+      "timestamp": "2026-11-12T21:14:32.612749+00:00",
+      "final_url": "https://www.fakt.pl/bezpieczenstwo",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://*.ringpublishing.com https://*.ringieraxelspringer.dev https://blumen.palantirfoundry.de; report-uri https://events.ocdn.eu/v2/csp-report?_ac=events&_fv=www.fakt.pl::fakt_4_8_44"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 229007,
+      "truncated": false,
+      "body_sha256": "3d0fe11df8e967c6374ce32149fae004aca8b8983638a32369cc40ac0906338a",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Fakt.pl \u2013 Wiadomo\u015bci, Wydarzenia, Informacje - najnowsze wiadomo\u015bci - Fakt.pl",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "7079",
+      "domain": "fakt.pl",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.fakt.pl/zdrowie/menopauza-i-terapia-hormonalna-hrt-moze-zwiekszac-ryzyko-zakrzepicy/schbs3p",
+      "depth": 3,
+      "parent_url": "https://www.fakt.pl/zdrowie/profesor-o-tarczycy-objawy-moga-przypominac-depresje-kiedy-leki-pomagaja/87m33ln",
+      "attempt": 31,
+      "timestamp": "2026-11-12T21:14:33.659206+00:00",
+      "final_url": "https://www.fakt.pl/zdrowie/menopauza-i-terapia-hormonalna-hrt-moze-zwiekszac-ryzyko-zakrzepicy/schbs3p",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://*.ringpublishing.com https://*.ringieraxelspringer.dev https://blumen.palantirfoundry.de; report-uri https://events.ocdn.eu/v2/csp-report?_ac=events&_fv=www.fakt.pl::fakt_4_8_44"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 299721,
+      "truncated": false,
+      "body_sha256": "826cb445dcbdb2738ac7a30d8741ed925d763166c138c5dae9229dc18523501c",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Menopauza i terapia hormonalna. HRT mo\u017ce zwi\u0119ksza\u0107 ryzyko zakrzepicy",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "7079",
+      "domain": "fakt.pl",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.fakt.pl/hobby/turystyka/dubaj-to-nie-tylko-luksus-i-wiezowce-ta-atrakcja-zaskakuje/4frnd3h",
+      "depth": 2,
+      "parent_url": "https://www.fakt.pl/najnowsze",
+      "attempt": 32,
+      "timestamp": "2026-11-12T21:14:33.953133+00:00",
+      "final_url": "https://www.fakt.pl/hobby/turystyka/dubaj-to-nie-tylko-luksus-i-wiezowce-ta-atrakcja-zaskakuje/4frnd3h",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://*.ringpublishing.com https://*.ringieraxelspringer.dev https://blumen.palantirfoundry.de; report-uri https://events.ocdn.eu/v2/csp-report?_ac=events&_fv=www.fakt.pl::fakt_4_8_44"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 276138,
+      "truncated": false,
+      "body_sha256": "69ec7220880075eac5277a0a1eebbf896091deed7af3aca54861ed796caaa020",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Dubaj to nie tylko luksus i wie\u017cowce. Ta atrakcja zaskakuje",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "7079",
+      "domain": "fakt.pl",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.fakt.pl/rozrywka",
+      "depth": 3,
+      "parent_url": "https://www.fakt.pl/rozrywka/quizy/szybki-quiz-z-poprawnej-polszczyzny-wyksztalceni-nie-powinni-miec-problemu/n6byxry",
+      "attempt": 33,
+      "timestamp": "2026-11-12T21:14:34.701736+00:00",
+      "final_url": "https://www.fakt.pl/rozrywka",
+      "status": 410,
+      "content_type": "",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 0,
+      "truncated": false,
+      "body_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "redirect_chain": [],
+      "html": false,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "7079",
+      "domain": "fakt.pl",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.fakt.pl/projekty-specjalne/trudny-quiz-z-jezyka-polskiego-pytamy-o-synonimy-1010-tylko-dla-geniuszy/9j8s7nm",
+      "depth": 2,
+      "parent_url": "https://www.fakt.pl/temat/quiz",
+      "attempt": 34,
+      "timestamp": "2026-11-12T21:14:34.914176+00:00",
+      "final_url": "https://www.fakt.pl/projekty-specjalne/trudny-quiz-z-jezyka-polskiego-pytamy-o-synonimy-1010-tylko-dla-geniuszy/9j8s7nm",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://*.ringpublishing.com https://*.ringieraxelspringer.dev https://blumen.palantirfoundry.de; report-uri https://events.ocdn.eu/v2/csp-report?_ac=events&_fv=www.fakt.pl::fakt_4_8_44"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 290177,
+      "truncated": false,
+      "body_sha256": "deb55e1a9c5926ed39bcd9eb28a9093de7c8c6d1fd085c85f769520684494c8e",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Trudny quiz z j\u0119zyka polskiego. Pytamy o synonimy. 10/10 tylko dla geniuszy",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "7079",
+      "domain": "fakt.pl",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.fakt.pl/informacyjne",
+      "depth": 2,
+      "parent_url": "https://www.fakt.pl/informacyjne/fakt-redakcja/ghzdbwk",
+      "attempt": 35,
+      "timestamp": "2026-11-12T21:14:35.749893+00:00",
+      "final_url": "https://www.fakt.pl/informacyjne",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://*.ringpublishing.com https://*.ringieraxelspringer.dev https://blumen.palantirfoundry.de; report-uri https://events.ocdn.eu/v2/csp-report?_ac=events&_fv=www.fakt.pl::fakt_4_8_44"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 206267,
+      "truncated": false,
+      "body_sha256": "63fa1f84455f268f2c4bc9380f5b16fa87e82a73813e515a287bfc1e652a7268",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Informacyjne - najnowsze wiadomo\u015bci - Fakt.pl",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "7079",
+      "domain": "fakt.pl",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.fakt.pl/archiwum/2026-11-02",
+      "depth": 2,
+      "parent_url": "https://www.fakt.pl/mapa-serwisu",
+      "attempt": 36,
+      "timestamp": "2026-11-12T21:14:36.320894+00:00",
+      "final_url": "https://www.fakt.pl/archiwum/2026-11-02",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://*.ringpublishing.com https://*.ringieraxelspringer.dev https://blumen.palantirfoundry.de; report-uri https://events.ocdn.eu/v2/csp-report?_ac=events&_fv=www.fakt.pl::fakt_4_8_44"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 215197,
+      "truncated": false,
+      "body_sha256": "96f8179d3a2d771a33966616033730264a153808a77814a4023afc65321a62a2",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "2 lis 2026 | Archiwum - Fakt.pl \u2013 Wiadomo\u015bci, Wydarzenia, Informacje",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "7079",
+      "domain": "fakt.pl",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.fakt.pl/",
+      "depth": 1,
+      "parent_url": "https://www.fakt.pl/",
+      "attempt": 37,
+      "timestamp": "2026-11-12T21:14:37.865247+00:00",
+      "final_url": "https://www.fakt.pl/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://*.ringpublishing.com https://*.ringieraxelspringer.dev https://blumen.palantirfoundry.de; report-uri https://events.ocdn.eu/v2/csp-report?_ac=events&_fv=www.fakt.pl::fakt_4_8_44"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 275378,
+      "truncated": false,
+      "body_sha256": "77c97bcef708a9793a699b37acec9190828341d9cf55b8d773ee01884cc32aee",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Fakt.pl \u2013 Wiadomo\u015bci, Wydarzenia, Informacje",
+      "duplicate_final": true,
+      "eligible": false
+    },
+    {
+      "rank": "7079",
+      "domain": "fakt.pl",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.fakt.pl/facet/przeszczep-wlosow-w-turcji-ile-kosztuje-cena-2026/wscx6ym",
+      "depth": 2,
+      "parent_url": "https://www.fakt.pl/facet",
+      "attempt": 38,
+      "timestamp": "2026-11-12T21:14:38.132416+00:00",
+      "final_url": "https://www.fakt.pl/facet/przeszczep-wlosow-w-turcji-ile-kosztuje-cena-2026/wscx6ym",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://*.ringpublishing.com https://*.ringieraxelspringer.dev https://blumen.palantirfoundry.de; report-uri https://events.ocdn.eu/v2/csp-report?_ac=events&_fv=www.fakt.pl::fakt_4_8_44"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 243717,
+      "truncated": false,
+      "body_sha256": "a91d1689d56a555a167a401bb26d9ab3de5652573a47e5da57fe52d145952e26",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Przeszczep w\u0142os\u00f3w w Turcji. Ile kosztuje? Cena 2026",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "7079",
+      "domain": "fakt.pl",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.fakt.pl/wydarzenia/polska/bialystok/matka-prawie-zaglodzila-swojego-syna-zakonczyl-sie-proces-apelacyjny/1pxkbtl",
+      "depth": 4,
+      "parent_url": "https://www.fakt.pl/autorzy/piotr-wierzbicki",
+      "attempt": 39,
+      "timestamp": "2026-11-12T21:14:38.895147+00:00",
+      "final_url": "https://www.fakt.pl/wydarzenia/polska/bialystok/matka-prawie-zaglodzila-swojego-syna-zakonczyl-sie-proces-apelacyjny/1pxkbtl",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://*.ringpublishing.com https://*.ringieraxelspringer.dev https://blumen.palantirfoundry.de; report-uri https://events.ocdn.eu/v2/csp-report?_ac=events&_fv=www.fakt.pl::fakt_4_8_44"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 277230,
+      "truncated": false,
+      "body_sha256": "e2a72cbe51268587697a0311873139789d70670e42156f40233c36ff53e99422",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Matka prawie zag\u0142odzi\u0142a swojego syna. Zako\u0144czy\u0142 si\u0119 proces apelacyjny",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "7079",
+      "domain": "fakt.pl",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.fakt.pl/pieniadze/motoryzacja/opony-zimowe-jak-wybrac-najlepsze/3jfrtnr",
+      "depth": 5,
+      "parent_url": "https://www.fakt.pl/pieniadze/kiedy-najlepiej-zmienic-opony-na-zimowe-eksperci-nie-maja-watpliwosci/88b6x9y",
+      "attempt": 40,
+      "timestamp": "2026-11-12T21:14:39.185808+00:00",
+      "final_url": "https://www.fakt.pl/pieniadze/motoryzacja/opony-zimowe-jak-wybrac-najlepsze/3jfrtnr",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://*.ringpublishing.com https://*.ringieraxelspringer.dev https://blumen.palantirfoundry.de; report-uri https://events.ocdn.eu/v2/csp-report?_ac=events&_fv=www.fakt.pl::fakt_4_8_44"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 305973,
+      "truncated": false,
+      "body_sha256": "479f32a8764f668359e623d012cb8cfc831e03d5821654a425c20ca8dbf1b168",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Opony zimowe - jak wybra\u0107 najlepsze?",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "7079",
+      "domain": "fakt.pl",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.fakt.pl/polityka/kalendarium-zamachu-to-dzialo-sie-w-krakowie-minuta-po-minucie/z2r8k2g",
+      "depth": 4,
+      "parent_url": "https://www.fakt.pl/autorzy/piotr-wierzbicki",
+      "attempt": 41,
+      "timestamp": "2026-11-12T21:14:39.960601+00:00",
+      "final_url": "https://www.fakt.pl/polityka/kalendarium-zamachu-to-dzialo-sie-w-krakowie-minuta-po-minucie/z2r8k2g",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://*.ringpublishing.com https://*.ringieraxelspringer.dev https://blumen.palantirfoundry.de; report-uri https://events.ocdn.eu/v2/csp-report?_ac=events&_fv=www.fakt.pl::fakt_4_8_44"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 271791,
+      "truncated": false,
+      "body_sha256": "71006def2604560b752ec1300a4274a40cd280da39cfc6f6d184bf2c03be78dd",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Kalendarium zamachu. To dzia\u0142o si\u0119 w Krakowie minuta po minucie",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "7079",
+      "domain": "fakt.pl",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.fakt.pl/temat/opony",
+      "depth": 5,
+      "parent_url": "https://www.fakt.pl/pieniadze/kiedy-najlepiej-zmienic-opony-na-zimowe-eksperci-nie-maja-watpliwosci/88b6x9y",
+      "attempt": 42,
+      "timestamp": "2026-11-12T21:14:40.245431+00:00",
+      "final_url": "https://www.fakt.pl/temat/opony",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://*.ringpublishing.com https://*.ringieraxelspringer.dev https://blumen.palantirfoundry.de; report-uri https://events.ocdn.eu/v2/csp-report?_ac=events&_fv=www.fakt.pl::fakt_4_8_44"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 224191,
+      "truncated": false,
+      "body_sha256": "a7540981e02e0570bdff6343e6eea9e1fe27924d96a6a3ef25edc768a793625a",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "opony - wiadomo\u015bci, informacje, zdj\u0119cia",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "7079",
+      "domain": "fakt.pl",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.fakt.pl/bezpieczenstwo/sprawdz-czy-twoje-dane-sa-bezpieczne-10-krokow-cyberhigieny/b3cb3cc",
+      "depth": 4,
+      "parent_url": "https://www.fakt.pl/bezpieczenstwo",
+      "attempt": 43,
+      "timestamp": "2026-11-12T21:14:41.180017+00:00",
+      "final_url": "https://www.fakt.pl/bezpieczenstwo/sprawdz-czy-twoje-dane-sa-bezpieczne-10-krokow-cyberhigieny/b3cb3cc",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://*.ringpublishing.com https://*.ringieraxelspringer.dev https://blumen.palantirfoundry.de; report-uri https://events.ocdn.eu/v2/csp-report?_ac=events&_fv=www.fakt.pl::fakt_4_8_44"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 289826,
+      "truncated": false,
+      "body_sha256": "b0c4085d1a14399c9cec8d967c0e36e39fd71cde610e2c609981d476b02fb6bd",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Sprawd\u017a, czy Twoje dane s\u0105 bezpieczne. 10 krok\u00f3w cyberhigieny",
+      "duplicate_final": false,
+      "eligible": true
+    }
+  ],
+  "robots": [
+    {
+      "url": "https://fakt.pl/robots.txt",
+      "timestamp": "2026-11-12T21:14:13.661698+00:00",
+      "status": 200,
+      "decision": "parsed",
+      "final_url": "https://www.fakt.pl/robots.txt",
+      "redirect_chain": [
+        {
+          "url": "https://fakt.pl/robots.txt",
+          "status": 301,
+          "location": "https://www.fakt.pl/robots.txt"
+        }
+      ],
+      "body_sha256": "f2ef7dfe61e9aed1d401b39f492028961d1c839827f5bb79f6ec9e2316329ca5",
+      "body": "User-agent: *\nDisallow: /kodyrabatowe/przejdz-do-kuponow/\nDisallow: /kodyrabatowe/search?query=*\nDisallow: /user-session-proxy/\nDisallow: /a8f4d8cd95e164917035b64b867a45*\nDisallow: /paywall*\nDisallow: /partials/*\nDisallow: /*?fbclid=\nDisallow: /*?fb_comment_id=\nDisallow: /szukaj?\nDisallow: /subskrypcja?\nDisallow: /*?utm_aureus=*\nDisallow: /*?block=externalContent&position=*\nDisallow: /*?ajax=1\nDisallow: /archiwum/*\nDisallow: /__acc/\nDisallow: /_cdf/\nDisallow: /_variant/\nDisallow: /a8f4d8cd95e164917035b64b867a45dd\n\nUser-agent: cohere-ai\nDisallow: /\n\nUser-agent: meta-externalagent\nDisallow: /\n\nUser-agent: Amazonbot\nDisallow: /\n\nUser-agent: Bytespider\nDisallow: /\n\nUser-agent: Ai2Bot-Dolma\nDisallow: /\n\nUser-agent: Timpibot\nDisallow: /\n\nUser-agent: omgilibot\nDisallow: /\n\nUser-agent: Amzn-User\nDisallow: /\n\nUser-agent: Diffbot\nDisallow: /\n\nUser-agent: Diffbot-User\nDisallow: /\n\nUser-agent: DataForSeoBot\nDisallow: /\n\nUser-agent: Amzn-SearchBot\nDisallow: /\n\nUser-agent: meta-webindexer\nDisallow: /\n\nUser-agent: YouBot\nDisallow: /"
+    },
+    {
+      "url": "https://www.fakt.pl/robots.txt",
+      "timestamp": "2026-11-12T21:14:14.775098+00:00",
+      "status": 200,
+      "decision": "parsed",
+      "final_url": "https://www.fakt.pl/robots.txt",
+      "redirect_chain": [],
+      "body_sha256": "f2ef7dfe61e9aed1d401b39f492028961d1c839827f5bb79f6ec9e2316329ca5",
+      "body": "User-agent: *\nDisallow: /kodyrabatowe/przejdz-do-kuponow/\nDisallow: /kodyrabatowe/search?query=*\nDisallow: /user-session-proxy/\nDisallow: /a8f4d8cd95e164917035b64b867a45*\nDisallow: /paywall*\nDisallow: /partials/*\nDisallow: /*?fbclid=\nDisallow: /*?fb_comment_id=\nDisallow: /szukaj?\nDisallow: /subskrypcja?\nDisallow: /*?utm_aureus=*\nDisallow: /*?block=externalContent&position=*\nDisallow: /*?ajax=1\nDisallow: /archiwum/*\nDisallow: /__acc/\nDisallow: /_cdf/\nDisallow: /_variant/\nDisallow: /a8f4d8cd95e164917035b64b867a45dd\n\nUser-agent: cohere-ai\nDisallow: /\n\nUser-agent: meta-externalagent\nDisallow: /\n\nUser-agent: Amazonbot\nDisallow: /\n\nUser-agent: Bytespider\nDisallow: /\n\nUser-agent: Ai2Bot-Dolma\nDisallow: /\n\nUser-agent: Timpibot\nDisallow: /\n\nUser-agent: omgilibot\nDisallow: /\n\nUser-agent: Amzn-User\nDisallow: /\n\nUser-agent: Diffbot\nDisallow: /\n\nUser-agent: Diffbot-User\nDisallow: /\n\nUser-agent: DataForSeoBot\nDisallow: /\n\nUser-agent: Amzn-SearchBot\nDisallow: /\n\nUser-agent: meta-webindexer\nDisallow: /\n\nUser-agent: YouBot\nDisallow: /"
+    }
+  ],
+  "eligible_pages": 40,
+  "canonical_origin": [
+    "https",
+    "www.fakt.pl",
+    443
+  ],
+  "stop_reason": "page_budget",
+  "elapsed_seconds": 29.12
+}

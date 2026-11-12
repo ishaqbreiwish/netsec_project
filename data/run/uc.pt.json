@@ -1,0 +1,84 @@
+{
+  "site": {
+    "rank": "9637",
+    "domain": "uc.pt",
+    "stratum": "1001-10000"
+  },
+  "rows": [
+    {
+      "rank": "9637",
+      "domain": "uc.pt",
+      "stratum": "1001-10000",
+      "requested_url": "https://uc.pt/",
+      "depth": 0,
+      "parent_url": "",
+      "attempt": 1,
+      "timestamp": "2026-11-12T21:14:45.384956+00:00",
+      "final_url": "https://www.uc.pt/",
+      "status": 403,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 2182,
+      "truncated": false,
+      "body_sha256": "c7fe213534883f77a537090a8d23e1f77084a3b5b2108100fde660a7107d86a0",
+      "redirect_chain": [
+        {
+          "url": "https://uc.pt/",
+          "status": 301,
+          "location": "https://www.uc.pt/",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": []
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    }
+  ],
+  "robots": [
+    {
+      "url": "https://uc.pt/robots.txt",
+      "timestamp": "2026-11-12T21:14:44.074441+00:00",
+      "status": 200,
+      "decision": "parsed",
+      "final_url": "https://www.uc.pt/robots.txt",
+      "redirect_chain": [
+        {
+          "url": "https://uc.pt/robots.txt",
+          "status": 301,
+          "location": "https://www.uc.pt/robots.txt"
+        }
+      ],
+      "body_sha256": "83f2baf700b79f233adc134c4cd01f0a0eac889b86555065f6c82326914d5379",
+      "body": "User-agent: *\nDisallow: /portaluclab/portal/?\nDisallow: /portaluclab/estruturas/*?\nDisallow: /*?q=\nDisallow: /*&q=\n"
+    },
+    {
+      "url": "https://www.uc.pt/robots.txt",
+      "timestamp": "2026-11-12T21:14:45.384937+00:00",
+      "status": 200,
+      "decision": "parsed",
+      "final_url": "https://www.uc.pt/robots.txt",
+      "redirect_chain": [],
+      "body_sha256": "83f2baf700b79f233adc134c4cd01f0a0eac889b86555065f6c82326914d5379",
+      "body": "User-agent: *\nDisallow: /portaluclab/portal/?\nDisallow: /portaluclab/estruturas/*?\nDisallow: /*?q=\nDisallow: /*&q=\n"
+    }
+  ],
+  "eligible_pages": 0,
+  "canonical_origin": [
+    "https",
+    "www.uc.pt",
+    443
+  ],
+  "stop_reason": "frontier_exhausted",
+  "elapsed_seconds": 3.9
+}

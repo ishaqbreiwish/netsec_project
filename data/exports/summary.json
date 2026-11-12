@@ -1,0 +1,88 @@
+{
+  "measured_domains": 150,
+  "attempted_pages": 2287,
+  "eligible_pages": 1777,
+  "domains_with_eligible_homepage": 61,
+  "review_excluded_pages": 26,
+  "comparable_domains": 51,
+  "domains_with_40_pages": 35,
+  "errors": {
+    "robots_denied": 82,
+    "redirect_out_of_scope": 52,
+    "timeout": 3,
+    "redirect_limit": 1,
+    "InvalidURL": 1,
+    "IncompleteRead": 1
+  },
+  "http_statuses": {
+    "403": 170,
+    "": 88,
+    "200": 1953,
+    "301": 27,
+    "404": 20,
+    "302": 14,
+    "303": 2,
+    "308": 8,
+    "525": 1,
+    "410": 3,
+    "307": 1
+  },
+  "strata": {
+    "1-100": {
+      "sampled": 50,
+      "eligible_homepage": 13,
+      "comparable": 11,
+      "eligible_pages": 404
+    },
+    "1001-10000": {
+      "sampled": 50,
+      "eligible_homepage": 22,
+      "comparable": 16,
+      "eligible_pages": 583
+    },
+    "101-1000": {
+      "sampled": 50,
+      "eligible_homepage": 26,
+      "comparable": 24,
+      "eligible_pages": 790
+    }
+  },
+  "headers": {
+    "csp": {
+      "eligible_page_denominator": 1777,
+      "pages_present": 884,
+      "eligible_homepage_denominator": 61,
+      "homepages_present": 31,
+      "comparable_domain_denominator": 51,
+      "presence_mismatch": 3,
+      "raw_mismatch": 12,
+      "normalized_mismatch": 11,
+      "home_present_interior_absent": 3,
+      "home_absent_interior_present": 0
+    },
+    "csp_report_only": {
+      "eligible_page_denominator": 1777,
+      "pages_present": 315,
+      "eligible_homepage_denominator": 61,
+      "homepages_present": 11,
+      "comparable_domain_denominator": 51,
+      "presence_mismatch": 2,
+      "raw_mismatch": 5,
+      "normalized_mismatch": 5,
+      "home_present_interior_absent": 1,
+      "home_absent_interior_present": 1
+    },
+    "hsts": {
+      "eligible_page_denominator": 1777,
+      "pages_present": 1340,
+      "eligible_homepage_denominator": 61,
+      "homepages_present": 43,
+      "comparable_domain_denominator": 51,
+      "presence_mismatch": 4,
+      "raw_mismatch": 7,
+      "normalized_mismatch": 6,
+      "home_present_interior_absent": 1,
+      "home_absent_interior_present": 3
+    }
+  }
+}

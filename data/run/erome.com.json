@@ -1,0 +1,1546 @@
+{
+  "site": {
+    "rank": "829",
+    "domain": "erome.com",
+    "stratum": "101-1000"
+  },
+  "rows": [
+    {
+      "rank": "829",
+      "domain": "erome.com",
+      "stratum": "101-1000",
+      "requested_url": "https://erome.com/",
+      "depth": 0,
+      "parent_url": "",
+      "attempt": 1,
+      "timestamp": "2026-11-12T21:13:03.403575+00:00",
+      "final_url": "https://www.erome.com/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains;"
+        ]
+      },
+      "body_bytes": 23506,
+      "truncated": false,
+      "body_sha256": "b391f0e3f9cda2818ba2a6f369e4db862ffb76638411aca41236bb4552ec3594",
+      "redirect_chain": [
+        {
+          "url": "https://erome.com/",
+          "status": 301,
+          "location": "https://www.erome.com/",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=63072000; includeSubDomains;"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "EroMe - Porn Video & Photo Sharing",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "829",
+      "domain": "erome.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.erome.com/explore",
+      "depth": 1,
+      "parent_url": "https://www.erome.com/",
+      "attempt": 2,
+      "timestamp": "2026-11-12T21:13:03.759257+00:00",
+      "final_url": "https://www.erome.com/explore",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains;"
+        ]
+      },
+      "body_bytes": 219679,
+      "truncated": false,
+      "body_sha256": "b4c744ea37c9e123bc3a5c28f8a1604c64f933fb149daf8dde27daefef77d74c",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Home - Free Porn Video & Photo - EroMe",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "829",
+      "domain": "erome.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.erome.com/version/all",
+      "depth": 2,
+      "parent_url": "https://www.erome.com/explore",
+      "attempt": 3,
+      "timestamp": "2026-11-12T21:13:04.975857+00:00",
+      "final_url": "https://www.erome.com/explore",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains;"
+        ]
+      },
+      "body_bytes": 219679,
+      "truncated": false,
+      "body_sha256": "74e94a4ac6f4916501d885c3021f24546ebd3e93b1899bd8236ed1822cb44264",
+      "redirect_chain": [
+        {
+          "url": "https://www.erome.com/version/all",
+          "status": 302,
+          "location": "https://www.erome.com/explore",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=63072000; includeSubDomains;"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Home - Free Porn Video & Photo - EroMe",
+      "duplicate_final": true,
+      "eligible": false
+    },
+    {
+      "rank": "829",
+      "domain": "erome.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.erome.com/s/faq",
+      "depth": 1,
+      "parent_url": "https://www.erome.com/",
+      "attempt": 4,
+      "timestamp": "2026-11-12T21:13:05.678777+00:00",
+      "final_url": "https://www.erome.com/s/faq",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains;"
+        ]
+      },
+      "body_bytes": 71835,
+      "truncated": false,
+      "body_sha256": "ef36a8e44dd3911e8fab5896d6d325964bbbbb585eed908a64228258562ef435",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "EroMe - Porn Video & Photo Sharing",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "829",
+      "domain": "erome.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.erome.com/o/menu-av-1",
+      "depth": 2,
+      "parent_url": "https://www.erome.com/explore",
+      "attempt": 5,
+      "timestamp": "2026-11-12T21:13:06.118852+00:00",
+      "final_url": "https://www.erome.com/o/menu-av-1",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains;"
+        ]
+      },
+      "body_bytes": 916,
+      "truncated": false,
+      "body_sha256": "bad7b961946901a16c76fd1be38406553106dc58aa69e143ef68adfeda64d9d1",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "EroMe - Porn Video & Photo Sharing",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "829",
+      "domain": "erome.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.erome.com/a/Kizwm3I4",
+      "depth": 2,
+      "parent_url": "https://www.erome.com/explore",
+      "attempt": 6,
+      "timestamp": "2026-11-12T21:13:06.555706+00:00",
+      "final_url": "https://www.erome.com/a/Kizwm3I4",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains;"
+        ]
+      },
+      "body_bytes": 125126,
+      "truncated": false,
+      "body_sha256": "31db06fab437b554a42246d3d7f390b95f132062a92865e8662cbfba615f3f9b",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Sleeping chubby wife gets her wet pussy penetrated - EroMe",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "829",
+      "domain": "erome.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.erome.com/Bull5018-2",
+      "depth": 3,
+      "parent_url": "https://www.erome.com/a/Kizwm3I4",
+      "attempt": 7,
+      "timestamp": "2026-11-12T21:13:07.210184+00:00",
+      "final_url": "https://www.erome.com/Bull5018-2",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains;"
+        ]
+      },
+      "body_bytes": 185946,
+      "truncated": false,
+      "body_sha256": "a98f3dd9efeb1b5d0a10ab25473106d4a36c8fc586e6f8f99d5a4bfa05b331e3",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Bull5018-2 - Profile page - EroMe",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "829",
+      "domain": "erome.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.erome.com/Amateur_pawg_59",
+      "depth": 3,
+      "parent_url": "https://www.erome.com/a/Kizwm3I4",
+      "attempt": 8,
+      "timestamp": "2026-11-12T21:13:07.810169+00:00",
+      "final_url": "https://www.erome.com/Amateur_pawg_59",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains;"
+        ]
+      },
+      "body_bytes": 125094,
+      "truncated": false,
+      "body_sha256": "59e4eb2932b1875e48b6e4d463a8a07e692dedf3cfc52bef90091b6122864758",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Amateur_pawg_59 - Profile page - EroMe",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "829",
+      "domain": "erome.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.erome.com/user/creators",
+      "depth": 2,
+      "parent_url": "https://www.erome.com/s/faq",
+      "attempt": 9,
+      "timestamp": "2026-11-12T21:13:08.672510+00:00",
+      "final_url": "https://www.erome.com/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains;"
+        ]
+      },
+      "body_bytes": 23506,
+      "truncated": false,
+      "body_sha256": "abe53008839ac87a0322fca247c950766f33cc3f55341448cd3279f6e8c24189",
+      "redirect_chain": [
+        {
+          "url": "https://www.erome.com/user/creators",
+          "status": 302,
+          "location": "https://www.erome.com",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=63072000; includeSubDomains;"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "EroMe - Porn Video & Photo Sharing",
+      "duplicate_final": true,
+      "eligible": false
+    },
+    {
+      "rank": "829",
+      "domain": "erome.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.erome.com/a/Yko2zCSZ",
+      "depth": 4,
+      "parent_url": "https://www.erome.com/Bull5018-2",
+      "attempt": 10,
+      "timestamp": "2026-11-12T21:13:09.206008+00:00",
+      "final_url": "https://www.erome.com/a/Yko2zCSZ",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains;"
+        ]
+      },
+      "body_bytes": 280464,
+      "truncated": false,
+      "body_sha256": "a4c0428828291884009a1664edd89b51390b55def7ea124732cc6d26032a4ced",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Non assuming MILF takes horse cock daily. The reshaped cunt on...",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "829",
+      "domain": "erome.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.erome.com/Blunkin",
+      "depth": 5,
+      "parent_url": "https://www.erome.com/a/Yko2zCSZ",
+      "attempt": 11,
+      "timestamp": "2026-11-12T21:13:09.870921+00:00",
+      "final_url": "https://www.erome.com/Blunkin",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains;"
+        ]
+      },
+      "body_bytes": 317847,
+      "truncated": false,
+      "body_sha256": "5c4e5008127f008326f52e0e0dd206dd8bb0c4d9e200b54fe57a934e58ce010b",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Blunkin - Profile page - EroMe",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "829",
+      "domain": "erome.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.erome.com/RuhRohRaggy99",
+      "depth": 5,
+      "parent_url": "https://www.erome.com/a/Yko2zCSZ",
+      "attempt": 12,
+      "timestamp": "2026-11-12T21:13:10.420155+00:00",
+      "final_url": "https://www.erome.com/RuhRohRaggy99",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains;"
+        ]
+      },
+      "body_bytes": 80057,
+      "truncated": false,
+      "body_sha256": "bdc5803a27b96369b865bac262a3d57af5c84eba00285844340fd8627a3d2405",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "RuhRohRaggy99 - Profile page - EroMe",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "829",
+      "domain": "erome.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.erome.com/LostInMichigan",
+      "depth": 5,
+      "parent_url": "https://www.erome.com/a/Yko2zCSZ",
+      "attempt": 13,
+      "timestamp": "2026-11-12T21:13:10.939091+00:00",
+      "final_url": "https://www.erome.com/LostInMichigan",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains;"
+        ]
+      },
+      "body_bytes": 114187,
+      "truncated": false,
+      "body_sha256": "38dd95c02faf2e13ccdc0c7afc9f41390b8d7c0f0ea1e2fd972db567485803a1",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "LostInMichigan - Profile page - EroMe",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "829",
+      "domain": "erome.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.erome.com/NEhotwifenhub69",
+      "depth": 5,
+      "parent_url": "https://www.erome.com/a/Yko2zCSZ",
+      "attempt": 14,
+      "timestamp": "2026-11-12T21:13:11.405787+00:00",
+      "final_url": "https://www.erome.com/NEhotwifenhub69",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains;"
+        ]
+      },
+      "body_bytes": 240692,
+      "truncated": false,
+      "body_sha256": "ffae9d08a1dff0f5007e4f25020eca0f99dce61fbb1d8afddf78a1aa2dd66d6e",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "NEhotwifenhub69 - Profile page - EroMe",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "829",
+      "domain": "erome.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.erome.com/Jonesman19tch87",
+      "depth": 5,
+      "parent_url": "https://www.erome.com/a/Yko2zCSZ",
+      "attempt": 15,
+      "timestamp": "2026-11-12T21:13:12.084038+00:00",
+      "final_url": "https://www.erome.com/Jonesman19tch87",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains;"
+        ]
+      },
+      "body_bytes": 72461,
+      "truncated": false,
+      "body_sha256": "acc45d6b63d0b42cad9cc851b0b329593e5d517f61042f9c1c4dcde4d63089b7",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Jonesman19tch87 - Profile page - EroMe",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "829",
+      "domain": "erome.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.erome.com/so_close",
+      "depth": 5,
+      "parent_url": "https://www.erome.com/a/Yko2zCSZ",
+      "attempt": 16,
+      "timestamp": "2026-11-12T21:13:12.531913+00:00",
+      "final_url": "https://www.erome.com/so_close",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains;"
+        ]
+      },
+      "body_bytes": 202160,
+      "truncated": false,
+      "body_sha256": "67978471c1a774b4e3fbc0ac1d1a118be1fc6ae9be2ee8d0771a6593e1d5e98e",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "so_close - Profile page - EroMe",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "829",
+      "domain": "erome.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.erome.com/Donmega1323",
+      "depth": 5,
+      "parent_url": "https://www.erome.com/a/Yko2zCSZ",
+      "attempt": 17,
+      "timestamp": "2026-11-12T21:13:13.182303+00:00",
+      "final_url": "https://www.erome.com/Donmega1323",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains;"
+        ]
+      },
+      "body_bytes": 174684,
+      "truncated": false,
+      "body_sha256": "1b45c9b48ffb28e767e4af7574b7c3d174e70bb6d205ea9da4f7efbd3cf32a21",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Donmega1323 - Profile page - EroMe",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "829",
+      "domain": "erome.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.erome.com/s/terms",
+      "depth": 1,
+      "parent_url": "https://www.erome.com/",
+      "attempt": 18,
+      "timestamp": "2026-11-12T21:13:13.905507+00:00",
+      "final_url": "https://www.erome.com/s/terms",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains;"
+        ]
+      },
+      "body_bytes": 73068,
+      "truncated": false,
+      "body_sha256": "42fb87e5e48c376451cecac6ceb7e82408b9f7544b50d03309d629750d75d401",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "EroMe - Porn Video & Photo Sharing",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "829",
+      "domain": "erome.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.erome.com/version/straight",
+      "depth": 2,
+      "parent_url": "https://www.erome.com/explore",
+      "attempt": 19,
+      "timestamp": "2026-11-12T21:13:15.216749+00:00",
+      "final_url": "https://www.erome.com/explore",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains;"
+        ]
+      },
+      "body_bytes": 219682,
+      "truncated": false,
+      "body_sha256": "acd83722e47091dc6b58c8f3115376b4971a647a71d231d6953416aef9343bc4",
+      "redirect_chain": [
+        {
+          "url": "https://www.erome.com/version/straight",
+          "status": 302,
+          "location": "https://www.erome.com/explore",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=63072000; includeSubDomains;"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Home - Free Porn Video & Photo - EroMe",
+      "duplicate_final": true,
+      "eligible": false
+    },
+    {
+      "rank": "829",
+      "domain": "erome.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.erome.com/",
+      "depth": 2,
+      "parent_url": "https://www.erome.com/explore",
+      "attempt": 20,
+      "timestamp": "2026-11-12T21:13:16.360545+00:00",
+      "final_url": "https://www.erome.com/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains;"
+        ]
+      },
+      "body_bytes": 23506,
+      "truncated": false,
+      "body_sha256": "8e255992666aa910375934604b4f52373fb87f623b44278e7c14fdeb11a53f15",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "EroMe - Porn Video & Photo Sharing",
+      "duplicate_final": true,
+      "eligible": false
+    },
+    {
+      "rank": "829",
+      "domain": "erome.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.erome.com/explore/new",
+      "depth": 2,
+      "parent_url": "https://www.erome.com/explore",
+      "attempt": 21,
+      "timestamp": "2026-11-12T21:13:17.285298+00:00",
+      "final_url": "https://www.erome.com/explore/new",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains;"
+        ]
+      },
+      "body_bytes": 185393,
+      "truncated": false,
+      "body_sha256": "dbb261a9abb5f4d63989d223b20dcd5ee1fcd6e7aec9504763de03105398918a",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "New - Free Porn Video & Photo - EroMe",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "829",
+      "domain": "erome.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.erome.com/a/pwAVf6tb",
+      "depth": 4,
+      "parent_url": "https://www.erome.com/Bull5018-2",
+      "attempt": 22,
+      "timestamp": "2026-11-12T21:13:18.611622+00:00",
+      "final_url": "https://www.erome.com/a/pwAVf6tb",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains;"
+        ]
+      },
+      "body_bytes": 132054,
+      "truncated": false,
+      "body_sha256": "1105159dd9509fba1c3251969a038d2cfe90225f7d3cde4a1decc82e4a51aa41",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Pawg wife mounts a horse cock and rides it - Porn - EroMe",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "829",
+      "domain": "erome.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.erome.com/Dannyfree69",
+      "depth": 5,
+      "parent_url": "https://www.erome.com/a/pwAVf6tb",
+      "attempt": 23,
+      "timestamp": "2026-11-12T21:13:19.466778+00:00",
+      "final_url": "https://www.erome.com/Dannyfree69",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains;"
+        ]
+      },
+      "body_bytes": 115601,
+      "truncated": false,
+      "body_sha256": "32852399332e895be682d34a93c5f39460d77541324dceae0a4a021c39da28eb",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Dannyfree69 - Profile page - EroMe",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "829",
+      "domain": "erome.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.erome.com/DanishmalelookingforDanishwomen",
+      "depth": 5,
+      "parent_url": "https://www.erome.com/a/pwAVf6tb",
+      "attempt": 24,
+      "timestamp": "2026-11-12T21:13:19.942095+00:00",
+      "final_url": "https://www.erome.com/DanishmalelookingforDanishwomen",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains;"
+        ]
+      },
+      "body_bytes": 178301,
+      "truncated": false,
+      "body_sha256": "5c61b000d5b4788daa8043348c805e500566dcf0464f9dfdf001dc657c406130",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "DanishmalelookingforDanishwomen - Profile page - EroMe",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "829",
+      "domain": "erome.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.erome.com/gumbo3211",
+      "depth": 5,
+      "parent_url": "https://www.erome.com/a/pwAVf6tb",
+      "attempt": 25,
+      "timestamp": "2026-11-12T21:13:20.543372+00:00",
+      "final_url": "https://www.erome.com/gumbo3211",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains;"
+        ]
+      },
+      "body_bytes": 258590,
+      "truncated": false,
+      "body_sha256": "441196870ee6703ed8e2911476633ed0059bf2e07d2aef7057b64156720e2054",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "gumbo3211 - Profile page - EroMe",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "829",
+      "domain": "erome.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.erome.com/Arabbro",
+      "depth": 5,
+      "parent_url": "https://www.erome.com/a/pwAVf6tb",
+      "attempt": 26,
+      "timestamp": "2026-11-12T21:13:21.253918+00:00",
+      "final_url": "https://www.erome.com/Arabbro",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains;"
+        ]
+      },
+      "body_bytes": 152933,
+      "truncated": false,
+      "body_sha256": "0cec4f360c4eafb61beb7a6662fc423adab61331fc3ac5229f544326905841ab",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Arabbro - Profile page - EroMe",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "829",
+      "domain": "erome.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.erome.com/s/report",
+      "depth": 1,
+      "parent_url": "https://www.erome.com/",
+      "attempt": 27,
+      "timestamp": "2026-11-12T21:13:21.645797+00:00",
+      "final_url": "https://www.erome.com/s/report",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains;"
+        ]
+      },
+      "body_bytes": 71934,
+      "truncated": false,
+      "body_sha256": "897374e90761fee29396f475245e5a52f6b3b4befbe49df4a0da8401b7939832",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "EroMe - Porn Video & Photo Sharing",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "829",
+      "domain": "erome.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.erome.com/version/trans",
+      "depth": 2,
+      "parent_url": "https://www.erome.com/explore",
+      "attempt": 28,
+      "timestamp": "2026-11-12T21:13:22.490672+00:00",
+      "final_url": "https://www.erome.com/explore",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains;"
+        ]
+      },
+      "body_bytes": 219682,
+      "truncated": false,
+      "body_sha256": "f5def56c9b7e883bf07f8515cec3e01593489d653e2322cc10af7c1296ba9c9e",
+      "redirect_chain": [
+        {
+          "url": "https://www.erome.com/version/trans",
+          "status": 302,
+          "location": "https://www.erome.com/explore",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=63072000; includeSubDomains;"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Home - Free Porn Video & Photo - EroMe",
+      "duplicate_final": true,
+      "eligible": false
+    },
+    {
+      "rank": "829",
+      "domain": "erome.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.erome.com/a/37keGCDa",
+      "depth": 3,
+      "parent_url": "https://www.erome.com/a/Kizwm3I4",
+      "attempt": 29,
+      "timestamp": "2026-11-12T21:13:23.370392+00:00",
+      "final_url": "https://www.erome.com/a/37keGCDa",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains;"
+        ]
+      },
+      "body_bytes": 122130,
+      "truncated": false,
+      "body_sha256": "beed3b6866b3f0017cf9cf3db7e03686421465bf8a81c6601fc276b6b995bb76",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Another one of our first videos - her soft moans! - EroMe",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "829",
+      "domain": "erome.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.erome.com/s/creators",
+      "depth": 1,
+      "parent_url": "https://www.erome.com/",
+      "attempt": 30,
+      "timestamp": "2026-11-12T21:13:23.968896+00:00",
+      "final_url": "https://www.erome.com/s/creators",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains;"
+        ]
+      },
+      "body_bytes": 67357,
+      "truncated": false,
+      "body_sha256": "9f1a7adfa190eb5f016acce3c36f3c8dc347107bfdd8b2667c480a1cac39a8ca",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "EroMe - Porn Video & Photo Sharing",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "829",
+      "domain": "erome.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.erome.com/version/gay",
+      "depth": 2,
+      "parent_url": "https://www.erome.com/explore",
+      "attempt": 31,
+      "timestamp": "2026-11-12T21:13:24.669084+00:00",
+      "final_url": "https://www.erome.com/explore",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains;"
+        ]
+      },
+      "body_bytes": 219654,
+      "truncated": false,
+      "body_sha256": "cca637d8a608838e1cb1db908ece8d35d7b33b564ae8d25c9c4ae1f640bd2549",
+      "redirect_chain": [
+        {
+          "url": "https://www.erome.com/version/gay",
+          "status": 302,
+          "location": "https://www.erome.com/explore",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=63072000; includeSubDomains;"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Home - Free Porn Video & Photo - EroMe",
+      "duplicate_final": true,
+      "eligible": false
+    },
+    {
+      "rank": "829",
+      "domain": "erome.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.erome.com/a/47qgBtKv",
+      "depth": 4,
+      "parent_url": "https://www.erome.com/Bull5018-2",
+      "attempt": 32,
+      "timestamp": "2026-11-12T21:13:25.632732+00:00",
+      "final_url": "https://www.erome.com/a/47qgBtKv",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains;"
+        ]
+      },
+      "body_bytes": 151059,
+      "truncated": false,
+      "body_sha256": "7e21427d9aa3bb7f10f0c3448f2834310aafa0e7f6371680f9a81de239724b0a",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Louisiana HotWife - PMV - Porn Videos & Photos - EroMe",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "829",
+      "domain": "erome.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.erome.com/Tomanesku123",
+      "depth": 5,
+      "parent_url": "https://www.erome.com/a/47qgBtKv",
+      "attempt": 33,
+      "timestamp": "2026-11-12T21:13:26.100752+00:00",
+      "final_url": "https://www.erome.com/Tomanesku123",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains;"
+        ]
+      },
+      "body_bytes": 238219,
+      "truncated": false,
+      "body_sha256": "a825bb53d0f2f84006b9e75c181c95ed963638cd9dca44e7c039236465cb642c",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Tomanesku123 - Profile page - EroMe",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "829",
+      "domain": "erome.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.erome.com/mazerunner4000",
+      "depth": 5,
+      "parent_url": "https://www.erome.com/a/47qgBtKv",
+      "attempt": 34,
+      "timestamp": "2026-11-12T21:13:26.689695+00:00",
+      "final_url": "https://www.erome.com/mazerunner4000",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains;"
+        ]
+      },
+      "body_bytes": 227155,
+      "truncated": false,
+      "body_sha256": "08c79311825bf7875a8eb37fed3c60e85c385babc81229bff29b37e965c78ce6",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "mazerunner4000 - Profile page - EroMe",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "829",
+      "domain": "erome.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.erome.com/Mackdam",
+      "depth": 5,
+      "parent_url": "https://www.erome.com/a/47qgBtKv",
+      "attempt": 35,
+      "timestamp": "2026-11-12T21:13:27.191079+00:00",
+      "final_url": "https://www.erome.com/Mackdam",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains;"
+        ]
+      },
+      "body_bytes": 287302,
+      "truncated": false,
+      "body_sha256": "e425e7741003b08d7e0dc4518f977d6e64b4892636b6fab457e9cd07c639c320",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Mackdam - Profile page - EroMe",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "829",
+      "domain": "erome.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.erome.com/AmateurWifeCollector",
+      "depth": 5,
+      "parent_url": "https://www.erome.com/a/47qgBtKv",
+      "attempt": 36,
+      "timestamp": "2026-11-12T21:13:27.692893+00:00",
+      "final_url": "https://www.erome.com/AmateurWifeCollector",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains;"
+        ]
+      },
+      "body_bytes": 229699,
+      "truncated": false,
+      "body_sha256": "ae34b2afc2e73f1c0f7f4e8043c3d48d9c4addb8d09e797a658047d7f5cd692b",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "AmateurWifeCollector - Profile page - EroMe",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "829",
+      "domain": "erome.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.erome.com/s/contact",
+      "depth": 1,
+      "parent_url": "https://www.erome.com/",
+      "attempt": 37,
+      "timestamp": "2026-11-12T21:13:28.204207+00:00",
+      "final_url": "https://www.erome.com/s/contact",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains;"
+        ]
+      },
+      "body_bytes": 67052,
+      "truncated": false,
+      "body_sha256": "e56c48a811188ecb0605552c61b75aa3246af2f17f9622b2a2740a0ce8e297ed",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "EroMe - Porn Video & Photo Sharing",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "829",
+      "domain": "erome.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.erome.com/version/hentai",
+      "depth": 2,
+      "parent_url": "https://www.erome.com/explore",
+      "attempt": 38,
+      "timestamp": "2026-11-12T21:13:28.927263+00:00",
+      "final_url": "https://www.erome.com/explore",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains;"
+        ]
+      },
+      "body_bytes": 219654,
+      "truncated": false,
+      "body_sha256": "42e29d988a3de6a55d6b07ba6582e678232445b59091d474eaa403445a606714",
+      "redirect_chain": [
+        {
+          "url": "https://www.erome.com/version/hentai",
+          "status": 302,
+          "location": "https://www.erome.com/explore",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=63072000; includeSubDomains;"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Home - Free Porn Video & Photo - EroMe",
+      "duplicate_final": true,
+      "eligible": false
+    },
+    {
+      "rank": "829",
+      "domain": "erome.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.erome.com/a/GuYlmdwN",
+      "depth": 3,
+      "parent_url": "https://www.erome.com/a/Kizwm3I4",
+      "attempt": 39,
+      "timestamp": "2026-11-12T21:13:29.842769+00:00",
+      "final_url": "https://www.erome.com/a/GuYlmdwN",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains;"
+        ]
+      },
+      "body_bytes": 124924,
+      "truncated": false,
+      "body_sha256": "d42ffa00317aab992ede230b0f158cda3cd665ceac4b3501ff05cd92014e23b4",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "One of our very first videos - Porn Videos & Photos - EroMe",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "829",
+      "domain": "erome.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.erome.com/Dhrtoney",
+      "depth": 4,
+      "parent_url": "https://www.erome.com/a/GuYlmdwN",
+      "attempt": 40,
+      "timestamp": "2026-11-12T21:13:30.266609+00:00",
+      "final_url": "https://www.erome.com/Dhrtoney",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains;"
+        ]
+      },
+      "body_bytes": 184741,
+      "truncated": false,
+      "body_sha256": "82813f8159b7809d06787c18962f23384c79570ff85a1418c5fd3ea9dee67baf",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Dhrtoney - Profile page - EroMe",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "829",
+      "domain": "erome.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.erome.com/a/eiYvB0xr",
+      "depth": 3,
+      "parent_url": "https://www.erome.com/a/Kizwm3I4",
+      "attempt": 41,
+      "timestamp": "2026-11-12T21:13:30.908031+00:00",
+      "final_url": "https://www.erome.com/a/eiYvB0xr",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains;"
+        ]
+      },
+      "body_bytes": 125157,
+      "truncated": false,
+      "body_sha256": "89eca96e6e6db2f4fd6c4f3dc08f26b2267a7e305e0da28a9e471b0b209cb15e",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Show me those Mommy Titties - Porn Videos & Photos - EroMe",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "829",
+      "domain": "erome.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.erome.com/ohnodadwentnsfw",
+      "depth": 4,
+      "parent_url": "https://www.erome.com/a/eiYvB0xr",
+      "attempt": 42,
+      "timestamp": "2026-11-12T21:13:31.310111+00:00",
+      "final_url": "https://www.erome.com/ohnodadwentnsfw",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains;"
+        ]
+      },
+      "body_bytes": 79158,
+      "truncated": false,
+      "body_sha256": "dc1a4d2c3ddc1149a96d56238811d4aae6ed0231b46d4fb1c42bd76d95df6333",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "ohnodadwentnsfw - Profile page - EroMe",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "829",
+      "domain": "erome.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.erome.com/a/Pqjkd68Y",
+      "depth": 3,
+      "parent_url": "https://www.erome.com/a/Kizwm3I4",
+      "attempt": 43,
+      "timestamp": "2026-11-12T21:13:31.944197+00:00",
+      "final_url": "https://www.erome.com/a/Pqjkd68Y",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains;"
+        ]
+      },
+      "body_bytes": 120573,
+      "truncated": false,
+      "body_sha256": "0afb99175b4d3b8377f1988b8af4b02f5ff2b820f5d9721b7389eec17dabac58",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Morning sex in her favorite position - Porn - EroMe",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "829",
+      "domain": "erome.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.erome.com/Chrisj1977777",
+      "depth": 4,
+      "parent_url": "https://www.erome.com/a/Pqjkd68Y",
+      "attempt": 44,
+      "timestamp": "2026-11-12T21:13:32.366548+00:00",
+      "final_url": "https://www.erome.com/Chrisj1977777",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains;"
+        ]
+      },
+      "body_bytes": 72086,
+      "truncated": false,
+      "body_sha256": "59d1a2f54abb4c90cdac474203553b3bd532245496b013919200b2ab5bba103f",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Chrisj1977777 - Profile page - EroMe",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "829",
+      "domain": "erome.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.erome.com/a/gMGlvzbQ",
+      "depth": 3,
+      "parent_url": "https://www.erome.com/a/Kizwm3I4",
+      "attempt": 45,
+      "timestamp": "2026-11-12T21:13:33.013339+00:00",
+      "final_url": "https://www.erome.com/a/gMGlvzbQ",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains;"
+        ]
+      },
+      "body_bytes": 135217,
+      "truncated": false,
+      "body_sha256": "5b79fff182bfeea917c76c5c6e4f42df784667ecc15955897620c49e10a45691",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Sex Tape - Porn Videos & Photos - EroMe",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "829",
+      "domain": "erome.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.erome.com/Cali4niaGuy",
+      "depth": 4,
+      "parent_url": "https://www.erome.com/a/gMGlvzbQ",
+      "attempt": 46,
+      "timestamp": "2026-11-12T21:13:33.460944+00:00",
+      "final_url": "https://www.erome.com/Cali4niaGuy",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains;"
+        ]
+      },
+      "body_bytes": 154981,
+      "truncated": false,
+      "body_sha256": "7e3b819226a4caa4976b6ae831587fa0d8cdfca002d15e85f70d3270868873de",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Cali4niaGuy - Profile page - EroMe",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "829",
+      "domain": "erome.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.erome.com/Gideon22",
+      "depth": 4,
+      "parent_url": "https://www.erome.com/a/gMGlvzbQ",
+      "attempt": 47,
+      "timestamp": "2026-11-12T21:13:34.118526+00:00",
+      "final_url": "https://www.erome.com/Gideon22",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains;"
+        ]
+      },
+      "body_bytes": 84818,
+      "truncated": false,
+      "body_sha256": "4a31ca36490f14536e6c8d9417337309f49d3982599f16ebf873d9ad5c92103e",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Gideon22 - Profile page - EroMe",
+      "duplicate_final": false,
+      "eligible": true
+    }
+  ],
+  "robots": [
+    {
+      "url": "https://erome.com/robots.txt",
+      "timestamp": "2026-11-12T21:13:02.690542+00:00",
+      "status": 200,
+      "decision": "parsed",
+      "final_url": "https://www.erome.com/robots.txt",
+      "redirect_chain": [
+        {
+          "url": "https://erome.com/robots.txt",
+          "status": 301,
+          "location": "https://www.erome.com/robots.txt"
+        }
+      ],
+      "body_sha256": "4a64635387cd21687a780cd39ea4895268d06fd31f0adab84b2803ac9740a520",
+      "body": "User-agent: *\r\nDisallow: /cams/"
+    },
+    {
+      "url": "https://www.erome.com/robots.txt",
+      "timestamp": "2026-11-12T21:13:03.403508+00:00",
+      "status": 200,
+      "decision": "parsed",
+      "final_url": "https://www.erome.com/robots.txt",
+      "redirect_chain": [],
+      "body_sha256": "4a64635387cd21687a780cd39ea4895268d06fd31f0adab84b2803ac9740a520",
+      "body": "User-agent: *\r\nDisallow: /cams/"
+    }
+  ],
+  "eligible_pages": 40,
+  "canonical_origin": [
+    "https",
+    "www.erome.com",
+    443
+  ],
+  "stop_reason": "page_budget",
+  "elapsed_seconds": 32.59
+}

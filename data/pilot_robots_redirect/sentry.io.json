@@ -1,0 +1,1557 @@
+{
+  "site": {
+    "rank": "104",
+    "domain": "sentry.io",
+    "stratum": "101-1000"
+  },
+  "rows": [
+    {
+      "rank": "104",
+      "domain": "sentry.io",
+      "stratum": "101-1000",
+      "requested_url": "https://sentry.io/",
+      "depth": 0,
+      "parent_url": "",
+      "attempt": 1,
+      "timestamp": "2026-11-12T21:07:21.622612+00:00",
+      "final_url": "https://sentry.io/welcome/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests; default-src 'none'; script-src 'strict-dynamic' 'nonce-nmuisiciPJE3QO8gIhlNSflqdaZuJIgP' 'report-sample' 'self' 'unsafe-inline' 'unsafe-eval' *.sentry.dev www.googletagmanager.com plausible.io player.vimeo.com prod-assets.sequelvideo.com; connect-src 'self' sentry.io *.sentry.io *.sentry.dev reload.getsentry.net www.google.com unpkg.com vimeo.com plausible.io *.sequelvideo.com *.sequel.io; img-src 'self' sentry.io *.sentry.io data: *.sentry.dev storage.googleapis.com sentry-blog.storage.googleapis.com www.googletagmanager.com i.vimeocdn.com images.ctfassets.net images.lumacdn.com *.sequelvideo.com *.cloudinary.com; style-src 'self' 'unsafe-inline' *.sentry.dev; media-src 'self' videos.ctfassets.net; font-src 'self' *.sentry.dev data: fonts.gstatic.com; frame-src player.vimeo.com demo.arcade.software recaptcha.google.com www.google.com *.sequel.io *.sequelvideo.com; manifest-src 'self' *.sentry.dev; base-uri 'none'; frame-ancestors *.sentry.io; report-uri https://o1.ingest.sentry.io/api/1297627/security/?sentry_key=e811b9077ef64dcf8a279ec18a61b222"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 625105,
+      "truncated": false,
+      "body_sha256": "3da2a00586f2edefda94a62e3e2167139a7b52943307f9d75dc9ea1e12a22566",
+      "redirect_chain": [
+        {
+          "url": "https://sentry.io/",
+          "status": 302,
+          "location": "/welcome/",
+          "headers": {
+            "content-security-policy": [
+              "frame-src app.pendo.io demo.arcade.software js.stripe.com sentry.io 'self' intercom-sheets.com www.intercom-reporting.com; media-src *; frame-ancestors 'self' *.sentry.io; img-src * blob: data:; default-src 'none'; style-src * 'unsafe-inline'; base-uri 'none'; connect-src 'self' *.algolia.net *.algolianet.com *.algolia.io browser.sentry-cdn.com sentry.io *.sentry.io s1.sentry-cdn.com o1.ingest.sentry.io api2.amplitude.com app.pendo.io data.pendo.io reload.getsentry.net t687h3m0nh65.statuspage.io maps.googleapis.com plausible.io api.github.com *.intercom.io wss://*.intercom.io *.intercom-messenger.com wss://*.intercom-messenger.com uploads.intercomcdn.com uploads.intercomusercontent.com; worker-src 'self' blob:; font-src * data:; script-src 'self' 'unsafe-inline' 'report-sample' s1.sentry-cdn.com js.sentry-cdn.com browser.sentry-cdn.com statuspage-production.s3.amazonaws.com aui-cdn.atlassian.com connect-cdn.atl-paas.net js.stripe.com 'strict-dynamic' cdn.pendo.io data.pendo.io pendo-io-static.storage.googleapis.com pendo-static-5634074999128064.storage.googleapis.com plausible.io app.intercom.io widget.intercom.io js.intercomcdn.com; object-src 'none'; report-uri https://o1.ingest.sentry.io/api/54785/security/?sentry_key=f724a8a027db45f5b21507e7142ff78e&sentry_release=329031335d57fab9cf676189cd21d06f8af5eb86"
+            ],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": []
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Application Performance Monitoring & Error Tracking Software | SentrylyftFactory.ai LogolyftFactory.ai Logo",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "104",
+      "domain": "sentry.io",
+      "stratum": "101-1000",
+      "requested_url": "https://sentry.io/welcome/",
+      "depth": 1,
+      "parent_url": "https://sentry.io/welcome/",
+      "attempt": 2,
+      "timestamp": "2026-11-12T21:07:22.327555+00:00",
+      "final_url": "https://sentry.io/welcome/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests; default-src 'none'; script-src 'strict-dynamic' 'nonce-A8zNlFRgVyMWUOp8X3Z9UcPGhasobjrL' 'report-sample' 'self' 'unsafe-inline' 'unsafe-eval' *.sentry.dev www.googletagmanager.com plausible.io player.vimeo.com prod-assets.sequelvideo.com; connect-src 'self' sentry.io *.sentry.io *.sentry.dev reload.getsentry.net www.google.com unpkg.com vimeo.com plausible.io *.sequelvideo.com *.sequel.io; img-src 'self' sentry.io *.sentry.io data: *.sentry.dev storage.googleapis.com sentry-blog.storage.googleapis.com www.googletagmanager.com i.vimeocdn.com images.ctfassets.net images.lumacdn.com *.sequelvideo.com *.cloudinary.com; style-src 'self' 'unsafe-inline' *.sentry.dev; media-src 'self' videos.ctfassets.net; font-src 'self' *.sentry.dev data: fonts.gstatic.com; frame-src player.vimeo.com demo.arcade.software recaptcha.google.com www.google.com *.sequel.io *.sequelvideo.com; manifest-src 'self' *.sentry.dev; base-uri 'none'; frame-ancestors *.sentry.io; report-uri https://o1.ingest.sentry.io/api/1297627/security/?sentry_key=e811b9077ef64dcf8a279ec18a61b222"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 625105,
+      "truncated": false,
+      "body_sha256": "e266802cffdc6c9e9230cb8f815c731d0d0018c6fef910c9c2b926074e62eafd",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Application Performance Monitoring & Error Tracking Software | SentrylyftFactory.ai LogolyftFactory.ai Logo",
+      "duplicate_final": true,
+      "eligible": false
+    },
+    {
+      "rank": "104",
+      "domain": "sentry.io",
+      "stratum": "101-1000",
+      "requested_url": "https://sentry.io/product/error-monitoring/",
+      "depth": 1,
+      "parent_url": "https://sentry.io/welcome/",
+      "attempt": 3,
+      "timestamp": "2026-11-12T21:07:22.825831+00:00",
+      "final_url": "https://sentry.io/product/error-monitoring/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests; default-src 'none'; script-src 'strict-dynamic' 'nonce-NFVvfjgp3LW5ajT5qb6VFHkXUeya9S1J' 'report-sample' 'self' 'unsafe-inline' 'unsafe-eval' *.sentry.dev www.googletagmanager.com plausible.io player.vimeo.com prod-assets.sequelvideo.com; connect-src 'self' sentry.io *.sentry.io *.sentry.dev reload.getsentry.net www.google.com unpkg.com vimeo.com plausible.io *.sequelvideo.com *.sequel.io; img-src 'self' sentry.io *.sentry.io data: *.sentry.dev storage.googleapis.com sentry-blog.storage.googleapis.com www.googletagmanager.com i.vimeocdn.com images.ctfassets.net images.lumacdn.com *.sequelvideo.com *.cloudinary.com; style-src 'self' 'unsafe-inline' *.sentry.dev; media-src 'self' videos.ctfassets.net; font-src 'self' *.sentry.dev data: fonts.gstatic.com; frame-src player.vimeo.com demo.arcade.software recaptcha.google.com www.google.com *.sequel.io *.sequelvideo.com; manifest-src 'self' *.sentry.dev; base-uri 'none'; frame-ancestors *.sentry.io; report-uri https://o1.ingest.sentry.io/api/1297627/security/?sentry_key=e811b9077ef64dcf8a279ec18a61b222"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 1350761,
+      "truncated": false,
+      "body_sha256": "5edf8658907a0ad02fde33598c57b0d1e1be538484de21588473d8fa4cecc787",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Error Monitoring Software | Sentry",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "104",
+      "domain": "sentry.io",
+      "stratum": "101-1000",
+      "requested_url": "https://sentry.io/cookbook/custom-metrics-dashboard-alerts-nextjs/",
+      "depth": 2,
+      "parent_url": "https://sentry.io/product/error-monitoring/",
+      "attempt": 4,
+      "timestamp": "2026-11-12T21:07:23.734515+00:00",
+      "final_url": "https://sentry.io/cookbook/custom-metrics-dashboard-alerts-nextjs/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests; default-src 'none'; script-src 'strict-dynamic' 'nonce-agRBbwwIEY6HaCbFcegNfj38SpodCcAP' 'report-sample' 'self' 'unsafe-inline' 'unsafe-eval' *.sentry.dev www.googletagmanager.com plausible.io player.vimeo.com prod-assets.sequelvideo.com; connect-src 'self' sentry.io *.sentry.io *.sentry.dev reload.getsentry.net www.google.com unpkg.com vimeo.com plausible.io *.sequelvideo.com *.sequel.io; img-src 'self' sentry.io *.sentry.io data: *.sentry.dev storage.googleapis.com sentry-blog.storage.googleapis.com www.googletagmanager.com i.vimeocdn.com images.ctfassets.net images.lumacdn.com *.sequelvideo.com *.cloudinary.com; style-src 'self' 'unsafe-inline' *.sentry.dev; media-src 'self' videos.ctfassets.net; font-src 'self' *.sentry.dev data: fonts.gstatic.com; frame-src player.vimeo.com demo.arcade.software recaptcha.google.com www.google.com *.sequel.io *.sequelvideo.com; manifest-src 'self' *.sentry.dev; base-uri 'none'; frame-ancestors *.sentry.io; report-uri https://o1.ingest.sentry.io/api/1297627/security/?sentry_key=e811b9077ef64dcf8a279ec18a61b222"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 244750,
+      "truncated": false,
+      "body_sha256": "9aaeaa4ca14b19eda26369a0fc885cec9f8bdef6d35b4d64a7b3b18ec643df35",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Build a dashboard and alert from Next.js custom metrics | Sentry",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "104",
+      "domain": "sentry.io",
+      "stratum": "101-1000",
+      "requested_url": "https://sentry.io/features/dashboards/",
+      "depth": 3,
+      "parent_url": "https://sentry.io/cookbook/custom-metrics-dashboard-alerts-nextjs/",
+      "attempt": 5,
+      "timestamp": "2026-11-12T21:07:23.985236+00:00",
+      "final_url": "https://sentry.io/features/dashboards/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests; default-src 'none'; script-src 'strict-dynamic' 'nonce-JO4QfbCcrYt4Ek8S8RAVT3MhJR8desOz' 'report-sample' 'self' 'unsafe-inline' 'unsafe-eval' *.sentry.dev www.googletagmanager.com plausible.io player.vimeo.com prod-assets.sequelvideo.com; connect-src 'self' sentry.io *.sentry.io *.sentry.dev reload.getsentry.net www.google.com unpkg.com vimeo.com plausible.io *.sequelvideo.com *.sequel.io; img-src 'self' sentry.io *.sentry.io data: *.sentry.dev storage.googleapis.com sentry-blog.storage.googleapis.com www.googletagmanager.com i.vimeocdn.com images.ctfassets.net images.lumacdn.com *.sequelvideo.com *.cloudinary.com; style-src 'self' 'unsafe-inline' *.sentry.dev; media-src 'self' videos.ctfassets.net; font-src 'self' *.sentry.dev data: fonts.gstatic.com; frame-src player.vimeo.com demo.arcade.software recaptcha.google.com www.google.com *.sequel.io *.sequelvideo.com; manifest-src 'self' *.sentry.dev; base-uri 'none'; frame-ancestors *.sentry.io; report-uri https://o1.ingest.sentry.io/api/1297627/security/?sentry_key=e811b9077ef64dcf8a279ec18a61b222"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 183798,
+      "truncated": false,
+      "body_sha256": "5499218c7e0f82201d5a8f12a1b20e7bb7097df9dd8079c6bbabc582f0a94878",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Application Dashboards | Sentry",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "104",
+      "domain": "sentry.io",
+      "stratum": "101-1000",
+      "requested_url": "https://sentry.io/customers/disney-plus/",
+      "depth": 2,
+      "parent_url": "https://sentry.io/product/error-monitoring/",
+      "attempt": 6,
+      "timestamp": "2026-11-12T21:07:24.477862+00:00",
+      "final_url": "https://sentry.io/customers/disney-plus/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests; default-src 'none'; script-src 'strict-dynamic' 'nonce-lVVwJhPnkHROyFOLnfFjiH7L05ESNBlk' 'report-sample' 'self' 'unsafe-inline' 'unsafe-eval' *.sentry.dev www.googletagmanager.com plausible.io player.vimeo.com prod-assets.sequelvideo.com; connect-src 'self' sentry.io *.sentry.io *.sentry.dev reload.getsentry.net www.google.com unpkg.com vimeo.com plausible.io *.sequelvideo.com *.sequel.io; img-src 'self' sentry.io *.sentry.io data: *.sentry.dev storage.googleapis.com sentry-blog.storage.googleapis.com www.googletagmanager.com i.vimeocdn.com images.ctfassets.net images.lumacdn.com *.sequelvideo.com *.cloudinary.com; style-src 'self' 'unsafe-inline' *.sentry.dev; media-src 'self' videos.ctfassets.net; font-src 'self' *.sentry.dev data: fonts.gstatic.com; frame-src player.vimeo.com demo.arcade.software recaptcha.google.com www.google.com *.sequel.io *.sequelvideo.com; manifest-src 'self' *.sentry.dev; base-uri 'none'; frame-ancestors *.sentry.io; report-uri https://o1.ingest.sentry.io/api/1297627/security/?sentry_key=e811b9077ef64dcf8a279ec18a61b222"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 187025,
+      "truncated": false,
+      "body_sha256": "4d14a1f528a4d71b7c804c33e6c87fea1ef5a161d998d9a99b96c7e365c6ff84",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Error Logging and Tooling for Disney+ | Sentry",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "104",
+      "domain": "sentry.io",
+      "stratum": "101-1000",
+      "requested_url": "https://sentry.io/orgredirect/organizations/:orgslug/explore/metrics/",
+      "depth": 3,
+      "parent_url": "https://sentry.io/cookbook/custom-metrics-dashboard-alerts-nextjs/",
+      "attempt": 7,
+      "timestamp": "2026-11-12T21:07:25.324038+00:00",
+      "final_url": "https://sentry.io/auth/login/",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [
+          "media-src *; base-uri 'none'; script-src 'self' 'unsafe-inline' 'report-sample' s1.sentry-cdn.com js.sentry-cdn.com browser.sentry-cdn.com statuspage-production.s3.amazonaws.com aui-cdn.atlassian.com connect-cdn.atl-paas.net js.stripe.com 'strict-dynamic' cdn.pendo.io data.pendo.io pendo-io-static.storage.googleapis.com pendo-static-5634074999128064.storage.googleapis.com plausible.io app.intercom.io widget.intercom.io js.intercomcdn.com 'nonce-zm45JqRyz3CaHnPU2NqUtA=='; connect-src 'self' *.algolia.net *.algolianet.com *.algolia.io browser.sentry-cdn.com sentry.io *.sentry.io s1.sentry-cdn.com o1.ingest.sentry.io api2.amplitude.com app.pendo.io data.pendo.io reload.getsentry.net t687h3m0nh65.statuspage.io maps.googleapis.com plausible.io api.github.com *.intercom.io wss://*.intercom.io *.intercom-messenger.com wss://*.intercom-messenger.com uploads.intercomcdn.com uploads.intercomusercontent.com; worker-src 'self' blob:; font-src * data:; style-src * 'unsafe-inline'; default-src 'none'; object-src 'none'; frame-src app.pendo.io demo.arcade.software js.stripe.com sentry.io 'self' intercom-sheets.com www.intercom-reporting.com; frame-ancestors 'self' *.sentry.io; img-src * blob: data:; report-uri https://o1.ingest.sentry.io/api/54785/security/?sentry_key=f724a8a027db45f5b21507e7142ff78e&sentry_release=329031335d57fab9cf676189cd21d06f8af5eb86"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 27339,
+      "truncated": false,
+      "body_sha256": "ebb211c4c3f47110a4a831131f4959b55e4e4e826a5b7ac2ba6133606ef90fe7",
+      "redirect_chain": [
+        {
+          "url": "https://sentry.io/orgredirect/organizations/:orgslug/explore/metrics/",
+          "status": 302,
+          "location": "/auth/login/",
+          "headers": {
+            "content-security-policy": [
+              "media-src *; frame-src app.pendo.io demo.arcade.software js.stripe.com sentry.io 'self' intercom-sheets.com www.intercom-reporting.com; font-src * data:; object-src 'none'; base-uri 'none'; connect-src 'self' *.algolia.net *.algolianet.com *.algolia.io browser.sentry-cdn.com sentry.io *.sentry.io s1.sentry-cdn.com o1.ingest.sentry.io api2.amplitude.com app.pendo.io data.pendo.io reload.getsentry.net t687h3m0nh65.statuspage.io maps.googleapis.com plausible.io api.github.com *.intercom.io wss://*.intercom.io *.intercom-messenger.com wss://*.intercom-messenger.com uploads.intercomcdn.com uploads.intercomusercontent.com; script-src 'self' 'unsafe-inline' 'report-sample' s1.sentry-cdn.com js.sentry-cdn.com browser.sentry-cdn.com statuspage-production.s3.amazonaws.com aui-cdn.atlassian.com connect-cdn.atl-paas.net js.stripe.com 'strict-dynamic' cdn.pendo.io data.pendo.io pendo-io-static.storage.googleapis.com pendo-static-5634074999128064.storage.googleapis.com plausible.io app.intercom.io widget.intercom.io js.intercomcdn.com; style-src * 'unsafe-inline'; frame-ancestors 'self' *.sentry.io; default-src 'none'; img-src * blob: data:; worker-src 'self' blob:; report-uri https://o1.ingest.sentry.io/api/54785/security/?sentry_key=f724a8a027db45f5b21507e7142ff78e&sentry_release=329031335d57fab9cf676189cd21d06f8af5eb86"
+            ],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": []
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Sentry",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "104",
+      "domain": "sentry.io",
+      "stratum": "101-1000",
+      "requested_url": "https://sentry.io/integrations/github/",
+      "depth": 1,
+      "parent_url": "https://sentry.io/welcome/",
+      "attempt": 8,
+      "timestamp": "2026-11-12T21:07:25.845368+00:00",
+      "final_url": "https://sentry.io/integrations/github/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests; default-src 'none'; script-src 'strict-dynamic' 'nonce-qKw3tVCQKdiDS3kOoSGu0IdpdUd2PI1b' 'report-sample' 'self' 'unsafe-inline' 'unsafe-eval' *.sentry.dev www.googletagmanager.com plausible.io player.vimeo.com prod-assets.sequelvideo.com; connect-src 'self' sentry.io *.sentry.io *.sentry.dev reload.getsentry.net www.google.com unpkg.com vimeo.com plausible.io *.sequelvideo.com *.sequel.io; img-src 'self' sentry.io *.sentry.io data: *.sentry.dev storage.googleapis.com sentry-blog.storage.googleapis.com www.googletagmanager.com i.vimeocdn.com images.ctfassets.net images.lumacdn.com *.sequelvideo.com *.cloudinary.com; style-src 'self' 'unsafe-inline' *.sentry.dev; media-src 'self' videos.ctfassets.net; font-src 'self' *.sentry.dev data: fonts.gstatic.com; frame-src player.vimeo.com demo.arcade.software recaptcha.google.com www.google.com *.sequel.io *.sequelvideo.com; manifest-src 'self' *.sentry.dev; base-uri 'none'; frame-ancestors *.sentry.io; report-uri https://o1.ingest.sentry.io/api/1297627/security/?sentry_key=e811b9077ef64dcf8a279ec18a61b222"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 203916,
+      "truncated": false,
+      "body_sha256": "865206fbccdf65b849a72d7a6bf53a7ac6bf08b108e0b2fa94b98205f6633a92",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "GitHub + Sentry Integration | Sentry",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "104",
+      "domain": "sentry.io",
+      "stratum": "101-1000",
+      "requested_url": "https://sentry.io/platforms",
+      "depth": 2,
+      "parent_url": "https://sentry.io/product/error-monitoring/",
+      "attempt": 9,
+      "timestamp": "2026-11-12T21:07:26.826254+00:00",
+      "final_url": "https://sentry.io/platforms/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests; default-src 'none'; script-src 'strict-dynamic' 'nonce-8It9Arz34xn3WeIc44ANtdiJlXzSdEKl' 'report-sample' 'self' 'unsafe-inline' 'unsafe-eval' *.sentry.dev www.googletagmanager.com plausible.io player.vimeo.com prod-assets.sequelvideo.com; connect-src 'self' sentry.io *.sentry.io *.sentry.dev reload.getsentry.net www.google.com unpkg.com vimeo.com plausible.io *.sequelvideo.com *.sequel.io; img-src 'self' sentry.io *.sentry.io data: *.sentry.dev storage.googleapis.com sentry-blog.storage.googleapis.com www.googletagmanager.com i.vimeocdn.com images.ctfassets.net images.lumacdn.com *.sequelvideo.com *.cloudinary.com; style-src 'self' 'unsafe-inline' *.sentry.dev; media-src 'self' videos.ctfassets.net; font-src 'self' *.sentry.dev data: fonts.gstatic.com; frame-src player.vimeo.com demo.arcade.software recaptcha.google.com www.google.com *.sequel.io *.sequelvideo.com; manifest-src 'self' *.sentry.dev; base-uri 'none'; frame-ancestors *.sentry.io; report-uri https://o1.ingest.sentry.io/api/1297627/security/?sentry_key=e811b9077ef64dcf8a279ec18a61b222"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 229436,
+      "truncated": false,
+      "body_sha256": "3e0e925eae9c8a6d05120863fb86dcb8fd18a1df20b215085a6cf613d7c82699",
+      "redirect_chain": [
+        {
+          "url": "https://sentry.io/platforms",
+          "status": 302,
+          "location": "https://sentry.io/platforms/?",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000; includeSubDomains; preload"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Platforms | Sentry",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "104",
+      "domain": "sentry.io",
+      "stratum": "101-1000",
+      "requested_url": "https://sentry.io/for/dotnet-maui/",
+      "depth": 3,
+      "parent_url": "https://sentry.io/platforms/",
+      "attempt": 10,
+      "timestamp": "2026-11-12T21:07:27.678070+00:00",
+      "final_url": "https://sentry.io/for/dotnet-maui/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests; default-src 'none'; script-src 'strict-dynamic' 'nonce-X82SXGzfTtgMza8ILJZ75zg3sABYxmjX' 'report-sample' 'self' 'unsafe-inline' 'unsafe-eval' *.sentry.dev www.googletagmanager.com plausible.io player.vimeo.com prod-assets.sequelvideo.com; connect-src 'self' sentry.io *.sentry.io *.sentry.dev reload.getsentry.net www.google.com unpkg.com vimeo.com plausible.io *.sequelvideo.com *.sequel.io; img-src 'self' sentry.io *.sentry.io data: *.sentry.dev storage.googleapis.com sentry-blog.storage.googleapis.com www.googletagmanager.com i.vimeocdn.com images.ctfassets.net images.lumacdn.com *.sequelvideo.com *.cloudinary.com; style-src 'self' 'unsafe-inline' *.sentry.dev; media-src 'self' videos.ctfassets.net; font-src 'self' *.sentry.dev data: fonts.gstatic.com; frame-src player.vimeo.com demo.arcade.software recaptcha.google.com www.google.com *.sequel.io *.sequelvideo.com; manifest-src 'self' *.sentry.dev; base-uri 'none'; frame-ancestors *.sentry.io; report-uri https://o1.ingest.sentry.io/api/1297627/security/?sentry_key=e811b9077ef64dcf8a279ec18a61b222"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 247930,
+      "truncated": false,
+      "body_sha256": "115edfed249eb2878296509f6adb1162feaa6e9f87e194f5abf1a74dab38e1d8",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": ".NET MAUI Error & Performance Monitoring | Sentry",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "104",
+      "domain": "sentry.io",
+      "stratum": "101-1000",
+      "requested_url": "https://sentry.io/vs/logging/",
+      "depth": 4,
+      "parent_url": "https://sentry.io/for/dotnet-maui/",
+      "attempt": 11,
+      "timestamp": "2026-11-12T21:07:28.013457+00:00",
+      "final_url": "https://sentry.io/vs/logging/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests; default-src 'none'; script-src 'strict-dynamic' 'nonce-T6aAH5XcHyvSqza6FoHKVM017AxCFavc' 'report-sample' 'self' 'unsafe-inline' 'unsafe-eval' *.sentry.dev www.googletagmanager.com plausible.io player.vimeo.com prod-assets.sequelvideo.com; connect-src 'self' sentry.io *.sentry.io *.sentry.dev reload.getsentry.net www.google.com unpkg.com vimeo.com plausible.io *.sequelvideo.com *.sequel.io; img-src 'self' sentry.io *.sentry.io data: *.sentry.dev storage.googleapis.com sentry-blog.storage.googleapis.com www.googletagmanager.com i.vimeocdn.com images.ctfassets.net images.lumacdn.com *.sequelvideo.com *.cloudinary.com; style-src 'self' 'unsafe-inline' *.sentry.dev; media-src 'self' videos.ctfassets.net; font-src 'self' *.sentry.dev data: fonts.gstatic.com; frame-src player.vimeo.com demo.arcade.software recaptcha.google.com www.google.com *.sequel.io *.sequelvideo.com; manifest-src 'self' *.sentry.dev; base-uri 'none'; frame-ancestors *.sentry.io; report-uri https://o1.ingest.sentry.io/api/1297627/security/?sentry_key=e811b9077ef64dcf8a279ec18a61b222"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 248462,
+      "truncated": false,
+      "body_sha256": "58612a8c70d767e9e18b3aaeeb1201818872fa8d38f52865170258e60d62a947",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Sentry vs Logging | Sentry",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "104",
+      "domain": "sentry.io",
+      "stratum": "101-1000",
+      "requested_url": "https://sentry.io/solutions/mobile-developers/",
+      "depth": 1,
+      "parent_url": "https://sentry.io/welcome/",
+      "attempt": 12,
+      "timestamp": "2026-11-12T21:07:29.648439+00:00",
+      "final_url": "https://sentry.io/solutions/mobile-developers/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests; default-src 'none'; script-src 'strict-dynamic' 'nonce-qFtSzoGcAV7S0r4fQcoMeLjyddQT1SSj' 'report-sample' 'self' 'unsafe-inline' 'unsafe-eval' *.sentry.dev www.googletagmanager.com plausible.io player.vimeo.com prod-assets.sequelvideo.com; connect-src 'self' sentry.io *.sentry.io *.sentry.dev reload.getsentry.net www.google.com unpkg.com vimeo.com plausible.io *.sequelvideo.com *.sequel.io; img-src 'self' sentry.io *.sentry.io data: *.sentry.dev storage.googleapis.com sentry-blog.storage.googleapis.com www.googletagmanager.com i.vimeocdn.com images.ctfassets.net images.lumacdn.com *.sequelvideo.com *.cloudinary.com; style-src 'self' 'unsafe-inline' *.sentry.dev; media-src 'self' videos.ctfassets.net; font-src 'self' *.sentry.dev data: fonts.gstatic.com; frame-src player.vimeo.com demo.arcade.software recaptcha.google.com www.google.com *.sequel.io *.sequelvideo.com; manifest-src 'self' *.sentry.dev; base-uri 'none'; frame-ancestors *.sentry.io; report-uri https://o1.ingest.sentry.io/api/1297627/security/?sentry_key=e811b9077ef64dcf8a279ec18a61b222"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 1200733,
+      "truncated": false,
+      "body_sha256": "936a30139d093cac3c68187d48d0e881c61309fcf794e3b8f1b61dd86b8cb825",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Mobile App Monitoring: Crashes, ANRs, and Performance | Sentry",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "104",
+      "domain": "sentry.io",
+      "stratum": "101-1000",
+      "requested_url": "https://sentry.io/resources/sentry-vs-crashlytics-mobile-developers-guide/",
+      "depth": 2,
+      "parent_url": "https://sentry.io/solutions/mobile-developers/",
+      "attempt": 13,
+      "timestamp": "2026-11-12T21:07:29.974134+00:00",
+      "final_url": "https://sentry.io/resources/sentry-vs-crashlytics-mobile-developers-guide/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests; default-src 'none'; script-src 'strict-dynamic' 'nonce-sn1aEcVMfHtpobLbW52ps7AeT8h0P4TT' 'report-sample' 'self' 'unsafe-inline' 'unsafe-eval' *.sentry.dev www.googletagmanager.com plausible.io player.vimeo.com prod-assets.sequelvideo.com; connect-src 'self' sentry.io *.sentry.io *.sentry.dev reload.getsentry.net www.google.com unpkg.com vimeo.com plausible.io *.sequelvideo.com *.sequel.io; img-src 'self' sentry.io *.sentry.io data: *.sentry.dev storage.googleapis.com sentry-blog.storage.googleapis.com www.googletagmanager.com i.vimeocdn.com images.ctfassets.net images.lumacdn.com *.sequelvideo.com *.cloudinary.com; style-src 'self' 'unsafe-inline' *.sentry.dev; media-src 'self' videos.ctfassets.net; font-src 'self' *.sentry.dev data: fonts.gstatic.com; frame-src player.vimeo.com demo.arcade.software recaptcha.google.com www.google.com *.sequel.io *.sequelvideo.com; manifest-src 'self' *.sentry.dev; base-uri 'none'; frame-ancestors *.sentry.io; report-uri https://o1.ingest.sentry.io/api/1297627/security/?sentry_key=e811b9077ef64dcf8a279ec18a61b222"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 190678,
+      "truncated": false,
+      "body_sha256": "66471829f8aae4c686c44971f46f29b0ca5ab9680849024233f55fc5d58c6e80",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Sentry vs. Crashlytics: The Mobile Developer's Decision-Making Guide | Sentry",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "104",
+      "domain": "sentry.io",
+      "stratum": "101-1000",
+      "requested_url": "https://sentry.io/changelog/",
+      "depth": 1,
+      "parent_url": "https://sentry.io/welcome/",
+      "attempt": 14,
+      "timestamp": "2026-11-12T21:07:30.435511+00:00",
+      "final_url": "https://sentry.io/changelog/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'none'; font-src 'self' changelog.sentry.dev; style-src 'self' 'unsafe-inline'; script-src 'self' plausible.io 'unsafe-inline' 'unsafe-eval' 'report-sample'; img-src 'self' changelog.sentry.dev lh7-qw.googleusercontent.com lh3.googleusercontent.com *.public.blob.vercel-storage.com images.ctfassets.net; worker-src blob:; connect-src o1.ingest.us.sentry.io plausible.io 'self' changelog.sentry.dev sentry.io sentry.sentry.io https://vercel.com https://*.public.blob.vercel-storage.com; report-uri https://o1.ingest.us.sentry.io/api/4507670276341760/security/?sentry_key=e90f5ea060a4102c0a4c50c740e43ae1;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 257844,
+      "truncated": false,
+      "body_sha256": "00ed14774eb2fa0fb30ef9bc78237882c518f16dd0ab46780942d0e43498c562",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "ChangelogChevron RightChevron RightChevron RightChevron RightChevron RightChevron RightChevron RightChevron RightChevron RightChevron RightChevron RightChevron RightChevron RightChevron RightChevron RightChevron RightChevron RightChevron RightChevron Right",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "104",
+      "domain": "sentry.io",
+      "stratum": "101-1000",
+      "requested_url": "https://sentry.io/contact/enterprise/",
+      "depth": 1,
+      "parent_url": "https://sentry.io/welcome/",
+      "attempt": 15,
+      "timestamp": "2026-11-12T21:07:30.992123+00:00",
+      "final_url": "https://sentry.io/contact/enterprise/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests; default-src 'none'; script-src 'strict-dynamic' 'nonce-VEG8DsRlAxTArdC4Esk4RcOGXbpmfzvr' 'report-sample' 'self' 'unsafe-inline' 'unsafe-eval' *.sentry.dev www.googletagmanager.com plausible.io player.vimeo.com prod-assets.sequelvideo.com; connect-src 'self' sentry.io *.sentry.io *.sentry.dev reload.getsentry.net www.google.com unpkg.com vimeo.com plausible.io *.sequelvideo.com *.sequel.io; img-src 'self' sentry.io *.sentry.io data: *.sentry.dev storage.googleapis.com sentry-blog.storage.googleapis.com www.googletagmanager.com i.vimeocdn.com images.ctfassets.net images.lumacdn.com *.sequelvideo.com *.cloudinary.com; style-src 'self' 'unsafe-inline' *.sentry.dev; media-src 'self' videos.ctfassets.net; font-src 'self' *.sentry.dev data: fonts.gstatic.com; frame-src player.vimeo.com demo.arcade.software recaptcha.google.com www.google.com *.sequel.io *.sequelvideo.com; manifest-src 'self' *.sentry.dev; base-uri 'none'; frame-ancestors *.sentry.io; report-uri https://o1.ingest.sentry.io/api/1297627/security/?sentry_key=e811b9077ef64dcf8a279ec18a61b222"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 207773,
+      "truncated": false,
+      "body_sha256": "db4c66d8863d2d00da1bdf664d7ec8a61a2f393c0597ab1c0f38dc7338cb14e5",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Contact The Sales Team | Sentry",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "104",
+      "domain": "sentry.io",
+      "stratum": "101-1000",
+      "requested_url": "https://sentry.io/community/",
+      "depth": 1,
+      "parent_url": "https://sentry.io/welcome/",
+      "attempt": 16,
+      "timestamp": "2026-11-12T21:07:31.447016+00:00",
+      "final_url": "https://sentry.io/community/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests; default-src 'none'; script-src 'strict-dynamic' 'nonce-i5mUq4tlgNLkzBfcs498klaj9BG95zxQ' 'report-sample' 'self' 'unsafe-inline' 'unsafe-eval' *.sentry.dev www.googletagmanager.com plausible.io player.vimeo.com prod-assets.sequelvideo.com; connect-src 'self' sentry.io *.sentry.io *.sentry.dev reload.getsentry.net www.google.com unpkg.com vimeo.com plausible.io *.sequelvideo.com *.sequel.io; img-src 'self' sentry.io *.sentry.io data: *.sentry.dev storage.googleapis.com sentry-blog.storage.googleapis.com www.googletagmanager.com i.vimeocdn.com images.ctfassets.net images.lumacdn.com *.sequelvideo.com *.cloudinary.com; style-src 'self' 'unsafe-inline' *.sentry.dev; media-src 'self' videos.ctfassets.net; font-src 'self' *.sentry.dev data: fonts.gstatic.com; frame-src player.vimeo.com demo.arcade.software recaptcha.google.com www.google.com *.sequel.io *.sequelvideo.com; manifest-src 'self' *.sentry.dev; base-uri 'none'; frame-ancestors *.sentry.io; report-uri https://o1.ingest.sentry.io/api/1297627/security/?sentry_key=e811b9077ef64dcf8a279ec18a61b222"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 207777,
+      "truncated": false,
+      "body_sha256": "c6f48d0c311027aceda7a481ee170701681b875a7d2a792f736709e481c677ff",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Sentry Community | Sentry",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "104",
+      "domain": "sentry.io",
+      "stratum": "101-1000",
+      "requested_url": "https://sentry.io/events/",
+      "depth": 1,
+      "parent_url": "https://sentry.io/welcome/",
+      "attempt": 17,
+      "timestamp": "2026-11-12T21:07:32.039475+00:00",
+      "final_url": "https://sentry.io/events/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests; default-src 'none'; script-src 'strict-dynamic' 'nonce-EJFaKSzXnJNYU6jWXViHRoRcNneRWw0L' 'report-sample' 'self' 'unsafe-inline' 'unsafe-eval' *.sentry.dev www.googletagmanager.com plausible.io player.vimeo.com prod-assets.sequelvideo.com; connect-src 'self' sentry.io *.sentry.io *.sentry.dev reload.getsentry.net www.google.com unpkg.com vimeo.com plausible.io *.sequelvideo.com *.sequel.io; img-src 'self' sentry.io *.sentry.io data: *.sentry.dev storage.googleapis.com sentry-blog.storage.googleapis.com www.googletagmanager.com i.vimeocdn.com images.ctfassets.net images.lumacdn.com *.sequelvideo.com *.cloudinary.com; style-src 'self' 'unsafe-inline' *.sentry.dev; media-src 'self' videos.ctfassets.net; font-src 'self' *.sentry.dev data: fonts.gstatic.com; frame-src player.vimeo.com demo.arcade.software recaptcha.google.com www.google.com *.sequel.io *.sequelvideo.com; manifest-src 'self' *.sentry.dev; base-uri 'none'; frame-ancestors *.sentry.io; report-uri https://o1.ingest.sentry.io/api/1297627/security/?sentry_key=e811b9077ef64dcf8a279ec18a61b222"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 274879,
+      "truncated": false,
+      "body_sha256": "1fe20d2d9fd15a02d2aeaa633e3f18d11fe9ab2f1bd0c30445c95ac51f46628f",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Sentry Events | Sentry",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "104",
+      "domain": "sentry.io",
+      "stratum": "101-1000",
+      "requested_url": "https://sentry.io/pricing/",
+      "depth": 1,
+      "parent_url": "https://sentry.io/welcome/",
+      "attempt": 18,
+      "timestamp": "2026-11-12T21:07:32.607532+00:00",
+      "final_url": "https://sentry.io/pricing/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests; default-src 'none'; script-src 'strict-dynamic' 'nonce-T9kqvbK1ZrcaDYmC3ZoSc2XgAtiAFpFx' 'report-sample' 'self' 'unsafe-inline' 'unsafe-eval' *.sentry.dev www.googletagmanager.com plausible.io player.vimeo.com prod-assets.sequelvideo.com; connect-src 'self' sentry.io *.sentry.io *.sentry.dev reload.getsentry.net www.google.com unpkg.com vimeo.com plausible.io *.sequelvideo.com *.sequel.io; img-src 'self' sentry.io *.sentry.io data: *.sentry.dev storage.googleapis.com sentry-blog.storage.googleapis.com www.googletagmanager.com i.vimeocdn.com images.ctfassets.net images.lumacdn.com *.sequelvideo.com *.cloudinary.com; style-src 'self' 'unsafe-inline' *.sentry.dev; media-src 'self' videos.ctfassets.net; font-src 'self' *.sentry.dev data: fonts.gstatic.com; frame-src player.vimeo.com demo.arcade.software recaptcha.google.com www.google.com *.sequel.io *.sequelvideo.com; manifest-src 'self' *.sentry.dev; base-uri 'none'; frame-ancestors *.sentry.io; report-uri https://o1.ingest.sentry.io/api/1297627/security/?sentry_key=e811b9077ef64dcf8a279ec18a61b222"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 1113946,
+      "truncated": false,
+      "body_sha256": "a46312bfe54f8983375925c340f50608f4d106f8a247f79eb4cb17dc0ac5cbd5",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Pricing: Free Developer Plan, Pay as You Grow | Sentry",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "104",
+      "domain": "sentry.io",
+      "stratum": "101-1000",
+      "requested_url": "https://sentry.io/demo",
+      "depth": 2,
+      "parent_url": "https://sentry.io/pricing/",
+      "attempt": 19,
+      "timestamp": "2026-11-12T21:07:33.263533+00:00",
+      "final_url": "https://sentry.io/demo/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests; default-src 'none'; script-src 'strict-dynamic' 'nonce-s6V0hOgpl7zalav7yR5U0OCv0GR74bpo' 'report-sample' 'self' 'unsafe-inline' 'unsafe-eval' *.sentry.dev www.googletagmanager.com plausible.io player.vimeo.com prod-assets.sequelvideo.com; connect-src 'self' sentry.io *.sentry.io *.sentry.dev reload.getsentry.net www.google.com unpkg.com vimeo.com plausible.io *.sequelvideo.com *.sequel.io; img-src 'self' sentry.io *.sentry.io data: *.sentry.dev storage.googleapis.com sentry-blog.storage.googleapis.com www.googletagmanager.com i.vimeocdn.com images.ctfassets.net images.lumacdn.com *.sequelvideo.com *.cloudinary.com; style-src 'self' 'unsafe-inline' *.sentry.dev; media-src 'self' videos.ctfassets.net; font-src 'self' *.sentry.dev data: fonts.gstatic.com; frame-src player.vimeo.com demo.arcade.software recaptcha.google.com www.google.com *.sequel.io *.sequelvideo.com; manifest-src 'self' *.sentry.dev; base-uri 'none'; frame-ancestors *.sentry.io; report-uri https://o1.ingest.sentry.io/api/1297627/security/?sentry_key=e811b9077ef64dcf8a279ec18a61b222"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 237053,
+      "truncated": false,
+      "body_sha256": "1e1dc6bb9a0b710e445ec86e75c242e7a8858cc2320258cc703b98d3a1a81b73",
+      "redirect_chain": [
+        {
+          "url": "https://sentry.io/demo",
+          "status": 302,
+          "location": "https://sentry.io/demo/?",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000; includeSubDomains; preload"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Request a Demo | Sentry",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "104",
+      "domain": "sentry.io",
+      "stratum": "101-1000",
+      "requested_url": "https://sentry.io/privacy/",
+      "depth": 1,
+      "parent_url": "https://sentry.io/welcome/",
+      "attempt": 20,
+      "timestamp": "2026-11-12T21:07:33.989985+00:00",
+      "final_url": "https://sentry.io/privacy/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests; default-src 'none'; script-src 'strict-dynamic' 'nonce-G2QxD3m15cjVfvnsYz8uUO9AyxWHSCR9' 'report-sample' 'self' 'unsafe-inline' 'unsafe-eval' *.sentry.dev www.googletagmanager.com plausible.io player.vimeo.com prod-assets.sequelvideo.com; connect-src 'self' sentry.io *.sentry.io *.sentry.dev reload.getsentry.net www.google.com unpkg.com vimeo.com plausible.io *.sequelvideo.com *.sequel.io; img-src 'self' sentry.io *.sentry.io data: *.sentry.dev storage.googleapis.com sentry-blog.storage.googleapis.com www.googletagmanager.com i.vimeocdn.com images.ctfassets.net images.lumacdn.com *.sequelvideo.com *.cloudinary.com; style-src 'self' 'unsafe-inline' *.sentry.dev; media-src 'self' videos.ctfassets.net; font-src 'self' *.sentry.dev data: fonts.gstatic.com; frame-src player.vimeo.com demo.arcade.software recaptcha.google.com www.google.com *.sequel.io *.sequelvideo.com; manifest-src 'self' *.sentry.dev; base-uri 'none'; frame-ancestors *.sentry.io; report-uri https://o1.ingest.sentry.io/api/1297627/security/?sentry_key=e811b9077ef64dcf8a279ec18a61b222"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 207931,
+      "truncated": false,
+      "body_sha256": "78c24d08abd0d7a7d292f30823def317d339ac10a43225600440bd31b0015fb3",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Privacy Policy 3.3.2 (October 29, 2025) | Sentry",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "104",
+      "domain": "sentry.io",
+      "stratum": "101-1000",
+      "requested_url": "https://sentry.io/legal/",
+      "depth": 2,
+      "parent_url": "https://sentry.io/privacy/",
+      "attempt": 21,
+      "timestamp": "2026-11-12T21:07:34.426108+00:00",
+      "final_url": "https://sentry.io/legal/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests; default-src 'none'; script-src 'strict-dynamic' 'nonce-IziU4o1iKG6PAXg6XWV8Mp1qSC0hMVde' 'report-sample' 'self' 'unsafe-inline' 'unsafe-eval' *.sentry.dev www.googletagmanager.com plausible.io player.vimeo.com prod-assets.sequelvideo.com; connect-src 'self' sentry.io *.sentry.io *.sentry.dev reload.getsentry.net www.google.com unpkg.com vimeo.com plausible.io *.sequelvideo.com *.sequel.io; img-src 'self' sentry.io *.sentry.io data: *.sentry.dev storage.googleapis.com sentry-blog.storage.googleapis.com www.googletagmanager.com i.vimeocdn.com images.ctfassets.net images.lumacdn.com *.sequelvideo.com *.cloudinary.com; style-src 'self' 'unsafe-inline' *.sentry.dev; media-src 'self' videos.ctfassets.net; font-src 'self' *.sentry.dev data: fonts.gstatic.com; frame-src player.vimeo.com demo.arcade.software recaptcha.google.com www.google.com *.sequel.io *.sequelvideo.com; manifest-src 'self' *.sentry.dev; base-uri 'none'; frame-ancestors *.sentry.io; report-uri https://o1.ingest.sentry.io/api/1297627/security/?sentry_key=e811b9077ef64dcf8a279ec18a61b222"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 180301,
+      "truncated": false,
+      "body_sha256": "b248b71deb166f13e6ffbdc4eb18fbbc328a9658c55c29c13f552554114ca869",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Sentry Legal | Sentry",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "104",
+      "domain": "sentry.io",
+      "stratum": "101-1000",
+      "requested_url": "https://sentry.io/trust/privacy/california/",
+      "depth": 2,
+      "parent_url": "https://sentry.io/privacy/",
+      "attempt": 22,
+      "timestamp": "2026-11-12T21:07:34.948016+00:00",
+      "final_url": "https://sentry.io/trust/privacy/california/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests; default-src 'none'; script-src 'strict-dynamic' 'nonce-QhAVAQizvzuHcMklfpKHAZQBdxBFDB4Z' 'report-sample' 'self' 'unsafe-inline' 'unsafe-eval' *.sentry.dev www.googletagmanager.com plausible.io player.vimeo.com prod-assets.sequelvideo.com; connect-src 'self' sentry.io *.sentry.io *.sentry.dev reload.getsentry.net www.google.com unpkg.com vimeo.com plausible.io *.sequelvideo.com *.sequel.io; img-src 'self' sentry.io *.sentry.io data: *.sentry.dev storage.googleapis.com sentry-blog.storage.googleapis.com www.googletagmanager.com i.vimeocdn.com images.ctfassets.net images.lumacdn.com *.sequelvideo.com *.cloudinary.com; style-src 'self' 'unsafe-inline' *.sentry.dev; media-src 'self' videos.ctfassets.net; font-src 'self' *.sentry.dev data: fonts.gstatic.com; frame-src player.vimeo.com demo.arcade.software recaptcha.google.com www.google.com *.sequel.io *.sequelvideo.com; manifest-src 'self' *.sentry.dev; base-uri 'none'; frame-ancestors *.sentry.io; report-uri https://o1.ingest.sentry.io/api/1297627/security/?sentry_key=e811b9077ef64dcf8a279ec18a61b222"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 183164,
+      "truncated": false,
+      "body_sha256": "c7627e0126c41d4cee68788cff8d70cb75c91d8296a94b2865e335b67d9db195",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Supplemental Notice for California Residents \u2014 Sentry Legal | Sentry",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "104",
+      "domain": "sentry.io",
+      "stratum": "101-1000",
+      "requested_url": "https://sentry.io/about/",
+      "depth": 1,
+      "parent_url": "https://sentry.io/welcome/",
+      "attempt": 23,
+      "timestamp": "2026-11-12T21:07:35.688172+00:00",
+      "final_url": "https://sentry.io/about/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests; default-src 'none'; script-src 'strict-dynamic' 'nonce-VLNAIDVcKqMYcIogBfuIdwR3OvWJhgWU' 'report-sample' 'self' 'unsafe-inline' 'unsafe-eval' *.sentry.dev www.googletagmanager.com plausible.io player.vimeo.com prod-assets.sequelvideo.com; connect-src 'self' sentry.io *.sentry.io *.sentry.dev reload.getsentry.net www.google.com unpkg.com vimeo.com plausible.io *.sequelvideo.com *.sequel.io; img-src 'self' sentry.io *.sentry.io data: *.sentry.dev storage.googleapis.com sentry-blog.storage.googleapis.com www.googletagmanager.com i.vimeocdn.com images.ctfassets.net images.lumacdn.com *.sequelvideo.com *.cloudinary.com; style-src 'self' 'unsafe-inline' *.sentry.dev; media-src 'self' videos.ctfassets.net; font-src 'self' *.sentry.dev data: fonts.gstatic.com; frame-src player.vimeo.com demo.arcade.software recaptcha.google.com www.google.com *.sequel.io *.sequelvideo.com; manifest-src 'self' *.sentry.dev; base-uri 'none'; frame-ancestors *.sentry.io; report-uri https://o1.ingest.sentry.io/api/1297627/security/?sentry_key=e811b9077ef64dcf8a279ec18a61b222"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 269615,
+      "truncated": false,
+      "body_sha256": "c412752c7c03a3fcab1c4ce7ec99526deec816ae66eed3f1b1aec3a545aa38ad",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "About Sentry | SentrylyftFactory.ai Logo",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "104",
+      "domain": "sentry.io",
+      "stratum": "101-1000",
+      "requested_url": "https://sentry.io/careers/",
+      "depth": 1,
+      "parent_url": "https://sentry.io/welcome/",
+      "attempt": 24,
+      "timestamp": "2026-11-12T21:07:35.950197+00:00",
+      "final_url": "https://sentry.io/careers/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests; default-src 'none'; script-src 'strict-dynamic' 'nonce-vnIKHuk1TTIZLwvXR3eESZoC5XwYyPaW' 'report-sample' 'self' 'unsafe-inline' 'unsafe-eval' *.sentry.dev www.googletagmanager.com plausible.io player.vimeo.com prod-assets.sequelvideo.com; connect-src 'self' sentry.io *.sentry.io *.sentry.dev reload.getsentry.net www.google.com unpkg.com vimeo.com plausible.io *.sequelvideo.com *.sequel.io; img-src 'self' sentry.io *.sentry.io data: *.sentry.dev storage.googleapis.com sentry-blog.storage.googleapis.com www.googletagmanager.com i.vimeocdn.com images.ctfassets.net images.lumacdn.com *.sequelvideo.com *.cloudinary.com; style-src 'self' 'unsafe-inline' *.sentry.dev; media-src 'self' videos.ctfassets.net; font-src 'self' *.sentry.dev data: fonts.gstatic.com; frame-src player.vimeo.com demo.arcade.software recaptcha.google.com www.google.com *.sequel.io *.sequelvideo.com; manifest-src 'self' *.sentry.dev; base-uri 'none'; frame-ancestors *.sentry.io; report-uri https://o1.ingest.sentry.io/api/1297627/security/?sentry_key=e811b9077ef64dcf8a279ec18a61b222"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 637302,
+      "truncated": false,
+      "body_sha256": "281e3ea91ce0c0f9386e3a42cd8199783baa6c6ed29486064fb815c517d99f2f",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Careers | Sentry",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "104",
+      "domain": "sentry.io",
+      "stratum": "101-1000",
+      "requested_url": "https://sentry.io/terms/",
+      "depth": 1,
+      "parent_url": "https://sentry.io/welcome/",
+      "attempt": 25,
+      "timestamp": "2026-11-12T21:07:36.502000+00:00",
+      "final_url": "https://sentry.io/terms/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests; default-src 'none'; script-src 'strict-dynamic' 'nonce-PLqqxHbOVyJX5aGLzcJvdvDo9mf1se0b' 'report-sample' 'self' 'unsafe-inline' 'unsafe-eval' *.sentry.dev www.googletagmanager.com plausible.io player.vimeo.com prod-assets.sequelvideo.com; connect-src 'self' sentry.io *.sentry.io *.sentry.dev reload.getsentry.net www.google.com unpkg.com vimeo.com plausible.io *.sequelvideo.com *.sequel.io; img-src 'self' sentry.io *.sentry.io data: *.sentry.dev storage.googleapis.com sentry-blog.storage.googleapis.com www.googletagmanager.com i.vimeocdn.com images.ctfassets.net images.lumacdn.com *.sequelvideo.com *.cloudinary.com; style-src 'self' 'unsafe-inline' *.sentry.dev; media-src 'self' videos.ctfassets.net; font-src 'self' *.sentry.dev data: fonts.gstatic.com; frame-src player.vimeo.com demo.arcade.software recaptcha.google.com www.google.com *.sequel.io *.sequelvideo.com; manifest-src 'self' *.sentry.dev; base-uri 'none'; frame-ancestors *.sentry.io; report-uri https://o1.ingest.sentry.io/api/1297627/security/?sentry_key=e811b9077ef64dcf8a279ec18a61b222"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 220455,
+      "truncated": false,
+      "body_sha256": "d5d412e3cc150b8b5890d47f6c59e2b2cbf063c54c9add661b7bf175cdf3b0ac",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Terms of Service 3.0.0 (February 12, 2024) | Sentry",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "104",
+      "domain": "sentry.io",
+      "stratum": "101-1000",
+      "requested_url": "https://sentry.io/security/",
+      "depth": 1,
+      "parent_url": "https://sentry.io/welcome/",
+      "attempt": 26,
+      "timestamp": "2026-11-12T21:07:37.010087+00:00",
+      "final_url": "https://sentry.io/security/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests; default-src 'none'; script-src 'strict-dynamic' 'nonce-mUVXtq5nJGYPh89FYzeKIK12n7jJySpt' 'report-sample' 'self' 'unsafe-inline' 'unsafe-eval' *.sentry.dev www.googletagmanager.com plausible.io player.vimeo.com prod-assets.sequelvideo.com; connect-src 'self' sentry.io *.sentry.io *.sentry.dev reload.getsentry.net www.google.com unpkg.com vimeo.com plausible.io *.sequelvideo.com *.sequel.io; img-src 'self' sentry.io *.sentry.io data: *.sentry.dev storage.googleapis.com sentry-blog.storage.googleapis.com www.googletagmanager.com i.vimeocdn.com images.ctfassets.net images.lumacdn.com *.sequelvideo.com *.cloudinary.com; style-src 'self' 'unsafe-inline' *.sentry.dev; media-src 'self' videos.ctfassets.net; font-src 'self' *.sentry.dev data: fonts.gstatic.com; frame-src player.vimeo.com demo.arcade.software recaptcha.google.com www.google.com *.sequel.io *.sequelvideo.com; manifest-src 'self' *.sentry.dev; base-uri 'none'; frame-ancestors *.sentry.io; report-uri https://o1.ingest.sentry.io/api/1297627/security/?sentry_key=e811b9077ef64dcf8a279ec18a61b222"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 207134,
+      "truncated": false,
+      "body_sha256": "ae59018418c8777b1fafa734d5c91e3259db5f4cb8b478467213b1a58eb6d9c2",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Security, Privacy, and Compliance Practices | Sentry",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "104",
+      "domain": "sentry.io",
+      "stratum": "101-1000",
+      "requested_url": "https://sentry.io/api",
+      "depth": 2,
+      "parent_url": "https://sentry.io/security/",
+      "attempt": 27,
+      "timestamp": "2026-11-12T21:07:38.495777+00:00",
+      "final_url": "https://sentry.io/api",
+      "status": 301,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 0,
+      "truncated": false,
+      "body_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "redirect_chain": [
+        {
+          "url": "https://sentry.io/api",
+          "status": 301,
+          "location": "http://sentry.io:8000/api/",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000; includeSubDomains; preload"
+            ]
+          }
+        }
+      ],
+      "error": "redirect_out_of_scope",
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "104",
+      "domain": "sentry.io",
+      "stratum": "101-1000",
+      "requested_url": "https://sentry.io/features/cross-project-issues/",
+      "depth": 4,
+      "parent_url": "https://sentry.io/features/dashboards/",
+      "attempt": 28,
+      "timestamp": "2026-11-12T21:07:38.627649+00:00",
+      "final_url": "https://sentry.io/features/cross-project-issues/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests; default-src 'none'; script-src 'strict-dynamic' 'nonce-diQrGFn6jBItp9gf2RQleLEDskHAFmDP' 'report-sample' 'self' 'unsafe-inline' 'unsafe-eval' *.sentry.dev www.googletagmanager.com plausible.io player.vimeo.com prod-assets.sequelvideo.com; connect-src 'self' sentry.io *.sentry.io *.sentry.dev reload.getsentry.net www.google.com unpkg.com vimeo.com plausible.io *.sequelvideo.com *.sequel.io; img-src 'self' sentry.io *.sentry.io data: *.sentry.dev storage.googleapis.com sentry-blog.storage.googleapis.com www.googletagmanager.com i.vimeocdn.com images.ctfassets.net images.lumacdn.com *.sequelvideo.com *.cloudinary.com; style-src 'self' 'unsafe-inline' *.sentry.dev; media-src 'self' videos.ctfassets.net; font-src 'self' *.sentry.dev data: fonts.gstatic.com; frame-src player.vimeo.com demo.arcade.software recaptcha.google.com www.google.com *.sequel.io *.sequelvideo.com; manifest-src 'self' *.sentry.dev; base-uri 'none'; frame-ancestors *.sentry.io; report-uri https://o1.ingest.sentry.io/api/1297627/security/?sentry_key=e811b9077ef64dcf8a279ec18a61b222"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 181449,
+      "truncated": false,
+      "body_sha256": "cd6ea1de5fe8be1aa9bfa98ea4a9e893911141dd1e5f38f781079280ac050848",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Cross-project Issues | Sentry",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "104",
+      "domain": "sentry.io",
+      "stratum": "101-1000",
+      "requested_url": "https://sentry.io/orgredirect/organizations/:orgslug/dashboards/",
+      "depth": 3,
+      "parent_url": "https://sentry.io/cookbook/custom-metrics-dashboard-alerts-nextjs/",
+      "attempt": 29,
+      "timestamp": "2026-11-12T21:07:39.637481+00:00",
+      "final_url": "https://sentry.io/auth/login/",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' *.sentry.io; object-src 'none'; font-src * data:; media-src *; default-src 'none'; connect-src 'self' *.algolia.net *.algolianet.com *.algolia.io browser.sentry-cdn.com sentry.io *.sentry.io s1.sentry-cdn.com o1.ingest.sentry.io api2.amplitude.com app.pendo.io data.pendo.io reload.getsentry.net t687h3m0nh65.statuspage.io maps.googleapis.com plausible.io api.github.com *.intercom.io wss://*.intercom.io *.intercom-messenger.com wss://*.intercom-messenger.com uploads.intercomcdn.com uploads.intercomusercontent.com; style-src * 'unsafe-inline'; worker-src 'self' blob:; script-src 'self' 'unsafe-inline' 'report-sample' s1.sentry-cdn.com js.sentry-cdn.com browser.sentry-cdn.com statuspage-production.s3.amazonaws.com aui-cdn.atlassian.com connect-cdn.atl-paas.net js.stripe.com 'strict-dynamic' cdn.pendo.io data.pendo.io pendo-io-static.storage.googleapis.com pendo-static-5634074999128064.storage.googleapis.com plausible.io app.intercom.io widget.intercom.io js.intercomcdn.com 'nonce-sJJl9+H11EOG8Oo/Ivo3+Q=='; base-uri 'none'; img-src * blob: data:; frame-src app.pendo.io demo.arcade.software js.stripe.com sentry.io 'self' intercom-sheets.com www.intercom-reporting.com; report-uri https://o1.ingest.sentry.io/api/54785/security/?sentry_key=f724a8a027db45f5b21507e7142ff78e&sentry_release=329031335d57fab9cf676189cd21d06f8af5eb86"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 27347,
+      "truncated": false,
+      "body_sha256": "a12f7183fb042233df6375cf8ee8152e6990cecc5bf79265450492d71c479192",
+      "redirect_chain": [
+        {
+          "url": "https://sentry.io/orgredirect/organizations/:orgslug/dashboards/",
+          "status": 302,
+          "location": "/auth/login/",
+          "headers": {
+            "content-security-policy": [
+              "base-uri 'none'; frame-ancestors 'self' *.sentry.io; worker-src 'self' blob:; style-src * 'unsafe-inline'; frame-src app.pendo.io demo.arcade.software js.stripe.com sentry.io 'self' intercom-sheets.com www.intercom-reporting.com; script-src 'self' 'unsafe-inline' 'report-sample' s1.sentry-cdn.com js.sentry-cdn.com browser.sentry-cdn.com statuspage-production.s3.amazonaws.com aui-cdn.atlassian.com connect-cdn.atl-paas.net js.stripe.com 'strict-dynamic' cdn.pendo.io data.pendo.io pendo-io-static.storage.googleapis.com pendo-static-5634074999128064.storage.googleapis.com plausible.io app.intercom.io widget.intercom.io js.intercomcdn.com; media-src *; font-src * data:; img-src * blob: data:; default-src 'none'; object-src 'none'; connect-src 'self' *.algolia.net *.algolianet.com *.algolia.io browser.sentry-cdn.com sentry.io *.sentry.io s1.sentry-cdn.com o1.ingest.sentry.io api2.amplitude.com app.pendo.io data.pendo.io reload.getsentry.net t687h3m0nh65.statuspage.io maps.googleapis.com plausible.io api.github.com *.intercom.io wss://*.intercom.io *.intercom-messenger.com wss://*.intercom-messenger.com uploads.intercomcdn.com uploads.intercomusercontent.com; report-uri https://o1.ingest.sentry.io/api/54785/security/?sentry_key=f724a8a027db45f5b21507e7142ff78e&sentry_release=329031335d57fab9cf676189cd21d06f8af5eb86"
+            ],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": []
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Sentry",
+      "duplicate_final": true,
+      "eligible": false
+    },
+    {
+      "rank": "104",
+      "domain": "sentry.io",
+      "stratum": "101-1000",
+      "requested_url": "https://sentry.io/for/aspnet/",
+      "depth": 3,
+      "parent_url": "https://sentry.io/platforms/",
+      "attempt": 30,
+      "timestamp": "2026-11-12T21:07:40.148823+00:00",
+      "final_url": "https://sentry.io/for/aspnet/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests; default-src 'none'; script-src 'strict-dynamic' 'nonce-fdFZCA0z4Yh9sWPF4g1mX3wcoEPIjdhj' 'report-sample' 'self' 'unsafe-inline' 'unsafe-eval' *.sentry.dev www.googletagmanager.com plausible.io player.vimeo.com prod-assets.sequelvideo.com; connect-src 'self' sentry.io *.sentry.io *.sentry.dev reload.getsentry.net www.google.com unpkg.com vimeo.com plausible.io *.sequelvideo.com *.sequel.io; img-src 'self' sentry.io *.sentry.io data: *.sentry.dev storage.googleapis.com sentry-blog.storage.googleapis.com www.googletagmanager.com i.vimeocdn.com images.ctfassets.net images.lumacdn.com *.sequelvideo.com *.cloudinary.com; style-src 'self' 'unsafe-inline' *.sentry.dev; media-src 'self' videos.ctfassets.net; font-src 'self' *.sentry.dev data: fonts.gstatic.com; frame-src player.vimeo.com demo.arcade.software recaptcha.google.com www.google.com *.sequel.io *.sequelvideo.com; manifest-src 'self' *.sentry.dev; base-uri 'none'; frame-ancestors *.sentry.io; report-uri https://o1.ingest.sentry.io/api/1297627/security/?sentry_key=e811b9077ef64dcf8a279ec18a61b222"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 256218,
+      "truncated": false,
+      "body_sha256": "f880f0b4ac4ec6ae200db4619ff715acd3760588098a48a51a1542a9ee53a4b6",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "ASP.NET Error Tracking and Performance Monitoring | Sentry",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "104",
+      "domain": "sentry.io",
+      "stratum": "101-1000",
+      "requested_url": "https://sentry.io/customers/skimmer/",
+      "depth": 4,
+      "parent_url": "https://sentry.io/for/aspnet/",
+      "attempt": 31,
+      "timestamp": "2026-11-12T21:07:41.006561+00:00",
+      "final_url": "https://sentry.io/customers/skimmer/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests; default-src 'none'; script-src 'strict-dynamic' 'nonce-dFHIM91bwxejegvldgpqaREc1rkv5Jgt' 'report-sample' 'self' 'unsafe-inline' 'unsafe-eval' *.sentry.dev www.googletagmanager.com plausible.io player.vimeo.com prod-assets.sequelvideo.com; connect-src 'self' sentry.io *.sentry.io *.sentry.dev reload.getsentry.net www.google.com unpkg.com vimeo.com plausible.io *.sequelvideo.com *.sequel.io; img-src 'self' sentry.io *.sentry.io data: *.sentry.dev storage.googleapis.com sentry-blog.storage.googleapis.com www.googletagmanager.com i.vimeocdn.com images.ctfassets.net images.lumacdn.com *.sequelvideo.com *.cloudinary.com; style-src 'self' 'unsafe-inline' *.sentry.dev; media-src 'self' videos.ctfassets.net; font-src 'self' *.sentry.dev data: fonts.gstatic.com; frame-src player.vimeo.com demo.arcade.software recaptcha.google.com www.google.com *.sequel.io *.sequelvideo.com; manifest-src 'self' *.sentry.dev; base-uri 'none'; frame-ancestors *.sentry.io; report-uri https://o1.ingest.sentry.io/api/1297627/security/?sentry_key=e811b9077ef64dcf8a279ec18a61b222"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 190691,
+      "truncated": false,
+      "body_sha256": "c2a6b704af4bc37c7516f83ffb0cbec1697404873d520fa8fc915398e39f4202",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "How the #1 pool management system is shipping ~65% faster with 50% YoY growth and 0 extra tabs | Sentry",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "104",
+      "domain": "sentry.io",
+      "stratum": "101-1000",
+      "requested_url": "https://sentry.io/privacy",
+      "depth": 3,
+      "parent_url": "https://sentry.io/trust/privacy/california/",
+      "attempt": 32,
+      "timestamp": "2026-11-12T21:07:41.619728+00:00",
+      "final_url": "https://sentry.io/privacy/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests; default-src 'none'; script-src 'strict-dynamic' 'nonce-NanhHUIgqcCLO71KDTrr6BxNRDKImCW5' 'report-sample' 'self' 'unsafe-inline' 'unsafe-eval' *.sentry.dev www.googletagmanager.com plausible.io player.vimeo.com prod-assets.sequelvideo.com; connect-src 'self' sentry.io *.sentry.io *.sentry.dev reload.getsentry.net www.google.com unpkg.com vimeo.com plausible.io *.sequelvideo.com *.sequel.io; img-src 'self' sentry.io *.sentry.io data: *.sentry.dev storage.googleapis.com sentry-blog.storage.googleapis.com www.googletagmanager.com i.vimeocdn.com images.ctfassets.net images.lumacdn.com *.sequelvideo.com *.cloudinary.com; style-src 'self' 'unsafe-inline' *.sentry.dev; media-src 'self' videos.ctfassets.net; font-src 'self' *.sentry.dev data: fonts.gstatic.com; frame-src player.vimeo.com demo.arcade.software recaptcha.google.com www.google.com *.sequel.io *.sequelvideo.com; manifest-src 'self' *.sentry.dev; base-uri 'none'; frame-ancestors *.sentry.io; report-uri https://o1.ingest.sentry.io/api/1297627/security/?sentry_key=e811b9077ef64dcf8a279ec18a61b222"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 207931,
+      "truncated": false,
+      "body_sha256": "9b4a545d366ab6b2e341d756e1a8b2f8464cbcb163960ef2325bae1d2e681b42",
+      "redirect_chain": [
+        {
+          "url": "https://sentry.io/privacy",
+          "status": 302,
+          "location": "https://sentry.io/privacy/?",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000; includeSubDomains; preload"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Privacy Policy 3.3.2 (October 29, 2025) | Sentry",
+      "duplicate_final": true,
+      "eligible": false
+    },
+    {
+      "rank": "104",
+      "domain": "sentry.io",
+      "stratum": "101-1000",
+      "requested_url": "https://sentry.io/cookbook/setup-supabase-log-drain-monitoring/",
+      "depth": 2,
+      "parent_url": "https://sentry.io/product/error-monitoring/",
+      "attempt": 33,
+      "timestamp": "2026-11-12T21:07:42.334948+00:00",
+      "final_url": "https://sentry.io/cookbook/setup-supabase-log-drain-monitoring/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests; default-src 'none'; script-src 'strict-dynamic' 'nonce-q6XgdevceBeYr2Ulmmk9BJPjw2noWthw' 'report-sample' 'self' 'unsafe-inline' 'unsafe-eval' *.sentry.dev www.googletagmanager.com plausible.io player.vimeo.com prod-assets.sequelvideo.com; connect-src 'self' sentry.io *.sentry.io *.sentry.dev reload.getsentry.net www.google.com unpkg.com vimeo.com plausible.io *.sequelvideo.com *.sequel.io; img-src 'self' sentry.io *.sentry.io data: *.sentry.dev storage.googleapis.com sentry-blog.storage.googleapis.com www.googletagmanager.com i.vimeocdn.com images.ctfassets.net images.lumacdn.com *.sequelvideo.com *.cloudinary.com; style-src 'self' 'unsafe-inline' *.sentry.dev; media-src 'self' videos.ctfassets.net; font-src 'self' *.sentry.dev data: fonts.gstatic.com; frame-src player.vimeo.com demo.arcade.software recaptcha.google.com www.google.com *.sequel.io *.sequelvideo.com; manifest-src 'self' *.sentry.dev; base-uri 'none'; frame-ancestors *.sentry.io; report-uri https://o1.ingest.sentry.io/api/1297627/security/?sentry_key=e811b9077ef64dcf8a279ec18a61b222"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 238401,
+      "truncated": false,
+      "body_sha256": "d5b482aaf5a4c879017842ed2ec0923097ce5b6a4faaf5166c503efc856d8079",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Monitor and alert on a Supabase log drain | Sentry",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "104",
+      "domain": "sentry.io",
+      "stratum": "101-1000",
+      "requested_url": "https://sentry.io/integrations/gitlab/",
+      "depth": 2,
+      "parent_url": "https://sentry.io/integrations/github/",
+      "attempt": 34,
+      "timestamp": "2026-11-12T21:07:42.939059+00:00",
+      "final_url": "https://sentry.io/integrations/gitlab/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests; default-src 'none'; script-src 'strict-dynamic' 'nonce-ickpIfqCdF9fUCBXKzCrG8jCvorgYYJf' 'report-sample' 'self' 'unsafe-inline' 'unsafe-eval' *.sentry.dev www.googletagmanager.com plausible.io player.vimeo.com prod-assets.sequelvideo.com; connect-src 'self' sentry.io *.sentry.io *.sentry.dev reload.getsentry.net www.google.com unpkg.com vimeo.com plausible.io *.sequelvideo.com *.sequel.io; img-src 'self' sentry.io *.sentry.io data: *.sentry.dev storage.googleapis.com sentry-blog.storage.googleapis.com www.googletagmanager.com i.vimeocdn.com images.ctfassets.net images.lumacdn.com *.sequelvideo.com *.cloudinary.com; style-src 'self' 'unsafe-inline' *.sentry.dev; media-src 'self' videos.ctfassets.net; font-src 'self' *.sentry.dev data: fonts.gstatic.com; frame-src player.vimeo.com demo.arcade.software recaptcha.google.com www.google.com *.sequel.io *.sequelvideo.com; manifest-src 'self' *.sentry.dev; base-uri 'none'; frame-ancestors *.sentry.io; report-uri https://o1.ingest.sentry.io/api/1297627/security/?sentry_key=e811b9077ef64dcf8a279ec18a61b222"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 202770,
+      "truncated": false,
+      "body_sha256": "692e972597499104d69b9579075e3b021fcfc83ff62dc133eaeac86e757bcb31",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Gitlab + Sentry Integration | SentryGitLab logo",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "104",
+      "domain": "sentry.io",
+      "stratum": "101-1000",
+      "requested_url": "https://sentry.io/resources/react-native-workshop/",
+      "depth": 2,
+      "parent_url": "https://sentry.io/solutions/mobile-developers/",
+      "attempt": 35,
+      "timestamp": "2026-11-12T21:07:43.397557+00:00",
+      "final_url": "https://sentry.io/resources/react-native-workshop/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests; default-src 'none'; script-src 'strict-dynamic' 'nonce-mdU9bPGZRFxMNcWqFWqsdgnzjtUyFjdZ' 'report-sample' 'self' 'unsafe-inline' 'unsafe-eval' *.sentry.dev www.googletagmanager.com plausible.io player.vimeo.com prod-assets.sequelvideo.com; connect-src 'self' sentry.io *.sentry.io *.sentry.dev reload.getsentry.net www.google.com unpkg.com vimeo.com plausible.io *.sequelvideo.com *.sequel.io; img-src 'self' sentry.io *.sentry.io data: *.sentry.dev storage.googleapis.com sentry-blog.storage.googleapis.com www.googletagmanager.com i.vimeocdn.com images.ctfassets.net images.lumacdn.com *.sequelvideo.com *.cloudinary.com; style-src 'self' 'unsafe-inline' *.sentry.dev; media-src 'self' videos.ctfassets.net; font-src 'self' *.sentry.dev data: fonts.gstatic.com; frame-src player.vimeo.com demo.arcade.software recaptcha.google.com www.google.com *.sequel.io *.sequelvideo.com; manifest-src 'self' *.sentry.dev; base-uri 'none'; frame-ancestors *.sentry.io; report-uri https://o1.ingest.sentry.io/api/1297627/security/?sentry_key=e811b9077ef64dcf8a279ec18a61b222"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 190917,
+      "truncated": false,
+      "body_sha256": "3bc73841c63eb389981b367ce11d7e796397732c799796c47717d9dab7383aac",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Beyond Crashes: Improve React Native Performance using Tracing and Logs | Sentry",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "104",
+      "domain": "sentry.io",
+      "stratum": "101-1000",
+      "requested_url": "https://sentry.io/product/seer/ai-code-review/",
+      "depth": 2,
+      "parent_url": "https://sentry.io/changelog/",
+      "attempt": 36,
+      "timestamp": "2026-11-12T21:07:44.209419+00:00",
+      "final_url": "https://sentry.io/product/seer/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests; default-src 'none'; script-src 'strict-dynamic' 'nonce-Baz9r14ahlXWJw3VwG4QRaIlN62Whccz' 'report-sample' 'self' 'unsafe-inline' 'unsafe-eval' *.sentry.dev www.googletagmanager.com plausible.io player.vimeo.com prod-assets.sequelvideo.com; connect-src 'self' sentry.io *.sentry.io *.sentry.dev reload.getsentry.net www.google.com unpkg.com vimeo.com plausible.io *.sequelvideo.com *.sequel.io; img-src 'self' sentry.io *.sentry.io data: *.sentry.dev storage.googleapis.com sentry-blog.storage.googleapis.com www.googletagmanager.com i.vimeocdn.com images.ctfassets.net images.lumacdn.com *.sequelvideo.com *.cloudinary.com; style-src 'self' 'unsafe-inline' *.sentry.dev; media-src 'self' videos.ctfassets.net; font-src 'self' *.sentry.dev data: fonts.gstatic.com; frame-src player.vimeo.com demo.arcade.software recaptcha.google.com www.google.com *.sequel.io *.sequelvideo.com; manifest-src 'self' *.sentry.dev; base-uri 'none'; frame-ancestors *.sentry.io; report-uri https://o1.ingest.sentry.io/api/1297627/security/?sentry_key=e811b9077ef64dcf8a279ec18a61b222"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 1249672,
+      "truncated": false,
+      "body_sha256": "5900b8a07488dc7d2e5272f38d2c7c66fbe2d427a88b851d5dde0a0fff130313",
+      "redirect_chain": [
+        {
+          "url": "https://sentry.io/product/seer/ai-code-review/",
+          "status": 308,
+          "location": "/product/seer/",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": []
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Seer: Debug faster at every stage of development | Sentry",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "104",
+      "domain": "sentry.io",
+      "stratum": "101-1000",
+      "requested_url": "https://sentry.io/legal/subprocessors/",
+      "depth": 3,
+      "parent_url": "https://sentry.io/product/seer/",
+      "attempt": 37,
+      "timestamp": "2026-11-12T21:07:44.905047+00:00",
+      "final_url": "https://sentry.io/legal/subprocessors/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests; default-src 'none'; script-src 'strict-dynamic' 'nonce-PuivQNXr8BVI0TYPGKIaTM24Wprag88K' 'report-sample' 'self' 'unsafe-inline' 'unsafe-eval' *.sentry.dev www.googletagmanager.com plausible.io player.vimeo.com prod-assets.sequelvideo.com; connect-src 'self' sentry.io *.sentry.io *.sentry.dev reload.getsentry.net www.google.com unpkg.com vimeo.com plausible.io *.sequelvideo.com *.sequel.io; img-src 'self' sentry.io *.sentry.io data: *.sentry.dev storage.googleapis.com sentry-blog.storage.googleapis.com www.googletagmanager.com i.vimeocdn.com images.ctfassets.net images.lumacdn.com *.sequelvideo.com *.cloudinary.com; style-src 'self' 'unsafe-inline' *.sentry.dev; media-src 'self' videos.ctfassets.net; font-src 'self' *.sentry.dev data: fonts.gstatic.com; frame-src player.vimeo.com demo.arcade.software recaptcha.google.com www.google.com *.sequel.io *.sequelvideo.com; manifest-src 'self' *.sentry.dev; base-uri 'none'; frame-ancestors *.sentry.io; report-uri https://o1.ingest.sentry.io/api/1297627/security/?sentry_key=e811b9077ef64dcf8a279ec18a61b222"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 181785,
+      "truncated": false,
+      "body_sha256": "ed5723ab7d96c5ae00f0545dfbda5d3314e1f704d31a24ef4552558e6a5751a3",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Subprocessors 2.3.0 (June 1, 2026) | Sentry",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "104",
+      "domain": "sentry.io",
+      "stratum": "101-1000",
+      "requested_url": "https://sentry.io/changelog/clearer-errors-and-smarter-editing-for-fingerprint-rules/",
+      "depth": 2,
+      "parent_url": "https://sentry.io/changelog/",
+      "attempt": 38,
+      "timestamp": "2026-11-12T21:07:45.310162+00:00",
+      "final_url": "https://sentry.io/changelog/clearer-errors-and-smarter-editing-for-fingerprint-rules/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'none'; font-src 'self' changelog.sentry.dev; style-src 'self' 'unsafe-inline'; script-src 'self' plausible.io 'unsafe-inline' 'unsafe-eval' 'report-sample'; img-src 'self' changelog.sentry.dev lh7-qw.googleusercontent.com lh3.googleusercontent.com *.public.blob.vercel-storage.com images.ctfassets.net; worker-src blob:; connect-src o1.ingest.us.sentry.io plausible.io 'self' changelog.sentry.dev sentry.io sentry.sentry.io https://vercel.com https://*.public.blob.vercel-storage.com; report-uri https://o1.ingest.us.sentry.io/api/4507670276341760/security/?sentry_key=e90f5ea060a4102c0a4c50c740e43ae1;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 21014,
+      "truncated": false,
+      "body_sha256": "9b6e76b32885e156ab9446b15a5b08c18f42ee28c22df7b3c063e63d22c074bb",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "104",
+      "domain": "sentry.io",
+      "stratum": "101-1000",
+      "requested_url": "https://sentry.io/events/github-universe-2026/",
+      "depth": 2,
+      "parent_url": "https://sentry.io/events/",
+      "attempt": 39,
+      "timestamp": "2026-11-12T21:07:45.861100+00:00",
+      "final_url": "https://sentry.io/events/github-universe-2026/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests; default-src 'none'; script-src 'strict-dynamic' 'nonce-KoubWMwqeUd7cEoJ9O1nSOifKH85yPtn' 'report-sample' 'self' 'unsafe-inline' 'unsafe-eval' *.sentry.dev www.googletagmanager.com plausible.io player.vimeo.com prod-assets.sequelvideo.com; connect-src 'self' sentry.io *.sentry.io *.sentry.dev reload.getsentry.net www.google.com unpkg.com vimeo.com plausible.io *.sequelvideo.com *.sequel.io; img-src 'self' sentry.io *.sentry.io data: *.sentry.dev storage.googleapis.com sentry-blog.storage.googleapis.com www.googletagmanager.com i.vimeocdn.com images.ctfassets.net images.lumacdn.com *.sequelvideo.com *.cloudinary.com; style-src 'self' 'unsafe-inline' *.sentry.dev; media-src 'self' videos.ctfassets.net; font-src 'self' *.sentry.dev data: fonts.gstatic.com; frame-src player.vimeo.com demo.arcade.software recaptcha.google.com www.google.com *.sequel.io *.sequelvideo.com; manifest-src 'self' *.sentry.dev; base-uri 'none'; frame-ancestors *.sentry.io; report-uri https://o1.ingest.sentry.io/api/1297627/security/?sentry_key=e811b9077ef64dcf8a279ec18a61b222"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 191075,
+      "truncated": false,
+      "body_sha256": "e3b11188cdfb9ff60f3d31517e2bd828f7b92d338fe3f7d0c98ebd0daf57937c",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Quit Buggin'. Sentry's at GitHub Universe 2026 | Sentry",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "104",
+      "domain": "sentry.io",
+      "stratum": "101-1000",
+      "requested_url": "https://sentry.io/solutions/game-developers/",
+      "depth": 1,
+      "parent_url": "https://sentry.io/welcome/",
+      "attempt": 40,
+      "timestamp": "2026-11-12T21:07:46.328254+00:00",
+      "final_url": "https://sentry.io/solutions/game-developers/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests; default-src 'none'; script-src 'strict-dynamic' 'nonce-dHeaWwYEV6MY4EaRqZ552serumlvbsxt' 'report-sample' 'self' 'unsafe-inline' 'unsafe-eval' *.sentry.dev www.googletagmanager.com plausible.io player.vimeo.com prod-assets.sequelvideo.com; connect-src 'self' sentry.io *.sentry.io *.sentry.dev reload.getsentry.net www.google.com unpkg.com vimeo.com plausible.io *.sequelvideo.com *.sequel.io; img-src 'self' sentry.io *.sentry.io data: *.sentry.dev storage.googleapis.com sentry-blog.storage.googleapis.com www.googletagmanager.com i.vimeocdn.com images.ctfassets.net images.lumacdn.com *.sequelvideo.com *.cloudinary.com; style-src 'self' 'unsafe-inline' *.sentry.dev; media-src 'self' videos.ctfassets.net; font-src 'self' *.sentry.dev data: fonts.gstatic.com; frame-src player.vimeo.com demo.arcade.software recaptcha.google.com www.google.com *.sequel.io *.sequelvideo.com; manifest-src 'self' *.sentry.dev; base-uri 'none'; frame-ancestors *.sentry.io; report-uri https://o1.ingest.sentry.io/api/1297627/security/?sentry_key=e811b9077ef64dcf8a279ec18a61b222"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 1211785,
+      "truncated": false,
+      "body_sha256": "66180ade635020a4b481e38c2a842c9dec8cc8e3cc5976cdc3873fd8b108d4e4",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Game Development Debugging and Real-time Crash Reporting | Sentry",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "104",
+      "domain": "sentry.io",
+      "stratum": "101-1000",
+      "requested_url": "https://sentry.io/contact/gdpr/",
+      "depth": 2,
+      "parent_url": "https://sentry.io/privacy/",
+      "attempt": 41,
+      "timestamp": "2026-11-12T21:07:46.971728+00:00",
+      "final_url": "https://sentry.io/contact/gdpr/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests; default-src 'none'; script-src 'strict-dynamic' 'nonce-J0Y86RD1wtts6tBj03gkbREgeL0QGMfc' 'report-sample' 'self' 'unsafe-inline' 'unsafe-eval' *.sentry.dev www.googletagmanager.com plausible.io player.vimeo.com prod-assets.sequelvideo.com; connect-src 'self' sentry.io *.sentry.io *.sentry.dev reload.getsentry.net www.google.com unpkg.com vimeo.com plausible.io *.sequelvideo.com *.sequel.io; img-src 'self' sentry.io *.sentry.io data: *.sentry.dev storage.googleapis.com sentry-blog.storage.googleapis.com www.googletagmanager.com i.vimeocdn.com images.ctfassets.net images.lumacdn.com *.sequelvideo.com *.cloudinary.com; style-src 'self' 'unsafe-inline' *.sentry.dev; media-src 'self' videos.ctfassets.net; font-src 'self' *.sentry.dev data: fonts.gstatic.com; frame-src player.vimeo.com demo.arcade.software recaptcha.google.com www.google.com *.sequel.io *.sequelvideo.com; manifest-src 'self' *.sentry.dev; base-uri 'none'; frame-ancestors *.sentry.io; report-uri https://o1.ingest.sentry.io/api/1297627/security/?sentry_key=e811b9077ef64dcf8a279ec18a61b222"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 185720,
+      "truncated": false,
+      "body_sha256": "d792ad76daacf6e437f99d7f4be6d2120b678a60559246e7ff3e6603ffa219a3",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "GDPR Data Requests | Sentry",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "104",
+      "domain": "sentry.io",
+      "stratum": "101-1000",
+      "requested_url": "https://sentry.io/platforms/",
+      "depth": 1,
+      "parent_url": "https://sentry.io/welcome/",
+      "attempt": 42,
+      "timestamp": "2026-11-12T21:07:47.334953+00:00",
+      "final_url": "https://sentry.io/platforms/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests; default-src 'none'; script-src 'strict-dynamic' 'nonce-axINE3s3pnB3FSLckTvjfvG53lUZX8Vx' 'report-sample' 'self' 'unsafe-inline' 'unsafe-eval' *.sentry.dev www.googletagmanager.com plausible.io player.vimeo.com prod-assets.sequelvideo.com; connect-src 'self' sentry.io *.sentry.io *.sentry.dev reload.getsentry.net www.google.com unpkg.com vimeo.com plausible.io *.sequelvideo.com *.sequel.io; img-src 'self' sentry.io *.sentry.io data: *.sentry.dev storage.googleapis.com sentry-blog.storage.googleapis.com www.googletagmanager.com i.vimeocdn.com images.ctfassets.net images.lumacdn.com *.sequelvideo.com *.cloudinary.com; style-src 'self' 'unsafe-inline' *.sentry.dev; media-src 'self' videos.ctfassets.net; font-src 'self' *.sentry.dev data: fonts.gstatic.com; frame-src player.vimeo.com demo.arcade.software recaptcha.google.com www.google.com *.sequel.io *.sequelvideo.com; manifest-src 'self' *.sentry.dev; base-uri 'none'; frame-ancestors *.sentry.io; report-uri https://o1.ingest.sentry.io/api/1297627/security/?sentry_key=e811b9077ef64dcf8a279ec18a61b222"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 229436,
+      "truncated": false,
+      "body_sha256": "8e98add9120a07bbab3a73dcc5355156e9ce2e7965805edefcf533c5ddeda4e0",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Platforms | Sentry",
+      "duplicate_final": true,
+      "eligible": false
+    },
+    {
+      "rank": "104",
+      "domain": "sentry.io",
+      "stratum": "101-1000",
+      "requested_url": "https://sentry.io/careers/internships-and-early-careers/",
+      "depth": 2,
+      "parent_url": "https://sentry.io/careers/",
+      "attempt": 43,
+      "timestamp": "2026-11-12T21:07:47.834176+00:00",
+      "final_url": "https://sentry.io/careers/internships-and-early-careers/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests; default-src 'none'; script-src 'strict-dynamic' 'nonce-BKgWchStIInC5apZNN8Rt2bsrWlNjp3S' 'report-sample' 'self' 'unsafe-inline' 'unsafe-eval' *.sentry.dev www.googletagmanager.com plausible.io player.vimeo.com prod-assets.sequelvideo.com; connect-src 'self' sentry.io *.sentry.io *.sentry.dev reload.getsentry.net www.google.com unpkg.com vimeo.com plausible.io *.sequelvideo.com *.sequel.io; img-src 'self' sentry.io *.sentry.io data: *.sentry.dev storage.googleapis.com sentry-blog.storage.googleapis.com www.googletagmanager.com i.vimeocdn.com images.ctfassets.net images.lumacdn.com *.sequelvideo.com *.cloudinary.com; style-src 'self' 'unsafe-inline' *.sentry.dev; media-src 'self' videos.ctfassets.net; font-src 'self' *.sentry.dev data: fonts.gstatic.com; frame-src player.vimeo.com demo.arcade.software recaptcha.google.com www.google.com *.sequel.io *.sequelvideo.com; manifest-src 'self' *.sentry.dev; base-uri 'none'; frame-ancestors *.sentry.io; report-uri https://o1.ingest.sentry.io/api/1297627/security/?sentry_key=e811b9077ef64dcf8a279ec18a61b222"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 211675,
+      "truncated": false,
+      "body_sha256": "408a0824b3ecbb6ee504f10fd62dcfe8ce17803bda538258d21c3834f601930c",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Internships and Early Careers | Sentry",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "104",
+      "domain": "sentry.io",
+      "stratum": "101-1000",
+      "requested_url": "https://sentry.io/demo/",
+      "depth": 1,
+      "parent_url": "https://sentry.io/welcome/",
+      "attempt": 44,
+      "timestamp": "2026-11-12T21:07:48.338898+00:00",
+      "final_url": "https://sentry.io/demo/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests; default-src 'none'; script-src 'strict-dynamic' 'nonce-nVMrLJD6fjp0qOEK41sQg1jsWpY3eno3' 'report-sample' 'self' 'unsafe-inline' 'unsafe-eval' *.sentry.dev www.googletagmanager.com plausible.io player.vimeo.com prod-assets.sequelvideo.com; connect-src 'self' sentry.io *.sentry.io *.sentry.dev reload.getsentry.net www.google.com unpkg.com vimeo.com plausible.io *.sequelvideo.com *.sequel.io; img-src 'self' sentry.io *.sentry.io data: *.sentry.dev storage.googleapis.com sentry-blog.storage.googleapis.com www.googletagmanager.com i.vimeocdn.com images.ctfassets.net images.lumacdn.com *.sequelvideo.com *.cloudinary.com; style-src 'self' 'unsafe-inline' *.sentry.dev; media-src 'self' videos.ctfassets.net; font-src 'self' *.sentry.dev data: fonts.gstatic.com; frame-src player.vimeo.com demo.arcade.software recaptcha.google.com www.google.com *.sequel.io *.sequelvideo.com; manifest-src 'self' *.sentry.dev; base-uri 'none'; frame-ancestors *.sentry.io; report-uri https://o1.ingest.sentry.io/api/1297627/security/?sentry_key=e811b9077ef64dcf8a279ec18a61b222"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 237053,
+      "truncated": false,
+      "body_sha256": "5aaa021600d3c773024c896220ee1c981bcbc8c095247a19bcadc88fa3598f12",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Request a Demo | Sentry",
+      "duplicate_final": true,
+      "eligible": false
+    },
+    {
+      "rank": "104",
+      "domain": "sentry.io",
+      "stratum": "101-1000",
+      "requested_url": "https://sentry.io/trust/",
+      "depth": 1,
+      "parent_url": "https://sentry.io/welcome/",
+      "attempt": 45,
+      "timestamp": "2026-11-12T21:07:49.340752+00:00",
+      "final_url": "https://sentry.io/trust/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests; default-src 'none'; script-src 'strict-dynamic' 'nonce-FDmBzhfukuqhbvPqnBNavaVV5JPcAi9U' 'report-sample' 'self' 'unsafe-inline' 'unsafe-eval' *.sentry.dev www.googletagmanager.com plausible.io player.vimeo.com prod-assets.sequelvideo.com; connect-src 'self' sentry.io *.sentry.io *.sentry.dev reload.getsentry.net www.google.com unpkg.com vimeo.com plausible.io *.sequelvideo.com *.sequel.io; img-src 'self' sentry.io *.sentry.io data: *.sentry.dev storage.googleapis.com sentry-blog.storage.googleapis.com www.googletagmanager.com i.vimeocdn.com images.ctfassets.net images.lumacdn.com *.sequelvideo.com *.cloudinary.com; style-src 'self' 'unsafe-inline' *.sentry.dev; media-src 'self' videos.ctfassets.net; font-src 'self' *.sentry.dev data: fonts.gstatic.com; frame-src player.vimeo.com demo.arcade.software recaptcha.google.com www.google.com *.sequel.io *.sequelvideo.com; manifest-src 'self' *.sentry.dev; base-uri 'none'; frame-ancestors *.sentry.io; report-uri https://o1.ingest.sentry.io/api/1297627/security/?sentry_key=e811b9077ef64dcf8a279ec18a61b222"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 186025,
+      "truncated": false,
+      "body_sha256": "fb6e2e0b2d01dfe3e1acd3514d87fdfaf859aae4b3f28e3ac2ff31ef47d64d3b",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Sentry Trust Center | Sentry",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "104",
+      "domain": "sentry.io",
+      "stratum": "101-1000",
+      "requested_url": "https://sentry.io/security",
+      "depth": 2,
+      "parent_url": "https://sentry.io/trust/",
+      "attempt": 46,
+      "timestamp": "2026-11-12T21:07:51.640717+00:00",
+      "final_url": "https://sentry.io/security/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests; default-src 'none'; script-src 'strict-dynamic' 'nonce-axCJjjcHfM3NmYtjidoeHxKMdgJnpceL' 'report-sample' 'self' 'unsafe-inline' 'unsafe-eval' *.sentry.dev www.googletagmanager.com plausible.io player.vimeo.com prod-assets.sequelvideo.com; connect-src 'self' sentry.io *.sentry.io *.sentry.dev reload.getsentry.net www.google.com unpkg.com vimeo.com plausible.io *.sequelvideo.com *.sequel.io; img-src 'self' sentry.io *.sentry.io data: *.sentry.dev storage.googleapis.com sentry-blog.storage.googleapis.com www.googletagmanager.com i.vimeocdn.com images.ctfassets.net images.lumacdn.com *.sequelvideo.com *.cloudinary.com; style-src 'self' 'unsafe-inline' *.sentry.dev; media-src 'self' videos.ctfassets.net; font-src 'self' *.sentry.dev data: fonts.gstatic.com; frame-src player.vimeo.com demo.arcade.software recaptcha.google.com www.google.com *.sequel.io *.sequelvideo.com; manifest-src 'self' *.sentry.dev; base-uri 'none'; frame-ancestors *.sentry.io; report-uri https://o1.ingest.sentry.io/api/1297627/security/?sentry_key=e811b9077ef64dcf8a279ec18a61b222"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 207134,
+      "truncated": false,
+      "body_sha256": "7527ba75c27f104152e5251c757dadd9c0ad18077125e858bd740bfd1b94ebd8",
+      "redirect_chain": [
+        {
+          "url": "https://sentry.io/security",
+          "status": 302,
+          "location": "https://sentry.io/security/?",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000; includeSubDomains; preload"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Security, Privacy, and Compliance Practices | Sentry",
+      "duplicate_final": true,
+      "eligible": false
+    },
+    {
+      "rank": "104",
+      "domain": "sentry.io",
+      "stratum": "101-1000",
+      "requested_url": "https://sentry.io/features/custom-queries/",
+      "depth": 4,
+      "parent_url": "https://sentry.io/features/dashboards/",
+      "attempt": 47,
+      "timestamp": "2026-11-12T21:07:52.113802+00:00",
+      "final_url": "https://sentry.io/features/custom-queries/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests; default-src 'none'; script-src 'strict-dynamic' 'nonce-PaCyPBxKB2P834qdObPsnVwpcOqvcpCT' 'report-sample' 'self' 'unsafe-inline' 'unsafe-eval' *.sentry.dev www.googletagmanager.com plausible.io player.vimeo.com prod-assets.sequelvideo.com; connect-src 'self' sentry.io *.sentry.io *.sentry.dev reload.getsentry.net www.google.com unpkg.com vimeo.com plausible.io *.sequelvideo.com *.sequel.io; img-src 'self' sentry.io *.sentry.io data: *.sentry.dev storage.googleapis.com sentry-blog.storage.googleapis.com www.googletagmanager.com i.vimeocdn.com images.ctfassets.net images.lumacdn.com *.sequelvideo.com *.cloudinary.com; style-src 'self' 'unsafe-inline' *.sentry.dev; media-src 'self' videos.ctfassets.net; font-src 'self' *.sentry.dev data: fonts.gstatic.com; frame-src player.vimeo.com demo.arcade.software recaptcha.google.com www.google.com *.sequel.io *.sequelvideo.com; manifest-src 'self' *.sentry.dev; base-uri 'none'; frame-ancestors *.sentry.io; report-uri https://o1.ingest.sentry.io/api/1297627/security/?sentry_key=e811b9077ef64dcf8a279ec18a61b222"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 185698,
+      "truncated": false,
+      "body_sha256": "b168e7adccec78afac3e2c3c91055c517cc7fbd223e79d9766e7f6f48b4e892e",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Build Custom Queries to Find Code Errors and Performance Issues | Sentry",
+      "duplicate_final": false,
+      "eligible": true
+    }
+  ],
+  "robots": [
+    {
+      "url": "https://sentry.io/robots.txt",
+      "timestamp": "2026-11-12T21:07:21.105734+00:00",
+      "status": 200,
+      "decision": "parsed",
+      "body_sha256": "c0f7d803d97db6c0bf75804b97eed4a533f7249c27994e253ad4fa403652da96",
+      "body": "User-agent: *\nContent-Signal: search=yes, ai-input=yes, ai-train=yes\nDisallow: /api/\nAllow: /\n\nSitemap: https://sentry.io/sitemap-index.xml\n"
+    }
+  ],
+  "eligible_pages": 40,
+  "canonical_origin": [
+    "https",
+    "sentry.io",
+    443
+  ],
+  "stop_reason": "page_budget",
+  "elapsed_seconds": 31.38
+}

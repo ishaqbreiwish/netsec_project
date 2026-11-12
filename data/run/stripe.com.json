@@ -1,0 +1,1368 @@
+{
+  "site": {
+    "rank": "212",
+    "domain": "stripe.com",
+    "stratum": "101-1000"
+  },
+  "rows": [
+    {
+      "rank": "212",
+      "domain": "stripe.com",
+      "stratum": "101-1000",
+      "requested_url": "https://stripe.com/",
+      "depth": 0,
+      "parent_url": "",
+      "attempt": 1,
+      "timestamp": "2026-11-12T21:11:57.677359+00:00",
+      "final_url": "https://stripe.com/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "base-uri 'none'; child-src 'none'; connect-src https://c.increment.com https://c.stripe.dev https://c.stripe.global https://c.stripe.partners blob: https://b.stripecdn.com https://errors.stripe.com https://ext.stripe.com https://r.stripe.com https://stripe-images.s3.us-west-1.amazonaws.com https://stripe.com 'self'; default-src 'none'; font-src https://b.stripecdn.com 'self'; form-action https://stripe.com 'self'; frame-ancestors https://app.contentful.com 'self'; frame-src https://b.stripecdn.com https://js.stripe.com https://support-conversations.stripe.com 'self'; img-src data: https://assets.ctfassets.net https://assets.stripeassets.com https://b.stripecdn.com https://images.ctfassets.net https://images.stripeassets.com https://q.stripe.com 'self'; manifest-src 'none'; media-src https://assets.ctfassets.net https://assets.stripeassets.com https://b.stripecdn.com https://videos.ctfassets.net https://videos.stripeassets.com 'self'; object-src 'none'; script-src https://b.stripecdn.com https://js.stripe.com 'self' 'sha256-3aWvb9tRBjmz1OjR3n7mwiTm94+s4iki4mMZF82asmc=' 'sha256-5LtzXhT7UFn+GqP5pKEMGL08UNZsrzANHFEBW/mQHGw=' 'sha256-beLzNcen8LrazzSCRjAapoIMTgJI0osPWGNSX7aK6lc=' 'sha256-cCM0Z4lzGkzQnmbdVw+ouz0JRawyaKcZ4yiqzqYS7ek=' 'sha256-vTifGUJH6hJYTvstw4xJ4xfr/vE0ELkOV4GpCumyqfg=' 'sha256-KxhSaxKB5RFTQsqfRwp+zG7iLjvMrTAySqnSvWlqct0=' 'sha256-tMuJ8c00j54yuxogrdIJeGhNVB350dc56i969XRz/Mc=' 'sha256-aEFSvCaVnb2wNwuO3IzA8J44RdTKt6vms9beA7BcCYg=' 'sha256-0SWEc2BfR2o77i2vUiNNIrFKQkjc2Ujsr2hlfZ6oUek=' 'sha256-++XO0UzhS9XkPcAXD939+/NfpH8YUO8EoIgEQerdgxY=' 'report-sample'; style-src https://b.stripecdn.com 'self' 'unsafe-inline'; worker-src https://b.stripecdn.com 'self'; upgrade-insecure-requests; report-uri https://q.stripe.com/csp-violation?q=J2RQBSeieLSsZpTurDNiv-xJcN8TX9XSBt4NtRypI4MU3h-v-iIAFmKap0HaPNU%3D; report-to csp"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 667699,
+      "truncated": false,
+      "body_sha256": "46e3b94de546aad22effb2b657123f683ce9cb04696b4fd12da0ce13fca3b6c6",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Stripe | Financial Infrastructure to Grow Your Revenue",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "212",
+      "domain": "stripe.com",
+      "stratum": "101-1000",
+      "requested_url": "https://stripe.com/pricing",
+      "depth": 1,
+      "parent_url": "https://stripe.com/",
+      "attempt": 2,
+      "timestamp": "2026-11-12T21:11:58.439053+00:00",
+      "final_url": "https://stripe.com/pricing",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "base-uri 'none'; connect-src https://c.increment.com https://c.stripe.dev https://c.stripe.global https://c.stripe.partners blob: https://b.stripecdn.com https://climate.stripe.com https://errors.stripe.com https://ext.stripe.com https://r.stripe.com https://stripe-images.s3.us-west-1.amazonaws.com https://stripe.com https://y4pfttj91h-1.algolianet.com/1/indexes/mkt_partners/query https://y4pfttj91h-2.algolianet.com/1/indexes/mkt_partners/query https://y4pfttj91h-3.algolianet.com/1/indexes/mkt_partners/query https://y4pfttj91h-dsn.algolia.net/1/indexes/mkt_partners/query https://tax-connectors.stripe.com 'self'; default-src 'none'; font-src https://b.stripecdn.com 'self'; form-action https://climate.stripe.com https://stripe.com 'self'; frame-ancestors https://app.contentful.com 'self'; frame-src https://checkout.stripe.dev https://support-conversations.stripe.com https://b.stripecdn.com https://checkout.stripe.com https://crypto-js.stripe.com https://js.stripe.com 'self'; img-src data: https://assets.ctfassets.net https://assets.stripeassets.com https://b.stripecdn.com https://images.ctfassets.net https://images.stripeassets.com https://q.stripe.com https://stripe-camo.global.ssl.fastly.net 'self'; media-src https://assets.ctfassets.net https://assets.stripeassets.com https://b.stripecdn.com https://videos.ctfassets.net https://videos.stripeassets.com 'self'; script-src https://b.stripecdn.com https://crypto-js.stripe.com https://js.stripe.com 'self' 'sha256-3aWvb9tRBjmz1OjR3n7mwiTm94+s4iki4mMZF82asmc=' 'sha256-5LtzXhT7UFn+GqP5pKEMGL08UNZsrzANHFEBW/mQHGw=' 'sha256-beLzNcen8LrazzSCRjAapoIMTgJI0osPWGNSX7aK6lc=' 'sha256-cCM0Z4lzGkzQnmbdVw+ouz0JRawyaKcZ4yiqzqYS7ek=' 'sha256-vTifGUJH6hJYTvstw4xJ4xfr/vE0ELkOV4GpCumyqfg=' 'sha256-KxhSaxKB5RFTQsqfRwp+zG7iLjvMrTAySqnSvWlqct0=' 'sha256-tMuJ8c00j54yuxogrdIJeGhNVB350dc56i969XRz/Mc=' 'sha256-aEFSvCaVnb2wNwuO3IzA8J44RdTKt6vms9beA7BcCYg=' 'sha256-0SWEc2BfR2o77i2vUiNNIrFKQkjc2Ujsr2hlfZ6oUek=' 'sha256-++XO0UzhS9XkPcAXD939+/NfpH8YUO8EoIgEQerdgxY=' 'report-sample'; style-src https://b.stripecdn.com 'self' 'unsafe-inline'; worker-src 'none'; upgrade-insecure-requests; report-uri https://q.stripe.com/csp-violation?q=jHxRM_SGdB0Ks85yopU_Iv3lRi63fYGCQ6PM3GKxWfG85xgHkJ5WSyVAwaA2ZHY%3D; report-to csp"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 987647,
+      "truncated": false,
+      "body_sha256": "5046dd16239c7420ea8fd0a43340064537a8fd848e9011b80ea83c198a19dc8a",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Pricing & FeesStripe logoStripe logoGuidesCard_32BMW logoAmazon logoMaersk logoTwilio logoBMW logoAmazon logoMaersk logoTwilio logoStripe logo",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "212",
+      "domain": "stripe.com",
+      "stratum": "101-1000",
+      "requested_url": "https://stripe.com/personalize",
+      "depth": 2,
+      "parent_url": "https://stripe.com/pricing",
+      "attempt": 3,
+      "timestamp": "2026-11-12T21:11:58.970710+00:00",
+      "final_url": "https://stripe.com/personalize",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "base-uri 'none'; child-src 'none'; connect-src https://c.increment.com https://c.stripe.dev https://c.stripe.global https://c.stripe.partners blob: https://b.stripecdn.com https://errors.stripe.com https://ext.stripe.com https://r.stripe.com https://stripe-images.s3.us-west-1.amazonaws.com https://stripe.com 'self'; default-src 'none'; font-src https://b.stripecdn.com 'self'; form-action https://stripe.com 'self'; frame-ancestors https://app.contentful.com 'self'; frame-src https://b.stripecdn.com https://js.stripe.com https://support-conversations.stripe.com 'self'; img-src data: https://assets.ctfassets.net https://assets.stripeassets.com https://b.stripecdn.com https://images.ctfassets.net https://images.stripeassets.com https://q.stripe.com 'self'; manifest-src 'none'; media-src https://assets.ctfassets.net https://assets.stripeassets.com https://b.stripecdn.com https://videos.ctfassets.net https://videos.stripeassets.com 'self'; object-src 'none'; script-src https://b.stripecdn.com https://js.stripe.com 'self' 'sha256-3aWvb9tRBjmz1OjR3n7mwiTm94+s4iki4mMZF82asmc=' 'sha256-5LtzXhT7UFn+GqP5pKEMGL08UNZsrzANHFEBW/mQHGw=' 'sha256-beLzNcen8LrazzSCRjAapoIMTgJI0osPWGNSX7aK6lc=' 'sha256-cCM0Z4lzGkzQnmbdVw+ouz0JRawyaKcZ4yiqzqYS7ek=' 'sha256-vTifGUJH6hJYTvstw4xJ4xfr/vE0ELkOV4GpCumyqfg=' 'sha256-KxhSaxKB5RFTQsqfRwp+zG7iLjvMrTAySqnSvWlqct0=' 'sha256-tMuJ8c00j54yuxogrdIJeGhNVB350dc56i969XRz/Mc=' 'sha256-aEFSvCaVnb2wNwuO3IzA8J44RdTKt6vms9beA7BcCYg=' 'sha256-0SWEc2BfR2o77i2vUiNNIrFKQkjc2Ujsr2hlfZ6oUek=' 'sha256-++XO0UzhS9XkPcAXD939+/NfpH8YUO8EoIgEQerdgxY=' 'report-sample'; style-src https://b.stripecdn.com 'self' 'unsafe-inline'; worker-src https://b.stripecdn.com 'self'; upgrade-insecure-requests; report-uri https://q.stripe.com/csp-violation?q=78klQGO0UjeklM-oVBIwBViPgLoh6h2RLvKlXv1w9GKDL0v_i1-cFtnbOM-Tkew%3D; report-to csp"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 139628,
+      "truncated": false,
+      "body_sha256": "4a367c9a1bf84d635dc413b0a0a787a4f5805b14169f0d8e542950b3a9db3808",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Stripe | Personalize",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "212",
+      "domain": "stripe.com",
+      "stratum": "101-1000",
+      "requested_url": "https://stripe.com/products",
+      "depth": 1,
+      "parent_url": "https://stripe.com/",
+      "attempt": 4,
+      "timestamp": "2026-11-12T21:11:59.432864+00:00",
+      "final_url": "https://stripe.com/products",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "base-uri 'none'; child-src 'none'; connect-src https://c.increment.com https://c.stripe.dev https://c.stripe.global https://c.stripe.partners blob: https://b.stripecdn.com https://errors.stripe.com https://ext.stripe.com https://r.stripe.com https://stripe-images.s3.us-west-1.amazonaws.com https://stripe.com 'self'; default-src 'none'; font-src https://b.stripecdn.com 'self'; form-action https://stripe.com 'self'; frame-ancestors https://app.contentful.com 'self'; frame-src https://b.stripecdn.com https://js.stripe.com https://support-conversations.stripe.com 'self'; img-src data: https://assets.ctfassets.net https://assets.stripeassets.com https://b.stripecdn.com https://images.ctfassets.net https://images.stripeassets.com https://q.stripe.com 'self'; manifest-src 'none'; media-src https://assets.ctfassets.net https://assets.stripeassets.com https://b.stripecdn.com https://videos.ctfassets.net https://videos.stripeassets.com 'self'; object-src 'none'; script-src https://b.stripecdn.com https://js.stripe.com 'self' 'sha256-3aWvb9tRBjmz1OjR3n7mwiTm94+s4iki4mMZF82asmc=' 'sha256-5LtzXhT7UFn+GqP5pKEMGL08UNZsrzANHFEBW/mQHGw=' 'sha256-beLzNcen8LrazzSCRjAapoIMTgJI0osPWGNSX7aK6lc=' 'sha256-cCM0Z4lzGkzQnmbdVw+ouz0JRawyaKcZ4yiqzqYS7ek=' 'sha256-vTifGUJH6hJYTvstw4xJ4xfr/vE0ELkOV4GpCumyqfg=' 'sha256-KxhSaxKB5RFTQsqfRwp+zG7iLjvMrTAySqnSvWlqct0=' 'sha256-tMuJ8c00j54yuxogrdIJeGhNVB350dc56i969XRz/Mc=' 'sha256-aEFSvCaVnb2wNwuO3IzA8J44RdTKt6vms9beA7BcCYg=' 'sha256-0SWEc2BfR2o77i2vUiNNIrFKQkjc2Ujsr2hlfZ6oUek=' 'sha256-++XO0UzhS9XkPcAXD939+/NfpH8YUO8EoIgEQerdgxY=' 'report-sample'; style-src https://b.stripecdn.com 'self' 'unsafe-inline'; worker-src https://b.stripecdn.com 'self'; upgrade-insecure-requests; report-uri https://q.stripe.com/csp-violation?q=dibzRTZkb-tBuMOvYgoTZdZ6FuD7Cyi_YYJL-hAvptyUnQf2AIy0zl2SGyBCl-g%3D; report-to csp"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 645214,
+      "truncated": false,
+      "body_sha256": "db82b07e2f22359fca01994f762d56c290b30a05f91edff9eeba9b7ee12f33c7",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Stripe Products and Features | Stripe",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "212",
+      "domain": "stripe.com",
+      "stratum": "101-1000",
+      "requested_url": "https://stripe.com/apps",
+      "depth": 2,
+      "parent_url": "https://stripe.com/pricing",
+      "attempt": 5,
+      "timestamp": "2026-11-12T21:11:59.807639+00:00",
+      "final_url": "https://stripe.com/apps",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "base-uri 'none'; connect-src https://c.increment.com https://c.stripe.dev https://c.stripe.global https://c.stripe.partners blob: https://b.stripecdn.com https://climate.stripe.com https://errors.stripe.com https://ext.stripe.com https://r.stripe.com https://stripe-images.s3.us-west-1.amazonaws.com https://stripe.com https://y4pfttj91h-1.algolianet.com/1/indexes/mkt_partners/query https://y4pfttj91h-2.algolianet.com/1/indexes/mkt_partners/query https://y4pfttj91h-3.algolianet.com/1/indexes/mkt_partners/query https://y4pfttj91h-dsn.algolia.net/1/indexes/mkt_partners/query https://tax-connectors.stripe.com 'self'; default-src 'none'; font-src https://b.stripecdn.com 'self'; form-action https://climate.stripe.com https://stripe.com 'self'; frame-ancestors https://app.contentful.com 'self'; frame-src https://checkout.stripe.dev https://support-conversations.stripe.com https://b.stripecdn.com https://checkout.stripe.com https://crypto-js.stripe.com https://js.stripe.com 'self'; img-src data: https://assets.ctfassets.net https://assets.stripeassets.com https://b.stripecdn.com https://images.ctfassets.net https://images.stripeassets.com https://q.stripe.com https://stripe-camo.global.ssl.fastly.net 'self'; media-src https://assets.ctfassets.net https://assets.stripeassets.com https://b.stripecdn.com https://videos.ctfassets.net https://videos.stripeassets.com 'self'; script-src https://b.stripecdn.com https://crypto-js.stripe.com https://js.stripe.com 'self' 'sha256-3aWvb9tRBjmz1OjR3n7mwiTm94+s4iki4mMZF82asmc=' 'sha256-5LtzXhT7UFn+GqP5pKEMGL08UNZsrzANHFEBW/mQHGw=' 'sha256-beLzNcen8LrazzSCRjAapoIMTgJI0osPWGNSX7aK6lc=' 'sha256-cCM0Z4lzGkzQnmbdVw+ouz0JRawyaKcZ4yiqzqYS7ek=' 'sha256-vTifGUJH6hJYTvstw4xJ4xfr/vE0ELkOV4GpCumyqfg=' 'sha256-KxhSaxKB5RFTQsqfRwp+zG7iLjvMrTAySqnSvWlqct0=' 'sha256-tMuJ8c00j54yuxogrdIJeGhNVB350dc56i969XRz/Mc=' 'sha256-aEFSvCaVnb2wNwuO3IzA8J44RdTKt6vms9beA7BcCYg=' 'sha256-0SWEc2BfR2o77i2vUiNNIrFKQkjc2Ujsr2hlfZ6oUek=' 'sha256-++XO0UzhS9XkPcAXD939+/NfpH8YUO8EoIgEQerdgxY=' 'report-sample'; style-src https://b.stripecdn.com 'self' 'unsafe-inline'; worker-src 'none'; upgrade-insecure-requests; report-uri https://q.stripe.com/csp-violation?q=Asz8qpdkl56GaZyW0ibh7uXZlgkf4kBsK9WjxdVbU5GQQVxNwudrLYsqzlxomoc%3D; report-to csp"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 718577,
+      "truncated": false,
+      "body_sha256": "4aa02ff684b1530f94856804c95eecdbabecf2c6337f3e4ab8e55e95cb1453e2",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Build a Stripe App | StripeStripe logoStripe logoStripe Apps logoStripe logoFinAI logoRamp logoDocusign logoRender logoFinAI logoRamp logoDocusign logoRender logoStripe logo",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "212",
+      "domain": "stripe.com",
+      "stratum": "101-1000",
+      "requested_url": "https://stripe.com/docs/stripe-apps",
+      "depth": 3,
+      "parent_url": "https://stripe.com/apps",
+      "attempt": 6,
+      "timestamp": "2026-11-12T21:12:00.583911+00:00",
+      "final_url": "https://stripe.com/docs/stripe-apps",
+      "status": 301,
+      "content_type": "",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 0,
+      "truncated": false,
+      "body_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "redirect_chain": [
+        {
+          "url": "https://stripe.com/docs/stripe-apps",
+          "status": 301,
+          "location": "https://docs.stripe.com/stripe-apps",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=63072000; includeSubDomains; preload"
+            ]
+          }
+        }
+      ],
+      "error": "redirect_out_of_scope",
+      "html": false,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "212",
+      "domain": "stripe.com",
+      "stratum": "101-1000",
+      "requested_url": "https://stripe.com/au/apps",
+      "depth": 3,
+      "parent_url": "https://stripe.com/apps",
+      "attempt": 7,
+      "timestamp": "2026-11-12T21:12:00.709512+00:00",
+      "final_url": "https://stripe.com/au/apps",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "base-uri 'none'; connect-src https://c.increment.com https://c.stripe.dev https://c.stripe.global https://c.stripe.partners blob: https://b.stripecdn.com https://climate.stripe.com https://errors.stripe.com https://ext.stripe.com https://r.stripe.com https://stripe-images.s3.us-west-1.amazonaws.com https://stripe.com https://y4pfttj91h-1.algolianet.com/1/indexes/mkt_partners/query https://y4pfttj91h-2.algolianet.com/1/indexes/mkt_partners/query https://y4pfttj91h-3.algolianet.com/1/indexes/mkt_partners/query https://y4pfttj91h-dsn.algolia.net/1/indexes/mkt_partners/query https://tax-connectors.stripe.com 'self'; default-src 'none'; font-src https://b.stripecdn.com 'self'; form-action https://climate.stripe.com https://stripe.com 'self'; frame-ancestors https://app.contentful.com 'self'; frame-src https://checkout.stripe.dev https://support-conversations.stripe.com https://b.stripecdn.com https://checkout.stripe.com https://crypto-js.stripe.com https://js.stripe.com 'self'; img-src data: https://assets.ctfassets.net https://assets.stripeassets.com https://b.stripecdn.com https://images.ctfassets.net https://images.stripeassets.com https://q.stripe.com https://stripe-camo.global.ssl.fastly.net 'self'; media-src https://assets.ctfassets.net https://assets.stripeassets.com https://b.stripecdn.com https://videos.ctfassets.net https://videos.stripeassets.com 'self'; script-src https://b.stripecdn.com https://crypto-js.stripe.com https://js.stripe.com 'self' 'sha256-3aWvb9tRBjmz1OjR3n7mwiTm94+s4iki4mMZF82asmc=' 'sha256-5LtzXhT7UFn+GqP5pKEMGL08UNZsrzANHFEBW/mQHGw=' 'sha256-beLzNcen8LrazzSCRjAapoIMTgJI0osPWGNSX7aK6lc=' 'sha256-cCM0Z4lzGkzQnmbdVw+ouz0JRawyaKcZ4yiqzqYS7ek=' 'sha256-vTifGUJH6hJYTvstw4xJ4xfr/vE0ELkOV4GpCumyqfg=' 'sha256-KxhSaxKB5RFTQsqfRwp+zG7iLjvMrTAySqnSvWlqct0=' 'sha256-tMuJ8c00j54yuxogrdIJeGhNVB350dc56i969XRz/Mc=' 'sha256-aEFSvCaVnb2wNwuO3IzA8J44RdTKt6vms9beA7BcCYg=' 'sha256-0SWEc2BfR2o77i2vUiNNIrFKQkjc2Ujsr2hlfZ6oUek=' 'sha256-++XO0UzhS9XkPcAXD939+/NfpH8YUO8EoIgEQerdgxY=' 'report-sample'; style-src https://b.stripecdn.com 'self' 'unsafe-inline'; worker-src 'none'; upgrade-insecure-requests; report-uri https://q.stripe.com/csp-violation?q=J2RQBSeieLSsZpTurDNiv-xJcN8TX9XSBt4NtRypI4MU3h-v-iIAFmKap0HaPNU%3D; report-to csp"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 702207,
+      "truncated": false,
+      "body_sha256": "7165709800b42370ff9f2aaea0ccb5a1e92f5c13c07a21fd1b6482422e714686",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Build a Stripe App | StripeStripe logoStripe logoStripe Apps logoStripe logoFinAI logoRamp logoDocusign logoRender logoFinAI logoRamp logoDocusign logoRender logoStripe logo",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "212",
+      "domain": "stripe.com",
+      "stratum": "101-1000",
+      "requested_url": "https://stripe.com/contact/sales",
+      "depth": 1,
+      "parent_url": "https://stripe.com/",
+      "attempt": 8,
+      "timestamp": "2026-11-12T21:12:01.668513+00:00",
+      "final_url": "https://stripe.com/contact/sales",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "base-uri 'none'; child-src 'none'; connect-src https://c.increment.com https://c.stripe.dev https://c.stripe.global https://c.stripe.partners blob: https://b.stripecdn.com https://errors.stripe.com https://ext.stripe.com https://r.stripe.com https://stripe-images.s3.us-west-1.amazonaws.com https://stripe.com 'self'; default-src 'none'; font-src https://b.stripecdn.com 'self'; form-action https://stripe.com 'self'; frame-ancestors https://app.contentful.com 'self'; frame-src https://b.stripecdn.com https://js.stripe.com https://support-conversations.stripe.com 'self'; img-src data: https://assets.ctfassets.net https://assets.stripeassets.com https://b.stripecdn.com https://images.ctfassets.net https://images.stripeassets.com https://q.stripe.com 'self'; manifest-src 'none'; media-src https://assets.ctfassets.net https://assets.stripeassets.com https://b.stripecdn.com https://videos.ctfassets.net https://videos.stripeassets.com 'self'; object-src 'none'; script-src https://b.stripecdn.com https://js.stripe.com 'self' 'sha256-3aWvb9tRBjmz1OjR3n7mwiTm94+s4iki4mMZF82asmc=' 'sha256-5LtzXhT7UFn+GqP5pKEMGL08UNZsrzANHFEBW/mQHGw=' 'sha256-beLzNcen8LrazzSCRjAapoIMTgJI0osPWGNSX7aK6lc=' 'sha256-cCM0Z4lzGkzQnmbdVw+ouz0JRawyaKcZ4yiqzqYS7ek=' 'sha256-vTifGUJH6hJYTvstw4xJ4xfr/vE0ELkOV4GpCumyqfg=' 'sha256-KxhSaxKB5RFTQsqfRwp+zG7iLjvMrTAySqnSvWlqct0=' 'sha256-tMuJ8c00j54yuxogrdIJeGhNVB350dc56i969XRz/Mc=' 'sha256-aEFSvCaVnb2wNwuO3IzA8J44RdTKt6vms9beA7BcCYg=' 'sha256-0SWEc2BfR2o77i2vUiNNIrFKQkjc2Ujsr2hlfZ6oUek=' 'sha256-++XO0UzhS9XkPcAXD939+/NfpH8YUO8EoIgEQerdgxY=' 'report-sample'; style-src https://b.stripecdn.com 'self' 'unsafe-inline'; worker-src https://b.stripecdn.com 'self'; upgrade-insecure-requests; report-uri https://q.stripe.com/csp-violation?q=gMT1BKgg2HOqhXCb-SA6we3YqfZCq0xbIFaADH3P7_DBSC9jL615gZnZL6DZTdY%3D; report-to csp"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 114124,
+      "truncated": false,
+      "body_sha256": "90b131cbd7bc26c819b47aa6a8e88ae2d43e85bb5df8c89ed236600e5cdb3966",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Stripe | Contact our Sales Team",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "212",
+      "domain": "stripe.com",
+      "stratum": "101-1000",
+      "requested_url": "https://stripe.com/partners/become-a-partner",
+      "depth": 2,
+      "parent_url": "https://stripe.com/pricing",
+      "attempt": 9,
+      "timestamp": "2026-11-12T21:12:01.895481+00:00",
+      "final_url": "https://stripe.com/partners/become-a-partner",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "base-uri 'none'; connect-src https://c.increment.com https://c.stripe.dev https://c.stripe.global https://c.stripe.partners blob: https://b.stripecdn.com https://climate.stripe.com https://errors.stripe.com https://ext.stripe.com https://r.stripe.com https://stripe-images.s3.us-west-1.amazonaws.com https://stripe.com https://y4pfttj91h-1.algolianet.com/1/indexes/mkt_partners/query https://y4pfttj91h-2.algolianet.com/1/indexes/mkt_partners/query https://y4pfttj91h-3.algolianet.com/1/indexes/mkt_partners/query https://y4pfttj91h-dsn.algolia.net/1/indexes/mkt_partners/query https://tax-connectors.stripe.com 'self'; default-src 'none'; font-src https://b.stripecdn.com 'self'; form-action https://climate.stripe.com https://stripe.com 'self'; frame-ancestors https://app.contentful.com 'self'; frame-src https://checkout.stripe.dev https://support-conversations.stripe.com https://b.stripecdn.com https://checkout.stripe.com https://crypto-js.stripe.com https://js.stripe.com 'self'; img-src data: https://assets.ctfassets.net https://assets.stripeassets.com https://b.stripecdn.com https://images.ctfassets.net https://images.stripeassets.com https://q.stripe.com https://stripe-camo.global.ssl.fastly.net 'self'; media-src https://assets.ctfassets.net https://assets.stripeassets.com https://b.stripecdn.com https://videos.ctfassets.net https://videos.stripeassets.com 'self'; script-src https://b.stripecdn.com https://crypto-js.stripe.com https://js.stripe.com 'self' 'sha256-3aWvb9tRBjmz1OjR3n7mwiTm94+s4iki4mMZF82asmc=' 'sha256-5LtzXhT7UFn+GqP5pKEMGL08UNZsrzANHFEBW/mQHGw=' 'sha256-beLzNcen8LrazzSCRjAapoIMTgJI0osPWGNSX7aK6lc=' 'sha256-cCM0Z4lzGkzQnmbdVw+ouz0JRawyaKcZ4yiqzqYS7ek=' 'sha256-vTifGUJH6hJYTvstw4xJ4xfr/vE0ELkOV4GpCumyqfg=' 'sha256-KxhSaxKB5RFTQsqfRwp+zG7iLjvMrTAySqnSvWlqct0=' 'sha256-tMuJ8c00j54yuxogrdIJeGhNVB350dc56i969XRz/Mc=' 'sha256-aEFSvCaVnb2wNwuO3IzA8J44RdTKt6vms9beA7BcCYg=' 'sha256-0SWEc2BfR2o77i2vUiNNIrFKQkjc2Ujsr2hlfZ6oUek=' 'sha256-++XO0UzhS9XkPcAXD939+/NfpH8YUO8EoIgEQerdgxY=' 'report-sample'; style-src https://b.stripecdn.com 'self' 'unsafe-inline'; worker-src 'none'; upgrade-insecure-requests; report-uri https://q.stripe.com/csp-violation?q=Asz8qpdkl56GaZyW0ibh7uXZlgkf4kBsK9WjxdVbU5GQQVxNwudrLYsqzlxomoc%3D; report-to csp"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 687617,
+      "truncated": false,
+      "body_sha256": "eb051644f68790780d364532df770d8793b1f26bfc5371d2520c84bad8b2f79b",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Become a Stripe Partner | Stripe Partner EcosystemStripe logoStripe logoKajabi logoWooCommerce logoCanadian Red Cross logoKajabi logoWooCommerce logoCanadian Red Cross logoStripe logo",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "212",
+      "domain": "stripe.com",
+      "stratum": "101-1000",
+      "requested_url": "https://stripe.com/at/apps",
+      "depth": 3,
+      "parent_url": "https://stripe.com/apps",
+      "attempt": 10,
+      "timestamp": "2026-11-12T21:12:02.750516+00:00",
+      "final_url": "https://stripe.com/at/apps",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "base-uri 'none'; connect-src https://c.increment.com https://c.stripe.dev https://c.stripe.global https://c.stripe.partners blob: https://b.stripecdn.com https://climate.stripe.com https://errors.stripe.com https://ext.stripe.com https://r.stripe.com https://stripe-images.s3.us-west-1.amazonaws.com https://stripe.com https://y4pfttj91h-1.algolianet.com/1/indexes/mkt_partners/query https://y4pfttj91h-2.algolianet.com/1/indexes/mkt_partners/query https://y4pfttj91h-3.algolianet.com/1/indexes/mkt_partners/query https://y4pfttj91h-dsn.algolia.net/1/indexes/mkt_partners/query https://tax-connectors.stripe.com 'self'; default-src 'none'; font-src https://b.stripecdn.com 'self'; form-action https://climate.stripe.com https://stripe.com 'self'; frame-ancestors https://app.contentful.com 'self'; frame-src https://checkout.stripe.dev https://support-conversations.stripe.com https://b.stripecdn.com https://checkout.stripe.com https://crypto-js.stripe.com https://js.stripe.com 'self'; img-src data: https://assets.ctfassets.net https://assets.stripeassets.com https://b.stripecdn.com https://images.ctfassets.net https://images.stripeassets.com https://q.stripe.com https://stripe-camo.global.ssl.fastly.net 'self'; media-src https://assets.ctfassets.net https://assets.stripeassets.com https://b.stripecdn.com https://videos.ctfassets.net https://videos.stripeassets.com 'self'; script-src https://b.stripecdn.com https://crypto-js.stripe.com https://js.stripe.com 'self' 'sha256-3aWvb9tRBjmz1OjR3n7mwiTm94+s4iki4mMZF82asmc=' 'sha256-5LtzXhT7UFn+GqP5pKEMGL08UNZsrzANHFEBW/mQHGw=' 'sha256-beLzNcen8LrazzSCRjAapoIMTgJI0osPWGNSX7aK6lc=' 'sha256-cCM0Z4lzGkzQnmbdVw+ouz0JRawyaKcZ4yiqzqYS7ek=' 'sha256-vTifGUJH6hJYTvstw4xJ4xfr/vE0ELkOV4GpCumyqfg=' 'sha256-KxhSaxKB5RFTQsqfRwp+zG7iLjvMrTAySqnSvWlqct0=' 'sha256-tMuJ8c00j54yuxogrdIJeGhNVB350dc56i969XRz/Mc=' 'sha256-aEFSvCaVnb2wNwuO3IzA8J44RdTKt6vms9beA7BcCYg=' 'sha256-0SWEc2BfR2o77i2vUiNNIrFKQkjc2Ujsr2hlfZ6oUek=' 'sha256-++XO0UzhS9XkPcAXD939+/NfpH8YUO8EoIgEQerdgxY=' 'report-sample'; style-src https://b.stripecdn.com 'self' 'unsafe-inline'; worker-src 'none'; upgrade-insecure-requests; report-uri https://q.stripe.com/csp-violation?q=MHoDr6_f-3cJf7LnMs7QyfDOla473ZZS3SDT4Ne-UqNOqTqFsBCuLwZU5QJj-EM%3D; report-to csp"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 712100,
+      "truncated": false,
+      "body_sha256": "3d9a46d30770c643343cbf0f756e3b63f82d30e1cbe6f19337041886b0a1a1a5",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Eine Stripe-App erstellen | StripeStripe logoStripe logoStripe Apps logoStripe logoFinAI logoRamp logoDocusign logoRender logoFinAI logoRamp logoDocusign logoRender logoStripe logo",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "212",
+      "domain": "stripe.com",
+      "stratum": "101-1000",
+      "requested_url": "https://stripe.com/newsroom/news/stripe-openai-instant-checkout",
+      "depth": 1,
+      "parent_url": "https://stripe.com/",
+      "attempt": 11,
+      "timestamp": "2026-11-12T21:12:03.290537+00:00",
+      "final_url": "https://stripe.com/newsroom/news/stripe-openai-instant-checkout",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "base-uri 'none'; connect-src https://c.increment.com https://c.stripe.dev https://c.stripe.global https://c.stripe.partners blob: https://b.stripecdn.com https://climate.stripe.com https://errors.stripe.com https://ext.stripe.com https://r.stripe.com https://stripe-images.s3.us-west-1.amazonaws.com https://stripe.com https://y4pfttj91h-1.algolianet.com/1/indexes/mkt_partners/query https://y4pfttj91h-2.algolianet.com/1/indexes/mkt_partners/query https://y4pfttj91h-3.algolianet.com/1/indexes/mkt_partners/query https://y4pfttj91h-dsn.algolia.net/1/indexes/mkt_partners/query https://tax-connectors.stripe.com 'self'; default-src 'none'; font-src https://b.stripecdn.com 'self'; form-action https://climate.stripe.com https://stripe.com 'self'; frame-ancestors https://app.contentful.com 'self'; frame-src https://checkout.stripe.dev https://support-conversations.stripe.com https://b.stripecdn.com https://checkout.stripe.com https://crypto-js.stripe.com https://js.stripe.com 'self'; img-src data: https://assets.ctfassets.net https://assets.stripeassets.com https://b.stripecdn.com https://images.ctfassets.net https://images.stripeassets.com https://q.stripe.com https://stripe-camo.global.ssl.fastly.net 'self'; media-src https://assets.ctfassets.net https://assets.stripeassets.com https://b.stripecdn.com https://videos.ctfassets.net https://videos.stripeassets.com 'self'; script-src https://b.stripecdn.com https://crypto-js.stripe.com https://js.stripe.com 'self' 'sha256-3aWvb9tRBjmz1OjR3n7mwiTm94+s4iki4mMZF82asmc=' 'sha256-5LtzXhT7UFn+GqP5pKEMGL08UNZsrzANHFEBW/mQHGw=' 'sha256-beLzNcen8LrazzSCRjAapoIMTgJI0osPWGNSX7aK6lc=' 'sha256-cCM0Z4lzGkzQnmbdVw+ouz0JRawyaKcZ4yiqzqYS7ek=' 'sha256-vTifGUJH6hJYTvstw4xJ4xfr/vE0ELkOV4GpCumyqfg=' 'sha256-KxhSaxKB5RFTQsqfRwp+zG7iLjvMrTAySqnSvWlqct0=' 'sha256-tMuJ8c00j54yuxogrdIJeGhNVB350dc56i969XRz/Mc=' 'sha256-aEFSvCaVnb2wNwuO3IzA8J44RdTKt6vms9beA7BcCYg=' 'sha256-0SWEc2BfR2o77i2vUiNNIrFKQkjc2Ujsr2hlfZ6oUek=' 'sha256-++XO0UzhS9XkPcAXD939+/NfpH8YUO8EoIgEQerdgxY=' 'report-sample'; style-src https://b.stripecdn.com 'self' 'unsafe-inline'; worker-src 'none'; upgrade-insecure-requests; report-uri https://q.stripe.com/csp-violation?q=MHoDr6_f-3cJf7LnMs7QyfDOla473ZZS3SDT4Ne-UqNOqTqFsBCuLwZU5QJj-EM%3D; report-to csp"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 381398,
+      "truncated": false,
+      "body_sha256": "ed8040ad7ab66e2d92fb06d0dac5082253939fd8090d0a026c0f4d93a69b9814",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Stripe powers Instant Checkout in ChatGPT and releases Agentic Commerce Protocol codeveloped with OpenAIStripe logoStripe logoStripe logo",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "212",
+      "domain": "stripe.com",
+      "stratum": "101-1000",
+      "requested_url": "https://stripe.com/payments/authentication",
+      "depth": 2,
+      "parent_url": "https://stripe.com/pricing",
+      "attempt": 12,
+      "timestamp": "2026-11-12T21:12:03.790842+00:00",
+      "final_url": "https://stripe.com/payments/authentication",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "base-uri 'none'; connect-src https://c.increment.com https://c.stripe.dev https://c.stripe.global https://c.stripe.partners blob: https://b.stripecdn.com https://climate.stripe.com https://errors.stripe.com https://ext.stripe.com https://r.stripe.com https://stripe-images.s3.us-west-1.amazonaws.com https://stripe.com https://y4pfttj91h-1.algolianet.com/1/indexes/mkt_partners/query https://y4pfttj91h-2.algolianet.com/1/indexes/mkt_partners/query https://y4pfttj91h-3.algolianet.com/1/indexes/mkt_partners/query https://y4pfttj91h-dsn.algolia.net/1/indexes/mkt_partners/query https://tax-connectors.stripe.com 'self'; default-src 'none'; font-src https://b.stripecdn.com 'self'; form-action https://climate.stripe.com https://stripe.com 'self'; frame-ancestors https://app.contentful.com 'self'; frame-src https://checkout.stripe.dev https://support-conversations.stripe.com https://b.stripecdn.com https://checkout.stripe.com https://crypto-js.stripe.com https://js.stripe.com 'self'; img-src data: https://assets.ctfassets.net https://assets.stripeassets.com https://b.stripecdn.com https://images.ctfassets.net https://images.stripeassets.com https://q.stripe.com https://stripe-camo.global.ssl.fastly.net 'self'; media-src https://assets.ctfassets.net https://assets.stripeassets.com https://b.stripecdn.com https://videos.ctfassets.net https://videos.stripeassets.com 'self'; script-src https://b.stripecdn.com https://crypto-js.stripe.com https://js.stripe.com 'self' 'sha256-3aWvb9tRBjmz1OjR3n7mwiTm94+s4iki4mMZF82asmc=' 'sha256-5LtzXhT7UFn+GqP5pKEMGL08UNZsrzANHFEBW/mQHGw=' 'sha256-beLzNcen8LrazzSCRjAapoIMTgJI0osPWGNSX7aK6lc=' 'sha256-cCM0Z4lzGkzQnmbdVw+ouz0JRawyaKcZ4yiqzqYS7ek=' 'sha256-vTifGUJH6hJYTvstw4xJ4xfr/vE0ELkOV4GpCumyqfg=' 'sha256-KxhSaxKB5RFTQsqfRwp+zG7iLjvMrTAySqnSvWlqct0=' 'sha256-tMuJ8c00j54yuxogrdIJeGhNVB350dc56i969XRz/Mc=' 'sha256-aEFSvCaVnb2wNwuO3IzA8J44RdTKt6vms9beA7BcCYg=' 'sha256-0SWEc2BfR2o77i2vUiNNIrFKQkjc2Ujsr2hlfZ6oUek=' 'sha256-++XO0UzhS9XkPcAXD939+/NfpH8YUO8EoIgEQerdgxY=' 'report-sample'; style-src https://b.stripecdn.com 'self' 'unsafe-inline'; worker-src 'none'; upgrade-insecure-requests; report-uri https://q.stripe.com/csp-violation?q=9-m7VcnDjdJhmtk639iZm0Ai_G_47n9-p4OG5ODHdoozj_NS-0XWVaiO8uCQhGw%3D; report-to csp"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 684578,
+      "truncated": false,
+      "body_sha256": "8e5359c1c9633023106b664bdc94f8ca4299a2b0485d1804dd335024130edca3",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Optimized Authentication and Delegated Authentication | StripeStripe logoStripe logoStripe logoLaredoute logoWayfair logoAlma logoFrasersGroup logoRemitly logoAmazon logoRiverIsland logoEdinburghAirport logoAuthorization BoostRadarDisputeManagementGuidesCard_23Stripe logo",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "212",
+      "domain": "stripe.com",
+      "stratum": "101-1000",
+      "requested_url": "https://stripe.com/en-at/apps",
+      "depth": 3,
+      "parent_url": "https://stripe.com/apps",
+      "attempt": 13,
+      "timestamp": "2026-11-12T21:12:04.294301+00:00",
+      "final_url": "https://stripe.com/en-at/apps",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "base-uri 'none'; connect-src https://c.increment.com https://c.stripe.dev https://c.stripe.global https://c.stripe.partners blob: https://b.stripecdn.com https://climate.stripe.com https://errors.stripe.com https://ext.stripe.com https://r.stripe.com https://stripe-images.s3.us-west-1.amazonaws.com https://stripe.com https://y4pfttj91h-1.algolianet.com/1/indexes/mkt_partners/query https://y4pfttj91h-2.algolianet.com/1/indexes/mkt_partners/query https://y4pfttj91h-3.algolianet.com/1/indexes/mkt_partners/query https://y4pfttj91h-dsn.algolia.net/1/indexes/mkt_partners/query https://tax-connectors.stripe.com 'self'; default-src 'none'; font-src https://b.stripecdn.com 'self'; form-action https://climate.stripe.com https://stripe.com 'self'; frame-ancestors https://app.contentful.com 'self'; frame-src https://checkout.stripe.dev https://support-conversations.stripe.com https://b.stripecdn.com https://checkout.stripe.com https://crypto-js.stripe.com https://js.stripe.com 'self'; img-src data: https://assets.ctfassets.net https://assets.stripeassets.com https://b.stripecdn.com https://images.ctfassets.net https://images.stripeassets.com https://q.stripe.com https://stripe-camo.global.ssl.fastly.net 'self'; media-src https://assets.ctfassets.net https://assets.stripeassets.com https://b.stripecdn.com https://videos.ctfassets.net https://videos.stripeassets.com 'self'; script-src https://b.stripecdn.com https://crypto-js.stripe.com https://js.stripe.com 'self' 'sha256-3aWvb9tRBjmz1OjR3n7mwiTm94+s4iki4mMZF82asmc=' 'sha256-5LtzXhT7UFn+GqP5pKEMGL08UNZsrzANHFEBW/mQHGw=' 'sha256-beLzNcen8LrazzSCRjAapoIMTgJI0osPWGNSX7aK6lc=' 'sha256-cCM0Z4lzGkzQnmbdVw+ouz0JRawyaKcZ4yiqzqYS7ek=' 'sha256-vTifGUJH6hJYTvstw4xJ4xfr/vE0ELkOV4GpCumyqfg=' 'sha256-KxhSaxKB5RFTQsqfRwp+zG7iLjvMrTAySqnSvWlqct0=' 'sha256-tMuJ8c00j54yuxogrdIJeGhNVB350dc56i969XRz/Mc=' 'sha256-aEFSvCaVnb2wNwuO3IzA8J44RdTKt6vms9beA7BcCYg=' 'sha256-0SWEc2BfR2o77i2vUiNNIrFKQkjc2Ujsr2hlfZ6oUek=' 'sha256-++XO0UzhS9XkPcAXD939+/NfpH8YUO8EoIgEQerdgxY=' 'report-sample'; style-src https://b.stripecdn.com 'self' 'unsafe-inline'; worker-src 'none'; upgrade-insecure-requests; report-uri https://q.stripe.com/csp-violation?q=Ljgo11UJp8FAbeQSRY2yCkYBFHYEkXL8C-l9bCiFcWXaQAkJovmDxciJSb6rZKw%3D; report-to csp"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 709184,
+      "truncated": false,
+      "body_sha256": "ecf9a8b7bc0ddae7a368f46d1bd19fda319150db502ae31c9eaedb4d33e09100",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Build a Stripe App | StripeStripe logoStripe logoStripe Apps logoStripe logoFinAI logoRamp logoDocusign logoRender logoFinAI logoRamp logoDocusign logoRender logoStripe logo",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "212",
+      "domain": "stripe.com",
+      "stratum": "101-1000",
+      "requested_url": "https://stripe.com/customers/amazon",
+      "depth": 1,
+      "parent_url": "https://stripe.com/",
+      "attempt": 14,
+      "timestamp": "2026-11-12T21:12:04.922836+00:00",
+      "final_url": "https://stripe.com/customers/amazon",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "base-uri 'none'; connect-src https://c.increment.com https://c.stripe.dev https://c.stripe.global https://c.stripe.partners blob: https://b.stripecdn.com https://climate.stripe.com https://errors.stripe.com https://ext.stripe.com https://r.stripe.com https://stripe-images.s3.us-west-1.amazonaws.com https://stripe.com https://y4pfttj91h-1.algolianet.com/1/indexes/mkt_partners/query https://y4pfttj91h-2.algolianet.com/1/indexes/mkt_partners/query https://y4pfttj91h-3.algolianet.com/1/indexes/mkt_partners/query https://y4pfttj91h-dsn.algolia.net/1/indexes/mkt_partners/query https://tax-connectors.stripe.com 'self'; default-src 'none'; font-src https://b.stripecdn.com 'self'; form-action https://climate.stripe.com https://stripe.com 'self'; frame-ancestors https://app.contentful.com 'self'; frame-src https://checkout.stripe.dev https://support-conversations.stripe.com https://b.stripecdn.com https://checkout.stripe.com https://crypto-js.stripe.com https://js.stripe.com 'self'; img-src data: https://assets.ctfassets.net https://assets.stripeassets.com https://b.stripecdn.com https://images.ctfassets.net https://images.stripeassets.com https://q.stripe.com https://stripe-camo.global.ssl.fastly.net 'self'; media-src https://assets.ctfassets.net https://assets.stripeassets.com https://b.stripecdn.com https://videos.ctfassets.net https://videos.stripeassets.com 'self'; script-src https://b.stripecdn.com https://crypto-js.stripe.com https://js.stripe.com 'self' 'sha256-3aWvb9tRBjmz1OjR3n7mwiTm94+s4iki4mMZF82asmc=' 'sha256-5LtzXhT7UFn+GqP5pKEMGL08UNZsrzANHFEBW/mQHGw=' 'sha256-beLzNcen8LrazzSCRjAapoIMTgJI0osPWGNSX7aK6lc=' 'sha256-cCM0Z4lzGkzQnmbdVw+ouz0JRawyaKcZ4yiqzqYS7ek=' 'sha256-vTifGUJH6hJYTvstw4xJ4xfr/vE0ELkOV4GpCumyqfg=' 'sha256-KxhSaxKB5RFTQsqfRwp+zG7iLjvMrTAySqnSvWlqct0=' 'sha256-tMuJ8c00j54yuxogrdIJeGhNVB350dc56i969XRz/Mc=' 'sha256-aEFSvCaVnb2wNwuO3IzA8J44RdTKt6vms9beA7BcCYg=' 'sha256-0SWEc2BfR2o77i2vUiNNIrFKQkjc2Ujsr2hlfZ6oUek=' 'sha256-++XO0UzhS9XkPcAXD939+/NfpH8YUO8EoIgEQerdgxY=' 'report-sample'; style-src https://b.stripecdn.com 'self' 'unsafe-inline'; worker-src 'none'; upgrade-insecure-requests; report-uri https://q.stripe.com/csp-violation?q=78klQGO0UjeklM-oVBIwBViPgLoh6h2RLvKlXv1w9GKDL0v_i1-cFtnbOM-Tkew%3D; report-to csp"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 508829,
+      "truncated": false,
+      "body_sha256": "fdf50c7e04f7e8b00a2ffcd32452aaa2f25ebfa7f35e918f7c6a1029e4d82f7c",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Amazon Simplifies Cross-Border Payments With Stripe | StripeStripe logoStripe logoAmazon logoAMP logoAna logoStripe logo",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "212",
+      "domain": "stripe.com",
+      "stratum": "101-1000",
+      "requested_url": "https://stripe.com/authorization-boost/",
+      "depth": 2,
+      "parent_url": "https://stripe.com/pricing",
+      "attempt": 15,
+      "timestamp": "2026-11-12T21:12:05.809365+00:00",
+      "final_url": "https://stripe.com/authorization-boost",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "base-uri 'none'; connect-src https://c.increment.com https://c.stripe.dev https://c.stripe.global https://c.stripe.partners blob: https://b.stripecdn.com https://climate.stripe.com https://errors.stripe.com https://ext.stripe.com https://r.stripe.com https://stripe-images.s3.us-west-1.amazonaws.com https://stripe.com https://y4pfttj91h-1.algolianet.com/1/indexes/mkt_partners/query https://y4pfttj91h-2.algolianet.com/1/indexes/mkt_partners/query https://y4pfttj91h-3.algolianet.com/1/indexes/mkt_partners/query https://y4pfttj91h-dsn.algolia.net/1/indexes/mkt_partners/query https://tax-connectors.stripe.com 'self'; default-src 'none'; font-src https://b.stripecdn.com 'self'; form-action https://climate.stripe.com https://stripe.com 'self'; frame-ancestors https://app.contentful.com 'self'; frame-src https://checkout.stripe.dev https://support-conversations.stripe.com https://b.stripecdn.com https://checkout.stripe.com https://crypto-js.stripe.com https://js.stripe.com 'self'; img-src data: https://assets.ctfassets.net https://assets.stripeassets.com https://b.stripecdn.com https://images.ctfassets.net https://images.stripeassets.com https://q.stripe.com https://stripe-camo.global.ssl.fastly.net 'self'; media-src https://assets.ctfassets.net https://assets.stripeassets.com https://b.stripecdn.com https://videos.ctfassets.net https://videos.stripeassets.com 'self'; script-src https://b.stripecdn.com https://crypto-js.stripe.com https://js.stripe.com 'self' 'sha256-3aWvb9tRBjmz1OjR3n7mwiTm94+s4iki4mMZF82asmc=' 'sha256-5LtzXhT7UFn+GqP5pKEMGL08UNZsrzANHFEBW/mQHGw=' 'sha256-beLzNcen8LrazzSCRjAapoIMTgJI0osPWGNSX7aK6lc=' 'sha256-cCM0Z4lzGkzQnmbdVw+ouz0JRawyaKcZ4yiqzqYS7ek=' 'sha256-vTifGUJH6hJYTvstw4xJ4xfr/vE0ELkOV4GpCumyqfg=' 'sha256-KxhSaxKB5RFTQsqfRwp+zG7iLjvMrTAySqnSvWlqct0=' 'sha256-tMuJ8c00j54yuxogrdIJeGhNVB350dc56i969XRz/Mc=' 'sha256-aEFSvCaVnb2wNwuO3IzA8J44RdTKt6vms9beA7BcCYg=' 'sha256-0SWEc2BfR2o77i2vUiNNIrFKQkjc2Ujsr2hlfZ6oUek=' 'sha256-++XO0UzhS9XkPcAXD939+/NfpH8YUO8EoIgEQerdgxY=' 'report-sample'; style-src https://b.stripecdn.com 'self' 'unsafe-inline'; worker-src 'none'; upgrade-insecure-requests; report-uri https://q.stripe.com/csp-violation?q=I6UVKfk_zEn3zSHD8Iw32XCqZIwO1CAz_m3clgry9N9saTD_CKo1mBtKt2REipw%3D; report-to csp"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 864239,
+      "truncated": false,
+      "body_sha256": "8179bd3679ce7337421d5412d7efb05d6f55aa7f0fa0bd0513156398f40c37ff",
+      "redirect_chain": [
+        {
+          "url": "https://stripe.com/authorization-boost/",
+          "status": 301,
+          "location": "https://stripe.com/authorization-boost",
+          "headers": {
+            "content-security-policy": [
+              "base-uri 'none'; connect-src https://c.increment.com https://c.stripe.dev https://c.stripe.global https://c.stripe.partners blob: https://b.stripecdn.com https://climate.stripe.com https://errors.stripe.com https://ext.stripe.com https://r.stripe.com https://stripe-images.s3.us-west-1.amazonaws.com https://stripe.com https://y4pfttj91h-1.algolianet.com/1/indexes/mkt_partners/query https://y4pfttj91h-2.algolianet.com/1/indexes/mkt_partners/query https://y4pfttj91h-3.algolianet.com/1/indexes/mkt_partners/query https://y4pfttj91h-dsn.algolia.net/1/indexes/mkt_partners/query https://tax-connectors.stripe.com 'self'; default-src 'none'; font-src https://b.stripecdn.com 'self'; form-action https://climate.stripe.com https://stripe.com 'self'; frame-ancestors https://app.contentful.com 'self'; frame-src https://checkout.stripe.dev https://support-conversations.stripe.com https://b.stripecdn.com https://checkout.stripe.com https://crypto-js.stripe.com https://js.stripe.com 'self'; img-src data: https://assets.ctfassets.net https://assets.stripeassets.com https://b.stripecdn.com https://images.ctfassets.net https://images.stripeassets.com https://q.stripe.com https://stripe-camo.global.ssl.fastly.net 'self'; media-src https://assets.ctfassets.net https://assets.stripeassets.com https://b.stripecdn.com https://videos.ctfassets.net https://videos.stripeassets.com 'self'; script-src https://b.stripecdn.com https://crypto-js.stripe.com https://js.stripe.com 'self' 'sha256-3aWvb9tRBjmz1OjR3n7mwiTm94+s4iki4mMZF82asmc=' 'sha256-5LtzXhT7UFn+GqP5pKEMGL08UNZsrzANHFEBW/mQHGw=' 'sha256-beLzNcen8LrazzSCRjAapoIMTgJI0osPWGNSX7aK6lc=' 'sha256-cCM0Z4lzGkzQnmbdVw+ouz0JRawyaKcZ4yiqzqYS7ek=' 'sha256-vTifGUJH6hJYTvstw4xJ4xfr/vE0ELkOV4GpCumyqfg=' 'sha256-KxhSaxKB5RFTQsqfRwp+zG7iLjvMrTAySqnSvWlqct0=' 'sha256-tMuJ8c00j54yuxogrdIJeGhNVB350dc56i969XRz/Mc=' 'sha256-aEFSvCaVnb2wNwuO3IzA8J44RdTKt6vms9beA7BcCYg=' 'sha256-0SWEc2BfR2o77i2vUiNNIrFKQkjc2Ujsr2hlfZ6oUek=' 'sha256-++XO0UzhS9XkPcAXD939+/NfpH8YUO8EoIgEQerdgxY=' 'report-sample'; style-src https://b.stripecdn.com 'self' 'unsafe-inline'; worker-src 'none'; upgrade-insecure-requests; report-uri https://q.stripe.com/csp-violation?q=Gm-gJxkEiU3e4TXyIVTEsSnL6OOf1ZZB23zhBOvgVHxT_kthVUSFoFyPQFr38I4%3D; report-to csp"
+            ],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=63072000; includeSubDomains; preload"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Stripe Authorization Boost | Increase Your Authorization RatesStripe logoStripe logoAmazon logoGithub logoHertz logoSlack logoInstacart logoMicrosoft logoTwilio logoSpotify logoTwilio logoCLEAR logoNotion logoUSMobile logoTwilio logoCLEAR logoNotion logoUSMobile logoAuthenticationRadarDisputeManagem",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "212",
+      "domain": "stripe.com",
+      "stratum": "101-1000",
+      "requested_url": "https://stripe.com/nl-be/apps",
+      "depth": 3,
+      "parent_url": "https://stripe.com/apps",
+      "attempt": 16,
+      "timestamp": "2026-11-12T21:12:06.540455+00:00",
+      "final_url": "https://stripe.com/nl-be/apps",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "base-uri 'none'; connect-src https://c.increment.com https://c.stripe.dev https://c.stripe.global https://c.stripe.partners blob: https://b.stripecdn.com https://climate.stripe.com https://errors.stripe.com https://ext.stripe.com https://r.stripe.com https://stripe-images.s3.us-west-1.amazonaws.com https://stripe.com https://y4pfttj91h-1.algolianet.com/1/indexes/mkt_partners/query https://y4pfttj91h-2.algolianet.com/1/indexes/mkt_partners/query https://y4pfttj91h-3.algolianet.com/1/indexes/mkt_partners/query https://y4pfttj91h-dsn.algolia.net/1/indexes/mkt_partners/query https://tax-connectors.stripe.com 'self'; default-src 'none'; font-src https://b.stripecdn.com 'self'; form-action https://climate.stripe.com https://stripe.com 'self'; frame-ancestors https://app.contentful.com 'self'; frame-src https://checkout.stripe.dev https://support-conversations.stripe.com https://b.stripecdn.com https://checkout.stripe.com https://crypto-js.stripe.com https://js.stripe.com 'self'; img-src data: https://assets.ctfassets.net https://assets.stripeassets.com https://b.stripecdn.com https://images.ctfassets.net https://images.stripeassets.com https://q.stripe.com https://stripe-camo.global.ssl.fastly.net 'self'; media-src https://assets.ctfassets.net https://assets.stripeassets.com https://b.stripecdn.com https://videos.ctfassets.net https://videos.stripeassets.com 'self'; script-src https://b.stripecdn.com https://crypto-js.stripe.com https://js.stripe.com 'self' 'sha256-3aWvb9tRBjmz1OjR3n7mwiTm94+s4iki4mMZF82asmc=' 'sha256-5LtzXhT7UFn+GqP5pKEMGL08UNZsrzANHFEBW/mQHGw=' 'sha256-beLzNcen8LrazzSCRjAapoIMTgJI0osPWGNSX7aK6lc=' 'sha256-cCM0Z4lzGkzQnmbdVw+ouz0JRawyaKcZ4yiqzqYS7ek=' 'sha256-vTifGUJH6hJYTvstw4xJ4xfr/vE0ELkOV4GpCumyqfg=' 'sha256-KxhSaxKB5RFTQsqfRwp+zG7iLjvMrTAySqnSvWlqct0=' 'sha256-tMuJ8c00j54yuxogrdIJeGhNVB350dc56i969XRz/Mc=' 'sha256-aEFSvCaVnb2wNwuO3IzA8J44RdTKt6vms9beA7BcCYg=' 'sha256-0SWEc2BfR2o77i2vUiNNIrFKQkjc2Ujsr2hlfZ6oUek=' 'sha256-++XO0UzhS9XkPcAXD939+/NfpH8YUO8EoIgEQerdgxY=' 'report-sample'; style-src https://b.stripecdn.com 'self' 'unsafe-inline'; worker-src 'none'; upgrade-insecure-requests; report-uri https://q.stripe.com/csp-violation?q=IbpSOoaQWQ6RmJdrtLOpPDfd5x_FUEidOY6x0ieZ1UXdtoGZAlmh9ThZiZo2khc%3D; report-to csp"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 711914,
+      "truncated": false,
+      "body_sha256": "4e4d4d72e882b029bf43b3282f0e94094d521e8353890bbff11871b0aa303ba6",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Een Stripe-app bouwen | StripeStripe logoStripe logoStripe Apps logoStripe logoFinAI logoRamp logoDocusign logoRender logoFinAI logoRamp logoDocusign logoRender logoStripe logo",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "212",
+      "domain": "stripe.com",
+      "stratum": "101-1000",
+      "requested_url": "https://stripe.com/enterprise",
+      "depth": 1,
+      "parent_url": "https://stripe.com/",
+      "attempt": 17,
+      "timestamp": "2026-11-12T21:12:07.127856+00:00",
+      "final_url": "https://stripe.com/enterprise",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "base-uri 'none'; connect-src https://c.increment.com https://c.stripe.dev https://c.stripe.global https://c.stripe.partners blob: https://b.stripecdn.com https://climate.stripe.com https://errors.stripe.com https://ext.stripe.com https://r.stripe.com https://stripe-images.s3.us-west-1.amazonaws.com https://stripe.com https://y4pfttj91h-1.algolianet.com/1/indexes/mkt_partners/query https://y4pfttj91h-2.algolianet.com/1/indexes/mkt_partners/query https://y4pfttj91h-3.algolianet.com/1/indexes/mkt_partners/query https://y4pfttj91h-dsn.algolia.net/1/indexes/mkt_partners/query https://tax-connectors.stripe.com 'self'; default-src 'none'; font-src https://b.stripecdn.com 'self'; form-action https://climate.stripe.com https://stripe.com 'self'; frame-ancestors https://app.contentful.com 'self'; frame-src https://checkout.stripe.dev https://support-conversations.stripe.com https://b.stripecdn.com https://checkout.stripe.com https://crypto-js.stripe.com https://js.stripe.com 'self'; img-src data: https://assets.ctfassets.net https://assets.stripeassets.com https://b.stripecdn.com https://images.ctfassets.net https://images.stripeassets.com https://q.stripe.com https://stripe-camo.global.ssl.fastly.net 'self'; media-src https://assets.ctfassets.net https://assets.stripeassets.com https://b.stripecdn.com https://videos.ctfassets.net https://videos.stripeassets.com 'self'; script-src https://b.stripecdn.com https://crypto-js.stripe.com https://js.stripe.com 'self' 'sha256-3aWvb9tRBjmz1OjR3n7mwiTm94+s4iki4mMZF82asmc=' 'sha256-5LtzXhT7UFn+GqP5pKEMGL08UNZsrzANHFEBW/mQHGw=' 'sha256-beLzNcen8LrazzSCRjAapoIMTgJI0osPWGNSX7aK6lc=' 'sha256-cCM0Z4lzGkzQnmbdVw+ouz0JRawyaKcZ4yiqzqYS7ek=' 'sha256-vTifGUJH6hJYTvstw4xJ4xfr/vE0ELkOV4GpCumyqfg=' 'sha256-KxhSaxKB5RFTQsqfRwp+zG7iLjvMrTAySqnSvWlqct0=' 'sha256-tMuJ8c00j54yuxogrdIJeGhNVB350dc56i969XRz/Mc=' 'sha256-aEFSvCaVnb2wNwuO3IzA8J44RdTKt6vms9beA7BcCYg=' 'sha256-0SWEc2BfR2o77i2vUiNNIrFKQkjc2Ujsr2hlfZ6oUek=' 'sha256-++XO0UzhS9XkPcAXD939+/NfpH8YUO8EoIgEQerdgxY=' 'report-sample'; style-src https://b.stripecdn.com 'self' 'unsafe-inline'; worker-src 'none'; upgrade-insecure-requests; report-uri https://q.stripe.com/csp-violation?q=bTOB-CrcIGADVB1p7i3yjDUxWylh75Tmd5GsETRM-GUOvEtIHQDUDiSI9cLTmsk%3D; report-to csp"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 946354,
+      "truncated": false,
+      "body_sha256": "06c2656a740b6a3844cd9f685387aac5ce53269a8613a8943ed2a157bb51b77d",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Enterprise Payment Solutions for Large Businesses | StripeStripe logoStripe logoHAndM logoMaersk logoMarriott logoBMW logoAmazon logoSalesforce logoLeMonde logoUnilever logoURBN logoToyota logoHAndM logoMaersk logoMarriott logoBMW logoAmazon logoSalesforce logoLeMonde logoUnilever logoURBN logoToyot",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "212",
+      "domain": "stripe.com",
+      "stratum": "101-1000",
+      "requested_url": "https://stripe.com/connect/pricing",
+      "depth": 2,
+      "parent_url": "https://stripe.com/pricing",
+      "attempt": 18,
+      "timestamp": "2026-11-12T21:12:07.580582+00:00",
+      "final_url": "https://stripe.com/connect/pricing",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "base-uri 'none'; connect-src https://c.increment.com https://c.stripe.dev https://c.stripe.global https://c.stripe.partners blob: https://b.stripecdn.com https://climate.stripe.com https://errors.stripe.com https://ext.stripe.com https://r.stripe.com https://stripe-images.s3.us-west-1.amazonaws.com https://stripe.com https://y4pfttj91h-1.algolianet.com/1/indexes/mkt_partners/query https://y4pfttj91h-2.algolianet.com/1/indexes/mkt_partners/query https://y4pfttj91h-3.algolianet.com/1/indexes/mkt_partners/query https://y4pfttj91h-dsn.algolia.net/1/indexes/mkt_partners/query https://tax-connectors.stripe.com 'self'; default-src 'none'; font-src https://b.stripecdn.com 'self'; form-action https://climate.stripe.com https://stripe.com 'self'; frame-ancestors https://app.contentful.com 'self'; frame-src https://checkout.stripe.dev https://support-conversations.stripe.com https://b.stripecdn.com https://checkout.stripe.com https://crypto-js.stripe.com https://js.stripe.com 'self'; img-src data: https://assets.ctfassets.net https://assets.stripeassets.com https://b.stripecdn.com https://images.ctfassets.net https://images.stripeassets.com https://q.stripe.com https://stripe-camo.global.ssl.fastly.net 'self'; media-src https://assets.ctfassets.net https://assets.stripeassets.com https://b.stripecdn.com https://videos.ctfassets.net https://videos.stripeassets.com 'self'; script-src https://b.stripecdn.com https://crypto-js.stripe.com https://js.stripe.com 'self' 'sha256-3aWvb9tRBjmz1OjR3n7mwiTm94+s4iki4mMZF82asmc=' 'sha256-5LtzXhT7UFn+GqP5pKEMGL08UNZsrzANHFEBW/mQHGw=' 'sha256-beLzNcen8LrazzSCRjAapoIMTgJI0osPWGNSX7aK6lc=' 'sha256-cCM0Z4lzGkzQnmbdVw+ouz0JRawyaKcZ4yiqzqYS7ek=' 'sha256-vTifGUJH6hJYTvstw4xJ4xfr/vE0ELkOV4GpCumyqfg=' 'sha256-KxhSaxKB5RFTQsqfRwp+zG7iLjvMrTAySqnSvWlqct0=' 'sha256-tMuJ8c00j54yuxogrdIJeGhNVB350dc56i969XRz/Mc=' 'sha256-aEFSvCaVnb2wNwuO3IzA8J44RdTKt6vms9beA7BcCYg=' 'sha256-0SWEc2BfR2o77i2vUiNNIrFKQkjc2Ujsr2hlfZ6oUek=' 'sha256-++XO0UzhS9XkPcAXD939+/NfpH8YUO8EoIgEQerdgxY=' 'report-sample'; style-src https://b.stripecdn.com 'self' 'unsafe-inline'; worker-src 'none'; upgrade-insecure-requests; report-uri https://q.stripe.com/csp-violation?q=gMT1BKgg2HOqhXCb-SA6we3YqfZCq0xbIFaADH3P7_DBSC9jL615gZnZL6DZTdY%3D; report-to csp"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 605468,
+      "truncated": false,
+      "body_sha256": "6c1067adf602885c16c0c9ed606077ab800932f44f2d30064c2ec62a4c90d64c",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Pricing information | Stripe ConnectStripe logoStripe logoStripe logo",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "212",
+      "domain": "stripe.com",
+      "stratum": "101-1000",
+      "requested_url": "https://stripe.com/fr-be/apps",
+      "depth": 3,
+      "parent_url": "https://stripe.com/apps",
+      "attempt": 19,
+      "timestamp": "2026-11-12T21:12:08.092750+00:00",
+      "final_url": "https://stripe.com/fr-be/apps",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "base-uri 'none'; connect-src https://c.increment.com https://c.stripe.dev https://c.stripe.global https://c.stripe.partners blob: https://b.stripecdn.com https://climate.stripe.com https://errors.stripe.com https://ext.stripe.com https://r.stripe.com https://stripe-images.s3.us-west-1.amazonaws.com https://stripe.com https://y4pfttj91h-1.algolianet.com/1/indexes/mkt_partners/query https://y4pfttj91h-2.algolianet.com/1/indexes/mkt_partners/query https://y4pfttj91h-3.algolianet.com/1/indexes/mkt_partners/query https://y4pfttj91h-dsn.algolia.net/1/indexes/mkt_partners/query https://tax-connectors.stripe.com 'self'; default-src 'none'; font-src https://b.stripecdn.com 'self'; form-action https://climate.stripe.com https://stripe.com 'self'; frame-ancestors https://app.contentful.com 'self'; frame-src https://checkout.stripe.dev https://support-conversations.stripe.com https://b.stripecdn.com https://checkout.stripe.com https://crypto-js.stripe.com https://js.stripe.com 'self'; img-src data: https://assets.ctfassets.net https://assets.stripeassets.com https://b.stripecdn.com https://images.ctfassets.net https://images.stripeassets.com https://q.stripe.com https://stripe-camo.global.ssl.fastly.net 'self'; media-src https://assets.ctfassets.net https://assets.stripeassets.com https://b.stripecdn.com https://videos.ctfassets.net https://videos.stripeassets.com 'self'; script-src https://b.stripecdn.com https://crypto-js.stripe.com https://js.stripe.com 'self' 'sha256-3aWvb9tRBjmz1OjR3n7mwiTm94+s4iki4mMZF82asmc=' 'sha256-5LtzXhT7UFn+GqP5pKEMGL08UNZsrzANHFEBW/mQHGw=' 'sha256-beLzNcen8LrazzSCRjAapoIMTgJI0osPWGNSX7aK6lc=' 'sha256-cCM0Z4lzGkzQnmbdVw+ouz0JRawyaKcZ4yiqzqYS7ek=' 'sha256-vTifGUJH6hJYTvstw4xJ4xfr/vE0ELkOV4GpCumyqfg=' 'sha256-KxhSaxKB5RFTQsqfRwp+zG7iLjvMrTAySqnSvWlqct0=' 'sha256-tMuJ8c00j54yuxogrdIJeGhNVB350dc56i969XRz/Mc=' 'sha256-aEFSvCaVnb2wNwuO3IzA8J44RdTKt6vms9beA7BcCYg=' 'sha256-0SWEc2BfR2o77i2vUiNNIrFKQkjc2Ujsr2hlfZ6oUek=' 'sha256-++XO0UzhS9XkPcAXD939+/NfpH8YUO8EoIgEQerdgxY=' 'report-sample'; style-src https://b.stripecdn.com 'self' 'unsafe-inline'; worker-src 'none'; upgrade-insecure-requests; report-uri https://q.stripe.com/csp-violation?q=uggWk7-OMitSCNOldO902hW7y_Tvpl5i7_9WYYfBIX7hfUG7YpR5ntLm2gX6j6Q%3D; report-to csp"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 714067,
+      "truncated": false,
+      "body_sha256": "3558e7f3c510fa488b5e89d9c853c940b2f5680ad1075d92ba2f4e5d66b3af56",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Cr\u00e9er une application Stripe | StripeStripe logoStripe logoStripe Apps logoStripe logoFinAI logoRamp logoDocusign logoRender logoFinAI logoRamp logoDocusign logoRender logoStripe logo",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "212",
+      "domain": "stripe.com",
+      "stratum": "101-1000",
+      "requested_url": "https://stripe.com/professional-services",
+      "depth": 1,
+      "parent_url": "https://stripe.com/",
+      "attempt": 20,
+      "timestamp": "2026-11-12T21:12:08.614309+00:00",
+      "final_url": "https://stripe.com/professional-services",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "base-uri 'none'; connect-src https://c.increment.com https://c.stripe.dev https://c.stripe.global https://c.stripe.partners blob: https://b.stripecdn.com https://climate.stripe.com https://errors.stripe.com https://ext.stripe.com https://r.stripe.com https://stripe-images.s3.us-west-1.amazonaws.com https://stripe.com https://y4pfttj91h-1.algolianet.com/1/indexes/mkt_partners/query https://y4pfttj91h-2.algolianet.com/1/indexes/mkt_partners/query https://y4pfttj91h-3.algolianet.com/1/indexes/mkt_partners/query https://y4pfttj91h-dsn.algolia.net/1/indexes/mkt_partners/query https://tax-connectors.stripe.com 'self'; default-src 'none'; font-src https://b.stripecdn.com 'self'; form-action https://climate.stripe.com https://stripe.com 'self'; frame-ancestors https://app.contentful.com 'self'; frame-src https://checkout.stripe.dev https://support-conversations.stripe.com https://b.stripecdn.com https://checkout.stripe.com https://crypto-js.stripe.com https://js.stripe.com 'self'; img-src data: https://assets.ctfassets.net https://assets.stripeassets.com https://b.stripecdn.com https://images.ctfassets.net https://images.stripeassets.com https://q.stripe.com https://stripe-camo.global.ssl.fastly.net 'self'; media-src https://assets.ctfassets.net https://assets.stripeassets.com https://b.stripecdn.com https://videos.ctfassets.net https://videos.stripeassets.com 'self'; script-src https://b.stripecdn.com https://crypto-js.stripe.com https://js.stripe.com 'self' 'sha256-3aWvb9tRBjmz1OjR3n7mwiTm94+s4iki4mMZF82asmc=' 'sha256-5LtzXhT7UFn+GqP5pKEMGL08UNZsrzANHFEBW/mQHGw=' 'sha256-beLzNcen8LrazzSCRjAapoIMTgJI0osPWGNSX7aK6lc=' 'sha256-cCM0Z4lzGkzQnmbdVw+ouz0JRawyaKcZ4yiqzqYS7ek=' 'sha256-vTifGUJH6hJYTvstw4xJ4xfr/vE0ELkOV4GpCumyqfg=' 'sha256-KxhSaxKB5RFTQsqfRwp+zG7iLjvMrTAySqnSvWlqct0=' 'sha256-tMuJ8c00j54yuxogrdIJeGhNVB350dc56i969XRz/Mc=' 'sha256-aEFSvCaVnb2wNwuO3IzA8J44RdTKt6vms9beA7BcCYg=' 'sha256-0SWEc2BfR2o77i2vUiNNIrFKQkjc2Ujsr2hlfZ6oUek=' 'sha256-++XO0UzhS9XkPcAXD939+/NfpH8YUO8EoIgEQerdgxY=' 'report-sample'; style-src https://b.stripecdn.com 'self' 'unsafe-inline'; worker-src 'none'; upgrade-insecure-requests; report-uri https://q.stripe.com/csp-violation?q=jHxRM_SGdB0Ks85yopU_Iv3lRi63fYGCQ6PM3GKxWfG85xgHkJ5WSyVAwaA2ZHY%3D; report-to csp"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 890016,
+      "truncated": false,
+      "body_sha256": "af72cf7a343d2fa5a86fa584cbe07e1b47ede0eb0fcf432916e8ac1eb47891d6",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Stripe Professional Services | Implementation Consulting I StripeStripe logoStripe logoCapitalCheckoutRadarConnectClimateIssuingPaymentsTaxBillingIdentityAtlasTerminalInvoicingSnowflake logoLaredoute logoHeyGen logoDynMedia logoSnowflake logoLaredoute logoHeyGen logoDynMedia logoStripe logo",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "212",
+      "domain": "stripe.com",
+      "stratum": "101-1000",
+      "requested_url": "https://stripe.com/terminal/tap-to-pay",
+      "depth": 2,
+      "parent_url": "https://stripe.com/pricing",
+      "attempt": 21,
+      "timestamp": "2026-11-12T21:12:09.740951+00:00",
+      "final_url": "https://stripe.com/terminal/tap-to-pay",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "base-uri 'none'; connect-src https://c.increment.com https://c.stripe.dev https://c.stripe.global https://c.stripe.partners blob: https://b.stripecdn.com https://climate.stripe.com https://errors.stripe.com https://ext.stripe.com https://r.stripe.com https://stripe-images.s3.us-west-1.amazonaws.com https://stripe.com https://y4pfttj91h-1.algolianet.com/1/indexes/mkt_partners/query https://y4pfttj91h-2.algolianet.com/1/indexes/mkt_partners/query https://y4pfttj91h-3.algolianet.com/1/indexes/mkt_partners/query https://y4pfttj91h-dsn.algolia.net/1/indexes/mkt_partners/query https://tax-connectors.stripe.com 'self'; default-src 'none'; font-src https://b.stripecdn.com 'self'; form-action https://climate.stripe.com https://stripe.com 'self'; frame-ancestors https://app.contentful.com 'self'; frame-src https://checkout.stripe.dev https://support-conversations.stripe.com https://b.stripecdn.com https://checkout.stripe.com https://crypto-js.stripe.com https://js.stripe.com 'self'; img-src data: https://assets.ctfassets.net https://assets.stripeassets.com https://b.stripecdn.com https://images.ctfassets.net https://images.stripeassets.com https://q.stripe.com https://stripe-camo.global.ssl.fastly.net 'self'; media-src https://assets.ctfassets.net https://assets.stripeassets.com https://b.stripecdn.com https://videos.ctfassets.net https://videos.stripeassets.com 'self'; script-src https://b.stripecdn.com https://crypto-js.stripe.com https://js.stripe.com 'self' 'sha256-3aWvb9tRBjmz1OjR3n7mwiTm94+s4iki4mMZF82asmc=' 'sha256-5LtzXhT7UFn+GqP5pKEMGL08UNZsrzANHFEBW/mQHGw=' 'sha256-beLzNcen8LrazzSCRjAapoIMTgJI0osPWGNSX7aK6lc=' 'sha256-cCM0Z4lzGkzQnmbdVw+ouz0JRawyaKcZ4yiqzqYS7ek=' 'sha256-vTifGUJH6hJYTvstw4xJ4xfr/vE0ELkOV4GpCumyqfg=' 'sha256-KxhSaxKB5RFTQsqfRwp+zG7iLjvMrTAySqnSvWlqct0=' 'sha256-tMuJ8c00j54yuxogrdIJeGhNVB350dc56i969XRz/Mc=' 'sha256-aEFSvCaVnb2wNwuO3IzA8J44RdTKt6vms9beA7BcCYg=' 'sha256-0SWEc2BfR2o77i2vUiNNIrFKQkjc2Ujsr2hlfZ6oUek=' 'sha256-++XO0UzhS9XkPcAXD939+/NfpH8YUO8EoIgEQerdgxY=' 'report-sample'; style-src https://b.stripecdn.com 'self' 'unsafe-inline'; worker-src 'none'; upgrade-insecure-requests; report-uri https://q.stripe.com/csp-violation?q=MHoDr6_f-3cJf7LnMs7QyfDOla473ZZS3SDT4Ne-UqNOqTqFsBCuLwZU5QJj-EM%3D; report-to csp"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 674614,
+      "truncated": false,
+      "body_sha256": "0437a78c96b649ede6edc0549adbdc3dd5d7bd686e13ba21ed41563dd147da48",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Tap to Pay | Stripe TerminalStripe logoStripe logoShopify logoGivetap logoFareHarbor logoGloss Genius logoShopify logoSquire logoFareHarbor logoOddle logoShopify logoSquire logoFareHarbor logoOddle logoStripe logo",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "212",
+      "domain": "stripe.com",
+      "stratum": "101-1000",
+      "requested_url": "https://stripe.com/de-be/apps",
+      "depth": 3,
+      "parent_url": "https://stripe.com/apps",
+      "attempt": 22,
+      "timestamp": "2026-11-12T21:12:10.248743+00:00",
+      "final_url": "https://stripe.com/de-be/apps",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "base-uri 'none'; connect-src https://c.increment.com https://c.stripe.dev https://c.stripe.global https://c.stripe.partners blob: https://b.stripecdn.com https://climate.stripe.com https://errors.stripe.com https://ext.stripe.com https://r.stripe.com https://stripe-images.s3.us-west-1.amazonaws.com https://stripe.com https://y4pfttj91h-1.algolianet.com/1/indexes/mkt_partners/query https://y4pfttj91h-2.algolianet.com/1/indexes/mkt_partners/query https://y4pfttj91h-3.algolianet.com/1/indexes/mkt_partners/query https://y4pfttj91h-dsn.algolia.net/1/indexes/mkt_partners/query https://tax-connectors.stripe.com 'self'; default-src 'none'; font-src https://b.stripecdn.com 'self'; form-action https://climate.stripe.com https://stripe.com 'self'; frame-ancestors https://app.contentful.com 'self'; frame-src https://checkout.stripe.dev https://support-conversations.stripe.com https://b.stripecdn.com https://checkout.stripe.com https://crypto-js.stripe.com https://js.stripe.com 'self'; img-src data: https://assets.ctfassets.net https://assets.stripeassets.com https://b.stripecdn.com https://images.ctfassets.net https://images.stripeassets.com https://q.stripe.com https://stripe-camo.global.ssl.fastly.net 'self'; media-src https://assets.ctfassets.net https://assets.stripeassets.com https://b.stripecdn.com https://videos.ctfassets.net https://videos.stripeassets.com 'self'; script-src https://b.stripecdn.com https://crypto-js.stripe.com https://js.stripe.com 'self' 'sha256-3aWvb9tRBjmz1OjR3n7mwiTm94+s4iki4mMZF82asmc=' 'sha256-5LtzXhT7UFn+GqP5pKEMGL08UNZsrzANHFEBW/mQHGw=' 'sha256-beLzNcen8LrazzSCRjAapoIMTgJI0osPWGNSX7aK6lc=' 'sha256-cCM0Z4lzGkzQnmbdVw+ouz0JRawyaKcZ4yiqzqYS7ek=' 'sha256-vTifGUJH6hJYTvstw4xJ4xfr/vE0ELkOV4GpCumyqfg=' 'sha256-KxhSaxKB5RFTQsqfRwp+zG7iLjvMrTAySqnSvWlqct0=' 'sha256-tMuJ8c00j54yuxogrdIJeGhNVB350dc56i969XRz/Mc=' 'sha256-aEFSvCaVnb2wNwuO3IzA8J44RdTKt6vms9beA7BcCYg=' 'sha256-0SWEc2BfR2o77i2vUiNNIrFKQkjc2Ujsr2hlfZ6oUek=' 'sha256-++XO0UzhS9XkPcAXD939+/NfpH8YUO8EoIgEQerdgxY=' 'report-sample'; style-src https://b.stripecdn.com 'self' 'unsafe-inline'; worker-src 'none'; upgrade-insecure-requests; report-uri https://q.stripe.com/csp-violation?q=9-m7VcnDjdJhmtk639iZm0Ai_G_47n9-p4OG5ODHdoozj_NS-0XWVaiO8uCQhGw%3D; report-to csp"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 712734,
+      "truncated": false,
+      "body_sha256": "2ebdcc0da0764d4257f4c53e4709f93a6dd200beb2badaf014ff4852a3e98aaf",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Eine Stripe-App erstellen | StripeStripe logoStripe logoStripe Apps logoStripe logoFinAI logoRamp logoDocusign logoRender logoFinAI logoRamp logoDocusign logoRender logoStripe logo",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "212",
+      "domain": "stripe.com",
+      "stratum": "101-1000",
+      "requested_url": "https://stripe.com/support-plans",
+      "depth": 1,
+      "parent_url": "https://stripe.com/",
+      "attempt": 23,
+      "timestamp": "2026-11-12T21:12:10.787939+00:00",
+      "final_url": "https://stripe.com/support-plans",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "base-uri 'none'; connect-src https://c.increment.com https://c.stripe.dev https://c.stripe.global https://c.stripe.partners blob: https://b.stripecdn.com https://climate.stripe.com https://errors.stripe.com https://ext.stripe.com https://r.stripe.com https://stripe-images.s3.us-west-1.amazonaws.com https://stripe.com https://y4pfttj91h-1.algolianet.com/1/indexes/mkt_partners/query https://y4pfttj91h-2.algolianet.com/1/indexes/mkt_partners/query https://y4pfttj91h-3.algolianet.com/1/indexes/mkt_partners/query https://y4pfttj91h-dsn.algolia.net/1/indexes/mkt_partners/query https://tax-connectors.stripe.com 'self'; default-src 'none'; font-src https://b.stripecdn.com 'self'; form-action https://climate.stripe.com https://stripe.com 'self'; frame-ancestors https://app.contentful.com 'self'; frame-src https://checkout.stripe.dev https://support-conversations.stripe.com https://b.stripecdn.com https://checkout.stripe.com https://crypto-js.stripe.com https://js.stripe.com 'self'; img-src data: https://assets.ctfassets.net https://assets.stripeassets.com https://b.stripecdn.com https://images.ctfassets.net https://images.stripeassets.com https://q.stripe.com https://stripe-camo.global.ssl.fastly.net 'self'; media-src https://assets.ctfassets.net https://assets.stripeassets.com https://b.stripecdn.com https://videos.ctfassets.net https://videos.stripeassets.com 'self'; script-src https://b.stripecdn.com https://crypto-js.stripe.com https://js.stripe.com 'self' 'sha256-3aWvb9tRBjmz1OjR3n7mwiTm94+s4iki4mMZF82asmc=' 'sha256-5LtzXhT7UFn+GqP5pKEMGL08UNZsrzANHFEBW/mQHGw=' 'sha256-beLzNcen8LrazzSCRjAapoIMTgJI0osPWGNSX7aK6lc=' 'sha256-cCM0Z4lzGkzQnmbdVw+ouz0JRawyaKcZ4yiqzqYS7ek=' 'sha256-vTifGUJH6hJYTvstw4xJ4xfr/vE0ELkOV4GpCumyqfg=' 'sha256-KxhSaxKB5RFTQsqfRwp+zG7iLjvMrTAySqnSvWlqct0=' 'sha256-tMuJ8c00j54yuxogrdIJeGhNVB350dc56i969XRz/Mc=' 'sha256-aEFSvCaVnb2wNwuO3IzA8J44RdTKt6vms9beA7BcCYg=' 'sha256-0SWEc2BfR2o77i2vUiNNIrFKQkjc2Ujsr2hlfZ6oUek=' 'sha256-++XO0UzhS9XkPcAXD939+/NfpH8YUO8EoIgEQerdgxY=' 'report-sample'; style-src https://b.stripecdn.com 'self' 'unsafe-inline'; worker-src 'none'; upgrade-insecure-requests; report-uri https://q.stripe.com/csp-violation?q=XFmf-meBVNudf-kgru16ztUnwv_DMMHyY3nT2NDKxQ-mdM40dqGtjpJ2r_ZOjdk%3D; report-to csp"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 642075,
+      "truncated": false,
+      "body_sha256": "37a5d6d82bc8b3f8d861d1cda64f8bbe5e6d31747b5322a229a10df3e07992d0",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Stripe Support Plans | Dedicated Technical ExpertiseStripe logoStripe logoDoordash logoFigma logoFox Sports logoLaredoute logoLGElectronics logoLovable logoRamp logoURBN logoAlma logoNordSecurity logoFICO logoLGElectronics logoAlma logoNordSecurity logoFICO logoLGElectronics logoPaymentsInvoicingAtl",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "212",
+      "domain": "stripe.com",
+      "stratum": "101-1000",
+      "requested_url": "https://stripe.com/billing/pricing",
+      "depth": 2,
+      "parent_url": "https://stripe.com/pricing",
+      "attempt": 24,
+      "timestamp": "2026-11-12T21:12:11.263007+00:00",
+      "final_url": "https://stripe.com/billing/pricing",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "base-uri 'none'; connect-src https://c.increment.com https://c.stripe.dev https://c.stripe.global https://c.stripe.partners blob: https://b.stripecdn.com https://climate.stripe.com https://errors.stripe.com https://ext.stripe.com https://r.stripe.com https://stripe-images.s3.us-west-1.amazonaws.com https://stripe.com https://y4pfttj91h-1.algolianet.com/1/indexes/mkt_partners/query https://y4pfttj91h-2.algolianet.com/1/indexes/mkt_partners/query https://y4pfttj91h-3.algolianet.com/1/indexes/mkt_partners/query https://y4pfttj91h-dsn.algolia.net/1/indexes/mkt_partners/query https://tax-connectors.stripe.com 'self'; default-src 'none'; font-src https://b.stripecdn.com 'self'; form-action https://climate.stripe.com https://stripe.com 'self'; frame-ancestors https://app.contentful.com 'self'; frame-src https://checkout.stripe.dev https://support-conversations.stripe.com https://b.stripecdn.com https://checkout.stripe.com https://crypto-js.stripe.com https://js.stripe.com 'self'; img-src data: https://assets.ctfassets.net https://assets.stripeassets.com https://b.stripecdn.com https://images.ctfassets.net https://images.stripeassets.com https://q.stripe.com https://stripe-camo.global.ssl.fastly.net 'self'; media-src https://assets.ctfassets.net https://assets.stripeassets.com https://b.stripecdn.com https://videos.ctfassets.net https://videos.stripeassets.com 'self'; script-src https://b.stripecdn.com https://crypto-js.stripe.com https://js.stripe.com 'self' 'sha256-3aWvb9tRBjmz1OjR3n7mwiTm94+s4iki4mMZF82asmc=' 'sha256-5LtzXhT7UFn+GqP5pKEMGL08UNZsrzANHFEBW/mQHGw=' 'sha256-beLzNcen8LrazzSCRjAapoIMTgJI0osPWGNSX7aK6lc=' 'sha256-cCM0Z4lzGkzQnmbdVw+ouz0JRawyaKcZ4yiqzqYS7ek=' 'sha256-vTifGUJH6hJYTvstw4xJ4xfr/vE0ELkOV4GpCumyqfg=' 'sha256-KxhSaxKB5RFTQsqfRwp+zG7iLjvMrTAySqnSvWlqct0=' 'sha256-tMuJ8c00j54yuxogrdIJeGhNVB350dc56i969XRz/Mc=' 'sha256-aEFSvCaVnb2wNwuO3IzA8J44RdTKt6vms9beA7BcCYg=' 'sha256-0SWEc2BfR2o77i2vUiNNIrFKQkjc2Ujsr2hlfZ6oUek=' 'sha256-++XO0UzhS9XkPcAXD939+/NfpH8YUO8EoIgEQerdgxY=' 'report-sample'; style-src https://b.stripecdn.com 'self' 'unsafe-inline'; worker-src 'none'; upgrade-insecure-requests; report-uri https://q.stripe.com/csp-violation?q=jHxRM_SGdB0Ks85yopU_Iv3lRi63fYGCQ6PM3GKxWfG85xgHkJ5WSyVAwaA2ZHY%3D; report-to csp"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 560806,
+      "truncated": false,
+      "body_sha256": "50f4605738bbb1d939eeeb823ffacbb813447a5b3de27657507fa70ad20ee3e7",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Stripe Billing | PricingStripe logoStripe logoPaymentsStripe logo",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "212",
+      "domain": "stripe.com",
+      "stratum": "101-1000",
+      "requested_url": "https://stripe.com/en-be/apps",
+      "depth": 3,
+      "parent_url": "https://stripe.com/apps",
+      "attempt": 25,
+      "timestamp": "2026-11-12T21:12:11.747649+00:00",
+      "final_url": "https://stripe.com/en-be/apps",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "base-uri 'none'; connect-src https://c.increment.com https://c.stripe.dev https://c.stripe.global https://c.stripe.partners blob: https://b.stripecdn.com https://climate.stripe.com https://errors.stripe.com https://ext.stripe.com https://r.stripe.com https://stripe-images.s3.us-west-1.amazonaws.com https://stripe.com https://y4pfttj91h-1.algolianet.com/1/indexes/mkt_partners/query https://y4pfttj91h-2.algolianet.com/1/indexes/mkt_partners/query https://y4pfttj91h-3.algolianet.com/1/indexes/mkt_partners/query https://y4pfttj91h-dsn.algolia.net/1/indexes/mkt_partners/query https://tax-connectors.stripe.com 'self'; default-src 'none'; font-src https://b.stripecdn.com 'self'; form-action https://climate.stripe.com https://stripe.com 'self'; frame-ancestors https://app.contentful.com 'self'; frame-src https://checkout.stripe.dev https://support-conversations.stripe.com https://b.stripecdn.com https://checkout.stripe.com https://crypto-js.stripe.com https://js.stripe.com 'self'; img-src data: https://assets.ctfassets.net https://assets.stripeassets.com https://b.stripecdn.com https://images.ctfassets.net https://images.stripeassets.com https://q.stripe.com https://stripe-camo.global.ssl.fastly.net 'self'; media-src https://assets.ctfassets.net https://assets.stripeassets.com https://b.stripecdn.com https://videos.ctfassets.net https://videos.stripeassets.com 'self'; script-src https://b.stripecdn.com https://crypto-js.stripe.com https://js.stripe.com 'self' 'sha256-3aWvb9tRBjmz1OjR3n7mwiTm94+s4iki4mMZF82asmc=' 'sha256-5LtzXhT7UFn+GqP5pKEMGL08UNZsrzANHFEBW/mQHGw=' 'sha256-beLzNcen8LrazzSCRjAapoIMTgJI0osPWGNSX7aK6lc=' 'sha256-cCM0Z4lzGkzQnmbdVw+ouz0JRawyaKcZ4yiqzqYS7ek=' 'sha256-vTifGUJH6hJYTvstw4xJ4xfr/vE0ELkOV4GpCumyqfg=' 'sha256-KxhSaxKB5RFTQsqfRwp+zG7iLjvMrTAySqnSvWlqct0=' 'sha256-tMuJ8c00j54yuxogrdIJeGhNVB350dc56i969XRz/Mc=' 'sha256-aEFSvCaVnb2wNwuO3IzA8J44RdTKt6vms9beA7BcCYg=' 'sha256-0SWEc2BfR2o77i2vUiNNIrFKQkjc2Ujsr2hlfZ6oUek=' 'sha256-++XO0UzhS9XkPcAXD939+/NfpH8YUO8EoIgEQerdgxY=' 'report-sample'; style-src https://b.stripecdn.com 'self' 'unsafe-inline'; worker-src 'none'; upgrade-insecure-requests; report-uri https://q.stripe.com/csp-violation?q=Asz8qpdkl56GaZyW0ibh7uXZlgkf4kBsK9WjxdVbU5GQQVxNwudrLYsqzlxomoc%3D; report-to csp"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 709184,
+      "truncated": false,
+      "body_sha256": "04bbf6cb2f252d86aabc5fe5cb53d6e06efe0675584a997e1c6a2a837ff46eef",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Build a Stripe App | StripeStripe logoStripe logoStripe Apps logoStripe logoFinAI logoRamp logoDocusign logoRender logoFinAI logoRamp logoDocusign logoRender logoStripe logo",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "212",
+      "domain": "stripe.com",
+      "stratum": "101-1000",
+      "requested_url": "https://stripe.com/startups",
+      "depth": 1,
+      "parent_url": "https://stripe.com/",
+      "attempt": 26,
+      "timestamp": "2026-11-12T21:12:12.388918+00:00",
+      "final_url": "https://stripe.com/startups",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "base-uri 'none'; connect-src https://c.increment.com https://c.stripe.dev https://c.stripe.global https://c.stripe.partners blob: https://b.stripecdn.com https://climate.stripe.com https://errors.stripe.com https://ext.stripe.com https://r.stripe.com https://stripe-images.s3.us-west-1.amazonaws.com https://stripe.com https://y4pfttj91h-1.algolianet.com/1/indexes/mkt_partners/query https://y4pfttj91h-2.algolianet.com/1/indexes/mkt_partners/query https://y4pfttj91h-3.algolianet.com/1/indexes/mkt_partners/query https://y4pfttj91h-dsn.algolia.net/1/indexes/mkt_partners/query https://tax-connectors.stripe.com 'self'; default-src 'none'; font-src https://b.stripecdn.com 'self'; form-action https://climate.stripe.com https://stripe.com 'self'; frame-ancestors https://app.contentful.com 'self'; frame-src https://checkout.stripe.dev https://support-conversations.stripe.com https://b.stripecdn.com https://checkout.stripe.com https://crypto-js.stripe.com https://js.stripe.com 'self'; img-src data: https://assets.ctfassets.net https://assets.stripeassets.com https://b.stripecdn.com https://images.ctfassets.net https://images.stripeassets.com https://q.stripe.com https://stripe-camo.global.ssl.fastly.net 'self'; media-src https://assets.ctfassets.net https://assets.stripeassets.com https://b.stripecdn.com https://videos.ctfassets.net https://videos.stripeassets.com 'self'; script-src https://b.stripecdn.com https://crypto-js.stripe.com https://js.stripe.com 'self' 'sha256-3aWvb9tRBjmz1OjR3n7mwiTm94+s4iki4mMZF82asmc=' 'sha256-5LtzXhT7UFn+GqP5pKEMGL08UNZsrzANHFEBW/mQHGw=' 'sha256-beLzNcen8LrazzSCRjAapoIMTgJI0osPWGNSX7aK6lc=' 'sha256-cCM0Z4lzGkzQnmbdVw+ouz0JRawyaKcZ4yiqzqYS7ek=' 'sha256-vTifGUJH6hJYTvstw4xJ4xfr/vE0ELkOV4GpCumyqfg=' 'sha256-KxhSaxKB5RFTQsqfRwp+zG7iLjvMrTAySqnSvWlqct0=' 'sha256-tMuJ8c00j54yuxogrdIJeGhNVB350dc56i969XRz/Mc=' 'sha256-aEFSvCaVnb2wNwuO3IzA8J44RdTKt6vms9beA7BcCYg=' 'sha256-0SWEc2BfR2o77i2vUiNNIrFKQkjc2Ujsr2hlfZ6oUek=' 'sha256-++XO0UzhS9XkPcAXD939+/NfpH8YUO8EoIgEQerdgxY=' 'report-sample'; style-src https://b.stripecdn.com 'self' 'unsafe-inline'; worker-src 'none'; upgrade-insecure-requests; report-uri https://q.stripe.com/csp-violation?q=Gm-gJxkEiU3e4TXyIVTEsSnL6OOf1ZZB23zhBOvgVHxT_kthVUSFoFyPQFr38I4%3D; report-to csp"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 847257,
+      "truncated": false,
+      "body_sha256": "55fc6c0419b74fe39548d139e97f4d0214c1f99509f995cf63700bc15b152762",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Grow Your Business with Stripe | Stripe StartupsStripe logoStripe logoCursor logoElevenLabs logoMistral-ai logoShopify logoLuma logoBrightwheel logoSupabase logoTwilio logoLinear logoRamp logoCoinbase logoBlockchainCom logoBraintrust logoMagic logoBloomNation logoInstacart logoDeliveroo logoGlossier",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "212",
+      "domain": "stripe.com",
+      "stratum": "101-1000",
+      "requested_url": "https://stripe.com/invoicing/pricing",
+      "depth": 2,
+      "parent_url": "https://stripe.com/pricing",
+      "attempt": 27,
+      "timestamp": "2026-11-12T21:12:13.157214+00:00",
+      "final_url": "https://stripe.com/invoicing/pricing",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "base-uri 'none'; connect-src https://c.increment.com https://c.stripe.dev https://c.stripe.global https://c.stripe.partners blob: https://b.stripecdn.com https://climate.stripe.com https://errors.stripe.com https://ext.stripe.com https://r.stripe.com https://stripe-images.s3.us-west-1.amazonaws.com https://stripe.com https://y4pfttj91h-1.algolianet.com/1/indexes/mkt_partners/query https://y4pfttj91h-2.algolianet.com/1/indexes/mkt_partners/query https://y4pfttj91h-3.algolianet.com/1/indexes/mkt_partners/query https://y4pfttj91h-dsn.algolia.net/1/indexes/mkt_partners/query https://tax-connectors.stripe.com 'self'; default-src 'none'; font-src https://b.stripecdn.com 'self'; form-action https://climate.stripe.com https://stripe.com 'self'; frame-ancestors https://app.contentful.com 'self'; frame-src https://checkout.stripe.dev https://support-conversations.stripe.com https://b.stripecdn.com https://checkout.stripe.com https://crypto-js.stripe.com https://js.stripe.com 'self'; img-src data: https://assets.ctfassets.net https://assets.stripeassets.com https://b.stripecdn.com https://images.ctfassets.net https://images.stripeassets.com https://q.stripe.com https://stripe-camo.global.ssl.fastly.net 'self'; media-src https://assets.ctfassets.net https://assets.stripeassets.com https://b.stripecdn.com https://videos.ctfassets.net https://videos.stripeassets.com 'self'; script-src https://b.stripecdn.com https://crypto-js.stripe.com https://js.stripe.com 'self' 'sha256-3aWvb9tRBjmz1OjR3n7mwiTm94+s4iki4mMZF82asmc=' 'sha256-5LtzXhT7UFn+GqP5pKEMGL08UNZsrzANHFEBW/mQHGw=' 'sha256-beLzNcen8LrazzSCRjAapoIMTgJI0osPWGNSX7aK6lc=' 'sha256-cCM0Z4lzGkzQnmbdVw+ouz0JRawyaKcZ4yiqzqYS7ek=' 'sha256-vTifGUJH6hJYTvstw4xJ4xfr/vE0ELkOV4GpCumyqfg=' 'sha256-KxhSaxKB5RFTQsqfRwp+zG7iLjvMrTAySqnSvWlqct0=' 'sha256-tMuJ8c00j54yuxogrdIJeGhNVB350dc56i969XRz/Mc=' 'sha256-aEFSvCaVnb2wNwuO3IzA8J44RdTKt6vms9beA7BcCYg=' 'sha256-0SWEc2BfR2o77i2vUiNNIrFKQkjc2Ujsr2hlfZ6oUek=' 'sha256-++XO0UzhS9XkPcAXD939+/NfpH8YUO8EoIgEQerdgxY=' 'report-sample'; style-src https://b.stripecdn.com 'self' 'unsafe-inline'; worker-src 'none'; upgrade-insecure-requests; report-uri https://q.stripe.com/csp-violation?q=J2RQBSeieLSsZpTurDNiv-xJcN8TX9XSBt4NtRypI4MU3h-v-iIAFmKap0HaPNU%3D; report-to csp"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 517214,
+      "truncated": false,
+      "body_sha256": "90bc58a2c2cf69d78a9b72349012f60db9285c453de90be7f548dce48346c60c",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Invoicing built for speed and scaleStripe logoStripe logoStripe logo",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "212",
+      "domain": "stripe.com",
+      "stratum": "101-1000",
+      "requested_url": "https://stripe.com/br/apps",
+      "depth": 3,
+      "parent_url": "https://stripe.com/apps",
+      "attempt": 28,
+      "timestamp": "2026-11-12T21:12:13.739179+00:00",
+      "final_url": "https://stripe.com/br/apps",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "base-uri 'none'; connect-src https://c.increment.com https://c.stripe.dev https://c.stripe.global https://c.stripe.partners blob: https://b.stripecdn.com https://climate.stripe.com https://errors.stripe.com https://ext.stripe.com https://r.stripe.com https://stripe-images.s3.us-west-1.amazonaws.com https://stripe.com https://y4pfttj91h-1.algolianet.com/1/indexes/mkt_partners/query https://y4pfttj91h-2.algolianet.com/1/indexes/mkt_partners/query https://y4pfttj91h-3.algolianet.com/1/indexes/mkt_partners/query https://y4pfttj91h-dsn.algolia.net/1/indexes/mkt_partners/query https://tax-connectors.stripe.com 'self'; default-src 'none'; font-src https://b.stripecdn.com 'self'; form-action https://climate.stripe.com https://stripe.com 'self'; frame-ancestors https://app.contentful.com 'self'; frame-src https://checkout.stripe.dev https://support-conversations.stripe.com https://b.stripecdn.com https://checkout.stripe.com https://crypto-js.stripe.com https://js.stripe.com 'self'; img-src data: https://assets.ctfassets.net https://assets.stripeassets.com https://b.stripecdn.com https://images.ctfassets.net https://images.stripeassets.com https://q.stripe.com https://stripe-camo.global.ssl.fastly.net 'self'; media-src https://assets.ctfassets.net https://assets.stripeassets.com https://b.stripecdn.com https://videos.ctfassets.net https://videos.stripeassets.com 'self'; script-src https://b.stripecdn.com https://crypto-js.stripe.com https://js.stripe.com 'self' 'sha256-3aWvb9tRBjmz1OjR3n7mwiTm94+s4iki4mMZF82asmc=' 'sha256-5LtzXhT7UFn+GqP5pKEMGL08UNZsrzANHFEBW/mQHGw=' 'sha256-beLzNcen8LrazzSCRjAapoIMTgJI0osPWGNSX7aK6lc=' 'sha256-cCM0Z4lzGkzQnmbdVw+ouz0JRawyaKcZ4yiqzqYS7ek=' 'sha256-vTifGUJH6hJYTvstw4xJ4xfr/vE0ELkOV4GpCumyqfg=' 'sha256-KxhSaxKB5RFTQsqfRwp+zG7iLjvMrTAySqnSvWlqct0=' 'sha256-tMuJ8c00j54yuxogrdIJeGhNVB350dc56i969XRz/Mc=' 'sha256-aEFSvCaVnb2wNwuO3IzA8J44RdTKt6vms9beA7BcCYg=' 'sha256-0SWEc2BfR2o77i2vUiNNIrFKQkjc2Ujsr2hlfZ6oUek=' 'sha256-++XO0UzhS9XkPcAXD939+/NfpH8YUO8EoIgEQerdgxY=' 'report-sample'; style-src https://b.stripecdn.com 'self' 'unsafe-inline'; worker-src 'none'; upgrade-insecure-requests; report-uri https://q.stripe.com/csp-violation?q=iP_U1RRvDmyAKHwH4N4i_XGzFxzPgNrDZWf75kxhgou_loknrscpwCA_m-sQP5g%3D; report-to csp"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 698630,
+      "truncated": false,
+      "body_sha256": "ee77891db27fb9acc908b11f950f9a66d8e036519c74041d14cf59328c8dce50",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Desenvolva um Stripe App | StripeStripe logoStripe logoStripe Apps logoStripe logoFinAI logoRamp logoDocusign logoRender logoFinAI logoRamp logoDocusign logoRender logoStripe logo",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "212",
+      "domain": "stripe.com",
+      "stratum": "101-1000",
+      "requested_url": "https://stripe.com/atlas",
+      "depth": 1,
+      "parent_url": "https://stripe.com/",
+      "attempt": 29,
+      "timestamp": "2026-11-12T21:12:14.358981+00:00",
+      "final_url": "https://stripe.com/atlas",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "base-uri 'none'; child-src 'none'; connect-src https://c.increment.com https://c.stripe.dev https://c.stripe.global https://c.stripe.partners blob: https://b.stripecdn.com https://errors.stripe.com https://ext.stripe.com https://r.stripe.com https://stripe-images.s3.us-west-1.amazonaws.com https://stripe.com 'self'; default-src 'none'; font-src https://b.stripecdn.com 'self'; form-action https://stripe.com 'self'; frame-ancestors https://app.contentful.com 'self'; frame-src https://b.stripecdn.com https://js.stripe.com https://support-conversations.stripe.com 'self'; img-src data: https://assets.ctfassets.net https://assets.stripeassets.com https://b.stripecdn.com https://images.ctfassets.net https://images.stripeassets.com https://q.stripe.com 'self'; manifest-src 'none'; media-src https://assets.ctfassets.net https://assets.stripeassets.com https://b.stripecdn.com https://videos.ctfassets.net https://videos.stripeassets.com 'self'; object-src 'none'; script-src https://b.stripecdn.com https://js.stripe.com 'self' 'sha256-3aWvb9tRBjmz1OjR3n7mwiTm94+s4iki4mMZF82asmc=' 'sha256-5LtzXhT7UFn+GqP5pKEMGL08UNZsrzANHFEBW/mQHGw=' 'sha256-beLzNcen8LrazzSCRjAapoIMTgJI0osPWGNSX7aK6lc=' 'sha256-cCM0Z4lzGkzQnmbdVw+ouz0JRawyaKcZ4yiqzqYS7ek=' 'sha256-vTifGUJH6hJYTvstw4xJ4xfr/vE0ELkOV4GpCumyqfg=' 'sha256-KxhSaxKB5RFTQsqfRwp+zG7iLjvMrTAySqnSvWlqct0=' 'sha256-tMuJ8c00j54yuxogrdIJeGhNVB350dc56i969XRz/Mc=' 'sha256-aEFSvCaVnb2wNwuO3IzA8J44RdTKt6vms9beA7BcCYg=' 'sha256-0SWEc2BfR2o77i2vUiNNIrFKQkjc2Ujsr2hlfZ6oUek=' 'sha256-++XO0UzhS9XkPcAXD939+/NfpH8YUO8EoIgEQerdgxY=' 'report-sample'; style-src https://b.stripecdn.com 'self' 'unsafe-inline'; worker-src https://b.stripecdn.com 'self'; upgrade-insecure-requests; report-uri https://q.stripe.com/csp-violation?q=4lRn0aHMWRTuDR0QgxWiCmYn3UJXk0aGPJvW6KpGwitBa7qrxIiuUdDXl9vyCFo%3D; report-to csp"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 786432,
+      "truncated": false,
+      "body_sha256": "03872c8958f908d310543658c737798d2ab921ee60143c44dcec245e4debdcb0",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Atlas",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "212",
+      "domain": "stripe.com",
+      "stratum": "101-1000",
+      "requested_url": "https://stripe.com/tax/pricing",
+      "depth": 2,
+      "parent_url": "https://stripe.com/pricing",
+      "attempt": 30,
+      "timestamp": "2026-11-12T21:12:15.726096+00:00",
+      "final_url": "https://stripe.com/tax/pricing",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "base-uri 'none'; connect-src https://c.increment.com https://c.stripe.dev https://c.stripe.global https://c.stripe.partners blob: https://b.stripecdn.com https://climate.stripe.com https://errors.stripe.com https://ext.stripe.com https://r.stripe.com https://stripe-images.s3.us-west-1.amazonaws.com https://stripe.com https://y4pfttj91h-1.algolianet.com/1/indexes/mkt_partners/query https://y4pfttj91h-2.algolianet.com/1/indexes/mkt_partners/query https://y4pfttj91h-3.algolianet.com/1/indexes/mkt_partners/query https://y4pfttj91h-dsn.algolia.net/1/indexes/mkt_partners/query https://tax-connectors.stripe.com 'self'; default-src 'none'; font-src https://b.stripecdn.com 'self'; form-action https://climate.stripe.com https://stripe.com 'self'; frame-ancestors https://app.contentful.com 'self'; frame-src https://checkout.stripe.dev https://support-conversations.stripe.com https://b.stripecdn.com https://checkout.stripe.com https://crypto-js.stripe.com https://js.stripe.com 'self'; img-src data: https://assets.ctfassets.net https://assets.stripeassets.com https://b.stripecdn.com https://images.ctfassets.net https://images.stripeassets.com https://q.stripe.com https://stripe-camo.global.ssl.fastly.net 'self'; media-src https://assets.ctfassets.net https://assets.stripeassets.com https://b.stripecdn.com https://videos.ctfassets.net https://videos.stripeassets.com 'self'; script-src https://b.stripecdn.com https://crypto-js.stripe.com https://js.stripe.com 'self' 'sha256-3aWvb9tRBjmz1OjR3n7mwiTm94+s4iki4mMZF82asmc=' 'sha256-5LtzXhT7UFn+GqP5pKEMGL08UNZsrzANHFEBW/mQHGw=' 'sha256-beLzNcen8LrazzSCRjAapoIMTgJI0osPWGNSX7aK6lc=' 'sha256-cCM0Z4lzGkzQnmbdVw+ouz0JRawyaKcZ4yiqzqYS7ek=' 'sha256-vTifGUJH6hJYTvstw4xJ4xfr/vE0ELkOV4GpCumyqfg=' 'sha256-KxhSaxKB5RFTQsqfRwp+zG7iLjvMrTAySqnSvWlqct0=' 'sha256-tMuJ8c00j54yuxogrdIJeGhNVB350dc56i969XRz/Mc=' 'sha256-aEFSvCaVnb2wNwuO3IzA8J44RdTKt6vms9beA7BcCYg=' 'sha256-0SWEc2BfR2o77i2vUiNNIrFKQkjc2Ujsr2hlfZ6oUek=' 'sha256-++XO0UzhS9XkPcAXD939+/NfpH8YUO8EoIgEQerdgxY=' 'report-sample'; style-src https://b.stripecdn.com 'self' 'unsafe-inline'; worker-src 'none'; upgrade-insecure-requests; report-uri https://q.stripe.com/csp-violation?q=1A9gMnJgcY3w6dl39JeHbJIN8xnMA340jRNK8XgGZVDPBCwD9iI24jkZBAnxZoQ%3D; report-to csp"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 577873,
+      "truncated": false,
+      "body_sha256": "f758a8a24aac3d6cefb587f23a315c32c99c5b223d9b6fdd74e4a76dd0b6b383",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Stripe Tax | Tax Automation with a Single IntegrationStripe logoStripe logoOpenAI logoThinkific logoDuolingo logoSubstack logoStripe logo",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "212",
+      "domain": "stripe.com",
+      "stratum": "101-1000",
+      "requested_url": "https://stripe.com/en-br/apps",
+      "depth": 3,
+      "parent_url": "https://stripe.com/apps",
+      "attempt": 31,
+      "timestamp": "2026-11-12T21:12:16.274254+00:00",
+      "final_url": "https://stripe.com/en-br/apps",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "base-uri 'none'; connect-src https://c.increment.com https://c.stripe.dev https://c.stripe.global https://c.stripe.partners blob: https://b.stripecdn.com https://climate.stripe.com https://errors.stripe.com https://ext.stripe.com https://r.stripe.com https://stripe-images.s3.us-west-1.amazonaws.com https://stripe.com https://y4pfttj91h-1.algolianet.com/1/indexes/mkt_partners/query https://y4pfttj91h-2.algolianet.com/1/indexes/mkt_partners/query https://y4pfttj91h-3.algolianet.com/1/indexes/mkt_partners/query https://y4pfttj91h-dsn.algolia.net/1/indexes/mkt_partners/query https://tax-connectors.stripe.com 'self'; default-src 'none'; font-src https://b.stripecdn.com 'self'; form-action https://climate.stripe.com https://stripe.com 'self'; frame-ancestors https://app.contentful.com 'self'; frame-src https://checkout.stripe.dev https://support-conversations.stripe.com https://b.stripecdn.com https://checkout.stripe.com https://crypto-js.stripe.com https://js.stripe.com 'self'; img-src data: https://assets.ctfassets.net https://assets.stripeassets.com https://b.stripecdn.com https://images.ctfassets.net https://images.stripeassets.com https://q.stripe.com https://stripe-camo.global.ssl.fastly.net 'self'; media-src https://assets.ctfassets.net https://assets.stripeassets.com https://b.stripecdn.com https://videos.ctfassets.net https://videos.stripeassets.com 'self'; script-src https://b.stripecdn.com https://crypto-js.stripe.com https://js.stripe.com 'self' 'sha256-3aWvb9tRBjmz1OjR3n7mwiTm94+s4iki4mMZF82asmc=' 'sha256-5LtzXhT7UFn+GqP5pKEMGL08UNZsrzANHFEBW/mQHGw=' 'sha256-beLzNcen8LrazzSCRjAapoIMTgJI0osPWGNSX7aK6lc=' 'sha256-cCM0Z4lzGkzQnmbdVw+ouz0JRawyaKcZ4yiqzqYS7ek=' 'sha256-vTifGUJH6hJYTvstw4xJ4xfr/vE0ELkOV4GpCumyqfg=' 'sha256-KxhSaxKB5RFTQsqfRwp+zG7iLjvMrTAySqnSvWlqct0=' 'sha256-tMuJ8c00j54yuxogrdIJeGhNVB350dc56i969XRz/Mc=' 'sha256-aEFSvCaVnb2wNwuO3IzA8J44RdTKt6vms9beA7BcCYg=' 'sha256-0SWEc2BfR2o77i2vUiNNIrFKQkjc2Ujsr2hlfZ6oUek=' 'sha256-++XO0UzhS9XkPcAXD939+/NfpH8YUO8EoIgEQerdgxY=' 'report-sample'; style-src https://b.stripecdn.com 'self' 'unsafe-inline'; worker-src 'none'; upgrade-insecure-requests; report-uri https://q.stripe.com/csp-violation?q=Gm-gJxkEiU3e4TXyIVTEsSnL6OOf1ZZB23zhBOvgVHxT_kthVUSFoFyPQFr38I4%3D; report-to csp"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 696396,
+      "truncated": false,
+      "body_sha256": "8a5784e308d0fb159d658be8f5e842a7efd2f97ddfe7471b301bf8a05cf32ae2",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Build a Stripe App | StripeStripe logoStripe logoStripe Apps logoStripe logoFinAI logoRamp logoDocusign logoRender logoFinAI logoRamp logoDocusign logoRender logoStripe logo",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "212",
+      "domain": "stripe.com",
+      "stratum": "101-1000",
+      "requested_url": "https://stripe.com/use-cases/platforms",
+      "depth": 1,
+      "parent_url": "https://stripe.com/",
+      "attempt": 32,
+      "timestamp": "2026-11-12T21:12:16.660012+00:00",
+      "final_url": "https://stripe.com/use-cases/platforms",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "base-uri 'none'; connect-src https://c.increment.com https://c.stripe.dev https://c.stripe.global https://c.stripe.partners blob: https://b.stripecdn.com https://climate.stripe.com https://errors.stripe.com https://ext.stripe.com https://r.stripe.com https://stripe-images.s3.us-west-1.amazonaws.com https://stripe.com https://y4pfttj91h-1.algolianet.com/1/indexes/mkt_partners/query https://y4pfttj91h-2.algolianet.com/1/indexes/mkt_partners/query https://y4pfttj91h-3.algolianet.com/1/indexes/mkt_partners/query https://y4pfttj91h-dsn.algolia.net/1/indexes/mkt_partners/query https://tax-connectors.stripe.com 'self'; default-src 'none'; font-src https://b.stripecdn.com 'self'; form-action https://climate.stripe.com https://stripe.com 'self'; frame-ancestors https://app.contentful.com 'self'; frame-src https://checkout.stripe.dev https://support-conversations.stripe.com https://b.stripecdn.com https://checkout.stripe.com https://crypto-js.stripe.com https://js.stripe.com 'self'; img-src data: https://assets.ctfassets.net https://assets.stripeassets.com https://b.stripecdn.com https://images.ctfassets.net https://images.stripeassets.com https://q.stripe.com https://stripe-camo.global.ssl.fastly.net 'self'; media-src https://assets.ctfassets.net https://assets.stripeassets.com https://b.stripecdn.com https://videos.ctfassets.net https://videos.stripeassets.com 'self'; script-src https://b.stripecdn.com https://crypto-js.stripe.com https://js.stripe.com 'self' 'sha256-3aWvb9tRBjmz1OjR3n7mwiTm94+s4iki4mMZF82asmc=' 'sha256-5LtzXhT7UFn+GqP5pKEMGL08UNZsrzANHFEBW/mQHGw=' 'sha256-beLzNcen8LrazzSCRjAapoIMTgJI0osPWGNSX7aK6lc=' 'sha256-cCM0Z4lzGkzQnmbdVw+ouz0JRawyaKcZ4yiqzqYS7ek=' 'sha256-vTifGUJH6hJYTvstw4xJ4xfr/vE0ELkOV4GpCumyqfg=' 'sha256-KxhSaxKB5RFTQsqfRwp+zG7iLjvMrTAySqnSvWlqct0=' 'sha256-tMuJ8c00j54yuxogrdIJeGhNVB350dc56i969XRz/Mc=' 'sha256-aEFSvCaVnb2wNwuO3IzA8J44RdTKt6vms9beA7BcCYg=' 'sha256-0SWEc2BfR2o77i2vUiNNIrFKQkjc2Ujsr2hlfZ6oUek=' 'sha256-++XO0UzhS9XkPcAXD939+/NfpH8YUO8EoIgEQerdgxY=' 'report-sample'; style-src https://b.stripecdn.com 'self' 'unsafe-inline'; worker-src 'none'; upgrade-insecure-requests; report-uri https://q.stripe.com/csp-violation?q=bTOB-CrcIGADVB1p7i3yjDUxWylh75Tmd5GsETRM-GUOvEtIHQDUDiSI9cLTmsk%3D; report-to csp"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 724912,
+      "truncated": false,
+      "body_sha256": "753c50d8ce9b272b8852b6e70c77f4abb378263d71c0cffb3297e49be469a8e6",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Stripe for Platforms | Easily Accept PaymentsStripe logoStripe logoShopify logoMindbody logoFreshBooks logoWix logoVenue logoBrightwheel logoINDYbyFandango logoClio logoBrightwheel logoINDYbyFandango logoVenue logoSiteMinder logoPaymentsInvoicingAtlasRadarTaxConnectStripe logo",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "212",
+      "domain": "stripe.com",
+      "stratum": "101-1000",
+      "requested_url": "https://stripe.com/sigma/pricing",
+      "depth": 2,
+      "parent_url": "https://stripe.com/pricing",
+      "attempt": 33,
+      "timestamp": "2026-11-12T21:12:17.306411+00:00",
+      "final_url": "https://stripe.com/sigma/pricing",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "base-uri 'none'; connect-src https://c.increment.com https://c.stripe.dev https://c.stripe.global https://c.stripe.partners blob: https://b.stripecdn.com https://climate.stripe.com https://errors.stripe.com https://ext.stripe.com https://r.stripe.com https://stripe-images.s3.us-west-1.amazonaws.com https://stripe.com https://y4pfttj91h-1.algolianet.com/1/indexes/mkt_partners/query https://y4pfttj91h-2.algolianet.com/1/indexes/mkt_partners/query https://y4pfttj91h-3.algolianet.com/1/indexes/mkt_partners/query https://y4pfttj91h-dsn.algolia.net/1/indexes/mkt_partners/query https://tax-connectors.stripe.com 'self'; default-src 'none'; font-src https://b.stripecdn.com 'self'; form-action https://climate.stripe.com https://stripe.com 'self'; frame-ancestors https://app.contentful.com 'self'; frame-src https://checkout.stripe.dev https://support-conversations.stripe.com https://b.stripecdn.com https://checkout.stripe.com https://crypto-js.stripe.com https://js.stripe.com 'self'; img-src data: https://assets.ctfassets.net https://assets.stripeassets.com https://b.stripecdn.com https://images.ctfassets.net https://images.stripeassets.com https://q.stripe.com https://stripe-camo.global.ssl.fastly.net 'self'; media-src https://assets.ctfassets.net https://assets.stripeassets.com https://b.stripecdn.com https://videos.ctfassets.net https://videos.stripeassets.com 'self'; script-src https://b.stripecdn.com https://crypto-js.stripe.com https://js.stripe.com 'self' 'sha256-3aWvb9tRBjmz1OjR3n7mwiTm94+s4iki4mMZF82asmc=' 'sha256-5LtzXhT7UFn+GqP5pKEMGL08UNZsrzANHFEBW/mQHGw=' 'sha256-beLzNcen8LrazzSCRjAapoIMTgJI0osPWGNSX7aK6lc=' 'sha256-cCM0Z4lzGkzQnmbdVw+ouz0JRawyaKcZ4yiqzqYS7ek=' 'sha256-vTifGUJH6hJYTvstw4xJ4xfr/vE0ELkOV4GpCumyqfg=' 'sha256-KxhSaxKB5RFTQsqfRwp+zG7iLjvMrTAySqnSvWlqct0=' 'sha256-tMuJ8c00j54yuxogrdIJeGhNVB350dc56i969XRz/Mc=' 'sha256-aEFSvCaVnb2wNwuO3IzA8J44RdTKt6vms9beA7BcCYg=' 'sha256-0SWEc2BfR2o77i2vUiNNIrFKQkjc2Ujsr2hlfZ6oUek=' 'sha256-++XO0UzhS9XkPcAXD939+/NfpH8YUO8EoIgEQerdgxY=' 'report-sample'; style-src https://b.stripecdn.com 'self' 'unsafe-inline'; worker-src 'none'; upgrade-insecure-requests; report-uri https://q.stripe.com/csp-violation?q=EulbtiuAWHuGb0IwK6aly4lAl9aj7Jnsd5djhQd4mt726xhBWJkqb1O-ITYJQ0Y%3D; report-to csp"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 547368,
+      "truncated": false,
+      "body_sha256": "27f2f1dea767fe1a8d87ef621b30bde1d0f364a468f1649a84b5f0ca210ee337",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Stripe Sigma | Pricing and FeesStripe logoStripe logoStripe logo",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "212",
+      "domain": "stripe.com",
+      "stratum": "101-1000",
+      "requested_url": "https://stripe.com/en-bg/apps",
+      "depth": 3,
+      "parent_url": "https://stripe.com/apps",
+      "attempt": 34,
+      "timestamp": "2026-11-12T21:12:17.607534+00:00",
+      "final_url": "https://stripe.com/en-bg/apps",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "base-uri 'none'; connect-src https://c.increment.com https://c.stripe.dev https://c.stripe.global https://c.stripe.partners blob: https://b.stripecdn.com https://climate.stripe.com https://errors.stripe.com https://ext.stripe.com https://r.stripe.com https://stripe-images.s3.us-west-1.amazonaws.com https://stripe.com https://y4pfttj91h-1.algolianet.com/1/indexes/mkt_partners/query https://y4pfttj91h-2.algolianet.com/1/indexes/mkt_partners/query https://y4pfttj91h-3.algolianet.com/1/indexes/mkt_partners/query https://y4pfttj91h-dsn.algolia.net/1/indexes/mkt_partners/query https://tax-connectors.stripe.com 'self'; default-src 'none'; font-src https://b.stripecdn.com 'self'; form-action https://climate.stripe.com https://stripe.com 'self'; frame-ancestors https://app.contentful.com 'self'; frame-src https://checkout.stripe.dev https://support-conversations.stripe.com https://b.stripecdn.com https://checkout.stripe.com https://crypto-js.stripe.com https://js.stripe.com 'self'; img-src data: https://assets.ctfassets.net https://assets.stripeassets.com https://b.stripecdn.com https://images.ctfassets.net https://images.stripeassets.com https://q.stripe.com https://stripe-camo.global.ssl.fastly.net 'self'; media-src https://assets.ctfassets.net https://assets.stripeassets.com https://b.stripecdn.com https://videos.ctfassets.net https://videos.stripeassets.com 'self'; script-src https://b.stripecdn.com https://crypto-js.stripe.com https://js.stripe.com 'self' 'sha256-3aWvb9tRBjmz1OjR3n7mwiTm94+s4iki4mMZF82asmc=' 'sha256-5LtzXhT7UFn+GqP5pKEMGL08UNZsrzANHFEBW/mQHGw=' 'sha256-beLzNcen8LrazzSCRjAapoIMTgJI0osPWGNSX7aK6lc=' 'sha256-cCM0Z4lzGkzQnmbdVw+ouz0JRawyaKcZ4yiqzqYS7ek=' 'sha256-vTifGUJH6hJYTvstw4xJ4xfr/vE0ELkOV4GpCumyqfg=' 'sha256-KxhSaxKB5RFTQsqfRwp+zG7iLjvMrTAySqnSvWlqct0=' 'sha256-tMuJ8c00j54yuxogrdIJeGhNVB350dc56i969XRz/Mc=' 'sha256-aEFSvCaVnb2wNwuO3IzA8J44RdTKt6vms9beA7BcCYg=' 'sha256-0SWEc2BfR2o77i2vUiNNIrFKQkjc2Ujsr2hlfZ6oUek=' 'sha256-++XO0UzhS9XkPcAXD939+/NfpH8YUO8EoIgEQerdgxY=' 'report-sample'; style-src https://b.stripecdn.com 'self' 'unsafe-inline'; worker-src 'none'; upgrade-insecure-requests; report-uri https://q.stripe.com/csp-violation?q=pOAKv7GhW9MUIR2EgZ1fa4NWuBTIM6DqEbiSkSIEHDAwAYYgRLsIIFbVbe-EtiY%3D; report-to csp"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 707158,
+      "truncated": false,
+      "body_sha256": "2ff1f67289f9d18b89de82d2bcfc6096037798dd76bb92f31fc3bba4773262e5",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Build a Stripe App | StripeStripe logoStripe logoStripe Apps logoStripe logoFinAI logoRamp logoDocusign logoRender logoFinAI logoRamp logoDocusign logoRender logoStripe logo",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "212",
+      "domain": "stripe.com",
+      "stratum": "101-1000",
+      "requested_url": "https://stripe.com/guides/best-practices-for-launching-and-scaling-platform-payments",
+      "depth": 1,
+      "parent_url": "https://stripe.com/",
+      "attempt": 35,
+      "timestamp": "2026-11-12T21:12:18.344683+00:00",
+      "final_url": "https://stripe.com/guides/best-practices-for-launching-and-scaling-platform-payments",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "base-uri 'none'; connect-src https://c.increment.com https://c.stripe.dev https://c.stripe.global https://c.stripe.partners blob: https://b.stripecdn.com https://climate.stripe.com https://errors.stripe.com https://ext.stripe.com https://r.stripe.com https://stripe-images.s3.us-west-1.amazonaws.com https://stripe.com https://y4pfttj91h-1.algolianet.com/1/indexes/mkt_partners/query https://y4pfttj91h-2.algolianet.com/1/indexes/mkt_partners/query https://y4pfttj91h-3.algolianet.com/1/indexes/mkt_partners/query https://y4pfttj91h-dsn.algolia.net/1/indexes/mkt_partners/query https://tax-connectors.stripe.com 'self'; default-src 'none'; font-src https://b.stripecdn.com 'self'; form-action https://climate.stripe.com https://stripe.com 'self'; frame-ancestors https://app.contentful.com 'self'; frame-src https://checkout.stripe.dev https://support-conversations.stripe.com https://b.stripecdn.com https://checkout.stripe.com https://crypto-js.stripe.com https://js.stripe.com 'self'; img-src data: https://assets.ctfassets.net https://assets.stripeassets.com https://b.stripecdn.com https://images.ctfassets.net https://images.stripeassets.com https://q.stripe.com https://stripe-camo.global.ssl.fastly.net 'self'; media-src https://assets.ctfassets.net https://assets.stripeassets.com https://b.stripecdn.com https://videos.ctfassets.net https://videos.stripeassets.com 'self'; script-src https://b.stripecdn.com https://crypto-js.stripe.com https://js.stripe.com 'self' 'sha256-3aWvb9tRBjmz1OjR3n7mwiTm94+s4iki4mMZF82asmc=' 'sha256-5LtzXhT7UFn+GqP5pKEMGL08UNZsrzANHFEBW/mQHGw=' 'sha256-beLzNcen8LrazzSCRjAapoIMTgJI0osPWGNSX7aK6lc=' 'sha256-cCM0Z4lzGkzQnmbdVw+ouz0JRawyaKcZ4yiqzqYS7ek=' 'sha256-vTifGUJH6hJYTvstw4xJ4xfr/vE0ELkOV4GpCumyqfg=' 'sha256-KxhSaxKB5RFTQsqfRwp+zG7iLjvMrTAySqnSvWlqct0=' 'sha256-tMuJ8c00j54yuxogrdIJeGhNVB350dc56i969XRz/Mc=' 'sha256-aEFSvCaVnb2wNwuO3IzA8J44RdTKt6vms9beA7BcCYg=' 'sha256-0SWEc2BfR2o77i2vUiNNIrFKQkjc2Ujsr2hlfZ6oUek=' 'sha256-++XO0UzhS9XkPcAXD939+/NfpH8YUO8EoIgEQerdgxY=' 'report-sample'; style-src https://b.stripecdn.com 'self' 'unsafe-inline'; worker-src 'none'; upgrade-insecure-requests; report-uri https://q.stripe.com/csp-violation?q=uggWk7-OMitSCNOldO902hW7y_Tvpl5i7_9WYYfBIX7hfUG7YpR5ntLm2gX6j6Q%3D; report-to csp"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 540649,
+      "truncated": false,
+      "body_sha256": "2476d667daef388c3abab46cea51602aad908eb099408a97ab99c97eca4edd5a",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Report: Best practices for launching and scaling platform payments in 2027 | StripeStripe logoStripe logoPaymentsStripe logo",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "212",
+      "domain": "stripe.com",
+      "stratum": "101-1000",
+      "requested_url": "https://stripe.com/legal/subscription-policy",
+      "depth": 2,
+      "parent_url": "https://stripe.com/pricing",
+      "attempt": 36,
+      "timestamp": "2026-11-12T21:12:18.655222+00:00",
+      "final_url": "https://stripe.com/legal/subscription-policy",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "base-uri 'none'; connect-src https://c.increment.com https://c.stripe.dev https://c.stripe.global https://c.stripe.partners blob: https://b.stripecdn.com https://climate.stripe.com https://errors.stripe.com https://ext.stripe.com https://r.stripe.com https://stripe-images.s3.us-west-1.amazonaws.com https://stripe.com https://y4pfttj91h-1.algolianet.com/1/indexes/mkt_partners/query https://y4pfttj91h-2.algolianet.com/1/indexes/mkt_partners/query https://y4pfttj91h-3.algolianet.com/1/indexes/mkt_partners/query https://y4pfttj91h-dsn.algolia.net/1/indexes/mkt_partners/query https://tax-connectors.stripe.com 'self'; default-src 'none'; font-src https://b.stripecdn.com 'self'; form-action https://climate.stripe.com https://stripe.com 'self'; frame-ancestors https://app.contentful.com 'self'; frame-src https://checkout.stripe.dev https://support-conversations.stripe.com https://b.stripecdn.com https://checkout.stripe.com https://crypto-js.stripe.com https://js.stripe.com 'self'; img-src data: https://assets.ctfassets.net https://assets.stripeassets.com https://b.stripecdn.com https://images.ctfassets.net https://images.stripeassets.com https://q.stripe.com https://stripe-camo.global.ssl.fastly.net 'self'; media-src https://assets.ctfassets.net https://assets.stripeassets.com https://b.stripecdn.com https://videos.ctfassets.net https://videos.stripeassets.com 'self'; script-src https://b.stripecdn.com https://crypto-js.stripe.com https://js.stripe.com 'self' 'sha256-3aWvb9tRBjmz1OjR3n7mwiTm94+s4iki4mMZF82asmc=' 'sha256-5LtzXhT7UFn+GqP5pKEMGL08UNZsrzANHFEBW/mQHGw=' 'sha256-beLzNcen8LrazzSCRjAapoIMTgJI0osPWGNSX7aK6lc=' 'sha256-cCM0Z4lzGkzQnmbdVw+ouz0JRawyaKcZ4yiqzqYS7ek=' 'sha256-vTifGUJH6hJYTvstw4xJ4xfr/vE0ELkOV4GpCumyqfg=' 'sha256-KxhSaxKB5RFTQsqfRwp+zG7iLjvMrTAySqnSvWlqct0=' 'sha256-tMuJ8c00j54yuxogrdIJeGhNVB350dc56i969XRz/Mc=' 'sha256-aEFSvCaVnb2wNwuO3IzA8J44RdTKt6vms9beA7BcCYg=' 'sha256-0SWEc2BfR2o77i2vUiNNIrFKQkjc2Ujsr2hlfZ6oUek=' 'sha256-++XO0UzhS9XkPcAXD939+/NfpH8YUO8EoIgEQerdgxY=' 'report-sample'; style-src https://b.stripecdn.com 'self' 'unsafe-inline'; worker-src 'none'; upgrade-insecure-requests; report-uri https://q.stripe.com/csp-violation?q=uggWk7-OMitSCNOldO902hW7y_Tvpl5i7_9WYYfBIX7hfUG7YpR5ntLm2gX6j6Q%3D; report-to csp"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 180822,
+      "truncated": false,
+      "body_sha256": "4294b22a980626fa4da9f6e45953a8e37090b58d6361c97b8fe92cfcfa766a24",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Subscription Pricing and Cancellation PolicyStripe logoStripe logo",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "212",
+      "domain": "stripe.com",
+      "stratum": "101-1000",
+      "requested_url": "https://stripe.com/en-ca/apps",
+      "depth": 3,
+      "parent_url": "https://stripe.com/apps",
+      "attempt": 37,
+      "timestamp": "2026-11-12T21:12:19.498662+00:00",
+      "final_url": "https://stripe.com/en-ca/apps",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "base-uri 'none'; connect-src https://c.increment.com https://c.stripe.dev https://c.stripe.global https://c.stripe.partners blob: https://b.stripecdn.com https://climate.stripe.com https://errors.stripe.com https://ext.stripe.com https://r.stripe.com https://stripe-images.s3.us-west-1.amazonaws.com https://stripe.com https://y4pfttj91h-1.algolianet.com/1/indexes/mkt_partners/query https://y4pfttj91h-2.algolianet.com/1/indexes/mkt_partners/query https://y4pfttj91h-3.algolianet.com/1/indexes/mkt_partners/query https://y4pfttj91h-dsn.algolia.net/1/indexes/mkt_partners/query https://tax-connectors.stripe.com 'self'; default-src 'none'; font-src https://b.stripecdn.com 'self'; form-action https://climate.stripe.com https://stripe.com 'self'; frame-ancestors https://app.contentful.com 'self'; frame-src https://checkout.stripe.dev https://support-conversations.stripe.com https://b.stripecdn.com https://checkout.stripe.com https://crypto-js.stripe.com https://js.stripe.com 'self'; img-src data: https://assets.ctfassets.net https://assets.stripeassets.com https://b.stripecdn.com https://images.ctfassets.net https://images.stripeassets.com https://q.stripe.com https://stripe-camo.global.ssl.fastly.net 'self'; media-src https://assets.ctfassets.net https://assets.stripeassets.com https://b.stripecdn.com https://videos.ctfassets.net https://videos.stripeassets.com 'self'; script-src https://b.stripecdn.com https://crypto-js.stripe.com https://js.stripe.com 'self' 'sha256-3aWvb9tRBjmz1OjR3n7mwiTm94+s4iki4mMZF82asmc=' 'sha256-5LtzXhT7UFn+GqP5pKEMGL08UNZsrzANHFEBW/mQHGw=' 'sha256-beLzNcen8LrazzSCRjAapoIMTgJI0osPWGNSX7aK6lc=' 'sha256-cCM0Z4lzGkzQnmbdVw+ouz0JRawyaKcZ4yiqzqYS7ek=' 'sha256-vTifGUJH6hJYTvstw4xJ4xfr/vE0ELkOV4GpCumyqfg=' 'sha256-KxhSaxKB5RFTQsqfRwp+zG7iLjvMrTAySqnSvWlqct0=' 'sha256-tMuJ8c00j54yuxogrdIJeGhNVB350dc56i969XRz/Mc=' 'sha256-aEFSvCaVnb2wNwuO3IzA8J44RdTKt6vms9beA7BcCYg=' 'sha256-0SWEc2BfR2o77i2vUiNNIrFKQkjc2Ujsr2hlfZ6oUek=' 'sha256-++XO0UzhS9XkPcAXD939+/NfpH8YUO8EoIgEQerdgxY=' 'report-sample'; style-src https://b.stripecdn.com 'self' 'unsafe-inline'; worker-src 'none'; upgrade-insecure-requests; report-uri https://q.stripe.com/csp-violation?q=uggWk7-OMitSCNOldO902hW7y_Tvpl5i7_9WYYfBIX7hfUG7YpR5ntLm2gX6j6Q%3D; report-to csp"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 705094,
+      "truncated": false,
+      "body_sha256": "63d0df914cc0eae3b23a1f48c2248f46e733294d4fbb2a36132cef97b8d9ec76",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Build a Stripe App | StripeStripe logoStripe logoStripe Apps logoStripe logoFinAI logoRamp logoDocusign logoRender logoFinAI logoRamp logoDocusign logoRender logoStripe logo",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "212",
+      "domain": "stripe.com",
+      "stratum": "101-1000",
+      "requested_url": "https://stripe.com/annual-updates/2025",
+      "depth": 1,
+      "parent_url": "https://stripe.com/",
+      "attempt": 38,
+      "timestamp": "2026-11-12T21:12:20.157378+00:00",
+      "final_url": "https://stripe.com/annual-updates/2025",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "base-uri 'none'; connect-src https://c.increment.com https://c.stripe.dev https://c.stripe.global https://c.stripe.partners blob: https://b.stripecdn.com https://climate.stripe.com https://errors.stripe.com https://ext.stripe.com https://r.stripe.com https://stripe-images.s3.us-west-1.amazonaws.com https://stripe.com https://y4pfttj91h-1.algolianet.com/1/indexes/mkt_partners/query https://y4pfttj91h-2.algolianet.com/1/indexes/mkt_partners/query https://y4pfttj91h-3.algolianet.com/1/indexes/mkt_partners/query https://y4pfttj91h-dsn.algolia.net/1/indexes/mkt_partners/query https://tax-connectors.stripe.com 'self'; default-src 'none'; font-src https://b.stripecdn.com 'self'; form-action https://climate.stripe.com https://stripe.com 'self'; frame-ancestors https://app.contentful.com 'self'; frame-src https://checkout.stripe.dev https://support-conversations.stripe.com https://b.stripecdn.com https://checkout.stripe.com https://crypto-js.stripe.com https://js.stripe.com 'self'; img-src data: https://assets.ctfassets.net https://assets.stripeassets.com https://b.stripecdn.com https://images.ctfassets.net https://images.stripeassets.com https://q.stripe.com https://stripe-camo.global.ssl.fastly.net 'self'; media-src https://assets.ctfassets.net https://assets.stripeassets.com https://b.stripecdn.com https://videos.ctfassets.net https://videos.stripeassets.com 'self'; script-src https://b.stripecdn.com https://crypto-js.stripe.com https://js.stripe.com 'self' 'sha256-3aWvb9tRBjmz1OjR3n7mwiTm94+s4iki4mMZF82asmc=' 'sha256-5LtzXhT7UFn+GqP5pKEMGL08UNZsrzANHFEBW/mQHGw=' 'sha256-beLzNcen8LrazzSCRjAapoIMTgJI0osPWGNSX7aK6lc=' 'sha256-cCM0Z4lzGkzQnmbdVw+ouz0JRawyaKcZ4yiqzqYS7ek=' 'sha256-vTifGUJH6hJYTvstw4xJ4xfr/vE0ELkOV4GpCumyqfg=' 'sha256-KxhSaxKB5RFTQsqfRwp+zG7iLjvMrTAySqnSvWlqct0=' 'sha256-tMuJ8c00j54yuxogrdIJeGhNVB350dc56i969XRz/Mc=' 'sha256-aEFSvCaVnb2wNwuO3IzA8J44RdTKt6vms9beA7BcCYg=' 'sha256-0SWEc2BfR2o77i2vUiNNIrFKQkjc2Ujsr2hlfZ6oUek=' 'sha256-++XO0UzhS9XkPcAXD939+/NfpH8YUO8EoIgEQerdgxY=' 'report-sample'; style-src https://b.stripecdn.com 'self' 'unsafe-inline'; worker-src 'none'; upgrade-insecure-requests; report-uri https://q.stripe.com/csp-violation?q=I6UVKfk_zEn3zSHD8Iw32XCqZIwO1CAz_m3clgry9N9saTD_CKo1mBtKt2REipw%3D; report-to csp"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 497261,
+      "truncated": false,
+      "body_sha256": "31210e0310bc35fadbe7634b9f922927e6ff8edc4ea9b9b933af2ff3bfefe9ee",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Stripe\u2019s 2025 annual letterStripe logoStripe logoStripe logo",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "212",
+      "domain": "stripe.com",
+      "stratum": "101-1000",
+      "requested_url": "https://stripe.com/data-pipeline/pricing",
+      "depth": 2,
+      "parent_url": "https://stripe.com/pricing",
+      "attempt": 39,
+      "timestamp": "2026-11-12T21:12:20.739598+00:00",
+      "final_url": "https://stripe.com/data-pipeline/pricing",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "base-uri 'none'; connect-src https://c.increment.com https://c.stripe.dev https://c.stripe.global https://c.stripe.partners blob: https://b.stripecdn.com https://climate.stripe.com https://errors.stripe.com https://ext.stripe.com https://r.stripe.com https://stripe-images.s3.us-west-1.amazonaws.com https://stripe.com https://y4pfttj91h-1.algolianet.com/1/indexes/mkt_partners/query https://y4pfttj91h-2.algolianet.com/1/indexes/mkt_partners/query https://y4pfttj91h-3.algolianet.com/1/indexes/mkt_partners/query https://y4pfttj91h-dsn.algolia.net/1/indexes/mkt_partners/query https://tax-connectors.stripe.com 'self'; default-src 'none'; font-src https://b.stripecdn.com 'self'; form-action https://climate.stripe.com https://stripe.com 'self'; frame-ancestors https://app.contentful.com 'self'; frame-src https://checkout.stripe.dev https://support-conversations.stripe.com https://b.stripecdn.com https://checkout.stripe.com https://crypto-js.stripe.com https://js.stripe.com 'self'; img-src data: https://assets.ctfassets.net https://assets.stripeassets.com https://b.stripecdn.com https://images.ctfassets.net https://images.stripeassets.com https://q.stripe.com https://stripe-camo.global.ssl.fastly.net 'self'; media-src https://assets.ctfassets.net https://assets.stripeassets.com https://b.stripecdn.com https://videos.ctfassets.net https://videos.stripeassets.com 'self'; script-src https://b.stripecdn.com https://crypto-js.stripe.com https://js.stripe.com 'self' 'sha256-3aWvb9tRBjmz1OjR3n7mwiTm94+s4iki4mMZF82asmc=' 'sha256-5LtzXhT7UFn+GqP5pKEMGL08UNZsrzANHFEBW/mQHGw=' 'sha256-beLzNcen8LrazzSCRjAapoIMTgJI0osPWGNSX7aK6lc=' 'sha256-cCM0Z4lzGkzQnmbdVw+ouz0JRawyaKcZ4yiqzqYS7ek=' 'sha256-vTifGUJH6hJYTvstw4xJ4xfr/vE0ELkOV4GpCumyqfg=' 'sha256-KxhSaxKB5RFTQsqfRwp+zG7iLjvMrTAySqnSvWlqct0=' 'sha256-tMuJ8c00j54yuxogrdIJeGhNVB350dc56i969XRz/Mc=' 'sha256-aEFSvCaVnb2wNwuO3IzA8J44RdTKt6vms9beA7BcCYg=' 'sha256-0SWEc2BfR2o77i2vUiNNIrFKQkjc2Ujsr2hlfZ6oUek=' 'sha256-++XO0UzhS9XkPcAXD939+/NfpH8YUO8EoIgEQerdgxY=' 'report-sample'; style-src https://b.stripecdn.com 'self' 'unsafe-inline'; worker-src 'none'; upgrade-insecure-requests; report-uri https://q.stripe.com/csp-violation?q=bTOB-CrcIGADVB1p7i3yjDUxWylh75Tmd5GsETRM-GUOvEtIHQDUDiSI9cLTmsk%3D; report-to csp"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 621306,
+      "truncated": false,
+      "body_sha256": "52b72f3d9a217f7a59c8375207199ca944d4638652c67404decdade85eb1d8ed",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Stripe Data Pipeline | Pricing and FeesStripe logoStripe logoStripe logo",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "212",
+      "domain": "stripe.com",
+      "stratum": "101-1000",
+      "requested_url": "https://stripe.com/fr-ca/apps",
+      "depth": 3,
+      "parent_url": "https://stripe.com/apps",
+      "attempt": 40,
+      "timestamp": "2026-11-12T21:12:21.162558+00:00",
+      "final_url": "https://stripe.com/fr-ca/apps",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "base-uri 'none'; connect-src https://c.increment.com https://c.stripe.dev https://c.stripe.global https://c.stripe.partners blob: https://b.stripecdn.com https://climate.stripe.com https://errors.stripe.com https://ext.stripe.com https://r.stripe.com https://stripe-images.s3.us-west-1.amazonaws.com https://stripe.com https://y4pfttj91h-1.algolianet.com/1/indexes/mkt_partners/query https://y4pfttj91h-2.algolianet.com/1/indexes/mkt_partners/query https://y4pfttj91h-3.algolianet.com/1/indexes/mkt_partners/query https://y4pfttj91h-dsn.algolia.net/1/indexes/mkt_partners/query https://tax-connectors.stripe.com 'self'; default-src 'none'; font-src https://b.stripecdn.com 'self'; form-action https://climate.stripe.com https://stripe.com 'self'; frame-ancestors https://app.contentful.com 'self'; frame-src https://checkout.stripe.dev https://support-conversations.stripe.com https://b.stripecdn.com https://checkout.stripe.com https://crypto-js.stripe.com https://js.stripe.com 'self'; img-src data: https://assets.ctfassets.net https://assets.stripeassets.com https://b.stripecdn.com https://images.ctfassets.net https://images.stripeassets.com https://q.stripe.com https://stripe-camo.global.ssl.fastly.net 'self'; media-src https://assets.ctfassets.net https://assets.stripeassets.com https://b.stripecdn.com https://videos.ctfassets.net https://videos.stripeassets.com 'self'; script-src https://b.stripecdn.com https://crypto-js.stripe.com https://js.stripe.com 'self' 'sha256-3aWvb9tRBjmz1OjR3n7mwiTm94+s4iki4mMZF82asmc=' 'sha256-5LtzXhT7UFn+GqP5pKEMGL08UNZsrzANHFEBW/mQHGw=' 'sha256-beLzNcen8LrazzSCRjAapoIMTgJI0osPWGNSX7aK6lc=' 'sha256-cCM0Z4lzGkzQnmbdVw+ouz0JRawyaKcZ4yiqzqYS7ek=' 'sha256-vTifGUJH6hJYTvstw4xJ4xfr/vE0ELkOV4GpCumyqfg=' 'sha256-KxhSaxKB5RFTQsqfRwp+zG7iLjvMrTAySqnSvWlqct0=' 'sha256-tMuJ8c00j54yuxogrdIJeGhNVB350dc56i969XRz/Mc=' 'sha256-aEFSvCaVnb2wNwuO3IzA8J44RdTKt6vms9beA7BcCYg=' 'sha256-0SWEc2BfR2o77i2vUiNNIrFKQkjc2Ujsr2hlfZ6oUek=' 'sha256-++XO0UzhS9XkPcAXD939+/NfpH8YUO8EoIgEQerdgxY=' 'report-sample'; style-src https://b.stripecdn.com 'self' 'unsafe-inline'; worker-src 'none'; upgrade-insecure-requests; report-uri https://q.stripe.com/csp-violation?q=yXg_6ISdEaoVerSIzBQbfbPh1xZEbdeV9fL6R7PR09GWscQzrPBO9IR4jqxgse0%3D; report-to csp"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 710362,
+      "truncated": false,
+      "body_sha256": "1ba4dc006336db7c8d9e1bc71dc399c812b6825b63a20c6afc60e184882b326f",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Cr\u00e9er une application Stripe App | StripeStripe logoStripe logoStripe Apps logoStripe logoFinAI logoRamp logoDocusign logoRender logoFinAI logoRamp logoDocusign logoRender logoStripe logo",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "212",
+      "domain": "stripe.com",
+      "stratum": "101-1000",
+      "requested_url": "https://stripe.com/blog/introducing-our-agentic-commerce-solutions",
+      "depth": 1,
+      "parent_url": "https://stripe.com/",
+      "attempt": 41,
+      "timestamp": "2026-11-12T21:12:21.784175+00:00",
+      "final_url": "https://stripe.com/blog/introducing-our-agentic-commerce-solutions",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "base-uri 'none'; connect-src https://c.increment.com https://c.stripe.dev https://c.stripe.global https://c.stripe.partners blob: https://b.stripecdn.com https://climate.stripe.com https://errors.stripe.com https://ext.stripe.com https://r.stripe.com https://stripe-images.s3.us-west-1.amazonaws.com https://stripe.com https://y4pfttj91h-1.algolianet.com/1/indexes/mkt_partners/query https://y4pfttj91h-2.algolianet.com/1/indexes/mkt_partners/query https://y4pfttj91h-3.algolianet.com/1/indexes/mkt_partners/query https://y4pfttj91h-dsn.algolia.net/1/indexes/mkt_partners/query https://tax-connectors.stripe.com 'self'; default-src 'none'; font-src https://b.stripecdn.com 'self'; form-action https://climate.stripe.com https://stripe.com 'self'; frame-ancestors https://app.contentful.com 'self'; frame-src https://checkout.stripe.dev https://support-conversations.stripe.com https://b.stripecdn.com https://checkout.stripe.com https://crypto-js.stripe.com https://js.stripe.com 'self'; img-src data: https://assets.ctfassets.net https://assets.stripeassets.com https://b.stripecdn.com https://images.ctfassets.net https://images.stripeassets.com https://q.stripe.com https://stripe-camo.global.ssl.fastly.net 'self'; media-src https://assets.ctfassets.net https://assets.stripeassets.com https://b.stripecdn.com https://videos.ctfassets.net https://videos.stripeassets.com 'self'; script-src https://b.stripecdn.com https://crypto-js.stripe.com https://js.stripe.com 'self' 'sha256-3aWvb9tRBjmz1OjR3n7mwiTm94+s4iki4mMZF82asmc=' 'sha256-5LtzXhT7UFn+GqP5pKEMGL08UNZsrzANHFEBW/mQHGw=' 'sha256-beLzNcen8LrazzSCRjAapoIMTgJI0osPWGNSX7aK6lc=' 'sha256-cCM0Z4lzGkzQnmbdVw+ouz0JRawyaKcZ4yiqzqYS7ek=' 'sha256-vTifGUJH6hJYTvstw4xJ4xfr/vE0ELkOV4GpCumyqfg=' 'sha256-KxhSaxKB5RFTQsqfRwp+zG7iLjvMrTAySqnSvWlqct0=' 'sha256-tMuJ8c00j54yuxogrdIJeGhNVB350dc56i969XRz/Mc=' 'sha256-aEFSvCaVnb2wNwuO3IzA8J44RdTKt6vms9beA7BcCYg=' 'sha256-0SWEc2BfR2o77i2vUiNNIrFKQkjc2Ujsr2hlfZ6oUek=' 'sha256-++XO0UzhS9XkPcAXD939+/NfpH8YUO8EoIgEQerdgxY=' 'report-sample'; style-src https://b.stripecdn.com 'self' 'unsafe-inline'; worker-src 'none'; upgrade-insecure-requests; report-uri https://q.stripe.com/csp-violation?q=Ljgo11UJp8FAbeQSRY2yCkYBFHYEkXL8C-l9bCiFcWXaQAkJovmDxciJSb6rZKw%3D; report-to csp"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 396824,
+      "truncated": false,
+      "body_sha256": "88f3c60eae5a00a69f96ab69b0ce62914e3432d79d5102dd9c922913f11d83a6",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Introducing our agentic commerce solutionsStripe logoStripe logoStripe logo",
+      "duplicate_final": false,
+      "eligible": true
+    }
+  ],
+  "robots": [
+    {
+      "url": "https://stripe.com/robots.txt",
+      "timestamp": "2026-11-12T21:11:57.677336+00:00",
+      "status": 200,
+      "decision": "parsed",
+      "final_url": "https://stripe.com/robots.txt",
+      "redirect_chain": [],
+      "body_sha256": "23166bdd2477d69a2fbd405ae5901154a36f5de79876de4616494458fb340002",
+      "body": "Sitemap: https://stripe.com/sitemap/sitemap.xml\n\nUser-agent: ia_archiver\nAllow: /docs/api\nAllow: /docs/api$\nDisallow: /docs\nDisallow: /docs$\nDisallow: /bitcoin/refund\nDisallow: /sources/refund\nDisallow: /sources/sepa_mandate\nDisallow: /sources/test_source\nDisallow: /sources/test_klarna\nDisallow: /handoff-healthcheck\nDisallow: /handoff\n\nUser-agent: *\nAllow: /docs\nAllow: /docs$\nDisallow: /bitcoin/refund\nDisallow: /sources/refund\nDisallow: /sources/sepa_mandate\nDisallow: /sources/test_source\nDisallow: /sources/test_klarna\nDisallow: /unsupported-browser\nDisallow: /handoff-healthcheck\nDisallow: /handoff\n\nUser-agent: rogerbot\nCrawl-delay: 2\n"
+    }
+  ],
+  "eligible_pages": 40,
+  "canonical_origin": [
+    "https",
+    "stripe.com",
+    443
+  ],
+  "stop_reason": "page_budget",
+  "elapsed_seconds": 24.81
+}

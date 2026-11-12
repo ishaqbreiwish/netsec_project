@@ -1,0 +1,65 @@
+{
+  "site": {
+    "rank": "6862",
+    "domain": "gotoassist.com",
+    "stratum": "1001-10000"
+  },
+  "rows": [
+    {
+      "rank": "6862",
+      "domain": "gotoassist.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://gotoassist.com/",
+      "depth": 0,
+      "parent_url": "",
+      "attempt": 1,
+      "timestamp": "2026-11-12T21:14:11.909313+00:00",
+      "final_url": "https://gotoassist.com/",
+      "status": 301,
+      "content_type": "text/html; charset=iso-8859-1",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 0,
+      "truncated": false,
+      "body_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "redirect_chain": [
+        {
+          "url": "https://gotoassist.com/",
+          "status": 301,
+          "location": "http://www.gotoassist.com/remote_support/",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": []
+          }
+        }
+      ],
+      "error": "redirect_out_of_scope",
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    }
+  ],
+  "robots": [
+    {
+      "url": "https://gotoassist.com/robots.txt",
+      "timestamp": "2026-11-12T21:14:11.909288+00:00",
+      "status": 200,
+      "decision": "parsed",
+      "final_url": "https://gotoassist.com/robots.txt",
+      "redirect_chain": [],
+      "body_sha256": "0bf05f901dfc097025af471397090382f31c11af21edc52d2696f566123e7f49",
+      "body": "User-agent: *\nDisallow:\nSitemap: http://www.gotoassist.com/sitemap.xml"
+    }
+  ],
+  "eligible_pages": 0,
+  "canonical_origin": null,
+  "stop_reason": "frontier_exhausted",
+  "elapsed_seconds": 0.64
+}

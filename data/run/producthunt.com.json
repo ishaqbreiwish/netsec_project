@@ -1,0 +1,67 @@
+{
+  "site": {
+    "rank": "4314",
+    "domain": "producthunt.com",
+    "stratum": "1001-10000"
+  },
+  "rows": [
+    {
+      "rank": "4314",
+      "domain": "producthunt.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://producthunt.com/",
+      "depth": 0,
+      "parent_url": "",
+      "attempt": 1,
+      "timestamp": "2026-11-12T21:13:42.757946+00:00",
+      "final_url": "https://producthunt.com/",
+      "status": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'none'; script-src 'nonce-BeiS71uEYPIeU8A3xMdvjA' 'unsafe-eval' https://challenges.cloudflare.com; script-src-attr 'none'; style-src 'unsafe-inline'; img-src 'self' https://challenges.cloudflare.com; connect-src 'self' https://challenges.cloudflare.com; frame-src 'self' https://challenges.cloudflare.com blob:; child-src 'self' https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=2592000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 5587,
+      "truncated": false,
+      "body_sha256": "fa437c487c3f5fdc15baa97ce91893bd69a45feecfe6c5f557cfb282f4f339ce",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    }
+  ],
+  "robots": [
+    {
+      "url": "https://producthunt.com/robots.txt",
+      "timestamp": "2026-11-12T21:13:42.757847+00:00",
+      "status": 200,
+      "decision": "parsed",
+      "final_url": "https://www.producthunt.com/robots.txt",
+      "redirect_chain": [
+        {
+          "url": "https://producthunt.com/robots.txt",
+          "status": 301,
+          "location": "https://www.producthunt.com/robots.txt"
+        }
+      ],
+      "body_sha256": "0d39dd5b65502df083f7a51da7c3bbde7d0e12b4421741d3e2a1963c35036cc0",
+      "body": "User-agent: *\n\nAllow: /sitemaps_v3/*\n\nDisallow: /auth/*\n\nDisallow: /search*\nDisallow: /*?*comment=*\nDisallow: /*?*review=*\n\nDisallow: /my/*\nDisallow: /yours*\nDisallow: /notifications\nDisallow: /@*/*\n\n# Auth-gated and redirect-only endpoints \u2014 no indexable content.\n# `$` anchors the match so post/discussion/forum slugs starting with\n# \"new\" (e.g. /p/news) remain crawlable.\nDisallow: /login$\nDisallow: /p/new$\nDisallow: /discussions/new$\nDisallow: /forums/new$\n\n# Disable short links leading to external websites\n# ========================\nDisallow: /r/*\n\n# Explicitly allow shortlink to posts\nAllow: /r/p/*\n\n# Disable indexing of search\nDisallow: /search*\n\nSitemap: https://www.producthunt.com/sitemaps_v3/root_sitemap.xml.gz\nSitemap: https://www.producthunt.com/sitemaps_v3/stories_sitemap.xml.gz\nSitemap: https://www.producthunt.com/sitemaps_v3/topics_sitemap.xml.gz\nSitemap: https://www.producthunt.com/sitemaps_v3/newsletters_sitemap.xml.gz\nSitemap: https://www.producthunt.com/sitemaps_v3/forums_sitemap.xml.gz\nSitemap: https://www.producthunt.com/sitemaps_v3/discussions_sitemap.xml.gz\nSitemap: https://www.producthunt.com/sitemaps_v3/product_about_sitemap.xml.gz\nSitemap: https://www.producthunt.com/sitemaps_v3/product_alternatives_sitemap.xml.gz\nSitemap: https://www.producthunt.com/sitemaps_v3/product_reviews_sitemap.xml.gz\nSitemap: https://www.producthunt.com/sitemaps_v3/products_categories_sitemap.xml.gz\n\nUser-agent: SemrushBot\nCrawl-delay: 1\n\nUser-agent: SiteAuditBot\nCrawl-delay: 1\n"
+    }
+  ],
+  "eligible_pages": 0,
+  "canonical_origin": [
+    "https",
+    "producthunt.com",
+    443
+  ],
+  "stop_reason": "frontier_exhausted",
+  "elapsed_seconds": 0.65
+}

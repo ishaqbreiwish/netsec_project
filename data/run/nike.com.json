@@ -1,0 +1,1338 @@
+{
+  "site": {
+    "rank": "674",
+    "domain": "nike.com",
+    "stratum": "101-1000"
+  },
+  "rows": [
+    {
+      "rank": "674",
+      "domain": "nike.com",
+      "stratum": "101-1000",
+      "requested_url": "https://nike.com/",
+      "depth": 0,
+      "parent_url": "",
+      "attempt": 1,
+      "timestamp": "2026-11-12T21:12:24.605262+00:00",
+      "final_url": "https://www.nike.com/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' *.nike.com *.nikecloud.com *.nikedev.com"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=2628000 ; includeSubDomains"
+        ]
+      },
+      "body_bytes": 989566,
+      "truncated": false,
+      "body_sha256": "49f8ddb385e626d84abf79797a653967d01dbd2683b6a52e9c9ba066fe8ece03",
+      "redirect_chain": [
+        {
+          "url": "https://nike.com/",
+          "status": 301,
+          "location": "https://www.nike.com/",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=63072000"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Nike. Just Do It. Nike.com",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "674",
+      "domain": "nike.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.nike.com/accessibility",
+      "depth": 1,
+      "parent_url": "https://www.nike.com/",
+      "attempt": 2,
+      "timestamp": "2026-11-12T21:12:25.940442+00:00",
+      "final_url": "https://www.nike.com/accessibility",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' *.nike.com *.nikecloud.com *.nikedev.com"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=2628000 ; includeSubDomains"
+        ]
+      },
+      "body_bytes": 640355,
+      "truncated": false,
+      "body_sha256": "4662f6253028b77c00516d24d61c8700a0533fd59b4aa13188bd9193b7187a77",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "674",
+      "domain": "nike.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.nike.com/easyon",
+      "depth": 2,
+      "parent_url": "https://www.nike.com/accessibility",
+      "attempt": 3,
+      "timestamp": "2026-11-12T21:12:28.009397+00:00",
+      "final_url": "https://www.nike.com/easyon",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' *.nike.com *.nikecloud.com *.nikedev.com"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=2628000 ; includeSubDomains"
+        ]
+      },
+      "body_bytes": 643361,
+      "truncated": false,
+      "body_sha256": "cce0ed6ac2f22284de0c3cdf2023036a534f8b5fe3bd32a10adcdf3f81d0b378",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Nike EasyOn \u2013 Adaptive Shoes for Every Body. Nike.com",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "674",
+      "domain": "nike.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.nike.com/w/easy-on-off-shoes-15u4mzy7ok",
+      "depth": 3,
+      "parent_url": "https://www.nike.com/easyon",
+      "attempt": 4,
+      "timestamp": "2026-11-12T21:12:30.157809+00:00",
+      "final_url": "https://www.nike.com/w/easy-on-off-shoes-15u4mzy7ok",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' *.nike.com *.nikecloud.com *.nikedev.com"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=2628000 ; includeSubDomains"
+        ]
+      },
+      "body_bytes": 802783,
+      "truncated": false,
+      "body_sha256": "29986bf424b1fc69aa2e3c726206c6270349edeb964e0a5fa4be68e9436ed26b",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Easy On & Off Shoes. Nike.com",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "674",
+      "domain": "nike.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.nike.com/t/revolution-8-easyon-mens-road-running-shoes-62pvEwkd/HQ2414-100",
+      "depth": 4,
+      "parent_url": "https://www.nike.com/w/easy-on-off-shoes-15u4mzy7ok",
+      "attempt": 5,
+      "timestamp": "2026-11-12T21:12:31.266238+00:00",
+      "final_url": "https://www.nike.com/t/revolution-8-easyon-mens-road-running-shoes-62pvEwkd/HQ2414-100",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' *.nike.com *.nikecloud.com *.nikedev.com"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=2628000 ; includeSubDomains"
+        ]
+      },
+      "body_bytes": 768117,
+      "truncated": false,
+      "body_sha256": "9be234c31c7188dd212db2379b5b24ca13af07ce2b35fc3ec5e5d9033f84fcd2",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Nike Revolution 8 EasyOn Men's Road Running Shoes. Nike.comnon-filled",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "674",
+      "domain": "nike.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.nike.com/size-fit/mens-footwear",
+      "depth": 5,
+      "parent_url": "https://www.nike.com/t/revolution-8-easyon-mens-road-running-shoes-62pvEwkd/HQ2414-100",
+      "attempt": 6,
+      "timestamp": "2026-11-12T21:12:33.707487+00:00",
+      "final_url": "https://www.nike.com/size-fit/mens-footwear",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' *.nike.com *.nikecloud.com *.nikedev.com"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=2628000 ; includeSubDomains"
+        ]
+      },
+      "body_bytes": 639308,
+      "truncated": false,
+      "body_sha256": "eb302ba261d5b3dc53d88f0744b5e46678eca769f004dbc9a3b42874862a9f3f",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Men's Footwear Size Chart. Nike.com",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "674",
+      "domain": "nike.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.nike.com/jordan",
+      "depth": 1,
+      "parent_url": "https://www.nike.com/",
+      "attempt": 7,
+      "timestamp": "2026-11-12T21:12:34.676938+00:00",
+      "final_url": "https://www.nike.com/jordan",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' *.nike.com *.nikecloud.com *.nikedev.com"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=2628000 ; includeSubDomains"
+        ]
+      },
+      "body_bytes": 768950,
+      "truncated": false,
+      "body_sha256": "7e8aefc81dea3a0ae4953c50c4f321caf788583211cd2adec058ea1d13935df4",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Jordan. Nike.com",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "674",
+      "domain": "nike.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.nike.com/at/accessibility/statement",
+      "depth": 2,
+      "parent_url": "https://www.nike.com/accessibility",
+      "attempt": 8,
+      "timestamp": "2026-11-12T21:12:35.805837+00:00",
+      "final_url": "https://www.nike.com/at/accessibility/statement",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' *.nike.com *.nikecloud.com *.nikedev.com"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=2628000 ; includeSubDomains"
+        ]
+      },
+      "body_bytes": 553138,
+      "truncated": false,
+      "body_sha256": "5f0656fd107cde457a4a72e9d650a52039c3c7e5aa3b592c7cfb76e9fbb838f3",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "674",
+      "domain": "nike.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.nike.com/gb/launch/upcoming",
+      "depth": 3,
+      "parent_url": "https://www.nike.com/at/accessibility/statement",
+      "attempt": 9,
+      "timestamp": "2026-11-12T21:12:37.776062+00:00",
+      "final_url": "https://www.nike.com/gb/launch/upcoming",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' *.nike.com *.nikecloud.com *.nikedev.com"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=2628000 ; includeSubDomains"
+        ]
+      },
+      "body_bytes": 935864,
+      "truncated": false,
+      "body_sha256": "77429954118b3d9f132d0d80ff04922658038e991ff4ca8ec2acdb37922db1e4",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Upcoming sneaker & apparel releases 2026 GB. Nike SNKRSNike SNKRS WebNike SNKRS Web",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "674",
+      "domain": "nike.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.nike.com/help/a/free-shipping",
+      "depth": 5,
+      "parent_url": "https://www.nike.com/t/revolution-8-easyon-mens-road-running-shoes-62pvEwkd/HQ2414-100",
+      "attempt": 10,
+      "timestamp": "2026-11-12T21:12:39.388961+00:00",
+      "final_url": "https://www.nike.com/help/a/free-shipping",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' *.nike.com *.nikecloud.com *.nikedev.com"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=2628000 ; includeSubDomains"
+        ]
+      },
+      "body_bytes": 546022,
+      "truncated": false,
+      "body_sha256": "5c01667f2e63c343547c556eacc385eef410bf870bc220a20ec34834cf662a26",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "How Do I Get Free Shipping on Nike Orders? | Nike HelpsearchIcon",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "674",
+      "domain": "nike.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.nike.com/retail",
+      "depth": 1,
+      "parent_url": "https://www.nike.com/",
+      "attempt": 11,
+      "timestamp": "2026-11-12T21:12:42.533794+00:00",
+      "final_url": "https://www.nike.com/retail",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' *.nike.com *.nikecloud.com *.nikedev.com"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=2628000 ; includeSubDomains"
+        ]
+      },
+      "body_bytes": 661183,
+      "truncated": false,
+      "body_sha256": "f7be9f55c0ceb99a1c65e5f3978f1229b661b89d34ac9f2d9439e3d3f88e322e",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "674",
+      "domain": "nike.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.nike.com/be/accessibility/statement",
+      "depth": 2,
+      "parent_url": "https://www.nike.com/accessibility",
+      "attempt": 12,
+      "timestamp": "2026-11-12T21:12:44.251158+00:00",
+      "final_url": "https://www.nike.com/be/accessibility/statement",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' *.nike.com *.nikecloud.com *.nikedev.com"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=2628000 ; includeSubDomains"
+        ]
+      },
+      "body_bytes": 547946,
+      "truncated": false,
+      "body_sha256": "5095fcedeb21fdec067e9c959d4377272dffb0116f1248b607c527f852299fc0",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "674",
+      "domain": "nike.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.nike.com/orders/details/",
+      "depth": 1,
+      "parent_url": "https://www.nike.com/",
+      "attempt": 13,
+      "timestamp": "2026-11-12T21:12:45.881998+00:00",
+      "final_url": "https://www.nike.com/orders/details/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' *.nike.com *.nikecloud.com *.nikedev.com"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=2628000 ; includeSubDomains"
+        ]
+      },
+      "body_bytes": 712922,
+      "truncated": false,
+      "body_sha256": "97a01b3c4980516c68a96b6d58214c78d4f59e9878560ff1928275934a6f7ddb",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Member Orders. Nike.com",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "674",
+      "domain": "nike.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.nike.com/bg/accessibility/statement",
+      "depth": 2,
+      "parent_url": "https://www.nike.com/accessibility",
+      "attempt": 14,
+      "timestamp": "2026-11-12T21:12:47.303320+00:00",
+      "final_url": "https://www.nike.com/bg/accessibility/statement",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' *.nike.com *.nikecloud.com *.nikedev.com"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=2628000 ; includeSubDomains"
+        ]
+      },
+      "body_bytes": 541695,
+      "truncated": false,
+      "body_sha256": "6df324644c74139a676fda2e3707f424b171fc223904b9c5b1645b750c3c028a",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "674",
+      "domain": "nike.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.nike.com/membership",
+      "depth": 1,
+      "parent_url": "https://www.nike.com/",
+      "attempt": 15,
+      "timestamp": "2026-11-12T21:12:48.331332+00:00",
+      "final_url": "https://www.nike.com/membership",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' *.nike.com *.nikecloud.com *.nikedev.com"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=2628000 ; includeSubDomains"
+        ]
+      },
+      "body_bytes": 737808,
+      "truncated": false,
+      "body_sha256": "f135b8bd3732a115d5663327c0cd5c090914a07f9efe84acbe151ebc84b6305d",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Nike Membership. Nike.com",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "674",
+      "domain": "nike.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.nike.com/cz/accessibility/statement",
+      "depth": 2,
+      "parent_url": "https://www.nike.com/accessibility",
+      "attempt": 16,
+      "timestamp": "2026-11-12T21:12:49.357864+00:00",
+      "final_url": "https://www.nike.com/cz/accessibility/statement",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' *.nike.com *.nikecloud.com *.nikedev.com"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=2628000 ; includeSubDomains"
+        ]
+      },
+      "body_bytes": 544892,
+      "truncated": false,
+      "body_sha256": "0b47e06969a1909a0aa8f991bf9d6eddab25fdeb872129f6e676a5f78067d521",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "674",
+      "domain": "nike.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.nike.com/promo-code",
+      "depth": 1,
+      "parent_url": "https://www.nike.com/",
+      "attempt": 17,
+      "timestamp": "2026-11-12T21:12:51.189924+00:00",
+      "final_url": "https://www.nike.com/promo-code",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' *.nike.com *.nikecloud.com *.nikedev.com"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=2628000 ; includeSubDomains"
+        ]
+      },
+      "body_bytes": 630236,
+      "truncated": false,
+      "body_sha256": "418d16237ee4bb35f748a7dd30a77e427d83ef45ad4fa18734a6683ef64e2801",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Official Nike Promo Codes & Coupons 2026. Nike.com",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "674",
+      "domain": "nike.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.nike.com/de/accessibility/statement",
+      "depth": 2,
+      "parent_url": "https://www.nike.com/accessibility",
+      "attempt": 18,
+      "timestamp": "2026-11-12T21:12:52.216458+00:00",
+      "final_url": "https://www.nike.com/de/accessibility/statement",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' *.nike.com *.nikecloud.com *.nikedev.com"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=2628000 ; includeSubDomains"
+        ]
+      },
+      "body_bytes": 555409,
+      "truncated": false,
+      "body_sha256": "dec5c4866e05dc96b0e5c4bed9e980b1795258ea245a8ab1414719c6dc47e5ed",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "674",
+      "domain": "nike.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.nike.com/product-advice",
+      "depth": 1,
+      "parent_url": "https://www.nike.com/",
+      "attempt": 19,
+      "timestamp": "2026-11-12T21:12:55.596714+00:00",
+      "final_url": "https://www.nike.com/product-advice",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' *.nike.com *.nikecloud.com *.nikedev.com"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=2628000 ; includeSubDomains"
+        ]
+      },
+      "body_bytes": 785718,
+      "truncated": false,
+      "body_sha256": "81f926ff9567297f8b7eaad71b6a733fd55ea1d7bb24462bbc194f7623c11fb6",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Nike Product Advice. Nike.com",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "674",
+      "domain": "nike.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.nike.com/dk/accessibility/statement",
+      "depth": 2,
+      "parent_url": "https://www.nike.com/accessibility",
+      "attempt": 20,
+      "timestamp": "2026-11-12T21:12:56.790296+00:00",
+      "final_url": "https://www.nike.com/dk/accessibility/statement",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' *.nike.com *.nikecloud.com *.nikedev.com"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=2628000 ; includeSubDomains"
+        ]
+      },
+      "body_bytes": 544246,
+      "truncated": false,
+      "body_sha256": "06f15331cb8cc5f1b85b07cb07b3bb555ba08826589122877568909d9b14af4a",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "674",
+      "domain": "nike.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.nike.com/men",
+      "depth": 1,
+      "parent_url": "https://www.nike.com/",
+      "attempt": 21,
+      "timestamp": "2026-11-12T21:12:57.796774+00:00",
+      "final_url": "https://www.nike.com/men",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' *.nike.com *.nikecloud.com *.nikedev.com"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=2628000 ; includeSubDomains"
+        ]
+      },
+      "body_bytes": 827021,
+      "truncated": false,
+      "body_sha256": "755576f618ac3a2fb96f1c796d5b048cec568042a82067fc3254c5079414c323",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Men's Shoes, Clothing & Accessories. Nike.com",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "674",
+      "domain": "nike.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.nike.com/es/accessibility/statement",
+      "depth": 2,
+      "parent_url": "https://www.nike.com/accessibility",
+      "attempt": 22,
+      "timestamp": "2026-11-12T21:12:59.445597+00:00",
+      "final_url": "https://www.nike.com/es/accessibility/statement",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' *.nike.com *.nikecloud.com *.nikedev.com"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=2628000 ; includeSubDomains"
+        ]
+      },
+      "body_bytes": 556656,
+      "truncated": false,
+      "body_sha256": "b5e2a0db9b0493ad2de06af1b201b762b4a3a3fb634b6f432e44145b82a5cca1",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "674",
+      "domain": "nike.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.nike.com/acg",
+      "depth": 1,
+      "parent_url": "https://www.nike.com/",
+      "attempt": 23,
+      "timestamp": "2026-11-12T21:13:00.571051+00:00",
+      "final_url": "https://www.nike.com/acg",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' *.nike.com *.nikecloud.com *.nikedev.com"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=2628000 ; includeSubDomains"
+        ]
+      },
+      "body_bytes": 814520,
+      "truncated": false,
+      "body_sha256": "52231269176258c1667d5f0743918f9a24483f9740ad961a01298b55d889b0a6",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "ACG - All Conditions Gear. Nike.com",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "674",
+      "domain": "nike.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.nike.com/fi/accessibility/statement",
+      "depth": 2,
+      "parent_url": "https://www.nike.com/accessibility",
+      "attempt": 24,
+      "timestamp": "2026-11-12T21:13:03.168831+00:00",
+      "final_url": "https://www.nike.com/fi/accessibility/statement",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' *.nike.com *.nikecloud.com *.nikedev.com"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=2628000 ; includeSubDomains"
+        ]
+      },
+      "body_bytes": 545503,
+      "truncated": false,
+      "body_sha256": "df5596c276891c1acc9f2ba13b2962450375d0ea070ac7eb8c62a1f5998dd391",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "674",
+      "domain": "nike.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.nike.com/baseball",
+      "depth": 1,
+      "parent_url": "https://www.nike.com/",
+      "attempt": 25,
+      "timestamp": "2026-11-12T21:13:04.640294+00:00",
+      "final_url": "https://www.nike.com/baseball",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' *.nike.com *.nikecloud.com *.nikedev.com"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=2628000 ; includeSubDomains"
+        ]
+      },
+      "body_bytes": 686037,
+      "truncated": false,
+      "body_sha256": "6d4c89381896bbb38eaa10205a3bd0caf5357446bafa6a3763b91a26671786dd",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Nike Baseball. Nike.com",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "674",
+      "domain": "nike.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.nike.com/fr/accessibility/statement",
+      "depth": 2,
+      "parent_url": "https://www.nike.com/accessibility",
+      "attempt": 26,
+      "timestamp": "2026-11-12T21:13:05.670533+00:00",
+      "final_url": "https://www.nike.com/fr/accessibility/statement",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' *.nike.com *.nikecloud.com *.nikedev.com"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=2628000 ; includeSubDomains"
+        ]
+      },
+      "body_bytes": 572781,
+      "truncated": false,
+      "body_sha256": "81f01e576dfedecf6393e0ebf715c4a4231af99e12503e6b2917c6450d0a89d7",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "D\u00e9claration des Valeurs de Nike | Nike.com",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "674",
+      "domain": "nike.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.nike.com/basketball",
+      "depth": 1,
+      "parent_url": "https://www.nike.com/",
+      "attempt": 27,
+      "timestamp": "2026-11-12T21:13:06.680470+00:00",
+      "final_url": "https://www.nike.com/basketball",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' *.nike.com *.nikecloud.com *.nikedev.com"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=2628000 ; includeSubDomains"
+        ]
+      },
+      "body_bytes": 901605,
+      "truncated": false,
+      "body_sha256": "5ba1283f5d69bc2134b48f75d5c3df1a11f6960fa8663cff9fba663c819595a8",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Nike Basketball. Nike.com",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "674",
+      "domain": "nike.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.nike.com/gr/accessibility/statement",
+      "depth": 2,
+      "parent_url": "https://www.nike.com/accessibility",
+      "attempt": 28,
+      "timestamp": "2026-11-12T21:13:07.752911+00:00",
+      "final_url": "https://www.nike.com/gr/accessibility/statement",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' *.nike.com *.nikecloud.com *.nikedev.com"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=2628000 ; includeSubDomains"
+        ]
+      },
+      "body_bytes": 569324,
+      "truncated": false,
+      "body_sha256": "e319561da67a8531cf333f9ab5eb6b67fcc16a1aef6110447f0fa98b1b2c03e9",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "674",
+      "domain": "nike.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.nike.com/us-football",
+      "depth": 1,
+      "parent_url": "https://www.nike.com/",
+      "attempt": 29,
+      "timestamp": "2026-11-12T21:13:09.053493+00:00",
+      "final_url": "https://www.nike.com/us-football",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' *.nike.com *.nikecloud.com *.nikedev.com"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=2628000 ; includeSubDomains"
+        ]
+      },
+      "body_bytes": 684958,
+      "truncated": false,
+      "body_sha256": "508e4361fbbfcb4d381c5b2f07cb952be12e14af486f7a707797bc25dea9b305",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "US Football. Nike.com",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "674",
+      "domain": "nike.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.nike.com/hr/accessibility/statement",
+      "depth": 2,
+      "parent_url": "https://www.nike.com/accessibility",
+      "attempt": 30,
+      "timestamp": "2026-11-12T21:13:10.934832+00:00",
+      "final_url": "https://www.nike.com/hr/accessibility/statement",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' *.nike.com *.nikecloud.com *.nikedev.com"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=2628000 ; includeSubDomains"
+        ]
+      },
+      "body_bytes": 541953,
+      "truncated": false,
+      "body_sha256": "18314b4226648c9c4cd7690d8816e2965fde3880ba8d7e01d848431c40408f81",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "674",
+      "domain": "nike.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.nike.com/golf",
+      "depth": 1,
+      "parent_url": "https://www.nike.com/",
+      "attempt": 31,
+      "timestamp": "2026-11-12T21:13:12.631938+00:00",
+      "final_url": "https://www.nike.com/golf",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' *.nike.com *.nikecloud.com *.nikedev.com"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=2628000 ; includeSubDomains"
+        ]
+      },
+      "body_bytes": 726813,
+      "truncated": false,
+      "body_sha256": "16ca3a18b3b83a8efc30ed4d21d9fad638c065b00f8c9cbcb140f8694d8e7fe6",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Nike Golf. Nike.com",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "674",
+      "domain": "nike.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.nike.com/hu/accessibility/statement",
+      "depth": 2,
+      "parent_url": "https://www.nike.com/accessibility",
+      "attempt": 32,
+      "timestamp": "2026-11-12T21:13:13.680066+00:00",
+      "final_url": "https://www.nike.com/hu/accessibility/statement",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' *.nike.com *.nikecloud.com *.nikedev.com"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=2628000 ; includeSubDomains"
+        ]
+      },
+      "body_bytes": 548181,
+      "truncated": false,
+      "body_sha256": "cc130aeedaf70299e01264f769bd9227408f07f732b35602415d28db6526bbc1",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "674",
+      "domain": "nike.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.nike.com/LockerRoom",
+      "depth": 1,
+      "parent_url": "https://www.nike.com/",
+      "attempt": 33,
+      "timestamp": "2026-11-12T21:13:15.168482+00:00",
+      "final_url": "https://www.nike.com/LockerRoom",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' *.nike.com *.nikecloud.com *.nikedev.com"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=2628000 ; includeSubDomains"
+        ]
+      },
+      "body_bytes": 895787,
+      "truncated": false,
+      "body_sha256": "9c0192b18d78419e85a59f945ac3f16a1e44f5f6ae9f1692c178fd3ac17521f8",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Nike Locker Room. Fan Gear, Athlete Styles & Sport Apparel. Nike.com",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "674",
+      "domain": "nike.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.nike.com/ie/accessibility/statement",
+      "depth": 2,
+      "parent_url": "https://www.nike.com/accessibility",
+      "attempt": 34,
+      "timestamp": "2026-11-12T21:13:17.340899+00:00",
+      "final_url": "https://www.nike.com/ie/accessibility/statement",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' *.nike.com *.nikecloud.com *.nikedev.com"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=2628000 ; includeSubDomains"
+        ]
+      },
+      "body_bytes": 545404,
+      "truncated": false,
+      "body_sha256": "bbcc9ef9ef80b4f45f137ab1914281546e64275719a5ee1f608f7b6754108d18",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "674",
+      "domain": "nike.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.nike.com/running",
+      "depth": 1,
+      "parent_url": "https://www.nike.com/",
+      "attempt": 35,
+      "timestamp": "2026-11-12T21:13:19.701514+00:00",
+      "final_url": "https://www.nike.com/running",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' *.nike.com *.nikecloud.com *.nikedev.com"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=2628000 ; includeSubDomains"
+        ]
+      },
+      "body_bytes": 761587,
+      "truncated": false,
+      "body_sha256": "32ce319a39c0d76b53b704e51d895d1b3aaa8796384e10656e49976430a24f70",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Running. Nike.com",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "674",
+      "domain": "nike.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.nike.com/il/accessibility/statement",
+      "depth": 2,
+      "parent_url": "https://www.nike.com/accessibility",
+      "attempt": 36,
+      "timestamp": "2026-11-12T21:13:20.843749+00:00",
+      "final_url": "https://www.nike.com/il/accessibility/statement",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' *.nike.com *.nikecloud.com *.nikedev.com"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=2628000 ; includeSubDomains"
+        ]
+      },
+      "body_bytes": 555687,
+      "truncated": false,
+      "body_sha256": "ca33313affba42529974b8b1b63f7a4ff592c74b3310234ca25a761dbd8b47d0",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Accessibility Statement | Nike.com",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "674",
+      "domain": "nike.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.nike.com/soccer",
+      "depth": 1,
+      "parent_url": "https://www.nike.com/",
+      "attempt": 37,
+      "timestamp": "2026-11-12T21:13:22.351058+00:00",
+      "final_url": "https://www.nike.com/soccer",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' *.nike.com *.nikecloud.com *.nikedev.com"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=2628000 ; includeSubDomains"
+        ]
+      },
+      "body_bytes": 872060,
+      "truncated": false,
+      "body_sha256": "a8ceab3f1174d8013c41785f0792de669341af9cc08f714de693d5431314c23d",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Nike Soccer. Nike.com",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "674",
+      "domain": "nike.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.nike.com/it/accessibility/statement",
+      "depth": 2,
+      "parent_url": "https://www.nike.com/accessibility",
+      "attempt": 38,
+      "timestamp": "2026-11-12T21:13:22.970831+00:00",
+      "final_url": "https://www.nike.com/it/accessibility/statement",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' *.nike.com *.nikecloud.com *.nikedev.com"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=2628000 ; includeSubDomains"
+        ]
+      },
+      "body_bytes": 555471,
+      "truncated": false,
+      "body_sha256": "ae6796a4f1c25769d0d4859fdd1af8657477cbe5c6f3f6ef74df2cfa19639417",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "674",
+      "domain": "nike.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.nike.com/skateboarding",
+      "depth": 1,
+      "parent_url": "https://www.nike.com/",
+      "attempt": 39,
+      "timestamp": "2026-11-12T21:13:24.938063+00:00",
+      "final_url": "https://www.nike.com/skateboarding",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' *.nike.com *.nikecloud.com *.nikedev.com"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=2628000 ; includeSubDomains"
+        ]
+      },
+      "body_bytes": 655758,
+      "truncated": false,
+      "body_sha256": "0dd6990f1dc773fe123bee67bf61e1447e472b2ce57a548f4de2fe401f9afc24",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Nike SB. Inside Nike Skateboarding. Nike.com",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "674",
+      "domain": "nike.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.nike.com/lu/accessibility/statement",
+      "depth": 2,
+      "parent_url": "https://www.nike.com/accessibility",
+      "attempt": 40,
+      "timestamp": "2026-11-12T21:13:26.680428+00:00",
+      "final_url": "https://www.nike.com/lu/accessibility/statement",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' *.nike.com *.nikecloud.com *.nikedev.com"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=2628000 ; includeSubDomains"
+        ]
+      },
+      "body_bytes": 551085,
+      "truncated": false,
+      "body_sha256": "4ecafb5d90e019ef1be41a092b124ceaa733e20d83167c308d9f97c43798927f",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": true
+    }
+  ],
+  "robots": [
+    {
+      "url": "https://nike.com/robots.txt",
+      "timestamp": "2026-11-12T21:12:23.679190+00:00",
+      "status": 200,
+      "decision": "parsed",
+      "final_url": "https://www.nike.com/robots.txt",
+      "redirect_chain": [
+        {
+          "url": "https://nike.com/robots.txt",
+          "status": 301,
+          "location": "https://www.nike.com/robots.txt"
+        }
+      ],
+      "body_sha256": "54ba534bff9e8b4cf89f30c9432c8aa4b8e2b652cb1a9170b25ac8d8ad356ee6",
+      "body": "# www.nike.com robots.txt -- just crawl it.\n\nUser-agent: *\n\nDisallow: */member/inbox\nDisallow: */member/settings\nDisallow: */p/\nDisallow: */checkout/\nDisallow: /*.swf$\nDisallow: /*.pdf$\nDisallow: /pdf/\nDisallow: /ar/help/\nDisallow: /br/help/\nDisallow: /hk/help/\nDisallow: /uy/help/\nDisallow: /xf/help/\nDisallow: /xl/help/\nDisallow: /xm/help/\nDisallow: /fragments/recommendations-carousel\nDisallow: /kr/en$\nDisallow: /kr/en/\nDisallow: */w/*-*z*z*z*z*z\n\nUser-agent: Baiduspider\nAllow: /cn$\nAllow: /cn/\nAllow: /CN$\nAllow: /CN/\nAllow: /assets/\nAllow: /static/\nAllow: /styleguide/\nDisallow: */w?q=\nDisallow: */w/?q=\nDisallow: /\n \nUser-agent: HaoSouSpider\nAllow: /cn$\nAllow: /cn/\nAllow: /CN$\nAllow: /CN/\nAllow: /assets/\nAllow: /static/\nAllow: /styleguide/\nDisallow: */w?q=\nDisallow: */w/?q=\nDisallow: /\n\nUser-agent: Sogou web spider\nAllow: /cn$\nAllow: /cn/\nAllow: /CN$\nAllow: /CN/\nAllow: /assets/\nAllow: /static/\nAllow: /styleguide/\nDisallow: */w?q=\nDisallow: */w/?q=\nDisallow: /\n\nUser-agent: Sogou inst spider\nAllow: /cn$\nAllow: /cn/\nAllow: /CN$\nAllow: /CN/\nAllow: /assets/\nAllow: /static/\nAllow: /styleguide/\nDisallow: */w?q=\nDisallow: */w/?q=\nDisallow: /\n\nUser-agent: Sogou spider2\nAllow: /cn$\nAllow: /cn/\nAllow: /CN$\nAllow: /CN/\nAllow: /assets/\nAllow: /static/\nAllow: /styleguide/\nDisallow: */w?q=\nDisallow: */w/?q=\nDisallow: /\n\nSitemap: https://www.nike.com/sitemap-us-help.xml\nSitemap: https://www.nike.com/sitemap-v2-landingpage-index.xml\nSitemap: https://www.nike.com/sitemap-v2-pdp-index.xml\nSitemap: https://www.nike.com/sitemap-v2-snkrsweb-index.xml\nSitemap: https://www.nike.com/sitemap-v2-gridwall-index.xml\nSitemap: https://www.nike.com/sitemap-v2-article-index.xml\nSitemap: https://www.nike.com/sitemap-locator-index.xml\n\n#                                                                                                    \n#                 ``                                                                        ```.`    \n#               `+/                                                                 ``.-/+o+:-.      \n#             `/mo                                                          ``.-:+syhdhs/-`          \n#            -hMd                                                    `..:+oyhmNNmds/-`               \n#          `oNMM/                                            ``.-/oyhdmMMMMNdy+:.                    \n#         .hMMMM-                                     `.-/+shdmNMMMMMMNdy+:.                         \n#        :mMMMMM+                             `.-:+sydmNMMMMMMMMMNmho:.`                             \n#       :NMMMMMMN:                    `.-:/oyhmmNMMMMMMMMMMMNmho:.`                                  \n#      .NMMMMMMMMNy:`          `.-/oshdmNMMMMMMMMMMMMMMMmhs/-`                                       \n#      hMMMMMMMMMMMMmhysooosyhdmNMMMMMMMMMMMMMMMMMMmds/-`                                            \n#     .MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNdy+-.`                                                \n#     -MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNdy+-.`                                                     \n#     `NMMMMMMMMMMMMMMMMMMMMMMMMMMMMMmyo:.`                                                          \n#      /NMMMMMMMMMMMMMMMMMMMMMMMmho:.`                                                               \n#       .yNMMMMMMMMMMMMMMMMmhs/.`                                                                    \n#         ./shdmNNmmdhyo/-``                                                                         \n#              `````                 \n"
+    },
+    {
+      "url": "https://www.nike.com/robots.txt",
+      "timestamp": "2026-11-12T21:12:24.605192+00:00",
+      "status": 200,
+      "decision": "parsed",
+      "final_url": "https://www.nike.com/robots.txt",
+      "redirect_chain": [],
+      "body_sha256": "54ba534bff9e8b4cf89f30c9432c8aa4b8e2b652cb1a9170b25ac8d8ad356ee6",
+      "body": "# www.nike.com robots.txt -- just crawl it.\n\nUser-agent: *\n\nDisallow: */member/inbox\nDisallow: */member/settings\nDisallow: */p/\nDisallow: */checkout/\nDisallow: /*.swf$\nDisallow: /*.pdf$\nDisallow: /pdf/\nDisallow: /ar/help/\nDisallow: /br/help/\nDisallow: /hk/help/\nDisallow: /uy/help/\nDisallow: /xf/help/\nDisallow: /xl/help/\nDisallow: /xm/help/\nDisallow: /fragments/recommendations-carousel\nDisallow: /kr/en$\nDisallow: /kr/en/\nDisallow: */w/*-*z*z*z*z*z\n\nUser-agent: Baiduspider\nAllow: /cn$\nAllow: /cn/\nAllow: /CN$\nAllow: /CN/\nAllow: /assets/\nAllow: /static/\nAllow: /styleguide/\nDisallow: */w?q=\nDisallow: */w/?q=\nDisallow: /\n \nUser-agent: HaoSouSpider\nAllow: /cn$\nAllow: /cn/\nAllow: /CN$\nAllow: /CN/\nAllow: /assets/\nAllow: /static/\nAllow: /styleguide/\nDisallow: */w?q=\nDisallow: */w/?q=\nDisallow: /\n\nUser-agent: Sogou web spider\nAllow: /cn$\nAllow: /cn/\nAllow: /CN$\nAllow: /CN/\nAllow: /assets/\nAllow: /static/\nAllow: /styleguide/\nDisallow: */w?q=\nDisallow: */w/?q=\nDisallow: /\n\nUser-agent: Sogou inst spider\nAllow: /cn$\nAllow: /cn/\nAllow: /CN$\nAllow: /CN/\nAllow: /assets/\nAllow: /static/\nAllow: /styleguide/\nDisallow: */w?q=\nDisallow: */w/?q=\nDisallow: /\n\nUser-agent: Sogou spider2\nAllow: /cn$\nAllow: /cn/\nAllow: /CN$\nAllow: /CN/\nAllow: /assets/\nAllow: /static/\nAllow: /styleguide/\nDisallow: */w?q=\nDisallow: */w/?q=\nDisallow: /\n\nSitemap: https://www.nike.com/sitemap-us-help.xml\nSitemap: https://www.nike.com/sitemap-v2-landingpage-index.xml\nSitemap: https://www.nike.com/sitemap-v2-pdp-index.xml\nSitemap: https://www.nike.com/sitemap-v2-snkrsweb-index.xml\nSitemap: https://www.nike.com/sitemap-v2-gridwall-index.xml\nSitemap: https://www.nike.com/sitemap-v2-article-index.xml\nSitemap: https://www.nike.com/sitemap-locator-index.xml\n\n#                                                                                                    \n#                 ``                                                                        ```.`    \n#               `+/                                                                 ``.-/+o+:-.      \n#             `/mo                                                          ``.-:+syhdhs/-`          \n#            -hMd                                                    `..:+oyhmNNmds/-`               \n#          `oNMM/                                            ``.-/oyhdmMMMMNdy+:.                    \n#         .hMMMM-                                     `.-/+shdmNMMMMMMNdy+:.                         \n#        :mMMMMM+                             `.-:+sydmNMMMMMMMMMNmho:.`                             \n#       :NMMMMMMN:                    `.-:/oyhmmNMMMMMMMMMMMNmho:.`                                  \n#      .NMMMMMMMMNy:`          `.-/oshdmNMMMMMMMMMMMMMMMmhs/-`                                       \n#      hMMMMMMMMMMMMmhysooosyhdmNMMMMMMMMMMMMMMMMMMmds/-`                                            \n#     .MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNdy+-.`                                                \n#     -MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNdy+-.`                                                     \n#     `NMMMMMMMMMMMMMMMMMMMMMMMMMMMMMmyo:.`                                                          \n#      /NMMMMMMMMMMMMMMMMMMMMMMMmho:.`                                                               \n#       .yNMMMMMMMMMMMMMMMMmhs/.`                                                                    \n#         ./shdmNNmmdhyo/-``                                                                         \n#              `````                 \n"
+    }
+  ],
+  "eligible_pages": 40,
+  "canonical_origin": [
+    "https",
+    "www.nike.com",
+    443
+  ],
+  "stop_reason": "page_budget",
+  "elapsed_seconds": 65.43
+}

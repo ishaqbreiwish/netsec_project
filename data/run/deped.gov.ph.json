@@ -1,0 +1,44 @@
+{
+  "site": {
+    "rank": "7892",
+    "domain": "deped.gov.ph",
+    "stratum": "1001-10000"
+  },
+  "rows": [
+    {
+      "rank": "7892",
+      "domain": "deped.gov.ph",
+      "stratum": "1001-10000",
+      "requested_url": "https://deped.gov.ph/",
+      "depth": 0,
+      "parent_url": "",
+      "attempt": 1,
+      "timestamp": "2026-11-12T21:14:22.124356+00:00",
+      "error": "robots_denied",
+      "final_url": "https://deped.gov.ph/",
+      "redirect_chain": [],
+      "html": false,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    }
+  ],
+  "robots": [
+    {
+      "url": "https://deped.gov.ph/robots.txt",
+      "timestamp": "2026-11-12T21:14:23.127867+00:00",
+      "status": 403,
+      "decision": "conservative_block_status_403",
+      "final_url": "https://deped.gov.ph/robots.txt",
+      "redirect_chain": [],
+      "body_sha256": "75d107db2fff7c1ed11a1eef45d6110d09a99d0457549de737132b2d0ab6c8c8",
+      "body": "<!DOCTYPE html>\r\n<html>\r\n<head>\r\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\r\n<style>\r\nimg {\r\n  width: 85%;\r\n}\r\n</style>\r\n</head>\r\n<body>\r\n<center>\r\n<img src=\"https://depedwesiteblobstorage.blob.core.windows.net/depedwebsitecontainer/maintenance.png\" height=\"800\">\r\n\r\n</body>\r\n</html>\r\n\r\n\r\n"
+    }
+  ],
+  "eligible_pages": 0,
+  "canonical_origin": null,
+  "stop_reason": "frontier_exhausted",
+  "elapsed_seconds": 1.0
+}

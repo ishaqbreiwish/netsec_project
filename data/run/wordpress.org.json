@@ -1,0 +1,1617 @@
+{
+  "site": {
+    "rank": "67",
+    "domain": "wordpress.org",
+    "stratum": "1-100"
+  },
+  "rows": [
+    {
+      "rank": "67",
+      "domain": "wordpress.org",
+      "stratum": "1-100",
+      "requested_url": "https://wordpress.org/",
+      "depth": 0,
+      "parent_url": "",
+      "attempt": 1,
+      "timestamp": "2026-11-12T21:11:30.075544+00:00",
+      "final_url": "https://wordpress.org/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=3600"
+        ]
+      },
+      "body_bytes": 178368,
+      "truncated": false,
+      "body_sha256": "f03441e88918b0eb89df090b5b2a450299dbcd02686e102eb996cd0b2cc4fc10",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Blog Tool, Publishing Platform, and CMS | WordPress.orgWordPress.orgWordPress.orgCode is Poetry",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "67",
+      "domain": "wordpress.org",
+      "stratum": "1-100",
+      "requested_url": "https://wordpress.org/showcase/",
+      "depth": 1,
+      "parent_url": "https://wordpress.org/",
+      "attempt": 2,
+      "timestamp": "2026-11-12T21:11:30.725352+00:00",
+      "final_url": "https://wordpress.org/showcase/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=3600"
+        ]
+      },
+      "body_bytes": 222435,
+      "truncated": false,
+      "body_sha256": "a95a2855df9a58d65eeb0cc2ab9f9a11f58a27364d029ea0061d0741a5279618",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "The best websites, built with WordPress. | WordPress.orgWordPress.orgWordPress.orgWordPress.orgCode is Poetry",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "67",
+      "domain": "wordpress.org",
+      "stratum": "1-100",
+      "requested_url": "https://wordpress.org/plugins/",
+      "depth": 1,
+      "parent_url": "https://wordpress.org/",
+      "attempt": 3,
+      "timestamp": "2026-11-12T21:11:30.919872+00:00",
+      "final_url": "https://wordpress.org/plugins/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=3600"
+        ]
+      },
+      "body_bytes": 255204,
+      "truncated": false,
+      "body_sha256": "47488dde415c529f8324754d8a0b1a8a71d20e62f254c60eab7d7d3ecf940511",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "WordPress Plugins | WordPress.orgWordPress.orgWordPress.orgWordPress.orgCode is Poetry",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "67",
+      "domain": "wordpress.org",
+      "stratum": "1-100",
+      "requested_url": "https://wordpress.org/themes/",
+      "depth": 1,
+      "parent_url": "https://wordpress.org/",
+      "attempt": 4,
+      "timestamp": "2026-11-12T21:11:31.909297+00:00",
+      "final_url": "https://wordpress.org/themes/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=3600"
+        ]
+      },
+      "body_bytes": 218929,
+      "truncated": false,
+      "body_sha256": "ff6946f4a75090884f82ddce796f127efe7ba0d74597a9a41837c90ca8beaa59",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "WordPress Theme Directory | WordPress.orgWordPress.orgWordPress.orgWordPress.orgCode is Poetry",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "67",
+      "domain": "wordpress.org",
+      "stratum": "1-100",
+      "requested_url": "https://wordpress.org/hosting/",
+      "depth": 1,
+      "parent_url": "https://wordpress.org/",
+      "attempt": 5,
+      "timestamp": "2026-11-12T21:11:32.798415+00:00",
+      "final_url": "https://wordpress.org/hosting/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=3600"
+        ]
+      },
+      "body_bytes": 125990,
+      "truncated": false,
+      "body_sha256": "4967169e81ccf7863ec52bb24d7943e13d2993e596c4c8d22a7c0b54d3964f36",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Hosting | WordPress.orgWordPress.orgWordPress.orgCode is Poetry",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "67",
+      "domain": "wordpress.org",
+      "stratum": "1-100",
+      "requested_url": "https://wordpress.org/about/requirements/",
+      "depth": 2,
+      "parent_url": "https://wordpress.org/hosting/",
+      "attempt": 6,
+      "timestamp": "2026-11-12T21:11:33.306181+00:00",
+      "final_url": "https://wordpress.org/about/requirements/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=3600"
+        ]
+      },
+      "body_bytes": 184511,
+      "truncated": false,
+      "body_sha256": "92bbdd8ee9c59fb390d3a95b6a36b24998e8ae402a07bc245fb36442986d1c7c",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Requirements | WordPress.orgWordPress.orgWordPress.orgWordPress.orgCode is Poetry",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "67",
+      "domain": "wordpress.org",
+      "stratum": "1-100",
+      "requested_url": "https://wordpress.org/news/2016/12/moving-toward-ssl/",
+      "depth": 3,
+      "parent_url": "https://wordpress.org/about/requirements/",
+      "attempt": 7,
+      "timestamp": "2026-11-12T21:11:33.884939+00:00",
+      "final_url": "https://wordpress.org/news/2016/12/moving-toward-ssl/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=3600"
+        ]
+      },
+      "body_bytes": 170308,
+      "truncated": false,
+      "body_sha256": "225fddfded5fb514d4186b54907d7cf60d5dee8ed230b285fe524bf16a3be9e3",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Moving Toward SSL | WordPress NewsWordPress.orgWordPress.orgWordPress.orgCode is Poetry",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "67",
+      "domain": "wordpress.org",
+      "stratum": "1-100",
+      "requested_url": "https://wordpress.org/five-for-the-future/pledge/automattic/",
+      "depth": 2,
+      "parent_url": "https://wordpress.org/hosting/",
+      "attempt": 8,
+      "timestamp": "2026-11-12T21:11:34.411294+00:00",
+      "final_url": "https://wordpress.org/five-for-the-future/pledge/automattic/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=3600"
+        ]
+      },
+      "body_bytes": 216945,
+      "truncated": false,
+      "body_sha256": "17c886b615f249250d7c5ba691c63994de5f0eb4a60a5adace980d78c2c96190",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Automattic | Five for the Future | WordPress.orgWordPress.orgWordPress.orgWordPress.orgCode is Poetry",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "67",
+      "domain": "wordpress.org",
+      "stratum": "1-100",
+      "requested_url": "https://wordpress.org/documentation/",
+      "depth": 1,
+      "parent_url": "https://wordpress.org/",
+      "attempt": 9,
+      "timestamp": "2026-11-12T21:11:35.014551+00:00",
+      "final_url": "https://wordpress.org/documentation/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=3600"
+        ]
+      },
+      "body_bytes": 159870,
+      "truncated": false,
+      "body_sha256": "5ab721715ada43f49507f25316f8a58b1d647ba0947e36c85bd28ce522723fdf",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Documentation | WordPress.orgWordPress.orgWordPress.orgWordPress.orgCode is Poetry",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "67",
+      "domain": "wordpress.org",
+      "stratum": "1-100",
+      "requested_url": "https://wordpress.org/education/",
+      "depth": 1,
+      "parent_url": "https://wordpress.org/",
+      "attempt": 10,
+      "timestamp": "2026-11-12T21:11:35.419361+00:00",
+      "final_url": "https://wordpress.org/education/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=3600"
+        ]
+      },
+      "body_bytes": 190060,
+      "truncated": false,
+      "body_sha256": "7b47700b5632057549fc7d0c5e07e7fcaa1f2e93dd936b22eba3872a5d8e9069",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Education | WordPress.orgWordPress.orgWordPress.orgWordPress.orgCode is Poetry",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "67",
+      "domain": "wordpress.org",
+      "stratum": "1-100",
+      "requested_url": "https://wordpress.org/support/forums/",
+      "depth": 1,
+      "parent_url": "https://wordpress.org/",
+      "attempt": 11,
+      "timestamp": "2026-11-12T21:11:36.066040+00:00",
+      "final_url": "https://wordpress.org/support/forums/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=3600"
+        ]
+      },
+      "body_bytes": 183041,
+      "truncated": false,
+      "body_sha256": "34a2829cba9ce9c717ea7655ba4563260785f7f2fce56264aa6b06fd9fa896bb",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Forums | WordPress.orgWordPress.orgWordPress.orgWordPress.orgCode is Poetry",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "67",
+      "domain": "wordpress.org",
+      "stratum": "1-100",
+      "requested_url": "https://wordpress.org/blocks/",
+      "depth": 1,
+      "parent_url": "https://wordpress.org/",
+      "attempt": 12,
+      "timestamp": "2026-11-12T21:11:36.921439+00:00",
+      "final_url": "https://wordpress.org/blocks/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=3600"
+        ]
+      },
+      "body_bytes": 183252,
+      "truncated": false,
+      "body_sha256": "c7b2333746273852f60bee709d42c7ee553e1734fc0fb07f92587faf5ef075ee",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Blocks | WordPress.orgWordPress.orgWordPress.orgCode is Poetry",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "67",
+      "domain": "wordpress.org",
+      "stratum": "1-100",
+      "requested_url": "https://wordpress.org/gutenberg",
+      "depth": 2,
+      "parent_url": "https://wordpress.org/blocks/",
+      "attempt": 13,
+      "timestamp": "2026-11-12T21:11:37.787813+00:00",
+      "final_url": "https://wordpress.org/gutenberg/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=3600"
+        ]
+      },
+      "body_bytes": 1100000,
+      "truncated": false,
+      "body_sha256": "d7212bf7a8c19d83792601812b6d469f9e61b2c749a930f92f087f2f3198b36f",
+      "redirect_chain": [
+        {
+          "url": "https://wordpress.org/gutenberg",
+          "status": 301,
+          "location": "https://wordpress.org/gutenberg/",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=3600"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "The new Gutenberg editing experience | WordPress.org",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "67",
+      "domain": "wordpress.org",
+      "stratum": "1-100",
+      "requested_url": "https://wordpress.org/7.1",
+      "depth": 2,
+      "parent_url": "https://wordpress.org/blocks/",
+      "attempt": 14,
+      "timestamp": "2026-11-12T21:11:38.984960+00:00",
+      "final_url": "https://wordpress.org/download/releases/7-1/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=3600"
+        ]
+      },
+      "body_bytes": 256070,
+      "truncated": false,
+      "body_sha256": "5538887bfce27290db55538f46d2e4f2638e6329804ded343da23898e43d1b8d",
+      "redirect_chain": [
+        {
+          "url": "https://wordpress.org/7.1",
+          "status": 301,
+          "location": "https://wordpress.org/download/releases/7-1/",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=3600"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "WordPress 7.1 | WordPress.orgWordPress.orgWordPress.orgCode is Poetry",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "67",
+      "domain": "wordpress.org",
+      "stratum": "1-100",
+      "requested_url": "https://wordpress.org/download/releases/7-1/",
+      "depth": 3,
+      "parent_url": "https://wordpress.org/download/releases/7-1/",
+      "attempt": 15,
+      "timestamp": "2026-11-12T21:11:39.646338+00:00",
+      "final_url": "https://wordpress.org/download/releases/7-1/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=3600"
+        ]
+      },
+      "body_bytes": 256070,
+      "truncated": false,
+      "body_sha256": "391118f0a47dcdf386291ae543a81ae6319fcaadb492657ca76adb98e4856463",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "WordPress 7.1 | WordPress.orgWordPress.orgWordPress.orgCode is Poetry",
+      "duplicate_final": true,
+      "eligible": false
+    },
+    {
+      "rank": "67",
+      "domain": "wordpress.org",
+      "stratum": "1-100",
+      "requested_url": "https://wordpress.org/patterns/",
+      "depth": 1,
+      "parent_url": "https://wordpress.org/",
+      "attempt": 16,
+      "timestamp": "2026-11-12T21:11:40.313241+00:00",
+      "final_url": "https://wordpress.org/patterns/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=3600"
+        ]
+      },
+      "body_bytes": 283337,
+      "truncated": false,
+      "body_sha256": "5642e98b15373d9173b548b9226ca2ed7d13f0b75ee8367c308f9f2b35887c6b",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Block Pattern Directory | WordPress.orgWordPress.orgWordPress.orgWordPress.orgCode is Poetry",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "67",
+      "domain": "wordpress.org",
+      "stratum": "1-100",
+      "requested_url": "https://wordpress.org/photos/",
+      "depth": 1,
+      "parent_url": "https://wordpress.org/",
+      "attempt": 17,
+      "timestamp": "2026-11-12T21:11:41.209439+00:00",
+      "final_url": "https://wordpress.org/photos/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=3600"
+        ]
+      },
+      "body_bytes": 214135,
+      "truncated": false,
+      "body_sha256": "52912ad9dc271289da52f297cda58d225feab90fc23461d310860ac341a8a21c",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "WordPress Photo Directory | WordPress.orgWordPress.orgWordPress.orgWordPress.orgCode is Poetry",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "67",
+      "domain": "wordpress.org",
+      "stratum": "1-100",
+      "requested_url": "https://wordpress.org/enterprise/",
+      "depth": 1,
+      "parent_url": "https://wordpress.org/",
+      "attempt": 18,
+      "timestamp": "2026-11-12T21:11:41.714437+00:00",
+      "final_url": "https://wordpress.org/enterprise/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=3600"
+        ]
+      },
+      "body_bytes": 172450,
+      "truncated": false,
+      "body_sha256": "bac923784d796f24f00762ac2bc4884824b8fe01ab6c4b82c9e6c1172022164f",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Enterprise | WordPress.orgWordPress.orgWordPress.orgCode is Poetry",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "67",
+      "domain": "wordpress.org",
+      "stratum": "1-100",
+      "requested_url": "https://wordpress.org/playground/",
+      "depth": 1,
+      "parent_url": "https://wordpress.org/",
+      "attempt": 19,
+      "timestamp": "2026-11-12T21:11:42.278356+00:00",
+      "final_url": "https://wordpress.org/playground/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=3600"
+        ]
+      },
+      "body_bytes": 179175,
+      "truncated": false,
+      "body_sha256": "e77874804f5a1b9761eaa809fdaef270dcf8b6d7c3bedcf1fe8322e0031ca5fc",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "WordPress PlaygroundWordPress.orgWordPress.orgWordPress.orgCode is Poetry",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "67",
+      "domain": "wordpress.org",
+      "stratum": "1-100",
+      "requested_url": "https://wordpress.org/news",
+      "depth": 4,
+      "parent_url": "https://wordpress.org/news/2016/12/moving-toward-ssl/",
+      "attempt": 20,
+      "timestamp": "2026-11-12T21:11:43.028134+00:00",
+      "final_url": "https://wordpress.org/news/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=3600"
+        ]
+      },
+      "body_bytes": 166601,
+      "truncated": false,
+      "body_sha256": "115ad6098b7f3a9740ba6aff0ad883b3b653c37b994b94d6dff7a48521240868",
+      "redirect_chain": [
+        {
+          "url": "https://wordpress.org/news",
+          "status": 301,
+          "location": "https://wordpress.org/news/",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=3600"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "WordPress News | The latest news about WordPress and the WordPress communityWordPress.orgWordPress.orgWordPress.orgCode is Poetry",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "67",
+      "domain": "wordpress.org",
+      "stratum": "1-100",
+      "requested_url": "https://wordpress.org/about/features/",
+      "depth": 3,
+      "parent_url": "https://wordpress.org/about/requirements/",
+      "attempt": 21,
+      "timestamp": "2026-11-12T21:11:43.849906+00:00",
+      "final_url": "https://wordpress.org/about/features/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=3600"
+        ]
+      },
+      "body_bytes": 189888,
+      "truncated": false,
+      "body_sha256": "51bb7a3093f92b607d7568b48333c73fb94125c972d3debcf987948bb66a9f19",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Features | WordPress.orgWordPress.orgWordPress.orgWordPress.orgCode is Poetry",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "67",
+      "domain": "wordpress.org",
+      "stratum": "1-100",
+      "requested_url": "https://wordpress.org/documentation/article/roles-and-capabilities/",
+      "depth": 4,
+      "parent_url": "https://wordpress.org/about/features/",
+      "attempt": 22,
+      "timestamp": "2026-11-12T21:11:44.392188+00:00",
+      "final_url": "https://wordpress.org/documentation/article/roles-and-capabilities/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=3600"
+        ]
+      },
+      "body_bytes": 240825,
+      "truncated": false,
+      "body_sha256": "3ce0f04deff83e4af5892d3ac7a25af70e02dc3969e882ff4a4c3d98a0eadf76",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Roles and Capabilities | Documentation | WordPress.orgWordPress.orgWordPress.orgWordPress.orgCode is Poetry",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "67",
+      "domain": "wordpress.org",
+      "stratum": "1-100",
+      "requested_url": "https://wordpress.org/support/article/glossary/",
+      "depth": 5,
+      "parent_url": "https://wordpress.org/documentation/article/roles-and-capabilities/",
+      "attempt": 23,
+      "timestamp": "2026-11-12T21:11:45.921346+00:00",
+      "final_url": "https://wordpress.org/documentation/article/wordpress-glossary/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=3600"
+        ]
+      },
+      "body_bytes": 329130,
+      "truncated": false,
+      "body_sha256": "dd8ea09a927f1d4ad99cfa512fa740d31e263f7eef81c15c6af88a83b741a468",
+      "redirect_chain": [
+        {
+          "url": "https://wordpress.org/support/article/glossary/",
+          "status": 301,
+          "location": "/documentation/article/glossary/",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=3600"
+            ]
+          }
+        },
+        {
+          "url": "https://wordpress.org/documentation/article/glossary/",
+          "status": 301,
+          "location": "https://wordpress.org/documentation/article/wordpress-glossary/",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=3600"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "WordPress Glossary | DocumentationWordPress.orgWordPress.orgWordPress.orgCode is Poetry",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "67",
+      "domain": "wordpress.org",
+      "stratum": "1-100",
+      "requested_url": "https://wordpress.org/plugins/members/",
+      "depth": 5,
+      "parent_url": "https://wordpress.org/documentation/article/roles-and-capabilities/",
+      "attempt": 24,
+      "timestamp": "2026-11-12T21:11:47.140416+00:00",
+      "final_url": "https://wordpress.org/plugins/members/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=3600"
+        ]
+      },
+      "body_bytes": 240862,
+      "truncated": false,
+      "body_sha256": "0aae736bef8d2bf1579b318a0c3673d29be42e23a99a95deba81e796c0645f63",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Members \u2013 Membership & User Role Editor Plugin \u2013 WordPress plugin | WordPress.orgWordPress.orgWordPress.orgWordPress.orgCode is Poetry",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "67",
+      "domain": "wordpress.org",
+      "stratum": "1-100",
+      "requested_url": "https://wordpress.org/five-for-the-future",
+      "depth": 3,
+      "parent_url": "https://wordpress.org/five-for-the-future/pledge/automattic/",
+      "attempt": 25,
+      "timestamp": "2026-11-12T21:11:48.071119+00:00",
+      "final_url": "https://wordpress.org/five-for-the-future/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=3600"
+        ]
+      },
+      "body_bytes": 175250,
+      "truncated": false,
+      "body_sha256": "524fe42801c9aea5b70c9170b919241310a488c423984a1635fd71561c9efcd9",
+      "redirect_chain": [
+        {
+          "url": "https://wordpress.org/five-for-the-future",
+          "status": 301,
+          "location": "https://wordpress.org/five-for-the-future/",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=3600"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Five for the Future | How five percent is powering the next generation of the web | WordPress.orgWordPress.orgWordPress.orgWordPress.orgCode is Poetry",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "67",
+      "domain": "wordpress.org",
+      "stratum": "1-100",
+      "requested_url": "https://wordpress.org/showcase/submit-a-wordpress-site/",
+      "depth": 2,
+      "parent_url": "https://wordpress.org/showcase/",
+      "attempt": 26,
+      "timestamp": "2026-11-12T21:11:48.621482+00:00",
+      "final_url": "https://wordpress.org/showcase/submit-a-wordpress-site/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=3600"
+        ]
+      },
+      "body_bytes": 147959,
+      "truncated": false,
+      "body_sha256": "efb07fac5f0cea8b6ce863a5bb4843ab10b6998640fbb4486c0f82ed30a0711c",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Submit a WordPress site | WordPress.orgWordPress.orgWordPress.orgWordPress.orgCode is Poetry",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "67",
+      "domain": "wordpress.org",
+      "stratum": "1-100",
+      "requested_url": "https://wordpress.org/themes",
+      "depth": 2,
+      "parent_url": "https://wordpress.org/themes/",
+      "attempt": 27,
+      "timestamp": "2026-11-12T21:11:49.470927+00:00",
+      "final_url": "https://wordpress.org/themes/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=3600"
+        ]
+      },
+      "body_bytes": 218929,
+      "truncated": false,
+      "body_sha256": "f647d2e27391dc82b84becb53eb9873c2cc237a20100b0e01d427d2c33d871ec",
+      "redirect_chain": [
+        {
+          "url": "https://wordpress.org/themes",
+          "status": 301,
+          "location": "https://wordpress.org/themes/",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=3600"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "WordPress Theme Directory | WordPress.orgWordPress.orgWordPress.orgWordPress.orgCode is Poetry",
+      "duplicate_final": true,
+      "eligible": false
+    },
+    {
+      "rank": "67",
+      "domain": "wordpress.org",
+      "stratum": "1-100",
+      "requested_url": "https://wordpress.org/education/campus-connect/",
+      "depth": 2,
+      "parent_url": "https://wordpress.org/education/",
+      "attempt": 28,
+      "timestamp": "2026-11-12T21:11:50.176744+00:00",
+      "final_url": "https://wordpress.org/education/campus-connect/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=3600"
+        ]
+      },
+      "body_bytes": 220335,
+      "truncated": false,
+      "body_sha256": "96b2d6c691501f30f6052ab9999290290ca1a5bfce0af49d4222d7bdf9738959",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "WordPress Campus Connect | WordPress.orgWordPress.orgWordPress.orgWordPress.orgCode is Poetry",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "67",
+      "domain": "wordpress.org",
+      "stratum": "1-100",
+      "requested_url": "https://wordpress.org/patterns",
+      "depth": 2,
+      "parent_url": "https://wordpress.org/patterns/",
+      "attempt": 29,
+      "timestamp": "2026-11-12T21:11:51.325296+00:00",
+      "final_url": "https://wordpress.org/patterns/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=3600"
+        ]
+      },
+      "body_bytes": 283337,
+      "truncated": false,
+      "body_sha256": "5642e98b15373d9173b548b9226ca2ed7d13f0b75ee8367c308f9f2b35887c6b",
+      "redirect_chain": [
+        {
+          "url": "https://wordpress.org/patterns",
+          "status": 301,
+          "location": "https://wordpress.org/patterns/",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=3600"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Block Pattern Directory | WordPress.orgWordPress.orgWordPress.orgWordPress.orgCode is Poetry",
+      "duplicate_final": true,
+      "eligible": false
+    },
+    {
+      "rank": "67",
+      "domain": "wordpress.org",
+      "stratum": "1-100",
+      "requested_url": "https://wordpress.org/photos",
+      "depth": 2,
+      "parent_url": "https://wordpress.org/photos/",
+      "attempt": 30,
+      "timestamp": "2026-11-12T21:11:52.399880+00:00",
+      "final_url": "https://wordpress.org/photos/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=3600"
+        ]
+      },
+      "body_bytes": 214135,
+      "truncated": false,
+      "body_sha256": "52912ad9dc271289da52f297cda58d225feab90fc23461d310860ac341a8a21c",
+      "redirect_chain": [
+        {
+          "url": "https://wordpress.org/photos",
+          "status": 301,
+          "location": "https://wordpress.org/photos/",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=3600"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "WordPress Photo Directory | WordPress.orgWordPress.orgWordPress.orgWordPress.orgCode is Poetry",
+      "duplicate_final": true,
+      "eligible": false
+    },
+    {
+      "rank": "67",
+      "domain": "wordpress.org",
+      "stratum": "1-100",
+      "requested_url": "https://wordpress.org/playground",
+      "depth": 2,
+      "parent_url": "https://wordpress.org/playground/",
+      "attempt": 31,
+      "timestamp": "2026-11-12T21:11:53.742355+00:00",
+      "final_url": "https://wordpress.org/playground/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=3600"
+        ]
+      },
+      "body_bytes": 179175,
+      "truncated": false,
+      "body_sha256": "e77874804f5a1b9761eaa809fdaef270dcf8b6d7c3bedcf1fe8322e0031ca5fc",
+      "redirect_chain": [
+        {
+          "url": "https://wordpress.org/playground",
+          "status": 301,
+          "location": "https://wordpress.org/playground/",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=3600"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "WordPress PlaygroundWordPress.orgWordPress.orgWordPress.orgCode is Poetry",
+      "duplicate_final": true,
+      "eligible": false
+    },
+    {
+      "rank": "67",
+      "domain": "wordpress.org",
+      "stratum": "1-100",
+      "requested_url": "https://wordpress.org/gutenberg/",
+      "depth": 1,
+      "parent_url": "https://wordpress.org/",
+      "attempt": 32,
+      "timestamp": "2026-11-12T21:11:54.324950+00:00",
+      "final_url": "https://wordpress.org/gutenberg/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=3600"
+        ]
+      },
+      "body_bytes": 1100000,
+      "truncated": false,
+      "body_sha256": "5f3a55fd0543112e42ddb2ed9646d5953a88994663cab7445dd8d126cf573ea2",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "The new Gutenberg editing experience | WordPress.org",
+      "duplicate_final": true,
+      "eligible": false
+    },
+    {
+      "rank": "67",
+      "domain": "wordpress.org",
+      "stratum": "1-100",
+      "requested_url": "https://wordpress.org/download/",
+      "depth": 1,
+      "parent_url": "https://wordpress.org/",
+      "attempt": 33,
+      "timestamp": "2026-11-12T21:11:54.996983+00:00",
+      "final_url": "https://wordpress.org/download/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=3600"
+        ]
+      },
+      "body_bytes": 174777,
+      "truncated": false,
+      "body_sha256": "858f85b6403b552e74e125e1a48deaba5b8cc49e019b969007a416d05a49d512",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Download | WordPress.orgWordPress.orgWordPress.orgCode is Poetry",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "67",
+      "domain": "wordpress.org",
+      "stratum": "1-100",
+      "requested_url": "https://wordpress.org/news/all-posts/",
+      "depth": 4,
+      "parent_url": "https://wordpress.org/news/2016/12/moving-toward-ssl/",
+      "attempt": 34,
+      "timestamp": "2026-11-12T21:11:55.575303+00:00",
+      "final_url": "https://wordpress.org/news/all-posts/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=3600"
+        ]
+      },
+      "body_bytes": 175358,
+      "truncated": false,
+      "body_sha256": "d737b1ac0756f1bd3256f18f73c841688a63b190e4c36e8e7c95de1dd0c59bf1",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "All Posts | WordPress NewsWordPress.orgWordPress.orgWordPress.orgCode is Poetry",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "67",
+      "domain": "wordpress.org",
+      "stratum": "1-100",
+      "requested_url": "https://wordpress.org/support/article/writing-posts/",
+      "depth": 5,
+      "parent_url": "https://wordpress.org/documentation/article/roles-and-capabilities/",
+      "attempt": 35,
+      "timestamp": "2026-11-12T21:11:57.117273+00:00",
+      "final_url": "https://wordpress.org/documentation/article/write-posts-classic-editor/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=3600"
+        ]
+      },
+      "body_bytes": 187322,
+      "truncated": false,
+      "body_sha256": "95d6e40ce80fae85c20a0c6dd58c65c1771fc5238b6cd32e71f5739676824113",
+      "redirect_chain": [
+        {
+          "url": "https://wordpress.org/support/article/writing-posts/",
+          "status": 301,
+          "location": "/documentation/article/writing-posts/",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=3600"
+            ]
+          }
+        },
+        {
+          "url": "https://wordpress.org/documentation/article/writing-posts/",
+          "status": 301,
+          "location": "https://wordpress.org/documentation/article/write-posts-classic-editor/",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=3600"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Write posts (Classic Editor) | Documentation | WordPress.orgWordPress.orgWordPress.orgWordPress.orgCode is Poetry",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "67",
+      "domain": "wordpress.org",
+      "stratum": "1-100",
+      "requested_url": "https://wordpress.org/documentation/article/media-library-screen/",
+      "depth": 4,
+      "parent_url": "https://wordpress.org/about/features/",
+      "attempt": 36,
+      "timestamp": "2026-11-12T21:11:57.967306+00:00",
+      "final_url": "https://wordpress.org/documentation/article/media-library-screen/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=3600"
+        ]
+      },
+      "body_bytes": 195408,
+      "truncated": false,
+      "body_sha256": "acaf9ae2b3b465bea9a9755ee34c4f21a4c1b0cdf629ae431b94433fc5b481ae",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Media Library screen | Documentation | WordPress.orgWordPress.orgWordPress.orgWordPress.orgCode is Poetry",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "67",
+      "domain": "wordpress.org",
+      "stratum": "1-100",
+      "requested_url": "https://wordpress.org/plugins/user-access-manager/",
+      "depth": 5,
+      "parent_url": "https://wordpress.org/documentation/article/roles-and-capabilities/",
+      "attempt": 37,
+      "timestamp": "2026-11-12T21:11:58.504734+00:00",
+      "final_url": "https://wordpress.org/plugins/user-access-manager/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=3600"
+        ]
+      },
+      "body_bytes": 212979,
+      "truncated": false,
+      "body_sha256": "4802bf6c538d0e8109534d51ef05abf61f7dcb1a7408331803af7022981c52ed",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "User Access Manager \u2013 WordPress plugin | WordPress.orgWordPress.orgWordPress.orgWordPress.orgCode is Poetry",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "67",
+      "domain": "wordpress.org",
+      "stratum": "1-100",
+      "requested_url": "https://wordpress.org/about/security/",
+      "depth": 3,
+      "parent_url": "https://wordpress.org/about/requirements/",
+      "attempt": 38,
+      "timestamp": "2026-11-12T21:11:59.033327+00:00",
+      "final_url": "https://wordpress.org/about/security/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=3600"
+        ]
+      },
+      "body_bytes": 189682,
+      "truncated": false,
+      "body_sha256": "e037283d75f70e7d947d710c6dd6c524d37ddc76a3282cb9099240bc2ff5c53e",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Security | WordPress.orgWordPress.orgWordPress.orgWordPress.orgCode is Poetry",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "67",
+      "domain": "wordpress.org",
+      "stratum": "1-100",
+      "requested_url": "https://wordpress.org/five-for-the-future/sponsorships",
+      "depth": 4,
+      "parent_url": "https://wordpress.org/five-for-the-future/",
+      "attempt": 39,
+      "timestamp": "2026-11-12T21:11:59.774397+00:00",
+      "final_url": "https://wordpress.org/five-for-the-future/sponsorships/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=3600"
+        ]
+      },
+      "body_bytes": 157967,
+      "truncated": false,
+      "body_sha256": "299b7f240441007449583c7d0783b534ec04d014ea0e9765314016861ace7acb",
+      "redirect_chain": [
+        {
+          "url": "https://wordpress.org/five-for-the-future/sponsorships",
+          "status": 301,
+          "location": "https://wordpress.org/five-for-the-future/sponsorships/",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=3600"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Sponsorships | Five for the Future | WordPress.orgWordPress.orgWordPress.orgWordPress.orgCode is Poetry",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "67",
+      "domain": "wordpress.org",
+      "stratum": "1-100",
+      "requested_url": "https://wordpress.org/showcase",
+      "depth": 3,
+      "parent_url": "https://wordpress.org/showcase/submit-a-wordpress-site/",
+      "attempt": 40,
+      "timestamp": "2026-11-12T21:12:00.766156+00:00",
+      "final_url": "https://wordpress.org/showcase/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=3600"
+        ]
+      },
+      "body_bytes": 222435,
+      "truncated": false,
+      "body_sha256": "a95a2855df9a58d65eeb0cc2ab9f9a11f58a27364d029ea0061d0741a5279618",
+      "redirect_chain": [
+        {
+          "url": "https://wordpress.org/showcase",
+          "status": 301,
+          "location": "https://wordpress.org/showcase/",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": []
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "The best websites, built with WordPress. | WordPress.orgWordPress.orgWordPress.orgWordPress.orgCode is Poetry",
+      "duplicate_final": true,
+      "eligible": false
+    },
+    {
+      "rank": "67",
+      "domain": "wordpress.org",
+      "stratum": "1-100",
+      "requested_url": "https://wordpress.org/themes/getting-started/",
+      "depth": 2,
+      "parent_url": "https://wordpress.org/themes/",
+      "attempt": 41,
+      "timestamp": "2026-11-12T21:12:01.626236+00:00",
+      "final_url": "https://wordpress.org/themes/getting-started/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=3600"
+        ]
+      },
+      "body_bytes": 163832,
+      "truncated": false,
+      "body_sha256": "a209296948a4310dbbdf7201290c494a3edddb8e6ae738be992b24e8cccd0b96",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Getting Started | WordPress.orgWordPress.orgWordPress.orgWordPress.orgCode is Poetry",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "67",
+      "domain": "wordpress.org",
+      "stratum": "1-100",
+      "requested_url": "https://wordpress.org/education/credits/",
+      "depth": 2,
+      "parent_url": "https://wordpress.org/education/",
+      "attempt": 42,
+      "timestamp": "2026-11-12T21:12:02.153752+00:00",
+      "final_url": "https://wordpress.org/education/credits/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=3600"
+        ]
+      },
+      "body_bytes": 276129,
+      "truncated": false,
+      "body_sha256": "bedc35fb6192e84213647fded0f5c2fcd79fa9f5e6b2ab87b8ad76b49b983a40",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "WordPress Credits | WordPress.orgWordPress.orgWordPress.orgWordPress.orgCode is Poetry",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "67",
+      "domain": "wordpress.org",
+      "stratum": "1-100",
+      "requested_url": "https://wordpress.org/patterns/new-pattern/",
+      "depth": 2,
+      "parent_url": "https://wordpress.org/patterns/",
+      "attempt": 43,
+      "timestamp": "2026-11-12T21:12:02.877569+00:00",
+      "final_url": "https://wordpress.org/patterns/new-pattern/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=3600"
+        ]
+      },
+      "body_bytes": 142852,
+      "truncated": false,
+      "body_sha256": "d107d1be31f0a2477847b179e8f51ad328f2aa917214ed7e90222c4e660318e1",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "New Pattern | WordPress.orgWordPress.orgWordPress.orgWordPress.orgCode is Poetry",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "67",
+      "domain": "wordpress.org",
+      "stratum": "1-100",
+      "requested_url": "https://wordpress.org/photos/submit/",
+      "depth": 2,
+      "parent_url": "https://wordpress.org/photos/",
+      "attempt": 44,
+      "timestamp": "2026-11-12T21:12:03.399354+00:00",
+      "final_url": "https://wordpress.org/photos/submit/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=3600"
+        ]
+      },
+      "body_bytes": 146505,
+      "truncated": false,
+      "body_sha256": "299f321e74669dce7c9b8628e223db7351b16890eb772289960f0548b3cda486",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Submit Your Photo | WordPress.orgWordPress.orgWordPress.orgWordPress.orgCode is Poetry",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "67",
+      "domain": "wordpress.org",
+      "stratum": "1-100",
+      "requested_url": "https://wordpress.org/download/releases/7.1/",
+      "depth": 1,
+      "parent_url": "https://wordpress.org/",
+      "attempt": 45,
+      "timestamp": "2026-11-12T21:12:04.173098+00:00",
+      "final_url": "https://wordpress.org/download/releases/7.1/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=3600"
+        ]
+      },
+      "body_bytes": 256070,
+      "truncated": false,
+      "body_sha256": "52fcda2fea00789676e81dd85185d23e6bba380ab5f5b32ce0992a45fb36eabb",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "WordPress 7.1 | WordPress.orgWordPress.orgWordPress.orgCode is Poetry",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "67",
+      "domain": "wordpress.org",
+      "stratum": "1-100",
+      "requested_url": "https://wordpress.org/playground/development-environments/",
+      "depth": 2,
+      "parent_url": "https://wordpress.org/playground/",
+      "attempt": 46,
+      "timestamp": "2026-11-12T21:12:04.890187+00:00",
+      "final_url": "https://wordpress.org/playground/development-environments/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=3600"
+        ]
+      },
+      "body_bytes": 156642,
+      "truncated": false,
+      "body_sha256": "31fc689579c443964d083983ab865781d941489a17e0e73b71ad2fd106638da6",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Development Environments | WordPress PlaygroundWordPress.orgWordPress.orgWordPress.orgCode is Poetry",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "67",
+      "domain": "wordpress.org",
+      "stratum": "1-100",
+      "requested_url": "https://wordpress.org/news/2026/11/wordpress-7-2-beta-4/",
+      "depth": 5,
+      "parent_url": "https://wordpress.org/news/",
+      "attempt": 47,
+      "timestamp": "2026-11-12T21:12:05.330542+00:00",
+      "final_url": "https://wordpress.org/news/2026/11/wordpress-7-2-beta-4/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=3600"
+        ]
+      },
+      "body_bytes": 168992,
+      "truncated": false,
+      "body_sha256": "2f69e45772d41eceeb72e3839b3298d5671352b2e80ed8f265db81fedba5c79f",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "WordPress 7.2 Beta 4 | WordPress NewsWordPress.orgWordPress.orgWordPress.orgCode is Poetry",
+      "duplicate_final": false,
+      "eligible": true
+    }
+  ],
+  "robots": [
+    {
+      "url": "https://wordpress.org/robots.txt",
+      "timestamp": "2026-11-12T21:11:30.075483+00:00",
+      "status": 200,
+      "decision": "parsed",
+      "final_url": "https://wordpress.org/robots.txt",
+      "redirect_chain": [],
+      "body_sha256": "65185a701db3ab195bcb2f86657300e13153f758af110ac0ffeeea5dc19ab5dc",
+      "body": "Sitemap: https://wordpress.org/sitemap.xml\nSitemap: https://wordpress.org/news-sitemap.xml\nSitemap: https://wordpress.org/themes/sitemap.xml\nSitemap: https://wordpress.org/plugins/sitemap.xml\nSitemap: https://wordpress.org/news/sitemap.xml\nSitemap: https://wordpress.org/showcase/sitemap.xml\nSitemap: https://wordpress.org/documentation/sitemap.xml\nSitemap: https://wordpress.org/patterns/sitemap.xml\nSitemap: https://wordpress.org/photos/sitemap.xml\nUser-agent: *\nDisallow: /wp-admin/\nAllow: /wp-admin/admin-ajax.php\nAllow: /wp-admin/load-scripts.php\nAllow: /wp-admin/load-styles.php\n\nUser-agent: *\nDisallow: /search\nDisallow: /?s=\n\nUser-agent: GPTBot\nAllow: /\n\nUser-agent: ClaudeBot\nAllow: /\n\nUser-agent: anthropic-ai\nAllow: /\n\nUser-agent: Google-Extended\nAllow: /\n\nUser-agent: Applebot-Extended\nAllow: /\n\nUser-agent: PerplexityBot\nAllow: /\n\nUser-agent: Bytespider\nAllow: /\n\nUser-agent: CCBot\nAllow: /\n\nUser-agent: Copilot\nAllow: /\n\nUser-agent: *\nDisallow: /plugins/search/\n"
+    }
+  ],
+  "eligible_pages": 40,
+  "canonical_origin": [
+    "https",
+    "wordpress.org",
+    443
+  ],
+  "stop_reason": "page_budget",
+  "elapsed_seconds": 36.25
+}

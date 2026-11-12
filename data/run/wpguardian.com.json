@@ -1,0 +1,57 @@
+{
+  "site": {
+    "rank": "779",
+    "domain": "wpguardian.com",
+    "stratum": "101-1000"
+  },
+  "rows": [
+    {
+      "rank": "779",
+      "domain": "wpguardian.com",
+      "stratum": "101-1000",
+      "requested_url": "https://wpguardian.com/",
+      "depth": 0,
+      "parent_url": "",
+      "attempt": 1,
+      "timestamp": "2026-11-12T21:12:50.818030+00:00",
+      "final_url": "https://wpguardian.com/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 240625,
+      "truncated": false,
+      "body_sha256": "1e3c2241fb4d7c05ff8ee25c5a6b811d298da7f3fdff9c00cff317b15c388179",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Effective Security for WordPress Sites- WPGuardian",
+      "duplicate_final": false,
+      "eligible": true
+    }
+  ],
+  "robots": [
+    {
+      "url": "https://wpguardian.com/robots.txt",
+      "timestamp": "2026-11-12T21:12:50.817930+00:00",
+      "status": 200,
+      "decision": "parsed",
+      "final_url": "https://wpguardian.com/robots.txt",
+      "redirect_chain": [],
+      "body_sha256": "5a17bba063e4546358bd8c400658ff72cc543c1d0a1c48d154e7d3a1b1d7f3cf",
+      "body": "# START YOAST BLOCK\n# ---------------------------\nUser-agent: *\nDisallow:\n\nSitemap: https://wpguardian.com/sitemap_index.xml\n# ---------------------------\n# END YOAST BLOCK"
+    }
+  ],
+  "eligible_pages": 1,
+  "canonical_origin": [
+    "https",
+    "wpguardian.com",
+    443
+  ],
+  "stop_reason": "frontier_exhausted",
+  "elapsed_seconds": 1.02
+}

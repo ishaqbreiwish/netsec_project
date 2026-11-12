@@ -1,0 +1,87 @@
+{
+  "site": {
+    "rank": "388",
+    "domain": "globo.com",
+    "stratum": "101-1000"
+  },
+  "rows": [
+    {
+      "rank": "388",
+      "domain": "globo.com",
+      "stratum": "101-1000",
+      "requested_url": "https://globo.com/",
+      "depth": 0,
+      "parent_url": "",
+      "attempt": 1,
+      "timestamp": "2026-11-12T21:12:08.910337+00:00",
+      "final_url": "https://www.globo.com/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests;",
+          "frame-ancestors 'self' https://*.globo.com https://*.globoi.com https://*.i.globo https://*.techtudo.com.br always;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 2000001,
+      "truncated": true,
+      "body_sha256": "d8cf00df5cfea165918cb69587907de5ee2e190dd7d9cc22c9b35b9917081122",
+      "redirect_chain": [
+        {
+          "url": "https://globo.com/",
+          "status": 301,
+          "location": "https://www.globo.com/",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": []
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    }
+  ],
+  "robots": [
+    {
+      "url": "https://globo.com/robots.txt",
+      "timestamp": "2026-11-12T21:12:07.434441+00:00",
+      "status": 200,
+      "decision": "parsed",
+      "final_url": "https://www.globo.com/robots.txt",
+      "redirect_chain": [
+        {
+          "url": "https://globo.com/robots.txt",
+          "status": 301,
+          "location": "https://www.globo.com/robots.txt"
+        }
+      ],
+      "body_sha256": "afe0cd909d91b1403bb861811b8678438150e02caa8fdd2e884362f4f59b5c03",
+      "body": "\u001f\ufffd\b\u0000\u0000\u0000\u0000\u0000\u0000\u0003}\ufffd\ufffd\n\ufffd0\u0010D\ufffd\ufffd\u0015\u0001oB\ufffd\ufffd[kK\ufffd\ufffd\ufffd\u001f\u0010\ufffdE\u0003\u0455d\ufffd~~S\ufffd\ufffd t\ufffdovw\ufffd)\ufffd\u0010\ufffdZ\ufffdX\ufffd\ufffdP\u0000\ufffd\"\u0006y\ufffdp\ufffdZ\ufffdpqQ{Os-T\ufffd\ufffdF\ufffd\ufffd \ufffdw\ufffd)8C\ufffd\ufffd\u0001\ufffdR\ufffd\ufffd\ufffd\"\ufffd\u001de\fFe\ufffd\ufffdg\ufffd\ufffd\ufffd\ufffd\ufffd@\u0301\u060c\u00044\ufffdu\ufffd\ufffdR\ufffdq\ufffd<\ufffd\u0014\ufffd\ufffd\u0018\u0007=\u0562g\ufffdj\ufffd\ufffdy\ufffd\ufffd\\U:TqS\ufffd\u001bt\ufffd\ufffd2x\u0000(\ufffd\u0011\ufffdV\ufffd\ufffdJ\u04dc\ufffd\ufffd\u0006\ufffd|\ufffd?\ufffd\ufffdD\ufffdGy]8eE\ufffd/n\ufffd\u0000\u001fuh\ufffdX\ufffd\u0001\u0000\u0000"
+    },
+    {
+      "url": "https://www.globo.com/robots.txt",
+      "timestamp": "2026-11-12T21:12:08.910270+00:00",
+      "status": 200,
+      "decision": "parsed",
+      "final_url": "https://www.globo.com/robots.txt",
+      "redirect_chain": [],
+      "body_sha256": "afe0cd909d91b1403bb861811b8678438150e02caa8fdd2e884362f4f59b5c03",
+      "body": "\u001f\ufffd\b\u0000\u0000\u0000\u0000\u0000\u0000\u0003}\ufffd\ufffd\n\ufffd0\u0010D\ufffd\ufffd\u0015\u0001oB\ufffd\ufffd[kK\ufffd\ufffd\ufffd\u001f\u0010\ufffdE\u0003\u0455d\ufffd~~S\ufffd\ufffd t\ufffdovw\ufffd)\ufffd\u0010\ufffdZ\ufffdX\ufffd\ufffdP\u0000\ufffd\"\u0006y\ufffdp\ufffdZ\ufffdpqQ{Os-T\ufffd\ufffdF\ufffd\ufffd \ufffdw\ufffd)8C\ufffd\ufffd\u0001\ufffdR\ufffd\ufffd\ufffd\"\ufffd\u001de\fFe\ufffd\ufffdg\ufffd\ufffd\ufffd\ufffd\ufffd@\u0301\u060c\u00044\ufffdu\ufffd\ufffdR\ufffdq\ufffd<\ufffd\u0014\ufffd\ufffd\u0018\u0007=\u0562g\ufffdj\ufffd\ufffdy\ufffd\ufffd\\U:TqS\ufffd\u001bt\ufffd\ufffd2x\u0000(\ufffd\u0011\ufffdV\ufffd\ufffdJ\u04dc\ufffd\ufffd\u0006\ufffd|\ufffd?\ufffd\ufffdD\ufffdGy]8eE\ufffd/n\ufffd\u0000\u001fuh\ufffdX\ufffd\u0001\u0000\u0000"
+    }
+  ],
+  "eligible_pages": 0,
+  "canonical_origin": [
+    "https",
+    "www.globo.com",
+    443
+  ],
+  "stop_reason": "frontier_exhausted",
+  "elapsed_seconds": 5.03
+}

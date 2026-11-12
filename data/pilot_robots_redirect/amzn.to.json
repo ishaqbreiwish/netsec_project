@@ -1,0 +1,67 @@
+{
+  "site": {
+    "rank": "524",
+    "domain": "amzn.to",
+    "stratum": "101-1000"
+  },
+  "rows": [
+    {
+      "rank": "524",
+      "domain": "amzn.to",
+      "stratum": "101-1000",
+      "requested_url": "https://amzn.to/",
+      "depth": 0,
+      "parent_url": "",
+      "attempt": 1,
+      "timestamp": "2026-11-12T21:07:25.293617+00:00",
+      "final_url": "https://amzn.to/",
+      "status": 301,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=1209600"
+        ]
+      },
+      "body_bytes": 0,
+      "truncated": false,
+      "body_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "redirect_chain": [
+        {
+          "url": "https://amzn.to/",
+          "status": 301,
+          "location": "http://www.amazon.com/",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=1209600"
+            ]
+          }
+        }
+      ],
+      "error": "redirect_out_of_scope",
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    }
+  ],
+  "robots": [
+    {
+      "url": "https://amzn.to/robots.txt",
+      "timestamp": "2026-11-12T21:07:25.293595+00:00",
+      "status": 200,
+      "decision": "parsed",
+      "body_sha256": "aeddaf37d71afe500676c334c63a84340d99c91651b9d41bc0c4b2f9437d6cd8",
+      "body": "# Welcome to Bitly =)\n# robots welcome;\n# API documentation can be found at https://dev.bitly.com/\nUser-Agent: *\nDisallow:\n"
+    }
+  ],
+  "eligible_pages": 0,
+  "canonical_origin": null,
+  "stop_reason": "frontier_exhausted",
+  "elapsed_seconds": 0.62
+}

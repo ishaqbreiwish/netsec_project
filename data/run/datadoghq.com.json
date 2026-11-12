@@ -1,0 +1,1747 @@
+{
+  "site": {
+    "rank": "277",
+    "domain": "datadoghq.com",
+    "stratum": "101-1000"
+  },
+  "rows": [
+    {
+      "rank": "277",
+      "domain": "datadoghq.com",
+      "stratum": "101-1000",
+      "requested_url": "https://datadoghq.com/",
+      "depth": 0,
+      "parent_url": "",
+      "attempt": 1,
+      "timestamp": "2026-11-12T21:12:04.181791+00:00",
+      "final_url": "https://www.datadoghq.com/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://onlinexperiences.com https://next.brella.io https://pheedloop.com https://gather.town https://datadog.docebosaas.com/"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 283330,
+      "truncated": false,
+      "body_sha256": "00752827665ee339e0c724286f8c8e1e57dac65fd5c20148351afa353b43d4d9",
+      "redirect_chain": [
+        {
+          "url": "https://datadoghq.com/",
+          "status": 301,
+          "location": "https://www.datadoghq.com/",
+          "headers": {
+            "content-security-policy": [
+              "frame-ancestors 'self' https://onlinexperiences.com https://next.brella.io https://pheedloop.com https://gather.town"
+            ],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=63072000; includeSubDomains; preload"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Cloud Monitoring as a Service | DatadogWhite modal up arrowIcon/world",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "277",
+      "domain": "datadoghq.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.datadoghq.com/product/",
+      "depth": 1,
+      "parent_url": "https://www.datadoghq.com/",
+      "attempt": 2,
+      "timestamp": "2026-11-12T21:12:04.830301+00:00",
+      "final_url": "https://www.datadoghq.com/product/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://onlinexperiences.com https://next.brella.io https://pheedloop.com https://gather.town https://datadog.docebosaas.com/"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 191875,
+      "truncated": false,
+      "body_sha256": "8dbdaad329b31ffc9612303f82d6f0870c9630b186b13e6b6a2ef56c9f2945ee",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Infrastructure & Application Monitoring as a Service | DatadogWhite modal up arrowIcon/world",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "277",
+      "domain": "datadoghq.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.datadoghq.com/blog/composite-monitors/",
+      "depth": 2,
+      "parent_url": "https://www.datadoghq.com/product/",
+      "attempt": 3,
+      "timestamp": "2026-11-12T21:12:05.417064+00:00",
+      "final_url": "https://www.datadoghq.com/blog/composite-monitors/",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://plugins-cdn.datocms.com https://corpsite.admin.datocms.com https://dd-dato-web-assets.s3.amazonaws.com https://dd-dato-web-assets.s3.us-east-1.amazonaws.com https://www.googletagmanager.com"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains"
+        ]
+      },
+      "body_bytes": 314626,
+      "truncated": false,
+      "body_sha256": "8b8d37ab1cc97f6c514b1a27525f0685fe8e51dc2e045d1d7ddb267873ae0030",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Actionable alerting with composite monitors | Datadogsecurity-platformrumcidashboardhost-mapapmsecurity-platformrumcidashboardhost-mapapmsecurity-platformrumcidashboardsecurity-platformrumcidashboardrumsecurity-platformcidashboardIcon/worldinstagram",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "277",
+      "domain": "datadoghq.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.datadoghq.com/pricing/",
+      "depth": 1,
+      "parent_url": "https://www.datadoghq.com/",
+      "attempt": 4,
+      "timestamp": "2026-11-12T21:12:05.837622+00:00",
+      "final_url": "https://www.datadoghq.com/pricing/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://onlinexperiences.com https://next.brella.io https://pheedloop.com https://gather.town https://datadog.docebosaas.com/"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 1732467,
+      "truncated": false,
+      "body_sha256": "0c343ef9267049881229e2760fde016149006347ca15e5fb31efb8d29f89b73a",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Pricing | DatadogWhite modal up arrowIcon/check Icon/check Icon/check Icon/check Icon/check Icon/check Icon/check Icon/check Icon/check Icon/check Icon/check Icon/check Icon/check Icon/check Icon/check Icon/check Icon/check Icon/check Icon/check Icon/check Icon/check Icon/check Icon/check Icon/check",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "277",
+      "domain": "datadoghq.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.datadoghq.com/support-services/plans/",
+      "depth": 2,
+      "parent_url": "https://www.datadoghq.com/pricing/",
+      "attempt": 5,
+      "timestamp": "2026-11-12T21:12:06.628905+00:00",
+      "final_url": "https://www.datadoghq.com/support-services/plans/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://onlinexperiences.com https://next.brella.io https://pheedloop.com https://gather.town https://datadog.docebosaas.com/"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 176089,
+      "truncated": false,
+      "body_sha256": "d3cdc6d1b3a7cd6089eb8289386187b57ebb2634edd271fd07c046c8628cdc15",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Support Plans | DatadogWhite modal up arrowIcon/world",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "277",
+      "domain": "datadoghq.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.datadoghq.com/legal/support",
+      "depth": 3,
+      "parent_url": "https://www.datadoghq.com/support-services/plans/",
+      "attempt": 6,
+      "timestamp": "2026-11-12T21:12:07.343910+00:00",
+      "final_url": "https://www.datadoghq.com/legal/support/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://onlinexperiences.com https://next.brella.io https://pheedloop.com https://gather.town https://datadog.docebosaas.com/"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 146479,
+      "truncated": false,
+      "body_sha256": "c0a1ba0eaa7d71616b53c5a65217ca2686e7d3d9b8abbdb687f0ebc8073a5029",
+      "redirect_chain": [
+        {
+          "url": "https://www.datadoghq.com/legal/support",
+          "status": 302,
+          "location": "/legal/support/",
+          "headers": {
+            "content-security-policy": [
+              "frame-ancestors 'self' https://onlinexperiences.com https://next.brella.io https://pheedloop.com https://gather.town https://datadog.docebosaas.com/"
+            ],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=63072000; includeSubDomains; preload"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Support Terms | DatadogWhite modal up arrowIcon/world",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "277",
+      "domain": "datadoghq.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.datadoghq.com/products/ai/agent-observability/",
+      "depth": 1,
+      "parent_url": "https://www.datadoghq.com/",
+      "attempt": 7,
+      "timestamp": "2026-11-12T21:12:08.027714+00:00",
+      "final_url": "https://www.datadoghq.com/products/ai/agent-observability/",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://plugins-cdn.datocms.com https://corpsite.admin.datocms.com https://dd-dato-web-assets.s3.amazonaws.com https://dd-dato-web-assets.s3.us-east-1.amazonaws.com https://www.googletagmanager.com"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains"
+        ]
+      },
+      "body_bytes": 533065,
+      "truncated": false,
+      "body_sha256": "a387730556940d112c2a52522256dfdc1ac7e2d5a124ec0a26f7e3aa59b5142d",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Agent Observability | LLM Observability | Datadogsecurity-platformrumcidashboardhost-mapapmsecurity-platformrumcidashboardhost-mapapmsecurity-platformrumcidashboardsecurity-platformrumcidashboardrumsecurity-platformcidashboardIcon/worldinstagram",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "277",
+      "domain": "datadoghq.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.datadoghq.com/security/",
+      "depth": 2,
+      "parent_url": "https://www.datadoghq.com/pricing/",
+      "attempt": 8,
+      "timestamp": "2026-11-12T21:12:09.395306+00:00",
+      "final_url": "https://www.datadoghq.com/trust/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://onlinexperiences.com https://next.brella.io https://pheedloop.com https://gather.town https://datadog.docebosaas.com/"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 95078,
+      "truncated": false,
+      "body_sha256": "1aff8e15259da87ddd78f47ba673766a616344bc1b08e3bec659b18d86866988",
+      "redirect_chain": [
+        {
+          "url": "https://www.datadoghq.com/security/",
+          "status": 301,
+          "location": "/trust/",
+          "headers": {
+            "content-security-policy": [
+              "frame-ancestors 'self' https://onlinexperiences.com https://next.brella.io https://pheedloop.com https://gather.town https://datadog.docebosaas.com/"
+            ],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=63072000; includeSubDomains; preload"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Trust Hub | DatadogIcon/worldIcon/world",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "277",
+      "domain": "datadoghq.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.datadoghq.com/solutions/opentelemetry/",
+      "depth": 1,
+      "parent_url": "https://www.datadoghq.com/",
+      "attempt": 9,
+      "timestamp": "2026-11-12T21:12:09.949527+00:00",
+      "final_url": "https://www.datadoghq.com/solutions/opentelemetry/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://onlinexperiences.com https://next.brella.io https://pheedloop.com https://gather.town https://datadog.docebosaas.com/"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 263979,
+      "truncated": false,
+      "body_sha256": "65ad6ab1a36b78524331f9b9f7128c942dd7ec13bb0d8dbdde7c9fecef32133f",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "OpenTelemetry | DatadogWhite modal up arrowIcon/world",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "277",
+      "domain": "datadoghq.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.datadoghq.com/partner/",
+      "depth": 2,
+      "parent_url": "https://www.datadoghq.com/pricing/",
+      "attempt": 10,
+      "timestamp": "2026-11-12T21:12:10.669644+00:00",
+      "final_url": "https://www.datadoghq.com/partner/",
+      "status": 301,
+      "content_type": "",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://onlinexperiences.com https://next.brella.io https://pheedloop.com https://gather.town https://datadog.docebosaas.com/"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 0,
+      "truncated": false,
+      "body_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "redirect_chain": [
+        {
+          "url": "https://www.datadoghq.com/partner/",
+          "status": 301,
+          "location": "https://partners.datadoghq.com/",
+          "headers": {
+            "content-security-policy": [
+              "frame-ancestors 'self' https://onlinexperiences.com https://next.brella.io https://pheedloop.com https://gather.town https://datadog.docebosaas.com/"
+            ],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=63072000; includeSubDomains; preload"
+            ]
+          }
+        }
+      ],
+      "error": "redirect_out_of_scope",
+      "html": false,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "277",
+      "domain": "datadoghq.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.datadoghq.com/marketplacepartners/",
+      "depth": 1,
+      "parent_url": "https://www.datadoghq.com/",
+      "attempt": 11,
+      "timestamp": "2026-11-12T21:12:10.748555+00:00",
+      "final_url": "https://www.datadoghq.com/marketplacepartners/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://onlinexperiences.com https://next.brella.io https://pheedloop.com https://gather.town https://datadog.docebosaas.com/"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 143267,
+      "truncated": false,
+      "body_sha256": "f8e7e75c8191ad998ae25624ab8e0581a9a6e6ef3ccee470174cb0a9b5fdd0d8",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Datadog Marketplace for Technology Partners | DatadogIcon/logs-2 Icon/logs-2 Icon/logs-2 Icon/world",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "277",
+      "domain": "datadoghq.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.datadoghq.com/case-studies/twine/",
+      "depth": 2,
+      "parent_url": "https://www.datadoghq.com/products/ai/agent-observability/",
+      "attempt": 12,
+      "timestamp": "2026-11-12T21:12:11.558210+00:00",
+      "final_url": "https://www.datadoghq.com/case-studies/twine/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://onlinexperiences.com https://next.brella.io https://pheedloop.com https://gather.town https://datadog.docebosaas.com/"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 184493,
+      "truncated": false,
+      "body_sha256": "38adc287e294ba537aca805bf38679f9a661951b72e9527eeaeaff15868fcc56",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Twine Security strengthens reliability and trust through Datadog to improve user experience | DatadogWhite modal up arrowIcon/world",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "277",
+      "domain": "datadoghq.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.datadoghq.com/free-datadog-trial/",
+      "depth": 3,
+      "parent_url": "https://www.datadoghq.com/case-studies/twine/",
+      "attempt": 13,
+      "timestamp": "2026-11-12T21:12:12.107842+00:00",
+      "final_url": "https://www.datadoghq.com/free-datadog-trial/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://onlinexperiences.com https://next.brella.io https://pheedloop.com https://gather.town https://datadog.docebosaas.com/"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 207503,
+      "truncated": false,
+      "body_sha256": "58802aaa278473426fa6d72427ee5dda36b11d5171ced42ed2f75fb07cfc92a9",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Free Datadog Trial | DatadogIcon/logs-2 Icon/logs-2 Icon/logs-2 ",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "277",
+      "domain": "datadoghq.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.datadoghq.com/ebook/monitoring-modern-infrastructure/",
+      "depth": 4,
+      "parent_url": "https://www.datadoghq.com/free-datadog-trial/",
+      "attempt": 14,
+      "timestamp": "2026-11-12T21:12:12.572536+00:00",
+      "final_url": "https://www.datadoghq.com/ebook/monitoring-modern-infrastructure/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://onlinexperiences.com https://next.brella.io https://pheedloop.com https://gather.town https://datadog.docebosaas.com/"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 124554,
+      "truncated": false,
+      "body_sha256": "b2b90d0b7ab1a6517e1928f2c3d9ed9fa218e2591f0c0a8e8ef32271ae190045",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Monitoring Modern Infrastructure EBook | DatadogIcon/world",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "277",
+      "domain": "datadoghq.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.datadoghq.com/resources/",
+      "depth": 3,
+      "parent_url": "https://www.datadoghq.com/case-studies/twine/",
+      "attempt": 15,
+      "timestamp": "2026-11-12T21:12:13.168818+00:00",
+      "final_url": "https://www.datadoghq.com/resources/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://onlinexperiences.com https://next.brella.io https://pheedloop.com https://gather.town https://datadog.docebosaas.com/"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 2000001,
+      "truncated": true,
+      "body_sha256": "5af86e4777b66d35480e2838f4f30180f8cb2f9124147be078b157bbe6dcd912",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "277",
+      "domain": "datadoghq.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.datadoghq.com/customers/",
+      "depth": 1,
+      "parent_url": "https://www.datadoghq.com/",
+      "attempt": 16,
+      "timestamp": "2026-11-12T21:12:13.741054+00:00",
+      "final_url": "https://www.datadoghq.com/customers/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://onlinexperiences.com https://next.brella.io https://pheedloop.com https://gather.town https://datadog.docebosaas.com/"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 203257,
+      "truncated": false,
+      "body_sha256": "33386a37b86e76d8959a0c03997449bf804e0f7c6f134f8d8878d1d13ae62932",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Customers | DatadogWhite modal up arrowIcon/world",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "277",
+      "domain": "datadoghq.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.datadoghq.com/state-of-ai-engineering/",
+      "depth": 2,
+      "parent_url": "https://www.datadoghq.com/products/ai/agent-observability/",
+      "attempt": 17,
+      "timestamp": "2026-11-12T21:12:13.926347+00:00",
+      "final_url": "https://www.datadoghq.com/state-of-ai-engineering/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://onlinexperiences.com https://next.brella.io https://pheedloop.com https://gather.town https://datadog.docebosaas.com/"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 130839,
+      "truncated": false,
+      "body_sha256": "31d1fc7cfb27a58c9ffc135e25cf8015e6a01dfa98c78507078ea3478aa704e9",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "State of AI Engineering | DatadogIcon/worldIcon/world",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "277",
+      "domain": "datadoghq.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.datadoghq.com/about/leadership/",
+      "depth": 1,
+      "parent_url": "https://www.datadoghq.com/",
+      "attempt": 18,
+      "timestamp": "2026-11-12T21:12:14.426604+00:00",
+      "final_url": "https://www.datadoghq.com/about/leadership/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://onlinexperiences.com https://next.brella.io https://pheedloop.com https://gather.town https://datadog.docebosaas.com/"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 252229,
+      "truncated": false,
+      "body_sha256": "c44c068d0e389380a3e5a5d6b86131b0f3ddd4c4fa02263aecbe948391acd029",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Leadership | DatadogWhite modal up arrowIcon/world",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "277",
+      "domain": "datadoghq.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.datadoghq.com/technical-enablement/sessions/datadog-overview/",
+      "depth": 2,
+      "parent_url": "https://www.datadoghq.com/marketplacepartners/",
+      "attempt": 19,
+      "timestamp": "2026-11-12T21:12:15.478087+00:00",
+      "final_url": "https://www.datadoghq.com/technical-enablement/sessions/datadog-overview/",
+      "status": 404,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://onlinexperiences.com https://next.brella.io https://pheedloop.com https://gather.town https://datadog.docebosaas.com/"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 152653,
+      "truncated": false,
+      "body_sha256": "cad49624525e7ed361acfba54b7d14e731c643825b25c4db804bdd22ecfd2bd9",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "277",
+      "domain": "datadoghq.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.datadoghq.com/events-webinars/",
+      "depth": 1,
+      "parent_url": "https://www.datadoghq.com/",
+      "attempt": 20,
+      "timestamp": "2026-11-12T21:12:15.769327+00:00",
+      "final_url": "https://www.datadoghq.com/events-webinars/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://onlinexperiences.com https://next.brella.io https://pheedloop.com https://gather.town https://datadog.docebosaas.com/"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 2000001,
+      "truncated": true,
+      "body_sha256": "545156aff02d2e0a05b227c3a3658b3f1c65c48319cd60ddfb7a07b4bfe5df46",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "277",
+      "domain": "datadoghq.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.datadoghq.com/customer-testimonial/forbes",
+      "depth": 2,
+      "parent_url": "https://www.datadoghq.com/customers/",
+      "attempt": 21,
+      "timestamp": "2026-11-12T21:12:16.868712+00:00",
+      "final_url": "https://www.datadoghq.com/customer-testimonial/forbes/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://onlinexperiences.com https://next.brella.io https://pheedloop.com https://gather.town https://datadog.docebosaas.com/"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 503534,
+      "truncated": false,
+      "body_sha256": "a81be030a830c2a47d4952863128397ff0b934e98c2e7c079f11d3ff949bf087",
+      "redirect_chain": [
+        {
+          "url": "https://www.datadoghq.com/customer-testimonial/forbes",
+          "status": 302,
+          "location": "/customer-testimonial/forbes/",
+          "headers": {
+            "content-security-policy": [
+              "frame-ancestors 'self' https://onlinexperiences.com https://next.brella.io https://pheedloop.com https://gather.town https://datadog.docebosaas.com/"
+            ],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=63072000; includeSubDomains; preload"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "How Forbes delivers a premium digital experience with Datadog | DatadogWhite modal up arrowIcon/world",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "277",
+      "domain": "datadoghq.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.datadoghq.com/esg-report/",
+      "depth": 1,
+      "parent_url": "https://www.datadoghq.com/",
+      "attempt": 22,
+      "timestamp": "2026-11-12T21:12:17.625783+00:00",
+      "final_url": "https://www.datadoghq.com/esg-report/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://onlinexperiences.com https://next.brella.io https://pheedloop.com https://gather.town https://datadog.docebosaas.com/"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 168100,
+      "truncated": false,
+      "body_sha256": "1153af65df09fcb07bb6f7839281022432624f5562d12b8c8ec6e4caccd6bb0f",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Environmental, Social, and Governance Report | DatadogWhite modal up arrowIcon/world",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "277",
+      "domain": "datadoghq.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.datadoghq.com/dg/webinars/demo-webinars-se-slo-us/",
+      "depth": 2,
+      "parent_url": "https://www.datadoghq.com/customers/",
+      "attempt": 23,
+      "timestamp": "2026-11-12T21:12:17.962195+00:00",
+      "final_url": "https://www.datadoghq.com/dg/webinars/demo-webinars-se-slo-us/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://onlinexperiences.com https://next.brella.io https://pheedloop.com https://gather.town https://datadog.docebosaas.com/"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 100776,
+      "truncated": false,
+      "body_sha256": "524f6673503f9b857207084b9e0a17e120b13bb17c5468ac2083684df0d8428a",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Better Reliability With SLOs With Datadog | DatadogWhite modal up arrow",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "277",
+      "domain": "datadoghq.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.datadoghq.com/trust/",
+      "depth": 1,
+      "parent_url": "https://www.datadoghq.com/",
+      "attempt": 24,
+      "timestamp": "2026-11-12T21:12:18.543545+00:00",
+      "final_url": "https://www.datadoghq.com/trust/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://onlinexperiences.com https://next.brella.io https://pheedloop.com https://gather.town https://datadog.docebosaas.com/"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 95078,
+      "truncated": false,
+      "body_sha256": "1aff8e15259da87ddd78f47ba673766a616344bc1b08e3bec659b18d86866988",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Trust Hub | DatadogIcon/worldIcon/world",
+      "duplicate_final": true,
+      "eligible": false
+    },
+    {
+      "rank": "277",
+      "domain": "datadoghq.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.datadoghq.com/state-of-cloud-security/",
+      "depth": 1,
+      "parent_url": "https://www.datadoghq.com/",
+      "attempt": 25,
+      "timestamp": "2026-11-12T21:12:19.005006+00:00",
+      "final_url": "https://www.datadoghq.com/state-of-cloud-security/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://onlinexperiences.com https://next.brella.io https://pheedloop.com https://gather.town https://datadog.docebosaas.com/"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 149956,
+      "truncated": false,
+      "body_sha256": "d3f0a296d8269cbd21244493ae5cce23eb4ecddcb6b0997c30bcb94ef5e8f52e",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "State of Cloud Security | DatadogIcon/worldIcon/world",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "277",
+      "domain": "datadoghq.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.datadoghq.com/state-of-cloud-security-2025/",
+      "depth": 2,
+      "parent_url": "https://www.datadoghq.com/state-of-cloud-security/",
+      "attempt": 26,
+      "timestamp": "2026-11-12T21:12:19.574974+00:00",
+      "final_url": "https://www.datadoghq.com/state-of-cloud-security-2025/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://onlinexperiences.com https://next.brella.io https://pheedloop.com https://gather.town https://datadog.docebosaas.com/"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 207852,
+      "truncated": false,
+      "body_sha256": "761002d0d3a4ac7b9828fa79f334396197bc4fb188d97254ed3015ae960b73c6",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "State of Cloud Security | DatadogIcon/worldIcon/world",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "277",
+      "domain": "datadoghq.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.datadoghq.com/state-of-cloud-security-2024/",
+      "depth": 3,
+      "parent_url": "https://www.datadoghq.com/state-of-cloud-security-2025/",
+      "attempt": 27,
+      "timestamp": "2026-11-12T21:12:20.455927+00:00",
+      "final_url": "https://www.datadoghq.com/state-of-cloud-security-2024/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://onlinexperiences.com https://next.brella.io https://pheedloop.com https://gather.town https://datadog.docebosaas.com/"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 187522,
+      "truncated": false,
+      "body_sha256": "39444e4db70d5d7260f978d629b0f51b7259b5db3b69cfc78c84ef87afebf81f",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "State of Cloud Security | DatadogIcon/worldIcon/world",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "277",
+      "domain": "datadoghq.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.datadoghq.com/state-of-cloud-security-2023/",
+      "depth": 4,
+      "parent_url": "https://www.datadoghq.com/state-of-cloud-security-2024/",
+      "attempt": 28,
+      "timestamp": "2026-11-12T21:12:20.696938+00:00",
+      "final_url": "https://www.datadoghq.com/state-of-cloud-security-2023/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://onlinexperiences.com https://next.brella.io https://pheedloop.com https://gather.town https://datadog.docebosaas.com/"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 156815,
+      "truncated": false,
+      "body_sha256": "349e2a97e920e2c1972beed44b03ea4eb91ec40d3ca0421d3a07454c2e050cd3",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "State of Cloud Security | DatadogIcon/worldIcon/world",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "277",
+      "domain": "datadoghq.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.datadoghq.com/state-of-aws-security/",
+      "depth": 5,
+      "parent_url": "https://www.datadoghq.com/state-of-cloud-security-2023/",
+      "attempt": 29,
+      "timestamp": "2026-11-12T21:12:21.171570+00:00",
+      "final_url": "https://www.datadoghq.com/state-of-aws-security/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://onlinexperiences.com https://next.brella.io https://pheedloop.com https://gather.town https://datadog.docebosaas.com/"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 127705,
+      "truncated": false,
+      "body_sha256": "98a551162a995c1f48d0fb44953b3421bb381a2d4685ec8eb31ea639013f2cfc",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "State of AWS Security | DatadogIcon/worldIcon/world",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "277",
+      "domain": "datadoghq.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.datadoghq.com/product-preview/",
+      "depth": 1,
+      "parent_url": "https://www.datadoghq.com/",
+      "attempt": 30,
+      "timestamp": "2026-11-12T21:12:21.721233+00:00",
+      "final_url": "https://www.datadoghq.com/product-preview/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://onlinexperiences.com https://next.brella.io https://pheedloop.com https://gather.town https://datadog.docebosaas.com/"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 177274,
+      "truncated": false,
+      "body_sha256": "d814d883d1d09ca2b9c2ef6583a3d2245715068ffe58c9d2116276983cb94108",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Join our Datadog Product Preview Program | DatadogIcon/worldIcon/world",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "277",
+      "domain": "datadoghq.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.datadoghq.com/knowledge-center/",
+      "depth": 1,
+      "parent_url": "https://www.datadoghq.com/",
+      "attempt": 31,
+      "timestamp": "2026-11-12T21:12:22.151973+00:00",
+      "final_url": "https://www.datadoghq.com/knowledge-center/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://onlinexperiences.com https://next.brella.io https://pheedloop.com https://gather.town https://datadog.docebosaas.com/"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 51342,
+      "truncated": false,
+      "body_sha256": "801d6cae65eadac3794789fdf12c22843c366772e7489a5c4635dc548641ddfb",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Knowledge Center | DatadogIcon/worldIcon/world",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "277",
+      "domain": "datadoghq.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.datadoghq.com/learn/",
+      "depth": 1,
+      "parent_url": "https://www.datadoghq.com/",
+      "attempt": 32,
+      "timestamp": "2026-11-12T21:12:22.647363+00:00",
+      "final_url": "https://www.datadoghq.com/learn/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://onlinexperiences.com https://next.brella.io https://pheedloop.com https://gather.town https://datadog.docebosaas.com/"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 166615,
+      "truncated": false,
+      "body_sha256": "4d40835e1315e45dc2451c6837e6759337bfbdddc5d6088f3191e55ef87e8aa7",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Learn | DatadogWhite modal up arrowIcon/world",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "277",
+      "domain": "datadoghq.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.datadoghq.com/support/",
+      "depth": 1,
+      "parent_url": "https://www.datadoghq.com/",
+      "attempt": 33,
+      "timestamp": "2026-11-12T21:12:23.303515+00:00",
+      "final_url": "https://www.datadoghq.com/support/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://onlinexperiences.com https://next.brella.io https://pheedloop.com https://gather.town https://datadog.docebosaas.com/"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 161428,
+      "truncated": false,
+      "body_sha256": "ba9276c903ef7dd1bb2f5101b47bc1dd4ea9fc744c8ff25d3e42c5a6d7b6bb07",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Support | DatadogWhite modal up arrowIcon/world",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "277",
+      "domain": "datadoghq.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.datadoghq.com/certification/overview/",
+      "depth": 1,
+      "parent_url": "https://www.datadoghq.com/",
+      "attempt": 34,
+      "timestamp": "2026-11-12T21:12:23.726866+00:00",
+      "final_url": "https://www.datadoghq.com/certification/overview/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://onlinexperiences.com https://next.brella.io https://pheedloop.com https://gather.town https://datadog.docebosaas.com/"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 186463,
+      "truncated": false,
+      "body_sha256": "ca21d63a04625a81f9bcdb560dd2dcccb2564f94c609198c2d2b45a86dadfe3a",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Certification | DatadogWhite modal up arrowIcon/world",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "277",
+      "domain": "datadoghq.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.datadoghq.com/architecture/",
+      "depth": 1,
+      "parent_url": "https://www.datadoghq.com/",
+      "attempt": 35,
+      "timestamp": "2026-11-12T21:12:24.246453+00:00",
+      "final_url": "https://www.datadoghq.com/architecture/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://onlinexperiences.com https://next.brella.io https://pheedloop.com https://gather.town https://datadog.docebosaas.com/"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 153517,
+      "truncated": false,
+      "body_sha256": "e491dfcd0781759e95c8e9af2d11cd04241ab4b39edad860cad689e63f08aec4",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Datadog Architecture Center | DatadogWhite modal up arrowIcon/world",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "277",
+      "domain": "datadoghq.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.datadoghq.com/vendor-help/",
+      "depth": 1,
+      "parent_url": "https://www.datadoghq.com/",
+      "attempt": 36,
+      "timestamp": "2026-11-12T21:12:24.846977+00:00",
+      "final_url": "https://www.datadoghq.com/vendor-help/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://onlinexperiences.com https://next.brella.io https://pheedloop.com https://gather.town https://datadog.docebosaas.com/"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 47428,
+      "truncated": false,
+      "body_sha256": "8466f41e1ef849ee40a2d26fa6e58ee7c1b03bf4f31c1f01bec60ab0c34b1115",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Datadog Supplier | DatadogIcon/worldIcon/world",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "277",
+      "domain": "datadoghq.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.datadoghq.com/privacy/",
+      "depth": 1,
+      "parent_url": "https://www.datadoghq.com/",
+      "attempt": 37,
+      "timestamp": "2026-11-12T21:12:25.273050+00:00",
+      "final_url": "https://www.datadoghq.com/privacy/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://onlinexperiences.com https://next.brella.io https://pheedloop.com https://gather.town https://datadog.docebosaas.com/"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 170034,
+      "truncated": false,
+      "body_sha256": "b56cc698826752659c96dc0ce25efb6c9dc10b4aeed7bf3b6061e62414569e60",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Privacy at Datadog | DatadogWhite modal up arrowIcon/world",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "277",
+      "domain": "datadoghq.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.datadoghq.com/ccpa/",
+      "depth": 2,
+      "parent_url": "https://www.datadoghq.com/privacy/",
+      "attempt": 38,
+      "timestamp": "2026-11-12T21:12:25.860569+00:00",
+      "final_url": "https://www.datadoghq.com/ccpa/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://onlinexperiences.com https://next.brella.io https://pheedloop.com https://gather.town https://datadog.docebosaas.com/"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 152954,
+      "truncated": false,
+      "body_sha256": "365a28334c6bad8b33f0f9c32941083aa04b9c13fd3f477e1237b62f9cb1e531",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "California Consumer Privacy Act | DatadogWhite modal up arrowIcon/world",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "277",
+      "domain": "datadoghq.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.datadoghq.com/legal/support/",
+      "depth": 4,
+      "parent_url": "https://www.datadoghq.com/legal/support/",
+      "attempt": 39,
+      "timestamp": "2026-11-12T21:12:26.382271+00:00",
+      "final_url": "https://www.datadoghq.com/legal/support/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://onlinexperiences.com https://next.brella.io https://pheedloop.com https://gather.town https://datadog.docebosaas.com/"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 146479,
+      "truncated": false,
+      "body_sha256": "c0a1ba0eaa7d71616b53c5a65217ca2686e7d3d9b8abbdb687f0ebc8073a5029",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Support Terms | DatadogWhite modal up arrowIcon/world",
+      "duplicate_final": true,
+      "eligible": false
+    },
+    {
+      "rank": "277",
+      "domain": "datadoghq.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.datadoghq.com/blog/monitoring-101-collecting-data/",
+      "depth": 4,
+      "parent_url": "https://www.datadoghq.com/free-datadog-trial/",
+      "attempt": 40,
+      "timestamp": "2026-11-12T21:12:26.864307+00:00",
+      "final_url": "https://www.datadoghq.com/blog/monitoring-101-collecting-data/",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://plugins-cdn.datocms.com https://corpsite.admin.datocms.com https://dd-dato-web-assets.s3.amazonaws.com https://dd-dato-web-assets.s3.us-east-1.amazonaws.com https://www.googletagmanager.com"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains"
+        ]
+      },
+      "body_bytes": 368689,
+      "truncated": false,
+      "body_sha256": "9c6bc14eca6240ab51661dc61d1b878e23894e6a873ab35b6d8a04a8a77bc687",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Monitoring 101: Collecting the right data | Datadogsecurity-platformrumcidashboardhost-mapapmsecurity-platformrumcidashboardhost-mapapmsecurity-platformrumcidashboardsecurity-platformrumcidashboardrumsecurity-platformcidashboardIcon/worldinstagram",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "277",
+      "domain": "datadoghq.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.datadoghq.com/product/llm-observability/",
+      "depth": 3,
+      "parent_url": "https://www.datadoghq.com/case-studies/twine/",
+      "attempt": 41,
+      "timestamp": "2026-11-12T21:12:28.050078+00:00",
+      "final_url": "https://www.datadoghq.com/products/ai/agent-observability/",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://plugins-cdn.datocms.com https://corpsite.admin.datocms.com https://dd-dato-web-assets.s3.amazonaws.com https://dd-dato-web-assets.s3.us-east-1.amazonaws.com https://www.googletagmanager.com"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains"
+        ]
+      },
+      "body_bytes": 533065,
+      "truncated": false,
+      "body_sha256": "a387730556940d112c2a52522256dfdc1ac7e2d5a124ec0a26f7e3aa59b5142d",
+      "redirect_chain": [
+        {
+          "url": "https://www.datadoghq.com/product/llm-observability/",
+          "status": 301,
+          "location": "/product/ai/llm-observability/",
+          "headers": {
+            "content-security-policy": [
+              "frame-ancestors 'self' https://onlinexperiences.com https://next.brella.io https://pheedloop.com https://gather.town https://datadog.docebosaas.com/"
+            ],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=63072000; includeSubDomains; preload"
+            ]
+          }
+        },
+        {
+          "url": "https://www.datadoghq.com/product/ai/llm-observability/",
+          "status": 301,
+          "location": "/products/ai/agent-observability/",
+          "headers": {
+            "content-security-policy": [
+              "frame-ancestors 'self' https://onlinexperiences.com https://next.brella.io https://pheedloop.com https://gather.town https://datadog.docebosaas.com/"
+            ],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=63072000; includeSubDomains; preload"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Agent Observability | LLM Observability | Datadogsecurity-platformrumcidashboardhost-mapapmsecurity-platformrumcidashboardhost-mapapmsecurity-platformrumcidashboardsecurity-platformrumcidashboardrumsecurity-platformcidashboardIcon/worldinstagram",
+      "duplicate_final": true,
+      "eligible": false
+    },
+    {
+      "rank": "277",
+      "domain": "datadoghq.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.datadoghq.com/customer-testimonial/forbes/",
+      "depth": 3,
+      "parent_url": "https://www.datadoghq.com/customer-testimonial/forbes/",
+      "attempt": 42,
+      "timestamp": "2026-11-12T21:12:28.925812+00:00",
+      "final_url": "https://www.datadoghq.com/customer-testimonial/forbes/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://onlinexperiences.com https://next.brella.io https://pheedloop.com https://gather.town https://datadog.docebosaas.com/"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 503534,
+      "truncated": false,
+      "body_sha256": "a81be030a830c2a47d4952863128397ff0b934e98c2e7c079f11d3ff949bf087",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "How Forbes delivers a premium digital experience with Datadog | DatadogWhite modal up arrowIcon/world",
+      "duplicate_final": true,
+      "eligible": false
+    },
+    {
+      "rank": "277",
+      "domain": "datadoghq.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.datadoghq.com/case-studies/arcxp-2023/",
+      "depth": 3,
+      "parent_url": "https://www.datadoghq.com/customer-testimonial/forbes/",
+      "attempt": 43,
+      "timestamp": "2026-11-12T21:12:29.191249+00:00",
+      "final_url": "https://www.datadoghq.com/case-studies/arcxp-2023/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://onlinexperiences.com https://next.brella.io https://pheedloop.com https://gather.town https://datadog.docebosaas.com/"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 184631,
+      "truncated": false,
+      "body_sha256": "516213560db568428a759c42ecc06a9718592d5f8f421bfcbedefee7c74164ec",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Arc XP Secures Applications in Production With Real-Time Visibility From Datadog | DatadogWhite modal up arrowIcon/world",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "277",
+      "domain": "datadoghq.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.datadoghq.com/resources/gartner-magic-quadrant-observability-platforms-2026/",
+      "depth": 3,
+      "parent_url": "https://www.datadoghq.com/customer-testimonial/forbes/",
+      "attempt": 44,
+      "timestamp": "2026-11-12T21:12:29.910419+00:00",
+      "final_url": "https://www.datadoghq.com/resources/gartner-magic-quadrant-observability-platforms-2026/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://onlinexperiences.com https://next.brella.io https://pheedloop.com https://gather.town https://datadog.docebosaas.com/"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 129064,
+      "truncated": false,
+      "body_sha256": "f9fa0c64be76f6984bd3f762bab5a449bba0fce22d0731e267ca07f584a62a85",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "2026 Gartner\u00ae Magic Quadrant\u2122 for Observability Platforms | DatadogIcon/world",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "277",
+      "domain": "datadoghq.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.datadoghq.com/pricing/list/",
+      "depth": 2,
+      "parent_url": "https://www.datadoghq.com/pricing/",
+      "attempt": 45,
+      "timestamp": "2026-11-12T21:12:30.229763+00:00",
+      "final_url": "https://www.datadoghq.com/pricing/list/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://onlinexperiences.com https://next.brella.io https://pheedloop.com https://gather.town https://datadog.docebosaas.com/"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 440762,
+      "truncated": false,
+      "body_sha256": "7154db03c4e890fd4699160d6f904939371b22a192713900fd4ef7d0e5c8e31b",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Datadog Pricing Comparison | DatadogWhite modal up arrowIcon/world",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "277",
+      "domain": "datadoghq.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.datadoghq.com/security",
+      "depth": 2,
+      "parent_url": "https://www.datadoghq.com/pricing/",
+      "attempt": 46,
+      "timestamp": "2026-11-12T21:12:31.598413+00:00",
+      "final_url": "https://www.datadoghq.com/trust/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://onlinexperiences.com https://next.brella.io https://pheedloop.com https://gather.town https://datadog.docebosaas.com/"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 95078,
+      "truncated": false,
+      "body_sha256": "1aff8e15259da87ddd78f47ba673766a616344bc1b08e3bec659b18d86866988",
+      "redirect_chain": [
+        {
+          "url": "https://www.datadoghq.com/security",
+          "status": 302,
+          "location": "/security/",
+          "headers": {
+            "content-security-policy": [
+              "frame-ancestors 'self' https://onlinexperiences.com https://next.brella.io https://pheedloop.com https://gather.town https://datadog.docebosaas.com/"
+            ],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=63072000; includeSubDomains; preload"
+            ]
+          }
+        },
+        {
+          "url": "https://www.datadoghq.com/security/",
+          "status": 301,
+          "location": "/trust/",
+          "headers": {
+            "content-security-policy": [
+              "frame-ancestors 'self' https://onlinexperiences.com https://next.brella.io https://pheedloop.com https://gather.town https://datadog.docebosaas.com/"
+            ],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=63072000; includeSubDomains; preload"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Trust Hub | DatadogIcon/worldIcon/world",
+      "duplicate_final": true,
+      "eligible": false
+    },
+    {
+      "rank": "277",
+      "domain": "datadoghq.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.datadoghq.com/partner/datadog-for-startups/",
+      "depth": 2,
+      "parent_url": "https://www.datadoghq.com/pricing/",
+      "attempt": 47,
+      "timestamp": "2026-11-12T21:12:32.208168+00:00",
+      "final_url": "https://www.datadoghq.com/partner/datadog-for-startups/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://onlinexperiences.com https://next.brella.io https://pheedloop.com https://gather.town https://datadog.docebosaas.com/"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 307538,
+      "truncated": false,
+      "body_sha256": "f0700a400cfcc733bce8d729b47a60a852f9347071f13d4375cae95e1699ccb5",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Datadog for Startups | DatadogWhite modal up arrowIcon/world",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "277",
+      "domain": "datadoghq.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.datadoghq.com/technical-enablement/sessions/cert-prep-datadog-fundamentals/",
+      "depth": 2,
+      "parent_url": "https://www.datadoghq.com/certification/overview/",
+      "attempt": 48,
+      "timestamp": "2026-11-12T21:12:32.740683+00:00",
+      "final_url": "https://www.datadoghq.com/technical-enablement/sessions/cert-prep-datadog-fundamentals/",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://onlinexperiences.com https://next.brella.io https://pheedloop.com https://gather.town https://datadog.docebosaas.com/"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 91510,
+      "truncated": false,
+      "body_sha256": "ede1d5a0ec9670a3f6b61f112118c803fb490e813a3de998f3ae5d29c5c37154",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Foundation Enablement: Cert Prep for Datadog Fundamentals | Datadog Instructor-Led Training",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "277",
+      "domain": "datadoghq.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.datadoghq.com/vendor-help/invoicing/",
+      "depth": 2,
+      "parent_url": "https://www.datadoghq.com/vendor-help/",
+      "attempt": 49,
+      "timestamp": "2026-11-12T21:12:33.288819+00:00",
+      "final_url": "https://www.datadoghq.com/vendor-help/invoicing/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://onlinexperiences.com https://next.brella.io https://pheedloop.com https://gather.town https://datadog.docebosaas.com/"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 46591,
+      "truncated": false,
+      "body_sha256": "2f958abb18cbc28b5bcbc422e2298b9529da087b030fb4a46b976de52521e52a",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Datadog Supplier - Invoicing | DatadogIcon/worldIcon/world",
+      "duplicate_final": false,
+      "eligible": true
+    }
+  ],
+  "robots": [
+    {
+      "url": "https://datadoghq.com/robots.txt",
+      "timestamp": "2026-11-12T21:12:03.692020+00:00",
+      "status": 200,
+      "decision": "parsed",
+      "final_url": "https://www.datadoghq.com/robots.txt",
+      "redirect_chain": [
+        {
+          "url": "https://datadoghq.com/robots.txt",
+          "status": 301,
+          "location": "https://www.datadoghq.com/robots.txt"
+        }
+      ],
+      "body_sha256": "31eeea994b43f6d7f90690150759601a19c7a76f19827a51b18c89c6cbb1076b",
+      "body": "User-agent: * \nDisallow: /pdf/\nDisallow: /meta/\nDisallow: /style/\n\n#Sitemaps\nSitemap: https://www.datadoghq.com/sitemap.xml\nSitemap: https://www.datadoghq.com/en/sitemap.xml\nSitemap: https://www.datadoghq.com/es/sitemap.xml\nSitemap: https://www.datadoghq.com/ja/sitemap.xml\nSitemap: https://www.datadoghq.com/fr/sitemap.xml\nSitemap: https://www.datadoghq.com/de/sitemap.xml\nSitemap: https://www.datadoghq.com/it/sitemap.xml\nSitemap: https://www.datadoghq.com/ko/sitemap.xml\nSitemap: https://www.datadoghq.com/pt/sitemap.xml\n\n"
+    },
+    {
+      "url": "https://www.datadoghq.com/robots.txt",
+      "timestamp": "2026-11-12T21:12:04.181757+00:00",
+      "status": 200,
+      "decision": "parsed",
+      "final_url": "https://www.datadoghq.com/robots.txt",
+      "redirect_chain": [],
+      "body_sha256": "31eeea994b43f6d7f90690150759601a19c7a76f19827a51b18c89c6cbb1076b",
+      "body": "User-agent: * \nDisallow: /pdf/\nDisallow: /meta/\nDisallow: /style/\n\n#Sitemaps\nSitemap: https://www.datadoghq.com/sitemap.xml\nSitemap: https://www.datadoghq.com/en/sitemap.xml\nSitemap: https://www.datadoghq.com/es/sitemap.xml\nSitemap: https://www.datadoghq.com/ja/sitemap.xml\nSitemap: https://www.datadoghq.com/fr/sitemap.xml\nSitemap: https://www.datadoghq.com/de/sitemap.xml\nSitemap: https://www.datadoghq.com/it/sitemap.xml\nSitemap: https://www.datadoghq.com/ko/sitemap.xml\nSitemap: https://www.datadoghq.com/pt/sitemap.xml\n\n"
+    }
+  ],
+  "eligible_pages": 40,
+  "canonical_origin": [
+    "https",
+    "www.datadoghq.com",
+    443
+  ],
+  "stop_reason": "page_budget",
+  "elapsed_seconds": 30.41
+}

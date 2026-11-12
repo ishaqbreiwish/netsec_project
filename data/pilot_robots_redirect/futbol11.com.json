@@ -1,0 +1,745 @@
+{
+  "site": {
+    "rank": "9731",
+    "domain": "futbol11.com",
+    "stratum": "1001-10000"
+  },
+  "rows": [
+    {
+      "rank": "9731",
+      "domain": "futbol11.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://futbol11.com/",
+      "depth": 0,
+      "parent_url": "",
+      "attempt": 1,
+      "timestamp": "2026-11-12T21:08:02.563893+00:00",
+      "final_url": "https://futbol11.com/",
+      "status": 200,
+      "content_type": "text/html;charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 45673,
+      "truncated": false,
+      "body_sha256": "d7e5fa186cc6020bbfa4f716161063ce3f10fcf8a60451d325d07a524edad005",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Futbol11 - Football Games Daily",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "9731",
+      "domain": "futbol11.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://futbol11.com/futbol11-squadslice",
+      "depth": 1,
+      "parent_url": "https://futbol11.com/",
+      "attempt": 2,
+      "timestamp": "2026-11-12T21:08:03.331339+00:00",
+      "final_url": "https://futbol11.com/futbol11-squadslice",
+      "status": 200,
+      "content_type": "text/html;charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 26161,
+      "truncated": false,
+      "body_sha256": "83a2c01450caa04d440e0e555e738935dc5622824d243a35b054c4f1c4695908",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Football SquadSlice - Guess the Club | Futbol11",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "9731",
+      "domain": "futbol11.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://futbol11.com/futbol11-statdle",
+      "depth": 1,
+      "parent_url": "https://futbol11.com/",
+      "attempt": 3,
+      "timestamp": "2026-11-12T21:08:03.584374+00:00",
+      "final_url": "https://futbol11.com/futbol11-statdle",
+      "status": 200,
+      "content_type": "text/html;charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 36921,
+      "truncated": false,
+      "body_sha256": "d4bfd310b5e121b8d2659de40204bd1d16f28581168084d4b76aea5ad01d9da0",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Futbol11 Statdle - Play Football Stats Game",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "9731",
+      "domain": "futbol11.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://futbol11.com/futbol11-top10",
+      "depth": 1,
+      "parent_url": "https://futbol11.com/",
+      "attempt": 4,
+      "timestamp": "2026-11-12T21:08:04.087147+00:00",
+      "final_url": "https://futbol11.com/futbol11-top10",
+      "status": 200,
+      "content_type": "text/html;charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 32004,
+      "truncated": false,
+      "body_sha256": "e0c889566437a48cfdb7a88ada57b15600afc1c0a9ccf662586ec529e7797f6e",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "9731",
+      "domain": "futbol11.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://futbol11.com/futbol11-grid",
+      "depth": 1,
+      "parent_url": "https://futbol11.com/",
+      "attempt": 5,
+      "timestamp": "2026-11-12T21:08:04.711999+00:00",
+      "final_url": "https://futbol11.com/futbol11-grid",
+      "status": 200,
+      "content_type": "text/html;charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 30878,
+      "truncated": false,
+      "body_sha256": "b3a35118c9a4d345689a239acdc888475a0e8364a93636262918299e33183773",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "9731",
+      "domain": "futbol11.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://futbol11.com/futbol11-bingo",
+      "depth": 1,
+      "parent_url": "https://futbol11.com/",
+      "attempt": 6,
+      "timestamp": "2026-11-12T21:08:05.562849+00:00",
+      "final_url": "https://futbol11.com/futbol11-bingo",
+      "status": 200,
+      "content_type": "text/html;charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 26422,
+      "truncated": false,
+      "body_sha256": "1714d722e9847e23e623262f3fd811d4c24931d1ea33c61a320c3fbbda5bc2ad",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "9731",
+      "domain": "futbol11.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://futbol11.com/futbol11-goltexto",
+      "depth": 1,
+      "parent_url": "https://futbol11.com/",
+      "attempt": 7,
+      "timestamp": "2026-11-12T21:08:05.961516+00:00",
+      "final_url": "https://futbol11.com/futbol11-goltexto",
+      "status": 200,
+      "content_type": "text/html;charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 25708,
+      "truncated": false,
+      "body_sha256": "8df061beeca515933b3756063630d1e5a61aa043d279de19d811a9f3120ec900",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "9731",
+      "domain": "futbol11.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://futbol11.com/futbol11-impostor",
+      "depth": 1,
+      "parent_url": "https://futbol11.com/",
+      "attempt": 8,
+      "timestamp": "2026-11-12T21:08:06.210356+00:00",
+      "final_url": "https://futbol11.com/futbol11-impostor",
+      "status": 200,
+      "content_type": "text/html;charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 31781,
+      "truncated": false,
+      "body_sha256": "056ff2f921d32dc0548e0a453b7b3331a29e544c79e02b3e15d1890765d89b64",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Football Impostor - Daily Football Trivia Game | Futbol11",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "9731",
+      "domain": "futbol11.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://futbol11.com/futbol11-pyramid",
+      "depth": 1,
+      "parent_url": "https://futbol11.com/",
+      "attempt": 9,
+      "timestamp": "2026-11-12T21:08:06.808711+00:00",
+      "final_url": "https://futbol11.com/futbol11-pyramid",
+      "status": 200,
+      "content_type": "text/html;charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 27519,
+      "truncated": false,
+      "body_sha256": "89a2ddbf88bb8de6b4c94402f1057eec17c76e5370df2546cada2434dfeb45b2",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "9731",
+      "domain": "futbol11.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://futbol11.com/futbol11-connections",
+      "depth": 1,
+      "parent_url": "https://futbol11.com/",
+      "attempt": 10,
+      "timestamp": "2026-11-12T21:08:07.389477+00:00",
+      "final_url": "https://futbol11.com/futbol11-connections",
+      "status": 200,
+      "content_type": "text/html;charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 30485,
+      "truncated": false,
+      "body_sha256": "c0f83353379f9e87fffd723219774c4ec7a90fc6af8ea13e018b2432e336854a",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "9731",
+      "domain": "futbol11.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://futbol11.com/futbol11-clubs",
+      "depth": 1,
+      "parent_url": "https://futbol11.com/",
+      "attempt": 11,
+      "timestamp": "2026-11-12T21:08:08.487056+00:00",
+      "final_url": "https://futbol11.com/futbol11-clubs",
+      "status": 200,
+      "content_type": "text/html;charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 25549,
+      "truncated": false,
+      "body_sha256": "aed2b9713980fe517bd44cc6c82da0f96f066b01ecd1906f1b0e61bee5048bbc",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "9731",
+      "domain": "futbol11.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://futbol11.com/futbol11-legacy",
+      "depth": 1,
+      "parent_url": "https://futbol11.com/",
+      "attempt": 12,
+      "timestamp": "2026-11-12T21:08:08.722331+00:00",
+      "final_url": "https://futbol11.com/futbol11-legacy",
+      "status": 200,
+      "content_type": "text/html;charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 25560,
+      "truncated": false,
+      "body_sha256": "18c567db6a781033a93db09c5cf52a4185bca247f957619401bb469cb959076d",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "9731",
+      "domain": "futbol11.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://futbol11.com/futbol11-bingo-retro",
+      "depth": 1,
+      "parent_url": "https://futbol11.com/",
+      "attempt": 13,
+      "timestamp": "2026-11-12T21:08:09.249302+00:00",
+      "final_url": "https://futbol11.com/futbol11-bingo-retro",
+      "status": 200,
+      "content_type": "text/html;charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 26344,
+      "truncated": false,
+      "body_sha256": "9be6cd635294600a3069a9b4415a7b8ba1f5044d1127a51476ece3f4ca6f1926",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "9731",
+      "domain": "futbol11.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://futbol11.com/futbol11-retro",
+      "depth": 1,
+      "parent_url": "https://futbol11.com/",
+      "attempt": 14,
+      "timestamp": "2026-11-12T21:08:09.772896+00:00",
+      "final_url": "https://futbol11.com/futbol11-retro",
+      "status": 200,
+      "content_type": "text/html;charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 27252,
+      "truncated": false,
+      "body_sha256": "455d26681a9d93383ed65276f55d1d672aa1b77d369b9f4aded8ba7f5de66d03",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "9731",
+      "domain": "futbol11.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://futbol11.com/futbol11-link",
+      "depth": 1,
+      "parent_url": "https://futbol11.com/",
+      "attempt": 15,
+      "timestamp": "2026-11-12T21:08:10.424487+00:00",
+      "final_url": "https://futbol11.com/futbol11-link",
+      "status": 200,
+      "content_type": "text/html;charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 24182,
+      "truncated": false,
+      "body_sha256": "97d96cd67fe428d19caafa9a75dced8d2414abd331633a1201c8d542f7c0aca0",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "9731",
+      "domain": "futbol11.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://futbol11.com/futbol11-wordle",
+      "depth": 1,
+      "parent_url": "https://futbol11.com/",
+      "attempt": 16,
+      "timestamp": "2026-11-12T21:08:10.827162+00:00",
+      "final_url": "https://futbol11.com/futbol11-wordle",
+      "status": 200,
+      "content_type": "text/html;charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 25672,
+      "truncated": false,
+      "body_sha256": "a21914269bb457b1c70e3caed345b7727c13b753506ad62adb20803bb4332938",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "9731",
+      "domain": "futbol11.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://futbol11.com/futbol11",
+      "depth": 1,
+      "parent_url": "https://futbol11.com/",
+      "attempt": 17,
+      "timestamp": "2026-11-12T21:08:11.292958+00:00",
+      "final_url": "https://futbol11.com/futbol11",
+      "status": 200,
+      "content_type": "text/html;charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 27176,
+      "truncated": false,
+      "body_sha256": "8a3b1d8cf2a4b54c88ebec424383d34757f5da9858013165b8a705ecdeaeac1e",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "9731",
+      "domain": "futbol11.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://futbol11.com/guess-the-footballer",
+      "depth": 1,
+      "parent_url": "https://futbol11.com/",
+      "attempt": 18,
+      "timestamp": "2026-11-12T21:08:11.722684+00:00",
+      "final_url": "https://futbol11.com/guess-the-footballer",
+      "status": 200,
+      "content_type": "text/html;charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 36551,
+      "truncated": false,
+      "body_sha256": "3d8e05910786a490efa58969ce4352b62df3e1d747ddbc6a84d32c7497a34874",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Guess the Footballer - Daily Football Guess Who | Futbol11",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "9731",
+      "domain": "futbol11.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://futbol11.com/futbol11-legends",
+      "depth": 1,
+      "parent_url": "https://futbol11.com/",
+      "attempt": 19,
+      "timestamp": "2026-11-12T21:08:12.275215+00:00",
+      "final_url": "https://futbol11.com/futbol11-legends",
+      "status": 200,
+      "content_type": "text/html;charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 27360,
+      "truncated": false,
+      "body_sha256": "62db8c32b1ae1aae9cef84b5e1c8a412998b3cf7f52b48a8700790d87140948d",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "9731",
+      "domain": "futbol11.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://futbol11.com/futbol11-america",
+      "depth": 1,
+      "parent_url": "https://futbol11.com/",
+      "attempt": 20,
+      "timestamp": "2026-11-12T21:08:12.769756+00:00",
+      "final_url": "https://futbol11.com/futbol11-america",
+      "status": 200,
+      "content_type": "text/html;charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 27132,
+      "truncated": false,
+      "body_sha256": "491c66fdb2d132824d0c1d8fa323328d626d2cb648391f31f37ed53daf13de45",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "9731",
+      "domain": "futbol11.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://futbol11.com/privacy-policy",
+      "depth": 1,
+      "parent_url": "https://futbol11.com/",
+      "attempt": 21,
+      "timestamp": "2026-11-12T21:08:13.303519+00:00",
+      "final_url": "https://futbol11.com/privacy-policy",
+      "status": 200,
+      "content_type": "text/html;charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 25799,
+      "truncated": false,
+      "body_sha256": "46cc623c2fe5df92d0d2215273456d40ff339fdfa88015d630ca8a0e9fc40c74",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Privacy Policy | Futbol11",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "9731",
+      "domain": "futbol11.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://futbol11.com/settings",
+      "depth": 1,
+      "parent_url": "https://futbol11.com/",
+      "attempt": 22,
+      "timestamp": "2026-11-12T21:08:13.825927+00:00",
+      "final_url": "https://futbol11.com/settings",
+      "status": 200,
+      "content_type": "text/html;charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 19550,
+      "truncated": false,
+      "body_sha256": "eecd86ea2785ccc0868c80a3849a8b67b11bc04dad7e68e4f42ef27c594295e9",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Futbol11 Settings",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "9731",
+      "domain": "futbol11.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://futbol11.com/viewstats",
+      "depth": 1,
+      "parent_url": "https://futbol11.com/",
+      "attempt": 23,
+      "timestamp": "2026-11-12T21:08:14.246125+00:00",
+      "final_url": "https://futbol11.com/viewstats",
+      "status": 200,
+      "content_type": "text/html;charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 26876,
+      "truncated": false,
+      "body_sha256": "d8e8ac5684f44fa8238dc7a80d92d1eff2ad6094c4f8bab563ed38a7dec544b5",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Transfer Stats",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "9731",
+      "domain": "futbol11.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://futbol11.com/cdn-cgi/l/email-protection",
+      "depth": 1,
+      "parent_url": "https://futbol11.com/",
+      "attempt": 24,
+      "timestamp": "2026-11-12T21:08:14.871392+00:00",
+      "final_url": "https://futbol11.com/cdn-cgi/l/email-protection",
+      "status": 404,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 4738,
+      "truncated": false,
+      "body_sha256": "0454f68fe6c9f77e97ac486e8035244fde1d3a9b6cda87bd2783b37ee2379b21",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    }
+  ],
+  "robots": [
+    {
+      "url": "https://futbol11.com/robots.txt",
+      "timestamp": "2026-11-12T21:08:02.563836+00:00",
+      "status": 200,
+      "decision": "parsed",
+      "body_sha256": "95894cc1c7f5c6ae282aecd3d8ce56ccbd78abe86d86a33ce9ec04f7c6ecf5a8",
+      "body": "# As a condition of accessing this website, you agree to abide by the following\n# content signals:\n\n# (a)  If a Content-Signal = yes, you may collect content for the corresponding\n#      use.\n# (b)  If a Content-Signal = no, you may not collect content for the\n#      corresponding use.\n# (c)  If the website operator does not include a Content-Signal for a\n#      corresponding use, the website operator neither grants nor restricts\n#      permission via Content-Signal with respect to the corresponding use.\n\n# The content signals and their meanings are:\n\n# search:   building a search index and providing search results (e.g., returning\n#           hyperlinks and short excerpts from your website's contents). Search does not\n#           include providing AI-generated search summaries.\n# ai-input: inputting content into one or more AI models (e.g., retrieval\n#           augmented generation, grounding, or other real-time taking of content for\n#           generative AI search answers).\n# ai-train: training or fine-tuning AI models.\n# use:      how AI systems may consume the content (immediate, reference, or full).\n\n# ANY RESTRICTIONS EXPRESSED VIA CONTENT SIGNALS ARE EXPRESS RESERVATIONS OF\n# RIGHTS UNDER ARTICLE 4 OF THE EUROPEAN UNION DIRECTIVE 2019/790 ON COPYRIGHT\n# AND RELATED RIGHTS IN THE DIGITAL SINGLE MARKET.\n\n# BEGIN Cloudflare Managed content\n\n\nUser-agent: *\nContent-Signal: search=yes,ai-train=no,use=reference\nAllow: /\n\n# Training crawlers\nUser-agent: Amazonbot\nDisallow: /\n\nUser-agent: Applebot-Extended\nDisallow: /\n\nUser-agent: Bytespider\nDisallow: /\n\nUser-agent: CCBot\nDisallow: /\n\nUser-agent: ClaudeBot\nDisallow: /\n\nUser-agent: Diffbot\nDisallow: /\n\nUser-agent: Google-Extended\nDisallow: /\n\nUser-agent: GPTBot\nDisallow: /\n\nUser-agent: omgili\nDisallow: /\n\nUser-agent: anthropic-ai\nDisallow: /\n\nUser-agent: Claude-Web\nDisallow: /\n\nUser-agent: cohere-ai\nDisallow: /\n\nUser-agent: MistralAI-Training\nDisallow: /\n\nUser-agent: meta-externalagent\nDisallow: /\n\nUser-agent: GoogleOther\nDisallow: /\n\nUser-agent: Baiduspider\nDisallow: /\n\nUser-agent: PetalBot\nDisallow: /\n\nUser-agent: AwarioSmartBot\nUser-agent: AwarioRssBot\nDisallow: /\n\nUser-agent: Google-CloudVertexBot\nDisallow: /\n\nUser-agent: QualifiedBot\nDisallow: /\n\nUser-agent: Cotoyogi\nDisallow: /\n\nUser-agent: ICC-Crawler\nDisallow: /\n\nUser-agent: atlassian-bot\nDisallow: /\n\nUser-agent: FishBot\nDisallow: /\n\nUser-agent: BorderxBot\nDisallow: /\n\nUser-agent: NavuBot\nDisallow: /\n\nUser-agent: SemrushBot-SWA\nDisallow: /\n\nUser-agent: WARDBot\nDisallow: /\n\nUser-agent: magpie-crawler\nDisallow: /\n\nUser-agent: KimiBot\nDisallow: /\n\nUser-agent: CitibotSiteCrawler\nDisallow: /\n\n# END Cloudflare Managed Content\n\nUser-Agent: *\nDisallow:\n"
+    }
+  ],
+  "eligible_pages": 23,
+  "canonical_origin": [
+    "https",
+    "futbol11.com",
+    443
+  ],
+  "stop_reason": "frontier_exhausted",
+  "elapsed_seconds": 12.88
+}

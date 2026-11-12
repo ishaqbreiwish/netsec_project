@@ -1,0 +1,40 @@
+{
+  "site": {
+    "rank": "6782",
+    "domain": "blncvpn4u.cc",
+    "stratum": "1001-10000"
+  },
+  "rows": [
+    {
+      "rank": "6782",
+      "domain": "blncvpn4u.cc",
+      "stratum": "1001-10000",
+      "requested_url": "https://blncvpn4u.cc/",
+      "depth": 0,
+      "parent_url": "",
+      "attempt": 1,
+      "timestamp": "2026-11-12T21:14:11.755040+00:00",
+      "error": "robots_denied",
+      "final_url": "https://blncvpn4u.cc/",
+      "redirect_chain": [],
+      "html": false,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    }
+  ],
+  "robots": [
+    {
+      "url": "https://blncvpn4u.cc/robots.txt",
+      "timestamp": "2026-11-12T21:14:11.757517+00:00",
+      "decision": "conservative_block_error",
+      "error": "[Errno 8] nodename nor servname provided, or not known"
+    }
+  ],
+  "eligible_pages": 0,
+  "canonical_origin": null,
+  "stop_reason": "frontier_exhausted",
+  "elapsed_seconds": 0.0
+}

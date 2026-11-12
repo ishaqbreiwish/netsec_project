@@ -1,0 +1,1421 @@
+{
+  "site": {
+    "rank": "5308",
+    "domain": "michigan.gov",
+    "stratum": "1001-10000"
+  },
+  "rows": [
+    {
+      "rank": "5308",
+      "domain": "michigan.gov",
+      "stratum": "1001-10000",
+      "requested_url": "https://michigan.gov/",
+      "depth": 0,
+      "parent_url": "",
+      "attempt": 1,
+      "timestamp": "2026-11-12T21:13:46.132617+00:00",
+      "final_url": "https://www.michigan.gov/som",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 202668,
+      "truncated": false,
+      "body_sha256": "7f93e1fb59de73a00522eac3aaf1639f72c4c010daaac6d7c23e97b20820913c",
+      "redirect_chain": [
+        {
+          "url": "https://michigan.gov/",
+          "status": 302,
+          "location": "https://michigan.gov/som",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": []
+          }
+        },
+        {
+          "url": "https://michigan.gov/som",
+          "status": 301,
+          "location": "https://www.michigan.gov/som",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": []
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "State of MichiganPlay Outline Filled IconPause Outline Filled Icon",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "5308",
+      "domain": "michigan.gov",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.michigan.gov/som",
+      "depth": 1,
+      "parent_url": "https://www.michigan.gov/som",
+      "attempt": 2,
+      "timestamp": "2026-11-12T21:13:46.931799+00:00",
+      "final_url": "https://www.michigan.gov/som",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 202668,
+      "truncated": false,
+      "body_sha256": "7f93e1fb59de73a00522eac3aaf1639f72c4c010daaac6d7c23e97b20820913c",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "State of MichiganPlay Outline Filled IconPause Outline Filled Icon",
+      "duplicate_final": true,
+      "eligible": false
+    },
+    {
+      "rank": "5308",
+      "domain": "michigan.gov",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.michigan.gov/dtmb/buildings",
+      "depth": 1,
+      "parent_url": "https://www.michigan.gov/som",
+      "attempt": 3,
+      "timestamp": "2026-11-12T21:13:47.174246+00:00",
+      "final_url": "https://www.michigan.gov/dtmb/buildings",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 228773,
+      "truncated": false,
+      "body_sha256": "e42a80765441eb334c300812bfd1d673b46bb147982239ad59afac196ab54cee",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "DTMB - State Facilities",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "5308",
+      "domain": "michigan.gov",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.michigan.gov/cadillacplace/",
+      "depth": 2,
+      "parent_url": "https://www.michigan.gov/dtmb/buildings",
+      "attempt": 4,
+      "timestamp": "2026-11-12T21:13:48.138468+00:00",
+      "final_url": "https://www.michigan.gov/cadillacplace/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 66457,
+      "truncated": false,
+      "body_sha256": "d7be88571fbbec4bd03486404aed60a7cdcbb194fabef3ab3897ed49f1e6639f",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Cadillac Place",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "5308",
+      "domain": "michigan.gov",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.michigan.gov/mcda",
+      "depth": 2,
+      "parent_url": "https://www.michigan.gov/dtmb/buildings",
+      "attempt": 5,
+      "timestamp": "2026-11-12T21:13:48.698759+00:00",
+      "final_url": "https://www.michigan.gov/mcda",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 94389,
+      "truncated": false,
+      "body_sha256": "8fa9d8fa861af1689f6d9b1827d84042fb308342586037159bae67fcb9dbdd99",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Michigan Center for Data and Analytics",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "5308",
+      "domain": "michigan.gov",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.michigan.gov/mdard",
+      "depth": 1,
+      "parent_url": "https://www.michigan.gov/som",
+      "attempt": 6,
+      "timestamp": "2026-11-12T21:13:49.181110+00:00",
+      "final_url": "https://www.michigan.gov/mdard",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 486144,
+      "truncated": false,
+      "body_sha256": "49e547620fca142984b9f2df2e807744804c2167812b1d2d36fbc52ccecf0f53",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "MDARD - Agriculture & Rural Development",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "5308",
+      "domain": "michigan.gov",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.michigan.gov/mpscs",
+      "depth": 2,
+      "parent_url": "https://www.michigan.gov/dtmb/buildings",
+      "attempt": 7,
+      "timestamp": "2026-11-12T21:13:50.363234+00:00",
+      "final_url": "https://www.michigan.gov/mpscs",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 123489,
+      "truncated": false,
+      "body_sha256": "a3cdbe18e437e757528012288ed48b790a324adf1857afe2863dd16614ad51a1",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Michigan's Public Safety Communications System",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "5308",
+      "domain": "michigan.gov",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.michigan.gov/mdcr",
+      "depth": 1,
+      "parent_url": "https://www.michigan.gov/som",
+      "attempt": 8,
+      "timestamp": "2026-11-12T21:13:51.316612+00:00",
+      "final_url": "https://www.michigan.gov/mdcr",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 246787,
+      "truncated": false,
+      "body_sha256": "2d395e47ba2f52d31bc6c0fa1ffa252ae121a375768735f38635d555fbb5dbce",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Michigan Department of Civil Rights",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "5308",
+      "domain": "michigan.gov",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.michigan.gov/oco",
+      "depth": 2,
+      "parent_url": "https://www.michigan.gov/dtmb/buildings",
+      "attempt": 9,
+      "timestamp": "2026-11-12T21:13:54.968048+00:00",
+      "final_url": "https://www.michigan.gov/oca",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 166784,
+      "truncated": false,
+      "body_sha256": "39e50347febaac10fb9a2993e9dd6942eaa8f3ccc5d8c8050080110e12e03bb6",
+      "redirect_chain": [
+        {
+          "url": "https://www.michigan.gov/oco",
+          "status": 301,
+          "location": "https://www.michigan.gov/oca",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": []
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Office of the Child Advocate\u00a0",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "5308",
+      "domain": "michigan.gov",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.michigan.gov/oca",
+      "depth": 3,
+      "parent_url": "https://www.michigan.gov/oca",
+      "attempt": 10,
+      "timestamp": "2026-11-12T21:13:56.204136+00:00",
+      "final_url": "https://www.michigan.gov/oca",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 166784,
+      "truncated": false,
+      "body_sha256": "39e50347febaac10fb9a2993e9dd6942eaa8f3ccc5d8c8050080110e12e03bb6",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Office of the Child Advocate\u00a0",
+      "duplicate_final": true,
+      "eligible": false
+    },
+    {
+      "rank": "5308",
+      "domain": "michigan.gov",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.michigan.gov/mdhhs/adult-child-serv/abuse-neglect/childrens/report-process",
+      "depth": 3,
+      "parent_url": "https://www.michigan.gov/oca",
+      "attempt": 11,
+      "timestamp": "2026-11-12T21:13:56.492649+00:00",
+      "final_url": "https://www.michigan.gov/mdhhs/adult-child-serv/abuse-neglect/childrens/report-process",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 742495,
+      "truncated": false,
+      "body_sha256": "8b020a51dfb94e0054ac8a7b1b54e18aec0ef570bc64fd21172431c54543bb85",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Reporting Process",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "5308",
+      "domain": "michigan.gov",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.michigan.gov/ctf",
+      "depth": 4,
+      "parent_url": "https://www.michigan.gov/mdhhs/adult-child-serv/abuse-neglect/childrens/report-process",
+      "attempt": 12,
+      "timestamp": "2026-11-12T21:14:00.284363+00:00",
+      "final_url": "https://www.michigan.gov/mdhhs/doing-business/commissions-boards/trust-fund",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 732585,
+      "truncated": false,
+      "body_sha256": "0f7d885647cceaddbfc0184b22b6d306cf3b9c3c9312f439b4a31949222fd4d4",
+      "redirect_chain": [
+        {
+          "url": "https://www.michigan.gov/ctf",
+          "status": 301,
+          "location": "https://www.michigan.gov/mdhhs/doing-business/commissions-boards/trust-fund",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": []
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Children Trust Michigan",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "5308",
+      "domain": "michigan.gov",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.michigan.gov/fyit",
+      "depth": 4,
+      "parent_url": "https://www.michigan.gov/mdhhs/adult-child-serv/abuse-neglect/childrens/report-process",
+      "attempt": 13,
+      "timestamp": "2026-11-12T21:14:01.943674+00:00",
+      "final_url": "https://www.michigan.gov/fyit",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 145873,
+      "truncated": false,
+      "body_sha256": "773098ff49b06af84cd6b71408574995a20b96ba4fe67809f93419e2f5b76154",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Foster Youth in Transition",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "5308",
+      "domain": "michigan.gov",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.michigan.gov/leo/boards-comms-councils/mcsc/mentor",
+      "depth": 5,
+      "parent_url": "https://www.michigan.gov/fyit",
+      "attempt": 14,
+      "timestamp": "2026-11-12T21:14:02.512114+00:00",
+      "final_url": "https://www.michigan.gov/leo/boards-comms-councils/mcsc/mentor",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 392075,
+      "truncated": false,
+      "body_sha256": "88025bb718ffb49324ace068a103aa2389052bf720dee9159f59d67adfc39f9a",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "LEO - Mentor Michigan",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "5308",
+      "domain": "michigan.gov",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.michigan.gov/healthymiplan/county-offices",
+      "depth": 3,
+      "parent_url": "https://www.michigan.gov/oca",
+      "attempt": 15,
+      "timestamp": "2026-11-12T21:14:03.903428+00:00",
+      "final_url": "https://www.michigan.gov/healthymiplan/county-offices",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 59042,
+      "truncated": false,
+      "body_sha256": "3834ca060d89cd564378afc99b93c2d9131913f653935fb1a8e13483476032c3",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "County Offices",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "5308",
+      "domain": "michigan.gov",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.michigan.gov/mileadsafe",
+      "depth": 4,
+      "parent_url": "https://www.michigan.gov/mdhhs/adult-child-serv/abuse-neglect/childrens/report-process",
+      "attempt": 16,
+      "timestamp": "2026-11-12T21:14:04.456384+00:00",
+      "final_url": "https://www.michigan.gov/mileadsafe",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 168289,
+      "truncated": false,
+      "body_sha256": "b54e20a69a93bc076b15f3bfa0a6761a3e80a3902ef9e11f003580703e5c0fd7",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Mi Lead SafePlay Outline Filled IconPause Outline Filled Icon",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "5308",
+      "domain": "michigan.gov",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.michigan.gov/egle/about/organization/drinking-water-and-environmental-health/community-water-supply/lead-and-copper-rule/water-supply-lead-results",
+      "depth": 5,
+      "parent_url": "https://www.michigan.gov/mileadsafe",
+      "attempt": 17,
+      "timestamp": "2026-11-12T21:14:04.564528+00:00",
+      "final_url": "https://www.michigan.gov/egle/about/organization/drinking-water-and-environmental-health/community-water-supply/lead-and-copper-rule/water-supply-lead-results",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 368540,
+      "truncated": false,
+      "body_sha256": "c3be5b57fdb1b23a29de1c538033493271e524d9e79b6473f6ca15cc05ba950a",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Water supply lead results",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "5308",
+      "domain": "michigan.gov",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.michigan.gov/flintwater/Sampling",
+      "depth": 5,
+      "parent_url": "https://www.michigan.gov/mileadsafe",
+      "attempt": 18,
+      "timestamp": "2026-11-12T21:14:06.415173+00:00",
+      "final_url": "https://www.michigan.gov/flintwater/Sampling",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 176535,
+      "truncated": false,
+      "body_sha256": "cf8ba091b487335b9f99f06dd549dc31a13091f61771a3b0956fd3a92b0a8562",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Sampling results",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "5308",
+      "domain": "michigan.gov",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.michigan.gov/dnr",
+      "depth": 1,
+      "parent_url": "https://www.michigan.gov/som",
+      "attempt": 19,
+      "timestamp": "2026-11-12T21:14:07.456656+00:00",
+      "final_url": "https://www.michigan.gov/dnr",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 577109,
+      "truncated": false,
+      "body_sha256": "b3b85147902e2515c537740b8e424bbf073bee1b74f81dbadd6385de195ad758",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Department of Natural ResourcesPlay Outline Filled IconPause Outline Filled Icon",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "5308",
+      "domain": "michigan.gov",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.michigan.gov/ors/",
+      "depth": 2,
+      "parent_url": "https://www.michigan.gov/dtmb/buildings",
+      "attempt": 20,
+      "timestamp": "2026-11-12T21:14:09.018484+00:00",
+      "final_url": "https://www.michigan.gov/ors/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 131977,
+      "truncated": false,
+      "body_sha256": "7d57f5cf0b79a50e924a88c4c9689b811e2b32f7e31aa879c722c9632387bc3a",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Office of Retirement Services",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "5308",
+      "domain": "michigan.gov",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.michigan.gov/orsschools",
+      "depth": 3,
+      "parent_url": "https://www.michigan.gov/ors/",
+      "attempt": 21,
+      "timestamp": "2026-11-12T21:14:09.697581+00:00",
+      "final_url": "https://www.michigan.gov/orsschools",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 298211,
+      "truncated": false,
+      "body_sha256": "4b7beaebff32da4baab9428dcf440a685bdba69bb2a28e40988f07896daae701",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Michigan Public School Employees' Retirement System",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "5308",
+      "domain": "michigan.gov",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.michigan.gov/taxes/iit/tax-guidance/tax-situations/retirement-and-pension-benefits",
+      "depth": 4,
+      "parent_url": "https://www.michigan.gov/orsschools",
+      "attempt": 22,
+      "timestamp": "2026-11-12T21:14:10.699370+00:00",
+      "final_url": "https://www.michigan.gov/taxes/iit/tax-guidance/tax-situations/retirement-and-pension-benefits",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 383015,
+      "truncated": false,
+      "body_sha256": "dc96806c7faa1d7aedc82d46651d3a35264899edecb7c1aad04336dabf902434",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Retirement and Pension Benefits",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "5308",
+      "domain": "michigan.gov",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.michigan.gov/treasury/reference",
+      "depth": 5,
+      "parent_url": "https://www.michigan.gov/taxes/iit/tax-guidance/tax-situations/retirement-and-pension-benefits",
+      "attempt": 23,
+      "timestamp": "2026-11-12T21:14:11.353135+00:00",
+      "final_url": "https://www.michigan.gov/treasury/reference",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 255198,
+      "truncated": false,
+      "body_sha256": "dd8b474a7d05ededf7e98a4e115a8e61d276d8eb7b70a88c19c1a7453b6e8571",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Reports & Legal Resources",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "5308",
+      "domain": "michigan.gov",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.michigan.gov/orsstatedb",
+      "depth": 3,
+      "parent_url": "https://www.michigan.gov/ors/",
+      "attempt": 24,
+      "timestamp": "2026-11-12T21:14:12.767192+00:00",
+      "final_url": "https://www.michigan.gov/orsstatedb",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 278823,
+      "truncated": false,
+      "body_sha256": "1b7500c25b2c6c9febc75b3a4861b7509b69255974388403e74bedd698d7acb4",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "ORS State Employees' Retirement System - Defined Benefit",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "5308",
+      "domain": "michigan.gov",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.michigan.gov/treasurycareers",
+      "depth": 5,
+      "parent_url": "https://www.michigan.gov/taxes/iit/tax-guidance/tax-situations/retirement-and-pension-benefits",
+      "attempt": 25,
+      "timestamp": "2026-11-12T21:14:14.489405+00:00",
+      "final_url": "https://www.michigan.gov/treasurycareers",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 87415,
+      "truncated": false,
+      "body_sha256": "e24a87e0bf2c032b45e409e068f45bcbc46e1cdf8becb1e58ca68f059602067e",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Treasury Careers",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "5308",
+      "domain": "michigan.gov",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.michigan.gov/sos",
+      "depth": 1,
+      "parent_url": "https://www.michigan.gov/som",
+      "attempt": 26,
+      "timestamp": "2026-11-12T21:14:15.358750+00:00",
+      "final_url": "https://www.michigan.gov/sos",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 393383,
+      "truncated": false,
+      "body_sha256": "fa4f1026153f54459d536fa27281f26c23694088010c0843646a940ba89d6e77",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Secretary of State Jocelyn Benson",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "5308",
+      "domain": "michigan.gov",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.michigan.gov/ose",
+      "depth": 2,
+      "parent_url": "https://www.michigan.gov/dtmb/buildings",
+      "attempt": 27,
+      "timestamp": "2026-11-12T21:14:16.451060+00:00",
+      "final_url": "https://www.michigan.gov/ose",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 61862,
+      "truncated": false,
+      "body_sha256": "4b255fe312e4c7a8cfdc174da45daa747b7bbe673b525fa9433fc512571ce371",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Office of the State Employer",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "5308",
+      "domain": "michigan.gov",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.michigan.gov/orsstatedc",
+      "depth": 3,
+      "parent_url": "https://www.michigan.gov/ors/",
+      "attempt": 28,
+      "timestamp": "2026-11-12T21:14:16.984024+00:00",
+      "final_url": "https://www.michigan.gov/orsstatedc",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 173575,
+      "truncated": false,
+      "body_sha256": "830bbf8307a36a332ea426db50cd39cb9c6852994c841c33da16df023db37a0d",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "State Employees' Retirement System - Defined Contribution",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "5308",
+      "domain": "michigan.gov",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.michigan.gov/mgcb",
+      "depth": 5,
+      "parent_url": "https://www.michigan.gov/taxes/iit/tax-guidance/tax-situations/retirement-and-pension-benefits",
+      "attempt": 29,
+      "timestamp": "2026-11-12T21:14:18.461840+00:00",
+      "final_url": "https://www.michigan.gov/mgcb",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 131432,
+      "truncated": false,
+      "body_sha256": "74d228ddb67497af777ba4b135dc8ab5e92a31e6581e20ce6cae87bb5039f836",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Michigan Gaming Control BoardPlay Outline Filled IconPause Outline Filled Icon",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "5308",
+      "domain": "michigan.gov",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.michigan.gov/vote",
+      "depth": 1,
+      "parent_url": "https://www.michigan.gov/som",
+      "attempt": 30,
+      "timestamp": "2026-11-12T21:14:19.485619+00:00",
+      "final_url": "https://www.michigan.gov/vote",
+      "status": 301,
+      "content_type": "",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 0,
+      "truncated": false,
+      "body_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "redirect_chain": [
+        {
+          "url": "https://www.michigan.gov/vote",
+          "status": 301,
+          "location": "https://mvic.sos.state.mi.us/",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": []
+          }
+        }
+      ],
+      "error": "redirect_out_of_scope",
+      "html": false,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "5308",
+      "domain": "michigan.gov",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.michigan.gov/budget",
+      "depth": 2,
+      "parent_url": "https://www.michigan.gov/dtmb/buildings",
+      "attempt": 31,
+      "timestamp": "2026-11-12T21:14:19.549944+00:00",
+      "final_url": "https://www.michigan.gov/budget",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 100885,
+      "truncated": false,
+      "body_sha256": "dfd7a3bf965d03ecec99b4feb66cc4a0a6aa4515d33e7716b11387704ac389cb",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "State Budget Office",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "5308",
+      "domain": "michigan.gov",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.michigan.gov/orsmsp",
+      "depth": 3,
+      "parent_url": "https://www.michigan.gov/ors/",
+      "attempt": 32,
+      "timestamp": "2026-11-12T21:14:21.114799+00:00",
+      "final_url": "https://www.michigan.gov/orsmsp",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 246182,
+      "truncated": false,
+      "body_sha256": "ef248d619b19e61b1343ad88c94ded3fa1251dca9b70d06f808ca219a7385a19",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "ORS State Police Retirement System",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "5308",
+      "domain": "michigan.gov",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.michigan.gov/en/ors/miaccount-message-board",
+      "depth": 4,
+      "parent_url": "https://www.michigan.gov/orsmsp",
+      "attempt": 33,
+      "timestamp": "2026-11-12T21:14:22.712159+00:00",
+      "final_url": "https://www.michigan.gov/en/ors/miaccount-message-board",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 174293,
+      "truncated": false,
+      "body_sha256": "5a03543e199f7168616e674f0b377d611969ed3d679321fbd0034faca89e926e",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "miAccount Message Board",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "5308",
+      "domain": "michigan.gov",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.michigan.gov/msp/divisions/emhsd/2026-statewide-flooding",
+      "depth": 1,
+      "parent_url": "https://www.michigan.gov/som",
+      "attempt": 34,
+      "timestamp": "2026-11-12T21:14:24.367625+00:00",
+      "final_url": "https://www.michigan.gov/msp/divisions/emhsd/2026-statewide-flooding",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 391067,
+      "truncated": false,
+      "body_sha256": "61b69da62ee88f21b3fc670bb226e71c5eeb1b29e40cf4d1f24067651821921d",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "2026 April Severe Storms, Tornadoes, and Flooding",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "5308",
+      "domain": "michigan.gov",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.michigan.gov/statelicensesearch",
+      "depth": 2,
+      "parent_url": "https://www.michigan.gov/mdard",
+      "attempt": 35,
+      "timestamp": "2026-11-12T21:14:26.311768+00:00",
+      "final_url": "https://www.michigan.gov/som/government/state-license-search",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 119720,
+      "truncated": false,
+      "body_sha256": "6f0e22918f98e78919a35e094ff1b347c4e7be385231ab8e9893c3af55f6f238",
+      "redirect_chain": [
+        {
+          "url": "https://www.michigan.gov/statelicensesearch",
+          "status": 301,
+          "location": "https://www.michigan.gov/som/government/state-license-search",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": []
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "State License Search",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "5308",
+      "domain": "michigan.gov",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.michigan.gov/orsjudgesdb",
+      "depth": 3,
+      "parent_url": "https://www.michigan.gov/ors/",
+      "attempt": 36,
+      "timestamp": "2026-11-12T21:14:27.607888+00:00",
+      "final_url": "https://www.michigan.gov/orsjudgesdb",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 144898,
+      "truncated": false,
+      "body_sha256": "f0a8c119068a24fe556f38c7fe0aaf32959df929e75c0d398dd9cc7660dd061a",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "ORS Judges' Retirement System - Defined Benefit",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "5308",
+      "domain": "michigan.gov",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.michigan.gov/difs/consumers/insurance/health-insurance/medicaid-redetermination",
+      "depth": 1,
+      "parent_url": "https://www.michigan.gov/som",
+      "attempt": 37,
+      "timestamp": "2026-11-12T21:14:29.078798+00:00",
+      "final_url": "https://www.michigan.gov/difs/consumers/insurance/health-insurance/medicaid-redetermination",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 221397,
+      "truncated": false,
+      "body_sha256": "ee0a36d64c96dbf44f8edb83d3efbc388263972f8906b1eb2bfddf905e5fc716",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Medicaid Redetermination",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "5308",
+      "domain": "michigan.gov",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.michigan.gov/disabilityresources/ada-complaint-procedure",
+      "depth": 2,
+      "parent_url": "https://www.michigan.gov/mdcr",
+      "attempt": 38,
+      "timestamp": "2026-11-12T21:14:30.004814+00:00",
+      "final_url": "https://www.michigan.gov/disabilityresources/ada-complaint-procedure",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 86562,
+      "truncated": false,
+      "body_sha256": "4792b68fea7ed0e1168926af224180666363ba23cb2cba97084ca2e5cb93b801",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "ADA Complaint Procedure",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "5308",
+      "domain": "michigan.gov",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.michigan.gov/orsjudgesdc",
+      "depth": 3,
+      "parent_url": "https://www.michigan.gov/ors/",
+      "attempt": 39,
+      "timestamp": "2026-11-12T21:14:30.765140+00:00",
+      "final_url": "https://www.michigan.gov/orsjudgesdc",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 79778,
+      "truncated": false,
+      "body_sha256": "e2cc1f75346032603d14ed3ec26dc852d8be2933cc46e0627d13f7fa4543664e",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "ORS Judges' Retirement System - Defined Contribution",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "5308",
+      "domain": "michigan.gov",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.michigan.gov/uia",
+      "depth": 1,
+      "parent_url": "https://www.michigan.gov/som",
+      "attempt": 40,
+      "timestamp": "2026-11-12T21:14:31.667614+00:00",
+      "final_url": "https://www.michigan.gov/leo/bureaus-agencies/uia",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 452731,
+      "truncated": false,
+      "body_sha256": "55e2bc5686a803287f61cbe399d8c006f4400e116ed393847fcb38b83f477345",
+      "redirect_chain": [
+        {
+          "url": "https://www.michigan.gov/uia",
+          "status": 301,
+          "location": "https://www.michigan.gov/leo/bureaus-agencies/uia",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": []
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "LEO - Unemployment Insurance AgencyPlay Outline Filled IconPlay Outline Filled Icon",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "5308",
+      "domain": "michigan.gov",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.michigan.gov/mistudentaid/programs/indian-tuition-waiver",
+      "depth": 2,
+      "parent_url": "https://www.michigan.gov/mdcr",
+      "attempt": 41,
+      "timestamp": "2026-11-12T21:14:32.216286+00:00",
+      "final_url": "https://www.michigan.gov/mistudentaid/programs/indian-tuition-waiver",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 204239,
+      "truncated": false,
+      "body_sha256": "4f763fc28def7b3d90d12ec2865badd2e99eff52a90151ebb5f488a2fefcc616",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Michigan Indian Tuition Waiver",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "5308",
+      "domain": "michigan.gov",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.michigan.gov/orsmilitary",
+      "depth": 3,
+      "parent_url": "https://www.michigan.gov/ors/",
+      "attempt": 42,
+      "timestamp": "2026-11-12T21:14:33.893827+00:00",
+      "final_url": "https://www.michigan.gov/orsmilitary",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 102766,
+      "truncated": false,
+      "body_sha256": "a922e765f26cc8e9a61340b94b3438791bdc47fb7d1ba09b1484b5e2e6938fab",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "ORS Military Retirement Provisions",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "5308",
+      "domain": "michigan.gov",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.michigan.gov/stateparks",
+      "depth": 1,
+      "parent_url": "https://www.michigan.gov/som",
+      "attempt": 43,
+      "timestamp": "2026-11-12T21:14:34.790777+00:00",
+      "final_url": "https://www.michigan.gov/dnr/places/state-parks",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 568761,
+      "truncated": false,
+      "body_sha256": "4311051dadf96334048c6ccf7f53f705b611b23744955145893afc404ebe105d",
+      "redirect_chain": [
+        {
+          "url": "https://www.michigan.gov/stateparks",
+          "status": 301,
+          "location": "https://www.michigan.gov/dnr/places/state-parks",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": []
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Michigan state parks",
+      "duplicate_final": false,
+      "eligible": true
+    }
+  ],
+  "robots": [
+    {
+      "url": "https://michigan.gov/robots.txt",
+      "timestamp": "2026-11-12T21:13:45.112235+00:00",
+      "status": 200,
+      "decision": "parsed",
+      "final_url": "https://www.michigan.gov/robots.txt",
+      "redirect_chain": [
+        {
+          "url": "https://michigan.gov/robots.txt",
+          "status": 301,
+          "location": "https://www.michigan.gov/robots.txt"
+        }
+      ],
+      "body_sha256": "d17a16fd82e8e73c9abb1ca6d916e33b53805c5ffd73c919bbc226a23a4f8c13",
+      "body": "User-agent: *\r\nDisallow: /rss/\r\nDisallow: /podcast/\r\nDisallow: /emichigan/\r\nDisallow: /minewswire/\r\n\r\nUser-agent: VSE\r\nDisallow: /rss/\r\nAllow: /emichigan\r\nDisallow: /podcast/\r\n\r\nUser-agent: 008\r\nDisallow: /\r\n\r\nUser-agent: Slurp \r\nDisallow: /rss/\r\nDisallow: /podcast/\r\nDisallow: /emichigan/\r\nDisallow: /minewswire/\r\n\r\nUser-agent: msnbot\r\nDisallow: /rss/\r\nDisallow: /podcast/\r\nDisallow: /emichigan/\r\nDisallow: /minewswire/\r\n\r\nUser-agent: bingbot\r\nDisallow: /rss/\r\nDisallow: /podcast/\r\nDisallow: /emichigan/\r\nDisallow: /minewswire/\r\n\r\nUser-agent: kalooga \r\nDisallow: /\r\n\r\nUser-agent: Blekkobot\r\nDisallow: /\r\n\r\nUser-agent: Googlebot\r\nDisallow: /rss/\r\nDisallow: /podcast/\r\nDisallow: /emichigan/\r\nDisallow: /minewswire/\r\n\r\nUser-agent: PaperLiBot\r\nDisallow: /\r\n\r\nUser-agent: ChangeDetection\r\nDisallow: /\r\n\r\nUser-agent: discobot\r\nUser-agent: Yandex\r\nDisallow: /\r\n\r\nSitemap: https://__CdUrl__/sitemap.xml\r\nSitemap: https://www.michigan.gov/sitemap.xml\r\nSitemap: https://www.michigan.gov/ag/sitemap.xml\r\nSitemap: https://www.michigan.gov/cg/sitemap.xml\r\nSitemap: https://www.michigan.gov/som/sitemap.xml\r\nSitemap: https://www.michigan.gov/leo/sitemap.xml\r\nSitemap: https://www.michigan.gov/msl/sitemap.xml\r\nSitemap: https://www.michigan.gov/dnr/sitemap.xml\r\nSitemap: https://www.michigan.gov/flu/sitemap.xml\r\nSitemap: https://www.michigan.gov/mde/sitemap.xml\r\nSitemap: https://www.michigan.gov/oac/sitemap.xml\r\nSitemap: https://www.michigan.gov/ose/sitemap.xml\r\nSitemap: https://www.michigan.gov/sos/sitemap.xml\r\nSitemap: https://www.michigan.gov/mhc/sitemap.xml\r\nSitemap: https://www.michigan.gov/mic/sitemap.xml\r\nSitemap: https://www.michigan.gov/msp/sitemap.xml\r\nSitemap: https://www.michigan.gov/mvh/sitemap.xml\r\nSitemap: https://www.michigan.gov/mwc/sitemap.xml\r\nSitemap: https://www.michigan.gov/oca/sitemap.xml\r\nSitemap: https://www.michigan.gov/ogm/sitemap.xml\r\nSitemap: https://www.michigan.gov/ors/sitemap.xml\r\nSitemap: https://www.michigan.gov/msi/sitemap.xml\r\nSitemap: https://www.michigan.gov/cra/sitemap.xml\r\nSitemap: https://www.michigan.gov/dtmb/sitemap.xml\r\nSitemap: https://www.michigan.gov/difs/sitemap.xml\r\nSitemap: https://www.michigan.gov/dmva/sitemap.xml\r\nSitemap: https://www.michigan.gov/egle/sitemap.xml\r\nSitemap: https://www.michigan.gov/cepi/sitemap.xml\r\nSitemap: https://www.michigan.gov/fyit/sitemap.xml\r\nSitemap: https://www.michigan.gov/lara/sitemap.xml\r\nSitemap: https://www.michigan.gov/mihp/sitemap.xml\r\nSitemap: https://www.michigan.gov/mdcr/sitemap.xml\r\nSitemap: https://www.michigan.gov/mdot/sitemap.xml\r\nSitemap: https://www.michigan.gov/mgcb/sitemap.xml\r\nSitemap: https://www.michigan.gov/psru/sitemap.xml\r\nSitemap: https://www.michigan.gov/mdcs/sitemap.xml\r\nSitemap: https://www.michigan.gov/myca/sitemap.xml\r\nSitemap: https://www.michigan.gov/mpsc/sitemap.xml\r\nSitemap: https://www.michigan.gov/mvaa/sitemap.xml\r\nSitemap: https://www.michigan.gov/mhtc/sitemap.xml\r\nSitemap: https://www.michigan.gov/mcda/sitemap.xml\r\nSitemap: https://www.michigan.gov/psab/sitemap.xml\r\nSitemap: https://www.michigan.gov/mdard/sitemap.xml\r\nSitemap: https://www.michigan.gov/mcteh/sitemap.xml\r\nSitemap: https://www.michigan.gov/mdhhs/sitemap.xml\r\nSitemap: https://www.michigan.gov/taxes/sitemap.xml\r\nSitemap: https://www.michigan.gov/mleom/sitemap.xml\r\nSitemap: https://www.michigan.gov/mpscs/sitemap.xml\r\nSitemap: https://www.michigan.gov/mshda/sitemap.xml\r\nSitemap: https://www.michigan.gov/orshr/sitemap.xml\r\nSitemap: https://www.michigan.gov/micrc/sitemap.xml\r\nSitemap: https://www.michigan.gov/autism/sitemap.xml\r\nSitemap: https://www.michigan.gov/orsmsp/sitemap.xml\r\nSitemap: https://www.michigan.gov/budget/sitemap.xml\r\nSitemap: https://www.michigan.gov/ok2say/sitemap.xml\r\nSitemap: https://www.michigan.gov/search/sitemap.xml\r\nSitemap: https://www.michigan.gov/mileap/sitemap.xml\r\nSitemap: https://www.michigan.gov/miable/sitemap.xml\r\nSitemap: https://www.michigan.gov/mcoles/sitemap.xml\r\nSitemap: https://www.michigan.gov/whitmer/sitemap.xml\r\nSitemap: https://www.michigan.gov/csnfund/sitemap.xml\r\nSitemap: https://www.michigan.gov/voices4/sitemap.xml\r\nSitemap: https://www.michigan.gov/taxtrib/sitemap.xml\r\nSitemap: https://www.michigan.gov/miready/sitemap.xml\r\nSitemap: https://www.michigan.gov/opioids/sitemap.xml\r\nSitemap: https://www.michigan.gov/mspjobs/sitemap.xml\r\nSitemap: https://www.michigan.gov/elicense/sitemap.xml\r\nSitemap: https://www.michigan.gov/treasury/sitemap.xml\r\nSitemap: https://www.michigan.gov/mitrades/sitemap.xml\r\nSitemap: https://www.michigan.gov/invasives/sitemap.xml\r\nSitemap: https://www.michigan.gov/looktwice/sitemap.xml\r\nSitemap: https://www.michigan.gov/reconnect/sitemap.xml\r\nSitemap: https://www.michigan.gov/recsearch/sitemap.xml\r\nSitemap: https://www.michigan.gov/flintwater/sitemap.xml\r\nSitemap: https://www.michigan.gov/orsschools/sitemap.xml\r\nSitemap: https://www.michigan.gov/orsstatedb/sitemap.xml\r\nSitemap: https://www.michigan.gov/orsstatedc/sitemap.xml\r\nSitemap: https://www.michigan.gov/setwithmet/sitemap.xml\r\nSitemap: https://www.michigan.gov/mileadsafe/sitemap.xml\r\nSitemap: https://www.michigan.gov/corrections/sitemap.xml\r\nSitemap: https://www.michigan.gov/helpinghand/sitemap.xml\r\nSitemap: https://www.michigan.gov/orsjudgesdb/sitemap.xml\r\nSitemap: https://www.michigan.gov/orsjudgesdc/sitemap.xml\r\nSitemap: https://www.michigan.gov/orsmilitary/sitemap.xml\r\nSitemap: https://www.michigan.gov/mspnewsroom/sitemap.xml\r\nSitemap: https://www.michigan.gov/agingdriver/sitemap.xml\r\nSitemap: https://www.michigan.gov/mistudentaid/sitemap.xml\r\nSitemap: https://www.michigan.gov/mikidsmatter/sitemap.xml\r\nSitemap: https://www.michigan.gov/pfasresponse/sitemap.xml\r\nSitemap: https://www.michigan.gov/homevisiting/sitemap.xml\r\nSitemap: https://www.michigan.gov/studentloans/sitemap.xml\r\nSitemap: https://www.michigan.gov/cadillacplace/sitemap.xml\r\nSitemap: https://www.michigan.gov/healthymiplan/sitemap.xml\r\nSitemap: https://www.michigan.gov/autoinsurance/sitemap.xml\r\nSitemap: https://www.michigan.gov/skitheporkies/sitemap.xml\r\nSitemap: https://www.michigan.gov/mimoneymatters/sitemap.xml\r\nSitemap: https://www.michigan.gov/financialfuture/sitemap.xml\r\nSitemap: https://www.michigan.gov/formergovernors/sitemap.xml\r\nSitemap: https://www.michigan.gov/treasurycareers/sitemap.xml\r\nSitemap: https://www.michigan.gov/mitreasurystory/sitemap.xml\r\nSitemap: https://www.michigan.gov/emergingdiseases/sitemap.xml\r\nSitemap: https://www.michigan.gov/michiganprepares/sitemap.xml\r\nSitemap: https://www.michigan.gov/opportunityzones/sitemap.xml\r\nSitemap: https://www.michigan.gov/explorelabscience/sitemap.xml\r\nSitemap: https://www.michigan.gov/libraryofmichigan/sitemap.xml\r\nSitemap: https://www.michigan.gov/reinventretirement/sitemap.xml\r\nSitemap: https://www.michigan.gov/consumerprotection/sitemap.xml\r\nSitemap: https://www.michigan.gov/archivesofmichigan/sitemap.xml\r\nSitemap: https://www.michigan.gov/disabilityresources/sitemap.xml\r\nSitemap: https://www.michigan.gov/campussexualassault/sitemap.xml"
+    },
+    {
+      "url": "https://www.michigan.gov/robots.txt",
+      "timestamp": "2026-11-12T21:13:46.132573+00:00",
+      "status": 200,
+      "decision": "parsed",
+      "final_url": "https://www.michigan.gov/robots.txt",
+      "redirect_chain": [],
+      "body_sha256": "d17a16fd82e8e73c9abb1ca6d916e33b53805c5ffd73c919bbc226a23a4f8c13",
+      "body": "User-agent: *\r\nDisallow: /rss/\r\nDisallow: /podcast/\r\nDisallow: /emichigan/\r\nDisallow: /minewswire/\r\n\r\nUser-agent: VSE\r\nDisallow: /rss/\r\nAllow: /emichigan\r\nDisallow: /podcast/\r\n\r\nUser-agent: 008\r\nDisallow: /\r\n\r\nUser-agent: Slurp \r\nDisallow: /rss/\r\nDisallow: /podcast/\r\nDisallow: /emichigan/\r\nDisallow: /minewswire/\r\n\r\nUser-agent: msnbot\r\nDisallow: /rss/\r\nDisallow: /podcast/\r\nDisallow: /emichigan/\r\nDisallow: /minewswire/\r\n\r\nUser-agent: bingbot\r\nDisallow: /rss/\r\nDisallow: /podcast/\r\nDisallow: /emichigan/\r\nDisallow: /minewswire/\r\n\r\nUser-agent: kalooga \r\nDisallow: /\r\n\r\nUser-agent: Blekkobot\r\nDisallow: /\r\n\r\nUser-agent: Googlebot\r\nDisallow: /rss/\r\nDisallow: /podcast/\r\nDisallow: /emichigan/\r\nDisallow: /minewswire/\r\n\r\nUser-agent: PaperLiBot\r\nDisallow: /\r\n\r\nUser-agent: ChangeDetection\r\nDisallow: /\r\n\r\nUser-agent: discobot\r\nUser-agent: Yandex\r\nDisallow: /\r\n\r\nSitemap: https://__CdUrl__/sitemap.xml\r\nSitemap: https://www.michigan.gov/sitemap.xml\r\nSitemap: https://www.michigan.gov/ag/sitemap.xml\r\nSitemap: https://www.michigan.gov/cg/sitemap.xml\r\nSitemap: https://www.michigan.gov/som/sitemap.xml\r\nSitemap: https://www.michigan.gov/leo/sitemap.xml\r\nSitemap: https://www.michigan.gov/msl/sitemap.xml\r\nSitemap: https://www.michigan.gov/dnr/sitemap.xml\r\nSitemap: https://www.michigan.gov/flu/sitemap.xml\r\nSitemap: https://www.michigan.gov/mde/sitemap.xml\r\nSitemap: https://www.michigan.gov/oac/sitemap.xml\r\nSitemap: https://www.michigan.gov/ose/sitemap.xml\r\nSitemap: https://www.michigan.gov/sos/sitemap.xml\r\nSitemap: https://www.michigan.gov/mhc/sitemap.xml\r\nSitemap: https://www.michigan.gov/mic/sitemap.xml\r\nSitemap: https://www.michigan.gov/msp/sitemap.xml\r\nSitemap: https://www.michigan.gov/mvh/sitemap.xml\r\nSitemap: https://www.michigan.gov/mwc/sitemap.xml\r\nSitemap: https://www.michigan.gov/oca/sitemap.xml\r\nSitemap: https://www.michigan.gov/ogm/sitemap.xml\r\nSitemap: https://www.michigan.gov/ors/sitemap.xml\r\nSitemap: https://www.michigan.gov/msi/sitemap.xml\r\nSitemap: https://www.michigan.gov/cra/sitemap.xml\r\nSitemap: https://www.michigan.gov/dtmb/sitemap.xml\r\nSitemap: https://www.michigan.gov/difs/sitemap.xml\r\nSitemap: https://www.michigan.gov/dmva/sitemap.xml\r\nSitemap: https://www.michigan.gov/egle/sitemap.xml\r\nSitemap: https://www.michigan.gov/cepi/sitemap.xml\r\nSitemap: https://www.michigan.gov/fyit/sitemap.xml\r\nSitemap: https://www.michigan.gov/lara/sitemap.xml\r\nSitemap: https://www.michigan.gov/mihp/sitemap.xml\r\nSitemap: https://www.michigan.gov/mdcr/sitemap.xml\r\nSitemap: https://www.michigan.gov/mdot/sitemap.xml\r\nSitemap: https://www.michigan.gov/mgcb/sitemap.xml\r\nSitemap: https://www.michigan.gov/psru/sitemap.xml\r\nSitemap: https://www.michigan.gov/mdcs/sitemap.xml\r\nSitemap: https://www.michigan.gov/myca/sitemap.xml\r\nSitemap: https://www.michigan.gov/mpsc/sitemap.xml\r\nSitemap: https://www.michigan.gov/mvaa/sitemap.xml\r\nSitemap: https://www.michigan.gov/mhtc/sitemap.xml\r\nSitemap: https://www.michigan.gov/mcda/sitemap.xml\r\nSitemap: https://www.michigan.gov/psab/sitemap.xml\r\nSitemap: https://www.michigan.gov/mdard/sitemap.xml\r\nSitemap: https://www.michigan.gov/mcteh/sitemap.xml\r\nSitemap: https://www.michigan.gov/mdhhs/sitemap.xml\r\nSitemap: https://www.michigan.gov/taxes/sitemap.xml\r\nSitemap: https://www.michigan.gov/mleom/sitemap.xml\r\nSitemap: https://www.michigan.gov/mpscs/sitemap.xml\r\nSitemap: https://www.michigan.gov/mshda/sitemap.xml\r\nSitemap: https://www.michigan.gov/orshr/sitemap.xml\r\nSitemap: https://www.michigan.gov/micrc/sitemap.xml\r\nSitemap: https://www.michigan.gov/autism/sitemap.xml\r\nSitemap: https://www.michigan.gov/orsmsp/sitemap.xml\r\nSitemap: https://www.michigan.gov/budget/sitemap.xml\r\nSitemap: https://www.michigan.gov/ok2say/sitemap.xml\r\nSitemap: https://www.michigan.gov/search/sitemap.xml\r\nSitemap: https://www.michigan.gov/mileap/sitemap.xml\r\nSitemap: https://www.michigan.gov/miable/sitemap.xml\r\nSitemap: https://www.michigan.gov/mcoles/sitemap.xml\r\nSitemap: https://www.michigan.gov/whitmer/sitemap.xml\r\nSitemap: https://www.michigan.gov/csnfund/sitemap.xml\r\nSitemap: https://www.michigan.gov/voices4/sitemap.xml\r\nSitemap: https://www.michigan.gov/taxtrib/sitemap.xml\r\nSitemap: https://www.michigan.gov/miready/sitemap.xml\r\nSitemap: https://www.michigan.gov/opioids/sitemap.xml\r\nSitemap: https://www.michigan.gov/mspjobs/sitemap.xml\r\nSitemap: https://www.michigan.gov/elicense/sitemap.xml\r\nSitemap: https://www.michigan.gov/treasury/sitemap.xml\r\nSitemap: https://www.michigan.gov/mitrades/sitemap.xml\r\nSitemap: https://www.michigan.gov/invasives/sitemap.xml\r\nSitemap: https://www.michigan.gov/looktwice/sitemap.xml\r\nSitemap: https://www.michigan.gov/reconnect/sitemap.xml\r\nSitemap: https://www.michigan.gov/recsearch/sitemap.xml\r\nSitemap: https://www.michigan.gov/flintwater/sitemap.xml\r\nSitemap: https://www.michigan.gov/orsschools/sitemap.xml\r\nSitemap: https://www.michigan.gov/orsstatedb/sitemap.xml\r\nSitemap: https://www.michigan.gov/orsstatedc/sitemap.xml\r\nSitemap: https://www.michigan.gov/setwithmet/sitemap.xml\r\nSitemap: https://www.michigan.gov/mileadsafe/sitemap.xml\r\nSitemap: https://www.michigan.gov/corrections/sitemap.xml\r\nSitemap: https://www.michigan.gov/helpinghand/sitemap.xml\r\nSitemap: https://www.michigan.gov/orsjudgesdb/sitemap.xml\r\nSitemap: https://www.michigan.gov/orsjudgesdc/sitemap.xml\r\nSitemap: https://www.michigan.gov/orsmilitary/sitemap.xml\r\nSitemap: https://www.michigan.gov/mspnewsroom/sitemap.xml\r\nSitemap: https://www.michigan.gov/agingdriver/sitemap.xml\r\nSitemap: https://www.michigan.gov/mistudentaid/sitemap.xml\r\nSitemap: https://www.michigan.gov/mikidsmatter/sitemap.xml\r\nSitemap: https://www.michigan.gov/pfasresponse/sitemap.xml\r\nSitemap: https://www.michigan.gov/homevisiting/sitemap.xml\r\nSitemap: https://www.michigan.gov/studentloans/sitemap.xml\r\nSitemap: https://www.michigan.gov/cadillacplace/sitemap.xml\r\nSitemap: https://www.michigan.gov/healthymiplan/sitemap.xml\r\nSitemap: https://www.michigan.gov/autoinsurance/sitemap.xml\r\nSitemap: https://www.michigan.gov/skitheporkies/sitemap.xml\r\nSitemap: https://www.michigan.gov/mimoneymatters/sitemap.xml\r\nSitemap: https://www.michigan.gov/financialfuture/sitemap.xml\r\nSitemap: https://www.michigan.gov/formergovernors/sitemap.xml\r\nSitemap: https://www.michigan.gov/treasurycareers/sitemap.xml\r\nSitemap: https://www.michigan.gov/mitreasurystory/sitemap.xml\r\nSitemap: https://www.michigan.gov/emergingdiseases/sitemap.xml\r\nSitemap: https://www.michigan.gov/michiganprepares/sitemap.xml\r\nSitemap: https://www.michigan.gov/opportunityzones/sitemap.xml\r\nSitemap: https://www.michigan.gov/explorelabscience/sitemap.xml\r\nSitemap: https://www.michigan.gov/libraryofmichigan/sitemap.xml\r\nSitemap: https://www.michigan.gov/reinventretirement/sitemap.xml\r\nSitemap: https://www.michigan.gov/consumerprotection/sitemap.xml\r\nSitemap: https://www.michigan.gov/archivesofmichigan/sitemap.xml\r\nSitemap: https://www.michigan.gov/disabilityresources/sitemap.xml\r\nSitemap: https://www.michigan.gov/campussexualassault/sitemap.xml"
+    }
+  ],
+  "eligible_pages": 40,
+  "canonical_origin": [
+    "https",
+    "www.michigan.gov",
+    443
+  ],
+  "stop_reason": "page_budget",
+  "elapsed_seconds": 52.47
+}

@@ -1,0 +1,88 @@
+{
+  "site": {
+    "rank": "233",
+    "domain": "researchgate.net",
+    "stratum": "101-1000"
+  },
+  "rows": [
+    {
+      "rank": "233",
+      "domain": "researchgate.net",
+      "stratum": "101-1000",
+      "requested_url": "https://researchgate.net/",
+      "depth": 0,
+      "parent_url": "",
+      "attempt": 1,
+      "timestamp": "2026-11-12T21:12:02.786393+00:00",
+      "final_url": "https://www.researchgate.net/",
+      "status": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 21313,
+      "truncated": false,
+      "body_sha256": "de237974d90191aa65124f252f4ef579d4f3d36397cfb810b0f373b1a5d8b54d",
+      "redirect_chain": [
+        {
+          "url": "https://researchgate.net/",
+          "status": 301,
+          "location": "https://www.researchgate.net/",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000; includeSubDomains; preload"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    }
+  ],
+  "robots": [
+    {
+      "url": "https://researchgate.net/robots.txt",
+      "timestamp": "2026-11-12T21:12:02.223857+00:00",
+      "status": 200,
+      "decision": "parsed",
+      "final_url": "https://www.researchgate.net/robots.txt",
+      "redirect_chain": [
+        {
+          "url": "https://researchgate.net/robots.txt",
+          "status": 301,
+          "location": "https://www.researchgate.net/robots.txt"
+        }
+      ],
+      "body_sha256": "864248af5bb68447dcca5d5115fbe1b554756346273eed291bd7491f58e47d75",
+      "body": "User-agent: Applebot-Extended\nDisallow: /\n\nUser-agent: GoogleOther\nUser-agent: GoogleOther-Image\nUser-agent: GoogleOther-Video\nDisallow: /\n\nUser-agent: *\nAllow: /\nDisallow: /cdn-cgi/\nDisallow: /connector/\nDisallow: /plugins.\nDisallow: /firststeps.\nDisallow: /publicliterature.PublicLiterature.search.html\nDisallow: /lite.publication.PublicationRequestFulltextPromo.requestFulltext.html\nAllow: /signup.SignUp.html$\nDisallow: /signup.\n"
+    },
+    {
+      "url": "https://www.researchgate.net/robots.txt",
+      "timestamp": "2026-11-12T21:12:02.786372+00:00",
+      "status": 200,
+      "decision": "parsed",
+      "final_url": "https://www.researchgate.net/robots.txt",
+      "redirect_chain": [],
+      "body_sha256": "864248af5bb68447dcca5d5115fbe1b554756346273eed291bd7491f58e47d75",
+      "body": "User-agent: Applebot-Extended\nDisallow: /\n\nUser-agent: GoogleOther\nUser-agent: GoogleOther-Image\nUser-agent: GoogleOther-Video\nDisallow: /\n\nUser-agent: *\nAllow: /\nDisallow: /cdn-cgi/\nDisallow: /connector/\nDisallow: /plugins.\nDisallow: /firststeps.\nDisallow: /publicliterature.PublicLiterature.search.html\nDisallow: /lite.publication.PublicationRequestFulltextPromo.requestFulltext.html\nAllow: /signup.SignUp.html$\nDisallow: /signup.\n"
+    }
+  ],
+  "eligible_pages": 0,
+  "canonical_origin": [
+    "https",
+    "www.researchgate.net",
+    443
+  ],
+  "stop_reason": "frontier_exhausted",
+  "elapsed_seconds": 1.49
+}

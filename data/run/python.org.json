@@ -1,0 +1,1723 @@
+{
+  "site": {
+    "rank": "750",
+    "domain": "python.org",
+    "stratum": "101-1000"
+  },
+  "rows": [
+    {
+      "rank": "750",
+      "domain": "python.org",
+      "stratum": "101-1000",
+      "requested_url": "https://python.org/",
+      "depth": 0,
+      "parent_url": "",
+      "attempt": 1,
+      "timestamp": "2026-11-12T21:12:34.715885+00:00",
+      "final_url": "https://www.python.org/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "connect-src 'self' https://console.python.org https://analytics.python.org https://server.ethicalads.io https://2p66nmmycsj3.statuspage.io; object-src 'none'; form-action 'self'; frame-src 'self' https://console.python.org; base-uri 'self'; script-src 'self' 'nonce-2uRPvuulEFdDwn68PD7ICg==' https://analytics.python.org https://media.ethicalads.io https://server.ethicalads.io https://ajax.googleapis.com; img-src 'self' data: https:; frame-ancestors 'self'; font-src 'self' data:; style-src 'self' 'unsafe-inline' https://ajax.googleapis.com; default-src 'self'"
+        ],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 52304,
+      "truncated": false,
+      "body_sha256": "98f64c7b9e65dc17920a6eaa125555f24ccc333640b4c873fbb014de7f44238f",
+      "redirect_chain": [
+        {
+          "url": "https://python.org/",
+          "status": 301,
+          "location": "https://www.python.org/",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=315360000; preload"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Welcome to Python.org",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "750",
+      "domain": "python.org",
+      "stratum": "101-1000",
+      "requested_url": "https://www.python.org/psf/",
+      "depth": 1,
+      "parent_url": "https://www.python.org/",
+      "attempt": 2,
+      "timestamp": "2026-11-12T21:12:35.687102+00:00",
+      "final_url": "https://www.python.org/psf-landing/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "font-src 'self' data:; default-src 'self'; object-src 'none'; script-src 'self' 'nonce-QbGcQq0bgObataJNQEtUmg==' https://analytics.python.org https://media.ethicalads.io https://server.ethicalads.io https://ajax.googleapis.com; connect-src 'self' https://console.python.org https://analytics.python.org https://server.ethicalads.io https://2p66nmmycsj3.statuspage.io; frame-src 'self' https://console.python.org; base-uri 'self'; img-src 'self' data: https:; style-src 'self' 'unsafe-inline' https://ajax.googleapis.com; form-action 'self'; frame-ancestors 'self'"
+        ],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 49873,
+      "truncated": false,
+      "body_sha256": "3990ad4dc51d759b9292b8d1c955aa373dda901e7787d248202261743b413deb",
+      "redirect_chain": [
+        {
+          "url": "https://www.python.org/psf/",
+          "status": 301,
+          "location": "https://www.python.org/psf-landing/",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [
+              "style-src 'self' 'unsafe-inline' https://ajax.googleapis.com; frame-src 'self' https://console.python.org; form-action 'self'; font-src 'self' data:; object-src 'none'; img-src 'self' data: https:; frame-ancestors 'self'; connect-src 'self' https://console.python.org https://analytics.python.org https://server.ethicalads.io https://2p66nmmycsj3.statuspage.io; default-src 'self'; base-uri 'self'; script-src 'self' 'nonce-j53HWAfBzt0NZStF7pevdw==' https://analytics.python.org https://media.ethicalads.io https://server.ethicalads.io https://ajax.googleapis.com"
+            ],
+            "strict-transport-security": [
+              "max-age=63072000; includeSubDomains; preload"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Python Software Foundation",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "750",
+      "domain": "python.org",
+      "stratum": "101-1000",
+      "requested_url": "https://www.python.org/sponsors/application/",
+      "depth": 2,
+      "parent_url": "https://www.python.org/psf-landing/",
+      "attempt": 3,
+      "timestamp": "2026-11-12T21:12:36.277227+00:00",
+      "final_url": "https://www.python.org/sponsors/application/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "frame-ancestors 'self'; connect-src 'self' https://console.python.org https://analytics.python.org https://server.ethicalads.io https://2p66nmmycsj3.statuspage.io; base-uri 'self'; default-src 'self'; img-src 'self' data: https:; style-src 'self' 'unsafe-inline' https://ajax.googleapis.com; font-src 'self' data:; form-action 'self'; frame-src 'self' https://console.python.org; object-src 'none'; script-src 'self' 'nonce-zbsXnUCrnU1mJSvsim3KUw==' https://analytics.python.org https://media.ethicalads.io https://server.ethicalads.io https://ajax.googleapis.com"
+        ],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 240860,
+      "truncated": false,
+      "body_sha256": "57563a58a23097ec77f5dee9a15b2652b9748172c7c5b42a8d79f3c7bbe359e5",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Sponsorship Application | Python.org",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "750",
+      "domain": "python.org",
+      "stratum": "101-1000",
+      "requested_url": "https://www.python.org/jobs/",
+      "depth": 1,
+      "parent_url": "https://www.python.org/",
+      "attempt": 4,
+      "timestamp": "2026-11-12T21:12:38.379574+00:00",
+      "final_url": "https://www.python.org/jobs/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "frame-src 'self' https://console.python.org; frame-ancestors 'self'; style-src 'self' 'unsafe-inline' https://ajax.googleapis.com; script-src 'self' 'nonce-L3fMX6hNTaQlQE1TARm5bw==' https://analytics.python.org https://media.ethicalads.io https://server.ethicalads.io https://ajax.googleapis.com; object-src 'none'; img-src 'self' data: https:; default-src 'self'; form-action 'self'; connect-src 'self' https://console.python.org https://analytics.python.org https://server.ethicalads.io https://2p66nmmycsj3.statuspage.io; base-uri 'self'; font-src 'self' data:"
+        ],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 60291,
+      "truncated": false,
+      "body_sha256": "4fb1316fff0fbaaf94e2a13117f884bb66c5032dee980d37fc90241bd84daf4f",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Python Job Board | Python.org",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "750",
+      "domain": "python.org",
+      "stratum": "101-1000",
+      "requested_url": "https://www.python.org/nominations/elections/",
+      "depth": 2,
+      "parent_url": "https://www.python.org/psf-landing/",
+      "attempt": 5,
+      "timestamp": "2026-11-12T21:12:38.546843+00:00",
+      "final_url": "https://www.python.org/nominations/elections/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "frame-src 'self' https://console.python.org; frame-ancestors 'self'; style-src 'self' 'unsafe-inline' https://ajax.googleapis.com; script-src 'self' 'nonce-Lp1wN7Y2RKs1Gu2eosf3TA==' https://analytics.python.org https://media.ethicalads.io https://server.ethicalads.io https://ajax.googleapis.com; object-src 'none'; img-src 'self' data: https:; default-src 'self'; form-action 'self'; connect-src 'self' https://console.python.org https://analytics.python.org https://server.ethicalads.io https://2p66nmmycsj3.statuspage.io; base-uri 'self'; font-src 'self' data:"
+        ],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 42141,
+      "truncated": false,
+      "body_sha256": "a23ce19832897f99122c858944022ebca857ecc0a459fdefd0424cf05ebe25f8",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Elections | Python.org",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "750",
+      "domain": "python.org",
+      "stratum": "101-1000",
+      "requested_url": "https://www.python.org/community/",
+      "depth": 1,
+      "parent_url": "https://www.python.org/",
+      "attempt": 6,
+      "timestamp": "2026-11-12T21:12:39.342014+00:00",
+      "final_url": "https://www.python.org/community/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "frame-src 'self' https://console.python.org; frame-ancestors 'self'; style-src 'self' 'unsafe-inline' https://ajax.googleapis.com; script-src 'self' 'nonce-wB8kMVwfVPp7M8/NU2LSSQ==' https://analytics.python.org https://media.ethicalads.io https://server.ethicalads.io https://ajax.googleapis.com; object-src 'none'; img-src 'self' data: https:; default-src 'self'; form-action 'self'; connect-src 'self' https://console.python.org https://analytics.python.org https://server.ethicalads.io https://2p66nmmycsj3.statuspage.io; base-uri 'self'; font-src 'self' data:"
+        ],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 35893,
+      "truncated": false,
+      "body_sha256": "c196a628d10152414fc0f131893acb4d16f179103e5fa8624ca0daf3ee97f72f",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Our Community | Python.org",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "750",
+      "domain": "python.org",
+      "stratum": "101-1000",
+      "requested_url": "https://www.python.org/about/",
+      "depth": 1,
+      "parent_url": "https://www.python.org/",
+      "attempt": 7,
+      "timestamp": "2026-11-12T21:12:39.646529+00:00",
+      "final_url": "https://www.python.org/about/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "style-src 'self' 'unsafe-inline' https://ajax.googleapis.com; frame-src 'self' https://console.python.org; form-action 'self'; font-src 'self' data:; object-src 'none'; img-src 'self' data: https:; frame-ancestors 'self'; connect-src 'self' https://console.python.org https://analytics.python.org https://server.ethicalads.io https://2p66nmmycsj3.statuspage.io; default-src 'self'; base-uri 'self'; script-src 'self' 'nonce-lIgvKiyzdpoWoRwqqQBlBw==' https://analytics.python.org https://media.ethicalads.io https://server.ethicalads.io https://ajax.googleapis.com"
+        ],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 41290,
+      "truncated": false,
+      "body_sha256": "cb1e33e37f05d23b5fef40748ea338bb7ab165cfa2050cd64608a731e6810433",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "About Python\u2122 | Python.org",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "750",
+      "domain": "python.org",
+      "stratum": "101-1000",
+      "requested_url": "https://www.python.org/downloads/",
+      "depth": 1,
+      "parent_url": "https://www.python.org/",
+      "attempt": 8,
+      "timestamp": "2026-11-12T21:12:40.111434+00:00",
+      "final_url": "https://www.python.org/downloads/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "object-src 'none'; connect-src 'self' https://console.python.org https://analytics.python.org https://server.ethicalads.io https://2p66nmmycsj3.statuspage.io; frame-src 'self' https://console.python.org; script-src 'self' 'nonce-SG10OG7nAkEnZUsiNlLdjw==' https://analytics.python.org https://media.ethicalads.io https://server.ethicalads.io https://ajax.googleapis.com; form-action 'self'; frame-ancestors 'self'; default-src 'self'; base-uri 'self'; style-src 'self' 'unsafe-inline' https://ajax.googleapis.com; font-src 'self' data:; img-src 'self' data: https:; report-uri https://o20004.ingest.us.sentry.io/api/39935/security/?sentry_key=95f826ce8a6d47e9ab5dbb055c24eb74"
+        ],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 224084,
+      "truncated": false,
+      "body_sha256": "997ca3f4db28a8946a9dd16c236436c8a099306b00b3db54ecad23ab18bca7c0",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Download Python | Python.org",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "750",
+      "domain": "python.org",
+      "stratum": "101-1000",
+      "requested_url": "https://www.python.org/ftp/python/3.15.2/Python-3.15.2.tar.xz",
+      "depth": 2,
+      "parent_url": "https://www.python.org/downloads/",
+      "attempt": 9,
+      "timestamp": "2026-11-12T21:12:40.672705+00:00",
+      "final_url": "https://www.python.org/ftp/python/3.15.2/Python-3.15.2.tar.xz",
+      "status": 200,
+      "content_type": "application/octet-stream",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 2000001,
+      "truncated": true,
+      "body_sha256": "6eda1a2e36f6842c4e777a9c742a13e0a78a44e88ab066714fb097a772038e83",
+      "redirect_chain": [],
+      "html": false,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "750",
+      "domain": "python.org",
+      "stratum": "101-1000",
+      "requested_url": "https://www.python.org/download/releases/",
+      "depth": 2,
+      "parent_url": "https://www.python.org/downloads/",
+      "attempt": 10,
+      "timestamp": "2026-11-12T21:12:41.449809+00:00",
+      "final_url": "https://www.python.org/download/releases/",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "form-action 'self'; script-src 'self' 'nonce-r4yINrGGfjullil0STu9xw==' https://analytics.python.org https://media.ethicalads.io https://server.ethicalads.io https://ajax.googleapis.com; img-src 'self' data: https:; frame-src 'self' https://console.python.org; object-src 'none'; frame-ancestors 'self'; style-src 'self' 'unsafe-inline' https://ajax.googleapis.com; font-src 'self' data:; connect-src 'self' https://console.python.org https://analytics.python.org https://server.ethicalads.io https://2p66nmmycsj3.statuspage.io; base-uri 'self'; default-src 'self'"
+        ],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 33436,
+      "truncated": false,
+      "body_sha256": "257dbf7714618214d5e6d106eaa20faf51e32fd47e0e7028d338a7f92b78b414",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Releases | Python.org",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "750",
+      "domain": "python.org",
+      "stratum": "101-1000",
+      "requested_url": "https://www.python.org/doc/",
+      "depth": 1,
+      "parent_url": "https://www.python.org/",
+      "attempt": 11,
+      "timestamp": "2026-11-12T21:12:41.650614+00:00",
+      "final_url": "https://www.python.org/doc/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "form-action 'self'; script-src 'self' 'nonce-Fv6m7RAi/vodq7IaM98tFw==' https://analytics.python.org https://media.ethicalads.io https://server.ethicalads.io https://ajax.googleapis.com; img-src 'self' data: https:; frame-src 'self' https://console.python.org; object-src 'none'; frame-ancestors 'self'; style-src 'self' 'unsafe-inline' https://ajax.googleapis.com; font-src 'self' data:; connect-src 'self' https://console.python.org https://analytics.python.org https://server.ethicalads.io https://2p66nmmycsj3.statuspage.io; base-uri 'self'; default-src 'self'"
+        ],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 38546,
+      "truncated": false,
+      "body_sha256": "db6bd2e10e257693e323e09d9162d835fe22642970ad09c610e19b6f73765bdb",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Our Documentation | Python.org",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "750",
+      "domain": "python.org",
+      "stratum": "101-1000",
+      "requested_url": "https://www.python.org/success-stories/",
+      "depth": 1,
+      "parent_url": "https://www.python.org/",
+      "attempt": 12,
+      "timestamp": "2026-11-12T21:12:42.157647+00:00",
+      "final_url": "https://www.python.org/success-stories/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "frame-src 'self' https://console.python.org; frame-ancestors 'self'; style-src 'self' 'unsafe-inline' https://ajax.googleapis.com; script-src 'self' 'nonce-1BaASWsAMqj0WEMelpQ/Gw==' https://analytics.python.org https://media.ethicalads.io https://server.ethicalads.io https://ajax.googleapis.com; object-src 'none'; img-src 'self' data: https:; default-src 'self'; form-action 'self'; connect-src 'self' https://console.python.org https://analytics.python.org https://server.ethicalads.io https://2p66nmmycsj3.statuspage.io; base-uri 'self'; font-src 'self' data:"
+        ],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 44213,
+      "truncated": false,
+      "body_sha256": "3e090517d5d03709ad01c2f8fb34c8b2677283315ed3915b202a6d3debbc6e2e",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Our Success Stories | Python.org",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "750",
+      "domain": "python.org",
+      "stratum": "101-1000",
+      "requested_url": "https://www.python.org/blogs/",
+      "depth": 1,
+      "parent_url": "https://www.python.org/",
+      "attempt": 13,
+      "timestamp": "2026-11-12T21:12:42.797197+00:00",
+      "final_url": "https://www.python.org/blogs/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "form-action 'self'; connect-src 'self' https://console.python.org https://analytics.python.org https://server.ethicalads.io https://2p66nmmycsj3.statuspage.io; base-uri 'self'; style-src 'self' 'unsafe-inline' https://ajax.googleapis.com; frame-ancestors 'self'; default-src 'self'; object-src 'none'; script-src 'self' 'nonce-W9HeWPCADv5oA+GnfVj3jg==' https://analytics.python.org https://media.ethicalads.io https://server.ethicalads.io https://ajax.googleapis.com; img-src 'self' data: https:; font-src 'self' data:; frame-src 'self' https://console.python.org"
+        ],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 38817,
+      "truncated": false,
+      "body_sha256": "798813bfa5f05a9fd98d82e55fab993535336cbc92c45c5e8083bf3a30ef9497",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Our Blogs | Python.org",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "750",
+      "domain": "python.org",
+      "stratum": "101-1000",
+      "requested_url": "https://www.python.org/events/",
+      "depth": 1,
+      "parent_url": "https://www.python.org/",
+      "attempt": 14,
+      "timestamp": "2026-11-12T21:12:43.169746+00:00",
+      "final_url": "https://www.python.org/events/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "frame-ancestors 'self'; font-src 'self' data:; connect-src 'self' https://console.python.org https://analytics.python.org https://server.ethicalads.io https://2p66nmmycsj3.statuspage.io; base-uri 'self'; img-src 'self' data: https:; default-src 'self'; script-src 'self' 'nonce-enhOB7H8c92o7kywf3uCNw==' https://analytics.python.org https://media.ethicalads.io https://server.ethicalads.io https://ajax.googleapis.com; form-action 'self'; style-src 'self' 'unsafe-inline' https://ajax.googleapis.com; object-src 'none'; frame-src 'self' https://console.python.org"
+        ],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 58785,
+      "truncated": false,
+      "body_sha256": "d9754dcafcacc955f5677373262c5763af56b438c7c34e7349af61005e4e2d9b",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Our Events | Python.org",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "750",
+      "domain": "python.org",
+      "stratum": "101-1000",
+      "requested_url": "https://www.python.org/shell/",
+      "depth": 1,
+      "parent_url": "https://www.python.org/",
+      "attempt": 15,
+      "timestamp": "2026-11-12T21:12:43.651987+00:00",
+      "final_url": "https://www.python.org/shell/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "connect-src 'self' https://console.python.org https://analytics.python.org https://server.ethicalads.io https://2p66nmmycsj3.statuspage.io; form-action 'self'; default-src 'self'; font-src 'self' data:; img-src 'self' data: https:; style-src 'self' 'unsafe-inline' https://ajax.googleapis.com; script-src 'self' 'nonce-CpvldYM8qSgao+NDEOxUvg==' https://analytics.python.org https://media.ethicalads.io https://server.ethicalads.io https://ajax.googleapis.com; frame-src 'self' https://console.python.org; object-src 'none'; frame-ancestors 'self'; base-uri 'self'"
+        ],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 43779,
+      "truncated": false,
+      "body_sha256": "c311c9fad02b54c6f4e27421bf568db9eae49e0a0dde4747f7c12911984b3942",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Welcome to Python.org",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "750",
+      "domain": "python.org",
+      "stratum": "101-1000",
+      "requested_url": "https://www.python.org/dev/",
+      "depth": 1,
+      "parent_url": "https://www.python.org/",
+      "attempt": 16,
+      "timestamp": "2026-11-12T21:12:44.164636+00:00",
+      "final_url": "https://www.python.org/dev/",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "font-src 'self' data:; default-src 'self'; object-src 'none'; script-src 'self' 'nonce-Sf/yXqKGM7t0otduDYLSAw==' https://analytics.python.org https://media.ethicalads.io https://server.ethicalads.io https://ajax.googleapis.com; connect-src 'self' https://console.python.org https://analytics.python.org https://server.ethicalads.io https://2p66nmmycsj3.statuspage.io; frame-src 'self' https://console.python.org; base-uri 'self'; img-src 'self' data: https:; style-src 'self' 'unsafe-inline' https://ajax.googleapis.com; form-action 'self'; frame-ancestors 'self'"
+        ],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 32911,
+      "truncated": false,
+      "body_sha256": "f3e75ab7d773e1fc0b0a9dfa83d2819cd2e03743e3e6586849e986298a60d1ea",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Python Developer's Guide | Python.org",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "750",
+      "domain": "python.org",
+      "stratum": "101-1000",
+      "requested_url": "https://www.python.org/psf-landing/",
+      "depth": 1,
+      "parent_url": "https://www.python.org/",
+      "attempt": 17,
+      "timestamp": "2026-11-12T21:12:44.660100+00:00",
+      "final_url": "https://www.python.org/psf-landing/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "font-src 'self' data:; default-src 'self'; object-src 'none'; script-src 'self' 'nonce-QbGcQq0bgObataJNQEtUmg==' https://analytics.python.org https://media.ethicalads.io https://server.ethicalads.io https://ajax.googleapis.com; connect-src 'self' https://console.python.org https://analytics.python.org https://server.ethicalads.io https://2p66nmmycsj3.statuspage.io; frame-src 'self' https://console.python.org; base-uri 'self'; img-src 'self' data: https:; style-src 'self' 'unsafe-inline' https://ajax.googleapis.com; form-action 'self'; frame-ancestors 'self'"
+        ],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 49873,
+      "truncated": false,
+      "body_sha256": "3990ad4dc51d759b9292b8d1c955aa373dda901e7787d248202261743b413deb",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Python Software Foundation",
+      "duplicate_final": true,
+      "eligible": false
+    },
+    {
+      "rank": "750",
+      "domain": "python.org",
+      "stratum": "101-1000",
+      "requested_url": "https://www.python.org/nominations/elections/2026-python-packaging-council/nominees/",
+      "depth": 3,
+      "parent_url": "https://www.python.org/nominations/elections/",
+      "attempt": 18,
+      "timestamp": "2026-11-12T21:12:45.268458+00:00",
+      "final_url": "https://www.python.org/nominations/elections/2026-python-packaging-council/nominees/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "frame-src 'self' https://console.python.org; frame-ancestors 'self'; style-src 'self' 'unsafe-inline' https://ajax.googleapis.com; script-src 'self' 'nonce-WcKgTQN2x5Y9IA94tv1dhw==' https://analytics.python.org https://media.ethicalads.io https://server.ethicalads.io https://ajax.googleapis.com; object-src 'none'; img-src 'self' data: https:; default-src 'self'; form-action 'self'; connect-src 'self' https://console.python.org https://analytics.python.org https://server.ethicalads.io https://2p66nmmycsj3.statuspage.io; base-uri 'self'; font-src 'self' data:"
+        ],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 129474,
+      "truncated": false,
+      "body_sha256": "19a45406d435b76b81815163edbe2dca80b756a8691719d98cdac4856d9ace2d",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "\nNominees for 2026 Python Packaging Council Election\n| Python.org\n",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "750",
+      "domain": "python.org",
+      "stratum": "101-1000",
+      "requested_url": "https://www.python.org/psf/records/board/minutes/2022-02-24/",
+      "depth": 4,
+      "parent_url": "https://www.python.org/nominations/elections/2026-python-packaging-council/nominees/",
+      "attempt": 19,
+      "timestamp": "2026-11-12T21:12:46.170861+00:00",
+      "final_url": "https://www.python.org/psf/records/board/minutes/2022-02-24/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "frame-src 'self' https://console.python.org; frame-ancestors 'self'; style-src 'self' 'unsafe-inline' https://ajax.googleapis.com; script-src 'self' 'nonce-doSULSSxbVaQ5F05xbJ/8Q==' https://analytics.python.org https://media.ethicalads.io https://server.ethicalads.io https://ajax.googleapis.com; object-src 'none'; img-src 'self' data: https:; default-src 'self'; form-action 'self'; connect-src 'self' https://console.python.org https://analytics.python.org https://server.ethicalads.io https://2p66nmmycsj3.statuspage.io; base-uri 'self'; font-src 'self' data:"
+        ],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 57749,
+      "truncated": false,
+      "body_sha256": "abd5f7caded688b10cc641677cfec821b63e1f6ba969aa79bd60a41809803774",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Feb. 24, 2022 | PSF Meeting Minutes | Python.org",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "750",
+      "domain": "python.org",
+      "stratum": "101-1000",
+      "requested_url": "https://www.python.org/downloads",
+      "depth": 3,
+      "parent_url": "https://www.python.org/download/releases/",
+      "attempt": 20,
+      "timestamp": "2026-11-12T21:12:46.678274+00:00",
+      "final_url": "https://www.python.org/downloads",
+      "status": 301,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 0,
+      "truncated": false,
+      "body_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "redirect_chain": [
+        {
+          "url": "https://www.python.org/downloads",
+          "status": 301,
+          "location": "http://www.python.org/downloads/",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=63072000; includeSubDomains; preload"
+            ]
+          }
+        }
+      ],
+      "error": "redirect_out_of_scope",
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "750",
+      "domain": "python.org",
+      "stratum": "101-1000",
+      "requested_url": "https://www.python.org/download/releases/1.6.1",
+      "depth": 3,
+      "parent_url": "https://www.python.org/download/releases/",
+      "attempt": 21,
+      "timestamp": "2026-11-12T21:12:47.393052+00:00",
+      "final_url": "https://www.python.org/download/releases/1.6.1/",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "frame-src 'self' https://console.python.org; frame-ancestors 'self'; style-src 'self' 'unsafe-inline' https://ajax.googleapis.com; script-src 'self' 'nonce-F0mvkoCkYbf4uOeqoXf5/A==' https://analytics.python.org https://media.ethicalads.io https://server.ethicalads.io https://ajax.googleapis.com; object-src 'none'; img-src 'self' data: https:; default-src 'self'; form-action 'self'; connect-src 'self' https://console.python.org https://analytics.python.org https://server.ethicalads.io https://2p66nmmycsj3.statuspage.io; base-uri 'self'; font-src 'self' data:"
+        ],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 47964,
+      "truncated": false,
+      "body_sha256": "4bd733a82042878d877434632de5788ea76b6d6d89e45da263456b7ad3f39296",
+      "redirect_chain": [
+        {
+          "url": "https://www.python.org/download/releases/1.6.1",
+          "status": 301,
+          "location": "https://www.python.org/download/releases/1.6.1/",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [
+              "form-action 'self'; script-src 'self' 'nonce-DvndrBj/+W6zL80Luc6UgA==' https://analytics.python.org https://media.ethicalads.io https://server.ethicalads.io https://ajax.googleapis.com; img-src 'self' data: https:; frame-src 'self' https://console.python.org; object-src 'none'; frame-ancestors 'self'; style-src 'self' 'unsafe-inline' https://ajax.googleapis.com; font-src 'self' data:; connect-src 'self' https://console.python.org https://analytics.python.org https://server.ethicalads.io https://2p66nmmycsj3.statuspage.io; base-uri 'self'; default-src 'self'"
+            ],
+            "strict-transport-security": [
+              "max-age=63072000; includeSubDomains; preload"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Python 1.6.1 | Python.org",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "750",
+      "domain": "python.org",
+      "stratum": "101-1000",
+      "requested_url": "https://www.python.org/idle/",
+      "depth": 4,
+      "parent_url": "https://www.python.org/download/releases/1.6.1/",
+      "attempt": 22,
+      "timestamp": "2026-11-12T21:12:48.054800+00:00",
+      "final_url": "https://www.python.org/idle/",
+      "status": 301,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "form-action 'self'; connect-src 'self' https://console.python.org https://analytics.python.org https://server.ethicalads.io https://2p66nmmycsj3.statuspage.io; base-uri 'self'; style-src 'self' 'unsafe-inline' https://ajax.googleapis.com; frame-ancestors 'self'; default-src 'self'; object-src 'none'; script-src 'self' 'nonce-VhMYeH2UwrphMVvRGWqLhQ==' https://analytics.python.org https://media.ethicalads.io https://server.ethicalads.io https://ajax.googleapis.com; img-src 'self' data: https:; font-src 'self' data:; frame-src 'self' https://console.python.org"
+        ],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 0,
+      "truncated": false,
+      "body_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "redirect_chain": [
+        {
+          "url": "https://www.python.org/idle/",
+          "status": 301,
+          "location": "https://docs.python.org/3/library/idle.html",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [
+              "form-action 'self'; connect-src 'self' https://console.python.org https://analytics.python.org https://server.ethicalads.io https://2p66nmmycsj3.statuspage.io; base-uri 'self'; style-src 'self' 'unsafe-inline' https://ajax.googleapis.com; frame-ancestors 'self'; default-src 'self'; object-src 'none'; script-src 'self' 'nonce-VhMYeH2UwrphMVvRGWqLhQ==' https://analytics.python.org https://media.ethicalads.io https://server.ethicalads.io https://ajax.googleapis.com; img-src 'self' data: https:; font-src 'self' data:; frame-src 'self' https://console.python.org"
+            ],
+            "strict-transport-security": [
+              "max-age=63072000; includeSubDomains; preload"
+            ]
+          }
+        }
+      ],
+      "error": "redirect_out_of_scope",
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "750",
+      "domain": "python.org",
+      "stratum": "101-1000",
+      "requested_url": "https://www.python.org/community/awards/",
+      "depth": 2,
+      "parent_url": "https://www.python.org/psf-landing/",
+      "attempt": 23,
+      "timestamp": "2026-11-12T21:12:48.482760+00:00",
+      "final_url": "https://www.python.org/community/awards/",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "connect-src 'self' https://console.python.org https://analytics.python.org https://server.ethicalads.io https://2p66nmmycsj3.statuspage.io; form-action 'self'; default-src 'self'; font-src 'self' data:; img-src 'self' data: https:; style-src 'self' 'unsafe-inline' https://ajax.googleapis.com; script-src 'self' 'nonce-McXQfC9jiEOvz2NvUWbvtg==' https://analytics.python.org https://media.ethicalads.io https://server.ethicalads.io https://ajax.googleapis.com; frame-src 'self' https://console.python.org; object-src 'none'; frame-ancestors 'self'; base-uri 'self'"
+        ],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 31252,
+      "truncated": false,
+      "body_sha256": "edfedb9c95b0b861386fd79e9dc4fa733654876b7bade0440eda223ff3f7929d",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Python Community Awards | Python Software Foundation",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "750",
+      "domain": "python.org",
+      "stratum": "101-1000",
+      "requested_url": "https://www.python.org/jobs/types/",
+      "depth": 2,
+      "parent_url": "https://www.python.org/jobs/",
+      "attempt": 24,
+      "timestamp": "2026-11-12T21:12:48.868332+00:00",
+      "final_url": "https://www.python.org/jobs/types/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "frame-ancestors 'self'; font-src 'self' data:; connect-src 'self' https://console.python.org https://analytics.python.org https://server.ethicalads.io https://2p66nmmycsj3.statuspage.io; base-uri 'self'; img-src 'self' data: https:; default-src 'self'; script-src 'self' 'nonce-l8wpGizUiwK51AzMM34b7g==' https://analytics.python.org https://media.ethicalads.io https://server.ethicalads.io https://ajax.googleapis.com; form-action 'self'; style-src 'self' 'unsafe-inline' https://ajax.googleapis.com; object-src 'none'; frame-src 'self' https://console.python.org"
+        ],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 37507,
+      "truncated": false,
+      "body_sha256": "452f8a7fb25a9a5d6b0319e9f567860c144402611693d6a285d78a0e04613512",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Our Job Types | Python.org",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "750",
+      "domain": "python.org",
+      "stratum": "101-1000",
+      "requested_url": "https://www.python.org/ftp/python/pymanager/python-manager-26.4.msix",
+      "depth": 2,
+      "parent_url": "https://www.python.org/downloads/",
+      "attempt": 25,
+      "timestamp": "2026-11-12T21:12:49.470773+00:00",
+      "final_url": "https://www.python.org/ftp/python/pymanager/python-manager-26.4.msix",
+      "status": 200,
+      "content_type": "application/octet-stream",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 2000001,
+      "truncated": true,
+      "body_sha256": "85d6b4950176e466c163885d0da28657eb4279345cc3594ba6be44fa3fdf0190",
+      "redirect_chain": [],
+      "html": false,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "750",
+      "domain": "python.org",
+      "stratum": "101-1000",
+      "requested_url": "https://www.python.org/doc/versions/",
+      "depth": 2,
+      "parent_url": "https://www.python.org/doc/",
+      "attempt": 26,
+      "timestamp": "2026-11-12T21:12:50.088502+00:00",
+      "final_url": "https://www.python.org/doc/versions/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "font-src 'self' data:; default-src 'self'; object-src 'none'; script-src 'self' 'nonce-rZRxtuClzoxLwdeMENWeWw==' https://analytics.python.org https://media.ethicalads.io https://server.ethicalads.io https://ajax.googleapis.com; connect-src 'self' https://console.python.org https://analytics.python.org https://server.ethicalads.io https://2p66nmmycsj3.statuspage.io; frame-src 'self' https://console.python.org; base-uri 'self'; img-src 'self' data: https:; style-src 'self' 'unsafe-inline' https://ajax.googleapis.com; form-action 'self'; frame-ancestors 'self'"
+        ],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 96446,
+      "truncated": false,
+      "body_sha256": "7849e7da60e9656469276e09ddfbed9404e0729c286841d96004fe8e01def1a2",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Python documentation by version | Python.org",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "750",
+      "domain": "python.org",
+      "stratum": "101-1000",
+      "requested_url": "https://www.python.org/success-stories/python-on-arm-2025-update/",
+      "depth": 2,
+      "parent_url": "https://www.python.org/success-stories/",
+      "attempt": 27,
+      "timestamp": "2026-11-12T21:12:50.849015+00:00",
+      "final_url": "https://www.python.org/success-stories/python-on-arm-2025-update/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "font-src 'self' data:; default-src 'self'; object-src 'none'; script-src 'self' 'nonce-eSHmyjTgYV6XqxObB/PZRA==' https://analytics.python.org https://media.ethicalads.io https://server.ethicalads.io https://ajax.googleapis.com; connect-src 'self' https://console.python.org https://analytics.python.org https://server.ethicalads.io https://2p66nmmycsj3.statuspage.io; frame-src 'self' https://console.python.org; base-uri 'self'; img-src 'self' data: https:; style-src 'self' 'unsafe-inline' https://ajax.googleapis.com; form-action 'self'; frame-ancestors 'self'"
+        ],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 48258,
+      "truncated": false,
+      "body_sha256": "2dbbb672f79cc728d427f5dd2a81b0a834a6655966053db864c1cc23bfcb6c07",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Python on Arm: 2025 Update | Our Success Stories | Python.org",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "750",
+      "domain": "python.org",
+      "stratum": "101-1000",
+      "requested_url": "https://www.python.org/events/python-user-group/2212/",
+      "depth": 2,
+      "parent_url": "https://www.python.org/events/",
+      "attempt": 28,
+      "timestamp": "2026-11-12T21:12:51.197382+00:00",
+      "final_url": "https://www.python.org/events/python-user-group/2212/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "connect-src 'self' https://console.python.org https://analytics.python.org https://server.ethicalads.io https://2p66nmmycsj3.statuspage.io; form-action 'self'; default-src 'self'; font-src 'self' data:; img-src 'self' data: https:; style-src 'self' 'unsafe-inline' https://ajax.googleapis.com; script-src 'self' 'nonce-4P+1LioS81TfIVxxmdG95Q==' https://analytics.python.org https://media.ethicalads.io https://server.ethicalads.io https://ajax.googleapis.com; frame-src 'self' https://console.python.org; object-src 'none'; frame-ancestors 'self'; base-uri 'self'"
+        ],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 36703,
+      "truncated": false,
+      "body_sha256": "09ce21c5dcf8a3e9daa82284dcdc1c17a226e2e1332f23f8b69e7fb03abd4289",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Python Leiden User Group | Python.org",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "750",
+      "domain": "python.org",
+      "stratum": "101-1000",
+      "requested_url": "https://www.python.org/dev/buildbot/",
+      "depth": 2,
+      "parent_url": "https://www.python.org/dev/",
+      "attempt": 29,
+      "timestamp": "2026-11-12T21:12:51.912535+00:00",
+      "final_url": "https://www.python.org/dev/buildbot/",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "form-action 'self'; script-src 'self' 'nonce-GBvd4C+dUxs9o0hvQA+qvw==' https://analytics.python.org https://media.ethicalads.io https://server.ethicalads.io https://ajax.googleapis.com; img-src 'self' data: https:; frame-src 'self' https://console.python.org; object-src 'none'; frame-ancestors 'self'; style-src 'self' 'unsafe-inline' https://ajax.googleapis.com; font-src 'self' data:; connect-src 'self' https://console.python.org https://analytics.python.org https://server.ethicalads.io https://2p66nmmycsj3.statuspage.io; base-uri 'self'; default-src 'self'"
+        ],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 34490,
+      "truncated": false,
+      "body_sha256": "debde490ec8e0967e25bda0d55f0c760aed5cf5d41061504d8929edeee644e02",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Python Buildbot | Python.org",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "750",
+      "domain": "python.org",
+      "stratum": "101-1000",
+      "requested_url": "https://www.python.org/",
+      "depth": 1,
+      "parent_url": "https://www.python.org/",
+      "attempt": 30,
+      "timestamp": "2026-11-12T21:12:52.223954+00:00",
+      "final_url": "https://www.python.org/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "connect-src 'self' https://console.python.org https://analytics.python.org https://server.ethicalads.io https://2p66nmmycsj3.statuspage.io; object-src 'none'; form-action 'self'; frame-src 'self' https://console.python.org; base-uri 'self'; script-src 'self' 'nonce-2uRPvuulEFdDwn68PD7ICg==' https://analytics.python.org https://media.ethicalads.io https://server.ethicalads.io https://ajax.googleapis.com; img-src 'self' data: https:; frame-ancestors 'self'; font-src 'self' data:; style-src 'self' 'unsafe-inline' https://ajax.googleapis.com; default-src 'self'"
+        ],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 52304,
+      "truncated": false,
+      "body_sha256": "98f64c7b9e65dc17920a6eaa125555f24ccc333640b4c873fbb014de7f44238f",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Welcome to Python.org",
+      "duplicate_final": true,
+      "eligible": false
+    },
+    {
+      "rank": "750",
+      "domain": "python.org",
+      "stratum": "101-1000",
+      "requested_url": "https://www.python.org/about/apps/",
+      "depth": 1,
+      "parent_url": "https://www.python.org/",
+      "attempt": 31,
+      "timestamp": "2026-11-12T21:12:52.630119+00:00",
+      "final_url": "https://www.python.org/about/apps/",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "connect-src 'self' https://console.python.org https://analytics.python.org https://server.ethicalads.io https://2p66nmmycsj3.statuspage.io; form-action 'self'; default-src 'self'; font-src 'self' data:; img-src 'self' data: https:; style-src 'self' 'unsafe-inline' https://ajax.googleapis.com; script-src 'self' 'nonce-1d2mjhb0yggQd221q8zxXA==' https://analytics.python.org https://media.ethicalads.io https://server.ethicalads.io https://ajax.googleapis.com; frame-src 'self' https://console.python.org; object-src 'none'; frame-ancestors 'self'; base-uri 'self'"
+        ],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 39361,
+      "truncated": false,
+      "body_sha256": "d63471ec18faf93b77a1055ace7b98dbd37a92840638cb2f6ba16fbab09a6205",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Applications for Python | Python.org",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "750",
+      "domain": "python.org",
+      "stratum": "101-1000",
+      "requested_url": "https://www.python.org/psf/records/board/minutes/feed/",
+      "depth": 5,
+      "parent_url": "https://www.python.org/psf/records/board/minutes/2022-02-24/",
+      "attempt": 32,
+      "timestamp": "2026-11-12T21:12:53.307086+00:00",
+      "final_url": "https://www.python.org/psf/records/board/minutes/feed/",
+      "status": 200,
+      "content_type": "application/rss+xml; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "form-action 'self'; connect-src 'self' https://console.python.org https://analytics.python.org https://server.ethicalads.io https://2p66nmmycsj3.statuspage.io; base-uri 'self'; style-src 'self' 'unsafe-inline' https://ajax.googleapis.com; frame-ancestors 'self'; default-src 'self'; object-src 'none'; script-src 'self' https://analytics.python.org https://media.ethicalads.io https://server.ethicalads.io https://ajax.googleapis.com; img-src 'self' data: https:; font-src 'self' data:; frame-src 'self' https://console.python.org"
+        ],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 847091,
+      "truncated": false,
+      "body_sha256": "691817269eb57ba7654c0ce44a2cb66c5d97ccaf148c95ce995e8582162912cd",
+      "redirect_chain": [],
+      "html": false,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "750",
+      "domain": "python.org",
+      "stratum": "101-1000",
+      "requested_url": "https://www.python.org/nominations/elections/2026-python-packaging-council/nominees/william-woodruff/",
+      "depth": 4,
+      "parent_url": "https://www.python.org/nominations/elections/2026-python-packaging-council/nominees/",
+      "attempt": 33,
+      "timestamp": "2026-11-12T21:12:53.744484+00:00",
+      "final_url": "https://www.python.org/nominations/elections/2026-python-packaging-council/nominees/william-woodruff/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "frame-src 'self' https://console.python.org; frame-ancestors 'self'; style-src 'self' 'unsafe-inline' https://ajax.googleapis.com; script-src 'self' 'nonce-dOGRAeZCxjBKMPQIg75ecQ==' https://analytics.python.org https://media.ethicalads.io https://server.ethicalads.io https://ajax.googleapis.com; object-src 'none'; img-src 'self' data: https:; default-src 'self'; form-action 'self'; connect-src 'self' https://console.python.org https://analytics.python.org https://server.ethicalads.io https://2p66nmmycsj3.statuspage.io; base-uri 'self'; font-src 'self' data:"
+        ],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 34546,
+      "truncated": false,
+      "body_sha256": "b90a54de1ebb4823f37ba77238be2570e52ae667a0c4ac4ec5a0963f0bc1e05e",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "\nNominee for 2026 Python Packaging Council Election\n| Python.org\n",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "750",
+      "domain": "python.org",
+      "stratum": "101-1000",
+      "requested_url": "https://www.python.org/download/releases/1.5",
+      "depth": 3,
+      "parent_url": "https://www.python.org/download/releases/",
+      "attempt": 34,
+      "timestamp": "2026-11-12T21:12:54.740446+00:00",
+      "final_url": "https://www.python.org/download/releases/1.5/",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "font-src 'self' data:; default-src 'self'; object-src 'none'; script-src 'self' 'nonce-6x0pRW9eWITx7p2OslUcrg==' https://analytics.python.org https://media.ethicalads.io https://server.ethicalads.io https://ajax.googleapis.com; connect-src 'self' https://console.python.org https://analytics.python.org https://server.ethicalads.io https://2p66nmmycsj3.statuspage.io; frame-src 'self' https://console.python.org; base-uri 'self'; img-src 'self' data: https:; style-src 'self' 'unsafe-inline' https://ajax.googleapis.com; form-action 'self'; frame-ancestors 'self'"
+        ],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 33782,
+      "truncated": false,
+      "body_sha256": "89990c9c7662ffb9afda1e2b1d457ec78d5c64580276b5cc138c897cedd074cd",
+      "redirect_chain": [
+        {
+          "url": "https://www.python.org/download/releases/1.5",
+          "status": 301,
+          "location": "https://www.python.org/download/releases/1.5/",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [
+              "connect-src 'self' https://console.python.org https://analytics.python.org https://server.ethicalads.io https://2p66nmmycsj3.statuspage.io; form-action 'self'; default-src 'self'; font-src 'self' data:; img-src 'self' data: https:; style-src 'self' 'unsafe-inline' https://ajax.googleapis.com; script-src 'self' 'nonce-Mua/c995mv+uTqQwtNoldA==' https://analytics.python.org https://media.ethicalads.io https://server.ethicalads.io https://ajax.googleapis.com; frame-src 'self' https://console.python.org; object-src 'none'; frame-ancestors 'self'; base-uri 'self'"
+            ],
+            "strict-transport-security": [
+              "max-age=63072000; includeSubDomains; preload"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Python 1.5.2 | Python.org",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "750",
+      "domain": "python.org",
+      "stratum": "101-1000",
+      "requested_url": "https://www.python.org/topics/tkinter/trouble.html",
+      "depth": 4,
+      "parent_url": "https://www.python.org/download/releases/1.5/",
+      "attempt": 35,
+      "timestamp": "2026-11-12T21:12:55.574855+00:00",
+      "final_url": "https://www.python.org/topics/tkinter/trouble.html",
+      "status": 404,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "font-src 'self' data:; default-src 'self'; object-src 'none'; script-src 'self' 'nonce-4rkIk74KetkcJq3913eHtg==' https://analytics.python.org https://media.ethicalads.io https://server.ethicalads.io https://ajax.googleapis.com; connect-src 'self' https://console.python.org https://analytics.python.org https://server.ethicalads.io https://2p66nmmycsj3.statuspage.io; frame-src 'self' https://console.python.org; base-uri 'self'; img-src 'self' data: https:; style-src 'self' 'unsafe-inline' https://ajax.googleapis.com; form-action 'self'; frame-ancestors 'self'"
+        ],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 32596,
+      "truncated": false,
+      "body_sha256": "7dba5d845f60045867d55787fac692a5de3b77182dda51c57fd2d4423885e54e",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "750",
+      "domain": "python.org",
+      "stratum": "101-1000",
+      "requested_url": "https://www.python.org/community/awards/psf-awards/",
+      "depth": 3,
+      "parent_url": "https://www.python.org/community/awards/",
+      "attempt": 36,
+      "timestamp": "2026-11-12T21:12:56.078309+00:00",
+      "final_url": "https://www.python.org/community/awards/psf-awards/",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "form-action 'self'; script-src 'self' 'nonce-aIhuV4fuATVO4t90kB8UaQ==' https://analytics.python.org https://media.ethicalads.io https://server.ethicalads.io https://ajax.googleapis.com; img-src 'self' data: https:; frame-src 'self' https://console.python.org; object-src 'none'; frame-ancestors 'self'; style-src 'self' 'unsafe-inline' https://ajax.googleapis.com; font-src 'self' data:; connect-src 'self' https://console.python.org https://analytics.python.org https://server.ethicalads.io https://2p66nmmycsj3.statuspage.io; base-uri 'self'; default-src 'self'"
+        ],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 97898,
+      "truncated": false,
+      "body_sha256": "fc7a7441bf7d50fed2769cf08ae7408027d6640076b09b453adcfcc2a6ca745a",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "PSF Community Service Awards | Python.org",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "750",
+      "domain": "python.org",
+      "stratum": "101-1000",
+      "requested_url": "https://www.python.org/ftp/python/src/py152.tgz",
+      "depth": 4,
+      "parent_url": "https://www.python.org/download/releases/1.5/",
+      "attempt": 37,
+      "timestamp": "2026-11-12T21:12:56.417226+00:00",
+      "final_url": "https://www.python.org/ftp/python/src/py152.tgz",
+      "status": 200,
+      "content_type": "application/octet-stream",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 2000001,
+      "truncated": true,
+      "body_sha256": "83f6507658fac8be344bff0c6d05d5af6eac8bb21c9d0937509e0deef7aff490",
+      "redirect_chain": [],
+      "html": false,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "750",
+      "domain": "python.org",
+      "stratum": "101-1000",
+      "requested_url": "https://www.python.org/events/python-user-group/locations/1494/",
+      "depth": 3,
+      "parent_url": "https://www.python.org/events/python-user-group/2212/",
+      "attempt": 38,
+      "timestamp": "2026-11-12T21:12:57.489052+00:00",
+      "final_url": "https://www.python.org/events/python-user-group/locations/1494/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "frame-ancestors 'self'; font-src 'self' data:; connect-src 'self' https://console.python.org https://analytics.python.org https://server.ethicalads.io https://2p66nmmycsj3.statuspage.io; base-uri 'self'; img-src 'self' data: https:; default-src 'self'; script-src 'self' 'nonce-aY2n3Qtjnuy2HLfgjNYOLg==' https://analytics.python.org https://media.ethicalads.io https://server.ethicalads.io https://ajax.googleapis.com; form-action 'self'; style-src 'self' 'unsafe-inline' https://ajax.googleapis.com; object-src 'none'; frame-src 'self' https://console.python.org"
+        ],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 33546,
+      "truncated": false,
+      "body_sha256": "00cca764e18d8d9143117d31ce067850dd5a3d2cd737eab50f3cefbeb2c65e2a",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Our Events | Python.org",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "750",
+      "domain": "python.org",
+      "stratum": "101-1000",
+      "requested_url": "https://www.python.org/jobs/type/back-end/",
+      "depth": 2,
+      "parent_url": "https://www.python.org/jobs/",
+      "attempt": 39,
+      "timestamp": "2026-11-12T21:12:58.183203+00:00",
+      "final_url": "https://www.python.org/jobs/type/back-end/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "connect-src 'self' https://console.python.org https://analytics.python.org https://server.ethicalads.io https://2p66nmmycsj3.statuspage.io; object-src 'none'; form-action 'self'; frame-src 'self' https://console.python.org; base-uri 'self'; script-src 'self' 'nonce-7OD4Sqs4YnDLJC0vjhsbSw==' https://analytics.python.org https://media.ethicalads.io https://server.ethicalads.io https://ajax.googleapis.com; img-src 'self' data: https:; frame-ancestors 'self'; font-src 'self' data:; style-src 'self' 'unsafe-inline' https://ajax.googleapis.com; default-src 'self'"
+        ],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 56955,
+      "truncated": false,
+      "body_sha256": "0780cfcb53c21df08fbd1b98bf9ae9ab9da5454c8555dd9607c3bd416720187e",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Python Job Board | Python.org",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "750",
+      "domain": "python.org",
+      "stratum": "101-1000",
+      "requested_url": "https://www.python.org/downloads/latest/prerelease/",
+      "depth": 2,
+      "parent_url": "https://www.python.org/downloads/",
+      "attempt": 40,
+      "timestamp": "2026-11-12T21:12:58.919710+00:00",
+      "final_url": "https://www.python.org/downloads/release/python-3160a2/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "style-src 'self' 'unsafe-inline' https://ajax.googleapis.com; default-src 'self'; font-src 'self' data:; object-src 'none'; frame-ancestors 'self'; script-src 'self' 'nonce-BtWG/ANuBZ6fapPoUkRZlg==' https://analytics.python.org https://media.ethicalads.io https://server.ethicalads.io https://ajax.googleapis.com; connect-src 'self' https://console.python.org https://analytics.python.org https://server.ethicalads.io https://2p66nmmycsj3.statuspage.io; frame-src 'self' https://console.python.org; img-src 'self' data: https:; base-uri 'self'; form-action 'self'; report-uri https://o20004.ingest.us.sentry.io/api/39935/security/?sentry_key=95f826ce8a6d47e9ab5dbb055c24eb74"
+        ],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 44402,
+      "truncated": false,
+      "body_sha256": "e7418b3657c7c04b6175ba0b39695eeee356eb53fef98d96cc8a800efe319286",
+      "redirect_chain": [
+        {
+          "url": "https://www.python.org/downloads/latest/prerelease/",
+          "status": 302,
+          "location": "/downloads/release/python-3160a2/",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [
+              "connect-src 'self' https://console.python.org https://analytics.python.org https://server.ethicalads.io https://2p66nmmycsj3.statuspage.io; frame-ancestors 'self'; font-src 'self' data:; base-uri 'self'; default-src 'self'; img-src 'self' data: https:; script-src 'self' https://analytics.python.org https://media.ethicalads.io https://server.ethicalads.io https://ajax.googleapis.com; object-src 'none'; form-action 'self'; frame-src 'self' https://console.python.org; style-src 'self' 'unsafe-inline' https://ajax.googleapis.com; report-uri https://o20004.ingest.us.sentry.io/api/39935/security/?sentry_key=95f826ce8a6d47e9ab5dbb055c24eb74"
+            ],
+            "strict-transport-security": [
+              "max-age=63072000; includeSubDomains; preload"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Python Release Python 3.16.0a2 | Python.org",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "750",
+      "domain": "python.org",
+      "stratum": "101-1000",
+      "requested_url": "https://www.python.org/doc/sunset-python-2/",
+      "depth": 2,
+      "parent_url": "https://www.python.org/doc/",
+      "attempt": 41,
+      "timestamp": "2026-11-12T21:12:59.563365+00:00",
+      "final_url": "https://www.python.org/doc/sunset-python-2/",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "style-src 'self' 'unsafe-inline' https://ajax.googleapis.com; frame-src 'self' https://console.python.org; form-action 'self'; font-src 'self' data:; object-src 'none'; img-src 'self' data: https:; frame-ancestors 'self'; connect-src 'self' https://console.python.org https://analytics.python.org https://server.ethicalads.io https://2p66nmmycsj3.statuspage.io; default-src 'self'; base-uri 'self'; script-src 'self' 'nonce-ac0Rb/O4UqHXKx5EJOf1SQ==' https://analytics.python.org https://media.ethicalads.io https://server.ethicalads.io https://ajax.googleapis.com"
+        ],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 38209,
+      "truncated": false,
+      "body_sha256": "95b573ec66043c2dc4080b931ef814ab59a89c37f3cb03e039b21c221f605f49",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Sunsetting Python 2 | Python.org",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "750",
+      "domain": "python.org",
+      "stratum": "101-1000",
+      "requested_url": "https://www.python.org/about/quotes/",
+      "depth": 1,
+      "parent_url": "https://www.python.org/",
+      "attempt": 42,
+      "timestamp": "2026-11-12T21:13:00.000904+00:00",
+      "final_url": "https://www.python.org/about/quotes/",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "font-src 'self' data:; default-src 'self'; object-src 'none'; script-src 'self' 'nonce-L2MXZ2LgAV8qWd4nBd4wUQ==' https://analytics.python.org https://media.ethicalads.io https://server.ethicalads.io https://ajax.googleapis.com; connect-src 'self' https://console.python.org https://analytics.python.org https://server.ethicalads.io https://2p66nmmycsj3.statuspage.io; frame-src 'self' https://console.python.org; base-uri 'self'; img-src 'self' data: https:; style-src 'self' 'unsafe-inline' https://ajax.googleapis.com; form-action 'self'; frame-ancestors 'self'"
+        ],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 40487,
+      "truncated": false,
+      "body_sha256": "53c8b23b5e7ab7e7a694e792078881f740fea718cf73f8d528c2b8592fb2c3c7",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Quotes about Python | Python.org",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "750",
+      "domain": "python.org",
+      "stratum": "101-1000",
+      "requested_url": "https://www.python.org/success-stories/using-python-to-build-a-solution-for-instant-tokenized-real-estate-redemptions/",
+      "depth": 2,
+      "parent_url": "https://www.python.org/success-stories/",
+      "attempt": 43,
+      "timestamp": "2026-11-12T21:13:00.611053+00:00",
+      "final_url": "https://www.python.org/success-stories/using-python-to-build-a-solution-for-instant-tokenized-real-estate-redemptions/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "font-src 'self' data:; default-src 'self'; object-src 'none'; script-src 'self' 'nonce-OWpgdTQYjLkMXqfr+ZYywg==' https://analytics.python.org https://media.ethicalads.io https://server.ethicalads.io https://ajax.googleapis.com; connect-src 'self' https://console.python.org https://analytics.python.org https://server.ethicalads.io https://2p66nmmycsj3.statuspage.io; frame-src 'self' https://console.python.org; base-uri 'self'; img-src 'self' data: https:; style-src 'self' 'unsafe-inline' https://ajax.googleapis.com; form-action 'self'; frame-ancestors 'self'"
+        ],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 39786,
+      "truncated": false,
+      "body_sha256": "6340a4f21c8ab9e027e981ea74836fa42d7659629f1de60ce20b05494e0a09f8",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Using Python to build a solution for instant tokenized real estate redemptions | Our Success Stories | Python.org",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "750",
+      "domain": "python.org",
+      "stratum": "101-1000",
+      "requested_url": "https://www.python.org/dev/core-mentorship/",
+      "depth": 1,
+      "parent_url": "https://www.python.org/",
+      "attempt": 44,
+      "timestamp": "2026-11-12T21:13:01.366462+00:00",
+      "final_url": "https://www.python.org/dev/core-mentorship/",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "font-src 'self' data:; default-src 'self'; object-src 'none'; script-src 'self' 'nonce-sF2dqlevfJEG9AzToC9sxw==' https://analytics.python.org https://media.ethicalads.io https://server.ethicalads.io https://ajax.googleapis.com; connect-src 'self' https://console.python.org https://analytics.python.org https://server.ethicalads.io https://2p66nmmycsj3.statuspage.io; frame-src 'self' https://console.python.org; base-uri 'self'; img-src 'self' data: https:; style-src 'self' 'unsafe-inline' https://ajax.googleapis.com; form-action 'self'; frame-ancestors 'self'"
+        ],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 36465,
+      "truncated": false,
+      "body_sha256": "dd8acd415ad1b34398fc91bbb0534ad370b1c7ac9268265cad4782c14720fc16",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Python Core Mentorship | Python.org",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "750",
+      "domain": "python.org",
+      "stratum": "101-1000",
+      "requested_url": "https://www.python.org/psf/records/board/minutes/2022-01-25/",
+      "depth": 5,
+      "parent_url": "https://www.python.org/psf/records/board/minutes/2022-02-24/",
+      "attempt": 45,
+      "timestamp": "2026-11-12T21:13:01.619138+00:00",
+      "final_url": "https://www.python.org/psf/records/board/minutes/2022-01-25/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "frame-src 'self' https://console.python.org; frame-ancestors 'self'; style-src 'self' 'unsafe-inline' https://ajax.googleapis.com; script-src 'self' 'nonce-lRaS1AHZZ/9QwrKebd/DLA==' https://analytics.python.org https://media.ethicalads.io https://server.ethicalads.io https://ajax.googleapis.com; object-src 'none'; img-src 'self' data: https:; default-src 'self'; form-action 'self'; connect-src 'self' https://console.python.org https://analytics.python.org https://server.ethicalads.io https://2p66nmmycsj3.statuspage.io; base-uri 'self'; font-src 'self' data:"
+        ],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 60074,
+      "truncated": false,
+      "body_sha256": "155e1283c5298e16e9e09ebb2a9f9a30d9f0bbf75a6150e9b3287227af5f72f1",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Jan. 25, 2022 | PSF Meeting Minutes | Python.org",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "750",
+      "domain": "python.org",
+      "stratum": "101-1000",
+      "requested_url": "https://www.python.org/nominations/elections/2026-python-packaging-council/nominees/paul-moore/",
+      "depth": 4,
+      "parent_url": "https://www.python.org/nominations/elections/2026-python-packaging-council/nominees/",
+      "attempt": 46,
+      "timestamp": "2026-11-12T21:13:02.413898+00:00",
+      "final_url": "https://www.python.org/nominations/elections/2026-python-packaging-council/nominees/paul-moore/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "form-action 'self'; connect-src 'self' https://console.python.org https://analytics.python.org https://server.ethicalads.io https://2p66nmmycsj3.statuspage.io; base-uri 'self'; style-src 'self' 'unsafe-inline' https://ajax.googleapis.com; frame-ancestors 'self'; default-src 'self'; object-src 'none'; script-src 'self' 'nonce-35+I01asV5yEgYUi5GXn9Q==' https://analytics.python.org https://media.ethicalads.io https://server.ethicalads.io https://ajax.googleapis.com; img-src 'self' data: https:; font-src 'self' data:; frame-src 'self' https://console.python.org"
+        ],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 34300,
+      "truncated": false,
+      "body_sha256": "feeb230901ab1d5170b8ba2cfe95f7c2cbc936652a99f8ec1c4e612c8654ae6f",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "\nNominee for 2026 Python Packaging Council Election\n| Python.org\n",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "750",
+      "domain": "python.org",
+      "stratum": "101-1000",
+      "requested_url": "https://www.python.org/download/releases/early",
+      "depth": 3,
+      "parent_url": "https://www.python.org/download/releases/",
+      "attempt": 47,
+      "timestamp": "2026-11-12T21:13:03.169166+00:00",
+      "final_url": "https://www.python.org/download/releases/early/",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "connect-src 'self' https://console.python.org https://analytics.python.org https://server.ethicalads.io https://2p66nmmycsj3.statuspage.io; form-action 'self'; default-src 'self'; font-src 'self' data:; img-src 'self' data: https:; style-src 'self' 'unsafe-inline' https://ajax.googleapis.com; script-src 'self' 'nonce-pd5sNp4VNwYySR9TmSrWrQ==' https://analytics.python.org https://media.ethicalads.io https://server.ethicalads.io https://ajax.googleapis.com; frame-src 'self' https://console.python.org; object-src 'none'; frame-ancestors 'self'; base-uri 'self'"
+        ],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 32949,
+      "truncated": false,
+      "body_sha256": "1abbdf8bf206e2e7c601292db34bc0188e745513b3de34a4548639cebb7fdb71",
+      "redirect_chain": [
+        {
+          "url": "https://www.python.org/download/releases/early",
+          "status": 301,
+          "location": "https://www.python.org/download/releases/early/",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [
+              "form-action 'self'; connect-src 'self' https://console.python.org https://analytics.python.org https://server.ethicalads.io https://2p66nmmycsj3.statuspage.io; base-uri 'self'; style-src 'self' 'unsafe-inline' https://ajax.googleapis.com; frame-ancestors 'self'; default-src 'self'; object-src 'none'; script-src 'self' 'nonce-C3LCvyvQvrJ/m4DdM0PAgg==' https://analytics.python.org https://media.ethicalads.io https://server.ethicalads.io https://ajax.googleapis.com; img-src 'self' data: https:; font-src 'self' data:; frame-src 'self' https://console.python.org"
+            ],
+            "strict-transport-security": [
+              "max-age=63072000; includeSubDomains; preload"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Ancient Releases | Python.org",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "750",
+      "domain": "python.org",
+      "stratum": "101-1000",
+      "requested_url": "https://www.python.org/community/jobs/",
+      "depth": 4,
+      "parent_url": "https://www.python.org/community/awards/psf-awards/",
+      "attempt": 48,
+      "timestamp": "2026-11-12T21:13:03.689073+00:00",
+      "final_url": "https://www.python.org/community/jobs/",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "connect-src 'self' https://console.python.org https://analytics.python.org https://server.ethicalads.io https://2p66nmmycsj3.statuspage.io; form-action 'self'; default-src 'self'; font-src 'self' data:; img-src 'self' data: https:; style-src 'self' 'unsafe-inline' https://ajax.googleapis.com; script-src 'self' 'nonce-o+fzTYz+nUBRD73XhCPv0w==' https://analytics.python.org https://media.ethicalads.io https://server.ethicalads.io https://ajax.googleapis.com; frame-src 'self' https://console.python.org; object-src 'none'; frame-ancestors 'self'; base-uri 'self'"
+        ],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 33372,
+      "truncated": false,
+      "body_sha256": "8836db3450f42929b3d04773672378e6177f1887c16a2851fa49793757d4878e",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Python Job Board | Python.org",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "750",
+      "domain": "python.org",
+      "stratum": "101-1000",
+      "requested_url": "https://www.python.org/events/python-user-group/2207/",
+      "depth": 3,
+      "parent_url": "https://www.python.org/events/python-user-group/2212/",
+      "attempt": 49,
+      "timestamp": "2026-11-12T21:13:04.197112+00:00",
+      "final_url": "https://www.python.org/events/python-user-group/2207/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "connect-src 'self' https://console.python.org https://analytics.python.org https://server.ethicalads.io https://2p66nmmycsj3.statuspage.io; object-src 'none'; form-action 'self'; frame-src 'self' https://console.python.org; base-uri 'self'; script-src 'self' 'nonce-sbh82HXvzPDImy9t1zFzcQ==' https://analytics.python.org https://media.ethicalads.io https://server.ethicalads.io https://ajax.googleapis.com; img-src 'self' data: https:; frame-ancestors 'self'; font-src 'self' data:; style-src 'self' 'unsafe-inline' https://ajax.googleapis.com; default-src 'self'"
+        ],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 36704,
+      "truncated": false,
+      "body_sha256": "2cd184d02edda3004acd11150f84099c1674c8d4c48f77876557e5eebd36a8c7",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Python Leiden User Group | Python.org",
+      "duplicate_final": false,
+      "eligible": true
+    }
+  ],
+  "robots": [
+    {
+      "url": "https://python.org/robots.txt",
+      "timestamp": "2026-11-12T21:12:34.200131+00:00",
+      "status": 200,
+      "decision": "parsed",
+      "final_url": "https://www.python.org/robots.txt",
+      "redirect_chain": [
+        {
+          "url": "https://python.org/robots.txt",
+          "status": 301,
+          "location": "https://www.python.org/robots.txt"
+        }
+      ],
+      "body_sha256": "18cb4cd525df8528491845e76f3af26c29c6795d02ea8133974d3b341a2ddd9f",
+      "body": "# Directions for robots.  See this URL:\n# http://www.robotstxt.org/robotstxt.html\n# for a description of the file format.\n\nUser-agent: HTTrack\nUser-agent: puf\nUser-agent: MSIECrawler\nDisallow: /\n\n# The Krugle web crawler (though based on Nutch) is OK.\nUser-agent: Krugle\nAllow: /\nDisallow: /~guido/orlijn/\nDisallow: /webstats/\n\n# No one should be crawling us with Nutch.\nUser-agent: Nutch\nDisallow: /\n\n# Hide old versions of the documentation and various large sets of files.\nUser-agent: *\nDisallow: /~guido/orlijn/\nDisallow: /webstats/\n"
+    },
+    {
+      "url": "https://www.python.org/robots.txt",
+      "timestamp": "2026-11-12T21:12:34.715831+00:00",
+      "status": 200,
+      "decision": "parsed",
+      "final_url": "https://www.python.org/robots.txt",
+      "redirect_chain": [],
+      "body_sha256": "18cb4cd525df8528491845e76f3af26c29c6795d02ea8133974d3b341a2ddd9f",
+      "body": "# Directions for robots.  See this URL:\n# http://www.robotstxt.org/robotstxt.html\n# for a description of the file format.\n\nUser-agent: HTTrack\nUser-agent: puf\nUser-agent: MSIECrawler\nDisallow: /\n\n# The Krugle web crawler (though based on Nutch) is OK.\nUser-agent: Krugle\nAllow: /\nDisallow: /~guido/orlijn/\nDisallow: /webstats/\n\n# No one should be crawling us with Nutch.\nUser-agent: Nutch\nDisallow: /\n\n# Hide old versions of the documentation and various large sets of files.\nUser-agent: *\nDisallow: /~guido/orlijn/\nDisallow: /webstats/\n"
+    }
+  ],
+  "eligible_pages": 40,
+  "canonical_origin": [
+    "https",
+    "www.python.org",
+    443
+  ],
+  "stop_reason": "page_budget",
+  "elapsed_seconds": 30.96
+}

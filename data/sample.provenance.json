@@ -1,0 +1,16 @@
+{
+  "retrieved_at": "2026-11-12T21:07:10.813568+00:00",
+  "source_url": "https://tranco-list.eu/top-1m.csv.zip",
+  "archive_sha256": "7bf8361b6a505575d825da11fcf87ad63e663d990d41d443991adb2650e375cb",
+  "seed": 20261112,
+  "sites": 150,
+  "strata": [
+    "1-100",
+    "101-1000",
+    "1001-10000"
+  ],
+  "design": "equal allocation without replacement within rank strata; descriptive, unweighted results",
+  "permanent_list_id": "PY2NJ",
+  "permanent_list_url": "https://tranco-list.eu/list/PY2NJ",
+  "verified_csv_sha256": "71d782050b0e0bdedce295ab14d2eb6e5c75d0e04cda1ac6493dce28ce6266cc"
+}

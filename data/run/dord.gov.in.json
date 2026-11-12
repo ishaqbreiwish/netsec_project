@@ -1,0 +1,88 @@
+{
+  "site": {
+    "rank": "1709",
+    "domain": "dord.gov.in",
+    "stratum": "1001-10000"
+  },
+  "rows": [
+    {
+      "rank": "1709",
+      "domain": "dord.gov.in",
+      "stratum": "1001-10000",
+      "requested_url": "https://dord.gov.in/",
+      "depth": 0,
+      "parent_url": "",
+      "attempt": 1,
+      "timestamp": "2026-11-12T21:13:33.519930+00:00",
+      "final_url": "https://www.dord.gov.in/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'self'; script-src * 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; connect-src *;   img-src * data:; font-src * data:; media-src *;  object-src *; connect-src *; frame-src *;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=15768000"
+        ]
+      },
+      "body_bytes": 7574,
+      "truncated": false,
+      "body_sha256": "43e9cd49ccafca2cdb38cc8c74824e6989bb47af564dc30116cc692dd80578cd",
+      "redirect_chain": [
+        {
+          "url": "https://dord.gov.in/",
+          "status": 302,
+          "location": "https://www.dord.gov.in/",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": []
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Home",
+      "duplicate_final": false,
+      "eligible": true
+    }
+  ],
+  "robots": [
+    {
+      "url": "https://dord.gov.in/robots.txt",
+      "timestamp": "2026-11-12T21:13:32.039744+00:00",
+      "status": 200,
+      "decision": "parsed",
+      "final_url": "https://www.dord.gov.in/robots.txt",
+      "redirect_chain": [
+        {
+          "url": "https://dord.gov.in/robots.txt",
+          "status": 302,
+          "location": "https://www.dord.gov.in/robots.txt"
+        }
+      ],
+      "body_sha256": "eaeaa8d3511d1622227d89707d995b8b1f0902f5b86fdbe58882d1cef260d4d7",
+      "body": "User-agent: *\r\nAllow: /"
+    },
+    {
+      "url": "https://www.dord.gov.in/robots.txt",
+      "timestamp": "2026-11-12T21:13:33.519904+00:00",
+      "status": 200,
+      "decision": "parsed",
+      "final_url": "https://www.dord.gov.in/robots.txt",
+      "redirect_chain": [],
+      "body_sha256": "eaeaa8d3511d1622227d89707d995b8b1f0902f5b86fdbe58882d1cef260d4d7",
+      "body": "User-agent: *\r\nAllow: /"
+    }
+  ],
+  "eligible_pages": 1,
+  "canonical_origin": [
+    "https",
+    "www.dord.gov.in",
+    443
+  ],
+  "stop_reason": "frontier_exhausted",
+  "elapsed_seconds": 4.92
+}

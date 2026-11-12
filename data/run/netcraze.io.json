@@ -1,0 +1,44 @@
+{
+  "site": {
+    "rank": "445",
+    "domain": "netcraze.io",
+    "stratum": "101-1000"
+  },
+  "rows": [
+    {
+      "rank": "445",
+      "domain": "netcraze.io",
+      "stratum": "101-1000",
+      "requested_url": "https://netcraze.io/",
+      "depth": 0,
+      "parent_url": "",
+      "attempt": 1,
+      "timestamp": "2026-11-12T21:12:12.113345+00:00",
+      "error": "robots_denied",
+      "final_url": "https://netcraze.io/",
+      "redirect_chain": [],
+      "html": false,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    }
+  ],
+  "robots": [
+    {
+      "url": "https://netcraze.io/robots.txt",
+      "timestamp": "2026-11-12T21:12:13.386514+00:00",
+      "status": 200,
+      "decision": "parsed",
+      "final_url": "https://netcraze.io/robots.txt",
+      "redirect_chain": [],
+      "body_sha256": "efdb5938a9736727f5cce2b60355588e4fa541d19d022d222d8a09b8efd5dcce",
+      "body": "User-agent: *\nDisallow: /"
+    }
+  ],
+  "eligible_pages": 0,
+  "canonical_origin": null,
+  "stop_reason": "frontier_exhausted",
+  "elapsed_seconds": 1.27
+}

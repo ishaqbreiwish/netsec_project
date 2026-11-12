@@ -1,0 +1,1881 @@
+{
+  "site": {
+    "rank": "95",
+    "domain": "nginx.org",
+    "stratum": "1-100"
+  },
+  "rows": [
+    {
+      "rank": "95",
+      "domain": "nginx.org",
+      "stratum": "1-100",
+      "requested_url": "https://nginx.org/",
+      "depth": 0,
+      "parent_url": "",
+      "attempt": 1,
+      "timestamp": "2026-11-12T21:11:32.166237+00:00",
+      "final_url": "https://nginx.org/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 6503,
+      "truncated": false,
+      "body_sha256": "c89c77b64bc4de01e4ecb86b904770574e58744f287d9332c5637351b475b6d3",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "nginx",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "95",
+      "domain": "nginx.org",
+      "stratum": "1-100",
+      "requested_url": "https://nginx.org/ru/",
+      "depth": 1,
+      "parent_url": "https://nginx.org/",
+      "attempt": 2,
+      "timestamp": "2026-11-12T21:11:32.697279+00:00",
+      "final_url": "https://nginx.org/ru/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 16165,
+      "truncated": false,
+      "body_sha256": "354efe102884ca473d06f3b57dbfa88dceb89c5d6495d0328fea01a2f6ea68bd",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "nginx",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "95",
+      "domain": "nginx.org",
+      "stratum": "1-100",
+      "requested_url": "https://nginx.org/news.html",
+      "depth": 1,
+      "parent_url": "https://nginx.org/",
+      "attempt": 3,
+      "timestamp": "2026-11-12T21:11:33.451066+00:00",
+      "final_url": "https://nginx.org/news.html",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 14751,
+      "truncated": false,
+      "body_sha256": "27ea020b45c0fad589b0a38016ab43a95d8a91e76b7c6e03154f6c3d81e21243",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "nginx news",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "95",
+      "domain": "nginx.org",
+      "stratum": "1-100",
+      "requested_url": "https://nginx.org/2026.html",
+      "depth": 2,
+      "parent_url": "https://nginx.org/news.html",
+      "attempt": 4,
+      "timestamp": "2026-11-12T21:11:34.270893+00:00",
+      "final_url": "https://nginx.org/2026.html",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 14770,
+      "truncated": false,
+      "body_sha256": "726b958cac80905dfe964424bb3739790925448f03969749ce705caaba461e42",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "nginx news: 2026",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "95",
+      "domain": "nginx.org",
+      "stratum": "1-100",
+      "requested_url": "https://nginx.org/2025.html",
+      "depth": 2,
+      "parent_url": "https://nginx.org/news.html",
+      "attempt": 5,
+      "timestamp": "2026-11-12T21:11:34.512755+00:00",
+      "final_url": "https://nginx.org/2025.html",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 9985,
+      "truncated": false,
+      "body_sha256": "ed3129b5e83ee3f3c21c2d47f5f7cb1228780778cf2f222b9ba493cbac627c33",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "nginx news: 2025",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "95",
+      "domain": "nginx.org",
+      "stratum": "1-100",
+      "requested_url": "https://nginx.org/en/docs/stream/ngx_stream_ssl_module.html",
+      "depth": 3,
+      "parent_url": "https://nginx.org/2025.html",
+      "attempt": 6,
+      "timestamp": "2026-11-12T21:11:34.945987+00:00",
+      "final_url": "https://nginx.org/en/docs/stream/ngx_stream_ssl_module.html",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 60616,
+      "truncated": false,
+      "body_sha256": "5dfefe74ce111b1007d82d8f4f3eb3f4148c31a5cce46fafc7ba09a780acbfe0",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Module ngx_stream_ssl_module",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "95",
+      "domain": "nginx.org",
+      "stratum": "1-100",
+      "requested_url": "https://nginx.org/LICENSE",
+      "depth": 1,
+      "parent_url": "https://nginx.org/",
+      "attempt": 7,
+      "timestamp": "2026-11-12T21:11:36.075571+00:00",
+      "final_url": "https://nginx.org/LICENSE",
+      "status": 200,
+      "content_type": "text/plain; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 1397,
+      "truncated": false,
+      "body_sha256": "84d5d5e86a65567c8310a6798ed9110c665f715b586905cdbe28f857511ae261",
+      "redirect_chain": [],
+      "html": false,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "95",
+      "domain": "nginx.org",
+      "stratum": "1-100",
+      "requested_url": "https://nginx.org/2024.html",
+      "depth": 2,
+      "parent_url": "https://nginx.org/news.html",
+      "attempt": 8,
+      "timestamp": "2026-11-12T21:11:36.731074+00:00",
+      "final_url": "https://nginx.org/2024.html",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 8972,
+      "truncated": false,
+      "body_sha256": "259cd7113439cda6412365bcb3df56c8c3e1e8a568bbcd0ec45deeca58a0af4d",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "nginx news: 2024",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "95",
+      "domain": "nginx.org",
+      "stratum": "1-100",
+      "requested_url": "https://nginx.org/2023.html",
+      "depth": 2,
+      "parent_url": "https://nginx.org/news.html",
+      "attempt": 9,
+      "timestamp": "2026-11-12T21:11:37.527964+00:00",
+      "final_url": "https://nginx.org/2023.html",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 8667,
+      "truncated": false,
+      "body_sha256": "549e2cc64e30d1a36f10c38833d05b472879225e9ec1c7774e2fee4ff0f359df",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "nginx news: 2023",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "95",
+      "domain": "nginx.org",
+      "stratum": "1-100",
+      "requested_url": "https://nginx.org/2022.html",
+      "depth": 2,
+      "parent_url": "https://nginx.org/news.html",
+      "attempt": 10,
+      "timestamp": "2026-11-12T21:11:38.045703+00:00",
+      "final_url": "https://nginx.org/2022.html",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 8001,
+      "truncated": false,
+      "body_sha256": "6b1cd4c1500134f65a6ee65c28a87347b5615d33e188275e5eb7e34923c850d9",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "nginx news: 2022",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "95",
+      "domain": "nginx.org",
+      "stratum": "1-100",
+      "requested_url": "https://nginx.org/2021.html",
+      "depth": 2,
+      "parent_url": "https://nginx.org/news.html",
+      "attempt": 11,
+      "timestamp": "2026-11-12T21:11:38.704713+00:00",
+      "final_url": "https://nginx.org/2021.html",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 10950,
+      "truncated": false,
+      "body_sha256": "fcf485a00f238d9b787e11eb2b2583feaf329e6cfad5e3ae46de21db0e7f65cd",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "nginx news: 2021",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "95",
+      "domain": "nginx.org",
+      "stratum": "1-100",
+      "requested_url": "https://nginx.org/2020.html",
+      "depth": 2,
+      "parent_url": "https://nginx.org/news.html",
+      "attempt": 12,
+      "timestamp": "2026-11-12T21:11:39.244685+00:00",
+      "final_url": "https://nginx.org/2020.html",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 10853,
+      "truncated": false,
+      "body_sha256": "bbe2195a29e4cc125fbfdd535351c2f6bc20dee8cbcb0a97e013c7276de50851",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "nginx news: 2020",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "95",
+      "domain": "nginx.org",
+      "stratum": "1-100",
+      "requested_url": "https://nginx.org/2019.html",
+      "depth": 2,
+      "parent_url": "https://nginx.org/news.html",
+      "attempt": 13,
+      "timestamp": "2026-11-12T21:11:39.859341+00:00",
+      "final_url": "https://nginx.org/2019.html",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 10842,
+      "truncated": false,
+      "body_sha256": "dcf3c169b3c0237d6ef663826dfe79eeb0ee238bc21aca3377c501487736c186",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "nginx news: 2019",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "95",
+      "domain": "nginx.org",
+      "stratum": "1-100",
+      "requested_url": "https://nginx.org/2018.html",
+      "depth": 2,
+      "parent_url": "https://nginx.org/news.html",
+      "attempt": 14,
+      "timestamp": "2026-11-12T21:11:40.561750+00:00",
+      "final_url": "https://nginx.org/2018.html",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 12319,
+      "truncated": false,
+      "body_sha256": "cbca31fb5647c79d04692c359fcfd88484e617c77ab9005ad61ec7c459f79699",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "nginx news: 2018",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "95",
+      "domain": "nginx.org",
+      "stratum": "1-100",
+      "requested_url": "https://nginx.org/2017.html",
+      "depth": 2,
+      "parent_url": "https://nginx.org/news.html",
+      "attempt": 15,
+      "timestamp": "2026-11-12T21:11:41.083062+00:00",
+      "final_url": "https://nginx.org/2017.html",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 6844,
+      "truncated": false,
+      "body_sha256": "81e313704cc8f60902219e3e0a1c576267b09f3a893a9de021d490e7bc180847",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "nginx news: 2017",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "95",
+      "domain": "nginx.org",
+      "stratum": "1-100",
+      "requested_url": "https://nginx.org/2016.html",
+      "depth": 2,
+      "parent_url": "https://nginx.org/news.html",
+      "attempt": 16,
+      "timestamp": "2026-11-12T21:11:41.716739+00:00",
+      "final_url": "https://nginx.org/2016.html",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 6469,
+      "truncated": false,
+      "body_sha256": "90b3540c6f71a0c4f26d177546004091fe3ef54d5b400cef730a613546a9c00d",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "nginx news: 2016",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "95",
+      "domain": "nginx.org",
+      "stratum": "1-100",
+      "requested_url": "https://nginx.org/2015.html",
+      "depth": 2,
+      "parent_url": "https://nginx.org/news.html",
+      "attempt": 17,
+      "timestamp": "2026-11-12T21:11:42.372070+00:00",
+      "final_url": "https://nginx.org/2015.html",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 6738,
+      "truncated": false,
+      "body_sha256": "0e9ef4944738849d33f1f7181c8541d14718fee3a882fb868dca74ac56c94ef2",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "nginx news: 2015",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "95",
+      "domain": "nginx.org",
+      "stratum": "1-100",
+      "requested_url": "https://nginx.org/2014.html",
+      "depth": 2,
+      "parent_url": "https://nginx.org/news.html",
+      "attempt": 18,
+      "timestamp": "2026-11-12T21:11:43.020339+00:00",
+      "final_url": "https://nginx.org/2014.html",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 7519,
+      "truncated": false,
+      "body_sha256": "2192461e1adc33a0e77f9fca810ecd0c8e354dd3fd26be0fa0dfcb8fdc0c9e70",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "nginx news: 2014",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "95",
+      "domain": "nginx.org",
+      "stratum": "1-100",
+      "requested_url": "https://nginx.org/2013.html",
+      "depth": 2,
+      "parent_url": "https://nginx.org/news.html",
+      "attempt": 19,
+      "timestamp": "2026-11-12T21:11:43.705240+00:00",
+      "final_url": "https://nginx.org/2013.html",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 8133,
+      "truncated": false,
+      "body_sha256": "24acf43d09f239795631ae03b735a625e74d9a89028a6b5021bdb6ed5f05925d",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "nginx news: 2013",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "95",
+      "domain": "nginx.org",
+      "stratum": "1-100",
+      "requested_url": "https://nginx.org/2012.html",
+      "depth": 2,
+      "parent_url": "https://nginx.org/news.html",
+      "attempt": 20,
+      "timestamp": "2026-11-12T21:11:44.274904+00:00",
+      "final_url": "https://nginx.org/2012.html",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 8772,
+      "truncated": false,
+      "body_sha256": "53f12653ef7d3cc676626f864a416ac201bf909d7fce30a7f667c40872babdd1",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "nginx news: 2012",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "95",
+      "domain": "nginx.org",
+      "stratum": "1-100",
+      "requested_url": "https://nginx.org/cn/",
+      "depth": 3,
+      "parent_url": "https://nginx.org/2012.html",
+      "attempt": 21,
+      "timestamp": "2026-11-12T21:11:45.619096+00:00",
+      "final_url": "https://nginx.org/en/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 12665,
+      "truncated": false,
+      "body_sha256": "d85f7fe637b7fdf1af70e9feac1b7afa68aae7a289bff81cfc974846b165d4bf",
+      "redirect_chain": [
+        {
+          "url": "https://nginx.org/cn/",
+          "status": 302,
+          "location": "https://nginx.org/en/",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "nginx",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "95",
+      "domain": "nginx.org",
+      "stratum": "1-100",
+      "requested_url": "https://nginx.org/2011.html",
+      "depth": 2,
+      "parent_url": "https://nginx.org/news.html",
+      "attempt": 22,
+      "timestamp": "2026-11-12T21:11:46.165161+00:00",
+      "final_url": "https://nginx.org/2011.html",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 12016,
+      "truncated": false,
+      "body_sha256": "fa068977bf353d770370ba726fc242e5d5e593d9fb1da48d7cf5d9185ee2e14f",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "nginx news: 2011",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "95",
+      "domain": "nginx.org",
+      "stratum": "1-100",
+      "requested_url": "https://nginx.org/ja/",
+      "depth": 3,
+      "parent_url": "https://nginx.org/2011.html",
+      "attempt": 23,
+      "timestamp": "2026-11-12T21:11:47.527301+00:00",
+      "final_url": "https://nginx.org/en/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 12665,
+      "truncated": false,
+      "body_sha256": "d85f7fe637b7fdf1af70e9feac1b7afa68aae7a289bff81cfc974846b165d4bf",
+      "redirect_chain": [
+        {
+          "url": "https://nginx.org/ja/",
+          "status": 302,
+          "location": "https://nginx.org/en/",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "nginx",
+      "duplicate_final": true,
+      "eligible": false
+    },
+    {
+      "rank": "95",
+      "domain": "nginx.org",
+      "stratum": "1-100",
+      "requested_url": "https://nginx.org/2010.html",
+      "depth": 2,
+      "parent_url": "https://nginx.org/news.html",
+      "attempt": 24,
+      "timestamp": "2026-11-12T21:11:48.159443+00:00",
+      "final_url": "https://nginx.org/2010.html",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 11212,
+      "truncated": false,
+      "body_sha256": "42208ccb3b45caf7e652162307ba675fad717d7f7b8e05b9b2d33f1d8c00cf60",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "nginx news: 2010",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "95",
+      "domain": "nginx.org",
+      "stratum": "1-100",
+      "requested_url": "https://nginx.org/he/",
+      "depth": 3,
+      "parent_url": "https://nginx.org/2010.html",
+      "attempt": 25,
+      "timestamp": "2026-11-12T21:11:49.300373+00:00",
+      "final_url": "https://nginx.org/en/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 12665,
+      "truncated": false,
+      "body_sha256": "d85f7fe637b7fdf1af70e9feac1b7afa68aae7a289bff81cfc974846b165d4bf",
+      "redirect_chain": [
+        {
+          "url": "https://nginx.org/he/",
+          "status": 302,
+          "location": "https://nginx.org/en/",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "nginx",
+      "duplicate_final": true,
+      "eligible": false
+    },
+    {
+      "rank": "95",
+      "domain": "nginx.org",
+      "stratum": "1-100",
+      "requested_url": "https://nginx.org/tr/",
+      "depth": 3,
+      "parent_url": "https://nginx.org/2010.html",
+      "attempt": 26,
+      "timestamp": "2026-11-12T21:11:50.636498+00:00",
+      "final_url": "https://nginx.org/en/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 12665,
+      "truncated": false,
+      "body_sha256": "d85f7fe637b7fdf1af70e9feac1b7afa68aae7a289bff81cfc974846b165d4bf",
+      "redirect_chain": [
+        {
+          "url": "https://nginx.org/tr/",
+          "status": 302,
+          "location": "https://nginx.org/en/",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "nginx",
+      "duplicate_final": true,
+      "eligible": false
+    },
+    {
+      "rank": "95",
+      "domain": "nginx.org",
+      "stratum": "1-100",
+      "requested_url": "https://nginx.org/2009.html",
+      "depth": 2,
+      "parent_url": "https://nginx.org/news.html",
+      "attempt": 27,
+      "timestamp": "2026-11-12T21:11:51.368622+00:00",
+      "final_url": "https://nginx.org/2009.html",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 3516,
+      "truncated": false,
+      "body_sha256": "8267db6d1297a3b827cd69cc29e87db6ec790cbef42e06cd27f96983559c0b31",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "nginx news: 2009",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "95",
+      "domain": "nginx.org",
+      "stratum": "1-100",
+      "requested_url": "https://nginx.org/en/docs/ngx_core_module.html",
+      "depth": 4,
+      "parent_url": "https://nginx.org/en/docs/stream/ngx_stream_ssl_module.html",
+      "attempt": 28,
+      "timestamp": "2026-11-12T21:11:52.162287+00:00",
+      "final_url": "https://nginx.org/en/docs/ngx_core_module.html",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 43765,
+      "truncated": false,
+      "body_sha256": "539e8520f03b421d3795cd21bd6d1032d869d6690a8e609acd3db47f4e501b7e",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Core functionality",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "95",
+      "domain": "nginx.org",
+      "stratum": "1-100",
+      "requested_url": "https://nginx.org/ru/docs/ngx_core_module.html",
+      "depth": 5,
+      "parent_url": "https://nginx.org/en/docs/ngx_core_module.html",
+      "attempt": 29,
+      "timestamp": "2026-11-12T21:11:53.339972+00:00",
+      "final_url": "https://nginx.org/ru/docs/ngx_core_module.html",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 52486,
+      "truncated": false,
+      "body_sha256": "6e62235db7b469e7a90e584272e449059af3388244737f16e72201bd748355a8",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "\u041e\u0441\u043d\u043e\u0432\u043d\u0430\u044f \u0444\u0443\u043d\u043a\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0441\u0442\u044c",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "95",
+      "domain": "nginx.org",
+      "stratum": "1-100",
+      "requested_url": "https://nginx.org/en/docs/http/configuring_https_servers.html",
+      "depth": 4,
+      "parent_url": "https://nginx.org/en/docs/stream/ngx_stream_ssl_module.html",
+      "attempt": 30,
+      "timestamp": "2026-11-12T21:11:54.320516+00:00",
+      "final_url": "https://nginx.org/en/docs/http/configuring_https_servers.html",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 19303,
+      "truncated": false,
+      "body_sha256": "15fb01e5a341e6c3028c5f68a28c07165cb7282dddcc692fdbb74b757e9b2e58",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Configuring HTTPS servers",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "95",
+      "domain": "nginx.org",
+      "stratum": "1-100",
+      "requested_url": "https://nginx.org/ru/docs/http/configuring_https_servers.html",
+      "depth": 5,
+      "parent_url": "https://nginx.org/en/docs/http/configuring_https_servers.html",
+      "attempt": 31,
+      "timestamp": "2026-11-12T21:11:55.359840+00:00",
+      "final_url": "https://nginx.org/ru/docs/http/configuring_https_servers.html",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 27211,
+      "truncated": false,
+      "body_sha256": "18adc81a5be0c70775a4007a9a8a1eae4f1ae5fae748b6d23932308c6c47a150",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "\u041d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0430 HTTPS-\u0441\u0435\u0440\u0432\u0435\u0440\u043e\u0432",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "95",
+      "domain": "nginx.org",
+      "stratum": "1-100",
+      "requested_url": "https://nginx.org/en/docs/stream/ngx_stream_core_module.html",
+      "depth": 4,
+      "parent_url": "https://nginx.org/en/docs/stream/ngx_stream_ssl_module.html",
+      "attempt": 32,
+      "timestamp": "2026-11-12T21:11:56.289329+00:00",
+      "final_url": "https://nginx.org/en/docs/stream/ngx_stream_core_module.html",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 38988,
+      "truncated": false,
+      "body_sha256": "5b014bc5ac692569eeb750a14c13ad3b78787a202bc9b1e7e4824be904233f35",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Module ngx_stream_core_module",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "95",
+      "domain": "nginx.org",
+      "stratum": "1-100",
+      "requested_url": "https://nginx.org/ru/docs/stream/ngx_stream_core_module.html",
+      "depth": 5,
+      "parent_url": "https://nginx.org/en/docs/stream/ngx_stream_core_module.html",
+      "attempt": 33,
+      "timestamp": "2026-11-12T21:11:57.040530+00:00",
+      "final_url": "https://nginx.org/ru/docs/stream/ngx_stream_core_module.html",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 49253,
+      "truncated": false,
+      "body_sha256": "e716f1580ccc2cc1c6748fe2ed2d88d340c00b8e42b4e07a3533a7202b161914",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "\u041c\u043e\u0434\u0443\u043b\u044c ngx_stream_core_module",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "95",
+      "domain": "nginx.org",
+      "stratum": "1-100",
+      "requested_url": "https://nginx.org/en/",
+      "depth": 1,
+      "parent_url": "https://nginx.org/",
+      "attempt": 34,
+      "timestamp": "2026-11-12T21:11:57.974458+00:00",
+      "final_url": "https://nginx.org/en/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 12665,
+      "truncated": false,
+      "body_sha256": "d85f7fe637b7fdf1af70e9feac1b7afa68aae7a289bff81cfc974846b165d4bf",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "nginx",
+      "duplicate_final": true,
+      "eligible": false
+    },
+    {
+      "rank": "95",
+      "domain": "nginx.org",
+      "stratum": "1-100",
+      "requested_url": "https://nginx.org/ru/download.html",
+      "depth": 2,
+      "parent_url": "https://nginx.org/ru/",
+      "attempt": 35,
+      "timestamp": "2026-11-12T21:11:58.618507+00:00",
+      "final_url": "https://nginx.org/ru/download.html",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 9949,
+      "truncated": false,
+      "body_sha256": "be0c08f7d5154f0bf1c46d766d946790eeeb4f02989e65600967d9feeda09e5a",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "nginx: \u0441\u043a\u0430\u0447\u0430\u0442\u044c",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "95",
+      "domain": "nginx.org",
+      "stratum": "1-100",
+      "requested_url": "https://nginx.org/download/nginx-1.31.8.tar.gz.asc",
+      "depth": 3,
+      "parent_url": "https://nginx.org/ru/download.html",
+      "attempt": 36,
+      "timestamp": "2026-11-12T21:11:59.148410+00:00",
+      "final_url": "https://nginx.org/download/nginx-1.31.8.tar.gz.asc",
+      "status": 200,
+      "content_type": "application/octet-stream",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 862,
+      "truncated": false,
+      "body_sha256": "4dc5609ad6a51f2f5ce7d7375b8193580abc557b6d96bc0277f1ec2dbd7376c8",
+      "redirect_chain": [],
+      "html": false,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "95",
+      "domain": "nginx.org",
+      "stratum": "1-100",
+      "requested_url": "https://nginx.org/download/nginx-1.31.8.zip.asc",
+      "depth": 3,
+      "parent_url": "https://nginx.org/ru/download.html",
+      "attempt": 37,
+      "timestamp": "2026-11-12T21:11:59.808190+00:00",
+      "final_url": "https://nginx.org/download/nginx-1.31.8.zip.asc",
+      "status": 200,
+      "content_type": "application/octet-stream",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 862,
+      "truncated": false,
+      "body_sha256": "6416986591540055a41d30d3b81bf388c5dd5e01f9f081d1d11447aaed365308",
+      "redirect_chain": [],
+      "html": false,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "95",
+      "domain": "nginx.org",
+      "stratum": "1-100",
+      "requested_url": "https://nginx.org/download/nginx-1.30.6.tar.gz.asc",
+      "depth": 3,
+      "parent_url": "https://nginx.org/ru/download.html",
+      "attempt": 38,
+      "timestamp": "2026-11-12T21:12:00.625472+00:00",
+      "final_url": "https://nginx.org/download/nginx-1.30.6.tar.gz.asc",
+      "status": 200,
+      "content_type": "application/octet-stream",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 862,
+      "truncated": false,
+      "body_sha256": "42a21739576b5c01a7329667858a5da987672c8cb16a0e5122e5da4aa5238500",
+      "redirect_chain": [],
+      "html": false,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "95",
+      "domain": "nginx.org",
+      "stratum": "1-100",
+      "requested_url": "https://nginx.org/download/nginx-1.30.6.zip.asc",
+      "depth": 3,
+      "parent_url": "https://nginx.org/ru/download.html",
+      "attempt": 39,
+      "timestamp": "2026-11-12T21:12:01.217931+00:00",
+      "final_url": "https://nginx.org/download/nginx-1.30.6.zip.asc",
+      "status": 200,
+      "content_type": "application/octet-stream",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 862,
+      "truncated": false,
+      "body_sha256": "0787f3a5675cf917e065372884ec0bc364ea13279c84b6aa3a50af9bcbf72752",
+      "redirect_chain": [],
+      "html": false,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "95",
+      "domain": "nginx.org",
+      "stratum": "1-100",
+      "requested_url": "https://nginx.org/download/nginx-1.28.3.tar.gz.asc",
+      "depth": 3,
+      "parent_url": "https://nginx.org/ru/download.html",
+      "attempt": 40,
+      "timestamp": "2026-11-12T21:12:01.884723+00:00",
+      "final_url": "https://nginx.org/download/nginx-1.28.3.tar.gz.asc",
+      "status": 200,
+      "content_type": "application/octet-stream",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 862,
+      "truncated": false,
+      "body_sha256": "aa6f888e14b21283a6cb1cb6005efd91266a0c1bdc87e88ba9d80dbd47e44769",
+      "redirect_chain": [],
+      "html": false,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "95",
+      "domain": "nginx.org",
+      "stratum": "1-100",
+      "requested_url": "https://nginx.org/en/docs/http/server_names.html",
+      "depth": 4,
+      "parent_url": "https://nginx.org/en/docs/stream/ngx_stream_ssl_module.html",
+      "attempt": 41,
+      "timestamp": "2026-11-12T21:12:02.577474+00:00",
+      "final_url": "https://nginx.org/en/docs/http/server_names.html",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 18266,
+      "truncated": false,
+      "body_sha256": "c8ca5e0fbaa0216bb0cdc8b4ff0a0c6d4af06c58d88cdc0f1a616f1391e6c492",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Server names",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "95",
+      "domain": "nginx.org",
+      "stratum": "1-100",
+      "requested_url": "https://nginx.org/ru/docs/http/server_names.html",
+      "depth": 5,
+      "parent_url": "https://nginx.org/en/docs/http/server_names.html",
+      "attempt": 42,
+      "timestamp": "2026-11-12T21:12:03.262016+00:00",
+      "final_url": "https://nginx.org/ru/docs/http/server_names.html",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 26294,
+      "truncated": false,
+      "body_sha256": "22edf9e5b38b3364130784457e1acbfc7aca35b60244722310cc497cb55f6526",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "\u0418\u043c\u0435\u043d\u0430 \u0441\u0435\u0440\u0432\u0435\u0440\u0430",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "95",
+      "domain": "nginx.org",
+      "stratum": "1-100",
+      "requested_url": "https://nginx.org/download/nginx-1.28.3.zip.asc",
+      "depth": 3,
+      "parent_url": "https://nginx.org/ru/download.html",
+      "attempt": 43,
+      "timestamp": "2026-11-12T21:12:03.976622+00:00",
+      "final_url": "https://nginx.org/download/nginx-1.28.3.zip.asc",
+      "status": 200,
+      "content_type": "application/octet-stream",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 862,
+      "truncated": false,
+      "body_sha256": "c80ef15c2855e3beb040850e9431b70dbb435a3983e020b5e6aba6c117a1e297",
+      "redirect_chain": [],
+      "html": false,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "95",
+      "domain": "nginx.org",
+      "stratum": "1-100",
+      "requested_url": "https://nginx.org/en/download.html",
+      "depth": 1,
+      "parent_url": "https://nginx.org/",
+      "attempt": 44,
+      "timestamp": "2026-11-12T21:12:04.678531+00:00",
+      "final_url": "https://nginx.org/en/download.html",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 9670,
+      "truncated": false,
+      "body_sha256": "0a60294ea21af5ffdf496285ee8ecad5c64c0bc061154f2284302bcd0e5ed7e4",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "nginx: download",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "95",
+      "domain": "nginx.org",
+      "stratum": "1-100",
+      "requested_url": "https://nginx.org/ru/CHANGES.ru",
+      "depth": 3,
+      "parent_url": "https://nginx.org/ru/download.html",
+      "attempt": 45,
+      "timestamp": "2026-11-12T21:12:05.211641+00:00",
+      "final_url": "https://nginx.org/ru/CHANGES.ru",
+      "status": 200,
+      "content_type": "text/plain; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 545695,
+      "truncated": false,
+      "body_sha256": "1d85f5f264004150493f967c1f7bea6806969d66928f0f91ef00bfeb7d4c9ec0",
+      "redirect_chain": [],
+      "html": false,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "95",
+      "domain": "nginx.org",
+      "stratum": "1-100",
+      "requested_url": "https://nginx.org/download/nginx-1.26.3.tar.gz.asc",
+      "depth": 3,
+      "parent_url": "https://nginx.org/ru/download.html",
+      "attempt": 46,
+      "timestamp": "2026-11-12T21:12:06.830521+00:00",
+      "final_url": "https://nginx.org/download/nginx-1.26.3.tar.gz.asc",
+      "status": 200,
+      "content_type": "application/octet-stream",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 862,
+      "truncated": false,
+      "body_sha256": "faa36c1c57af475445b2a50d203fea314ed1db6a3399ed95c79ae7e99478a9f3",
+      "redirect_chain": [],
+      "html": false,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "95",
+      "domain": "nginx.org",
+      "stratum": "1-100",
+      "requested_url": "https://nginx.org/en/docs/http/ngx_http_index_module.html",
+      "depth": 4,
+      "parent_url": "https://nginx.org/en/",
+      "attempt": 47,
+      "timestamp": "2026-11-12T21:12:07.414610+00:00",
+      "final_url": "https://nginx.org/en/docs/http/ngx_http_index_module.html",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 4579,
+      "truncated": false,
+      "body_sha256": "8253dfd7862d60580c0db6ac1e5b57b71d0e67ff417079e6bec3d596f1bf6859",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Module ngx_http_index_module",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "95",
+      "domain": "nginx.org",
+      "stratum": "1-100",
+      "requested_url": "https://nginx.org/ru/CHANGES.ru-1.30",
+      "depth": 3,
+      "parent_url": "https://nginx.org/ru/download.html",
+      "attempt": 48,
+      "timestamp": "2026-11-12T21:12:08.051210+00:00",
+      "final_url": "https://nginx.org/ru/CHANGES.ru-1.30",
+      "status": 200,
+      "content_type": "text/plain; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 535725,
+      "truncated": false,
+      "body_sha256": "26f4a4f10bce25ec3b368b49f00f7c8a5e02b2e6d6e3875ad6d050cb51b7f96b",
+      "redirect_chain": [],
+      "html": false,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "95",
+      "domain": "nginx.org",
+      "stratum": "1-100",
+      "requested_url": "https://nginx.org/download/nginx-1.26.3.zip.asc",
+      "depth": 3,
+      "parent_url": "https://nginx.org/ru/download.html",
+      "attempt": 49,
+      "timestamp": "2026-11-12T21:12:09.742027+00:00",
+      "final_url": "https://nginx.org/download/nginx-1.26.3.zip.asc",
+      "status": 200,
+      "content_type": "application/octet-stream",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 862,
+      "truncated": false,
+      "body_sha256": "c9d34159e799a4f000393648b361e4e532fa4ad939dafb1b75b67a549afb5119",
+      "redirect_chain": [],
+      "html": false,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "95",
+      "domain": "nginx.org",
+      "stratum": "1-100",
+      "requested_url": "https://nginx.org/en/docs/stream/stream_processing.html",
+      "depth": 5,
+      "parent_url": "https://nginx.org/en/docs/stream/ngx_stream_core_module.html",
+      "attempt": 50,
+      "timestamp": "2026-11-12T21:12:10.439194+00:00",
+      "final_url": "https://nginx.org/en/docs/stream/stream_processing.html",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 4592,
+      "truncated": false,
+      "body_sha256": "1eb4e8b72c3b31722c4e0f97cee8a3fd5c9c5ab173b781607f497ac1c838648b",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "How nginx processes a TCP/UDP session",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "95",
+      "domain": "nginx.org",
+      "stratum": "1-100",
+      "requested_url": "https://nginx.org/ru/CHANGES.ru-1.28",
+      "depth": 3,
+      "parent_url": "https://nginx.org/ru/download.html",
+      "attempt": 51,
+      "timestamp": "2026-11-12T21:12:11.086220+00:00",
+      "final_url": "https://nginx.org/ru/CHANGES.ru-1.28",
+      "status": 200,
+      "content_type": "text/plain; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 513476,
+      "truncated": false,
+      "body_sha256": "1b5fce6ccac57c5ada99c8c64da0953abc58dc851bc3f09325dcb4697890702d",
+      "redirect_chain": [],
+      "html": false,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "95",
+      "domain": "nginx.org",
+      "stratum": "1-100",
+      "requested_url": "https://nginx.org/download/nginx-1.24.0.tar.gz.asc",
+      "depth": 3,
+      "parent_url": "https://nginx.org/ru/download.html",
+      "attempt": 52,
+      "timestamp": "2026-11-12T21:12:12.677381+00:00",
+      "final_url": "https://nginx.org/download/nginx-1.24.0.tar.gz.asc",
+      "status": 200,
+      "content_type": "application/octet-stream",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 683,
+      "truncated": false,
+      "body_sha256": "91ed170a5e8745fcd32eb60aefa6d60dfd572ac3e4c9bdbfc4bedd78c24f213c",
+      "redirect_chain": [],
+      "html": false,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "95",
+      "domain": "nginx.org",
+      "stratum": "1-100",
+      "requested_url": "https://nginx.org/en/security_advisories.html",
+      "depth": 1,
+      "parent_url": "https://nginx.org/",
+      "attempt": 53,
+      "timestamp": "2026-11-12T21:12:13.329056+00:00",
+      "final_url": "https://nginx.org/en/security_advisories.html",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 25383,
+      "truncated": false,
+      "body_sha256": "f877282123352668ecb291a0d320ada67bebf70fc320f6d16d339b5e78c6e076",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "nginx security advisories",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "95",
+      "domain": "nginx.org",
+      "stratum": "1-100",
+      "requested_url": "https://nginx.org/ru/CHANGES.ru-1.26",
+      "depth": 3,
+      "parent_url": "https://nginx.org/ru/download.html",
+      "attempt": 54,
+      "timestamp": "2026-11-12T21:12:14.264574+00:00",
+      "final_url": "https://nginx.org/ru/CHANGES.ru-1.26",
+      "status": 200,
+      "content_type": "text/plain; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 502939,
+      "truncated": false,
+      "body_sha256": "b73279868149886f0d0130433c04345e3e1f4de36f9b619a3f2493462262ca5c",
+      "redirect_chain": [],
+      "html": false,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "95",
+      "domain": "nginx.org",
+      "stratum": "1-100",
+      "requested_url": "https://nginx.org/download/nginx-1.24.0.zip.asc",
+      "depth": 3,
+      "parent_url": "https://nginx.org/ru/download.html",
+      "attempt": 55,
+      "timestamp": "2026-11-12T21:12:15.814303+00:00",
+      "final_url": "https://nginx.org/download/nginx-1.24.0.zip.asc",
+      "status": 200,
+      "content_type": "application/octet-stream",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 683,
+      "truncated": false,
+      "body_sha256": "d35b9813f9b4897b53ceaaf8e5b8b02a35e03cd764f8782ec4e12e3ffa31a46a",
+      "redirect_chain": [],
+      "html": false,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "95",
+      "domain": "nginx.org",
+      "stratum": "1-100",
+      "requested_url": "https://nginx.org/en/docs/http/ngx_http_autoindex_module.html",
+      "depth": 4,
+      "parent_url": "https://nginx.org/en/",
+      "attempt": 56,
+      "timestamp": "2026-11-12T21:12:16.453957+00:00",
+      "final_url": "https://nginx.org/en/docs/http/ngx_http_autoindex_module.html",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 7378,
+      "truncated": false,
+      "body_sha256": "88efef77618ef8afba3cc677bffb0b9581633ff495244dff944f68cd076ad5d1",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Module ngx_http_autoindex_module",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "95",
+      "domain": "nginx.org",
+      "stratum": "1-100",
+      "requested_url": "https://nginx.org/ru/docs/",
+      "depth": 2,
+      "parent_url": "https://nginx.org/ru/",
+      "attempt": 57,
+      "timestamp": "2026-11-12T21:12:16.996643+00:00",
+      "final_url": "https://nginx.org/ru/docs/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 14881,
+      "truncated": false,
+      "body_sha256": "6b95a726be3aab58c7aacfa6853a3318944a9ebd6ab15c3c0c380f02a8f14ded",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "nginx: \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430\u0446\u0438\u044f",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "95",
+      "domain": "nginx.org",
+      "stratum": "1-100",
+      "requested_url": "https://nginx.org/download/nginx-1.22.1.tar.gz.asc",
+      "depth": 3,
+      "parent_url": "https://nginx.org/ru/download.html",
+      "attempt": 58,
+      "timestamp": "2026-11-12T21:12:17.814495+00:00",
+      "final_url": "https://nginx.org/download/nginx-1.22.1.tar.gz.asc",
+      "status": 200,
+      "content_type": "application/octet-stream",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 683,
+      "truncated": false,
+      "body_sha256": "e3c34c995f8d2748a323cf3ad5d7fbc6ddcc57f0f4b5fc6e494894cadf6075fc",
+      "redirect_chain": [],
+      "html": false,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "95",
+      "domain": "nginx.org",
+      "stratum": "1-100",
+      "requested_url": "https://nginx.org/en/docs/http/ngx_http_api_module.html",
+      "depth": 5,
+      "parent_url": "https://nginx.org/en/docs/stream/ngx_stream_core_module.html",
+      "attempt": 59,
+      "timestamp": "2026-11-12T21:12:18.457923+00:00",
+      "final_url": "https://nginx.org/en/docs/http/ngx_http_api_module.html",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 153869,
+      "truncated": false,
+      "body_sha256": "f72db951b8ec66972c77d7637f49380b39f37ebb92186954b6fe288054ce01b5",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Module ngx_http_api_module",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "95",
+      "domain": "nginx.org",
+      "stratum": "1-100",
+      "requested_url": "https://nginx.org/ru/docs/faq.html",
+      "depth": 2,
+      "parent_url": "https://nginx.org/ru/",
+      "attempt": 60,
+      "timestamp": "2026-11-12T21:12:19.628499+00:00",
+      "final_url": "https://nginx.org/ru/docs/faq.html",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 2612,
+      "truncated": false,
+      "body_sha256": "3966ee355af68d7c61521476bfb5db90f327a813c4a016ecb71e4aa8abe16f47",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "FAQ",
+      "duplicate_final": false,
+      "eligible": true
+    }
+  ],
+  "robots": [
+    {
+      "url": "https://nginx.org/robots.txt",
+      "timestamp": "2026-11-12T21:11:32.166145+00:00",
+      "status": 200,
+      "decision": "parsed",
+      "final_url": "https://nginx.org/robots.txt",
+      "redirect_chain": [],
+      "body_sha256": "8f5b42f5d23ca623fa42f917a5c90b8677ef8d7c9b5ffc0324bbea8e7067f26e",
+      "body": "User-Agent: *\nDisallow: /libxslt/\nSitemap: http://nginx.org/sitemap.xml\n"
+    }
+  ],
+  "eligible_pages": 40,
+  "canonical_origin": [
+    "https",
+    "nginx.org",
+    443
+  ],
+  "stop_reason": "page_budget",
+  "elapsed_seconds": 49.12
+}

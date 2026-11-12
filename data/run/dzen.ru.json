@@ -1,0 +1,65 @@
+{
+  "site": {
+    "rank": "44",
+    "domain": "dzen.ru",
+    "stratum": "1-100"
+  },
+  "rows": [
+    {
+      "rank": "44",
+      "domain": "dzen.ru",
+      "stratum": "1-100",
+      "requested_url": "https://dzen.ru/",
+      "depth": 0,
+      "parent_url": "",
+      "attempt": 1,
+      "timestamp": "2026-11-12T21:11:29.834524+00:00",
+      "final_url": "https://dzen.ru/",
+      "status": 302,
+      "content_type": "text/html;charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 0,
+      "truncated": false,
+      "body_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "redirect_chain": [
+        {
+          "url": "https://dzen.ru/",
+          "status": 302,
+          "location": "https://sso.passport.yandex.ru/push?uuid=b02d7815-ca7f-43db-a72a-7bd151d3b63e&retpath=https%3A%2F%2Fdzen.ru%2F%3Fis_autologin_ya%3Dtrue",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": []
+          }
+        }
+      ],
+      "error": "redirect_out_of_scope",
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    }
+  ],
+  "robots": [
+    {
+      "url": "https://dzen.ru/robots.txt",
+      "timestamp": "2026-11-12T21:11:29.834442+00:00",
+      "status": 200,
+      "decision": "parsed",
+      "final_url": "https://dzen.ru/robots.txt",
+      "redirect_chain": [],
+      "body_sha256": "a6e7d16a66dcbbfe8d64ec966726922ac7736fd28f3a4b5bede7897992c92086",
+      "body": "User-agent: Yandex\nAllow: /\nAllow: /.well-known/assetlinks.json\nAllow: /*?utm_sourse=55\n\nDisallow: /about*?*\nDisallow: /away\nDisallow: /top$\nDisallow: /search\nDisallow: /money\nDisallow: /onboarding\nDisallow: /news/top\nDisallow: /news/smi\nDisallow: /news/search\nDisallow: /t/\nDisallow: /user/\nDisallow: /embed/\nDisallow: /*/url\nDisallow: /video/games/tags/\nDisallow: /*sso_failed=\nDisallow: /*erid=\nDisallow: /*?utm*\nDisallow: /games\nDisallow: /subscriptions-manager?channel=\n\nDisallow: /articles?\nDisallow: /video?\nDisallow: /discussions\n\nClean-param: &_csrf\nClean-param: &action\nClean-param: &amp\nClean-param: &ampplace\nClean-param: &amupr_id\nClean-param: &appsearch_header\nClean-param: &autoplay\nClean-param: &backoffice\nClean-param: &branding\nClean-param: &briefEditorPublicationId\nClean-param: &bx_sender_conversion_id\nClean-param: &clid\nClean-param: &collection\nClean-param: &comment-request\nClean-param: &comments_data\nClean-param: &content\nClean-param: &contour\nClean-param: &country_code\nClean-param: &device_id\nClean-param: &encoded_pulse_user_id\nClean-param: &encoded_pulse_user_info\nClean-param: &epik\nClean-param: &etext=\nClean-param: &experiment\nClean-param: &f\nClean-param: &family\nClean-param: &fan\nClean-param: &favid\nClean-param: &feed_exp\nClean-param: &feed_filter_source\nClean-param: &firstchars\nClean-param: &flight_id\nClean-param: &from\nClean-param: &from_block\nClean-param: &from_cloud\nClean-param: &from_floors_promo\nClean-param: &from_page\nClean-param: &from_parent_id\nClean-param: &from_parent_type\nClean-param: &from_site\nClean-param: &ga_client_id\nClean-param: &hide_interest_header\nClean-param: &id\nClean-param: &integration\nClean-param: &interview_id\nClean-param: &invite\nClean-param: &item_id\nClean-param: &lang\nClean-param: &link\nClean-param: &loop\nClean-param: &lr\nClean-param: &modal\nClean-param: &mt_click_id\nClean-param: &mt_link_id\nClean-param: &mute\nClean-param: &no_ad\nClean-param: &noredir\nClean-param: &nw\nClean-param: &p\nClean-param: &page\nClean-param: &parent_rid\nClean-param: &persistent_id\nClean-param: &place\nClean-param: &play_on_visible\nClean-param: &pulse_user_id\nClean-param: &query\nClean-param: &ref\nClean-param: &referrer\nClean-param: &referrer_clid\nClean-param: &referrer_place\nClean-param: &repostId\nClean-param: &rid\nClean-param: &rubric\nClean-param: &secdata\nClean-param: &service\nClean-param: &share_to\nClean-param: &sid\nClean-param: &sortby\nClean-param: &source\nClean-param: &sso_failed\nClean-param: &stid\nClean-param: &story\nClean-param: &t\nClean-param: &text\nClean-param: &to\nClean-param: &token\nClean-param: &train\nClean-param: &tst\nClean-param: &tt\nClean-param: &tv\nClean-param: &utr\nClean-param: &uuid\nClean-param: &vertical\nClean-param: &via\nClean-param: &vid\nClean-param: &video_id\nClean-param: &wan\nClean-param: &web_uid\nClean-param: &web_yandexuid\nClean-param: &wizard\nClean-param: &yandexClientId\n\nUser-agent: Googlebot\nAllow: /\nAllow: /.well-known/assetlinks.json\nAllow: /list/*\n\nAllow: /a/*_csrf\nAllow: /a/*action\nAllow: /a/*amp\nAllow: /a/*ampplace\nAllow: /a/*amupr_id\nAllow: /a/*appsearch_header=\nAllow: /a/*autoplay=\nAllow: /a/*backoffice=\nAllow: /a/*branding=\nAllow: /a/*briefEditorPublicationId=\nAllow: /a/*bx_sender_conversion_id=\nAllow: /a/*cachebust=\nAllow: /a/*clid=\nAllow: /a/*collection=\nAllow: /a/*country_code=\nAllow: /a/*erid=\nAllow: /a/*experiment=\nAllow: /a/*feed_exp=\nAllow: /a/*from_cloud=\nAllow: /a/*from_page=\nAllow: /a/*invite=\nAllow: /a/*loop=\nAllow: /a/*pulse_user_id=\nAllow: /a/*sso_failed=\nAllow: /a/*t=\nAllow: /a/*to=\nAllow: /a/*token=\nAllow: /a/*utm_referrer=\nAllow: /a/*utm_source=\nAllow: /a/*?etext=\n\nAllow: /b/*_csrf\nAllow: /b/*action\nAllow: /b/*amp\nAllow: /b/*ampplace\nAllow: /b/*amupr_id\nAllow: /b/*appsearch_header=\nAllow: /b/*autoplay=\nAllow: /b/*backoffice=\nAllow: /b/*branding=\nAllow: /b/*briefEditorPublicationId=\nAllow: /b/*bx_sender_conversion_id=\nAllow: /b/*cachebust=\nAllow: /b/*clid=\nAllow: /b/*collection=\nAllow: /b/*country_code=\nAllow: /b/*erid=\nAllow: /b/*experiment=\nAllow: /b/*feed_exp=\nAllow: /b/*from_cloud=\nAllow: /b/*from_page=\nAllow: /b/*invite=\nAllow: /b/*loop=\nAllow: /b/*pulse_user_id=\nAllow: /b/*sso_failed=\nAllow: /b/*t=\nAllow: /b/*to=\nAllow: /b/*token=\nAllow: /b/*utm_referrer=\nAllow: /b/*utm_source=\nAllow: /b/*?etext=\n\nAllow: /list/*_csrf\nAllow: /list/*action\nAllow: /list/*amp\nAllow: /list/*ampplace\nAllow: /list/*amupr_id\nAllow: /list/*appsearch_header=\nAllow: /list/*autoplay=\nAllow: /list/*backoffice=\nAllow: /list/*branding=\nAllow: /list/*briefEditorPublicationId=\nAllow: /list/*bx_sender_conversion_id=\nAllow: /list/*cachebust=\nAllow: /list/*clid=\nAllow: /list/*collection=\nAllow: /list/*country_code=\nAllow: /list/*erid=\nAllow: /list/*experiment=\nAllow: /list/*feed_exp=\nAllow: /list/*from_cloud=\nAllow: /list/*from_page=\nAllow: /list/*invite=\nAllow: /list/*loop=\nAllow: /list/*pulse_user_id=\nAllow: /list/*sso_failed=\nAllow: /list/*t=\nAllow: /list/*to=\nAllow: /list/*token=\nAllow: /list/*utm_referrer=\nAllow: /list/*utm_source=\nAllow: /list/*?etext=\n\nAllow: /video/watch/*_csrf\nAllow: /video/watch/*action\nAllow: /video/watch/*amp\nAllow: /video/watch/*ampplace\nAllow: /video/watch/*amupr_id\nAllow: /video/watch/*appsearch_header=\nAllow: /video/watch/*autoplay=\nAllow: /video/watch/*backoffice=\nAllow: /video/watch/*branding=\nAllow: /video/watch/*briefEditorPublicationId=\nAllow: /video/watch/*bx_sender_conversion_id=\nAllow: /video/watch/*cachebust=\nAllow: /video/watch/*clid=\nAllow: /video/watch/*collection=\nAllow: /video/watch/*country_code=\nAllow: /video/watch/*erid=\nAllow: /video/watch/*experiment=\nAllow: /video/watch/*feed_exp=\nAllow: /video/watch/*from_cloud=\nAllow: /video/watch/*from_page=\nAllow: /video/watch/*invite=\nAllow: /video/watch/*loop=\nAllow: /video/watch/*pulse_user_id=\nAllow: /video/watch/*sso_failed=\nAllow: /video/watch/*t=\nAllow: /video/watch/*to=\nAllow: /video/watch/*token=\nAllow: /video/watch/*utm_referrer=\nAllow: /video/watch/*utm_source=\nAllow: /video/watch/*?etext=\n\nAllow: /shorts/*_csrf\nAllow: /shorts/*action\nAllow: /shorts/*amp\nAllow: /shorts/*ampplace\nAllow: /shorts/*amupr_id\nAllow: /shorts/*appsearch_header=\nAllow: /shorts/*autoplay=\nAllow: /shorts/*backoffice=\nAllow: /shorts/*branding=\nAllow: /shorts/*briefEditorPublicationId=\nAllow: /shorts/*bx_sender_conversion_id=\nAllow: /shorts/*cachebust=\nAllow: /shorts/*clid=\nAllow: /shorts/*collection=\nAllow: /shorts/*country_code=\nAllow: /shorts/*erid=\nAllow: /shorts/*experiment=\nAllow: /shorts/*feed_exp=\nAllow: /shorts/*from_cloud=\nAllow: /shorts/*from_page=\nAllow: /shorts/*invite=\nAllow: /shorts/*loop=\nAllow: /shorts/*pulse_user_id=\nAllow: /shorts/*sso_failed=\nAllow: /shorts/*t=\nAllow: /shorts/*to=\nAllow: /shorts/*token=\nAllow: /shorts/*utm_referrer=\nAllow: /shorts/*utm_source=\nAllow: /shorts/*?etext=\n\nDisallow: /about*?*\nDisallow: /away\nDisallow: /top$\nDisallow: /search\nDisallow: /money\nDisallow: /onboarding\nDisallow: /news/top\nDisallow: /news/smi\nDisallow: /news/search\nDisallow: /t/\nDisallow: /user/\nDisallow: /embed/\nDisallow: /*/url\nDisallow: /video/games/tags/\nDisallow: /*_csrf\nDisallow: /*action\nDisallow: /*amp\nDisallow: /*ampplace\nDisallow: /*amupr_id\nDisallow: /*appsearch_header=\nDisallow: /*autoplay=\nDisallow: /*backoffice=\nDisallow: /*branding=\nDisallow: /*briefEditorPublicationId=\nDisallow: /*bx_sender_conversion_id=\nDisallow: /*cachebust=\nDisallow: /*clid=\nDisallow: /*collection=\nDisallow: /*country_code=\nDisallow: /*erid=\nDisallow: /*experiment=\nDisallow: /*feed_exp=\nDisallow: /*from_cloud=\nDisallow: /*from_page=\nDisallow: /*invite=\nDisallow: /*loop=\nDisallow: /*pulse_user_id=\nDisallow: /*sso_failed=\nDisallow: /*t=\nDisallow: /*to=\nDisallow: /*token=\nDisallow: /*utm_referrer=\nDisallow: /*utm_source=\nDisallow: /games\nDisallow: /*?etext=\nDisallow: /subscriptions-manager?channel=\n\nDisallow: /articles?\nDisallow: /video?\n\nUser-Agent: *\nAllow: /\nAllow: /.well-known/assetlinks.json\nDisallow: /about*?*\nDisallow: /away\nDisallow: /embed/\nDisallow: /games\nDisallow: /money\nDisallow: /news/search\nDisallow: /news/smi\nDisallow: /news/top\nDisallow: /onboarding\nDisallow: /search\nDisallow: /subscriptions-manager?channel=\nDisallow: /t/\nDisallow: /top$\nDisallow: /user/\nDisallow: /*/url\nDisallow: /video/games/tags/\nDisallow: /*erid=\nDisallow: /*?etext=\nDisallow: /*sso_failed=\nDisallow: /*?sso_failed=\nDisallow: /*to=\n\nSitemap: https://dzen.ru/sitemaps/brief_v2/sitemap.xml\nSitemap: https://dzen.ru/sitemaps/channels_v2/sitemap.xml\nSitemap: https://dzen.ru/sitemaps/gif_long_v2/sitemap.xml\nSitemap: https://dzen.ru/sitemaps/gif_short_v2/sitemap.xml\nSitemap: https://dzen.ru/sitemaps/image_v2/sitemap.xml\nSitemap: https://dzen.ru/sitemaps/native_v2/sitemap.xml\nSitemap: https://dzen.ru/sitemaps/slug-factory/sitemap.xml\nSitemap: https://dzen.ru/sitemaps/suite_v2/sitemap.xml\nSitemap: https://dzen.ru/sitemaps/tv/sitemap.xml\nSitemap: https://dzen.ru/sitemaps/news-archive/sitemap.xml\nSitemap: https://dzen.ru/sitemaps/news-region/sitemap.xml\nSitemap: https://dzen.ru/sitemaps/news-rubric/sitemap.xml\nSitemap: https://dzen.ru/sitemaps/meta-channel_v2/sitemap.xml\n\nSitemap: https://dzen.ru/sitemaps/brief_v2/sitemap.xml.gz\nSitemap: https://dzen.ru/sitemaps/channels_v2/sitemap.xml.gz\nSitemap: https://dzen.ru/sitemaps/gif_long_v2/sitemap.xml.gz\nSitemap: https://dzen.ru/sitemaps/gif_short_v2/sitemap.xml.gz\nSitemap: https://dzen.ru/sitemaps/image_v2/sitemap.xml.gz\nSitemap: https://dzen.ru/sitemaps/native_v2/sitemap.xml.gz\nSitemap: https://dzen.ru/sitemaps/slug-factory/sitemap.xml.gz\nSitemap: https://dzen.ru/sitemaps/suite_v2/sitemap.xml.gz\nSitemap: https://dzen.ru/sitemaps/tv/sitemap.xml.gz\nSitemap: https://dzen.ru/sitemaps/news-archive/sitemap.xml.gz\nSitemap: https://dzen.ru/sitemaps/news-region/sitemap.xml.gz\nSitemap: https://dzen.ru/sitemaps/news-rubric/sitemap.xml.gz\nSitemap: https://dzen.ru/sitemaps/meta-channel_v2/sitemap.xml.gz"
+    }
+  ],
+  "eligible_pages": 0,
+  "canonical_origin": null,
+  "stop_reason": "frontier_exhausted",
+  "elapsed_seconds": 1.42
+}

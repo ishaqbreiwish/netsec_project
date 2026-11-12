@@ -1,0 +1,265 @@
+{
+  "site": {
+    "rank": "28",
+    "domain": "amazon.com",
+    "stratum": "1-100"
+  },
+  "rows": [
+    {
+      "rank": "28",
+      "domain": "amazon.com",
+      "stratum": "1-100",
+      "requested_url": "https://amazon.com/",
+      "depth": 0,
+      "parent_url": "",
+      "attempt": 1,
+      "timestamp": "2026-11-12T21:11:29.767023+00:00",
+      "final_url": "https://www.amazon.com/",
+      "status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests;report-uri https://metrics.media-amazon.com/"
+        ],
+        "content-security-policy-report-only": [
+          "default-src 'self' blob: https: data: mediastream: 'unsafe-eval' 'unsafe-inline';report-uri https://metrics.media-amazon.com/"
+        ],
+        "strict-transport-security": [
+          "max-age=47474747; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 741054,
+      "truncated": false,
+      "body_sha256": "7928ec4aa823527b00b79d08f70c9794d6c5a8e7c3a08a100fd2ede9c3a5eb7b",
+      "redirect_chain": [
+        {
+          "url": "https://amazon.com/",
+          "status": 301,
+          "location": "https://www.amazon.com/",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": []
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Amazon.com. Spend less. Smile more.",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "28",
+      "domain": "amazon.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.amazon.com/ref=nav_logo",
+      "depth": 1,
+      "parent_url": "https://www.amazon.com/",
+      "attempt": 2,
+      "timestamp": "2026-11-12T21:11:30.644992+00:00",
+      "final_url": "https://www.amazon.com/ref=nav_logo",
+      "status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests;report-uri https://metrics.media-amazon.com/"
+        ],
+        "content-security-policy-report-only": [
+          "default-src 'self' blob: https: data: mediastream: 'unsafe-eval' 'unsafe-inline';report-uri https://metrics.media-amazon.com/"
+        ],
+        "strict-transport-security": [
+          "max-age=47474747; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 835836,
+      "truncated": false,
+      "body_sha256": "73006e3f41a69794afa7b9a7cfddd1a459ce76035383bcb8d10c9ba9db48941b",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Amazon.com. Spend less. Smile more.",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "28",
+      "domain": "amazon.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.amazon.com/gp/history",
+      "depth": 1,
+      "parent_url": "https://www.amazon.com/",
+      "attempt": 3,
+      "timestamp": "2026-11-12T21:11:31.369267+00:00",
+      "error": "robots_denied",
+      "final_url": "https://www.amazon.com/gp/history",
+      "redirect_chain": [],
+      "html": false,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "28",
+      "domain": "amazon.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.amazon.com/pr",
+      "depth": 1,
+      "parent_url": "https://www.amazon.com/",
+      "attempt": 4,
+      "timestamp": "2026-11-12T21:11:31.369503+00:00",
+      "final_url": "https://www.amazon.com/pr",
+      "status": 301,
+      "content_type": "text/html; charset=iso-8859-1",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=47474747; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 0,
+      "truncated": false,
+      "body_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "redirect_chain": [
+        {
+          "url": "https://www.amazon.com/pr",
+          "status": 301,
+          "location": "https://press.aboutamazon.com",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=47474747; includeSubDomains; preload"
+            ]
+          }
+        }
+      ],
+      "error": "redirect_out_of_scope",
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "28",
+      "domain": "amazon.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.amazon.com/ir",
+      "depth": 1,
+      "parent_url": "https://www.amazon.com/",
+      "attempt": 5,
+      "timestamp": "2026-11-12T21:11:31.647423+00:00",
+      "final_url": "https://www.amazon.com/ir",
+      "status": 301,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=47474747; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 0,
+      "truncated": false,
+      "body_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "redirect_chain": [
+        {
+          "url": "https://www.amazon.com/ir",
+          "status": 301,
+          "location": "https://ir.aboutamazon.com/",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=47474747; includeSubDomains; preload"
+            ]
+          }
+        }
+      ],
+      "error": "redirect_out_of_scope",
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "28",
+      "domain": "amazon.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.amazon.com/",
+      "depth": 1,
+      "parent_url": "https://www.amazon.com/",
+      "attempt": 6,
+      "timestamp": "2026-11-12T21:11:32.167352+00:00",
+      "final_url": "https://www.amazon.com/",
+      "status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests;report-uri https://metrics.media-amazon.com/"
+        ],
+        "content-security-policy-report-only": [
+          "default-src 'self' blob: https: data: mediastream: 'unsafe-eval' 'unsafe-inline';report-uri https://metrics.media-amazon.com/"
+        ],
+        "strict-transport-security": [
+          "max-age=47474747; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 741695,
+      "truncated": false,
+      "body_sha256": "0ca7423455f7ecf30922963eb0145b0437163e63f3bb5d598522104f9419f008",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Amazon.com. Spend less. Smile more.",
+      "duplicate_final": true,
+      "eligible": false
+    }
+  ],
+  "robots": [
+    {
+      "url": "https://amazon.com/robots.txt",
+      "timestamp": "2026-11-12T21:11:29.270563+00:00",
+      "status": 200,
+      "decision": "parsed",
+      "final_url": "https://www.amazon.com/robots.txt",
+      "redirect_chain": [
+        {
+          "url": "https://amazon.com/robots.txt",
+          "status": 301,
+          "location": "https://www.amazon.com/robots.txt"
+        }
+      ],
+      "body_sha256": "74fa27e28cd9d80bdd155ffecf3a033ea2e195a80c83d6fa46acb20665c3cb4d",
+      "body": "User-agent: *\nDisallow: /exec/obidos/account-access-login\nDisallow: /exec/obidos/change-style\nDisallow: /exec/obidos/flex-sign-in\nDisallow: /exec/obidos/handle-buy-box\nDisallow: /exec/obidos/tg/cm/member/\nDisallow: /gp/aw/help/id=sss\nDisallow: /gp/cart\nDisallow: /gp/flex\nDisallow: /gp/product/e-mail-friend\nDisallow: /gp/product/product-availability\nDisallow: /gp/product/rate-this-item\nDisallow: /gp/sign-in\nDisallow: /gp/reader\nDisallow: /gp/sitbv3/reader\nDisallow: /gp/richpub/syltguides/create\nDisallow: /gp/gfix\nDisallow: /gp/associations/wizard.html\nDisallow: /gp/dmusic/order\nDisallow: /gp/legacy-handle-buy-box.html\nDisallow: /gp/aws/ssop\nDisallow: /gp/yourstore\nDisallow: /gp/gift-central/organizer/add-wishlist\nDisallow: /gp/vote\nDisallow: /gp/voting/\nDisallow: /gp/music/wma-pop-up\nDisallow: /gp/customer-images\nDisallow: /gp/richpub/listmania/createpipeline\nDisallow: /gp/content-form\nDisallow: /gp/pdp/invitation/invite\nDisallow: /gp/customer-reviews/common/du\nDisallow: /gp/customer-reviews/write-a-review.html\nDisallow: /gp/associations/wizard.html\nDisallow: /gp/music/clipserve\nDisallow: /gp/customer-media/upload\nDisallow: /gp/history\nDisallow: /gp/item-dispatch\nDisallow: /gp/dmusic/order/handle-buy-box.html\nDisallow: /gp/recsradio\nDisallow: /gp/slredirect\nDisallow: /dp/shipping/\nDisallow: /dp/twister-update/\nDisallow: /dp/manual-submit/\nDisallow: /dp/e-mail-friend/\nDisallow: /dp/product-availability/\nDisallow: /dp/rate-this-item/\nDisallow: /gp/registry/wishlist/*/reserve\nDisallow: /gp/structured-ratings/actions/get-experience.html\nDisallow: /gp/twitter/\nDisallow: /ap/signin\nDisallow: /gp/registry/wishlist/\nDisallow: /wishlist/\nAllow: /wishlist/universal*\nAllow: /wishlist/vendor-button*\nAllow: /wishlist/get-button*\nDisallow: /gp/wishlist/\nAllow: /gp/wishlist/universal*\nAllow: /gp/wishlist/vendor-button*\nAllow: /gp/wishlist/ipad-install*\nDisallow: /registry/wishlist/\nDisallow: /review/common/du\nDisallow: /gp/registry/search.html\nDisallow: /product-reviews/B0069IY63Y\nDisallow: /gp/orc/rml/\nDisallow: */gcrnsts\nDisallow: /gp/gc/widget\nDisallow: /gp/dmusic/mp3/player\nDisallow: /gp/entity-alert/external\nDisallow: /gp/customer-reviews/dynamic/sims-box\nDisallow: /review/dynamic/sims-box\nDisallow: /gp/redirect.html\nDisallow: /gp/twister/ajaxv2\nDisallow: /ss/twister/ajax\nDisallow: /b?*node=7454917011\nDisallow: /b?*node=7454927011\nDisallow: /b?*node=7454939011\nDisallow: /b?*node=7454898011\nDisallow: /gp/customer-media/actions/delete/\nDisallow: /gp/customer-media/actions/edit-caption/\nDisallow: /gp/dmusic/\nAllow: /gp/dmusic/promotions/PrimeMusic\nAllow: /gp/dmusic/promotions/AmazonMusicUnlimited\nDisallow: /gp/offer-listing/\nDisallow: /b?*node=9052533011\nDisallow: /lm/R1XIHQVKXSKBNJ\nDisallow: /lm/R3HQ5WJSZK6QSO\nDisallow: /surprise/\nDisallow: /local/ajax/\nDisallow: /gp/socialmedia/giveaways\nDisallow: /gp/b2b-rd\nDisallow: /gp/aw/so.html\nDisallow: /reviews/iframe\nDisallow: /gp/switch-language\nDisallow: /ga/p/\nDisallow: /gp/profile/\nDisallow: /giveaway/host/setup/\nDisallow: /ss/customer-reviews/lighthouse/\nDisallow: /ospublishing/story/*\nDisallow: /gp/aw/ol/\nDisallow: /gp/promotion/\nDisallow: /hz/leaderboard/top-reviewers/\nDisallow: /creatorhub\nDisallow: /creatorhub/*\nDisallow: /slp/s$\nDisallow: /-/\nAllow: /-/es/\nAllow: /-/en$\nAllow: /-/zh_TW/\nAllow: /-/zh_TW$\nAllow: /-/he/\nAllow: /-/he$\nDisallow: /hz/help/contact/*/message/$\nDisallow: /gp/aw/shoppingAids/\nDisallow: /rss/people/*/reviews\nDisallow: /gp/pdp/rss/*/reviews\nDisallow: /gp/cdp/member-reviews/\nDisallow: /gp/aw/cr/\nAllow: /gp/offer-listing/B000\nAllow: /gp/offer-listing/9000\nDisallow: /gp/aag\nAllow: /gp/aag/main?*seller=ABVFEJU8LS620\nDisallow: /gp/pdp/profile/\nDisallow: /gp/help/customer/express/c2c/\nDisallow: /slp/*/b$\nDisallow: /hz/contact-us/ajax/initiate-trusted-contact/\nDisallow: /hp/video/\nDisallow: /gp/video/api\nDisallow: /gp/video/settings\nDisallow: /gp/video/library\nDisallow: /gp/video/watchlist\nDisallow: /gp/video/mystuff\nDisallow: /gp/video/profiles\nDisallow: /gp/video/search\nDisallow: /gp/video/auth\nDisallow: /gp/video/salp/i\nDisallow: /icdp/\nDisallow: /shoptheshow/*?cat=\nDisallow: /shoptheshow/*&cat=\n\nUser-agent: EtaoSpider\nDisallow: /\n\nUser-agent: GPTBot\nDisallow: /\n\n\nUser-agent: CCBot\nDisallow: /\n\nUser-Agent: PerplexityBot\nDisallow: /\n\nUser-agent: Google-Extended\nDisallow: /\n\nUser-agent: GoogleAgent-Mariner\nDisallow: /\n\nUser-agent: GoogleAgent-Shopping\nDisallow: /\n\nUser-agent: ClaudeBot\nDisallow: /\n\nUser-agent: meta-externalagent\nDisallow: /\n\nUser-agent: Bytespider\nDisallow: /\n\nUser-agent: Scrapy\nDisallow: /\n\nUser-agent: PetalBot\nDisallow: /\n\nUser-agent: Devin\nDisallow: /\n\nUser-agent: omgili\nDisallow: /\n\nUser-agent: AI2Bot\nDisallow: /\n\nUser-agent: Gemini-Deep-Research\nDisallow: /\n\nUser-agent: PanguBot\nDisallow: /\n\nUser-agent: MistralAI-User\nDisallow: /\n\nUser-agent: Diffbot\nDisallow: /\n\nUser-agent: Sidetrade indexer bot\nDisallow: /\n\nUser-agent: Google-NotebookLM\nDisallow: /\n\nUser-agent: DuckAssistBot\nDisallow: /\n\nUser-agent: Copilot\nDisallow: /\n\nUser-agent: Ai2Bot-Dolma\nDisallow: /\n\nUser-agent: Google-CloudVertexBot\nDisallow: /\n\nUser-agent: meta-externalfetcher\nDisallow: /\n\nUser-agent: iaskspider\nDisallow: /\n\nUser-agent: wpbot\nDisallow: /\n\nUser-agent: aiHitBot\nDisallow: /\n\nUser-agent: cohere-ai\nDisallow: /\n\nUser-agent: FriendlyCrawler\nDisallow: /\n\nUser-agent: img2dataset\nDisallow: /\n\nUser-agent: VelenPublicWebCrawler\nDisallow: /\n\nUser-agent: YouBot\nDisallow: /\n\nUser-agent: Brightbot\nDisallow: /\n\nUser-agent: Claude-User\nDisallow: /\n\nUser-agent: ClaudeBot\nDisallow: /\n\nUser-agent: Claude-SearchBot\nDisallow: /\n\nUser-agent: Perplexity-User\nDisallow: /\n\nUser-agent: ISSCyberRiskCrawler\nDisallow: /\n\nUser-agent: CopilotNative\nDisallow: /\n\nUser-agent: CopilotSapphire\nDisallow: /\n\nUser-agent: imgproxy\nDisallow: /\n\nUser-agent: SemrushBot-SWA\nDisallow: /\n\nUser-agent: ChatGPT-User\nDisallow: /\n\nUser-agent: OAI-SearchBot\nDisallow: /\n\nUser-agent: Timpibot\nDisallow: /\n\nUser-agent: Thinkbot\nDisallow: /\n\nUser-agent: AddSearchBot\nDisallow: /\n\nUser-agent: AI2Bot-DeepResearchEval\nDisallow: /\n\nUser-agent: Andibot\nDisallow: /\n\nUser-agent: Anomura\nDisallow: /\n\nUser-agent: atlassian-bot\nDisallow: /\n\nUser-agent: BuddyBot\nDisallow: /\n\nUser-agent: Channel3Bot\nDisallow: /\n\nUser-agent: ChatGLM-Spider\nDisallow: /\n\nUser-agent: Claude-Web\nDisallow: /\n\nUser-agent: Cloudflare-AutoRAG\nDisallow: /\n\nUser-agent: CloudflareBrowserRenderingCrawler\nDisallow: /\n\nUser-agent: cohere-training-data-crawler\nDisallow: /\n\nUser-agent: Cotoyogi\nDisallow: /\n\nUser-agent: Crawl4AI\nDisallow: /\n\nUser-agent: Datenbank Crawler\nDisallow: /\n\nUser-agent: DeepSeekBot\nDisallow: /\n\nUser-agent: Echobot Bot\nDisallow: /\n\nUser-agent: EchoboxBot\nDisallow: /\n\nUser-agent: factset_spyderbot\nDisallow: /\n\nUser-agent: Google-Firebase\nDisallow: /\n\nUser-agent: GoogleOther\nDisallow: /\n\nUser-agent: Grok-DeepSearch\nDisallow: /\n\nUser-agent: GrokBot\nDisallow: /\n\nUser-agent: iAskBot\nDisallow: /\n\nUser-agent: IbouBot\nDisallow: /\n\nUser-agent: ICC-Crawler\nDisallow: /\n\nUser-agent: ImagesiftBot\nDisallow: /\n\nUser-agent: imageSpider\nDisallow: /\n\nUser-agent: Kangaroo Bot\nDisallow: /\n\nUser-agent: KlaviyoAIBot\nDisallow: /\n\nUser-agent: KunatoCrawler\nDisallow: /\n\nUser-agent: laion-huggingface-processor\nDisallow: /\n\nUser-agent: Linguee Bot\nDisallow: /\n\nUser-agent: LinkupBot\nDisallow: /\n\nUser-agent: Manus-User\nDisallow: /\n\nUser-agent: meta-webindexer\nDisallow: /\n\nUser-agent: netEstate Imprint Crawler\nDisallow: /\n\nUser-agent: Panscient\nDisallow: /\n\nUser-agent: panscient.com\nDisallow: /\n\nUser-agent: PhindBot\nDisallow: /\n\nUser-agent: Poggio-Citations\nDisallow: /\n\nUser-agent: QualifiedBot\nDisallow: /\n\nUser-agent: SBIntuitionsBot\nDisallow: /\n\nUser-agent: ShapBot\nDisallow: /\n\nUser-agent: TavilyBot\nDisallow: /\n\nUser-agent: TerraCotta\nDisallow: /\n\nUser-agent: TwinAgent\nDisallow: /\n\nUser-agent: webzio-extended\nDisallow: /\n\nUser-agent: WRTNBot\nDisallow: /\n\nUser-agent: xAI-Grok\nDisallow: /\n\nUser-agent: YaK\nDisallow: /\n\nUser-agent: ZanistaBot\nDisallow: /"
+    },
+    {
+      "url": "https://www.amazon.com/robots.txt",
+      "timestamp": "2026-11-12T21:11:29.766860+00:00",
+      "status": 200,
+      "decision": "parsed",
+      "final_url": "https://www.amazon.com/robots.txt",
+      "redirect_chain": [],
+      "body_sha256": "74fa27e28cd9d80bdd155ffecf3a033ea2e195a80c83d6fa46acb20665c3cb4d",
+      "body": "User-agent: *\nDisallow: /exec/obidos/account-access-login\nDisallow: /exec/obidos/change-style\nDisallow: /exec/obidos/flex-sign-in\nDisallow: /exec/obidos/handle-buy-box\nDisallow: /exec/obidos/tg/cm/member/\nDisallow: /gp/aw/help/id=sss\nDisallow: /gp/cart\nDisallow: /gp/flex\nDisallow: /gp/product/e-mail-friend\nDisallow: /gp/product/product-availability\nDisallow: /gp/product/rate-this-item\nDisallow: /gp/sign-in\nDisallow: /gp/reader\nDisallow: /gp/sitbv3/reader\nDisallow: /gp/richpub/syltguides/create\nDisallow: /gp/gfix\nDisallow: /gp/associations/wizard.html\nDisallow: /gp/dmusic/order\nDisallow: /gp/legacy-handle-buy-box.html\nDisallow: /gp/aws/ssop\nDisallow: /gp/yourstore\nDisallow: /gp/gift-central/organizer/add-wishlist\nDisallow: /gp/vote\nDisallow: /gp/voting/\nDisallow: /gp/music/wma-pop-up\nDisallow: /gp/customer-images\nDisallow: /gp/richpub/listmania/createpipeline\nDisallow: /gp/content-form\nDisallow: /gp/pdp/invitation/invite\nDisallow: /gp/customer-reviews/common/du\nDisallow: /gp/customer-reviews/write-a-review.html\nDisallow: /gp/associations/wizard.html\nDisallow: /gp/music/clipserve\nDisallow: /gp/customer-media/upload\nDisallow: /gp/history\nDisallow: /gp/item-dispatch\nDisallow: /gp/dmusic/order/handle-buy-box.html\nDisallow: /gp/recsradio\nDisallow: /gp/slredirect\nDisallow: /dp/shipping/\nDisallow: /dp/twister-update/\nDisallow: /dp/manual-submit/\nDisallow: /dp/e-mail-friend/\nDisallow: /dp/product-availability/\nDisallow: /dp/rate-this-item/\nDisallow: /gp/registry/wishlist/*/reserve\nDisallow: /gp/structured-ratings/actions/get-experience.html\nDisallow: /gp/twitter/\nDisallow: /ap/signin\nDisallow: /gp/registry/wishlist/\nDisallow: /wishlist/\nAllow: /wishlist/universal*\nAllow: /wishlist/vendor-button*\nAllow: /wishlist/get-button*\nDisallow: /gp/wishlist/\nAllow: /gp/wishlist/universal*\nAllow: /gp/wishlist/vendor-button*\nAllow: /gp/wishlist/ipad-install*\nDisallow: /registry/wishlist/\nDisallow: /review/common/du\nDisallow: /gp/registry/search.html\nDisallow: /product-reviews/B0069IY63Y\nDisallow: /gp/orc/rml/\nDisallow: */gcrnsts\nDisallow: /gp/gc/widget\nDisallow: /gp/dmusic/mp3/player\nDisallow: /gp/entity-alert/external\nDisallow: /gp/customer-reviews/dynamic/sims-box\nDisallow: /review/dynamic/sims-box\nDisallow: /gp/redirect.html\nDisallow: /gp/twister/ajaxv2\nDisallow: /ss/twister/ajax\nDisallow: /b?*node=7454917011\nDisallow: /b?*node=7454927011\nDisallow: /b?*node=7454939011\nDisallow: /b?*node=7454898011\nDisallow: /gp/customer-media/actions/delete/\nDisallow: /gp/customer-media/actions/edit-caption/\nDisallow: /gp/dmusic/\nAllow: /gp/dmusic/promotions/PrimeMusic\nAllow: /gp/dmusic/promotions/AmazonMusicUnlimited\nDisallow: /gp/offer-listing/\nDisallow: /b?*node=9052533011\nDisallow: /lm/R1XIHQVKXSKBNJ\nDisallow: /lm/R3HQ5WJSZK6QSO\nDisallow: /surprise/\nDisallow: /local/ajax/\nDisallow: /gp/socialmedia/giveaways\nDisallow: /gp/b2b-rd\nDisallow: /gp/aw/so.html\nDisallow: /reviews/iframe\nDisallow: /gp/switch-language\nDisallow: /ga/p/\nDisallow: /gp/profile/\nDisallow: /giveaway/host/setup/\nDisallow: /ss/customer-reviews/lighthouse/\nDisallow: /ospublishing/story/*\nDisallow: /gp/aw/ol/\nDisallow: /gp/promotion/\nDisallow: /hz/leaderboard/top-reviewers/\nDisallow: /creatorhub\nDisallow: /creatorhub/*\nDisallow: /slp/s$\nDisallow: /-/\nAllow: /-/es/\nAllow: /-/en$\nAllow: /-/zh_TW/\nAllow: /-/zh_TW$\nAllow: /-/he/\nAllow: /-/he$\nDisallow: /hz/help/contact/*/message/$\nDisallow: /gp/aw/shoppingAids/\nDisallow: /rss/people/*/reviews\nDisallow: /gp/pdp/rss/*/reviews\nDisallow: /gp/cdp/member-reviews/\nDisallow: /gp/aw/cr/\nAllow: /gp/offer-listing/B000\nAllow: /gp/offer-listing/9000\nDisallow: /gp/aag\nAllow: /gp/aag/main?*seller=ABVFEJU8LS620\nDisallow: /gp/pdp/profile/\nDisallow: /gp/help/customer/express/c2c/\nDisallow: /slp/*/b$\nDisallow: /hz/contact-us/ajax/initiate-trusted-contact/\nDisallow: /hp/video/\nDisallow: /gp/video/api\nDisallow: /gp/video/settings\nDisallow: /gp/video/library\nDisallow: /gp/video/watchlist\nDisallow: /gp/video/mystuff\nDisallow: /gp/video/profiles\nDisallow: /gp/video/search\nDisallow: /gp/video/auth\nDisallow: /gp/video/salp/i\nDisallow: /icdp/\nDisallow: /shoptheshow/*?cat=\nDisallow: /shoptheshow/*&cat=\n\nUser-agent: EtaoSpider\nDisallow: /\n\nUser-agent: GPTBot\nDisallow: /\n\n\nUser-agent: CCBot\nDisallow: /\n\nUser-Agent: PerplexityBot\nDisallow: /\n\nUser-agent: Google-Extended\nDisallow: /\n\nUser-agent: GoogleAgent-Mariner\nDisallow: /\n\nUser-agent: GoogleAgent-Shopping\nDisallow: /\n\nUser-agent: ClaudeBot\nDisallow: /\n\nUser-agent: meta-externalagent\nDisallow: /\n\nUser-agent: Bytespider\nDisallow: /\n\nUser-agent: Scrapy\nDisallow: /\n\nUser-agent: PetalBot\nDisallow: /\n\nUser-agent: Devin\nDisallow: /\n\nUser-agent: omgili\nDisallow: /\n\nUser-agent: AI2Bot\nDisallow: /\n\nUser-agent: Gemini-Deep-Research\nDisallow: /\n\nUser-agent: PanguBot\nDisallow: /\n\nUser-agent: MistralAI-User\nDisallow: /\n\nUser-agent: Diffbot\nDisallow: /\n\nUser-agent: Sidetrade indexer bot\nDisallow: /\n\nUser-agent: Google-NotebookLM\nDisallow: /\n\nUser-agent: DuckAssistBot\nDisallow: /\n\nUser-agent: Copilot\nDisallow: /\n\nUser-agent: Ai2Bot-Dolma\nDisallow: /\n\nUser-agent: Google-CloudVertexBot\nDisallow: /\n\nUser-agent: meta-externalfetcher\nDisallow: /\n\nUser-agent: iaskspider\nDisallow: /\n\nUser-agent: wpbot\nDisallow: /\n\nUser-agent: aiHitBot\nDisallow: /\n\nUser-agent: cohere-ai\nDisallow: /\n\nUser-agent: FriendlyCrawler\nDisallow: /\n\nUser-agent: img2dataset\nDisallow: /\n\nUser-agent: VelenPublicWebCrawler\nDisallow: /\n\nUser-agent: YouBot\nDisallow: /\n\nUser-agent: Brightbot\nDisallow: /\n\nUser-agent: Claude-User\nDisallow: /\n\nUser-agent: ClaudeBot\nDisallow: /\n\nUser-agent: Claude-SearchBot\nDisallow: /\n\nUser-agent: Perplexity-User\nDisallow: /\n\nUser-agent: ISSCyberRiskCrawler\nDisallow: /\n\nUser-agent: CopilotNative\nDisallow: /\n\nUser-agent: CopilotSapphire\nDisallow: /\n\nUser-agent: imgproxy\nDisallow: /\n\nUser-agent: SemrushBot-SWA\nDisallow: /\n\nUser-agent: ChatGPT-User\nDisallow: /\n\nUser-agent: OAI-SearchBot\nDisallow: /\n\nUser-agent: Timpibot\nDisallow: /\n\nUser-agent: Thinkbot\nDisallow: /\n\nUser-agent: AddSearchBot\nDisallow: /\n\nUser-agent: AI2Bot-DeepResearchEval\nDisallow: /\n\nUser-agent: Andibot\nDisallow: /\n\nUser-agent: Anomura\nDisallow: /\n\nUser-agent: atlassian-bot\nDisallow: /\n\nUser-agent: BuddyBot\nDisallow: /\n\nUser-agent: Channel3Bot\nDisallow: /\n\nUser-agent: ChatGLM-Spider\nDisallow: /\n\nUser-agent: Claude-Web\nDisallow: /\n\nUser-agent: Cloudflare-AutoRAG\nDisallow: /\n\nUser-agent: CloudflareBrowserRenderingCrawler\nDisallow: /\n\nUser-agent: cohere-training-data-crawler\nDisallow: /\n\nUser-agent: Cotoyogi\nDisallow: /\n\nUser-agent: Crawl4AI\nDisallow: /\n\nUser-agent: Datenbank Crawler\nDisallow: /\n\nUser-agent: DeepSeekBot\nDisallow: /\n\nUser-agent: Echobot Bot\nDisallow: /\n\nUser-agent: EchoboxBot\nDisallow: /\n\nUser-agent: factset_spyderbot\nDisallow: /\n\nUser-agent: Google-Firebase\nDisallow: /\n\nUser-agent: GoogleOther\nDisallow: /\n\nUser-agent: Grok-DeepSearch\nDisallow: /\n\nUser-agent: GrokBot\nDisallow: /\n\nUser-agent: iAskBot\nDisallow: /\n\nUser-agent: IbouBot\nDisallow: /\n\nUser-agent: ICC-Crawler\nDisallow: /\n\nUser-agent: ImagesiftBot\nDisallow: /\n\nUser-agent: imageSpider\nDisallow: /\n\nUser-agent: Kangaroo Bot\nDisallow: /\n\nUser-agent: KlaviyoAIBot\nDisallow: /\n\nUser-agent: KunatoCrawler\nDisallow: /\n\nUser-agent: laion-huggingface-processor\nDisallow: /\n\nUser-agent: Linguee Bot\nDisallow: /\n\nUser-agent: LinkupBot\nDisallow: /\n\nUser-agent: Manus-User\nDisallow: /\n\nUser-agent: meta-webindexer\nDisallow: /\n\nUser-agent: netEstate Imprint Crawler\nDisallow: /\n\nUser-agent: Panscient\nDisallow: /\n\nUser-agent: panscient.com\nDisallow: /\n\nUser-agent: PhindBot\nDisallow: /\n\nUser-agent: Poggio-Citations\nDisallow: /\n\nUser-agent: QualifiedBot\nDisallow: /\n\nUser-agent: SBIntuitionsBot\nDisallow: /\n\nUser-agent: ShapBot\nDisallow: /\n\nUser-agent: TavilyBot\nDisallow: /\n\nUser-agent: TerraCotta\nDisallow: /\n\nUser-agent: TwinAgent\nDisallow: /\n\nUser-agent: webzio-extended\nDisallow: /\n\nUser-agent: WRTNBot\nDisallow: /\n\nUser-agent: xAI-Grok\nDisallow: /\n\nUser-agent: YaK\nDisallow: /\n\nUser-agent: ZanistaBot\nDisallow: /"
+    }
+  ],
+  "eligible_pages": 2,
+  "canonical_origin": [
+    "https",
+    "www.amazon.com",
+    443
+  ],
+  "stop_reason": "frontier_exhausted",
+  "elapsed_seconds": 4.7
+}

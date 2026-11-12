@@ -1,0 +1,43 @@
+{
+  "site": {
+    "rank": "1396",
+    "domain": "businesswire.com",
+    "stratum": "1001-10000"
+  },
+  "rows": [
+    {
+      "rank": "1396",
+      "domain": "businesswire.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://businesswire.com/",
+      "depth": 0,
+      "parent_url": "",
+      "attempt": 1,
+      "timestamp": "2026-11-12T21:13:23.011979+00:00",
+      "error": "timeout: The read operation timed out",
+      "eligible": false
+    }
+  ],
+  "robots": [
+    {
+      "url": "https://businesswire.com/robots.txt",
+      "timestamp": "2026-11-12T21:13:23.549555+00:00",
+      "status": 200,
+      "decision": "parsed",
+      "final_url": "https://www.businesswire.com/robots.txt",
+      "redirect_chain": [
+        {
+          "url": "https://businesswire.com/robots.txt",
+          "status": 301,
+          "location": "https://www.businesswire.com/robots.txt"
+        }
+      ],
+      "body_sha256": "e95b5e6bbf8de73bdcb6d4fdb51eb410a0c10830f1e75f6b5baf528f1c13c47a",
+      "body": "User-Agent: dotbot\nDisallow: /\n\nUser-Agent: ScoutJet\nCrawl-delay: 10\n\nUser-Agent: Yahoo! Slurp\nCrawl-delay: 10\n\nUser-Agent: bingbot\nCrawl-delay: 10\n\nUser-Agent: Googlebot\nCrawl-delay: 10\n\nUser-Agent: YandexBot\nCrawl-delay: 10\n\nUser-Agent: Twitterbot\nCrawl-delay: 10\n\nUser-Agent: Googlebot-Image\nCrawl-delay: 10\n\nUser-Agent: AhrefsBot\nCrawl-delay: 10\n\nUser-Agent: Spinn3r\nCrawl-delay: 10\n\nUser-Agent: omgilibot\nCrawl-delay: 10\n\nUser-Agent: msnbot-NewsBlogs\nCrawl-delay: 10\n\nUser-Agent: AddThis.com robot\nCrawl-delay: 10\n\nUser-Agent: YandexNews\nCrawl-delay: 10\n\nUser-Agent: LivelapBot\nCrawl-delay: 10\n\nUser-Agent: msnbot-UDiscovery\nCrawl-delay: 10\n\nUser-Agent: PaperLiBot\nCrawl-delay: 10\n\nUser-Agent: trendictionbot\nCrawl-delay: 10\n\nUser-Agent: newslebot\nCrawl-delay: 10\n\nUser-Agent: YandexImages\nCrawl-delay: 10\n\nUser-Agent: Diffbot\nCrawl-delay: 10\n\nUser-Agent: TweetmemeBot\nCrawl-delay: 10\n\nUser-Agent: Mail.RU_Bot\nCrawl-delay: 10\n\nUser-Agent: RediffNewsBot\nCrawl-delay: 10\n\nUser-Agent: LinkedInBot\nCrawl-delay: 10\n\nUser-Agent: YandexImageResizer\nCrawl-delay: 10\n\nUser-Agent: MJ12bot\nCrawl-delay: 10\n\nUser-Agent: EveryoneSocialBot\nCrawl-delay: 10\n\nUser-Agent: HubSpot Page Fetching Bot\nCrawl-delay: 10\n\nUser-Agent: Konqueror\nCrawl-delay: 10\n\nUser-Agent: msnbot-media\nCrawl-delay: 10\n\nUser-Agent: ZumBot\nCrawl-delay: 10\n\nUser-Agent: BusinessWireBot\nCrawl-delay: 10\n\nUser-Agent: PictureBot\nCrawl-delay: 10\n\nUser-Agent: InterfaxBot\nCrawl-delay: 10\n\nUser-Agent: InterfaxScanBot\nCrawl-delay: 10\n\nUser-Agent: Kraken\nCrawl-delay: 10\n\nUser-Agent: Flamingo_SearchEngine\nCrawl-delay: 10\n\nUser-Agent: linkdexbot\nCrawl-delay: 10\n\nUser-Agent: nachtschatten, neofonie search:robot\nCrawl-delay: 10\n\nUser-Agent: VocusBot\nCrawl-delay: 10\n\nUser-Agent: uMBot-LN\nCrawl-delay: 10\n\nUser-Agent: Yeti\nCrawl-delay: 10\n\nUser-Agent: uMBot-FC\nCrawl-delay: 10\n\nUser-Agent: OpenHoseBot\nCrawl-delay: 10\n\nUser-Agent: Googlebot-Mobile\nCrawl-delay: 10\n\nUser-Agent: WikioImagesBot\nCrawl-delay: 10\n\nUser-Agent: ScooperBot\nCrawl-delay: 10\n\nUser-Agent: Kemvibot\nCrawl-delay: 10\n\nUser-Agent: xintellibot\nCrawl-delay: 10\n\nUser-Agent: archive.org_bot\nCrawl-delay: 10\n\nUser-Agent: SemrushBot\nCrawl-delay: 10\n\nUser-Agent: ShowyouBot\nCrawl-delay: 10\n\nUser-Agent: bitlybot\nCrawl-delay: 10\n\nUser-Agent: Veooz\nCrawl-delay: 10\n\nUser-Agent: zitebot\nCrawl-delay: 10\n\nUser-Agent: TinEye-bot\nCrawl-delay: 10\n\nUser-Agent: Exabot\nCrawl-delay: 10\n\nUser-Agent: TweetedTimes Bot\nCrawl-delay: 10\n\nUser-Agent: rogerbot\nCrawl-delay: 10\n\nUser-Agent: James BOT\nCrawl-delay: 10\n\nUser-Agent: Newsbot\nCrawl-delay: 10\n\nUser-Agent: Blekkobot\nCrawl-delay: 10\n\nUser-Agent: ContextAd Bot\nCrawl-delay: 10\n\nUser-Agent: QuerySeekerSpider\nCrawl-delay: 10\n\nUser-Agent: squirrobot\nCrawl-delay: 10\n\nUser-Agent: MarketBrewBot\nCrawl-delay: 10\n\nUser-Agent: MixBot\nCrawl-delay: 10\n\nUser-Agent: abot\nCrawl-delay: 10\n\nUser-Agent: MS Search 6.0 Robot\nCrawl-delay: 10\n\nUser-Agent: heritrix\nCrawl-delay: 10\n\nUser-Agent: DotBot\nCrawl-delay: 10\n\nUser-Agent: Dow Jones Searchbot\nCrawl-delay: 10\n\nUser-Agent: mediajam-bot\nCrawl-delay: 10\n\nUser-Agent: BOT\nCrawl-delay: 10\n\nUser-Agent: Slackbot-LinkExpanding\nCrawl-delay: 10\n\nUser-Agent: Landau-Media-Spider\nCrawl-delay: 10\n\nUser-Agent: SurveyBot\nCrawl-delay: 10\n\nUser-Agent: SocialShare\nCrawl-delay: 10\n\nUser-Agent: LDRbot\nCrawl-delay: 10\n\nUser-Agent: WASALive-Bot\nCrawl-delay: 10\n\nUser-Agent: GozaikBot\nCrawl-delay: 10\n\nUser-Agent: MarketwireBot\nCrawl-delay: 10\n\nUser-Agent: SeznamBot\nCrawl-delay: 10\n\nUser-Agent: g2reader-bot\nCrawl-delay: 10\n\nUser-Agent: gyffu_bot\nCrawl-delay: 10\n\nUser-Agent: AcademicBot\nCrawl-delay: 10\n\nUser-Agent: BufferBot\nCrawl-delay: 10\n\nUser-Agent: FTRF: Friendly robot\nCrawl-delay: 10\n\nUser-Agent: yolinkBot\nCrawl-delay: 10\n\nUser-Agent: RightIntelBot\nCrawl-delay: 10\n\nUser-Agent: Claritybot\nCrawl-delay: 10\n\nUser-Agent: cXensebot\nCrawl-delay: 10\n\nUser-Agent: Yandex.Gazeta Bot\nCrawl-delay: 10\n\nUser-Agent: newslookup-bot\nCrawl-delay: 10\n\nUser-Agent: sReleaseBot\nCrawl-delay: 10\n\nUser-Agent: NerdyBot\nCrawl-delay: 10\n\nUser-Agent: SkimBot\nCrawl-delay: 10\n\nUser-Agent: datagnionbot\nCrawl-delay: 10\n\nUser-Agent: ArchiveTeam ArchiveBot\nCrawl-delay: 10\n\nUser-Agent: focuseekbot\nCrawl-delay: 10\n\nUser-Agent: slurp\nCrawl-delay: 10\n\nUser-Agent: LinkpadBot\nCrawl-delay: 10\n\nUser-Agent: MojeekBot\nCrawl-delay: 10\n\nUser-Agent: YioopBot\nCrawl-delay: 10\n\nUser-Agent: SinaWeiboBot\nCrawl-delay: 10\n\nUser-Agent: Spiderbot\nCrawl-delay: 10\n\nUser-Agent: Swayy API\nCrawl-delay: 10\n\nUser-Agent: iisbot\nCrawl-delay: 10\n\nUser-Agent: msnbot\nCrawl-delay: 10\n\nUser-Agent: robot leapit.com\nCrawl-delay: 10\n\nUser-Agent: gsa-crawler\nCrawl-delay: 10\n\nUser-Agent: VegeBot\nCrawl-delay: 10\n\nUser-Agent: APIs-Google\nCrawl-delay: 10\n\nUser-Agent: Mediapartners-Google\nCrawl-delay: 10\n\nUser-Agent: AdsBot-Google-Mobile\nCrawl-delay: 10\n\nUser-Agent: AdsBot-Google\nCrawl-delay: 10\n\nUser-Agent: Googlebot-News\nCrawl-delay: 10\n\nUser-Agent: Googlebot-Video\nCrawl-delay: 10\n\nUser-Agent: DuckDuckBot\nCrawl-delay: 10\n\nUser-Agent: Baiduspider\nCrawl-delay: 10\n\nUser-Agent: Baiduspider-image\nCrawl-delay: 10\n\nUser-Agent: Baiduspider-video\nCrawl-delay: 10\n\nUser-Agent: Baiduspider-news\nCrawl-delay: 10\n\nUser-Agent: Baiduspider-favo\nCrawl-delay: 10\n\nUser-Agent: Baiduspider-cpro\nCrawl-delay: 10\n\nUser-Agent: Baiduspider-ads\nCrawl-delay: 10\n\nUser-Agent: Baiduspider\nCrawl-delay: 10\n\nUser-Agent: omgilibot\nCrawl-delay: 10\n\nUser-Agent: facebot\nCrawl-delay: 10\n\nUser-Agent: AppleNewsBot\nCrawl-delay: 10\n\nUser-Agent: expo9\nCrawl-delay: 10\n\nUser-Agent: Nuzzel\nCrawl-delay: 10\n\nUser-Agent: newspaper\nCrawl-delay: 10\n\nSitemap: https://www.businesswire.com/sitemap-index.xml\nSitemap: https://www.businesswire.com/sitemap/standard/smaps-bw-mod.xml\nSitemap: https://www.businesswire.com/sitemap/google-news/gn-bw-mod.xml\nSitemap: https://feed.businesswire.com/mrss/home/?rss=G1QFDERJXkJcFVJYWQ==\n"
+    }
+  ],
+  "eligible_pages": 0,
+  "canonical_origin": null,
+  "stop_reason": "frontier_exhausted",
+  "elapsed_seconds": 10.88
+}

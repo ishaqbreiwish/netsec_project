@@ -1,0 +1,1605 @@
+{
+  "site": {
+    "rank": "65",
+    "domain": "whatsapp.com",
+    "stratum": "1-100"
+  },
+  "rows": [
+    {
+      "rank": "65",
+      "domain": "whatsapp.com",
+      "stratum": "1-100",
+      "requested_url": "https://whatsapp.com/",
+      "depth": 0,
+      "parent_url": "",
+      "attempt": 1,
+      "timestamp": "2026-11-12T21:11:30.342080+00:00",
+      "final_url": "https://www.whatsapp.com/",
+      "status": 200,
+      "content_type": "text/html; charset=\"utf-8\"",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'self' blob:;script-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-RLnhhAAY' 'self' blob:;style-src *.whatsapp.com *.whatsapp.net 'unsafe-inline' *.facebook.com 'self' data: blob:;connect-src *.whatsapp.com *.whatsapp.net wss://*.facebook.com:* *.fbcdn.net 'self' data: blob:;font-src *.whatsapp.com *.whatsapp.net *.facebook.com static.xx.fbcdn.net data:;img-src *.whatsapp.com *.whatsapp.net *.facebook.com *.fbcdn.net *.fbsbx.com static.xx.fbcdn.net *.cdninstagram.com 'self' data: blob:;media-src *.fbcdn.net 'self' data: blob:;child-src 'self' data: blob:;frame-src *.facebook.com *.whatsapp.com 'self' data: blob:;manifest-src 'self' data: blob:;object-src 'self' data: blob:;worker-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-RLnhhAAY' 'self' data: blob:;block-all-mixed-content;upgrade-insecure-requests;"
+        ],
+        "content-security-policy-report-only": [
+          "default-src 'self' blob:;script-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-RLnhhAAY' 'self' blob:;style-src *.whatsapp.com *.whatsapp.net 'unsafe-inline' *.facebook.com 'self' data: blob:;connect-src *.whatsapp.com *.whatsapp.net wss://*.facebook.com:* *.fbcdn.net 'self' data: blob:;font-src *.whatsapp.com *.whatsapp.net *.facebook.com static.xx.fbcdn.net data:;img-src *.whatsapp.com *.whatsapp.net *.facebook.com *.fbcdn.net *.fbsbx.com static.xx.fbcdn.net *.cdninstagram.com 'self' data: blob:;media-src *.fbcdn.net 'self' data: blob:;child-src 'self' data: blob:;frame-src *.facebook.com *.whatsapp.com 'self' data: blob:;manifest-src 'self' data: blob:;object-src 'self' data: blob:;worker-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-RLnhhAAY' 'self' data: blob:;block-all-mixed-content;upgrade-insecure-requests;report-uri https://www.facebook.com/csp/reporting/?m=tr_exp&minimize=0;"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000; preload; includeSubDomains"
+        ]
+      },
+      "body_bytes": 281962,
+      "truncated": false,
+      "body_sha256": "c3155b99738518e6b8e9acc380ee7b236352ec6f67b8d962a23880b0e56a794e",
+      "redirect_chain": [
+        {
+          "url": "https://whatsapp.com/",
+          "status": 302,
+          "location": "https://www.whatsapp.com/",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000; preload; includeSubDomains"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "WhatsApp | Secure and Reliable Free Private Messaging and Calling",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "65",
+      "domain": "whatsapp.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.whatsapp.com/calling",
+      "depth": 1,
+      "parent_url": "https://www.whatsapp.com/",
+      "attempt": 2,
+      "timestamp": "2026-11-12T21:11:31.201491+00:00",
+      "final_url": "https://www.whatsapp.com/calling",
+      "status": 200,
+      "content_type": "text/html; charset=\"utf-8\"",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'self' blob:;script-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-3TzwWubS' 'self' blob:;style-src *.whatsapp.com *.whatsapp.net 'unsafe-inline' *.facebook.com 'self' data: blob:;connect-src *.whatsapp.com *.whatsapp.net wss://*.facebook.com:* *.fbcdn.net 'self' data: blob:;font-src *.whatsapp.com *.whatsapp.net *.facebook.com static.xx.fbcdn.net data:;img-src *.whatsapp.com *.whatsapp.net *.facebook.com *.fbcdn.net *.fbsbx.com static.xx.fbcdn.net *.cdninstagram.com 'self' data: blob:;media-src *.fbcdn.net 'self' data: blob:;child-src 'self' data: blob:;frame-src *.facebook.com *.whatsapp.com 'self' data: blob:;manifest-src 'self' data: blob:;object-src 'self' data: blob:;worker-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-3TzwWubS' 'self' data: blob:;block-all-mixed-content;upgrade-insecure-requests;"
+        ],
+        "content-security-policy-report-only": [
+          "default-src 'self' blob:;script-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-3TzwWubS' 'self' blob:;style-src *.whatsapp.com *.whatsapp.net 'unsafe-inline' *.facebook.com 'self' data: blob:;connect-src *.whatsapp.com *.whatsapp.net wss://*.facebook.com:* *.fbcdn.net 'self' data: blob:;font-src *.whatsapp.com *.whatsapp.net *.facebook.com static.xx.fbcdn.net data:;img-src *.whatsapp.com *.whatsapp.net *.facebook.com *.fbcdn.net *.fbsbx.com static.xx.fbcdn.net *.cdninstagram.com 'self' data: blob:;media-src *.fbcdn.net 'self' data: blob:;child-src 'self' data: blob:;frame-src *.facebook.com *.whatsapp.com 'self' data: blob:;manifest-src 'self' data: blob:;object-src 'self' data: blob:;worker-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-3TzwWubS' 'self' data: blob:;block-all-mixed-content;upgrade-insecure-requests;report-uri https://www.facebook.com/csp/reporting/?m=tr_exp&minimize=0;"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000; preload; includeSubDomains"
+        ]
+      },
+      "body_bytes": 325462,
+      "truncated": false,
+      "body_sha256": "1f81f8bf6d5e7be882b07e05679f6a3f561b8866598e1a5794e41f64dc61e00a",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "WhatsApp Voice and Video Calling",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "65",
+      "domain": "whatsapp.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.whatsapp.com/messaging",
+      "depth": 1,
+      "parent_url": "https://www.whatsapp.com/",
+      "attempt": 3,
+      "timestamp": "2026-11-12T21:11:31.728797+00:00",
+      "final_url": "https://www.whatsapp.com/messaging",
+      "status": 200,
+      "content_type": "text/html; charset=\"utf-8\"",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'self' blob:;script-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-GVX6lyYa' 'self' blob:;style-src *.whatsapp.com *.whatsapp.net 'unsafe-inline' *.facebook.com 'self' data: blob:;connect-src *.whatsapp.com *.whatsapp.net wss://*.facebook.com:* *.fbcdn.net 'self' data: blob:;font-src *.whatsapp.com *.whatsapp.net *.facebook.com static.xx.fbcdn.net data:;img-src *.whatsapp.com *.whatsapp.net *.facebook.com *.fbcdn.net *.fbsbx.com static.xx.fbcdn.net *.cdninstagram.com 'self' data: blob:;media-src *.fbcdn.net 'self' data: blob:;child-src 'self' data: blob:;frame-src *.facebook.com *.whatsapp.com 'self' data: blob:;manifest-src 'self' data: blob:;object-src 'self' data: blob:;worker-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-GVX6lyYa' 'self' data: blob:;block-all-mixed-content;upgrade-insecure-requests;"
+        ],
+        "content-security-policy-report-only": [
+          "default-src 'self' blob:;script-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-GVX6lyYa' 'self' blob:;style-src *.whatsapp.com *.whatsapp.net 'unsafe-inline' *.facebook.com 'self' data: blob:;connect-src *.whatsapp.com *.whatsapp.net wss://*.facebook.com:* *.fbcdn.net 'self' data: blob:;font-src *.whatsapp.com *.whatsapp.net *.facebook.com static.xx.fbcdn.net data:;img-src *.whatsapp.com *.whatsapp.net *.facebook.com *.fbcdn.net *.fbsbx.com static.xx.fbcdn.net *.cdninstagram.com 'self' data: blob:;media-src *.fbcdn.net 'self' data: blob:;child-src 'self' data: blob:;frame-src *.facebook.com *.whatsapp.com 'self' data: blob:;manifest-src 'self' data: blob:;object-src 'self' data: blob:;worker-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-GVX6lyYa' 'self' data: blob:;block-all-mixed-content;upgrade-insecure-requests;report-uri https://www.facebook.com/csp/reporting/?m=tr_exp&minimize=0;"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000; preload; includeSubDomains"
+        ]
+      },
+      "body_bytes": 342861,
+      "truncated": false,
+      "body_sha256": "92f9e2d68db70301815d6385e6c97fa10653e801bf57aaa431266cb01b0f96d9",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "WhatsApp Messaging",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "65",
+      "domain": "whatsapp.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.whatsapp.com/groups",
+      "depth": 1,
+      "parent_url": "https://www.whatsapp.com/",
+      "attempt": 4,
+      "timestamp": "2026-11-12T21:11:32.253053+00:00",
+      "final_url": "https://www.whatsapp.com/groups",
+      "status": 200,
+      "content_type": "text/html; charset=\"utf-8\"",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'self' blob:;script-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-jt0CWWfA' 'self' blob:;style-src *.whatsapp.com *.whatsapp.net 'unsafe-inline' *.facebook.com 'self' data: blob:;connect-src *.whatsapp.com *.whatsapp.net wss://*.facebook.com:* *.fbcdn.net 'self' data: blob:;font-src *.whatsapp.com *.whatsapp.net *.facebook.com static.xx.fbcdn.net data:;img-src *.whatsapp.com *.whatsapp.net *.facebook.com *.fbcdn.net *.fbsbx.com static.xx.fbcdn.net *.cdninstagram.com 'self' data: blob:;media-src *.fbcdn.net 'self' data: blob:;child-src 'self' data: blob:;frame-src *.facebook.com *.whatsapp.com 'self' data: blob:;manifest-src 'self' data: blob:;object-src 'self' data: blob:;worker-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-jt0CWWfA' 'self' data: blob:;block-all-mixed-content;upgrade-insecure-requests;"
+        ],
+        "content-security-policy-report-only": [
+          "default-src 'self' blob:;script-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-jt0CWWfA' 'self' blob:;style-src *.whatsapp.com *.whatsapp.net 'unsafe-inline' *.facebook.com 'self' data: blob:;connect-src *.whatsapp.com *.whatsapp.net wss://*.facebook.com:* *.fbcdn.net 'self' data: blob:;font-src *.whatsapp.com *.whatsapp.net *.facebook.com static.xx.fbcdn.net data:;img-src *.whatsapp.com *.whatsapp.net *.facebook.com *.fbcdn.net *.fbsbx.com static.xx.fbcdn.net *.cdninstagram.com 'self' data: blob:;media-src *.fbcdn.net 'self' data: blob:;child-src 'self' data: blob:;frame-src *.facebook.com *.whatsapp.com 'self' data: blob:;manifest-src 'self' data: blob:;object-src 'self' data: blob:;worker-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-jt0CWWfA' 'self' data: blob:;block-all-mixed-content;upgrade-insecure-requests;report-uri https://www.facebook.com/csp/reporting/?m=tr_exp&minimize=0;"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000; preload; includeSubDomains"
+        ]
+      },
+      "body_bytes": 288313,
+      "truncated": false,
+      "body_sha256": "81663624a6fe2bd6b45e528759a4598dad320b5f3f07a5cffb89d3060fdd3013",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Discover WhatsApp Group Messaging Features",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "65",
+      "domain": "whatsapp.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.whatsapp.com/expressyourself",
+      "depth": 2,
+      "parent_url": "https://www.whatsapp.com/groups",
+      "attempt": 5,
+      "timestamp": "2026-11-12T21:11:32.993213+00:00",
+      "final_url": "https://www.whatsapp.com/messaging",
+      "status": 200,
+      "content_type": "text/html; charset=\"utf-8\"",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'self' blob:;script-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-EZgTRzwj' 'self' blob:;style-src *.whatsapp.com *.whatsapp.net 'unsafe-inline' *.facebook.com 'self' data: blob:;connect-src *.whatsapp.com *.whatsapp.net wss://*.facebook.com:* *.fbcdn.net 'self' data: blob:;font-src *.whatsapp.com *.whatsapp.net *.facebook.com static.xx.fbcdn.net data:;img-src *.whatsapp.com *.whatsapp.net *.facebook.com *.fbcdn.net *.fbsbx.com static.xx.fbcdn.net *.cdninstagram.com 'self' data: blob:;media-src *.fbcdn.net 'self' data: blob:;child-src 'self' data: blob:;frame-src *.facebook.com *.whatsapp.com 'self' data: blob:;manifest-src 'self' data: blob:;object-src 'self' data: blob:;worker-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-EZgTRzwj' 'self' data: blob:;block-all-mixed-content;upgrade-insecure-requests;"
+        ],
+        "content-security-policy-report-only": [
+          "default-src 'self' blob:;script-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-EZgTRzwj' 'self' blob:;style-src *.whatsapp.com *.whatsapp.net 'unsafe-inline' *.facebook.com 'self' data: blob:;connect-src *.whatsapp.com *.whatsapp.net wss://*.facebook.com:* *.fbcdn.net 'self' data: blob:;font-src *.whatsapp.com *.whatsapp.net *.facebook.com static.xx.fbcdn.net data:;img-src *.whatsapp.com *.whatsapp.net *.facebook.com *.fbcdn.net *.fbsbx.com static.xx.fbcdn.net *.cdninstagram.com 'self' data: blob:;media-src *.fbcdn.net 'self' data: blob:;child-src 'self' data: blob:;frame-src *.facebook.com *.whatsapp.com 'self' data: blob:;manifest-src 'self' data: blob:;object-src 'self' data: blob:;worker-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-EZgTRzwj' 'self' data: blob:;block-all-mixed-content;upgrade-insecure-requests;report-uri https://www.facebook.com/csp/reporting/?m=tr_exp&minimize=0;"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000; preload; includeSubDomains"
+        ]
+      },
+      "body_bytes": 342874,
+      "truncated": false,
+      "body_sha256": "129e9552b83443eb505576fd029522eaca642849b0e539cfa21dff0b98ea57a8",
+      "redirect_chain": [
+        {
+          "url": "https://www.whatsapp.com/expressyourself",
+          "status": 301,
+          "location": "https://www.whatsapp.com/messaging",
+          "headers": {
+            "content-security-policy": [
+              "default-src 'self' blob:;script-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-po70zaUR' 'self' blob:;style-src *.whatsapp.com *.whatsapp.net 'unsafe-inline' *.facebook.com 'self' data: blob:;connect-src *.whatsapp.com *.whatsapp.net wss://*.facebook.com:* *.fbcdn.net 'self' data: blob:;font-src *.whatsapp.com *.whatsapp.net *.facebook.com static.xx.fbcdn.net data:;img-src *.whatsapp.com *.whatsapp.net *.facebook.com *.fbcdn.net *.fbsbx.com static.xx.fbcdn.net *.cdninstagram.com 'self' data: blob:;media-src *.fbcdn.net 'self' data: blob:;child-src 'self' data: blob:;frame-src *.facebook.com *.whatsapp.com 'self' data: blob:;manifest-src 'self' data: blob:;object-src 'self' data: blob:;worker-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-po70zaUR' 'self' data: blob:;block-all-mixed-content;upgrade-insecure-requests;"
+            ],
+            "content-security-policy-report-only": [
+              "default-src 'self' blob:;script-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-po70zaUR' 'self' blob:;style-src *.whatsapp.com *.whatsapp.net 'unsafe-inline' *.facebook.com 'self' data: blob:;connect-src *.whatsapp.com *.whatsapp.net wss://*.facebook.com:* *.fbcdn.net 'self' data: blob:;font-src *.whatsapp.com *.whatsapp.net *.facebook.com static.xx.fbcdn.net data:;img-src *.whatsapp.com *.whatsapp.net *.facebook.com *.fbcdn.net *.fbsbx.com static.xx.fbcdn.net *.cdninstagram.com 'self' data: blob:;media-src *.fbcdn.net 'self' data: blob:;child-src 'self' data: blob:;frame-src *.facebook.com *.whatsapp.com 'self' data: blob:;manifest-src 'self' data: blob:;object-src 'self' data: blob:;worker-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-po70zaUR' 'self' data: blob:;block-all-mixed-content;upgrade-insecure-requests;report-uri https://www.facebook.com/csp/reporting/?m=tr_exp&minimize=0;"
+            ],
+            "strict-transport-security": [
+              "max-age=31536000; preload; includeSubDomains"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "WhatsApp Messaging",
+      "duplicate_final": true,
+      "eligible": false
+    },
+    {
+      "rank": "65",
+      "domain": "whatsapp.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.whatsapp.com/communities/learning",
+      "depth": 2,
+      "parent_url": "https://www.whatsapp.com/groups",
+      "attempt": 6,
+      "timestamp": "2026-11-12T21:11:33.604618+00:00",
+      "final_url": "https://www.whatsapp.com/communities/learning",
+      "status": 200,
+      "content_type": "text/html; charset=\"utf-8\"",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'self' blob:;script-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-Q88Jk4dt' 'self' blob:;style-src *.whatsapp.com *.whatsapp.net 'unsafe-inline' *.facebook.com 'self' data: blob:;connect-src *.whatsapp.com *.whatsapp.net wss://*.facebook.com:* *.fbcdn.net 'self' data: blob:;font-src *.whatsapp.com *.whatsapp.net *.facebook.com static.xx.fbcdn.net data:;img-src *.whatsapp.com *.whatsapp.net *.facebook.com *.fbcdn.net *.fbsbx.com static.xx.fbcdn.net *.cdninstagram.com 'self' data: blob:;media-src *.fbcdn.net 'self' data: blob:;child-src 'self' data: blob:;frame-src *.facebook.com *.whatsapp.com 'self' data: blob:;manifest-src 'self' data: blob:;object-src 'self' data: blob:;worker-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-Q88Jk4dt' 'self' data: blob:;block-all-mixed-content;upgrade-insecure-requests;"
+        ],
+        "content-security-policy-report-only": [
+          "default-src 'self' blob:;script-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-Q88Jk4dt' 'self' blob:;style-src *.whatsapp.com *.whatsapp.net 'unsafe-inline' *.facebook.com 'self' data: blob:;connect-src *.whatsapp.com *.whatsapp.net wss://*.facebook.com:* *.fbcdn.net 'self' data: blob:;font-src *.whatsapp.com *.whatsapp.net *.facebook.com static.xx.fbcdn.net data:;img-src *.whatsapp.com *.whatsapp.net *.facebook.com *.fbcdn.net *.fbsbx.com static.xx.fbcdn.net *.cdninstagram.com 'self' data: blob:;media-src *.fbcdn.net 'self' data: blob:;child-src 'self' data: blob:;frame-src *.facebook.com *.whatsapp.com 'self' data: blob:;manifest-src 'self' data: blob:;object-src 'self' data: blob:;worker-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-Q88Jk4dt' 'self' data: blob:;block-all-mixed-content;upgrade-insecure-requests;report-uri https://www.facebook.com/csp/reporting/?m=tr_exp&minimize=0;"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000; preload; includeSubDomains"
+        ]
+      },
+      "body_bytes": 248861,
+      "truncated": false,
+      "body_sha256": "01ab30988c7e7e2e69a641020b3bd1ecf917e2c4d71c9190b00bfefb0316602a",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "WhatsApp Communities Learning Center",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "65",
+      "domain": "whatsapp.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.whatsapp.com/channels",
+      "depth": 1,
+      "parent_url": "https://www.whatsapp.com/",
+      "attempt": 7,
+      "timestamp": "2026-11-12T21:11:34.399496+00:00",
+      "final_url": "https://www.whatsapp.com/channels",
+      "status": 200,
+      "content_type": "text/html; charset=\"utf-8\"",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'self' blob:;script-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-ikiKx6cH' 'self' blob:;style-src *.whatsapp.com *.whatsapp.net 'unsafe-inline' *.facebook.com 'self' data: blob:;connect-src *.whatsapp.com *.whatsapp.net wss://*.facebook.com:* *.fbcdn.net 'self' data: blob:;font-src *.whatsapp.com *.whatsapp.net *.facebook.com static.xx.fbcdn.net data:;img-src *.whatsapp.com *.whatsapp.net *.facebook.com *.fbcdn.net *.fbsbx.com static.xx.fbcdn.net *.cdninstagram.com 'self' data: blob:;media-src *.fbcdn.net 'self' data: blob:;child-src 'self' data: blob:;frame-src *.facebook.com *.whatsapp.com 'self' data: blob:;manifest-src 'self' data: blob:;object-src 'self' data: blob:;worker-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-ikiKx6cH' 'self' data: blob:;block-all-mixed-content;upgrade-insecure-requests;"
+        ],
+        "content-security-policy-report-only": [
+          "default-src 'self' blob:;script-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-ikiKx6cH' 'self' blob:;style-src *.whatsapp.com *.whatsapp.net 'unsafe-inline' *.facebook.com 'self' data: blob:;connect-src *.whatsapp.com *.whatsapp.net wss://*.facebook.com:* *.fbcdn.net 'self' data: blob:;font-src *.whatsapp.com *.whatsapp.net *.facebook.com static.xx.fbcdn.net data:;img-src *.whatsapp.com *.whatsapp.net *.facebook.com *.fbcdn.net *.fbsbx.com static.xx.fbcdn.net *.cdninstagram.com 'self' data: blob:;media-src *.fbcdn.net 'self' data: blob:;child-src 'self' data: blob:;frame-src *.facebook.com *.whatsapp.com 'self' data: blob:;manifest-src 'self' data: blob:;object-src 'self' data: blob:;worker-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-ikiKx6cH' 'self' data: blob:;block-all-mixed-content;upgrade-insecure-requests;report-uri https://www.facebook.com/csp/reporting/?m=tr_exp&minimize=0;"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000; preload; includeSubDomains"
+        ]
+      },
+      "body_bytes": 284470,
+      "truncated": false,
+      "body_sha256": "f209851674d31aafbbfe3823ba753d9291415b4162a9a935344b0dcaf7d43fee",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "WhatsApp Channels: Follow People and Topics That You Care About",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "65",
+      "domain": "whatsapp.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.whatsapp.com/channel/directory",
+      "depth": 2,
+      "parent_url": "https://www.whatsapp.com/channels",
+      "attempt": 8,
+      "timestamp": "2026-11-12T21:11:34.875586+00:00",
+      "final_url": "https://www.whatsapp.com/channel/directory",
+      "status": 200,
+      "content_type": "text/html; charset=\"utf-8\"",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'self' blob:;script-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-5csdQOJZ' 'self' blob:;style-src *.whatsapp.com *.whatsapp.net 'unsafe-inline' *.facebook.com 'self' data: blob:;connect-src *.whatsapp.com *.whatsapp.net wss://*.facebook.com:* *.fbcdn.net 'self' data: blob:;font-src *.whatsapp.com *.whatsapp.net *.facebook.com static.xx.fbcdn.net data:;img-src *.whatsapp.com *.whatsapp.net *.facebook.com *.fbcdn.net *.fbsbx.com static.xx.fbcdn.net *.cdninstagram.com 'self' data: blob:;media-src *.fbcdn.net 'self' data: blob: *.whatsapp.net;child-src 'self' data: blob:;frame-src *.facebook.com *.whatsapp.com 'self' data: blob:;manifest-src 'self' data: blob:;object-src 'self' data: blob:;worker-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-5csdQOJZ' 'self' data: blob:;block-all-mixed-content;upgrade-insecure-requests;"
+        ],
+        "content-security-policy-report-only": [
+          "default-src 'self' blob:;script-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-5csdQOJZ' 'self' blob:;style-src *.whatsapp.com *.whatsapp.net 'unsafe-inline' *.facebook.com 'self' data: blob:;connect-src *.whatsapp.com *.whatsapp.net wss://*.facebook.com:* *.fbcdn.net 'self' data: blob:;font-src *.whatsapp.com *.whatsapp.net *.facebook.com static.xx.fbcdn.net data:;img-src *.whatsapp.com *.whatsapp.net *.facebook.com *.fbcdn.net *.fbsbx.com static.xx.fbcdn.net *.cdninstagram.com 'self' data: blob:;media-src *.fbcdn.net 'self' data: blob: *.whatsapp.net;child-src 'self' data: blob:;frame-src *.facebook.com *.whatsapp.com 'self' data: blob:;manifest-src 'self' data: blob:;object-src 'self' data: blob:;worker-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-5csdQOJZ' 'self' data: blob:;block-all-mixed-content;upgrade-insecure-requests;report-uri https://www.facebook.com/csp/reporting/?m=tr_exp&minimize=0;"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000; preload; includeSubDomains"
+        ]
+      },
+      "body_bytes": 195677,
+      "truncated": false,
+      "body_sha256": "3cc9ff1319aa9988703e01b617b54065852da108981159d369809748b991296b",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "WhatsApp Channel Directory",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "65",
+      "domain": "whatsapp.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.whatsapp.com/meta-ai",
+      "depth": 1,
+      "parent_url": "https://www.whatsapp.com/",
+      "attempt": 9,
+      "timestamp": "2026-11-12T21:11:35.363296+00:00",
+      "final_url": "https://www.whatsapp.com/meta-ai",
+      "status": 200,
+      "content_type": "text/html; charset=\"utf-8\"",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'self' blob:;script-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-P9z1Aiwd' 'self' blob:;style-src *.whatsapp.com *.whatsapp.net 'unsafe-inline' *.facebook.com 'self' data: blob:;connect-src *.whatsapp.com *.whatsapp.net wss://*.facebook.com:* *.fbcdn.net 'self' data: blob:;font-src *.whatsapp.com *.whatsapp.net *.facebook.com static.xx.fbcdn.net data:;img-src *.whatsapp.com *.whatsapp.net *.facebook.com *.fbcdn.net *.fbsbx.com static.xx.fbcdn.net *.cdninstagram.com 'self' data: blob:;media-src *.fbcdn.net 'self' data: blob:;child-src 'self' data: blob:;frame-src *.facebook.com *.whatsapp.com 'self' data: blob:;manifest-src 'self' data: blob:;object-src 'self' data: blob:;worker-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-P9z1Aiwd' 'self' data: blob:;block-all-mixed-content;upgrade-insecure-requests;"
+        ],
+        "content-security-policy-report-only": [
+          "default-src 'self' blob:;script-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-P9z1Aiwd' 'self' blob:;style-src *.whatsapp.com *.whatsapp.net 'unsafe-inline' *.facebook.com 'self' data: blob:;connect-src *.whatsapp.com *.whatsapp.net wss://*.facebook.com:* *.fbcdn.net 'self' data: blob:;font-src *.whatsapp.com *.whatsapp.net *.facebook.com static.xx.fbcdn.net data:;img-src *.whatsapp.com *.whatsapp.net *.facebook.com *.fbcdn.net *.fbsbx.com static.xx.fbcdn.net *.cdninstagram.com 'self' data: blob:;media-src *.fbcdn.net 'self' data: blob:;child-src 'self' data: blob:;frame-src *.facebook.com *.whatsapp.com 'self' data: blob:;manifest-src 'self' data: blob:;object-src 'self' data: blob:;worker-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-P9z1Aiwd' 'self' data: blob:;block-all-mixed-content;upgrade-insecure-requests;report-uri https://www.facebook.com/csp/reporting/?m=tr_exp&minimize=0;"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000; preload; includeSubDomains"
+        ]
+      },
+      "body_bytes": 321578,
+      "truncated": false,
+      "body_sha256": "725c03255cc87601b05c20064c1c238336edd61e36f69362f88f9461dc4c51cf",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Meta AI in WhatsApp: Chat, Create & Get Things Done",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "65",
+      "domain": "whatsapp.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.whatsapp.com/status",
+      "depth": 1,
+      "parent_url": "https://www.whatsapp.com/",
+      "attempt": 10,
+      "timestamp": "2026-11-12T21:11:35.877070+00:00",
+      "final_url": "https://www.whatsapp.com/status",
+      "status": 200,
+      "content_type": "text/html; charset=\"utf-8\"",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'self' blob:;script-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-UINKMpKG' 'self' blob:;style-src *.whatsapp.com *.whatsapp.net 'unsafe-inline' *.facebook.com 'self' data: blob:;connect-src *.whatsapp.com *.whatsapp.net wss://*.facebook.com:* *.fbcdn.net 'self' data: blob:;font-src *.whatsapp.com *.whatsapp.net *.facebook.com static.xx.fbcdn.net data:;img-src *.whatsapp.com *.whatsapp.net *.facebook.com *.fbcdn.net *.fbsbx.com static.xx.fbcdn.net *.cdninstagram.com 'self' data: blob:;media-src *.fbcdn.net 'self' data: blob:;child-src 'self' data: blob:;frame-src *.facebook.com *.whatsapp.com 'self' data: blob:;manifest-src 'self' data: blob:;object-src 'self' data: blob:;worker-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-UINKMpKG' 'self' data: blob:;block-all-mixed-content;upgrade-insecure-requests;"
+        ],
+        "content-security-policy-report-only": [
+          "default-src 'self' blob:;script-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-UINKMpKG' 'self' blob:;style-src *.whatsapp.com *.whatsapp.net 'unsafe-inline' *.facebook.com 'self' data: blob:;connect-src *.whatsapp.com *.whatsapp.net wss://*.facebook.com:* *.fbcdn.net 'self' data: blob:;font-src *.whatsapp.com *.whatsapp.net *.facebook.com static.xx.fbcdn.net data:;img-src *.whatsapp.com *.whatsapp.net *.facebook.com *.fbcdn.net *.fbsbx.com static.xx.fbcdn.net *.cdninstagram.com 'self' data: blob:;media-src *.fbcdn.net 'self' data: blob:;child-src 'self' data: blob:;frame-src *.facebook.com *.whatsapp.com 'self' data: blob:;manifest-src 'self' data: blob:;object-src 'self' data: blob:;worker-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-UINKMpKG' 'self' data: blob:;block-all-mixed-content;upgrade-insecure-requests;report-uri https://www.facebook.com/csp/reporting/?m=tr_exp&minimize=0;"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000; preload; includeSubDomains"
+        ]
+      },
+      "body_bytes": 326689,
+      "truncated": false,
+      "body_sha256": "30c44c92d22f36081b68cbb56652adb16d4f4a4671a55e5f6b261deecd15bdb8",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "WhatsApp Status | Say More Than Words",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "65",
+      "domain": "whatsapp.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.whatsapp.com/security",
+      "depth": 1,
+      "parent_url": "https://www.whatsapp.com/",
+      "attempt": 11,
+      "timestamp": "2026-11-12T21:11:36.446899+00:00",
+      "final_url": "https://www.whatsapp.com/security",
+      "status": 200,
+      "content_type": "text/html; charset=\"utf-8\"",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'self' blob:;script-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-CDIlHqvI' 'self' blob:;style-src *.whatsapp.com *.whatsapp.net 'unsafe-inline' *.facebook.com 'self' data: blob:;connect-src *.whatsapp.com *.whatsapp.net wss://*.facebook.com:* *.fbcdn.net 'self' data: blob:;font-src *.whatsapp.com *.whatsapp.net *.facebook.com static.xx.fbcdn.net data:;img-src *.whatsapp.com *.whatsapp.net *.facebook.com *.fbcdn.net *.fbsbx.com static.xx.fbcdn.net *.cdninstagram.com 'self' data: blob:;media-src *.fbcdn.net 'self' data: blob:;child-src 'self' data: blob:;frame-src *.facebook.com *.whatsapp.com 'self' data: blob:;manifest-src 'self' data: blob:;object-src 'self' data: blob:;worker-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-CDIlHqvI' 'self' data: blob:;block-all-mixed-content;upgrade-insecure-requests;"
+        ],
+        "content-security-policy-report-only": [
+          "default-src 'self' blob:;script-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-CDIlHqvI' 'self' blob:;style-src *.whatsapp.com *.whatsapp.net 'unsafe-inline' *.facebook.com 'self' data: blob:;connect-src *.whatsapp.com *.whatsapp.net wss://*.facebook.com:* *.fbcdn.net 'self' data: blob:;font-src *.whatsapp.com *.whatsapp.net *.facebook.com static.xx.fbcdn.net data:;img-src *.whatsapp.com *.whatsapp.net *.facebook.com *.fbcdn.net *.fbsbx.com static.xx.fbcdn.net *.cdninstagram.com 'self' data: blob:;media-src *.fbcdn.net 'self' data: blob:;child-src 'self' data: blob:;frame-src *.facebook.com *.whatsapp.com 'self' data: blob:;manifest-src 'self' data: blob:;object-src 'self' data: blob:;worker-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-CDIlHqvI' 'self' data: blob:;block-all-mixed-content;upgrade-insecure-requests;report-uri https://www.facebook.com/csp/reporting/?m=tr_exp&minimize=0;"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000; preload; includeSubDomains"
+        ]
+      },
+      "body_bytes": 319785,
+      "truncated": false,
+      "body_sha256": "372e6222c4a04fe5b995c2b2617cd9c0eafc02ac400be46f4026b9f33d7170fa",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Security Features, Safety Tools & Tips | WhatsApp",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "65",
+      "domain": "whatsapp.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.whatsapp.com/parentalcontrols",
+      "depth": 1,
+      "parent_url": "https://www.whatsapp.com/",
+      "attempt": 12,
+      "timestamp": "2026-11-12T21:11:36.939681+00:00",
+      "final_url": "https://www.whatsapp.com/parentalcontrols",
+      "status": 200,
+      "content_type": "text/html; charset=\"utf-8\"",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'self' blob:;script-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-ARRhQcjX' 'self' blob:;style-src *.whatsapp.com *.whatsapp.net 'unsafe-inline' *.facebook.com 'self' data: blob:;connect-src *.whatsapp.com *.whatsapp.net wss://*.facebook.com:* *.fbcdn.net 'self' data: blob:;font-src *.whatsapp.com *.whatsapp.net *.facebook.com static.xx.fbcdn.net data:;img-src *.whatsapp.com *.whatsapp.net *.facebook.com *.fbcdn.net *.fbsbx.com static.xx.fbcdn.net *.cdninstagram.com 'self' data: blob:;media-src *.fbcdn.net 'self' data: blob:;child-src 'self' data: blob:;frame-src *.facebook.com *.whatsapp.com 'self' data: blob:;manifest-src 'self' data: blob:;object-src 'self' data: blob:;worker-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-ARRhQcjX' 'self' data: blob:;block-all-mixed-content;upgrade-insecure-requests;"
+        ],
+        "content-security-policy-report-only": [
+          "default-src 'self' blob:;script-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-ARRhQcjX' 'self' blob:;style-src *.whatsapp.com *.whatsapp.net 'unsafe-inline' *.facebook.com 'self' data: blob:;connect-src *.whatsapp.com *.whatsapp.net wss://*.facebook.com:* *.fbcdn.net 'self' data: blob:;font-src *.whatsapp.com *.whatsapp.net *.facebook.com static.xx.fbcdn.net data:;img-src *.whatsapp.com *.whatsapp.net *.facebook.com *.fbcdn.net *.fbsbx.com static.xx.fbcdn.net *.cdninstagram.com 'self' data: blob:;media-src *.fbcdn.net 'self' data: blob:;child-src 'self' data: blob:;frame-src *.facebook.com *.whatsapp.com 'self' data: blob:;manifest-src 'self' data: blob:;object-src 'self' data: blob:;worker-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-ARRhQcjX' 'self' data: blob:;block-all-mixed-content;upgrade-insecure-requests;report-uri https://www.facebook.com/csp/reporting/?m=tr_exp&minimize=0;"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000; preload; includeSubDomains"
+        ]
+      },
+      "body_bytes": 330185,
+      "truncated": false,
+      "body_sha256": "eba9b1d8122c897e24c9ca8e35e3a3f5da2f51edfc6d26c56da7c632cc901fc5",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Parental Controls",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "65",
+      "domain": "whatsapp.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.whatsapp.com/privacy",
+      "depth": 1,
+      "parent_url": "https://www.whatsapp.com/",
+      "attempt": 13,
+      "timestamp": "2026-11-12T21:11:37.548137+00:00",
+      "final_url": "https://www.whatsapp.com/privacy",
+      "status": 200,
+      "content_type": "text/html; charset=\"utf-8\"",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'self' blob:;script-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-T4vMmlNA' 'self' blob:;style-src *.whatsapp.com *.whatsapp.net 'unsafe-inline' *.facebook.com 'self' data: blob:;connect-src *.whatsapp.com *.whatsapp.net wss://*.facebook.com:* *.fbcdn.net 'self' data: blob:;font-src *.whatsapp.com *.whatsapp.net *.facebook.com static.xx.fbcdn.net data:;img-src *.whatsapp.com *.whatsapp.net *.facebook.com *.fbcdn.net *.fbsbx.com static.xx.fbcdn.net *.cdninstagram.com 'self' data: blob:;media-src *.fbcdn.net 'self' data: blob:;child-src 'self' data: blob:;frame-src *.facebook.com *.whatsapp.com 'self' data: blob:;manifest-src 'self' data: blob:;object-src 'self' data: blob:;worker-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-T4vMmlNA' 'self' data: blob:;block-all-mixed-content;upgrade-insecure-requests;"
+        ],
+        "content-security-policy-report-only": [
+          "default-src 'self' blob:;script-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-T4vMmlNA' 'self' blob:;style-src *.whatsapp.com *.whatsapp.net 'unsafe-inline' *.facebook.com 'self' data: blob:;connect-src *.whatsapp.com *.whatsapp.net wss://*.facebook.com:* *.fbcdn.net 'self' data: blob:;font-src *.whatsapp.com *.whatsapp.net *.facebook.com static.xx.fbcdn.net data:;img-src *.whatsapp.com *.whatsapp.net *.facebook.com *.fbcdn.net *.fbsbx.com static.xx.fbcdn.net *.cdninstagram.com 'self' data: blob:;media-src *.fbcdn.net 'self' data: blob:;child-src 'self' data: blob:;frame-src *.facebook.com *.whatsapp.com 'self' data: blob:;manifest-src 'self' data: blob:;object-src 'self' data: blob:;worker-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-T4vMmlNA' 'self' data: blob:;block-all-mixed-content;upgrade-insecure-requests;report-uri https://www.facebook.com/csp/reporting/?m=tr_exp&minimize=0;"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000; preload; includeSubDomains"
+        ]
+      },
+      "body_bytes": 324051,
+      "truncated": false,
+      "body_sha256": "030dfb3ff5c86d54281db8caa244912e506796645e0bc95b20f50afcc20ea9cd",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "WhatsApp Privacy | Secure and Private Messaging",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "65",
+      "domain": "whatsapp.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.whatsapp.com/privacyquestions",
+      "depth": 2,
+      "parent_url": "https://www.whatsapp.com/privacy",
+      "attempt": 14,
+      "timestamp": "2026-11-12T21:11:38.003925+00:00",
+      "final_url": "https://www.whatsapp.com/privacyquestions",
+      "status": 200,
+      "content_type": "text/html; charset=\"utf-8\"",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'self' blob:;script-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-p3oxFz3r' 'self' blob:;style-src *.whatsapp.com *.whatsapp.net 'unsafe-inline' *.facebook.com 'self' data: blob:;connect-src *.whatsapp.com *.whatsapp.net wss://*.facebook.com:* *.fbcdn.net 'self' data: blob:;font-src *.whatsapp.com *.whatsapp.net *.facebook.com static.xx.fbcdn.net data:;img-src *.whatsapp.com *.whatsapp.net *.facebook.com *.fbcdn.net *.fbsbx.com static.xx.fbcdn.net *.cdninstagram.com 'self' data: blob:;media-src *.fbcdn.net 'self' data: blob:;child-src 'self' data: blob:;frame-src *.facebook.com *.whatsapp.com 'self' data: blob:;manifest-src 'self' data: blob:;object-src 'self' data: blob:;worker-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-p3oxFz3r' 'self' data: blob:;block-all-mixed-content;upgrade-insecure-requests;"
+        ],
+        "content-security-policy-report-only": [
+          "default-src 'self' blob:;script-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-p3oxFz3r' 'self' blob:;style-src *.whatsapp.com *.whatsapp.net 'unsafe-inline' *.facebook.com 'self' data: blob:;connect-src *.whatsapp.com *.whatsapp.net wss://*.facebook.com:* *.fbcdn.net 'self' data: blob:;font-src *.whatsapp.com *.whatsapp.net *.facebook.com static.xx.fbcdn.net data:;img-src *.whatsapp.com *.whatsapp.net *.facebook.com *.fbcdn.net *.fbsbx.com static.xx.fbcdn.net *.cdninstagram.com 'self' data: blob:;media-src *.fbcdn.net 'self' data: blob:;child-src 'self' data: blob:;frame-src *.facebook.com *.whatsapp.com 'self' data: blob:;manifest-src 'self' data: blob:;object-src 'self' data: blob:;worker-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-p3oxFz3r' 'self' data: blob:;block-all-mixed-content;upgrade-insecure-requests;report-uri https://www.facebook.com/csp/reporting/?m=tr_exp&minimize=0;"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000; preload; includeSubDomains"
+        ]
+      },
+      "body_bytes": 225828,
+      "truncated": false,
+      "body_sha256": "ba2f6960882c12502d9e9f360bf6185310f300c502dec92467d5a16330c700cf",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "WhatsApp | Answering Your Privacy Questions",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "65",
+      "domain": "whatsapp.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.whatsapp.com/download",
+      "depth": 1,
+      "parent_url": "https://www.whatsapp.com/",
+      "attempt": 15,
+      "timestamp": "2026-11-12T21:11:38.559023+00:00",
+      "final_url": "https://www.whatsapp.com/download",
+      "status": 200,
+      "content_type": "text/html; charset=\"utf-8\"",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'self' blob:;script-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-irKf9nyw' 'self' blob:;style-src *.whatsapp.com *.whatsapp.net 'unsafe-inline' *.facebook.com 'self' data: blob:;connect-src *.whatsapp.com *.whatsapp.net wss://*.facebook.com:* *.fbcdn.net 'self' data: blob:;font-src *.whatsapp.com *.whatsapp.net *.facebook.com static.xx.fbcdn.net data:;img-src *.whatsapp.com *.whatsapp.net *.facebook.com *.fbcdn.net *.fbsbx.com static.xx.fbcdn.net *.cdninstagram.com 'self' data: blob:;media-src *.fbcdn.net 'self' data: blob:;child-src 'self' data: blob:;frame-src *.facebook.com *.whatsapp.com 'self' data: blob:;manifest-src 'self' data: blob:;object-src 'self' data: blob:;worker-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-irKf9nyw' 'self' data: blob:;block-all-mixed-content;upgrade-insecure-requests;"
+        ],
+        "content-security-policy-report-only": [
+          "default-src 'self' blob:;script-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-irKf9nyw' 'self' blob:;style-src *.whatsapp.com *.whatsapp.net 'unsafe-inline' *.facebook.com 'self' data: blob:;connect-src *.whatsapp.com *.whatsapp.net wss://*.facebook.com:* *.fbcdn.net 'self' data: blob:;font-src *.whatsapp.com *.whatsapp.net *.facebook.com static.xx.fbcdn.net data:;img-src *.whatsapp.com *.whatsapp.net *.facebook.com *.fbcdn.net *.fbsbx.com static.xx.fbcdn.net *.cdninstagram.com 'self' data: blob:;media-src *.fbcdn.net 'self' data: blob:;child-src 'self' data: blob:;frame-src *.facebook.com *.whatsapp.com 'self' data: blob:;manifest-src 'self' data: blob:;object-src 'self' data: blob:;worker-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-irKf9nyw' 'self' data: blob:;block-all-mixed-content;upgrade-insecure-requests;report-uri https://www.facebook.com/csp/reporting/?m=tr_exp&minimize=0;"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000; preload; includeSubDomains"
+        ]
+      },
+      "body_bytes": 260505,
+      "truncated": false,
+      "body_sha256": "88c68b388c9df206278bdf54ffb912832061708088da9ce9ad826e21ae8d71ef",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Download WhatsApp",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "65",
+      "domain": "whatsapp.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.whatsapp.com/legal/terms-of-service",
+      "depth": 2,
+      "parent_url": "https://www.whatsapp.com/download",
+      "attempt": 16,
+      "timestamp": "2026-11-12T21:11:39.056474+00:00",
+      "final_url": "https://www.whatsapp.com/legal/terms-of-service",
+      "status": 200,
+      "content_type": "text/html; charset=\"utf-8\"",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'self' blob:;script-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-ldvDkVHn' 'self' blob:;style-src *.whatsapp.com *.whatsapp.net 'unsafe-inline' *.facebook.com 'self' data: blob:;connect-src *.whatsapp.com *.whatsapp.net wss://*.facebook.com:* *.fbcdn.net 'self' data: blob:;font-src *.whatsapp.com *.whatsapp.net *.facebook.com static.xx.fbcdn.net data:;img-src *.whatsapp.com *.whatsapp.net *.facebook.com *.fbcdn.net *.fbsbx.com static.xx.fbcdn.net *.cdninstagram.com 'self' data: blob:;media-src *.fbcdn.net 'self' data: blob:;child-src 'self' data: blob:;frame-src *.facebook.com *.whatsapp.com 'self' data: blob:;manifest-src 'self' data: blob:;object-src 'self' data: blob:;worker-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-ldvDkVHn' 'self' data: blob:;block-all-mixed-content;upgrade-insecure-requests;"
+        ],
+        "content-security-policy-report-only": [
+          "default-src 'self' blob:;script-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-ldvDkVHn' 'self' blob:;style-src *.whatsapp.com *.whatsapp.net 'unsafe-inline' *.facebook.com 'self' data: blob:;connect-src *.whatsapp.com *.whatsapp.net wss://*.facebook.com:* *.fbcdn.net 'self' data: blob:;font-src *.whatsapp.com *.whatsapp.net *.facebook.com static.xx.fbcdn.net data:;img-src *.whatsapp.com *.whatsapp.net *.facebook.com *.fbcdn.net *.fbsbx.com static.xx.fbcdn.net *.cdninstagram.com 'self' data: blob:;media-src *.fbcdn.net 'self' data: blob:;child-src 'self' data: blob:;frame-src *.facebook.com *.whatsapp.com 'self' data: blob:;manifest-src 'self' data: blob:;object-src 'self' data: blob:;worker-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-ldvDkVHn' 'self' data: blob:;block-all-mixed-content;upgrade-insecure-requests;report-uri https://www.facebook.com/csp/reporting/?m=tr_exp&minimize=0;"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000; preload; includeSubDomains"
+        ]
+      },
+      "body_bytes": 226696,
+      "truncated": false,
+      "body_sha256": "d40d3361d70948ba525630cc3e76b62d9921f8db6ea24daeee8b8b8da4cf715c",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Terms of Service",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "65",
+      "domain": "whatsapp.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.whatsapp.com/community",
+      "depth": 1,
+      "parent_url": "https://www.whatsapp.com/",
+      "attempt": 17,
+      "timestamp": "2026-11-12T21:11:39.673877+00:00",
+      "final_url": "https://www.whatsapp.com/groups",
+      "status": 200,
+      "content_type": "text/html; charset=\"utf-8\"",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'self' blob:;script-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-SLDg9nc2' 'self' blob:;style-src *.whatsapp.com *.whatsapp.net 'unsafe-inline' *.facebook.com 'self' data: blob:;connect-src *.whatsapp.com *.whatsapp.net wss://*.facebook.com:* *.fbcdn.net 'self' data: blob:;font-src *.whatsapp.com *.whatsapp.net *.facebook.com static.xx.fbcdn.net data:;img-src *.whatsapp.com *.whatsapp.net *.facebook.com *.fbcdn.net *.fbsbx.com static.xx.fbcdn.net *.cdninstagram.com 'self' data: blob:;media-src *.fbcdn.net 'self' data: blob:;child-src 'self' data: blob:;frame-src *.facebook.com *.whatsapp.com 'self' data: blob:;manifest-src 'self' data: blob:;object-src 'self' data: blob:;worker-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-SLDg9nc2' 'self' data: blob:;block-all-mixed-content;upgrade-insecure-requests;"
+        ],
+        "content-security-policy-report-only": [
+          "default-src 'self' blob:;script-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-SLDg9nc2' 'self' blob:;style-src *.whatsapp.com *.whatsapp.net 'unsafe-inline' *.facebook.com 'self' data: blob:;connect-src *.whatsapp.com *.whatsapp.net wss://*.facebook.com:* *.fbcdn.net 'self' data: blob:;font-src *.whatsapp.com *.whatsapp.net *.facebook.com static.xx.fbcdn.net data:;img-src *.whatsapp.com *.whatsapp.net *.facebook.com *.fbcdn.net *.fbsbx.com static.xx.fbcdn.net *.cdninstagram.com 'self' data: blob:;media-src *.fbcdn.net 'self' data: blob:;child-src 'self' data: blob:;frame-src *.facebook.com *.whatsapp.com 'self' data: blob:;manifest-src 'self' data: blob:;object-src 'self' data: blob:;worker-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-SLDg9nc2' 'self' data: blob:;block-all-mixed-content;upgrade-insecure-requests;report-uri https://www.facebook.com/csp/reporting/?m=tr_exp&minimize=0;"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000; preload; includeSubDomains"
+        ]
+      },
+      "body_bytes": 288347,
+      "truncated": false,
+      "body_sha256": "2dcf715e050bcedf1693081d8fe60e4cae8a82c9681c7c256b0c88b0077e1cec",
+      "redirect_chain": [
+        {
+          "url": "https://www.whatsapp.com/community",
+          "status": 301,
+          "location": "https://www.whatsapp.com/groups",
+          "headers": {
+            "content-security-policy": [
+              "default-src 'self' blob:;script-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-9Fguq9nO' 'self' blob:;style-src *.whatsapp.com *.whatsapp.net 'unsafe-inline' *.facebook.com 'self' data: blob:;connect-src *.whatsapp.com *.whatsapp.net wss://*.facebook.com:* *.fbcdn.net 'self' data: blob:;font-src *.whatsapp.com *.whatsapp.net *.facebook.com static.xx.fbcdn.net data:;img-src *.whatsapp.com *.whatsapp.net *.facebook.com *.fbcdn.net *.fbsbx.com static.xx.fbcdn.net *.cdninstagram.com 'self' data: blob:;media-src *.fbcdn.net 'self' data: blob:;child-src 'self' data: blob:;frame-src *.facebook.com *.whatsapp.com 'self' data: blob:;manifest-src 'self' data: blob:;object-src 'self' data: blob:;worker-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-9Fguq9nO' 'self' data: blob:;block-all-mixed-content;upgrade-insecure-requests;"
+            ],
+            "content-security-policy-report-only": [
+              "default-src 'self' blob:;script-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-9Fguq9nO' 'self' blob:;style-src *.whatsapp.com *.whatsapp.net 'unsafe-inline' *.facebook.com 'self' data: blob:;connect-src *.whatsapp.com *.whatsapp.net wss://*.facebook.com:* *.fbcdn.net 'self' data: blob:;font-src *.whatsapp.com *.whatsapp.net *.facebook.com static.xx.fbcdn.net data:;img-src *.whatsapp.com *.whatsapp.net *.facebook.com *.fbcdn.net *.fbsbx.com static.xx.fbcdn.net *.cdninstagram.com 'self' data: blob:;media-src *.fbcdn.net 'self' data: blob:;child-src 'self' data: blob:;frame-src *.facebook.com *.whatsapp.com 'self' data: blob:;manifest-src 'self' data: blob:;object-src 'self' data: blob:;worker-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-9Fguq9nO' 'self' data: blob:;block-all-mixed-content;upgrade-insecure-requests;report-uri https://www.facebook.com/csp/reporting/?m=tr_exp&minimize=0;"
+            ],
+            "strict-transport-security": [
+              "max-age=31536000; preload; includeSubDomains"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Discover WhatsApp Group Messaging Features",
+      "duplicate_final": true,
+      "eligible": false
+    },
+    {
+      "rank": "65",
+      "domain": "whatsapp.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.whatsapp.com/about",
+      "depth": 1,
+      "parent_url": "https://www.whatsapp.com/",
+      "attempt": 18,
+      "timestamp": "2026-11-12T21:11:40.613985+00:00",
+      "final_url": "https://www.whatsapp.com/about",
+      "status": 200,
+      "content_type": "text/html; charset=\"utf-8\"",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'self' blob:;script-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-nYUJVYjm' 'self' blob:;style-src *.whatsapp.com *.whatsapp.net 'unsafe-inline' *.facebook.com 'self' data: blob:;connect-src *.whatsapp.com *.whatsapp.net wss://*.facebook.com:* *.fbcdn.net 'self' data: blob:;font-src *.whatsapp.com *.whatsapp.net *.facebook.com static.xx.fbcdn.net data:;img-src *.whatsapp.com *.whatsapp.net *.facebook.com *.fbcdn.net *.fbsbx.com static.xx.fbcdn.net *.cdninstagram.com 'self' data: blob:;media-src *.fbcdn.net 'self' data: blob:;child-src 'self' data: blob:;frame-src *.facebook.com *.whatsapp.com 'self' data: blob:;manifest-src 'self' data: blob:;object-src 'self' data: blob:;worker-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-nYUJVYjm' 'self' data: blob:;block-all-mixed-content;upgrade-insecure-requests;"
+        ],
+        "content-security-policy-report-only": [
+          "default-src 'self' blob:;script-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-nYUJVYjm' 'self' blob:;style-src *.whatsapp.com *.whatsapp.net 'unsafe-inline' *.facebook.com 'self' data: blob:;connect-src *.whatsapp.com *.whatsapp.net wss://*.facebook.com:* *.fbcdn.net 'self' data: blob:;font-src *.whatsapp.com *.whatsapp.net *.facebook.com static.xx.fbcdn.net data:;img-src *.whatsapp.com *.whatsapp.net *.facebook.com *.fbcdn.net *.fbsbx.com static.xx.fbcdn.net *.cdninstagram.com 'self' data: blob:;media-src *.fbcdn.net 'self' data: blob:;child-src 'self' data: blob:;frame-src *.facebook.com *.whatsapp.com 'self' data: blob:;manifest-src 'self' data: blob:;object-src 'self' data: blob:;worker-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-nYUJVYjm' 'self' data: blob:;block-all-mixed-content;upgrade-insecure-requests;report-uri https://www.facebook.com/csp/reporting/?m=tr_exp&minimize=0;"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000; preload; includeSubDomains"
+        ]
+      },
+      "body_bytes": 201128,
+      "truncated": false,
+      "body_sha256": "22d63f83eaf31d53edda1fe136e03440e44b394eded14042eec6d886817af123",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "About Us | WhatsApp",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "65",
+      "domain": "whatsapp.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.whatsapp.com/contact",
+      "depth": 1,
+      "parent_url": "https://www.whatsapp.com/",
+      "attempt": 19,
+      "timestamp": "2026-11-12T21:11:40.889382+00:00",
+      "final_url": "https://www.whatsapp.com/contact",
+      "status": 200,
+      "content_type": "text/html; charset=\"utf-8\"",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'self' blob:;script-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-a6PZM51B' 'self' blob:;style-src *.whatsapp.com *.whatsapp.net 'unsafe-inline' *.facebook.com 'self' data: blob:;connect-src *.whatsapp.com *.whatsapp.net wss://*.facebook.com:* *.fbcdn.net 'self' data: blob:;font-src *.whatsapp.com *.whatsapp.net *.facebook.com static.xx.fbcdn.net data:;img-src *.whatsapp.com *.whatsapp.net *.facebook.com *.fbcdn.net *.fbsbx.com static.xx.fbcdn.net *.cdninstagram.com 'self' data: blob:;media-src *.fbcdn.net 'self' data: blob:;child-src 'self' data: blob:;frame-src *.facebook.com *.whatsapp.com 'self' data: blob:;manifest-src 'self' data: blob:;object-src 'self' data: blob:;worker-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-a6PZM51B' 'self' data: blob:;block-all-mixed-content;upgrade-insecure-requests;"
+        ],
+        "content-security-policy-report-only": [
+          "default-src 'self' blob:;script-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-a6PZM51B' 'self' blob:;style-src *.whatsapp.com *.whatsapp.net 'unsafe-inline' *.facebook.com 'self' data: blob:;connect-src *.whatsapp.com *.whatsapp.net wss://*.facebook.com:* *.fbcdn.net 'self' data: blob:;font-src *.whatsapp.com *.whatsapp.net *.facebook.com static.xx.fbcdn.net data:;img-src *.whatsapp.com *.whatsapp.net *.facebook.com *.fbcdn.net *.fbsbx.com static.xx.fbcdn.net *.cdninstagram.com 'self' data: blob:;media-src *.fbcdn.net 'self' data: blob:;child-src 'self' data: blob:;frame-src *.facebook.com *.whatsapp.com 'self' data: blob:;manifest-src 'self' data: blob:;object-src 'self' data: blob:;worker-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-a6PZM51B' 'self' data: blob:;block-all-mixed-content;upgrade-insecure-requests;report-uri https://www.facebook.com/csp/reporting/?m=tr_exp&minimize=0;"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000; preload; includeSubDomains"
+        ]
+      },
+      "body_bytes": 202521,
+      "truncated": false,
+      "body_sha256": "dcb952832c14ebdbe6fe88b50c3786e15b9ec0590355906b27ab6502de19b508",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Contact WhatsApp",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "65",
+      "domain": "whatsapp.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.whatsapp.com/sitemap",
+      "depth": 1,
+      "parent_url": "https://www.whatsapp.com/",
+      "attempt": 20,
+      "timestamp": "2026-11-12T21:11:41.406595+00:00",
+      "final_url": "https://www.whatsapp.com/sitemap",
+      "status": 200,
+      "content_type": "text/html; charset=\"utf-8\"",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'self' blob:;script-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-yrG8mgYz' 'self' blob:;style-src *.whatsapp.com *.whatsapp.net 'unsafe-inline' *.facebook.com 'self' data: blob:;connect-src *.whatsapp.com *.whatsapp.net wss://*.facebook.com:* *.fbcdn.net 'self' data: blob:;font-src *.whatsapp.com *.whatsapp.net *.facebook.com static.xx.fbcdn.net data:;img-src *.whatsapp.com *.whatsapp.net *.facebook.com *.fbcdn.net *.fbsbx.com static.xx.fbcdn.net *.cdninstagram.com 'self' data: blob:;media-src *.fbcdn.net 'self' data: blob:;child-src 'self' data: blob:;frame-src *.facebook.com *.whatsapp.com 'self' data: blob:;manifest-src 'self' data: blob:;object-src 'self' data: blob:;worker-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-yrG8mgYz' 'self' data: blob:;block-all-mixed-content;upgrade-insecure-requests;"
+        ],
+        "content-security-policy-report-only": [
+          "default-src 'self' blob:;script-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-yrG8mgYz' 'self' blob:;style-src *.whatsapp.com *.whatsapp.net 'unsafe-inline' *.facebook.com 'self' data: blob:;connect-src *.whatsapp.com *.whatsapp.net wss://*.facebook.com:* *.fbcdn.net 'self' data: blob:;font-src *.whatsapp.com *.whatsapp.net *.facebook.com static.xx.fbcdn.net data:;img-src *.whatsapp.com *.whatsapp.net *.facebook.com *.fbcdn.net *.fbsbx.com static.xx.fbcdn.net *.cdninstagram.com 'self' data: blob:;media-src *.fbcdn.net 'self' data: blob:;child-src 'self' data: blob:;frame-src *.facebook.com *.whatsapp.com 'self' data: blob:;manifest-src 'self' data: blob:;object-src 'self' data: blob:;worker-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-yrG8mgYz' 'self' data: blob:;block-all-mixed-content;upgrade-insecure-requests;report-uri https://www.facebook.com/csp/reporting/?m=tr_exp&minimize=0;"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000; preload; includeSubDomains"
+        ]
+      },
+      "body_bytes": 254359,
+      "truncated": false,
+      "body_sha256": "a9bceaf8ab5f6cc93b55b2303b96b7c4306c186ac2f52685f685c196c81f015e",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Sitemap & Content Directory | WhatsApp",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "65",
+      "domain": "whatsapp.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.whatsapp.com/campus",
+      "depth": 2,
+      "parent_url": "https://www.whatsapp.com/sitemap",
+      "attempt": 21,
+      "timestamp": "2026-11-12T21:11:41.994038+00:00",
+      "final_url": "https://www.whatsapp.com/campus",
+      "status": 200,
+      "content_type": "text/html; charset=\"utf-8\"",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'self' blob:;script-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-PruxNEN4' 'self' blob:;style-src *.whatsapp.com *.whatsapp.net 'unsafe-inline' *.facebook.com 'self' data: blob:;connect-src *.whatsapp.com *.whatsapp.net wss://*.facebook.com:* *.fbcdn.net 'self' data: blob:;font-src *.whatsapp.com *.whatsapp.net *.facebook.com static.xx.fbcdn.net data:;img-src *.whatsapp.com *.whatsapp.net *.facebook.com *.fbcdn.net *.fbsbx.com static.xx.fbcdn.net *.cdninstagram.com 'self' data: blob:;media-src *.fbcdn.net 'self' data: blob:;child-src 'self' data: blob:;frame-src *.facebook.com *.whatsapp.com 'self' data: blob:;manifest-src 'self' data: blob:;object-src 'self' data: blob:;worker-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-PruxNEN4' 'self' data: blob:;block-all-mixed-content;upgrade-insecure-requests;"
+        ],
+        "content-security-policy-report-only": [
+          "default-src 'self' blob:;script-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-PruxNEN4' 'self' blob:;style-src *.whatsapp.com *.whatsapp.net 'unsafe-inline' *.facebook.com 'self' data: blob:;connect-src *.whatsapp.com *.whatsapp.net wss://*.facebook.com:* *.fbcdn.net 'self' data: blob:;font-src *.whatsapp.com *.whatsapp.net *.facebook.com static.xx.fbcdn.net data:;img-src *.whatsapp.com *.whatsapp.net *.facebook.com *.fbcdn.net *.fbsbx.com static.xx.fbcdn.net *.cdninstagram.com 'self' data: blob:;media-src *.fbcdn.net 'self' data: blob:;child-src 'self' data: blob:;frame-src *.facebook.com *.whatsapp.com 'self' data: blob:;manifest-src 'self' data: blob:;object-src 'self' data: blob:;worker-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-PruxNEN4' 'self' data: blob:;block-all-mixed-content;upgrade-insecure-requests;report-uri https://www.facebook.com/csp/reporting/?m=tr_exp&minimize=0;"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000; preload; includeSubDomains"
+        ]
+      },
+      "body_bytes": 251664,
+      "truncated": false,
+      "body_sha256": "c6a2951b6ef277b8ca6fdae717fe8f1eb83a1d481ccf758c7ba92edf6d0081d6",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Whatsapp for college students",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "65",
+      "domain": "whatsapp.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.whatsapp.com/whatsapp-plus",
+      "depth": 2,
+      "parent_url": "https://www.whatsapp.com/sitemap",
+      "attempt": 22,
+      "timestamp": "2026-11-12T21:11:42.928750+00:00",
+      "final_url": "https://www.whatsapp.com/plus",
+      "status": 200,
+      "content_type": "text/html; charset=\"utf-8\"",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'self' blob:;script-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-ZYXbtqe6' 'self' blob:;style-src *.whatsapp.com *.whatsapp.net 'unsafe-inline' *.facebook.com 'self' data: blob:;connect-src *.whatsapp.com *.whatsapp.net wss://*.facebook.com:* *.fbcdn.net 'self' data: blob:;font-src *.whatsapp.com *.whatsapp.net *.facebook.com static.xx.fbcdn.net data:;img-src *.whatsapp.com *.whatsapp.net *.facebook.com *.fbcdn.net *.fbsbx.com static.xx.fbcdn.net *.cdninstagram.com 'self' data: blob:;media-src *.fbcdn.net 'self' data: blob:;child-src 'self' data: blob:;frame-src *.facebook.com *.whatsapp.com 'self' data: blob:;manifest-src 'self' data: blob:;object-src 'self' data: blob:;worker-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-ZYXbtqe6' 'self' data: blob:;block-all-mixed-content;upgrade-insecure-requests;"
+        ],
+        "content-security-policy-report-only": [
+          "default-src 'self' blob:;script-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-ZYXbtqe6' 'self' blob:;style-src *.whatsapp.com *.whatsapp.net 'unsafe-inline' *.facebook.com 'self' data: blob:;connect-src *.whatsapp.com *.whatsapp.net wss://*.facebook.com:* *.fbcdn.net 'self' data: blob:;font-src *.whatsapp.com *.whatsapp.net *.facebook.com static.xx.fbcdn.net data:;img-src *.whatsapp.com *.whatsapp.net *.facebook.com *.fbcdn.net *.fbsbx.com static.xx.fbcdn.net *.cdninstagram.com 'self' data: blob:;media-src *.fbcdn.net 'self' data: blob:;child-src 'self' data: blob:;frame-src *.facebook.com *.whatsapp.com 'self' data: blob:;manifest-src 'self' data: blob:;object-src 'self' data: blob:;worker-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-ZYXbtqe6' 'self' data: blob:;block-all-mixed-content;upgrade-insecure-requests;report-uri https://www.facebook.com/csp/reporting/?m=tr_exp&minimize=0;"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000; preload; includeSubDomains"
+        ]
+      },
+      "body_bytes": 289882,
+      "truncated": false,
+      "body_sha256": "916844759b8b9aa23a0c60f797ffe3c14660d155e75562dbe25920c10984161d",
+      "redirect_chain": [
+        {
+          "url": "https://www.whatsapp.com/whatsapp-plus",
+          "status": 301,
+          "location": "https://www.whatsapp.com/plus",
+          "headers": {
+            "content-security-policy": [
+              "default-src 'self' blob:;script-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-F2pI9DgH' 'self' blob:;style-src *.whatsapp.com *.whatsapp.net 'unsafe-inline' *.facebook.com 'self' data: blob:;connect-src *.whatsapp.com *.whatsapp.net wss://*.facebook.com:* *.fbcdn.net 'self' data: blob:;font-src *.whatsapp.com *.whatsapp.net *.facebook.com static.xx.fbcdn.net data:;img-src *.whatsapp.com *.whatsapp.net *.facebook.com *.fbcdn.net *.fbsbx.com static.xx.fbcdn.net *.cdninstagram.com 'self' data: blob:;media-src *.fbcdn.net 'self' data: blob:;child-src 'self' data: blob:;frame-src *.facebook.com *.whatsapp.com 'self' data: blob:;manifest-src 'self' data: blob:;object-src 'self' data: blob:;worker-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-F2pI9DgH' 'self' data: blob:;block-all-mixed-content;upgrade-insecure-requests;"
+            ],
+            "content-security-policy-report-only": [
+              "default-src 'self' blob:;script-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-F2pI9DgH' 'self' blob:;style-src *.whatsapp.com *.whatsapp.net 'unsafe-inline' *.facebook.com 'self' data: blob:;connect-src *.whatsapp.com *.whatsapp.net wss://*.facebook.com:* *.fbcdn.net 'self' data: blob:;font-src *.whatsapp.com *.whatsapp.net *.facebook.com static.xx.fbcdn.net data:;img-src *.whatsapp.com *.whatsapp.net *.facebook.com *.fbcdn.net *.fbsbx.com static.xx.fbcdn.net *.cdninstagram.com 'self' data: blob:;media-src *.fbcdn.net 'self' data: blob:;child-src 'self' data: blob:;frame-src *.facebook.com *.whatsapp.com 'self' data: blob:;manifest-src 'self' data: blob:;object-src 'self' data: blob:;worker-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-F2pI9DgH' 'self' data: blob:;block-all-mixed-content;upgrade-insecure-requests;report-uri https://www.facebook.com/csp/reporting/?m=tr_exp&minimize=0;"
+            ],
+            "strict-transport-security": [
+              "max-age=31536000; preload; includeSubDomains"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Get more with WhatsApp Plus",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "65",
+      "domain": "whatsapp.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.whatsapp.com/plus",
+      "depth": 3,
+      "parent_url": "https://www.whatsapp.com/plus",
+      "attempt": 23,
+      "timestamp": "2026-11-12T21:11:43.864619+00:00",
+      "final_url": "https://www.whatsapp.com/plus",
+      "status": 200,
+      "content_type": "text/html; charset=\"utf-8\"",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'self' blob:;script-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-J8CvG19m' 'self' blob:;style-src *.whatsapp.com *.whatsapp.net 'unsafe-inline' *.facebook.com 'self' data: blob:;connect-src *.whatsapp.com *.whatsapp.net wss://*.facebook.com:* *.fbcdn.net 'self' data: blob:;font-src *.whatsapp.com *.whatsapp.net *.facebook.com static.xx.fbcdn.net data:;img-src *.whatsapp.com *.whatsapp.net *.facebook.com *.fbcdn.net *.fbsbx.com static.xx.fbcdn.net *.cdninstagram.com 'self' data: blob:;media-src *.fbcdn.net 'self' data: blob:;child-src 'self' data: blob:;frame-src *.facebook.com *.whatsapp.com 'self' data: blob:;manifest-src 'self' data: blob:;object-src 'self' data: blob:;worker-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-J8CvG19m' 'self' data: blob:;block-all-mixed-content;upgrade-insecure-requests;"
+        ],
+        "content-security-policy-report-only": [
+          "default-src 'self' blob:;script-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-J8CvG19m' 'self' blob:;style-src *.whatsapp.com *.whatsapp.net 'unsafe-inline' *.facebook.com 'self' data: blob:;connect-src *.whatsapp.com *.whatsapp.net wss://*.facebook.com:* *.fbcdn.net 'self' data: blob:;font-src *.whatsapp.com *.whatsapp.net *.facebook.com static.xx.fbcdn.net data:;img-src *.whatsapp.com *.whatsapp.net *.facebook.com *.fbcdn.net *.fbsbx.com static.xx.fbcdn.net *.cdninstagram.com 'self' data: blob:;media-src *.fbcdn.net 'self' data: blob:;child-src 'self' data: blob:;frame-src *.facebook.com *.whatsapp.com 'self' data: blob:;manifest-src 'self' data: blob:;object-src 'self' data: blob:;worker-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-J8CvG19m' 'self' data: blob:;block-all-mixed-content;upgrade-insecure-requests;report-uri https://www.facebook.com/csp/reporting/?m=tr_exp&minimize=0;"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000; preload; includeSubDomains"
+        ]
+      },
+      "body_bytes": 289848,
+      "truncated": false,
+      "body_sha256": "e5124f08ff14799ef1362d22b4971242b7c5fb3abc4ea840535d64a3bb21b467",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Get more with WhatsApp Plus",
+      "duplicate_final": true,
+      "eligible": false
+    },
+    {
+      "rank": "65",
+      "domain": "whatsapp.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.whatsapp.com/communities/learning/",
+      "depth": 3,
+      "parent_url": "https://www.whatsapp.com/communities/learning",
+      "attempt": 24,
+      "timestamp": "2026-11-12T21:11:44.348823+00:00",
+      "final_url": "https://www.whatsapp.com/communities/learning/",
+      "status": 200,
+      "content_type": "text/html; charset=\"utf-8\"",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'self' blob:;script-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-m8SvUwQP' 'self' blob:;style-src *.whatsapp.com *.whatsapp.net 'unsafe-inline' *.facebook.com 'self' data: blob:;connect-src *.whatsapp.com *.whatsapp.net wss://*.facebook.com:* *.fbcdn.net 'self' data: blob:;font-src *.whatsapp.com *.whatsapp.net *.facebook.com static.xx.fbcdn.net data:;img-src *.whatsapp.com *.whatsapp.net *.facebook.com *.fbcdn.net *.fbsbx.com static.xx.fbcdn.net *.cdninstagram.com 'self' data: blob:;media-src *.fbcdn.net 'self' data: blob:;child-src 'self' data: blob:;frame-src *.facebook.com *.whatsapp.com 'self' data: blob:;manifest-src 'self' data: blob:;object-src 'self' data: blob:;worker-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-m8SvUwQP' 'self' data: blob:;block-all-mixed-content;upgrade-insecure-requests;"
+        ],
+        "content-security-policy-report-only": [
+          "default-src 'self' blob:;script-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-m8SvUwQP' 'self' blob:;style-src *.whatsapp.com *.whatsapp.net 'unsafe-inline' *.facebook.com 'self' data: blob:;connect-src *.whatsapp.com *.whatsapp.net wss://*.facebook.com:* *.fbcdn.net 'self' data: blob:;font-src *.whatsapp.com *.whatsapp.net *.facebook.com static.xx.fbcdn.net data:;img-src *.whatsapp.com *.whatsapp.net *.facebook.com *.fbcdn.net *.fbsbx.com static.xx.fbcdn.net *.cdninstagram.com 'self' data: blob:;media-src *.fbcdn.net 'self' data: blob:;child-src 'self' data: blob:;frame-src *.facebook.com *.whatsapp.com 'self' data: blob:;manifest-src 'self' data: blob:;object-src 'self' data: blob:;worker-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-m8SvUwQP' 'self' data: blob:;block-all-mixed-content;upgrade-insecure-requests;report-uri https://www.facebook.com/csp/reporting/?m=tr_exp&minimize=0;"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000; preload; includeSubDomains"
+        ]
+      },
+      "body_bytes": 248897,
+      "truncated": false,
+      "body_sha256": "51febe9546def7983cf594842b9368076b6810e949b66c2fbed72a415ae4a3c5",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "WhatsApp Communities Learning Center",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "65",
+      "domain": "whatsapp.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.whatsapp.com/legal/terms-of-service/revisions",
+      "depth": 3,
+      "parent_url": "https://www.whatsapp.com/legal/terms-of-service",
+      "attempt": 25,
+      "timestamp": "2026-11-12T21:11:44.827823+00:00",
+      "final_url": "https://www.whatsapp.com/legal/terms-of-service/revisions",
+      "status": 200,
+      "content_type": "text/html; charset=\"utf-8\"",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'self' blob:;script-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-ykgMi0lP' 'self' blob:;style-src *.whatsapp.com *.whatsapp.net 'unsafe-inline' *.facebook.com 'self' data: blob:;connect-src *.whatsapp.com *.whatsapp.net wss://*.facebook.com:* *.fbcdn.net 'self' data: blob:;font-src *.whatsapp.com *.whatsapp.net *.facebook.com static.xx.fbcdn.net data:;img-src *.whatsapp.com *.whatsapp.net *.facebook.com *.fbcdn.net *.fbsbx.com static.xx.fbcdn.net *.cdninstagram.com 'self' data: blob:;media-src *.fbcdn.net 'self' data: blob:;child-src 'self' data: blob:;frame-src *.facebook.com *.whatsapp.com 'self' data: blob:;manifest-src 'self' data: blob:;object-src 'self' data: blob:;worker-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-ykgMi0lP' 'self' data: blob:;block-all-mixed-content;upgrade-insecure-requests;"
+        ],
+        "content-security-policy-report-only": [
+          "default-src 'self' blob:;script-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-ykgMi0lP' 'self' blob:;style-src *.whatsapp.com *.whatsapp.net 'unsafe-inline' *.facebook.com 'self' data: blob:;connect-src *.whatsapp.com *.whatsapp.net wss://*.facebook.com:* *.fbcdn.net 'self' data: blob:;font-src *.whatsapp.com *.whatsapp.net *.facebook.com static.xx.fbcdn.net data:;img-src *.whatsapp.com *.whatsapp.net *.facebook.com *.fbcdn.net *.fbsbx.com static.xx.fbcdn.net *.cdninstagram.com 'self' data: blob:;media-src *.fbcdn.net 'self' data: blob:;child-src 'self' data: blob:;frame-src *.facebook.com *.whatsapp.com 'self' data: blob:;manifest-src 'self' data: blob:;object-src 'self' data: blob:;worker-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-ykgMi0lP' 'self' data: blob:;block-all-mixed-content;upgrade-insecure-requests;report-uri https://www.facebook.com/csp/reporting/?m=tr_exp&minimize=0;"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000; preload; includeSubDomains"
+        ]
+      },
+      "body_bytes": 202712,
+      "truncated": false,
+      "body_sha256": "3ed3525683e4a2767693440e81f3228b3a1a0cda88b9f39eb21279e813b7142d",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Terms of Service - Revisions",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "65",
+      "domain": "whatsapp.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.whatsapp.com/contact/forms/915483389072145/",
+      "depth": 2,
+      "parent_url": "https://www.whatsapp.com/contact",
+      "attempt": 26,
+      "timestamp": "2026-11-12T21:11:45.374130+00:00",
+      "final_url": "https://www.whatsapp.com/contact/forms/915483389072145/",
+      "status": 200,
+      "content_type": "text/html; charset=\"utf-8\"",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'self' blob:;script-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-M4ofns5O' 'self' blob:;style-src *.whatsapp.com *.whatsapp.net 'unsafe-inline' *.facebook.com 'self' data: blob:;connect-src *.whatsapp.com *.whatsapp.net wss://*.facebook.com:* *.fbcdn.net 'self' data: blob:;font-src *.whatsapp.com *.whatsapp.net *.facebook.com static.xx.fbcdn.net data:;img-src *.whatsapp.com *.whatsapp.net *.facebook.com *.fbcdn.net *.fbsbx.com static.xx.fbcdn.net *.cdninstagram.com 'self' data: blob:;media-src *.fbcdn.net 'self' data: blob:;child-src 'self' data: blob:;frame-src *.facebook.com *.whatsapp.com 'self' data: blob:;manifest-src 'self' data: blob:;object-src 'self' data: blob:;worker-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-M4ofns5O' 'self' data: blob:;block-all-mixed-content;upgrade-insecure-requests;"
+        ],
+        "content-security-policy-report-only": [
+          "default-src 'self' blob:;script-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-M4ofns5O' 'self' blob:;style-src *.whatsapp.com *.whatsapp.net 'unsafe-inline' *.facebook.com 'self' data: blob:;connect-src *.whatsapp.com *.whatsapp.net wss://*.facebook.com:* *.fbcdn.net 'self' data: blob:;font-src *.whatsapp.com *.whatsapp.net *.facebook.com static.xx.fbcdn.net data:;img-src *.whatsapp.com *.whatsapp.net *.facebook.com *.fbcdn.net *.fbsbx.com static.xx.fbcdn.net *.cdninstagram.com 'self' data: blob:;media-src *.fbcdn.net 'self' data: blob:;child-src 'self' data: blob:;frame-src *.facebook.com *.whatsapp.com 'self' data: blob:;manifest-src 'self' data: blob:;object-src 'self' data: blob:;worker-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-M4ofns5O' 'self' data: blob:;block-all-mixed-content;upgrade-insecure-requests;report-uri https://www.facebook.com/csp/reporting/?m=tr_exp&minimize=0;"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000; preload; includeSubDomains"
+        ]
+      },
+      "body_bytes": 266262,
+      "truncated": false,
+      "body_sha256": "3a019ffb8344fc1218db3f4fbc4ce68b94eb2ed8014fa7e06db6b0bebf1c2cd2",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Contact WhatsApp",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "65",
+      "domain": "whatsapp.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.whatsapp.com/download/android",
+      "depth": 2,
+      "parent_url": "https://www.whatsapp.com/sitemap",
+      "attempt": 27,
+      "timestamp": "2026-11-12T21:11:45.876370+00:00",
+      "final_url": "https://www.whatsapp.com/download/android",
+      "status": 200,
+      "content_type": "text/html; charset=\"utf-8\"",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'self' blob:;script-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-gHqmJM2v' 'self' blob:;style-src *.whatsapp.com *.whatsapp.net 'unsafe-inline' *.facebook.com 'self' data: blob:;connect-src *.whatsapp.com *.whatsapp.net wss://*.facebook.com:* *.fbcdn.net 'self' data: blob:;font-src *.whatsapp.com *.whatsapp.net *.facebook.com static.xx.fbcdn.net data:;img-src *.whatsapp.com *.whatsapp.net *.facebook.com *.fbcdn.net *.fbsbx.com static.xx.fbcdn.net *.cdninstagram.com 'self' data: blob:;media-src *.fbcdn.net 'self' data: blob:;child-src 'self' data: blob:;frame-src *.facebook.com *.whatsapp.com 'self' data: blob:;manifest-src 'self' data: blob:;object-src 'self' data: blob:;worker-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-gHqmJM2v' 'self' data: blob:;block-all-mixed-content;upgrade-insecure-requests;"
+        ],
+        "content-security-policy-report-only": [
+          "default-src 'self' blob:;script-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-gHqmJM2v' 'self' blob:;style-src *.whatsapp.com *.whatsapp.net 'unsafe-inline' *.facebook.com 'self' data: blob:;connect-src *.whatsapp.com *.whatsapp.net wss://*.facebook.com:* *.fbcdn.net 'self' data: blob:;font-src *.whatsapp.com *.whatsapp.net *.facebook.com static.xx.fbcdn.net data:;img-src *.whatsapp.com *.whatsapp.net *.facebook.com *.fbcdn.net *.fbsbx.com static.xx.fbcdn.net *.cdninstagram.com 'self' data: blob:;media-src *.fbcdn.net 'self' data: blob:;child-src 'self' data: blob:;frame-src *.facebook.com *.whatsapp.com 'self' data: blob:;manifest-src 'self' data: blob:;object-src 'self' data: blob:;worker-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-gHqmJM2v' 'self' data: blob:;block-all-mixed-content;upgrade-insecure-requests;report-uri https://www.facebook.com/csp/reporting/?m=tr_exp&minimize=0;"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000; preload; includeSubDomains"
+        ]
+      },
+      "body_bytes": 254499,
+      "truncated": false,
+      "body_sha256": "22ffe358431a9cfda23e9f9947c71c6a000af6b41e6c86bfd6d879d0713df930",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Download WhatsApp for Android",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "65",
+      "domain": "whatsapp.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.whatsapp.com/security/advisories/2023/",
+      "depth": 2,
+      "parent_url": "https://www.whatsapp.com/sitemap",
+      "attempt": 28,
+      "timestamp": "2026-11-12T21:11:46.473375+00:00",
+      "final_url": "https://www.whatsapp.com/security/advisories/2023/",
+      "status": 200,
+      "content_type": "text/html; charset=\"utf-8\"",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'self' blob:;script-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-RnYCfKJV' 'self' blob:;style-src *.whatsapp.com *.whatsapp.net 'unsafe-inline' *.facebook.com 'self' data: blob:;connect-src *.whatsapp.com *.whatsapp.net wss://*.facebook.com:* *.fbcdn.net 'self' data: blob:;font-src *.whatsapp.com *.whatsapp.net *.facebook.com static.xx.fbcdn.net data:;img-src *.whatsapp.com *.whatsapp.net *.facebook.com *.fbcdn.net *.fbsbx.com static.xx.fbcdn.net *.cdninstagram.com 'self' data: blob:;media-src *.fbcdn.net 'self' data: blob:;child-src 'self' data: blob:;frame-src *.facebook.com *.whatsapp.com 'self' data: blob:;manifest-src 'self' data: blob:;object-src 'self' data: blob:;worker-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-RnYCfKJV' 'self' data: blob:;block-all-mixed-content;upgrade-insecure-requests;"
+        ],
+        "content-security-policy-report-only": [
+          "default-src 'self' blob:;script-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-RnYCfKJV' 'self' blob:;style-src *.whatsapp.com *.whatsapp.net 'unsafe-inline' *.facebook.com 'self' data: blob:;connect-src *.whatsapp.com *.whatsapp.net wss://*.facebook.com:* *.fbcdn.net 'self' data: blob:;font-src *.whatsapp.com *.whatsapp.net *.facebook.com static.xx.fbcdn.net data:;img-src *.whatsapp.com *.whatsapp.net *.facebook.com *.fbcdn.net *.fbsbx.com static.xx.fbcdn.net *.cdninstagram.com 'self' data: blob:;media-src *.fbcdn.net 'self' data: blob:;child-src 'self' data: blob:;frame-src *.facebook.com *.whatsapp.com 'self' data: blob:;manifest-src 'self' data: blob:;object-src 'self' data: blob:;worker-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-RnYCfKJV' 'self' data: blob:;block-all-mixed-content;upgrade-insecure-requests;report-uri https://www.facebook.com/csp/reporting/?m=tr_exp&minimize=0;"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000; preload; includeSubDomains"
+        ]
+      },
+      "body_bytes": 203952,
+      "truncated": false,
+      "body_sha256": "85c254be9c48a3f5e9e8191033e55ccc4bfad5b1fa1352a041da1b914c014882",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "WhatsApp Security Advisories 2023",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "65",
+      "domain": "whatsapp.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.whatsapp.com/",
+      "depth": 1,
+      "parent_url": "https://www.whatsapp.com/",
+      "attempt": 29,
+      "timestamp": "2026-11-12T21:11:46.947055+00:00",
+      "final_url": "https://www.whatsapp.com/",
+      "status": 200,
+      "content_type": "text/html; charset=\"utf-8\"",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'self' blob:;script-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-aS9giYMq' 'self' blob:;style-src *.whatsapp.com *.whatsapp.net 'unsafe-inline' *.facebook.com 'self' data: blob:;connect-src *.whatsapp.com *.whatsapp.net wss://*.facebook.com:* *.fbcdn.net 'self' data: blob:;font-src *.whatsapp.com *.whatsapp.net *.facebook.com static.xx.fbcdn.net data:;img-src *.whatsapp.com *.whatsapp.net *.facebook.com *.fbcdn.net *.fbsbx.com static.xx.fbcdn.net *.cdninstagram.com 'self' data: blob:;media-src *.fbcdn.net 'self' data: blob:;child-src 'self' data: blob:;frame-src *.facebook.com *.whatsapp.com 'self' data: blob:;manifest-src 'self' data: blob:;object-src 'self' data: blob:;worker-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-aS9giYMq' 'self' data: blob:;block-all-mixed-content;upgrade-insecure-requests;"
+        ],
+        "content-security-policy-report-only": [
+          "default-src 'self' blob:;script-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-aS9giYMq' 'self' blob:;style-src *.whatsapp.com *.whatsapp.net 'unsafe-inline' *.facebook.com 'self' data: blob:;connect-src *.whatsapp.com *.whatsapp.net wss://*.facebook.com:* *.fbcdn.net 'self' data: blob:;font-src *.whatsapp.com *.whatsapp.net *.facebook.com static.xx.fbcdn.net data:;img-src *.whatsapp.com *.whatsapp.net *.facebook.com *.fbcdn.net *.fbsbx.com static.xx.fbcdn.net *.cdninstagram.com 'self' data: blob:;media-src *.fbcdn.net 'self' data: blob:;child-src 'self' data: blob:;frame-src *.facebook.com *.whatsapp.com 'self' data: blob:;manifest-src 'self' data: blob:;object-src 'self' data: blob:;worker-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-aS9giYMq' 'self' data: blob:;block-all-mixed-content;upgrade-insecure-requests;report-uri https://www.facebook.com/csp/reporting/?m=tr_exp&minimize=0;"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000; preload; includeSubDomains"
+        ]
+      },
+      "body_bytes": 281999,
+      "truncated": false,
+      "body_sha256": "16dd6987ba6cceac73c7f077d509a13671e294ef667f660e9dc7d328decca45e",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "WhatsApp | Secure and Reliable Free Private Messaging and Calling",
+      "duplicate_final": true,
+      "eligible": false
+    },
+    {
+      "rank": "65",
+      "domain": "whatsapp.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.whatsapp.com/legal/terms-of-service/revisions/20210104",
+      "depth": 4,
+      "parent_url": "https://www.whatsapp.com/legal/terms-of-service/revisions",
+      "attempt": 30,
+      "timestamp": "2026-11-12T21:11:47.485356+00:00",
+      "final_url": "https://www.whatsapp.com/legal/terms-of-service/revisions/20210104",
+      "status": 200,
+      "content_type": "text/html; charset=\"utf-8\"",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'self' blob:;script-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-fy1g131o' 'self' blob:;style-src *.whatsapp.com *.whatsapp.net 'unsafe-inline' *.facebook.com 'self' data: blob:;connect-src *.whatsapp.com *.whatsapp.net wss://*.facebook.com:* *.fbcdn.net 'self' data: blob:;font-src *.whatsapp.com *.whatsapp.net *.facebook.com static.xx.fbcdn.net data:;img-src *.whatsapp.com *.whatsapp.net *.facebook.com *.fbcdn.net *.fbsbx.com static.xx.fbcdn.net *.cdninstagram.com 'self' data: blob:;media-src *.fbcdn.net 'self' data: blob:;child-src 'self' data: blob:;frame-src *.facebook.com *.whatsapp.com 'self' data: blob:;manifest-src 'self' data: blob:;object-src 'self' data: blob:;worker-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-fy1g131o' 'self' data: blob:;block-all-mixed-content;upgrade-insecure-requests;"
+        ],
+        "content-security-policy-report-only": [
+          "default-src 'self' blob:;script-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-fy1g131o' 'self' blob:;style-src *.whatsapp.com *.whatsapp.net 'unsafe-inline' *.facebook.com 'self' data: blob:;connect-src *.whatsapp.com *.whatsapp.net wss://*.facebook.com:* *.fbcdn.net 'self' data: blob:;font-src *.whatsapp.com *.whatsapp.net *.facebook.com static.xx.fbcdn.net data:;img-src *.whatsapp.com *.whatsapp.net *.facebook.com *.fbcdn.net *.fbsbx.com static.xx.fbcdn.net *.cdninstagram.com 'self' data: blob:;media-src *.fbcdn.net 'self' data: blob:;child-src 'self' data: blob:;frame-src *.facebook.com *.whatsapp.com 'self' data: blob:;manifest-src 'self' data: blob:;object-src 'self' data: blob:;worker-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-fy1g131o' 'self' data: blob:;block-all-mixed-content;upgrade-insecure-requests;report-uri https://www.facebook.com/csp/reporting/?m=tr_exp&minimize=0;"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000; preload; includeSubDomains"
+        ]
+      },
+      "body_bytes": 251744,
+      "truncated": false,
+      "body_sha256": "cab2626519e26989728a38c744dc81982439afc720861fb127cd8db38057ac2a",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Terms of Service",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "65",
+      "domain": "whatsapp.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.whatsapp.com/communities/learning/settingupyourcommunity",
+      "depth": 3,
+      "parent_url": "https://www.whatsapp.com/communities/learning",
+      "attempt": 31,
+      "timestamp": "2026-11-12T21:11:48.042193+00:00",
+      "final_url": "https://www.whatsapp.com/communities/learning/settingupyourcommunity",
+      "status": 200,
+      "content_type": "text/html; charset=\"utf-8\"",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'self' blob:;script-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-qUIOdhXO' 'self' blob:;style-src *.whatsapp.com *.whatsapp.net 'unsafe-inline' *.facebook.com 'self' data: blob:;connect-src *.whatsapp.com *.whatsapp.net wss://*.facebook.com:* *.fbcdn.net 'self' data: blob:;font-src *.whatsapp.com *.whatsapp.net *.facebook.com static.xx.fbcdn.net data:;img-src *.whatsapp.com *.whatsapp.net *.facebook.com *.fbcdn.net *.fbsbx.com static.xx.fbcdn.net *.cdninstagram.com 'self' data: blob:;media-src *.fbcdn.net 'self' data: blob:;child-src 'self' data: blob:;frame-src *.facebook.com *.whatsapp.com 'self' data: blob:;manifest-src 'self' data: blob:;object-src 'self' data: blob:;worker-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-qUIOdhXO' 'self' data: blob:;block-all-mixed-content;upgrade-insecure-requests;"
+        ],
+        "content-security-policy-report-only": [
+          "default-src 'self' blob:;script-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-qUIOdhXO' 'self' blob:;style-src *.whatsapp.com *.whatsapp.net 'unsafe-inline' *.facebook.com 'self' data: blob:;connect-src *.whatsapp.com *.whatsapp.net wss://*.facebook.com:* *.fbcdn.net 'self' data: blob:;font-src *.whatsapp.com *.whatsapp.net *.facebook.com static.xx.fbcdn.net data:;img-src *.whatsapp.com *.whatsapp.net *.facebook.com *.fbcdn.net *.fbsbx.com static.xx.fbcdn.net *.cdninstagram.com 'self' data: blob:;media-src *.fbcdn.net 'self' data: blob:;child-src 'self' data: blob:;frame-src *.facebook.com *.whatsapp.com 'self' data: blob:;manifest-src 'self' data: blob:;object-src 'self' data: blob:;worker-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-qUIOdhXO' 'self' data: blob:;block-all-mixed-content;upgrade-insecure-requests;report-uri https://www.facebook.com/csp/reporting/?m=tr_exp&minimize=0;"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000; preload; includeSubDomains"
+        ]
+      },
+      "body_bytes": 243813,
+      "truncated": false,
+      "body_sha256": "b471676d1484c7d7d48f8f18e9a6c1abe981da73cc8e356463bf26b016a67d47",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Setting up Your Community | WhatsApp",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "65",
+      "domain": "whatsapp.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.whatsapp.com/download/mac",
+      "depth": 2,
+      "parent_url": "https://www.whatsapp.com/sitemap",
+      "attempt": 32,
+      "timestamp": "2026-11-12T21:11:48.992478+00:00",
+      "final_url": "https://www.whatsapp.com/download/mac",
+      "status": 200,
+      "content_type": "text/html; charset=\"utf-8\"",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'self' blob:;script-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-qdxdFPNn' 'self' blob:;style-src *.whatsapp.com *.whatsapp.net 'unsafe-inline' *.facebook.com 'self' data: blob:;connect-src *.whatsapp.com *.whatsapp.net wss://*.facebook.com:* *.fbcdn.net 'self' data: blob:;font-src *.whatsapp.com *.whatsapp.net *.facebook.com static.xx.fbcdn.net data:;img-src *.whatsapp.com *.whatsapp.net *.facebook.com *.fbcdn.net *.fbsbx.com static.xx.fbcdn.net *.cdninstagram.com 'self' data: blob:;media-src *.fbcdn.net 'self' data: blob:;child-src 'self' data: blob:;frame-src *.facebook.com *.whatsapp.com 'self' data: blob:;manifest-src 'self' data: blob:;object-src 'self' data: blob:;worker-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-qdxdFPNn' 'self' data: blob:;block-all-mixed-content;upgrade-insecure-requests;"
+        ],
+        "content-security-policy-report-only": [
+          "default-src 'self' blob:;script-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-qdxdFPNn' 'self' blob:;style-src *.whatsapp.com *.whatsapp.net 'unsafe-inline' *.facebook.com 'self' data: blob:;connect-src *.whatsapp.com *.whatsapp.net wss://*.facebook.com:* *.fbcdn.net 'self' data: blob:;font-src *.whatsapp.com *.whatsapp.net *.facebook.com static.xx.fbcdn.net data:;img-src *.whatsapp.com *.whatsapp.net *.facebook.com *.fbcdn.net *.fbsbx.com static.xx.fbcdn.net *.cdninstagram.com 'self' data: blob:;media-src *.fbcdn.net 'self' data: blob:;child-src 'self' data: blob:;frame-src *.facebook.com *.whatsapp.com 'self' data: blob:;manifest-src 'self' data: blob:;object-src 'self' data: blob:;worker-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-qdxdFPNn' 'self' data: blob:;block-all-mixed-content;upgrade-insecure-requests;report-uri https://www.facebook.com/csp/reporting/?m=tr_exp&minimize=0;"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000; preload; includeSubDomains"
+        ]
+      },
+      "body_bytes": 253520,
+      "truncated": false,
+      "body_sha256": "900836c165b1275b1b9082ab51bac58c6af2f2921c3bcedcf374aafe40e0c836",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Download WhatsApp for Mac",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "65",
+      "domain": "whatsapp.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.whatsapp.com/security/advisories",
+      "depth": 1,
+      "parent_url": "https://www.whatsapp.com/",
+      "attempt": 33,
+      "timestamp": "2026-11-12T21:11:49.529508+00:00",
+      "final_url": "https://www.whatsapp.com/security/advisories",
+      "status": 200,
+      "content_type": "text/html; charset=\"utf-8\"",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'self' blob:;script-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-kylZwfOI' 'self' blob:;style-src *.whatsapp.com *.whatsapp.net 'unsafe-inline' *.facebook.com 'self' data: blob:;connect-src *.whatsapp.com *.whatsapp.net wss://*.facebook.com:* *.fbcdn.net 'self' data: blob:;font-src *.whatsapp.com *.whatsapp.net *.facebook.com static.xx.fbcdn.net data:;img-src *.whatsapp.com *.whatsapp.net *.facebook.com *.fbcdn.net *.fbsbx.com static.xx.fbcdn.net *.cdninstagram.com 'self' data: blob:;media-src *.fbcdn.net 'self' data: blob:;child-src 'self' data: blob:;frame-src *.facebook.com *.whatsapp.com 'self' data: blob:;manifest-src 'self' data: blob:;object-src 'self' data: blob:;worker-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-kylZwfOI' 'self' data: blob:;block-all-mixed-content;upgrade-insecure-requests;"
+        ],
+        "content-security-policy-report-only": [
+          "default-src 'self' blob:;script-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-kylZwfOI' 'self' blob:;style-src *.whatsapp.com *.whatsapp.net 'unsafe-inline' *.facebook.com 'self' data: blob:;connect-src *.whatsapp.com *.whatsapp.net wss://*.facebook.com:* *.fbcdn.net 'self' data: blob:;font-src *.whatsapp.com *.whatsapp.net *.facebook.com static.xx.fbcdn.net data:;img-src *.whatsapp.com *.whatsapp.net *.facebook.com *.fbcdn.net *.fbsbx.com static.xx.fbcdn.net *.cdninstagram.com 'self' data: blob:;media-src *.fbcdn.net 'self' data: blob:;child-src 'self' data: blob:;frame-src *.facebook.com *.whatsapp.com 'self' data: blob:;manifest-src 'self' data: blob:;object-src 'self' data: blob:;worker-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-kylZwfOI' 'self' data: blob:;block-all-mixed-content;upgrade-insecure-requests;report-uri https://www.facebook.com/csp/reporting/?m=tr_exp&minimize=0;"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000; preload; includeSubDomains"
+        ]
+      },
+      "body_bytes": 210189,
+      "truncated": false,
+      "body_sha256": "89eb99eceae7bbb53e2c92d097a8cce1bd05c72b754c15a8cfebb5488911d94a",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "WhatsApp Security Advisories",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "65",
+      "domain": "whatsapp.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.whatsapp.com/legal/terms-of-service/revisions/20200128",
+      "depth": 4,
+      "parent_url": "https://www.whatsapp.com/legal/terms-of-service/revisions",
+      "attempt": 34,
+      "timestamp": "2026-11-12T21:11:50.039791+00:00",
+      "final_url": "https://www.whatsapp.com/legal/terms-of-service/revisions/20200128",
+      "status": 200,
+      "content_type": "text/html; charset=\"utf-8\"",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'self' blob:;script-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-3TOClSIh' 'self' blob:;style-src *.whatsapp.com *.whatsapp.net 'unsafe-inline' *.facebook.com 'self' data: blob:;connect-src *.whatsapp.com *.whatsapp.net wss://*.facebook.com:* *.fbcdn.net 'self' data: blob:;font-src *.whatsapp.com *.whatsapp.net *.facebook.com static.xx.fbcdn.net data:;img-src *.whatsapp.com *.whatsapp.net *.facebook.com *.fbcdn.net *.fbsbx.com static.xx.fbcdn.net *.cdninstagram.com 'self' data: blob:;media-src *.fbcdn.net 'self' data: blob:;child-src 'self' data: blob:;frame-src *.facebook.com *.whatsapp.com 'self' data: blob:;manifest-src 'self' data: blob:;object-src 'self' data: blob:;worker-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-3TOClSIh' 'self' data: blob:;block-all-mixed-content;upgrade-insecure-requests;"
+        ],
+        "content-security-policy-report-only": [
+          "default-src 'self' blob:;script-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-3TOClSIh' 'self' blob:;style-src *.whatsapp.com *.whatsapp.net 'unsafe-inline' *.facebook.com 'self' data: blob:;connect-src *.whatsapp.com *.whatsapp.net wss://*.facebook.com:* *.fbcdn.net 'self' data: blob:;font-src *.whatsapp.com *.whatsapp.net *.facebook.com static.xx.fbcdn.net data:;img-src *.whatsapp.com *.whatsapp.net *.facebook.com *.fbcdn.net *.fbsbx.com static.xx.fbcdn.net *.cdninstagram.com 'self' data: blob:;media-src *.fbcdn.net 'self' data: blob:;child-src 'self' data: blob:;frame-src *.facebook.com *.whatsapp.com 'self' data: blob:;manifest-src 'self' data: blob:;object-src 'self' data: blob:;worker-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-3TOClSIh' 'self' data: blob:;block-all-mixed-content;upgrade-insecure-requests;report-uri https://www.facebook.com/csp/reporting/?m=tr_exp&minimize=0;"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000; preload; includeSubDomains"
+        ]
+      },
+      "body_bytes": 232350,
+      "truncated": false,
+      "body_sha256": "fe9cea87f9fd2108a3ee303790078555f436a4657b01dcb15c41fe19f1a11fe4",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Terms of Service - Revisions- January 28, 2020",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "65",
+      "domain": "whatsapp.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.whatsapp.com/communities/learning/buildingasafecommunity",
+      "depth": 3,
+      "parent_url": "https://www.whatsapp.com/communities/learning",
+      "attempt": 35,
+      "timestamp": "2026-11-12T21:11:50.605987+00:00",
+      "final_url": "https://www.whatsapp.com/communities/learning/buildingasafecommunity",
+      "status": 200,
+      "content_type": "text/html; charset=\"utf-8\"",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'self' blob:;script-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-YY7lhdKb' 'self' blob:;style-src *.whatsapp.com *.whatsapp.net 'unsafe-inline' *.facebook.com 'self' data: blob:;connect-src *.whatsapp.com *.whatsapp.net wss://*.facebook.com:* *.fbcdn.net 'self' data: blob:;font-src *.whatsapp.com *.whatsapp.net *.facebook.com static.xx.fbcdn.net data:;img-src *.whatsapp.com *.whatsapp.net *.facebook.com *.fbcdn.net *.fbsbx.com static.xx.fbcdn.net *.cdninstagram.com 'self' data: blob:;media-src *.fbcdn.net 'self' data: blob:;child-src 'self' data: blob:;frame-src *.facebook.com *.whatsapp.com 'self' data: blob:;manifest-src 'self' data: blob:;object-src 'self' data: blob:;worker-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-YY7lhdKb' 'self' data: blob:;block-all-mixed-content;upgrade-insecure-requests;"
+        ],
+        "content-security-policy-report-only": [
+          "default-src 'self' blob:;script-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-YY7lhdKb' 'self' blob:;style-src *.whatsapp.com *.whatsapp.net 'unsafe-inline' *.facebook.com 'self' data: blob:;connect-src *.whatsapp.com *.whatsapp.net wss://*.facebook.com:* *.fbcdn.net 'self' data: blob:;font-src *.whatsapp.com *.whatsapp.net *.facebook.com static.xx.fbcdn.net data:;img-src *.whatsapp.com *.whatsapp.net *.facebook.com *.fbcdn.net *.fbsbx.com static.xx.fbcdn.net *.cdninstagram.com 'self' data: blob:;media-src *.fbcdn.net 'self' data: blob:;child-src 'self' data: blob:;frame-src *.facebook.com *.whatsapp.com 'self' data: blob:;manifest-src 'self' data: blob:;object-src 'self' data: blob:;worker-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-YY7lhdKb' 'self' data: blob:;block-all-mixed-content;upgrade-insecure-requests;report-uri https://www.facebook.com/csp/reporting/?m=tr_exp&minimize=0;"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000; preload; includeSubDomains"
+        ]
+      },
+      "body_bytes": 242087,
+      "truncated": false,
+      "body_sha256": "0998b08c0b1a1cf51dfff667f670bccb36f9a7c04f85f0eaf3827acc478df857",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Building a Safe Community | WhatsApp",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "65",
+      "domain": "whatsapp.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.whatsapp.com/download/windows",
+      "depth": 2,
+      "parent_url": "https://www.whatsapp.com/sitemap",
+      "attempt": 36,
+      "timestamp": "2026-11-12T21:11:51.213181+00:00",
+      "final_url": "https://www.whatsapp.com/download/windows",
+      "status": 200,
+      "content_type": "text/html; charset=\"utf-8\"",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'self' blob:;script-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-ADRdZxUZ' 'self' blob:;style-src *.whatsapp.com *.whatsapp.net 'unsafe-inline' *.facebook.com 'self' data: blob:;connect-src *.whatsapp.com *.whatsapp.net wss://*.facebook.com:* *.fbcdn.net 'self' data: blob:;font-src *.whatsapp.com *.whatsapp.net *.facebook.com static.xx.fbcdn.net data:;img-src *.whatsapp.com *.whatsapp.net *.facebook.com *.fbcdn.net *.fbsbx.com static.xx.fbcdn.net *.cdninstagram.com 'self' data: blob:;media-src *.fbcdn.net 'self' data: blob:;child-src 'self' data: blob:;frame-src *.facebook.com *.whatsapp.com 'self' data: blob:;manifest-src 'self' data: blob:;object-src 'self' data: blob:;worker-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-ADRdZxUZ' 'self' data: blob:;block-all-mixed-content;upgrade-insecure-requests;"
+        ],
+        "content-security-policy-report-only": [
+          "default-src 'self' blob:;script-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-ADRdZxUZ' 'self' blob:;style-src *.whatsapp.com *.whatsapp.net 'unsafe-inline' *.facebook.com 'self' data: blob:;connect-src *.whatsapp.com *.whatsapp.net wss://*.facebook.com:* *.fbcdn.net 'self' data: blob:;font-src *.whatsapp.com *.whatsapp.net *.facebook.com static.xx.fbcdn.net data:;img-src *.whatsapp.com *.whatsapp.net *.facebook.com *.fbcdn.net *.fbsbx.com static.xx.fbcdn.net *.cdninstagram.com 'self' data: blob:;media-src *.fbcdn.net 'self' data: blob:;child-src 'self' data: blob:;frame-src *.facebook.com *.whatsapp.com 'self' data: blob:;manifest-src 'self' data: blob:;object-src 'self' data: blob:;worker-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-ADRdZxUZ' 'self' data: blob:;block-all-mixed-content;upgrade-insecure-requests;report-uri https://www.facebook.com/csp/reporting/?m=tr_exp&minimize=0;"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000; preload; includeSubDomains"
+        ]
+      },
+      "body_bytes": 254156,
+      "truncated": false,
+      "body_sha256": "395ad1db3731bae13ac2a046a3c917089532e6d286b913646c1c9bb3ea3f946d",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Download WhatsApp for Windows",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "65",
+      "domain": "whatsapp.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.whatsapp.com/security/advisories/2026/",
+      "depth": 2,
+      "parent_url": "https://www.whatsapp.com/security/advisories",
+      "attempt": 37,
+      "timestamp": "2026-11-12T21:11:51.716906+00:00",
+      "final_url": "https://www.whatsapp.com/security/advisories/2026/",
+      "status": 200,
+      "content_type": "text/html; charset=\"utf-8\"",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'self' blob:;script-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-Q0zHMF3o' 'self' blob:;style-src *.whatsapp.com *.whatsapp.net 'unsafe-inline' *.facebook.com 'self' data: blob:;connect-src *.whatsapp.com *.whatsapp.net wss://*.facebook.com:* *.fbcdn.net 'self' data: blob:;font-src *.whatsapp.com *.whatsapp.net *.facebook.com static.xx.fbcdn.net data:;img-src *.whatsapp.com *.whatsapp.net *.facebook.com *.fbcdn.net *.fbsbx.com static.xx.fbcdn.net *.cdninstagram.com 'self' data: blob:;media-src *.fbcdn.net 'self' data: blob:;child-src 'self' data: blob:;frame-src *.facebook.com *.whatsapp.com 'self' data: blob:;manifest-src 'self' data: blob:;object-src 'self' data: blob:;worker-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-Q0zHMF3o' 'self' data: blob:;block-all-mixed-content;upgrade-insecure-requests;"
+        ],
+        "content-security-policy-report-only": [
+          "default-src 'self' blob:;script-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-Q0zHMF3o' 'self' blob:;style-src *.whatsapp.com *.whatsapp.net 'unsafe-inline' *.facebook.com 'self' data: blob:;connect-src *.whatsapp.com *.whatsapp.net wss://*.facebook.com:* *.fbcdn.net 'self' data: blob:;font-src *.whatsapp.com *.whatsapp.net *.facebook.com static.xx.fbcdn.net data:;img-src *.whatsapp.com *.whatsapp.net *.facebook.com *.fbcdn.net *.fbsbx.com static.xx.fbcdn.net *.cdninstagram.com 'self' data: blob:;media-src *.fbcdn.net 'self' data: blob:;child-src 'self' data: blob:;frame-src *.facebook.com *.whatsapp.com 'self' data: blob:;manifest-src 'self' data: blob:;object-src 'self' data: blob:;worker-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-Q0zHMF3o' 'self' data: blob:;block-all-mixed-content;upgrade-insecure-requests;report-uri https://www.facebook.com/csp/reporting/?m=tr_exp&minimize=0;"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000; preload; includeSubDomains"
+        ]
+      },
+      "body_bytes": 204248,
+      "truncated": false,
+      "body_sha256": "1ade928b0c8b40ecc1b12a6ff7c7fcbfe3baa30d9fe027066dc1bf7616f62dc1",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "WhatsApp Security Advisories 2026",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "65",
+      "domain": "whatsapp.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.whatsapp.com/legal/terms-of-service/revisions/20160825",
+      "depth": 4,
+      "parent_url": "https://www.whatsapp.com/legal/terms-of-service/revisions",
+      "attempt": 38,
+      "timestamp": "2026-11-12T21:11:52.219328+00:00",
+      "final_url": "https://www.whatsapp.com/legal/terms-of-service/revisions/20160825",
+      "status": 200,
+      "content_type": "text/html; charset=\"utf-8\"",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'self' blob:;script-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-U9ptvEV4' 'self' blob:;style-src *.whatsapp.com *.whatsapp.net 'unsafe-inline' *.facebook.com 'self' data: blob:;connect-src *.whatsapp.com *.whatsapp.net wss://*.facebook.com:* *.fbcdn.net 'self' data: blob:;font-src *.whatsapp.com *.whatsapp.net *.facebook.com static.xx.fbcdn.net data:;img-src *.whatsapp.com *.whatsapp.net *.facebook.com *.fbcdn.net *.fbsbx.com static.xx.fbcdn.net *.cdninstagram.com 'self' data: blob:;media-src *.fbcdn.net 'self' data: blob:;child-src 'self' data: blob:;frame-src *.facebook.com *.whatsapp.com 'self' data: blob:;manifest-src 'self' data: blob:;object-src 'self' data: blob:;worker-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-U9ptvEV4' 'self' data: blob:;block-all-mixed-content;upgrade-insecure-requests;"
+        ],
+        "content-security-policy-report-only": [
+          "default-src 'self' blob:;script-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-U9ptvEV4' 'self' blob:;style-src *.whatsapp.com *.whatsapp.net 'unsafe-inline' *.facebook.com 'self' data: blob:;connect-src *.whatsapp.com *.whatsapp.net wss://*.facebook.com:* *.fbcdn.net 'self' data: blob:;font-src *.whatsapp.com *.whatsapp.net *.facebook.com static.xx.fbcdn.net data:;img-src *.whatsapp.com *.whatsapp.net *.facebook.com *.fbcdn.net *.fbsbx.com static.xx.fbcdn.net *.cdninstagram.com 'self' data: blob:;media-src *.fbcdn.net 'self' data: blob:;child-src 'self' data: blob:;frame-src *.facebook.com *.whatsapp.com 'self' data: blob:;manifest-src 'self' data: blob:;object-src 'self' data: blob:;worker-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-U9ptvEV4' 'self' data: blob:;block-all-mixed-content;upgrade-insecure-requests;report-uri https://www.facebook.com/csp/reporting/?m=tr_exp&minimize=0;"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000; preload; includeSubDomains"
+        ]
+      },
+      "body_bytes": 229381,
+      "truncated": false,
+      "body_sha256": "bf1d54343645866fd66a39a0f0b2bf7b6263ef917fa4e36effe0ef0016d1084c",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Terms of Service - Revisions - August 25, 2016",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "65",
+      "domain": "whatsapp.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.whatsapp.com/communities/learning/beingagoodadmin",
+      "depth": 3,
+      "parent_url": "https://www.whatsapp.com/communities/learning",
+      "attempt": 39,
+      "timestamp": "2026-11-12T21:11:52.794819+00:00",
+      "final_url": "https://www.whatsapp.com/communities/learning/beingagoodadmin",
+      "status": 200,
+      "content_type": "text/html; charset=\"utf-8\"",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'self' blob:;script-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-phEnwBEk' 'self' blob:;style-src *.whatsapp.com *.whatsapp.net 'unsafe-inline' *.facebook.com 'self' data: blob:;connect-src *.whatsapp.com *.whatsapp.net wss://*.facebook.com:* *.fbcdn.net 'self' data: blob:;font-src *.whatsapp.com *.whatsapp.net *.facebook.com static.xx.fbcdn.net data:;img-src *.whatsapp.com *.whatsapp.net *.facebook.com *.fbcdn.net *.fbsbx.com static.xx.fbcdn.net *.cdninstagram.com 'self' data: blob:;media-src *.fbcdn.net 'self' data: blob:;child-src 'self' data: blob:;frame-src *.facebook.com *.whatsapp.com 'self' data: blob:;manifest-src 'self' data: blob:;object-src 'self' data: blob:;worker-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-phEnwBEk' 'self' data: blob:;block-all-mixed-content;upgrade-insecure-requests;"
+        ],
+        "content-security-policy-report-only": [
+          "default-src 'self' blob:;script-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-phEnwBEk' 'self' blob:;style-src *.whatsapp.com *.whatsapp.net 'unsafe-inline' *.facebook.com 'self' data: blob:;connect-src *.whatsapp.com *.whatsapp.net wss://*.facebook.com:* *.fbcdn.net 'self' data: blob:;font-src *.whatsapp.com *.whatsapp.net *.facebook.com static.xx.fbcdn.net data:;img-src *.whatsapp.com *.whatsapp.net *.facebook.com *.fbcdn.net *.fbsbx.com static.xx.fbcdn.net *.cdninstagram.com 'self' data: blob:;media-src *.fbcdn.net 'self' data: blob:;child-src 'self' data: blob:;frame-src *.facebook.com *.whatsapp.com 'self' data: blob:;manifest-src 'self' data: blob:;object-src 'self' data: blob:;worker-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-phEnwBEk' 'self' data: blob:;block-all-mixed-content;upgrade-insecure-requests;report-uri https://www.facebook.com/csp/reporting/?m=tr_exp&minimize=0;"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000; preload; includeSubDomains"
+        ]
+      },
+      "body_bytes": 238885,
+      "truncated": false,
+      "body_sha256": "0391cfba8b142276d2528cfc3e4ff4ef59c02a2f762e0b4022f0f6fd26ed7b71",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Being a Good Community Admin | WhatsApp",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "65",
+      "domain": "whatsapp.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.whatsapp.com/download/android-tablet",
+      "depth": 2,
+      "parent_url": "https://www.whatsapp.com/sitemap",
+      "attempt": 40,
+      "timestamp": "2026-11-12T21:11:53.356226+00:00",
+      "final_url": "https://www.whatsapp.com/download/android-tablet",
+      "status": 200,
+      "content_type": "text/html; charset=\"utf-8\"",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'self' blob:;script-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-w92Bc9IT' 'self' blob:;style-src *.whatsapp.com *.whatsapp.net 'unsafe-inline' *.facebook.com 'self' data: blob:;connect-src *.whatsapp.com *.whatsapp.net wss://*.facebook.com:* *.fbcdn.net 'self' data: blob:;font-src *.whatsapp.com *.whatsapp.net *.facebook.com static.xx.fbcdn.net data:;img-src *.whatsapp.com *.whatsapp.net *.facebook.com *.fbcdn.net *.fbsbx.com static.xx.fbcdn.net *.cdninstagram.com 'self' data: blob:;media-src *.fbcdn.net 'self' data: blob:;child-src 'self' data: blob:;frame-src *.facebook.com *.whatsapp.com 'self' data: blob:;manifest-src 'self' data: blob:;object-src 'self' data: blob:;worker-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-w92Bc9IT' 'self' data: blob:;block-all-mixed-content;upgrade-insecure-requests;"
+        ],
+        "content-security-policy-report-only": [
+          "default-src 'self' blob:;script-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-w92Bc9IT' 'self' blob:;style-src *.whatsapp.com *.whatsapp.net 'unsafe-inline' *.facebook.com 'self' data: blob:;connect-src *.whatsapp.com *.whatsapp.net wss://*.facebook.com:* *.fbcdn.net 'self' data: blob:;font-src *.whatsapp.com *.whatsapp.net *.facebook.com static.xx.fbcdn.net data:;img-src *.whatsapp.com *.whatsapp.net *.facebook.com *.fbcdn.net *.fbsbx.com static.xx.fbcdn.net *.cdninstagram.com 'self' data: blob:;media-src *.fbcdn.net 'self' data: blob:;child-src 'self' data: blob:;frame-src *.facebook.com *.whatsapp.com 'self' data: blob:;manifest-src 'self' data: blob:;object-src 'self' data: blob:;worker-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-w92Bc9IT' 'self' data: blob:;block-all-mixed-content;upgrade-insecure-requests;report-uri https://www.facebook.com/csp/reporting/?m=tr_exp&minimize=0;"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000; preload; includeSubDomains"
+        ]
+      },
+      "body_bytes": 257913,
+      "truncated": false,
+      "body_sha256": "45170b36780db8c15302bf61ff69f331d55e226de96de6b4dc84508e55de80c3",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Download WhatsApp for Android Tablets",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "65",
+      "domain": "whatsapp.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.whatsapp.com/security/advisories/2025/",
+      "depth": 2,
+      "parent_url": "https://www.whatsapp.com/security/advisories",
+      "attempt": 41,
+      "timestamp": "2026-11-12T21:11:53.833294+00:00",
+      "final_url": "https://www.whatsapp.com/security/advisories/2025/",
+      "status": 200,
+      "content_type": "text/html; charset=\"utf-8\"",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'self' blob:;script-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-z0IQbNWY' 'self' blob:;style-src *.whatsapp.com *.whatsapp.net 'unsafe-inline' *.facebook.com 'self' data: blob:;connect-src *.whatsapp.com *.whatsapp.net wss://*.facebook.com:* *.fbcdn.net 'self' data: blob:;font-src *.whatsapp.com *.whatsapp.net *.facebook.com static.xx.fbcdn.net data:;img-src *.whatsapp.com *.whatsapp.net *.facebook.com *.fbcdn.net *.fbsbx.com static.xx.fbcdn.net *.cdninstagram.com 'self' data: blob:;media-src *.fbcdn.net 'self' data: blob:;child-src 'self' data: blob:;frame-src *.facebook.com *.whatsapp.com 'self' data: blob:;manifest-src 'self' data: blob:;object-src 'self' data: blob:;worker-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-z0IQbNWY' 'self' data: blob:;block-all-mixed-content;upgrade-insecure-requests;"
+        ],
+        "content-security-policy-report-only": [
+          "default-src 'self' blob:;script-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-z0IQbNWY' 'self' blob:;style-src *.whatsapp.com *.whatsapp.net 'unsafe-inline' *.facebook.com 'self' data: blob:;connect-src *.whatsapp.com *.whatsapp.net wss://*.facebook.com:* *.fbcdn.net 'self' data: blob:;font-src *.whatsapp.com *.whatsapp.net *.facebook.com static.xx.fbcdn.net data:;img-src *.whatsapp.com *.whatsapp.net *.facebook.com *.fbcdn.net *.fbsbx.com static.xx.fbcdn.net *.cdninstagram.com 'self' data: blob:;media-src *.fbcdn.net 'self' data: blob:;child-src 'self' data: blob:;frame-src *.facebook.com *.whatsapp.com 'self' data: blob:;manifest-src 'self' data: blob:;object-src 'self' data: blob:;worker-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-z0IQbNWY' 'self' data: blob:;block-all-mixed-content;upgrade-insecure-requests;report-uri https://www.facebook.com/csp/reporting/?m=tr_exp&minimize=0;"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000; preload; includeSubDomains"
+        ]
+      },
+      "body_bytes": 205500,
+      "truncated": false,
+      "body_sha256": "9dab4b8c90d0b57ae9ebee2c617166226097dcbaa8b2ec0ef5348e9c12b4e10b",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "WhatsApp Security Advisories 2025",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "65",
+      "domain": "whatsapp.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.whatsapp.com/legal/terms-of-service/revisions/20120707",
+      "depth": 4,
+      "parent_url": "https://www.whatsapp.com/legal/terms-of-service/revisions",
+      "attempt": 42,
+      "timestamp": "2026-11-12T21:11:54.330699+00:00",
+      "final_url": "https://www.whatsapp.com/legal/terms-of-service/revisions/20120707",
+      "status": 200,
+      "content_type": "text/html; charset=\"utf-8\"",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'self' blob:;script-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-tdGFPQJJ' 'self' blob:;style-src *.whatsapp.com *.whatsapp.net 'unsafe-inline' *.facebook.com 'self' data: blob:;connect-src *.whatsapp.com *.whatsapp.net wss://*.facebook.com:* *.fbcdn.net 'self' data: blob:;font-src *.whatsapp.com *.whatsapp.net *.facebook.com static.xx.fbcdn.net data:;img-src *.whatsapp.com *.whatsapp.net *.facebook.com *.fbcdn.net *.fbsbx.com static.xx.fbcdn.net *.cdninstagram.com 'self' data: blob:;media-src *.fbcdn.net 'self' data: blob:;child-src 'self' data: blob:;frame-src *.facebook.com *.whatsapp.com 'self' data: blob:;manifest-src 'self' data: blob:;object-src 'self' data: blob:;worker-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-tdGFPQJJ' 'self' data: blob:;block-all-mixed-content;upgrade-insecure-requests;"
+        ],
+        "content-security-policy-report-only": [
+          "default-src 'self' blob:;script-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-tdGFPQJJ' 'self' blob:;style-src *.whatsapp.com *.whatsapp.net 'unsafe-inline' *.facebook.com 'self' data: blob:;connect-src *.whatsapp.com *.whatsapp.net wss://*.facebook.com:* *.fbcdn.net 'self' data: blob:;font-src *.whatsapp.com *.whatsapp.net *.facebook.com static.xx.fbcdn.net data:;img-src *.whatsapp.com *.whatsapp.net *.facebook.com *.fbcdn.net *.fbsbx.com static.xx.fbcdn.net *.cdninstagram.com 'self' data: blob:;media-src *.fbcdn.net 'self' data: blob:;child-src 'self' data: blob:;frame-src *.facebook.com *.whatsapp.com 'self' data: blob:;manifest-src 'self' data: blob:;object-src 'self' data: blob:;worker-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-tdGFPQJJ' 'self' data: blob:;block-all-mixed-content;upgrade-insecure-requests;report-uri https://www.facebook.com/csp/reporting/?m=tr_exp&minimize=0;"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000; preload; includeSubDomains"
+        ]
+      },
+      "body_bytes": 227312,
+      "truncated": false,
+      "body_sha256": "b36b1c036cccf15304a05d6a04c5aa12de782628a43adff00b1f7cf1410d856a",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Terms of Service - Revisions - July 7, 2012",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "65",
+      "domain": "whatsapp.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.whatsapp.com/communities/learning/howtoengageandgrow",
+      "depth": 3,
+      "parent_url": "https://www.whatsapp.com/communities/learning",
+      "attempt": 43,
+      "timestamp": "2026-11-12T21:11:54.795731+00:00",
+      "final_url": "https://www.whatsapp.com/communities/learning/howtoengageandgrow",
+      "status": 200,
+      "content_type": "text/html; charset=\"utf-8\"",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'self' blob:;script-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-7YhScj6o' 'self' blob:;style-src *.whatsapp.com *.whatsapp.net 'unsafe-inline' *.facebook.com 'self' data: blob:;connect-src *.whatsapp.com *.whatsapp.net wss://*.facebook.com:* *.fbcdn.net 'self' data: blob:;font-src *.whatsapp.com *.whatsapp.net *.facebook.com static.xx.fbcdn.net data:;img-src *.whatsapp.com *.whatsapp.net *.facebook.com *.fbcdn.net *.fbsbx.com static.xx.fbcdn.net *.cdninstagram.com 'self' data: blob:;media-src *.fbcdn.net 'self' data: blob:;child-src 'self' data: blob:;frame-src *.facebook.com *.whatsapp.com 'self' data: blob:;manifest-src 'self' data: blob:;object-src 'self' data: blob:;worker-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-7YhScj6o' 'self' data: blob:;block-all-mixed-content;upgrade-insecure-requests;"
+        ],
+        "content-security-policy-report-only": [
+          "default-src 'self' blob:;script-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-7YhScj6o' 'self' blob:;style-src *.whatsapp.com *.whatsapp.net 'unsafe-inline' *.facebook.com 'self' data: blob:;connect-src *.whatsapp.com *.whatsapp.net wss://*.facebook.com:* *.fbcdn.net 'self' data: blob:;font-src *.whatsapp.com *.whatsapp.net *.facebook.com static.xx.fbcdn.net data:;img-src *.whatsapp.com *.whatsapp.net *.facebook.com *.fbcdn.net *.fbsbx.com static.xx.fbcdn.net *.cdninstagram.com 'self' data: blob:;media-src *.fbcdn.net 'self' data: blob:;child-src 'self' data: blob:;frame-src *.facebook.com *.whatsapp.com 'self' data: blob:;manifest-src 'self' data: blob:;object-src 'self' data: blob:;worker-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-7YhScj6o' 'self' data: blob:;block-all-mixed-content;upgrade-insecure-requests;report-uri https://www.facebook.com/csp/reporting/?m=tr_exp&minimize=0;"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000; preload; includeSubDomains"
+        ]
+      },
+      "body_bytes": 239249,
+      "truncated": false,
+      "body_sha256": "01e9a6b696db7bd2f72b44658550ee421b5edc47980ccd57b5f68f21481af3c8",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "How to Engage and Grow a Community | WhatsApp",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "65",
+      "domain": "whatsapp.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.whatsapp.com/download/ipad",
+      "depth": 2,
+      "parent_url": "https://www.whatsapp.com/sitemap",
+      "attempt": 44,
+      "timestamp": "2026-11-12T21:11:55.407888+00:00",
+      "final_url": "https://www.whatsapp.com/download/ipad",
+      "status": 200,
+      "content_type": "text/html; charset=\"utf-8\"",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'self' blob:;script-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-0v8kKjq2' 'self' blob:;style-src *.whatsapp.com *.whatsapp.net 'unsafe-inline' *.facebook.com 'self' data: blob:;connect-src *.whatsapp.com *.whatsapp.net wss://*.facebook.com:* *.fbcdn.net 'self' data: blob:;font-src *.whatsapp.com *.whatsapp.net *.facebook.com static.xx.fbcdn.net data:;img-src *.whatsapp.com *.whatsapp.net *.facebook.com *.fbcdn.net *.fbsbx.com static.xx.fbcdn.net *.cdninstagram.com 'self' data: blob:;media-src *.fbcdn.net 'self' data: blob:;child-src 'self' data: blob:;frame-src *.facebook.com *.whatsapp.com 'self' data: blob:;manifest-src 'self' data: blob:;object-src 'self' data: blob:;worker-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-0v8kKjq2' 'self' data: blob:;block-all-mixed-content;upgrade-insecure-requests;"
+        ],
+        "content-security-policy-report-only": [
+          "default-src 'self' blob:;script-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-0v8kKjq2' 'self' blob:;style-src *.whatsapp.com *.whatsapp.net 'unsafe-inline' *.facebook.com 'self' data: blob:;connect-src *.whatsapp.com *.whatsapp.net wss://*.facebook.com:* *.fbcdn.net 'self' data: blob:;font-src *.whatsapp.com *.whatsapp.net *.facebook.com static.xx.fbcdn.net data:;img-src *.whatsapp.com *.whatsapp.net *.facebook.com *.fbcdn.net *.fbsbx.com static.xx.fbcdn.net *.cdninstagram.com 'self' data: blob:;media-src *.fbcdn.net 'self' data: blob:;child-src 'self' data: blob:;frame-src *.facebook.com *.whatsapp.com 'self' data: blob:;manifest-src 'self' data: blob:;object-src 'self' data: blob:;worker-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-0v8kKjq2' 'self' data: blob:;block-all-mixed-content;upgrade-insecure-requests;report-uri https://www.facebook.com/csp/reporting/?m=tr_exp&minimize=0;"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000; preload; includeSubDomains"
+        ]
+      },
+      "body_bytes": 256066,
+      "truncated": false,
+      "body_sha256": "2377b6dab3a2727b0e1b1f2f633b518cc2e3ba39e62decf6647f416707f5374f",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Download WhatsApp for iPad",
+      "duplicate_final": false,
+      "eligible": true
+    }
+  ],
+  "robots": [
+    {
+      "url": "https://whatsapp.com/robots.txt",
+      "timestamp": "2026-11-12T21:11:29.841669+00:00",
+      "status": 200,
+      "decision": "parsed",
+      "final_url": "https://www.whatsapp.com/robots.txt",
+      "redirect_chain": [
+        {
+          "url": "https://whatsapp.com/robots.txt",
+          "status": 302,
+          "location": "https://www.whatsapp.com/robots.txt"
+        }
+      ],
+      "body_sha256": "6d6febc5de572ecaca22e0169030eb4e4cd41ecaf12af30d64f2cdd9c000d0cb",
+      "body": "# Notice: Collection of data on Facebook through automated means is\n# prohibited unless you have express written permission from Facebook\n# and may only be conducted for the limited purpose contained in said\n# permission.\n# See: http://www.facebook.com/apps/site_scraping_tos_terms.php\n\nUser-agent: __usage_ai-training\nDisallow: /\n\nUser-agent: Amazonbot\nDisallow: /\n\nUser-agent: Applebot-Extended\nDisallow: /\n\nUser-agent: Brightbot\nDisallow: /\n\nUser-agent: ClaudeBot\nDisallow: /\n\nUser-agent: Google-Extended\nDisallow: /\n\nUser-agent: GPTBot\nDisallow: /\n\nUser-agent: PerplexityBot\nDisallow: /\n\nUser-agent: PetalBot\nDisallow: /\n\nUser-agent: Scrapy\nDisallow: /\n\nUser-agent: uptimerobot\nDisallow: /\n\nUser-agent: viberbot\nDisallow: /\n\nUser-agent: YaK\nDisallow: /\n\nUser-agent: Yandex\nDisallow: /\n\nUser-agent: Yeti\nDisallow: /\n\nUser-agent: facebookexternalhit\nAllow: *\n\nUser-agent: meta-externalads\nAllow: *\n\nUser-agent: *\nDisallow: /*cursor=\nDisallow: /*fb_comment_id=\nDisallow: /ajax/\nDisallow: /tealium/\nDisallow: /intern/\nDisallow: /internal/\nDisallow: /login/\nDisallow: /oidc/callback/\nDisallow: /*.php\nDisallow: /android/third_party\nDisallow: /settings\n\nSitemap: https://www.whatsapp.com/sitemap/www_whatsapp_com_sitemap.xml.gz"
+    },
+    {
+      "url": "https://www.whatsapp.com/robots.txt",
+      "timestamp": "2026-11-12T21:11:30.342026+00:00",
+      "status": 200,
+      "decision": "parsed",
+      "final_url": "https://www.whatsapp.com/robots.txt",
+      "redirect_chain": [],
+      "body_sha256": "6d6febc5de572ecaca22e0169030eb4e4cd41ecaf12af30d64f2cdd9c000d0cb",
+      "body": "# Notice: Collection of data on Facebook through automated means is\n# prohibited unless you have express written permission from Facebook\n# and may only be conducted for the limited purpose contained in said\n# permission.\n# See: http://www.facebook.com/apps/site_scraping_tos_terms.php\n\nUser-agent: __usage_ai-training\nDisallow: /\n\nUser-agent: Amazonbot\nDisallow: /\n\nUser-agent: Applebot-Extended\nDisallow: /\n\nUser-agent: Brightbot\nDisallow: /\n\nUser-agent: ClaudeBot\nDisallow: /\n\nUser-agent: Google-Extended\nDisallow: /\n\nUser-agent: GPTBot\nDisallow: /\n\nUser-agent: PerplexityBot\nDisallow: /\n\nUser-agent: PetalBot\nDisallow: /\n\nUser-agent: Scrapy\nDisallow: /\n\nUser-agent: uptimerobot\nDisallow: /\n\nUser-agent: viberbot\nDisallow: /\n\nUser-agent: YaK\nDisallow: /\n\nUser-agent: Yandex\nDisallow: /\n\nUser-agent: Yeti\nDisallow: /\n\nUser-agent: facebookexternalhit\nAllow: *\n\nUser-agent: meta-externalads\nAllow: *\n\nUser-agent: *\nDisallow: /*cursor=\nDisallow: /*fb_comment_id=\nDisallow: /ajax/\nDisallow: /tealium/\nDisallow: /intern/\nDisallow: /internal/\nDisallow: /login/\nDisallow: /oidc/callback/\nDisallow: /*.php\nDisallow: /android/third_party\nDisallow: /settings\n\nSitemap: https://www.whatsapp.com/sitemap/www_whatsapp_com_sitemap.xml.gz"
+    }
+  ],
+  "eligible_pages": 40,
+  "canonical_origin": [
+    "https",
+    "www.whatsapp.com",
+    443
+  ],
+  "stop_reason": "page_budget",
+  "elapsed_seconds": 26.27
+}

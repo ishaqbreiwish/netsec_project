@@ -1,0 +1,22 @@
+{
+  "started_at": "2026-11-12T21:11:28.434843+00:00",
+  "user_agent": "HeaderConsistencyResearch/1.0 (public-page academic measurement; no login)",
+  "sample_sha256": "5f11f1335b84b04f0058d540e357b33f36dd0780f2cef90d175764d4c12284ff",
+  "config": {
+    "sample": "data/sample.csv",
+    "output": "data/run",
+    "pages": 40,
+    "max_depth": 5,
+    "max_attempts": 80,
+    "workers": 12,
+    "delay": 0.5,
+    "timeout": 10,
+    "site_seconds": 240,
+    "max_bytes": 2000000
+  },
+  "last_completed_at": "2026-11-12T21:16:28.478648+00:00",
+  "collector_source_snapshot": "data/run/collector_source.py",
+  "collector_source_snapshot_sha256": "88e73d84fa544d8f4e8368b6f31c3c15bc323f121e19a4371c6f13a8890aff2f",
+  "python_version": "3.9.6 (default, May 22 2026, 11:13:45) \n[Clang 21.0.0 (clang-2100.1.1.101)]",
+  "post_collection_review": "See PROCESS.md and DATA_DICTIONARY.md: raw eligibility is preserved; exports apply supplemental robots and final-path exclusions."
+}

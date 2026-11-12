@@ -1,0 +1,55 @@
+{
+  "site": {
+    "rank": "8823",
+    "domain": "dayunlinks.cn",
+    "stratum": "1001-10000"
+  },
+  "rows": [
+    {
+      "rank": "8823",
+      "domain": "dayunlinks.cn",
+      "stratum": "1001-10000",
+      "requested_url": "https://dayunlinks.cn/",
+      "depth": 0,
+      "parent_url": "",
+      "attempt": 1,
+      "timestamp": "2026-11-12T21:07:58.616910+00:00",
+      "final_url": "https://dayunlinks.cn/",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 1366,
+      "truncated": false,
+      "body_sha256": "b366acfacab42406cce4430d108684c0c344bbaa46c134ce37fba8f1df55c6ff",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "\u6df1\u5733\u5e02\u5343\u9e1f\u7965\u4e91\u6280\u672f\u6709\u9650\u516c\u53f8",
+      "duplicate_final": false,
+      "eligible": true
+    }
+  ],
+  "robots": [
+    {
+      "url": "https://dayunlinks.cn/robots.txt",
+      "timestamp": "2026-11-12T21:07:58.616891+00:00",
+      "status": 404,
+      "decision": "not_found",
+      "body_sha256": "7f2dc408197f10b0fa70c4331f26e486b4f464edc6b1cb419aec0db8ad312d8e",
+      "body": "<html>\r\n<head><title>404 Not Found</title></head>\r\n<body>\r\n<center><h1>404 Not Found</h1></center>\r\n<hr><center>nginx/1.23.3</center>\r\n</body>\r\n</html>\r\n"
+    }
+  ],
+  "eligible_pages": 1,
+  "canonical_origin": [
+    "https",
+    "dayunlinks.cn",
+    443
+  ],
+  "stop_reason": "frontier_exhausted",
+  "elapsed_seconds": 3.98
+}

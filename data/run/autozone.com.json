@@ -1,0 +1,88 @@
+{
+  "site": {
+    "rank": "8493",
+    "domain": "autozone.com",
+    "stratum": "1001-10000"
+  },
+  "rows": [
+    {
+      "rank": "8493",
+      "domain": "autozone.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://autozone.com/",
+      "depth": 0,
+      "parent_url": "",
+      "attempt": 1,
+      "timestamp": "2026-11-12T21:14:34.120480+00:00",
+      "final_url": "https://www.autozone.com/",
+      "status": 403,
+      "content_type": "text/html;charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 850,
+      "truncated": false,
+      "body_sha256": "20a218bbf5b963ce6d0dd903308364a183d14916480f6cec766e5e19dba42e1c",
+      "redirect_chain": [
+        {
+          "url": "https://autozone.com/",
+          "status": 301,
+          "location": "https://www.autozone.com/",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    }
+  ],
+  "robots": [
+    {
+      "url": "https://autozone.com/robots.txt",
+      "timestamp": "2026-11-12T21:14:32.095524+00:00",
+      "status": 200,
+      "decision": "parsed",
+      "final_url": "https://www.autozone.com/robots.txt",
+      "redirect_chain": [
+        {
+          "url": "https://autozone.com/robots.txt",
+          "status": 301,
+          "location": "https://www.autozone.com/robots.txt"
+        }
+      ],
+      "body_sha256": "1fed1a609409304efce989d4da5f56bbd002a5eadace3a77b128654dc38c0746",
+      "body": "# RESEARCH TOOLS\nUser-agent: BacklinkCrawler\nUser-agent: GSiteCrawler\nUser-agent: ip-web-crawler.com\nUser-agent: ips-agent\nUser-agent: Linkdex\nUser-agent: linkdex.com\nUser-agent: linkdex.com/v2.0\nUser-agent: linkdex.com/v2.1\nUser-agent: MJ12bot\nUser-agent: SpyFu\nUser-agent: Xenu\nUser-agent: Xenu Link Sleuth\nUser-agent: dotbot\nDisallow: /\n\n# Allow Microsoft crawlers\nUser-agent: bingbot\nAllow: /\n\nUser-agent: adidxbot\nAllow: /\n\nUser-agent: MicrosoftPreview\nAllow: /\n\n# Inktomi / Yahoo\nUser-agent: Slurp\nDisallow: /\n\n# INTERNATIONAL\n\n# United Kingdom\nUser-agent: COMODOSpider/Nutch-1.2\nUser-Agent: MJ12bot\nUser-Agent: MJ12bot/v1.4.3\nUser-agent: plukkie\nDisallow: /\n\n# Germany\nUser-agent: Acoon\nUser-agent: careerbot\nUser-agent: findlinks/2.6\nUser-agent: OpenWebIndex/Nutch-1.6\nUser-agent: OpenWebIndex\nUser-agent: SistrixCrawler\nUser-agent: Sistrix\nUser-agent: SISTRIX Crawler\nUser-agent: SISTRIX\nDisallow: /\n\n# Sweden\nUser-agent: psbot\nDisallow: /\n\n# Netherlands\nUser-agent: KaloogaBot\nDisallow: /\n\n# Czech\nUser-agent: SeznamBot\nUser-agent: SeznamBot/1.0\nUser-agent: SeznamBot/1.1\nUser-agent: SeznamBot/3.0\nDisallow: /\n\n# China\nUser-agent: Baiduspider\nUser-agent: Baiduspider-video\nUser-agent: Baiduspider-image\nUser-agent: Baiduspider+\nUser-agent: Baiduspider+(+http://www.baidu.com/search/spider.htm)\nUser-agent: Baiduspider/2.0;+http://www.baidu.com/search/spider.html\nUser-agent: Baiduspider/2.0\nUser-agent: +Baiduspider\nUser-agent: +Baiduspider/2.0\nUser-agent: +Baiduspider/2.0;++http://www.baidu.com/search/spider.html\nUser-agent: Mozilla/5.0(compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)\nUser-agent: EasouSpider\nUser-agent: JikeSpider\nUser-agent: Sosospider+\nUser-agent: Sosospider\nUser-agent: Sosospider/2.0\nUser-agent: 360Spider\nUser-agent: YisouSpider\nUser-agent: YoudaoBot/1.0\nUser-agent: YoudaoBot/1.0\nUser-agent: sogou spider\nDisallow: /\n\n# France\nUser-agent: Exabot/3.0\nUser-agent: Exalead\nUser-agent: ExaLead Crawler\nDisallow: /\n\n# Vietnam\nUser-agent: Wada.vn\nUser-agent: Wada.vn Vietnamese Search\nUser-agent: Wada.vn Vietnamese Search/2.1\nDisallow: /\n\n\n# South Korea\nUser-agent: NaverBot\nUser-agent: Yeti\nDisallow: /\n\n# Russia\nUser-agent: Yandex\nUser-agent: Yandex/1.01.001\nUser-agent: YandexBot/3.0-MirrorDetector\nUser-agent: YandexImages/3.0\nUser-agent: YandexSomething/1.\nUser-agent: Yandex.com\nUser-agent: YandexBot/3.0\nUser-agent: aiHitBot\nUser-agent: aiHitBot/1.0\nUser-agent: aiHitBot/1.1\nUser-agent: Mail.RU_Bot/2.0\nUser-agent: Mail.RU\nUser-agent: Mail.Ru\nUser-agent: Mail.RU_Bot/2.0; +http://go.mail.ru/help/robots\nDisallow: /\n\n# Japan\nUser-agent: moget\nUser-agent: ichiro\nUser-agent: Ichiro\nUser-agent: Ichiro 3.0\nUser-agent: Arachmo\nUser-agent: Zao\nDisallow: /\n\n# ALL BOTS\nUser-agent: *\nDisallow: /atg/\nDisallow: /dyn/\nDisallow: /cart\nDisallow: /rest/\nDisallow: /checkout\nDisallow: /error/\nDisallow: /ymme/\nDisallow: /orderConfirmation\nDisallow: */user/\nDisallow: *recsPerPage*\nDisallow: */bn/\nDisallow: */bn$\nDisallow: */bn?\nDisallow: */under-2/\nDisallow: */no-rating/\nDisallow: */3-and-up/\nDisallow: */4-and-up/\nDisallow: */universal-products/b/\nDisallow: */vehiclespecific-products/b/\nDisallow: *?vehicleId=\nDisallow: *&vehicleId=\nDisallow: *?filters=\nDisallow: *&filters=\nDisallow: *?filterByKeyWord=\nDisallow: *&filterByKeyWord=\nDisallow: *?facet=\nDisallow: *&facet=\nDisallow: *?rrec=true\nDisallow: *&rrec=true\nDisallow: */_/N-\nDisallow: */US_CENSUS_NAME\nDisallow: *{US_CENSUS_NAME\nDisallow: /myzone/profile/login.jsp?redirectURL=\nDisallow: /signin*\nAllow: /signin$\nDisallow: /TealeafTarget\nDisallow: /errorPage\nDisallow: /ecomm/b2c/order/v2/availability\nDisallow: /ecomm/b2c/v1/store/preferredStore\nDisallow: /ecomm/b2c/v2/page/header\nDisallow: /ecomm/b2c/*/currentUser/\nDisallow: /diy/wp-admin/\nDisallow: */b/brand/*?facet=\nDisallow: /locations/es/\nDisallow: /locations/us/\nDisallow: *?bvstate=pg\nDisallow: *?searchText=\nDisallow: */diy/?s=\n\nSitemap: https://www.autozone.com/sitemap_index.xml"
+    },
+    {
+      "url": "https://www.autozone.com/robots.txt",
+      "timestamp": "2026-11-12T21:14:34.120335+00:00",
+      "status": 200,
+      "decision": "parsed",
+      "final_url": "https://www.autozone.com/robots.txt",
+      "redirect_chain": [],
+      "body_sha256": "1fed1a609409304efce989d4da5f56bbd002a5eadace3a77b128654dc38c0746",
+      "body": "# RESEARCH TOOLS\nUser-agent: BacklinkCrawler\nUser-agent: GSiteCrawler\nUser-agent: ip-web-crawler.com\nUser-agent: ips-agent\nUser-agent: Linkdex\nUser-agent: linkdex.com\nUser-agent: linkdex.com/v2.0\nUser-agent: linkdex.com/v2.1\nUser-agent: MJ12bot\nUser-agent: SpyFu\nUser-agent: Xenu\nUser-agent: Xenu Link Sleuth\nUser-agent: dotbot\nDisallow: /\n\n# Allow Microsoft crawlers\nUser-agent: bingbot\nAllow: /\n\nUser-agent: adidxbot\nAllow: /\n\nUser-agent: MicrosoftPreview\nAllow: /\n\n# Inktomi / Yahoo\nUser-agent: Slurp\nDisallow: /\n\n# INTERNATIONAL\n\n# United Kingdom\nUser-agent: COMODOSpider/Nutch-1.2\nUser-Agent: MJ12bot\nUser-Agent: MJ12bot/v1.4.3\nUser-agent: plukkie\nDisallow: /\n\n# Germany\nUser-agent: Acoon\nUser-agent: careerbot\nUser-agent: findlinks/2.6\nUser-agent: OpenWebIndex/Nutch-1.6\nUser-agent: OpenWebIndex\nUser-agent: SistrixCrawler\nUser-agent: Sistrix\nUser-agent: SISTRIX Crawler\nUser-agent: SISTRIX\nDisallow: /\n\n# Sweden\nUser-agent: psbot\nDisallow: /\n\n# Netherlands\nUser-agent: KaloogaBot\nDisallow: /\n\n# Czech\nUser-agent: SeznamBot\nUser-agent: SeznamBot/1.0\nUser-agent: SeznamBot/1.1\nUser-agent: SeznamBot/3.0\nDisallow: /\n\n# China\nUser-agent: Baiduspider\nUser-agent: Baiduspider-video\nUser-agent: Baiduspider-image\nUser-agent: Baiduspider+\nUser-agent: Baiduspider+(+http://www.baidu.com/search/spider.htm)\nUser-agent: Baiduspider/2.0;+http://www.baidu.com/search/spider.html\nUser-agent: Baiduspider/2.0\nUser-agent: +Baiduspider\nUser-agent: +Baiduspider/2.0\nUser-agent: +Baiduspider/2.0;++http://www.baidu.com/search/spider.html\nUser-agent: Mozilla/5.0(compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)\nUser-agent: EasouSpider\nUser-agent: JikeSpider\nUser-agent: Sosospider+\nUser-agent: Sosospider\nUser-agent: Sosospider/2.0\nUser-agent: 360Spider\nUser-agent: YisouSpider\nUser-agent: YoudaoBot/1.0\nUser-agent: YoudaoBot/1.0\nUser-agent: sogou spider\nDisallow: /\n\n# France\nUser-agent: Exabot/3.0\nUser-agent: Exalead\nUser-agent: ExaLead Crawler\nDisallow: /\n\n# Vietnam\nUser-agent: Wada.vn\nUser-agent: Wada.vn Vietnamese Search\nUser-agent: Wada.vn Vietnamese Search/2.1\nDisallow: /\n\n\n# South Korea\nUser-agent: NaverBot\nUser-agent: Yeti\nDisallow: /\n\n# Russia\nUser-agent: Yandex\nUser-agent: Yandex/1.01.001\nUser-agent: YandexBot/3.0-MirrorDetector\nUser-agent: YandexImages/3.0\nUser-agent: YandexSomething/1.\nUser-agent: Yandex.com\nUser-agent: YandexBot/3.0\nUser-agent: aiHitBot\nUser-agent: aiHitBot/1.0\nUser-agent: aiHitBot/1.1\nUser-agent: Mail.RU_Bot/2.0\nUser-agent: Mail.RU\nUser-agent: Mail.Ru\nUser-agent: Mail.RU_Bot/2.0; +http://go.mail.ru/help/robots\nDisallow: /\n\n# Japan\nUser-agent: moget\nUser-agent: ichiro\nUser-agent: Ichiro\nUser-agent: Ichiro 3.0\nUser-agent: Arachmo\nUser-agent: Zao\nDisallow: /\n\n# ALL BOTS\nUser-agent: *\nDisallow: /atg/\nDisallow: /dyn/\nDisallow: /cart\nDisallow: /rest/\nDisallow: /checkout\nDisallow: /error/\nDisallow: /ymme/\nDisallow: /orderConfirmation\nDisallow: */user/\nDisallow: *recsPerPage*\nDisallow: */bn/\nDisallow: */bn$\nDisallow: */bn?\nDisallow: */under-2/\nDisallow: */no-rating/\nDisallow: */3-and-up/\nDisallow: */4-and-up/\nDisallow: */universal-products/b/\nDisallow: */vehiclespecific-products/b/\nDisallow: *?vehicleId=\nDisallow: *&vehicleId=\nDisallow: *?filters=\nDisallow: *&filters=\nDisallow: *?filterByKeyWord=\nDisallow: *&filterByKeyWord=\nDisallow: *?facet=\nDisallow: *&facet=\nDisallow: *?rrec=true\nDisallow: *&rrec=true\nDisallow: */_/N-\nDisallow: */US_CENSUS_NAME\nDisallow: *{US_CENSUS_NAME\nDisallow: /myzone/profile/login.jsp?redirectURL=\nDisallow: /signin*\nAllow: /signin$\nDisallow: /TealeafTarget\nDisallow: /errorPage\nDisallow: /ecomm/b2c/order/v2/availability\nDisallow: /ecomm/b2c/v1/store/preferredStore\nDisallow: /ecomm/b2c/v2/page/header\nDisallow: /ecomm/b2c/*/currentUser/\nDisallow: /diy/wp-admin/\nDisallow: */b/brand/*?facet=\nDisallow: /locations/es/\nDisallow: /locations/us/\nDisallow: *?bvstate=pg\nDisallow: *?searchText=\nDisallow: */diy/?s=\n\nSitemap: https://www.autozone.com/sitemap_index.xml"
+    }
+  ],
+  "eligible_pages": 0,
+  "canonical_origin": [
+    "https",
+    "www.autozone.com",
+    443
+  ],
+  "stop_reason": "frontier_exhausted",
+  "elapsed_seconds": 5.15
+}

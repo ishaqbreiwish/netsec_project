@@ -1,0 +1,1258 @@
+{
+  "site": {
+    "rank": "6545",
+    "domain": "infoworld.com",
+    "stratum": "1001-10000"
+  },
+  "rows": [
+    {
+      "rank": "6545",
+      "domain": "infoworld.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://infoworld.com/",
+      "depth": 0,
+      "parent_url": "",
+      "attempt": 1,
+      "timestamp": "2026-11-12T21:13:57.992183+00:00",
+      "final_url": "https://www.infoworld.com/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 312046,
+      "truncated": false,
+      "body_sha256": "3a1b6b7c47d7e62eed07fc784860373e58a4a57d3322e6fc1e0b4884fadc795d",
+      "redirect_chain": [
+        {
+          "url": "https://infoworld.com/",
+          "status": 301,
+          "location": "https://www.infoworld.com",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "InfoWorld",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "6545",
+      "domain": "infoworld.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.infoworld.com/news/",
+      "depth": 1,
+      "parent_url": "https://www.infoworld.com/",
+      "attempt": 2,
+      "timestamp": "2026-11-12T21:13:59.368983+00:00",
+      "final_url": "https://www.infoworld.com/news/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 237323,
+      "truncated": false,
+      "body_sha256": "8e412534ea01806fb938c17edb00f2118497322ba915ef5e9c2f9b23c6904481",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "News | InfoWorld",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "6545",
+      "domain": "infoworld.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.infoworld.com/article/4245065/meta-acquires-conductor-as-ai-coding-shifts-toward-multi-agent-development.html",
+      "depth": 2,
+      "parent_url": "https://www.infoworld.com/news/",
+      "attempt": 3,
+      "timestamp": "2026-11-12T21:13:59.601681+00:00",
+      "final_url": "https://www.infoworld.com/article/4245065/meta-acquires-conductor-as-ai-coding-shifts-toward-multi-agent-development.html",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 230909,
+      "truncated": false,
+      "body_sha256": "b9130f56016391c1a291daa565c9d85ebfd5e76ad8af3ee4df27d94545de0830",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Meta acquires Conductor as AI coding shifts toward multi-agent development | InfoWorld",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "6545",
+      "domain": "infoworld.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.infoworld.com/profile/prasanth-aby-thomas/",
+      "depth": 3,
+      "parent_url": "https://www.infoworld.com/article/4245065/meta-acquires-conductor-as-ai-coding-shifts-toward-multi-agent-development.html",
+      "attempt": 4,
+      "timestamp": "2026-11-12T21:14:00.189628+00:00",
+      "final_url": "https://www.infoworld.com/profile/prasanth-aby-thomas/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 192599,
+      "truncated": false,
+      "body_sha256": "68304b8df46b0a549ee755577e96ed295b21ef779dfd8ccba51eb8e9f84c1847",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Prasanth Aby Thomas | InfoWorld",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "6545",
+      "domain": "infoworld.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.infoworld.com/enterprise-buyers-guide/",
+      "depth": 1,
+      "parent_url": "https://www.infoworld.com/",
+      "attempt": 5,
+      "timestamp": "2026-11-12T21:14:01.163763+00:00",
+      "final_url": "https://www.infoworld.com/enterprise-buyers-guide/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 236741,
+      "truncated": false,
+      "body_sha256": "a5f05d082578e093a05212bc6a6f96fee6bc2dbe3d2b40f4755ed0067f9963ee",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Enterprise Buyer\u2019s Guides | InfoWorld",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "6545",
+      "domain": "infoworld.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.infoworld.com/industry/",
+      "depth": 2,
+      "parent_url": "https://www.infoworld.com/enterprise-buyers-guide/",
+      "attempt": 6,
+      "timestamp": "2026-11-12T21:14:01.801294+00:00",
+      "final_url": "https://www.infoworld.com/industry/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 204150,
+      "truncated": false,
+      "body_sha256": "e320561a2859be1ecdc98cfabdbf6b42b84288269fff40b80e7dabf1ac103dd9",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Industry \u2013 InfoWorld",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "6545",
+      "domain": "infoworld.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.infoworld.com/markets/",
+      "depth": 3,
+      "parent_url": "https://www.infoworld.com/industry/",
+      "attempt": 7,
+      "timestamp": "2026-11-12T21:14:03.761090+00:00",
+      "final_url": "https://www.infoworld.com/markets/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 204880,
+      "truncated": false,
+      "body_sha256": "b3d7954e04a4cdfa4f48d1bc3779be9feb0fd7df6de495242e0179e208442e7f",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Markets \u2013 InfoWorld",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "6545",
+      "domain": "infoworld.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.infoworld.com/business/",
+      "depth": 4,
+      "parent_url": "https://www.infoworld.com/markets/",
+      "attempt": 8,
+      "timestamp": "2026-11-12T21:14:04.365729+00:00",
+      "final_url": "https://www.infoworld.com/business/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 207457,
+      "truncated": false,
+      "body_sha256": "0af35e1cb010cfd88830ffa42ac87d70c135b5ff3137868c4769ebb42d26a3cd",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Business \u2013 InfoWorld",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "6545",
+      "domain": "infoworld.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.infoworld.com/small-and-medium-business/",
+      "depth": 5,
+      "parent_url": "https://www.infoworld.com/business/",
+      "attempt": 9,
+      "timestamp": "2026-11-12T21:14:05.641878+00:00",
+      "final_url": "https://www.infoworld.com/small-and-medium-business/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 207535,
+      "truncated": false,
+      "body_sha256": "aa53ea0172e2ccc4d56595bdf60b3bea87df92d442d431f2505c0a4e8290fb3a",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Small and Medium Business \u2013 InfoWorld",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "6545",
+      "domain": "infoworld.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.infoworld.com/healthcare-industry/",
+      "depth": 4,
+      "parent_url": "https://www.infoworld.com/markets/",
+      "attempt": 10,
+      "timestamp": "2026-11-12T21:14:06.588250+00:00",
+      "final_url": "https://www.infoworld.com/healthcare-industry/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 186613,
+      "truncated": false,
+      "body_sha256": "95bf547d64ded99ae69658b76f6227c7523710bbd3bb94abb11f3af6239a1a71",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Healthcare Industry \u2013 InfoWorld",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "6545",
+      "domain": "infoworld.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.infoworld.com/events/",
+      "depth": 1,
+      "parent_url": "https://www.infoworld.com/",
+      "attempt": 11,
+      "timestamp": "2026-11-12T21:14:07.134365+00:00",
+      "final_url": "https://www.infoworld.com/events/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 195864,
+      "truncated": false,
+      "body_sha256": "94b7942f0bb53aa9ab482923ae635d207b217bffd58fab37a2ba7a2be597d9d8",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Events | InfoWorld",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "6545",
+      "domain": "infoworld.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.infoworld.com/media-and-entertainment-industry/",
+      "depth": 4,
+      "parent_url": "https://www.infoworld.com/markets/",
+      "attempt": 12,
+      "timestamp": "2026-11-12T21:14:07.963304+00:00",
+      "final_url": "https://www.infoworld.com/media-and-entertainment-industry/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 187096,
+      "truncated": false,
+      "body_sha256": "36d8fdf5f6eaab0b55ac07981899cc60c8b9e4ead13caff7bc9c75dc5d9bba85",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Media and Entertainment Industry \u2013 InfoWorld",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "6545",
+      "domain": "infoworld.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.infoworld.com/search/",
+      "depth": 1,
+      "parent_url": "https://www.infoworld.com/",
+      "attempt": 13,
+      "timestamp": "2026-11-12T21:14:08.571032+00:00",
+      "final_url": "https://www.infoworld.com/search/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 172136,
+      "truncated": false,
+      "body_sha256": "1a386c79cb15e2687236d2c311a5442deb929da71f7af6d7793b35f27585a6c6",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Search | InfoWorld",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "6545",
+      "domain": "infoworld.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.infoworld.com/analytics/",
+      "depth": 1,
+      "parent_url": "https://www.infoworld.com/",
+      "attempt": 14,
+      "timestamp": "2026-11-12T21:14:09.031533+00:00",
+      "final_url": "https://www.infoworld.com/analytics/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 258270,
+      "truncated": false,
+      "body_sha256": "083da37e9bf7edf613854cf155a599b61a3d870058fc25d3d44a81c08f01d946",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Analytics | InfoWorld",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "6545",
+      "domain": "infoworld.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.infoworld.com/big-data/",
+      "depth": 2,
+      "parent_url": "https://www.infoworld.com/analytics/",
+      "attempt": 15,
+      "timestamp": "2026-11-12T21:14:09.866588+00:00",
+      "final_url": "https://www.infoworld.com/big-data/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 204030,
+      "truncated": false,
+      "body_sha256": "df7f166913360dd4b4e3b339b0c9a3510cd212c87403383d97d5ac76575bb8df",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Big Data \u2013 InfoWorld",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "6545",
+      "domain": "infoworld.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.infoworld.com/business-intelligence/",
+      "depth": 2,
+      "parent_url": "https://www.infoworld.com/analytics/",
+      "attempt": 16,
+      "timestamp": "2026-11-12T21:14:10.834863+00:00",
+      "final_url": "https://www.infoworld.com/business-intelligence/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 204591,
+      "truncated": false,
+      "body_sha256": "c4f31f078d214e894dd3bb872dd5fa560b45fb517be47b84f053bd941302b7c0",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Business Intelligence \u2013 InfoWorld",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "6545",
+      "domain": "infoworld.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.infoworld.com/data-engineering/",
+      "depth": 2,
+      "parent_url": "https://www.infoworld.com/analytics/",
+      "attempt": 17,
+      "timestamp": "2026-11-12T21:14:11.873131+00:00",
+      "final_url": "https://www.infoworld.com/data-engineering/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 199182,
+      "truncated": false,
+      "body_sha256": "584e13ac5f3d77af0837afafe4a8133dcf877ef159a430ec8f82d7fd6d1b5660",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Data Engineering \u2013 InfoWorld",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "6545",
+      "domain": "infoworld.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.infoworld.com/artificial-intelligence/",
+      "depth": 1,
+      "parent_url": "https://www.infoworld.com/",
+      "attempt": 18,
+      "timestamp": "2026-11-12T21:14:12.794686+00:00",
+      "final_url": "https://www.infoworld.com/artificial-intelligence/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 257041,
+      "truncated": false,
+      "body_sha256": "1105e3bde731d7b0910213347c3be8cb9965ff733b4e24b46dba194cd8446764",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Artificial Intelligence | InfoWorld",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "6545",
+      "domain": "infoworld.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.infoworld.com/data-science/",
+      "depth": 2,
+      "parent_url": "https://www.infoworld.com/analytics/",
+      "attempt": 19,
+      "timestamp": "2026-11-12T21:14:12.887562+00:00",
+      "final_url": "https://www.infoworld.com/data-science/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 201809,
+      "truncated": false,
+      "body_sha256": "87747c4a3114eb7711ff760239af6047f9dcdfa5ae81d8f0b07356e683995042",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Data Science \u2013 InfoWorld",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "6545",
+      "domain": "infoworld.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.infoworld.com/careers/",
+      "depth": 1,
+      "parent_url": "https://www.infoworld.com/",
+      "attempt": 20,
+      "timestamp": "2026-11-12T21:14:13.990035+00:00",
+      "final_url": "https://www.infoworld.com/careers/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 286536,
+      "truncated": false,
+      "body_sha256": "b2e5c86965a11f5a4bc3e13c06f70bbe4f09e3f0a305e1afb78147c8803500c8",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Careers | InfoWorld",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "6545",
+      "domain": "infoworld.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.infoworld.com/data-visualization/",
+      "depth": 2,
+      "parent_url": "https://www.infoworld.com/analytics/",
+      "attempt": 21,
+      "timestamp": "2026-11-12T21:14:14.435075+00:00",
+      "final_url": "https://www.infoworld.com/data-visualization/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 212586,
+      "truncated": false,
+      "body_sha256": "4d5128be2e18939c6a4fb828a19eeaa0642f3d31f509249ea43d7bad3c69b86d",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Data Visualization \u2013 InfoWorld",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "6545",
+      "domain": "infoworld.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.infoworld.com/video/2157004/how-to-make-easier-ggplot2-with-ggcharts.html",
+      "depth": 3,
+      "parent_url": "https://www.infoworld.com/data-visualization/",
+      "attempt": 22,
+      "timestamp": "2026-11-12T21:14:15.374394+00:00",
+      "final_url": "https://www.infoworld.com/video/2157004/how-to-make-easier-ggplot2-with-ggcharts.html",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 196147,
+      "truncated": false,
+      "body_sha256": "f51a6bcf8c45e79f11fefb97cb82d606b08d5c35c4449155214a9a261d0e9126",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "How to make easier ggplot2 with ggcharts | InfoWorld",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "6545",
+      "domain": "infoworld.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.infoworld.com/cloud-computing/",
+      "depth": 1,
+      "parent_url": "https://www.infoworld.com/",
+      "attempt": 23,
+      "timestamp": "2026-11-12T21:14:16.836357+00:00",
+      "final_url": "https://www.infoworld.com/cloud-computing/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 259267,
+      "truncated": false,
+      "body_sha256": "0b1bbb5300a9b2c100fe83851e7accd73cf18172767e5a318905d4233c975717",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Cloud Computing | InfoWorld",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "6545",
+      "domain": "infoworld.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.infoworld.com/data-warehousing/",
+      "depth": 2,
+      "parent_url": "https://www.infoworld.com/analytics/",
+      "attempt": 24,
+      "timestamp": "2026-11-12T21:14:18.446430+00:00",
+      "final_url": "https://www.infoworld.com/data-warehousing/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 203392,
+      "truncated": false,
+      "body_sha256": "44f71a06669e9c54488849310b209569e9b605d35b310556d25db27e9c2d59af",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Data Warehousing \u2013 InfoWorld",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "6545",
+      "domain": "infoworld.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.infoworld.com/contributor-content/",
+      "depth": 1,
+      "parent_url": "https://www.infoworld.com/",
+      "attempt": 25,
+      "timestamp": "2026-11-12T21:14:18.969600+00:00",
+      "final_url": "https://www.infoworld.com/contributor-content/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 179745,
+      "truncated": false,
+      "body_sha256": "b61ea9d3afb681b57dbd1205a8595e39ec7e405779f69f3a43cc4ef19d40acd7",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Contributor Content | InfoWorld",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "6545",
+      "domain": "infoworld.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.infoworld.com/predictive-analytics/",
+      "depth": 2,
+      "parent_url": "https://www.infoworld.com/analytics/",
+      "attempt": 26,
+      "timestamp": "2026-11-12T21:14:20.139277+00:00",
+      "final_url": "https://www.infoworld.com/predictive-analytics/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 202970,
+      "truncated": false,
+      "body_sha256": "66c09b46b71500aee66a57883389de7747133566099aebde1f57e800b98c6599",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Predictive Analytics \u2013 InfoWorld",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "6545",
+      "domain": "infoworld.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.infoworld.com/data-management/",
+      "depth": 1,
+      "parent_url": "https://www.infoworld.com/",
+      "attempt": 27,
+      "timestamp": "2026-11-12T21:14:21.394813+00:00",
+      "final_url": "https://www.infoworld.com/data-management/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 287636,
+      "truncated": false,
+      "body_sha256": "54ba806b7b564f5637ff8549fdd83d81cb29123e0068d475c3e803e1b629b780",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Data Management | InfoWorld",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "6545",
+      "domain": "infoworld.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.infoworld.com/machine-learning/",
+      "depth": 2,
+      "parent_url": "https://www.infoworld.com/artificial-intelligence/",
+      "attempt": 28,
+      "timestamp": "2026-11-12T21:14:22.216383+00:00",
+      "final_url": "https://www.infoworld.com/machine-learning/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 205028,
+      "truncated": false,
+      "body_sha256": "8ff94543dd50b200806f6b8249dab81914c9041ca7c2bc4938433623766c6c12",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Machine Learning \u2013 InfoWorld",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "6545",
+      "domain": "infoworld.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.infoworld.com/database/",
+      "depth": 1,
+      "parent_url": "https://www.infoworld.com/",
+      "attempt": 29,
+      "timestamp": "2026-11-12T21:14:23.703237+00:00",
+      "final_url": "https://www.infoworld.com/database/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 256519,
+      "truncated": false,
+      "body_sha256": "9dbb3a3921b9bcb1aae3ca4373702dfed16bd15909e4fc92c27c79c1ab0d4263",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Databases | InfoWorld",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "6545",
+      "domain": "infoworld.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.infoworld.com/natural-language-processing/",
+      "depth": 2,
+      "parent_url": "https://www.infoworld.com/artificial-intelligence/",
+      "attempt": 30,
+      "timestamp": "2026-11-12T21:14:24.310498+00:00",
+      "final_url": "https://www.infoworld.com/natural-language-processing/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 203548,
+      "truncated": false,
+      "body_sha256": "954e78c82a547583f98b580044758ca4c251c797f8130efb218f184de637b80b",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Natural Language Processing \u2013 InfoWorld",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "6545",
+      "domain": "infoworld.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.infoworld.com/development-tools/",
+      "depth": 1,
+      "parent_url": "https://www.infoworld.com/",
+      "attempt": 31,
+      "timestamp": "2026-11-12T21:14:24.885458+00:00",
+      "final_url": "https://www.infoworld.com/development-tools/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 256159,
+      "truncated": false,
+      "body_sha256": "7a17b91173f782b237f24cb97ffe67e5b2f7e7a99934b427ad3b88cf9542f21f",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Development Tools | InfoWorld",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "6545",
+      "domain": "infoworld.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.infoworld.com/robotics/",
+      "depth": 2,
+      "parent_url": "https://www.infoworld.com/artificial-intelligence/",
+      "attempt": 32,
+      "timestamp": "2026-11-12T21:14:25.454503+00:00",
+      "final_url": "https://www.infoworld.com/robotics/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 201554,
+      "truncated": false,
+      "body_sha256": "8ec32a813d06c8124f7d2a49681753fa41101256a995e4892195ca437d02a7b5",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Robotics \u2013 InfoWorld",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "6545",
+      "domain": "infoworld.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.infoworld.com/devops/",
+      "depth": 1,
+      "parent_url": "https://www.infoworld.com/",
+      "attempt": 33,
+      "timestamp": "2026-11-12T21:14:26.300783+00:00",
+      "final_url": "https://www.infoworld.com/devops/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 256949,
+      "truncated": false,
+      "body_sha256": "945c0290818f7795f9b32e6dc267a51af5cebd8d74a7735030090b7796dfd5ac",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Devops | InfoWorld",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "6545",
+      "domain": "infoworld.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.infoworld.com/csuite/",
+      "depth": 2,
+      "parent_url": "https://www.infoworld.com/careers/",
+      "attempt": 34,
+      "timestamp": "2026-11-12T21:14:27.065202+00:00",
+      "final_url": "https://www.infoworld.com/csuite/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 199840,
+      "truncated": false,
+      "body_sha256": "065b10c0cd179ae4e50da0dc4a298f37c44d035e5f938286a86481377537f24b",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "C-Suite \u2013 InfoWorld",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "6545",
+      "domain": "infoworld.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.infoworld.com/cio/",
+      "depth": 3,
+      "parent_url": "https://www.infoworld.com/csuite/",
+      "attempt": 35,
+      "timestamp": "2026-11-12T21:14:27.972602+00:00",
+      "final_url": "https://www.infoworld.com/cio/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 199503,
+      "truncated": false,
+      "body_sha256": "29f6f868a0e603db9bc5de8d6cf69d4a51d653ef8a0448b572b9eadd0d33db9c",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "CIO \u2013 InfoWorld",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "6545",
+      "domain": "infoworld.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.infoworld.com/emerging-technology/",
+      "depth": 1,
+      "parent_url": "https://www.infoworld.com/",
+      "attempt": 36,
+      "timestamp": "2026-11-12T21:14:28.902303+00:00",
+      "final_url": "https://www.infoworld.com/emerging-technology/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 256132,
+      "truncated": false,
+      "body_sha256": "19c86f5f1c58c3dbc2b9d22deeab1844d76b4c94e21ba8f4cff31ae60c827ce8",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Emerging Technology | InfoWorld",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "6545",
+      "domain": "infoworld.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.infoworld.com/certifications/",
+      "depth": 2,
+      "parent_url": "https://www.infoworld.com/careers/",
+      "attempt": 37,
+      "timestamp": "2026-11-12T21:14:29.561950+00:00",
+      "final_url": "https://www.infoworld.com/certifications/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 203580,
+      "truncated": false,
+      "body_sha256": "555c255a5bedfe652b5febf1eb8d3f52575260e054e39e7082a402eaccf038e0",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Certifications \u2013 InfoWorld",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "6545",
+      "domain": "infoworld.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.infoworld.com/generative-ai/",
+      "depth": 1,
+      "parent_url": "https://www.infoworld.com/",
+      "attempt": 38,
+      "timestamp": "2026-11-12T21:14:30.093464+00:00",
+      "final_url": "https://www.infoworld.com/generative-ai/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 254103,
+      "truncated": false,
+      "body_sha256": "aeaf19922662ec65b64901190cc1f590051e002c0a4d40b1ab6f27621b91df51",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Generative AI | InfoWorld",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "6545",
+      "domain": "infoworld.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.infoworld.com/engineer/",
+      "depth": 2,
+      "parent_url": "https://www.infoworld.com/careers/",
+      "attempt": 39,
+      "timestamp": "2026-11-12T21:14:30.695183+00:00",
+      "final_url": "https://www.infoworld.com/engineer/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 236114,
+      "truncated": false,
+      "body_sha256": "be8fdbebeb80d228b8a37c70875c2f8ce4f69506ac42cb6aa44e2eaf5c1f8d48",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Engineer \u2013 InfoWorld",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "6545",
+      "domain": "infoworld.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.infoworld.com/it-leadership/",
+      "depth": 1,
+      "parent_url": "https://www.infoworld.com/",
+      "attempt": 40,
+      "timestamp": "2026-11-12T21:14:31.618628+00:00",
+      "final_url": "https://www.infoworld.com/it-leadership/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 265781,
+      "truncated": false,
+      "body_sha256": "630165a8e6e3888b2f553c2d64415a142e018da7d755a86b8014167d29c5e1b0",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "IT Leadership | InfoWorld",
+      "duplicate_final": false,
+      "eligible": true
+    }
+  ],
+  "robots": [
+    {
+      "url": "https://infoworld.com/robots.txt",
+      "timestamp": "2026-11-12T21:13:57.564684+00:00",
+      "status": 200,
+      "decision": "parsed",
+      "final_url": "https://www.infoworld.com/robots.txt",
+      "redirect_chain": [
+        {
+          "url": "https://infoworld.com/robots.txt",
+          "status": 301,
+          "location": "https://www.infoworld.com/robots.txt"
+        }
+      ],
+      "body_sha256": "fac56c91bf5ed5efa929cfe733fe6ef685ba35c7be8dce9941ebe5207ccdb332",
+      "body": "# ------------------------------------------------------\r\n# Global Rules\r\n# ------------------------------------------------------\r\n\r\nUser-agent: *\r\nDisallow: /search*\r\nDisallow: */filter/*\r\nDisallow: /*?utm_*\r\nDisallow: /*//*\r\nDisallow: /wp-admin/\r\nDisallow: /wp-login.php\r\nDisallow: /wp-register.php\r\nDisallow: /wp-includes/\r\nDisallow: /xmlrpc.php\r\nDisallow: /wp-json/\r\nDisallow: /feed/\r\nDisallow: /*/feed/\r\nDisallow: /comments/feed/\r\nDisallow: /*LICENSE.txt$\r\nDisallow: /*README.md$\r\nDisallow: /*README.txt$\r\nDisallow: /*license.txt$\r\nDisallow: /*readme.html$\r\nDisallow: /*readme.md$\r\nDisallow: /*readme.txt$\r\nDisallow: /*package.json$\r\nDisallow: /*composer.json$\r\nDisallow: /*composer.lock$\r\nDisallow: /*yarn.lock$\r\n\r\n# ------------------------------------------------------\r\n# Unwanted Bots\r\n# ------------------------------------------------------\r\n\r\nUser-agent: Ai2Bot-Dolma\r\nDisallow: /\r\n\r\nUser-agent: AI2Bot\r\nDisallow: /\r\n\r\nUser-agent: anthropic-ai\r\nDisallow: /\r\n\r\nUser-agent: Applebot-Extended\r\nDisallow: /\r\n\r\nUser-agent: Arquivo-web-crawler\r\nDisallow: /\r\n\r\nUser-agent: AwarioRssBot\r\nDisallow: /\r\n\r\nUser-agent: AwarioSmartBot\r\nDisallow: /\r\n\r\nUser-agent: Barkrowler\r\nDisallow: /\r\n\r\nUser-agent: Bytespider\r\nDisallow: /\r\n\r\nUser-agent: CCBot\r\nDisallow: /\r\n\r\nUser-agent: ClaudeBot\r\nDisallow: / \r\n\r\nUser-agent: cohere-ai\r\nDisallow: /\r\n\r\nUser-agent: cohere-training-data-crawler\r\nDisallow: /\r\n\r\nUser-agent: crawler4j\r\nDisallow: /\r\n\r\nUser-agent: dotbot\r\nDisallow: /\r\n\r\nUser-agent: Diffbot\r\nDisallow: /\r\n\r\nUser-agent: FacebookBot\r\nDisallow: /\r\n\r\nUser-agent: FriendlyCrawler\r\nDisallow: /\r\n\r\nUser-agent: Google-CloudVertexBot\r\nDisallow: /\r\n\r\nUser-agent: GPTBot\r\nDisallow: /\r\n\r\nUser-agent: https://hada.news\r\nDisallow: /\r\n\r\nUser-agent: ICC-Crawler\r\nDisallow: /\r\n\r\nUser-agent: ImagesiftBot\r\nDisallow: /\r\n\r\nUser-agent: img2dataset\r\nDisallow: /\r\n\r\nUser-agent: ISSCyberRiskCrawler\r\nDisallow: /\r\n\r\nUser-agent: JenkersBot\r\nDisallow: /\r\n\r\nUser-agent: Kangaroo Bot\r\nDisallow: /\r\n\r\nUser-agent: Meltwater\r\nDisallow: /\r\n\r\nUser-agent: Meta-ExternalAgent\r\nDisallow: /\r\n\r\nUser-agent: MJ12bot\r\nDisallow: /\r\n\r\nUser-agent: PanguBot\r\nDisallow: /\r\n\r\nUser-agent: Scrapy\r\nDisallow: /\r\n\r\nUser-agent: Seekr\r\nDisallow: /\r\n\r\nUser-agent: Timpibot\r\nDisallow: /\r\n\r\nUser-agent: VelenPublicWebCrawler\r\nDisallow: /\r\n\r\nUser-agent: Webzio-Extended\r\nDisallow: /\r\n\r\n# ------------------------------------------------------\r\n# Sitemaps\r\n# ------------------------------------------------------\r\n\r\nSitemap: https://www.infoworld.com/sitemap-index.xml\r\nSitemap: https://www.infoworld.com/sitemap-news-en.xml\r\nSitemap: https://www.infoworld.com/sitemap-articles-en.xml\r\nSitemap: https://www.infoworld.com/sitemap-video-episodes-en.xml\r\nSitemap: https://www.infoworld.com/sitemap-video-series.xml\r\nSitemap: https://www.infoworld.com/sitemap-pages.xml\r\nSitemap: https://www.infoworld.com/sitemap-blog-series.xml\r\nSitemap: https://www.infoworld.com/sitemap-profiles.xml\r\nSitemap: https://www.infoworld.com/sitemap-brandposts.xml"
+    },
+    {
+      "url": "https://www.infoworld.com/robots.txt",
+      "timestamp": "2026-11-12T21:13:57.992107+00:00",
+      "status": 200,
+      "decision": "parsed",
+      "final_url": "https://www.infoworld.com/robots.txt",
+      "redirect_chain": [],
+      "body_sha256": "fac56c91bf5ed5efa929cfe733fe6ef685ba35c7be8dce9941ebe5207ccdb332",
+      "body": "# ------------------------------------------------------\r\n# Global Rules\r\n# ------------------------------------------------------\r\n\r\nUser-agent: *\r\nDisallow: /search*\r\nDisallow: */filter/*\r\nDisallow: /*?utm_*\r\nDisallow: /*//*\r\nDisallow: /wp-admin/\r\nDisallow: /wp-login.php\r\nDisallow: /wp-register.php\r\nDisallow: /wp-includes/\r\nDisallow: /xmlrpc.php\r\nDisallow: /wp-json/\r\nDisallow: /feed/\r\nDisallow: /*/feed/\r\nDisallow: /comments/feed/\r\nDisallow: /*LICENSE.txt$\r\nDisallow: /*README.md$\r\nDisallow: /*README.txt$\r\nDisallow: /*license.txt$\r\nDisallow: /*readme.html$\r\nDisallow: /*readme.md$\r\nDisallow: /*readme.txt$\r\nDisallow: /*package.json$\r\nDisallow: /*composer.json$\r\nDisallow: /*composer.lock$\r\nDisallow: /*yarn.lock$\r\n\r\n# ------------------------------------------------------\r\n# Unwanted Bots\r\n# ------------------------------------------------------\r\n\r\nUser-agent: Ai2Bot-Dolma\r\nDisallow: /\r\n\r\nUser-agent: AI2Bot\r\nDisallow: /\r\n\r\nUser-agent: anthropic-ai\r\nDisallow: /\r\n\r\nUser-agent: Applebot-Extended\r\nDisallow: /\r\n\r\nUser-agent: Arquivo-web-crawler\r\nDisallow: /\r\n\r\nUser-agent: AwarioRssBot\r\nDisallow: /\r\n\r\nUser-agent: AwarioSmartBot\r\nDisallow: /\r\n\r\nUser-agent: Barkrowler\r\nDisallow: /\r\n\r\nUser-agent: Bytespider\r\nDisallow: /\r\n\r\nUser-agent: CCBot\r\nDisallow: /\r\n\r\nUser-agent: ClaudeBot\r\nDisallow: / \r\n\r\nUser-agent: cohere-ai\r\nDisallow: /\r\n\r\nUser-agent: cohere-training-data-crawler\r\nDisallow: /\r\n\r\nUser-agent: crawler4j\r\nDisallow: /\r\n\r\nUser-agent: dotbot\r\nDisallow: /\r\n\r\nUser-agent: Diffbot\r\nDisallow: /\r\n\r\nUser-agent: FacebookBot\r\nDisallow: /\r\n\r\nUser-agent: FriendlyCrawler\r\nDisallow: /\r\n\r\nUser-agent: Google-CloudVertexBot\r\nDisallow: /\r\n\r\nUser-agent: GPTBot\r\nDisallow: /\r\n\r\nUser-agent: https://hada.news\r\nDisallow: /\r\n\r\nUser-agent: ICC-Crawler\r\nDisallow: /\r\n\r\nUser-agent: ImagesiftBot\r\nDisallow: /\r\n\r\nUser-agent: img2dataset\r\nDisallow: /\r\n\r\nUser-agent: ISSCyberRiskCrawler\r\nDisallow: /\r\n\r\nUser-agent: JenkersBot\r\nDisallow: /\r\n\r\nUser-agent: Kangaroo Bot\r\nDisallow: /\r\n\r\nUser-agent: Meltwater\r\nDisallow: /\r\n\r\nUser-agent: Meta-ExternalAgent\r\nDisallow: /\r\n\r\nUser-agent: MJ12bot\r\nDisallow: /\r\n\r\nUser-agent: PanguBot\r\nDisallow: /\r\n\r\nUser-agent: Scrapy\r\nDisallow: /\r\n\r\nUser-agent: Seekr\r\nDisallow: /\r\n\r\nUser-agent: Timpibot\r\nDisallow: /\r\n\r\nUser-agent: VelenPublicWebCrawler\r\nDisallow: /\r\n\r\nUser-agent: Webzio-Extended\r\nDisallow: /\r\n\r\n# ------------------------------------------------------\r\n# Sitemaps\r\n# ------------------------------------------------------\r\n\r\nSitemap: https://www.infoworld.com/sitemap-index.xml\r\nSitemap: https://www.infoworld.com/sitemap-news-en.xml\r\nSitemap: https://www.infoworld.com/sitemap-articles-en.xml\r\nSitemap: https://www.infoworld.com/sitemap-video-episodes-en.xml\r\nSitemap: https://www.infoworld.com/sitemap-video-series.xml\r\nSitemap: https://www.infoworld.com/sitemap-pages.xml\r\nSitemap: https://www.infoworld.com/sitemap-blog-series.xml\r\nSitemap: https://www.infoworld.com/sitemap-profiles.xml\r\nSitemap: https://www.infoworld.com/sitemap-brandposts.xml"
+    }
+  ],
+  "eligible_pages": 40,
+  "canonical_origin": [
+    "https",
+    "www.infoworld.com",
+    443
+  ],
+  "stop_reason": "page_budget",
+  "elapsed_seconds": 35.19
+}

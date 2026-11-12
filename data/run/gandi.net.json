@@ -1,0 +1,1298 @@
+{
+  "site": {
+    "rank": "68",
+    "domain": "gandi.net",
+    "stratum": "1-100"
+  },
+  "rows": [
+    {
+      "rank": "68",
+      "domain": "gandi.net",
+      "stratum": "1-100",
+      "requested_url": "https://gandi.net/",
+      "depth": 0,
+      "parent_url": "",
+      "attempt": 1,
+      "timestamp": "2026-11-12T21:11:32.305815+00:00",
+      "final_url": "https://www.gandi.net/en",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000;"
+        ]
+      },
+      "body_bytes": 189318,
+      "truncated": false,
+      "body_sha256": "4173125bd794cbc777d9c7012f703355908edd0e9aef37e0b41b1eca5318fbfc",
+      "redirect_chain": [
+        {
+          "url": "https://gandi.net/",
+          "status": 301,
+          "location": "https://www.gandi.net/",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": []
+          }
+        },
+        {
+          "url": "https://www.gandi.net/",
+          "status": 302,
+          "location": "/en",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=63072000;"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Gandi.net - Gandi.net: Domain Names, Web Hosting, SSL Certificates and Emails",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "68",
+      "domain": "gandi.net",
+      "stratum": "1-100",
+      "requested_url": "https://www.gandi.net/en",
+      "depth": 1,
+      "parent_url": "https://www.gandi.net/en",
+      "attempt": 2,
+      "timestamp": "2026-11-12T21:11:32.932224+00:00",
+      "final_url": "https://www.gandi.net/en",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000;"
+        ]
+      },
+      "body_bytes": 189318,
+      "truncated": false,
+      "body_sha256": "4173125bd794cbc777d9c7012f703355908edd0e9aef37e0b41b1eca5318fbfc",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Gandi.net - Gandi.net: Domain Names, Web Hosting, SSL Certificates and Emails",
+      "duplicate_final": true,
+      "eligible": false
+    },
+    {
+      "rank": "68",
+      "domain": "gandi.net",
+      "stratum": "1-100",
+      "requested_url": "https://www.gandi.net/en-AU",
+      "depth": 1,
+      "parent_url": "https://www.gandi.net/en",
+      "attempt": 3,
+      "timestamp": "2026-11-12T21:11:33.374143+00:00",
+      "final_url": "https://www.gandi.net/en-AU",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000;"
+        ]
+      },
+      "body_bytes": 189533,
+      "truncated": false,
+      "body_sha256": "93b9af7c49d9c1332903ad381c117f748fcf82955e913ef6b6200a94a657f926",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Gandi.net - Gandi.net: Domain Names, Web Hosting, SSL Certificates and Emails",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "68",
+      "domain": "gandi.net",
+      "stratum": "1-100",
+      "requested_url": "https://www.gandi.net/en-CA",
+      "depth": 1,
+      "parent_url": "https://www.gandi.net/en",
+      "attempt": 4,
+      "timestamp": "2026-11-12T21:11:33.923636+00:00",
+      "final_url": "https://www.gandi.net/en-CA",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000;"
+        ]
+      },
+      "body_bytes": 189539,
+      "truncated": false,
+      "body_sha256": "924ecf2c43417b305846068f13f686204b089e5ed122fdc9b6267de5116c44dd",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Gandi.net - Gandi.net: Domain Names, Web Hosting, SSL Certificates and Emails",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "68",
+      "domain": "gandi.net",
+      "stratum": "1-100",
+      "requested_url": "https://www.gandi.net/en-HK",
+      "depth": 1,
+      "parent_url": "https://www.gandi.net/en",
+      "attempt": 5,
+      "timestamp": "2026-11-12T21:11:34.614113+00:00",
+      "final_url": "https://www.gandi.net/en-HK",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000;"
+        ]
+      },
+      "body_bytes": 189545,
+      "truncated": false,
+      "body_sha256": "44ac6595284dd82d3caf7091828240aedd6979790ffc1cb07ebf8c193efeae71",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Gandi.net - Gandi.net: Domain Names, Web Hosting, SSL Certificates and Emails",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "68",
+      "domain": "gandi.net",
+      "stratum": "1-100",
+      "requested_url": "https://www.gandi.net/en-IN",
+      "depth": 1,
+      "parent_url": "https://www.gandi.net/en",
+      "attempt": 6,
+      "timestamp": "2026-11-12T21:11:35.412003+00:00",
+      "final_url": "https://www.gandi.net/en-IN",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000;"
+        ]
+      },
+      "body_bytes": 189541,
+      "truncated": false,
+      "body_sha256": "b858d584bd03c05336fb32a8311c8c4870f49d2aaea096390d62a8cc55add22e",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Gandi.net - Gandi.net: Domain Names, Web Hosting, SSL Certificates and Emails",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "68",
+      "domain": "gandi.net",
+      "stratum": "1-100",
+      "requested_url": "https://www.gandi.net/en-NZ",
+      "depth": 1,
+      "parent_url": "https://www.gandi.net/en",
+      "attempt": 7,
+      "timestamp": "2026-11-12T21:11:35.678666+00:00",
+      "final_url": "https://www.gandi.net/en-NZ",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000;"
+        ]
+      },
+      "body_bytes": 189533,
+      "truncated": false,
+      "body_sha256": "132e8f1d1bdb99a0786da816b05e3e0ca41d167dbf513e10cb4d4519f7b40659",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Gandi.net - Gandi.net: Domain Names, Web Hosting, SSL Certificates and Emails",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "68",
+      "domain": "gandi.net",
+      "stratum": "1-100",
+      "requested_url": "https://www.gandi.net/en-SG",
+      "depth": 1,
+      "parent_url": "https://www.gandi.net/en",
+      "attempt": 8,
+      "timestamp": "2026-11-12T21:11:36.442593+00:00",
+      "final_url": "https://www.gandi.net/en-SG",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000;"
+        ]
+      },
+      "body_bytes": 189547,
+      "truncated": false,
+      "body_sha256": "74016aad9a4e5783024386325687253c2842f160d0cd4ba28ba7bd0ea3affb7a",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Gandi.net - Gandi.net: Domain Names, Web Hosting, SSL Certificates and Emails",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "68",
+      "domain": "gandi.net",
+      "stratum": "1-100",
+      "requested_url": "https://www.gandi.net/en-US",
+      "depth": 1,
+      "parent_url": "https://www.gandi.net/en",
+      "attempt": 9,
+      "timestamp": "2026-11-12T21:11:36.730468+00:00",
+      "final_url": "https://www.gandi.net/en-US",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000;"
+        ]
+      },
+      "body_bytes": 189533,
+      "truncated": false,
+      "body_sha256": "cc4c3a28ea6894249ba07f5f5d44f6674acfa495b323f450746b373bb8a733a6",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Gandi.net - Gandi.net: Domain Names, Web Hosting, SSL Certificates and Emails",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "68",
+      "domain": "gandi.net",
+      "stratum": "1-100",
+      "requested_url": "https://www.gandi.net/en-GB",
+      "depth": 1,
+      "parent_url": "https://www.gandi.net/en",
+      "attempt": 10,
+      "timestamp": "2026-11-12T21:11:37.126729+00:00",
+      "final_url": "https://www.gandi.net/en-GB",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000;"
+        ]
+      },
+      "body_bytes": 189553,
+      "truncated": false,
+      "body_sha256": "839d66470279190f68862a650a1820c8beab95cf06d1217556e25416908096ea",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Gandi.net - Gandi.net: Domain Names, Web Hosting, SSL Certificates and Emails",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "68",
+      "domain": "gandi.net",
+      "stratum": "1-100",
+      "requested_url": "https://www.gandi.net/es",
+      "depth": 1,
+      "parent_url": "https://www.gandi.net/en",
+      "attempt": 11,
+      "timestamp": "2026-11-12T21:11:37.662890+00:00",
+      "final_url": "https://www.gandi.net/es",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000;"
+        ]
+      },
+      "body_bytes": 191631,
+      "truncated": false,
+      "body_sha256": "f0564bee1c59f22c0ced8be017a18f90df59b29af23a4b056125124aa14f2616",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Gandi.net - Nombres de dominio, alojamiento web, certificados SSL y correo electr\u00f3nico",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "68",
+      "domain": "gandi.net",
+      "stratum": "1-100",
+      "requested_url": "https://www.gandi.net/fr",
+      "depth": 1,
+      "parent_url": "https://www.gandi.net/en",
+      "attempt": 12,
+      "timestamp": "2026-11-12T21:11:38.152870+00:00",
+      "final_url": "https://www.gandi.net/fr",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000;"
+        ]
+      },
+      "body_bytes": 190768,
+      "truncated": false,
+      "body_sha256": "f74389bdbc8ca275f69807ca390dd8ac0965df9c413a483f4347d9510e950727",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Gandi.net - Noms de domaine, H\u00e9bergement Web et Certificats SSL et Email",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "68",
+      "domain": "gandi.net",
+      "stratum": "1-100",
+      "requested_url": "https://www.gandi.net/fr-CA",
+      "depth": 1,
+      "parent_url": "https://www.gandi.net/en",
+      "attempt": 13,
+      "timestamp": "2026-11-12T21:11:38.750542+00:00",
+      "final_url": "https://www.gandi.net/fr-CA",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000;"
+        ]
+      },
+      "body_bytes": 190992,
+      "truncated": false,
+      "body_sha256": "3fe147723e77d8aea8b821a850ab4b09be263790912d22ef134350fedf1b735b",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Gandi.net - Noms de domaine, H\u00e9bergement Web et Certificats SSL et Email",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "68",
+      "domain": "gandi.net",
+      "stratum": "1-100",
+      "requested_url": "https://www.gandi.net/fr-CH",
+      "depth": 1,
+      "parent_url": "https://www.gandi.net/en",
+      "attempt": 14,
+      "timestamp": "2026-11-12T21:11:39.259415+00:00",
+      "final_url": "https://www.gandi.net/fr-CH",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000;"
+        ]
+      },
+      "body_bytes": 190996,
+      "truncated": false,
+      "body_sha256": "755a349f9908a7c255dc7a6d293f962f2fdd6e801f13383210eeb4b96ca1a33d",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Gandi.net - Noms de domaine, H\u00e9bergement Web et Certificats SSL et Email",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "68",
+      "domain": "gandi.net",
+      "stratum": "1-100",
+      "requested_url": "https://www.gandi.net/fr-BE",
+      "depth": 1,
+      "parent_url": "https://www.gandi.net/en",
+      "attempt": 15,
+      "timestamp": "2026-11-12T21:11:39.760305+00:00",
+      "final_url": "https://www.gandi.net/fr-BE",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000;"
+        ]
+      },
+      "body_bytes": 191014,
+      "truncated": false,
+      "body_sha256": "30ab693dbd60c15c6ab8a171664242e2f30b926dc18f1e1486eca5da5a7538e3",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Gandi.net - Noms de domaine, H\u00e9bergement Web et Certificats SSL et Email",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "68",
+      "domain": "gandi.net",
+      "stratum": "1-100",
+      "requested_url": "https://www.gandi.net/ja",
+      "depth": 1,
+      "parent_url": "https://www.gandi.net/en",
+      "attempt": 16,
+      "timestamp": "2026-11-12T21:11:40.189737+00:00",
+      "final_url": "https://www.gandi.net/ja",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000;"
+        ]
+      },
+      "body_bytes": 194279,
+      "truncated": false,
+      "body_sha256": "46c46bb8d827f38cf6e059b8120787d2ef42eed0ffab14c989c63939ad599cf2",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Gandi.net - Gandi.net: \u30c9\u30e1\u30a4\u30f3\u540d\u3001\u30e1\u30fc\u30eb\u30dc\u30c3\u30af\u30b9\u3001\u30a6\u30a7\u30d6\u30db\u30b9\u30c6\u30a3\u30f3\u30b0\u3001SSL/TLS\u8a3c\u660e\u66f8",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "68",
+      "domain": "gandi.net",
+      "stratum": "1-100",
+      "requested_url": "https://www.gandi.net/zh-Hans",
+      "depth": 1,
+      "parent_url": "https://www.gandi.net/en",
+      "attempt": 17,
+      "timestamp": "2026-11-12T21:11:41.099721+00:00",
+      "final_url": "https://www.gandi.net/zh-Hans",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000;"
+        ]
+      },
+      "body_bytes": 187320,
+      "truncated": false,
+      "body_sha256": "6653be983fad919af937603a6e1761fbb6ec23729ac6fd4a7d694fce1b638f9d",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Gandi.net - Gandi.net\uff1a\u7f51\u57df\u540d\u79f0\u3001\u7f51\u9875\u4ee3\u7ba1\u3001SSL \u51ed\u8bc1\u4e0e\u7535\u5b50\u4fe1\u7bb1",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "68",
+      "domain": "gandi.net",
+      "stratum": "1-100",
+      "requested_url": "https://www.gandi.net/zh-Hans-SG",
+      "depth": 1,
+      "parent_url": "https://www.gandi.net/en",
+      "attempt": 18,
+      "timestamp": "2026-11-12T21:11:41.372248+00:00",
+      "final_url": "https://www.gandi.net/zh-Hans-SG",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000;"
+        ]
+      },
+      "body_bytes": 188828,
+      "truncated": false,
+      "body_sha256": "29a8e634c860188cbc91361b7aa4d2402f4965ab0eb3a0fe7607873e97714a55",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Gandi.net - Gandi.net\uff1a\u7db2\u57df\u540d\u7a31\u3001\u7db2\u9801\u4ee3\u7ba1\u3001SSL \u6191\u8b49\u8207\u96fb\u5b50\u4fe1\u7bb1",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "68",
+      "domain": "gandi.net",
+      "stratum": "1-100",
+      "requested_url": "https://www.gandi.net/zh-Hant/gandi-supports",
+      "depth": 2,
+      "parent_url": "https://www.gandi.net/zh-Hans-SG",
+      "attempt": 19,
+      "timestamp": "2026-11-12T21:11:41.889600+00:00",
+      "final_url": "https://www.gandi.net/zh-Hant/gandi-supports",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000;"
+        ]
+      },
+      "body_bytes": 688578,
+      "truncated": false,
+      "body_sha256": "2f918986a939846603be12f83a6429ef67090b6b81d167f92386ff350ab50fdb",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Gandi \u652f\u6301\u975e\u71df\u5229\u7d44\u7e54 - Gandi.net",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "68",
+      "domain": "gandi.net",
+      "stratum": "1-100",
+      "requested_url": "https://www.gandi.net/zh-Hant-HK/gandi-supports",
+      "depth": 3,
+      "parent_url": "https://www.gandi.net/zh-Hant/gandi-supports",
+      "attempt": 20,
+      "timestamp": "2026-11-12T21:11:42.749347+00:00",
+      "final_url": "https://www.gandi.net/zh-Hant-HK/gandi-supports",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000;"
+        ]
+      },
+      "body_bytes": 688738,
+      "truncated": false,
+      "body_sha256": "0726826eb1b8a25fc8b28195ca88f0a04fa8acbdaa29fd5613a41b3222a435a4",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Gandi \u652f\u6301\u975e\u71df\u5229\u7d44\u7e54 - Gandi.net",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "68",
+      "domain": "gandi.net",
+      "stratum": "1-100",
+      "requested_url": "https://www.gandi.net/zh-Hant-HK/solutions/create-website",
+      "depth": 4,
+      "parent_url": "https://www.gandi.net/zh-Hant-HK/gandi-supports",
+      "attempt": 21,
+      "timestamp": "2026-11-12T21:11:43.496564+00:00",
+      "final_url": "https://www.gandi.net/zh-Hant-HK/solutions/create-website",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000;"
+        ]
+      },
+      "body_bytes": 216142,
+      "truncated": false,
+      "body_sha256": "afdd94715af35989ba861f3dcdc297a1ee0ffade699338e3952a0a90b389016c",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "\u5efa\u7acb\u7db2\u7ad9\u2014\u7db2\u7ad9\u67b6\u8a2d - Gandi.net",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "68",
+      "domain": "gandi.net",
+      "stratum": "1-100",
+      "requested_url": "https://www.gandi.net/en-AU/solutions/create-website",
+      "depth": 2,
+      "parent_url": "https://www.gandi.net/en-AU",
+      "attempt": 22,
+      "timestamp": "2026-11-12T21:11:43.989899+00:00",
+      "final_url": "https://www.gandi.net/en-AU/solutions/create-website",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000;"
+        ]
+      },
+      "body_bytes": 216545,
+      "truncated": false,
+      "body_sha256": "b9e08cb68ab255ed06c2a355d32eace1e6347361ec4b59381f33cf1d56437a7a",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Create a website - Website creation - Gandi.net",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "68",
+      "domain": "gandi.net",
+      "stratum": "1-100",
+      "requested_url": "https://www.gandi.net/zh-Hant/solutions/create-website",
+      "depth": 3,
+      "parent_url": "https://www.gandi.net/zh-Hant/gandi-supports",
+      "attempt": 23,
+      "timestamp": "2026-11-12T21:11:44.816329+00:00",
+      "final_url": "https://www.gandi.net/zh-Hant/solutions/create-website",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000;"
+        ]
+      },
+      "body_bytes": 215958,
+      "truncated": false,
+      "body_sha256": "0100fc2caba6f6b5da591fd10ce3b4c8e6bd5b0b55875386c399b2c132234b6d",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "\u5efa\u7acb\u7db2\u7ad9\u2014\u7db2\u7ad9\u67b6\u8a2d - Gandi.net",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "68",
+      "domain": "gandi.net",
+      "stratum": "1-100",
+      "requested_url": "https://www.gandi.net/en-CA/solutions/create-website",
+      "depth": 2,
+      "parent_url": "https://www.gandi.net/en-CA",
+      "attempt": 24,
+      "timestamp": "2026-11-12T21:11:45.451470+00:00",
+      "final_url": "https://www.gandi.net/en-CA/solutions/create-website",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000;"
+        ]
+      },
+      "body_bytes": 216513,
+      "truncated": false,
+      "body_sha256": "c23605030a7bcc252ea297257e0e1eec51c6f4ecbece5abfde1cf4b20f08d391",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Create a website - Website creation - Gandi.net",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "68",
+      "domain": "gandi.net",
+      "stratum": "1-100",
+      "requested_url": "https://www.gandi.net/en-HK/solutions/create-website",
+      "depth": 2,
+      "parent_url": "https://www.gandi.net/en-HK",
+      "attempt": 25,
+      "timestamp": "2026-11-12T21:11:45.897952+00:00",
+      "final_url": "https://www.gandi.net/en-HK/solutions/create-website",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000;"
+        ]
+      },
+      "body_bytes": 216603,
+      "truncated": false,
+      "body_sha256": "e617c5fc529dc6ee3b1d0e016d3b7c9c749621806c0a13f90ea35de2d440bf55",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Create a website - Website creation - Gandi.net",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "68",
+      "domain": "gandi.net",
+      "stratum": "1-100",
+      "requested_url": "https://www.gandi.net/en-IN/solutions/create-website",
+      "depth": 2,
+      "parent_url": "https://www.gandi.net/en-IN",
+      "attempt": 26,
+      "timestamp": "2026-11-12T21:11:46.449132+00:00",
+      "final_url": "https://www.gandi.net/en-IN/solutions/create-website",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000;"
+        ]
+      },
+      "body_bytes": 216639,
+      "truncated": false,
+      "body_sha256": "749d1a278e88742998360886744b290d73ffec9e092f3c2173a27f1cb0546521",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Create a website - Website creation - Gandi.net",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "68",
+      "domain": "gandi.net",
+      "stratum": "1-100",
+      "requested_url": "https://www.gandi.net/en-NZ/solutions/create-website",
+      "depth": 2,
+      "parent_url": "https://www.gandi.net/en-NZ",
+      "attempt": 27,
+      "timestamp": "2026-11-12T21:11:46.977315+00:00",
+      "final_url": "https://www.gandi.net/en-NZ/solutions/create-website",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000;"
+        ]
+      },
+      "body_bytes": 216551,
+      "truncated": false,
+      "body_sha256": "153cbc3691c8809b845fa61e4417f291f06bc9f1625ecab963db470c56302ab0",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Create a website - Website creation - Gandi.net",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "68",
+      "domain": "gandi.net",
+      "stratum": "1-100",
+      "requested_url": "https://www.gandi.net/en-SG/solutions/create-website",
+      "depth": 2,
+      "parent_url": "https://www.gandi.net/en-SG",
+      "attempt": 28,
+      "timestamp": "2026-11-12T21:11:47.387645+00:00",
+      "final_url": "https://www.gandi.net/en-SG/solutions/create-website",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000;"
+        ]
+      },
+      "body_bytes": 216556,
+      "truncated": false,
+      "body_sha256": "d731f6b9bc2d01e2d489814735b53e2604903213e13145f20df1ec836ecce5b1",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Create a website - Website creation - Gandi.net",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "68",
+      "domain": "gandi.net",
+      "stratum": "1-100",
+      "requested_url": "https://www.gandi.net/en-US/solutions/create-website",
+      "depth": 2,
+      "parent_url": "https://www.gandi.net/en-US",
+      "attempt": 29,
+      "timestamp": "2026-11-12T21:11:48.032830+00:00",
+      "final_url": "https://www.gandi.net/en-US/solutions/create-website",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000;"
+        ]
+      },
+      "body_bytes": 216489,
+      "truncated": false,
+      "body_sha256": "52940163f739c9c8872d099d6141f199cf726c215ac709fb315bf429d09c71bc",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Create a website - Website creation - Gandi.net",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "68",
+      "domain": "gandi.net",
+      "stratum": "1-100",
+      "requested_url": "https://www.gandi.net/en-GB/solutions/create-website",
+      "depth": 2,
+      "parent_url": "https://www.gandi.net/en-GB",
+      "attempt": 30,
+      "timestamp": "2026-11-12T21:11:48.459415+00:00",
+      "final_url": "https://www.gandi.net/en-GB/solutions/create-website",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000;"
+        ]
+      },
+      "body_bytes": 216667,
+      "truncated": false,
+      "body_sha256": "9779f006984471c97a4360eeff90e4bb44bb41a6ebe18cae2b7bac02db937465",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Create a website - Website creation - Gandi.net",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "68",
+      "domain": "gandi.net",
+      "stratum": "1-100",
+      "requested_url": "https://www.gandi.net/es/solutions/create-website",
+      "depth": 2,
+      "parent_url": "https://www.gandi.net/es",
+      "attempt": 31,
+      "timestamp": "2026-11-12T21:11:49.067434+00:00",
+      "final_url": "https://www.gandi.net/es/solutions/create-website",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000;"
+        ]
+      },
+      "body_bytes": 221330,
+      "truncated": false,
+      "body_sha256": "d1ed191a09020fbcd465675e386fa748c2b95be5b46464819cfa8f851da3e840",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Cree un sitio web - Creaci\u00f3n de sitios web - Gandi.net",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "68",
+      "domain": "gandi.net",
+      "stratum": "1-100",
+      "requested_url": "https://www.gandi.net/fr/solutions/create-website",
+      "depth": 2,
+      "parent_url": "https://www.gandi.net/fr",
+      "attempt": 32,
+      "timestamp": "2026-11-12T21:11:49.493461+00:00",
+      "final_url": "https://www.gandi.net/fr/solutions/create-website",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000;"
+        ]
+      },
+      "body_bytes": 220950,
+      "truncated": false,
+      "body_sha256": "7b3cf3e3d3bcd9e2c80b1a65000ba9f4ed2b49b023d686c0bde588178e92462d",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Cr\u00e9er un site internet - Cr\u00e9ation de site - Gandi.net",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "68",
+      "domain": "gandi.net",
+      "stratum": "1-100",
+      "requested_url": "https://www.gandi.net/fr-CA/solutions/create-website",
+      "depth": 2,
+      "parent_url": "https://www.gandi.net/fr-CA",
+      "attempt": 33,
+      "timestamp": "2026-11-12T21:11:50.171075+00:00",
+      "final_url": "https://www.gandi.net/fr-CA/solutions/create-website",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000;"
+        ]
+      },
+      "body_bytes": 220995,
+      "truncated": false,
+      "body_sha256": "16e6d4028dc6fdec8d6a06cc1da14bb693c86ca66e7291bf83268523d4873659",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Cr\u00e9er un site internet - Cr\u00e9ation de site - Gandi.net",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "68",
+      "domain": "gandi.net",
+      "stratum": "1-100",
+      "requested_url": "https://www.gandi.net/fr-CH/solutions/create-website",
+      "depth": 2,
+      "parent_url": "https://www.gandi.net/fr-CH",
+      "attempt": 34,
+      "timestamp": "2026-11-12T21:11:50.619190+00:00",
+      "final_url": "https://www.gandi.net/fr-CH/solutions/create-website",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000;"
+        ]
+      },
+      "body_bytes": 221090,
+      "truncated": false,
+      "body_sha256": "ad21530e746d01c15502b8559db3f3942b925b5b4b3db813d66980e0b42fc698",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Cr\u00e9er un site internet - Cr\u00e9ation de site - Gandi.net",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "68",
+      "domain": "gandi.net",
+      "stratum": "1-100",
+      "requested_url": "https://www.gandi.net/fr-BE/solutions/create-website",
+      "depth": 2,
+      "parent_url": "https://www.gandi.net/fr-BE",
+      "attempt": 35,
+      "timestamp": "2026-11-12T21:11:51.227355+00:00",
+      "final_url": "https://www.gandi.net/fr-BE/solutions/create-website",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000;"
+        ]
+      },
+      "body_bytes": 221158,
+      "truncated": false,
+      "body_sha256": "436d7b41c676fd83e5b093353a9d1deab1b804fc9044c97e240b087ba24bb608",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Cr\u00e9er un site internet - Cr\u00e9ation de site - Gandi.net",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "68",
+      "domain": "gandi.net",
+      "stratum": "1-100",
+      "requested_url": "https://www.gandi.net/ja/solutions/create-website",
+      "depth": 2,
+      "parent_url": "https://www.gandi.net/ja",
+      "attempt": 36,
+      "timestamp": "2026-11-12T21:11:51.768286+00:00",
+      "final_url": "https://www.gandi.net/ja/solutions/create-website",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000;"
+        ]
+      },
+      "body_bytes": 219875,
+      "truncated": false,
+      "body_sha256": "ec4540533fb77801ba3d1bee8f1ad4423b39b6336f4d3d9456f3db09434bfb27",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Create a website - Website creation - Gandi.net",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "68",
+      "domain": "gandi.net",
+      "stratum": "1-100",
+      "requested_url": "https://www.gandi.net/zh-Hans/solutions/create-website",
+      "depth": 2,
+      "parent_url": "https://www.gandi.net/zh-Hans",
+      "attempt": 37,
+      "timestamp": "2026-11-12T21:11:52.845647+00:00",
+      "final_url": "https://www.gandi.net/zh-Hans/solutions/create-website",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000;"
+        ]
+      },
+      "body_bytes": 215511,
+      "truncated": false,
+      "body_sha256": "4de0e180ce36b111ffb6c561f0edd14917eb05d55c81f54c473c4b00f4504760",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "\u5efa\u7acb\u7f51\u7ad9\u2014\u7f51\u7ad9\u67b6\u8bbe - Gandi.net",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "68",
+      "domain": "gandi.net",
+      "stratum": "1-100",
+      "requested_url": "https://www.gandi.net/zh-Hans-SG/solutions/create-website",
+      "depth": 2,
+      "parent_url": "https://www.gandi.net/zh-Hans-SG",
+      "attempt": 38,
+      "timestamp": "2026-11-12T21:11:53.334490+00:00",
+      "final_url": "https://www.gandi.net/zh-Hans-SG/solutions/create-website",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000;"
+        ]
+      },
+      "body_bytes": 216070,
+      "truncated": false,
+      "body_sha256": "562a10ea8dc75bea741466554f527ec555c37cdfdad1fee6705b168f9688f54c",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "\u5efa\u7acb\u7db2\u7ad9\u2014\u7db2\u7ad9\u67b6\u8a2d - Gandi.net",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "68",
+      "domain": "gandi.net",
+      "stratum": "1-100",
+      "requested_url": "https://www.gandi.net/en/solutions/create-website",
+      "depth": 1,
+      "parent_url": "https://www.gandi.net/en",
+      "attempt": 39,
+      "timestamp": "2026-11-12T21:11:53.851291+00:00",
+      "final_url": "https://www.gandi.net/en/solutions/create-website",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000;"
+        ]
+      },
+      "body_bytes": 216482,
+      "truncated": false,
+      "body_sha256": "4d5a6e752fadbb3a8c910eda1d14f6d9d67226ab5568401cf2e7f71d86cf268f",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Create a website - Website creation - Gandi.net",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "68",
+      "domain": "gandi.net",
+      "stratum": "1-100",
+      "requested_url": "https://www.gandi.net/zh-Hant-HK/hosting/free-domain-names",
+      "depth": 5,
+      "parent_url": "https://www.gandi.net/zh-Hant-HK/solutions/create-website",
+      "attempt": 40,
+      "timestamp": "2026-11-12T21:11:54.316188+00:00",
+      "final_url": "https://www.gandi.net/zh-Hant-HK/hosting/free-domain-names",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000;"
+        ]
+      },
+      "body_bytes": 201388,
+      "truncated": false,
+      "body_sha256": "02d727e9a66d47c1bee1d9c170f8860aec7369efeb03e5f67f03649b9f79b9a2",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "\u8cfc\u8cb7\u7db2\u9801\u4ee3\u7ba1\u670d\u52d9\u5373\u4eab\u514d\u8cbb\u57df\u540d - Gandi.net",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "68",
+      "domain": "gandi.net",
+      "stratum": "1-100",
+      "requested_url": "https://www.gandi.net/zh-Hant/hosting/free-domain-names",
+      "depth": 4,
+      "parent_url": "https://www.gandi.net/zh-Hant/solutions/create-website",
+      "attempt": 41,
+      "timestamp": "2026-11-12T21:11:57.617663+00:00",
+      "final_url": "https://www.gandi.net/zh-Hant/hosting/free-domain-names",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000;"
+        ]
+      },
+      "body_bytes": 200691,
+      "truncated": false,
+      "body_sha256": "becae53f2ec7aa495d17bd12b79cb8fa4bd41c5fd8db248eed7a3f132242797c",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "\u8cfc\u8cb7\u7db2\u9801\u4ee3\u7ba1\u670d\u52d9\u5373\u4eab\u514d\u8cbb\u57df\u540d - Gandi.net",
+      "duplicate_final": false,
+      "eligible": true
+    }
+  ],
+  "robots": [
+    {
+      "url": "https://gandi.net/robots.txt",
+      "timestamp": "2026-11-12T21:11:31.126584+00:00",
+      "status": 200,
+      "decision": "parsed",
+      "final_url": "https://www.gandi.net/robots.txt",
+      "redirect_chain": [
+        {
+          "url": "https://gandi.net/robots.txt",
+          "status": 301,
+          "location": "https://www.gandi.net/robots.txt"
+        }
+      ],
+      "body_sha256": "3fd451a6143f6a84977d65af0ae1e26a153466423e8d7e08e672f3d1466e1cdc",
+      "body": "User-agent: *\r\n\r\n\r\n###### Sitemaps ######\r\nSitemap: https://www.gandi.net/sitemap.xml\r\nSitemap: https://news.gandi.net/sitemaps.xml\r\n\r\n###### Disalow ######\r\nDisallow: /*redirect=*\r\nDisallow: /*navigation=*\r\nDisallow: /*client_id=*\r\nDisallow: /*locale=*\r\nDisallow: /*tld=*\r\nDisallow: /*bulk=*\r\nDisallow: /*bu_id=*\r\nDisallow: /*opened=*\r\nDisallow: /*type=*\r\nDisallow: /*template=*\r\nDisallow: /*size=*\r\nDisallow: /*options=*\r\nDisallow: /*error=*\r\nDisallow: /*grid=*\r\nDisallow: /*currency=*\r\nDisallow: /*?c=*\r\nDisallow: /*&c=*\r\nDisallow: /*?sw=*\r\nDisallow: /*&sw=*\r\nDisallow: /*taxes=*\r\nDisallow: /pdf/*\r\nDisallow: /*/sample/*\r\nDisallow: */prices$\r\nDisallow: */rules$\r\nDisallow: */dates$\r\nDisallow: */news$\r\nAllow: */tld/news$\r\nDisallow: *?country=*\r\nDisallow: *?l=*\r\nDisallow: *?lang=*\r\nDisallow: /gcart/*\r\n\r\n\r\nUser-Agent: facebookexternalhit/1.1\r\nDisallow:\r\n\r\nUser-Agent: Facebot\r\nDisallow:\r\n\r\n###### Suppression robots ######\r\nUser-agent: AhrefsBot\r\nDisallow: /\r\nUser-agent: Alexibot\r\nDisallow: /\r\nUser-agent: Aqua_Products\r\nDisallow: /\r\nUser-agent: asterias\r\nDisallow: /\r\nUser-agent: b2w/0.1\r\nDisallow: /\r\nUser-agent: BackDoorBot/1.0\r\nDisallow: /\r\nUser-agent: BacklinkCrawler\r\nDisallow: /\r\nUser-agent: bdbrandprotect\r\nDisallow: /\r\nUser-agent: Black Hole\r\nDisallow: /\r\nUser-agent: BlowFish/1.0\r\nDisallow: /\r\nUser-agent: boitho.com-dc\r\nDisallow: /\r\nUser-agent: Bookmark search tool\r\nDisallow: /\r\nUser-agent: BotALot\r\nDisallow: /\r\nUser-agent: BotRightHere\r\nDisallow: /\r\nUser-agent: BPImageWalker\r\nDisallow: /\r\nUser-agent: BuiltBotTough\r\nDisallow: /\r\nUser-agent: Bullseye/1.0\r\nDisallow: /\r\nUser-agent: BunnySlippers\r\nDisallow: /\r\nUser-agent: CazoodleBot\r\nDisallow: /\r\nUser-agent: Cegbfeieh\r\nDisallow: /\r\nUser-agent: CheeseBot\r\nDisallow: /\r\nUser-agent: CherryPicker\r\nDisallow: /\r\nUser-agent: CherryPickerElite/1.0\r\nDisallow: /\r\nUser-agent: CherryPickerSE/1.0\r\nDisallow: /\r\nUser-agent: ConveraCrawler\r\nDisallow: /\r\nUser-agent: Copernic\r\nDisallow: /\r\nUser-agent: CopyRightCheck\r\nDisallow: /\r\nUser-agent: cosmos\r\nDisallow: /\r\nUser-agent: Crescent\r\nDisallow: /\r\nUser-agent: Crescent Internet ToolPak HTTP OLE Control v.1.0\r\nDisallow: /\r\nUser-agent: discobot\r\nDisallow: /\r\nUser-agent: DittoSpyder\r\nDisallow: /\r\nUser-agent: dotbot\r\nDisallow: /\r\nUser-agent: Download Ninja\r\nDisallow: /\r\nUser-agent: EmailCollector\r\nDisallow: /\r\nUser-agent: EmailSiphon\r\nDisallow: /\r\nUser-agent: EmailWolf\r\nDisallow: /\r\nUser-agent: EroCrawler\r\nDisallow: /\r\nUser-agent: ExtractorPro\r\nDisallow: /\r\nUser-agent: Ezooms\r\nDisallow: /\r\nUser-agent: FairAd Client\r\nDisallow: /\r\nUser-agent: Fasterfox\r\nDisallow: /\r\nUser-agent: Fetch\r\nDisallow: /\r\nUser-agent: findlinks\r\nDisallow: /\r\nUser-agent: Flaming AttackBot\r\nDisallow: /\r\nUser-agent: Foobot\r\nDisallow: /\r\nUser-agent: Gaisbot\r\nDisallow: /\r\nUser-agent: GetRight/4.2\r\nDisallow: /\r\nUser-agent: Gigabot\r\nDisallow: /\r\nUser-agent: grub\r\nDisallow: /\r\nUser-agent: grub-client\r\nDisallow: /\r\nUser-agent: Harvest/1.5\r\nDisallow: /\r\nUser-agent: heritrix\r\nDisallow: /\r\nUser-agent: hloader\r\nDisallow: /\r\nUser-agent: httplib\r\nDisallow: /\r\nUser-agent: HTTrack\r\nDisallow: / \r\nUser-agent: HTTrack 3.0\r\nDisallow: /\r\nUser-agent: HuaweiSymantecSpider\r\nDisallow: /\r\nUser-agent: humanlinks\r\nDisallow: /\r\nUser-agent: ichiro\r\nDisallow: /\r\nUser-agent: InfoNaviRobot\r\nDisallow: /\r\nUser-agent: IRLbot\r\nDisallow: /\r\nUser-agent: Iron33/1.0.2\r\nDisallow: /\r\nUser-agent: JennyBot\r\nDisallow: /\r\nUser-agent: kalooga\r\nDisallow: /\r\nUser-agent: Kenjin Spider\r\nDisallow: /\r\nUser-agent: Keyword Density/0.9\r\nDisallow: /\r\nUser-agent: larbin\r\nDisallow: /\r\nUser-agent: LexiBot\r\nDisallow: /\r\nUser-agent: LexxeBot\r\nDisallow: /\r\nUser-agent: libWeb/clsHTTP\r\nDisallow: /\r\nUser-agent: libwww\r\nDisallow: /\r\nUser-agent: LinkextractorPro\r\nDisallow: /\r\nUser-agent: linko\r\nDisallow: /\r\nUser-agent: LinkScan/8.1a Unix\r\nDisallow: /\r\nUser-agent: LinkWalker\r\nDisallow: /\r\nUser-agent: LNSpiderguy\r\nDisallow: /\r\nUser-agent: lwp-trivial\r\nDisallow: /\r\nUser-agent: lwp-trivial/1.34\r\nDisallow: /\r\nUser-agent: Mata Hari\r\nDisallow: /\r\nUser-agent: Microsoft URL Control\r\nDisallow: /\r\nUser-agent: Microsoft URL Control - 5.01.4511\r\nDisallow: /\r\nUser-agent: Microsoft URL Control - 6.00.8169\r\nDisallow: /\r\nUser-agent: Microsoft.URL.Control\r\nDisallow: /\r\nUser-agent: MIIxpc\r\nDisallow: /\r\nUser-agent: MIIxpc/4.2\r\nDisallow: /\r\nUser-agent: Mister PiX\r\nDisallow: /\r\nUser-agent: MJ12bot\r\nDisallow: /\r\nUser-agent: MLBot\r\nDisallow: /\r\nUser-agent: moget\r\nDisallow: /\r\nUser-agent: moget/2.1\r\nDisallow: /\r\nUser-agent: Mozilla/4.0 (compatible; BullsEye; Windows 95)\r\nDisallow: /\r\nUser-agent: MSIECrawler\r\nDisallow: /\r\nUser-agent: NaverBot\r\nDisallow: /\r\nUser-agent: NerdyBot\r\nDisallow: /\r\nUser-agent: Net\\ Vampire\r\nDisallow: /\r\nUser-agent: NetAnts\r\nDisallow: /\r\nUser-agent: NetMechanic\r\nDisallow: /\r\nUser-agent: NICErsPRO\r\nDisallow: /\r\nUser-agent: Nutch\r\nDisallow: /\r\nUser-agent: Ocelli\r\nDisallow: /\r\nUser-agent: Offline Explorer\r\nDisallow: /\r\nUser-agent: Openbot\r\nDisallow: /\r\nUser-agent: Openfind\r\nDisallow: /\r\nUser-agent: Openfind data gatherer\r\nDisallow: /\r\nUser-agent: Oracle Ultra Search\r\nDisallow: /\r\nUser-agent: penthesilea\r\nDisallow: /\r\nUser-agent: PerMan\r\nDisallow: /\r\nUser-agent: PhpDig\r\nDisallow: /\r\nUser-agent: ProPowerBot/2.14\r\nDisallow: /\r\nUser-agent: ProWebWalker\r\nDisallow: /\r\nUser-agent: psbot\r\nDisallow: /\r\nUser-agent: Python-urllib\r\nDisallow: /\r\nUser-agent: QueryN Metasearch\r\nDisallow: /\r\nUser-agent: Radiation Retriever 1.1\r\nDisallow: /\r\nUser-agent: RepoMonkey\r\nDisallow: /\r\nUser-agent: RepoMonkey Bait & Tackle/v1.01\r\nDisallow: /\r\nUser-agent: RMA\r\nDisallow: /\r\nUser-agent: rogerbot\r\nDisallow: /\r\nUser-agent: SCOUTjET\r\nDisallow: /\r\nUser-agent: SearchDaimon.com-dc\r\nDisallow: /\r\nUser-agent: searchpreview\r\nDisallow: /\r\nUser-agent: SEOENGBot\r\nDisallow: /\r\nUser-agent: ShopWiki\r\nDisallow: /\r\nUser-agent: sitecheck.internetseer.com\r\nDisallow: /\r\nUser-agent: SiteSnagger\r\nDisallow: /\r\nUser-agent: Snapbot\r\nDisallow: /\r\nUser-agent: Sogou\\ web\\ spider\r\nDisallow: /\r\nUser-agent: Sosospider\r\nDisallow: /\r\nUser-agent: SpankBot\r\nDisallow: /\r\nUser-agent: spanner\r\nDisallow: /\r\nUser-agent: spbot\r\nDisallow: /\r\nUser-agent: SurveyBot\r\nDisallow: /\r\nUser-agent: suzuran\r\nDisallow: /\r\nUser-agent: Szukacz/1.4\r\nDisallow: /\r\nUser-agent: Teleport\r\nDisallow: /\r\nUser-agent: TeleportPro\r\nDisallow: /\r\nUser-agent: Telesoft\r\nDisallow: /\r\nUser-agent: Templeton\r\nDisallow: /\r\nUser-agent: The Intraformant\r\nDisallow: /\r\nUser-agent: TheNomad\r\nDisallow: /\r\nUser-agent: TightTwatBot\r\nDisallow: /\r\nUser-agent: Titan\r\nDisallow: /\r\nUser-agent: toCrawl/UrlDispatcher\r\nDisallow: /\r\nUser-agent: True_Robot\r\nDisallow: /\r\nUser-agent: True_Robot/1.0\r\nDisallow: /\r\nUser-agent: turingos\r\nDisallow: /\r\nUser-agent: TurnitinBot\r\nDisallow: /\r\nUser-agent: TurnitinBot/1.5\r\nDisallow: /\r\nUser-agent: TwengaBot\r\nDisallow: /\r\nUser-agent: Twiceler\r\nDisallow: /\r\nUser-agent: Updownerbot\r\nDisallow: /\r\nUser-agent: URL Control\r\nDisallow: /\r\nUser-agent: URL_Spider_Pro\r\nDisallow: /\r\nUser-agent: URLy Warning\r\nDisallow: /\r\nUser-agent: VCI\r\nDisallow: /\r\nUser-agent: VCI WebViewer VCI WebViewer Win32\r\nDisallow: /\r\nUser-agent: Web Image Collector\r\nDisallow: /\r\nUser-agent: WebAuto\r\nDisallow: /\r\nUser-agent: WebBandit\r\nDisallow: /\r\nUser-agent: WebBandit/3.50\r\nDisallow: /\r\nUser-agent: WebCapture 2.0\r\nDisallow: /\r\nUser-agent: WebCopier\r\nDisallow: /\r\nUser-agent: WebCopier v.2.2\r\nDisallow: /\r\nUser-agent: WebCopier v3.2a\r\nDisallow: /\r\nUser-agent: WebEnhancer\r\nDisallow: /\r\nUser-agent: WebmasterWorldForumBot\r\nDisallow: /\r\nUser-agent: WebSauger\r\nDisallow: /\r\nUser-agent: Website Quester\r\nDisallow: /\r\nUser-agent: Webster Pro\r\nDisallow: /\r\nUser-agent: WebStripper\r\nDisallow: /\r\nUser-agent: WebZIP\r\nDisallow: /\r\nUser-agent: WebZip/4.0\r\nDisallow: /\r\nUser-agent: WebZIP/4.21\r\nDisallow: /\r\nUser-agent: WebZIP/5.0\r\nDisallow: /\r\nUser-agent: wget\r\nDisallow: /\r\nUser-agent: Wget/1.5.3\r\nDisallow: /\r\nUser-agent: Wget/1.6\r\nDisallow: /\r\nUser-agent: woozweb-monitoring\r\nDisallow: /\r\nUser-agent: woriobot\r\nDisallow: /\r\nUser-agent: wprocketbot\r\nAllow: /\r\nUser-agent: WWW-Collector-E\r\nDisallow: /\r\nUser-agent: Xenu\r\nDisallow: /\r\nUser-agent: Xenu's\r\nDisallow: /\r\nUser-agent: Xenu's Link Sleuth 1.1c\r\nDisallow: /\r\nUser-agent: YACYBIT\r\nDisallow: /\r\nUser-agent: yacybot\r\nDisallow: /\r\nUser-agent: Yandex\r\nDisallow: /\r\nUser-agent: YandexBot\r\nDisallow: /\r\nUser-agent: Yeti\r\nDisallow: /\r\nUser-agent: YodaoBot\r\nDisallow: /\r\nUser-agent: Zealbot\r\nDisallow: /\r\nUser-agent: Zeus\r\nDisallow: /\r\nUser-agent: Zeus 32297 Webster Pro V2.9 Win32\r\nDisallow: /\r\nUser-agent: Zeus Link Scout\r\nDisallow: /\r\nUser-agent: ZyBorg\r\nDisallow: /\r\nUser-agent: Mozilla/4.0 (compatible; BullsEye; Windows 95)\r\nDisallow: /\r\nUser-agent: NerdyBot\r\nDisallow: /\r\nUser-agent: WebAuto\r\nDisallow: /\r\nUser-agent: wprocketbot\r\nDisallow: /\r\nUser-agent: DIIbot\r\nDisallow: /\r\nUser-agent: eCatch\r\nDisallow: /\r\nUser-agent: Jetbot\r\nDisallow: /\r\nUser-agent: Openfind data gathere\r\nDisallow: /\r\nUser-agent: QuepasaCreep\r\nDisallow: /\r\nUser-agent: Roverbot\r\nDisallow: /\r\nUser-agent: Foobot\r\nDisallow: /\r\nUser-agent: RepoMonkey Bait &amp; Tackle/v1.01\r\nDisallow: /\r\nUser-agent: ExtractorPro\r\nDisallow: /"
+    },
+    {
+      "url": "https://www.gandi.net/robots.txt",
+      "timestamp": "2026-11-12T21:11:31.805730+00:00",
+      "status": 200,
+      "decision": "parsed",
+      "final_url": "https://www.gandi.net/robots.txt",
+      "redirect_chain": [],
+      "body_sha256": "3fd451a6143f6a84977d65af0ae1e26a153466423e8d7e08e672f3d1466e1cdc",
+      "body": "User-agent: *\r\n\r\n\r\n###### Sitemaps ######\r\nSitemap: https://www.gandi.net/sitemap.xml\r\nSitemap: https://news.gandi.net/sitemaps.xml\r\n\r\n###### Disalow ######\r\nDisallow: /*redirect=*\r\nDisallow: /*navigation=*\r\nDisallow: /*client_id=*\r\nDisallow: /*locale=*\r\nDisallow: /*tld=*\r\nDisallow: /*bulk=*\r\nDisallow: /*bu_id=*\r\nDisallow: /*opened=*\r\nDisallow: /*type=*\r\nDisallow: /*template=*\r\nDisallow: /*size=*\r\nDisallow: /*options=*\r\nDisallow: /*error=*\r\nDisallow: /*grid=*\r\nDisallow: /*currency=*\r\nDisallow: /*?c=*\r\nDisallow: /*&c=*\r\nDisallow: /*?sw=*\r\nDisallow: /*&sw=*\r\nDisallow: /*taxes=*\r\nDisallow: /pdf/*\r\nDisallow: /*/sample/*\r\nDisallow: */prices$\r\nDisallow: */rules$\r\nDisallow: */dates$\r\nDisallow: */news$\r\nAllow: */tld/news$\r\nDisallow: *?country=*\r\nDisallow: *?l=*\r\nDisallow: *?lang=*\r\nDisallow: /gcart/*\r\n\r\n\r\nUser-Agent: facebookexternalhit/1.1\r\nDisallow:\r\n\r\nUser-Agent: Facebot\r\nDisallow:\r\n\r\n###### Suppression robots ######\r\nUser-agent: AhrefsBot\r\nDisallow: /\r\nUser-agent: Alexibot\r\nDisallow: /\r\nUser-agent: Aqua_Products\r\nDisallow: /\r\nUser-agent: asterias\r\nDisallow: /\r\nUser-agent: b2w/0.1\r\nDisallow: /\r\nUser-agent: BackDoorBot/1.0\r\nDisallow: /\r\nUser-agent: BacklinkCrawler\r\nDisallow: /\r\nUser-agent: bdbrandprotect\r\nDisallow: /\r\nUser-agent: Black Hole\r\nDisallow: /\r\nUser-agent: BlowFish/1.0\r\nDisallow: /\r\nUser-agent: boitho.com-dc\r\nDisallow: /\r\nUser-agent: Bookmark search tool\r\nDisallow: /\r\nUser-agent: BotALot\r\nDisallow: /\r\nUser-agent: BotRightHere\r\nDisallow: /\r\nUser-agent: BPImageWalker\r\nDisallow: /\r\nUser-agent: BuiltBotTough\r\nDisallow: /\r\nUser-agent: Bullseye/1.0\r\nDisallow: /\r\nUser-agent: BunnySlippers\r\nDisallow: /\r\nUser-agent: CazoodleBot\r\nDisallow: /\r\nUser-agent: Cegbfeieh\r\nDisallow: /\r\nUser-agent: CheeseBot\r\nDisallow: /\r\nUser-agent: CherryPicker\r\nDisallow: /\r\nUser-agent: CherryPickerElite/1.0\r\nDisallow: /\r\nUser-agent: CherryPickerSE/1.0\r\nDisallow: /\r\nUser-agent: ConveraCrawler\r\nDisallow: /\r\nUser-agent: Copernic\r\nDisallow: /\r\nUser-agent: CopyRightCheck\r\nDisallow: /\r\nUser-agent: cosmos\r\nDisallow: /\r\nUser-agent: Crescent\r\nDisallow: /\r\nUser-agent: Crescent Internet ToolPak HTTP OLE Control v.1.0\r\nDisallow: /\r\nUser-agent: discobot\r\nDisallow: /\r\nUser-agent: DittoSpyder\r\nDisallow: /\r\nUser-agent: dotbot\r\nDisallow: /\r\nUser-agent: Download Ninja\r\nDisallow: /\r\nUser-agent: EmailCollector\r\nDisallow: /\r\nUser-agent: EmailSiphon\r\nDisallow: /\r\nUser-agent: EmailWolf\r\nDisallow: /\r\nUser-agent: EroCrawler\r\nDisallow: /\r\nUser-agent: ExtractorPro\r\nDisallow: /\r\nUser-agent: Ezooms\r\nDisallow: /\r\nUser-agent: FairAd Client\r\nDisallow: /\r\nUser-agent: Fasterfox\r\nDisallow: /\r\nUser-agent: Fetch\r\nDisallow: /\r\nUser-agent: findlinks\r\nDisallow: /\r\nUser-agent: Flaming AttackBot\r\nDisallow: /\r\nUser-agent: Foobot\r\nDisallow: /\r\nUser-agent: Gaisbot\r\nDisallow: /\r\nUser-agent: GetRight/4.2\r\nDisallow: /\r\nUser-agent: Gigabot\r\nDisallow: /\r\nUser-agent: grub\r\nDisallow: /\r\nUser-agent: grub-client\r\nDisallow: /\r\nUser-agent: Harvest/1.5\r\nDisallow: /\r\nUser-agent: heritrix\r\nDisallow: /\r\nUser-agent: hloader\r\nDisallow: /\r\nUser-agent: httplib\r\nDisallow: /\r\nUser-agent: HTTrack\r\nDisallow: / \r\nUser-agent: HTTrack 3.0\r\nDisallow: /\r\nUser-agent: HuaweiSymantecSpider\r\nDisallow: /\r\nUser-agent: humanlinks\r\nDisallow: /\r\nUser-agent: ichiro\r\nDisallow: /\r\nUser-agent: InfoNaviRobot\r\nDisallow: /\r\nUser-agent: IRLbot\r\nDisallow: /\r\nUser-agent: Iron33/1.0.2\r\nDisallow: /\r\nUser-agent: JennyBot\r\nDisallow: /\r\nUser-agent: kalooga\r\nDisallow: /\r\nUser-agent: Kenjin Spider\r\nDisallow: /\r\nUser-agent: Keyword Density/0.9\r\nDisallow: /\r\nUser-agent: larbin\r\nDisallow: /\r\nUser-agent: LexiBot\r\nDisallow: /\r\nUser-agent: LexxeBot\r\nDisallow: /\r\nUser-agent: libWeb/clsHTTP\r\nDisallow: /\r\nUser-agent: libwww\r\nDisallow: /\r\nUser-agent: LinkextractorPro\r\nDisallow: /\r\nUser-agent: linko\r\nDisallow: /\r\nUser-agent: LinkScan/8.1a Unix\r\nDisallow: /\r\nUser-agent: LinkWalker\r\nDisallow: /\r\nUser-agent: LNSpiderguy\r\nDisallow: /\r\nUser-agent: lwp-trivial\r\nDisallow: /\r\nUser-agent: lwp-trivial/1.34\r\nDisallow: /\r\nUser-agent: Mata Hari\r\nDisallow: /\r\nUser-agent: Microsoft URL Control\r\nDisallow: /\r\nUser-agent: Microsoft URL Control - 5.01.4511\r\nDisallow: /\r\nUser-agent: Microsoft URL Control - 6.00.8169\r\nDisallow: /\r\nUser-agent: Microsoft.URL.Control\r\nDisallow: /\r\nUser-agent: MIIxpc\r\nDisallow: /\r\nUser-agent: MIIxpc/4.2\r\nDisallow: /\r\nUser-agent: Mister PiX\r\nDisallow: /\r\nUser-agent: MJ12bot\r\nDisallow: /\r\nUser-agent: MLBot\r\nDisallow: /\r\nUser-agent: moget\r\nDisallow: /\r\nUser-agent: moget/2.1\r\nDisallow: /\r\nUser-agent: Mozilla/4.0 (compatible; BullsEye; Windows 95)\r\nDisallow: /\r\nUser-agent: MSIECrawler\r\nDisallow: /\r\nUser-agent: NaverBot\r\nDisallow: /\r\nUser-agent: NerdyBot\r\nDisallow: /\r\nUser-agent: Net\\ Vampire\r\nDisallow: /\r\nUser-agent: NetAnts\r\nDisallow: /\r\nUser-agent: NetMechanic\r\nDisallow: /\r\nUser-agent: NICErsPRO\r\nDisallow: /\r\nUser-agent: Nutch\r\nDisallow: /\r\nUser-agent: Ocelli\r\nDisallow: /\r\nUser-agent: Offline Explorer\r\nDisallow: /\r\nUser-agent: Openbot\r\nDisallow: /\r\nUser-agent: Openfind\r\nDisallow: /\r\nUser-agent: Openfind data gatherer\r\nDisallow: /\r\nUser-agent: Oracle Ultra Search\r\nDisallow: /\r\nUser-agent: penthesilea\r\nDisallow: /\r\nUser-agent: PerMan\r\nDisallow: /\r\nUser-agent: PhpDig\r\nDisallow: /\r\nUser-agent: ProPowerBot/2.14\r\nDisallow: /\r\nUser-agent: ProWebWalker\r\nDisallow: /\r\nUser-agent: psbot\r\nDisallow: /\r\nUser-agent: Python-urllib\r\nDisallow: /\r\nUser-agent: QueryN Metasearch\r\nDisallow: /\r\nUser-agent: Radiation Retriever 1.1\r\nDisallow: /\r\nUser-agent: RepoMonkey\r\nDisallow: /\r\nUser-agent: RepoMonkey Bait & Tackle/v1.01\r\nDisallow: /\r\nUser-agent: RMA\r\nDisallow: /\r\nUser-agent: rogerbot\r\nDisallow: /\r\nUser-agent: SCOUTjET\r\nDisallow: /\r\nUser-agent: SearchDaimon.com-dc\r\nDisallow: /\r\nUser-agent: searchpreview\r\nDisallow: /\r\nUser-agent: SEOENGBot\r\nDisallow: /\r\nUser-agent: ShopWiki\r\nDisallow: /\r\nUser-agent: sitecheck.internetseer.com\r\nDisallow: /\r\nUser-agent: SiteSnagger\r\nDisallow: /\r\nUser-agent: Snapbot\r\nDisallow: /\r\nUser-agent: Sogou\\ web\\ spider\r\nDisallow: /\r\nUser-agent: Sosospider\r\nDisallow: /\r\nUser-agent: SpankBot\r\nDisallow: /\r\nUser-agent: spanner\r\nDisallow: /\r\nUser-agent: spbot\r\nDisallow: /\r\nUser-agent: SurveyBot\r\nDisallow: /\r\nUser-agent: suzuran\r\nDisallow: /\r\nUser-agent: Szukacz/1.4\r\nDisallow: /\r\nUser-agent: Teleport\r\nDisallow: /\r\nUser-agent: TeleportPro\r\nDisallow: /\r\nUser-agent: Telesoft\r\nDisallow: /\r\nUser-agent: Templeton\r\nDisallow: /\r\nUser-agent: The Intraformant\r\nDisallow: /\r\nUser-agent: TheNomad\r\nDisallow: /\r\nUser-agent: TightTwatBot\r\nDisallow: /\r\nUser-agent: Titan\r\nDisallow: /\r\nUser-agent: toCrawl/UrlDispatcher\r\nDisallow: /\r\nUser-agent: True_Robot\r\nDisallow: /\r\nUser-agent: True_Robot/1.0\r\nDisallow: /\r\nUser-agent: turingos\r\nDisallow: /\r\nUser-agent: TurnitinBot\r\nDisallow: /\r\nUser-agent: TurnitinBot/1.5\r\nDisallow: /\r\nUser-agent: TwengaBot\r\nDisallow: /\r\nUser-agent: Twiceler\r\nDisallow: /\r\nUser-agent: Updownerbot\r\nDisallow: /\r\nUser-agent: URL Control\r\nDisallow: /\r\nUser-agent: URL_Spider_Pro\r\nDisallow: /\r\nUser-agent: URLy Warning\r\nDisallow: /\r\nUser-agent: VCI\r\nDisallow: /\r\nUser-agent: VCI WebViewer VCI WebViewer Win32\r\nDisallow: /\r\nUser-agent: Web Image Collector\r\nDisallow: /\r\nUser-agent: WebAuto\r\nDisallow: /\r\nUser-agent: WebBandit\r\nDisallow: /\r\nUser-agent: WebBandit/3.50\r\nDisallow: /\r\nUser-agent: WebCapture 2.0\r\nDisallow: /\r\nUser-agent: WebCopier\r\nDisallow: /\r\nUser-agent: WebCopier v.2.2\r\nDisallow: /\r\nUser-agent: WebCopier v3.2a\r\nDisallow: /\r\nUser-agent: WebEnhancer\r\nDisallow: /\r\nUser-agent: WebmasterWorldForumBot\r\nDisallow: /\r\nUser-agent: WebSauger\r\nDisallow: /\r\nUser-agent: Website Quester\r\nDisallow: /\r\nUser-agent: Webster Pro\r\nDisallow: /\r\nUser-agent: WebStripper\r\nDisallow: /\r\nUser-agent: WebZIP\r\nDisallow: /\r\nUser-agent: WebZip/4.0\r\nDisallow: /\r\nUser-agent: WebZIP/4.21\r\nDisallow: /\r\nUser-agent: WebZIP/5.0\r\nDisallow: /\r\nUser-agent: wget\r\nDisallow: /\r\nUser-agent: Wget/1.5.3\r\nDisallow: /\r\nUser-agent: Wget/1.6\r\nDisallow: /\r\nUser-agent: woozweb-monitoring\r\nDisallow: /\r\nUser-agent: woriobot\r\nDisallow: /\r\nUser-agent: wprocketbot\r\nAllow: /\r\nUser-agent: WWW-Collector-E\r\nDisallow: /\r\nUser-agent: Xenu\r\nDisallow: /\r\nUser-agent: Xenu's\r\nDisallow: /\r\nUser-agent: Xenu's Link Sleuth 1.1c\r\nDisallow: /\r\nUser-agent: YACYBIT\r\nDisallow: /\r\nUser-agent: yacybot\r\nDisallow: /\r\nUser-agent: Yandex\r\nDisallow: /\r\nUser-agent: YandexBot\r\nDisallow: /\r\nUser-agent: Yeti\r\nDisallow: /\r\nUser-agent: YodaoBot\r\nDisallow: /\r\nUser-agent: Zealbot\r\nDisallow: /\r\nUser-agent: Zeus\r\nDisallow: /\r\nUser-agent: Zeus 32297 Webster Pro V2.9 Win32\r\nDisallow: /\r\nUser-agent: Zeus Link Scout\r\nDisallow: /\r\nUser-agent: ZyBorg\r\nDisallow: /\r\nUser-agent: Mozilla/4.0 (compatible; BullsEye; Windows 95)\r\nDisallow: /\r\nUser-agent: NerdyBot\r\nDisallow: /\r\nUser-agent: WebAuto\r\nDisallow: /\r\nUser-agent: wprocketbot\r\nDisallow: /\r\nUser-agent: DIIbot\r\nDisallow: /\r\nUser-agent: eCatch\r\nDisallow: /\r\nUser-agent: Jetbot\r\nDisallow: /\r\nUser-agent: Openfind data gathere\r\nDisallow: /\r\nUser-agent: QuepasaCreep\r\nDisallow: /\r\nUser-agent: Roverbot\r\nDisallow: /\r\nUser-agent: Foobot\r\nDisallow: /\r\nUser-agent: RepoMonkey Bait &amp; Tackle/v1.01\r\nDisallow: /\r\nUser-agent: ExtractorPro\r\nDisallow: /"
+    }
+  ],
+  "eligible_pages": 40,
+  "canonical_origin": [
+    "https",
+    "www.gandi.net",
+    443
+  ],
+  "stop_reason": "page_budget",
+  "elapsed_seconds": 27.85
+}

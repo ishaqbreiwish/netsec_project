@@ -1,0 +1,75 @@
+{
+  "site": {
+    "rank": "53",
+    "domain": "youtu.be",
+    "stratum": "1-100"
+  },
+  "rows": [
+    {
+      "rank": "53",
+      "domain": "youtu.be",
+      "stratum": "1-100",
+      "requested_url": "https://youtu.be/",
+      "depth": 0,
+      "parent_url": "",
+      "attempt": 1,
+      "timestamp": "2026-11-12T21:11:29.351501+00:00",
+      "final_url": "https://youtu.be/",
+      "status": 303,
+      "content_type": "application/binary",
+      "headers": {
+        "content-security-policy": [
+          "base-uri 'self';object-src 'none';script-src 'report-sample' 'nonce-NbePw19QiGjrv5qmzwjzvA' 'unsafe-inline' 'strict-dynamic' https: http:;report-uri https://csp.withgoogle.com/csp/youtube_other/strict",
+          "require-trusted-types-for 'script'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 0,
+      "truncated": false,
+      "body_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "redirect_chain": [
+        {
+          "url": "https://youtu.be/",
+          "status": 303,
+          "location": "https://www.youtube.com/?feature=youtu.be",
+          "headers": {
+            "content-security-policy": [
+              "base-uri 'self';object-src 'none';script-src 'report-sample' 'nonce-NbePw19QiGjrv5qmzwjzvA' 'unsafe-inline' 'strict-dynamic' https: http:;report-uri https://csp.withgoogle.com/csp/youtube_other/strict",
+              "require-trusted-types-for 'script'"
+            ],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000"
+            ]
+          }
+        }
+      ],
+      "error": "redirect_out_of_scope",
+      "html": false,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    }
+  ],
+  "robots": [
+    {
+      "url": "https://youtu.be/robots.txt",
+      "timestamp": "2026-11-12T21:11:29.351469+00:00",
+      "status": 200,
+      "decision": "parsed",
+      "final_url": "https://youtu.be/robots.txt",
+      "redirect_chain": [],
+      "body_sha256": "c290485c8002c51c24c95765948dbcec9ec88c1f181638d245418a36194fd1a0",
+      "body": "# robots.txt file for youtu.be\n\nUser-agent: *\nDisallow: /api/\nDisallow: /comment\nDisallow: /feeds/videos.xml\nDisallow: /get_video\nDisallow: /get_video_info\nDisallow: /get_midroll_info\nDisallow: /live_chat\nDisallow: /login\nDisallow: /results\nDisallow: /signup\nDisallow: /t/terms\nDisallow: /timedtext_video\nDisallow: /verify_age\nDisallow: /watch_ajax\nDisallow: /watch_fragments_ajax\nDisallow: /watch_popup\nDisallow: /watch_queue_ajax\nDisallow: /youtubei/\n\nAllow: /apple-app-site-association\nAllow: /.well-known/*\n"
+    }
+  ],
+  "eligible_pages": 0,
+  "canonical_origin": null,
+  "stop_reason": "frontier_exhausted",
+  "elapsed_seconds": 0.79
+}

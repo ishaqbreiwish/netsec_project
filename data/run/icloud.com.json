@@ -1,0 +1,92 @@
+{
+  "site": {
+    "rank": "56",
+    "domain": "icloud.com",
+    "stratum": "1-100"
+  },
+  "rows": [
+    {
+      "rank": "56",
+      "domain": "icloud.com",
+      "stratum": "1-100",
+      "requested_url": "https://icloud.com/",
+      "depth": 0,
+      "parent_url": "",
+      "attempt": 1,
+      "timestamp": "2026-11-12T21:11:30.127530+00:00",
+      "final_url": "https://www.icloud.com/",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [
+          "img-src 'self' blob: data: icloud.com *.icloud.com *.apple.com *.cdn-apple.com *.icloud-content.com *.icloud-content.com.cn *.apple-mapkit.com *.mzstatic.com; media-src 'self' blob: data: *.icloud.com *.apple.com *.cdn-apple.com *.icloud-content.com *.icloud-content.com.cn; font-src 'self' blob: data: icloud.com *.icloud.com *.apple.com *.cdn-apple.com; connect-src blob: 'self' data: icloud.com *.icloud.com *.apple.com *.cdn-apple.com *.icloud-content.com *.icloud-content.com.cn *.apple-mapkit.com wss://*.push.apple.com; frame-src 'self' blob: mailto: sms: tel: *.icloud.com *.apple.com *.icloud-sandbox.com *.icloud-content.com *.icloud-content.com.cn; frame-ancestors 'self' *.icloud.com *.apple.com; form-action 'self' *.icloud.com *.apple.com; child-src blob: 'self'; base-uri 'self' *.icloud.com *.cdn-apple.com; report-uri https://feedbackws.icloud.com/reportRaw"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 31452,
+      "truncated": false,
+      "body_sha256": "c717aece2a7ab8c0b7f3aa9d30bdccac3311b4873c7965bd62fe72041b3ed299",
+      "redirect_chain": [
+        {
+          "url": "https://icloud.com/",
+          "status": 301,
+          "location": "https://www.icloud.com/",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000; includeSubDomains; preload"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [
+        "base-uri 'self'; object-src 'none'; script-src blob: 'self' idmsauth-uat.corp.apple.com idmsauth-stable.corp.apple.com appleid-ut.corp.apple.com idms.apple.com *.apple-cloudkit.com *.cdn-apple.com 'sha256-Whh9EuH14WuH6UjhkI0GOaUcA1Oty38TU8yXwR2K/bA=' 'sha256-BOlf00fzzr4V9vdqIv4BPhKURqBJtwmi6YHDzx3oqAw=' 'sha256-c+1McHBD6ieOeojiZ5+Sjgs78CUWmI8HYX/QbnEby0k=' 'sha256-oHi4cVyVqEH+3dCytcC6K2+a1sEEbquyGWq3qvGSSdM=' 'sha256-nDVhb1ePX/pLG9xKT/I9pqR5hUxqfpQuQGhArhki8AU=' 'sha256-5ui4MW2jY8bob0nfFNcfnOdkBdxVw5qsYr83W0luIF8=' 'sha256-7eraKnxjb4TWcZW5rdma8yuf7g4dE3LgB5XHz68Qlqw='; style-src 'self' data: *.apple.com 'unsafe-inline'; default-src 'none'; child-src blob: 'self'; connect-src blob: 'self' data: *.icloud.com *.icloud.com.cn *.apple.com *.cdn-apple.com *.icloud-content.com *.icloud-content.com.cn *.apple-mapkit.com wss://*.push.apple.com; form-action 'self' *.apple.com *.icloud.com *.icloud.com.cn; frame-src blob: 'self' mailto: sms: tel: *.icloud.com *.icloud.com.cn *.apple.com *.icloud-content.com *.icloud-content.com.cn *.icloud-sandbox.com; font-src blob: 'self' data: *.icloud.com *.icloud.com.cn *.apple.com *.cdn-apple.com; img-src blob: 'self' data: *.icloud.com *.icloud.com.cn *.apple.com *.cdn-apple.com *.icloud-content.com *.icloud-content.com.cn *.apple-mapkit.com; media-src blob: 'self' data: *.icloud.com *.icloud.com.cn *.apple.com *.cdn-apple.com *.icloud-content.com *.icloud-content.com.cn"
+      ],
+      "title": "iCloud",
+      "duplicate_final": false,
+      "eligible": true
+    }
+  ],
+  "robots": [
+    {
+      "url": "https://icloud.com/robots.txt",
+      "timestamp": "2026-11-12T21:11:29.606777+00:00",
+      "status": 200,
+      "decision": "parsed",
+      "final_url": "https://www.icloud.com/robots.txt",
+      "redirect_chain": [
+        {
+          "url": "https://icloud.com/robots.txt",
+          "status": 301,
+          "location": "https://www.icloud.com/robots.txt"
+        }
+      ],
+      "body_sha256": "7c0da5b622a8703a69e156d3df581d1a2c5d4106a0da2e85c4db8f18c5a9e9c8",
+      "body": "\nSitemap: https://www.icloud.com/sitemap.xml\nSitemap: https://www.icloud.com/sitemap-info.xml\n\nUser-agent: *\n\nDisallow: /unsupported_browser\nDisallow: /unsupported_mobile\nDisallow: /enable_cookies\nDisallow: /maintenance\nDisallow: /not_found\nDisallow: /unavailable\nDisallow: /attachment/\nDisallow: /download/\nDisallow: /invites/\nDisallow: /iw/\nDisallow: /bookmarks_extension/\nDisallow: /family_sharing/\nDisallow: /calendar/eventreply/\nDisallow: /fmf_getting_started/\nDisallow: /fmf_location_update/\nDisallow: /fmf_location_update_unsubscribe_undo/\nDisallow: /fmf_unsubscribe/\nDisallow: /fmf_unsubscribe_error/\nDisallow: /fmf_unsubscribe_success/\nDisallow: /fmf_unsubscribe_undo/\nDisallow: /fmf_unsupported_device/\nDisallow: /photos_get_started/\nDisallow: /sharedalbum_unsubscribe/\nDisallow: /sharedalbum_unsubscribe_error/\nDisallow: /sharedalbum_unsubscribe_undo/\nDisallow: /sharedalbum_unsupported_device/\nDisallow: /photostream_unsubscribe/\nDisallow: /iclouddrive/\nDisallow: /notes/\nDisallow: /photos/\nDisallow: /reminders/\nDisallow: /share/\nDisallow: /pages/\nDisallow: /numbers/\nDisallow: /keynote/\nDisallow: /keynote-live/\nDisallow: /sharedalbum/\nDisallow: /ca/ics/\nDisallow: /shared/\n\nUser-agent: Googlebot\nAllow: /\n\nUser-agent: facebookexternalhit\nAllow: /invites/\nAllow: /opengraph/\n"
+    },
+    {
+      "url": "https://www.icloud.com/robots.txt",
+      "timestamp": "2026-11-12T21:11:30.127461+00:00",
+      "status": 200,
+      "decision": "parsed",
+      "final_url": "https://www.icloud.com/robots.txt",
+      "redirect_chain": [],
+      "body_sha256": "7c0da5b622a8703a69e156d3df581d1a2c5d4106a0da2e85c4db8f18c5a9e9c8",
+      "body": "\nSitemap: https://www.icloud.com/sitemap.xml\nSitemap: https://www.icloud.com/sitemap-info.xml\n\nUser-agent: *\n\nDisallow: /unsupported_browser\nDisallow: /unsupported_mobile\nDisallow: /enable_cookies\nDisallow: /maintenance\nDisallow: /not_found\nDisallow: /unavailable\nDisallow: /attachment/\nDisallow: /download/\nDisallow: /invites/\nDisallow: /iw/\nDisallow: /bookmarks_extension/\nDisallow: /family_sharing/\nDisallow: /calendar/eventreply/\nDisallow: /fmf_getting_started/\nDisallow: /fmf_location_update/\nDisallow: /fmf_location_update_unsubscribe_undo/\nDisallow: /fmf_unsubscribe/\nDisallow: /fmf_unsubscribe_error/\nDisallow: /fmf_unsubscribe_success/\nDisallow: /fmf_unsubscribe_undo/\nDisallow: /fmf_unsupported_device/\nDisallow: /photos_get_started/\nDisallow: /sharedalbum_unsubscribe/\nDisallow: /sharedalbum_unsubscribe_error/\nDisallow: /sharedalbum_unsubscribe_undo/\nDisallow: /sharedalbum_unsupported_device/\nDisallow: /photostream_unsubscribe/\nDisallow: /iclouddrive/\nDisallow: /notes/\nDisallow: /photos/\nDisallow: /reminders/\nDisallow: /share/\nDisallow: /pages/\nDisallow: /numbers/\nDisallow: /keynote/\nDisallow: /keynote-live/\nDisallow: /sharedalbum/\nDisallow: /ca/ics/\nDisallow: /shared/\n\nUser-agent: Googlebot\nAllow: /\n\nUser-agent: facebookexternalhit\nAllow: /invites/\nAllow: /opengraph/\n"
+    }
+  ],
+  "eligible_pages": 1,
+  "canonical_origin": [
+    "https",
+    "www.icloud.com",
+    443
+  ],
+  "stop_reason": "frontier_exhausted",
+  "elapsed_seconds": 1.14
+}

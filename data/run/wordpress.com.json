@@ -1,0 +1,1310 @@
+{
+  "site": {
+    "rank": "99",
+    "domain": "wordpress.com",
+    "stratum": "1-100"
+  },
+  "rows": [
+    {
+      "rank": "99",
+      "domain": "wordpress.com",
+      "stratum": "1-100",
+      "requested_url": "https://wordpress.com/",
+      "depth": 0,
+      "parent_url": "",
+      "attempt": 1,
+      "timestamp": "2026-11-12T21:11:33.350320+00:00",
+      "final_url": "https://wordpress.com/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; preload"
+        ]
+      },
+      "body_bytes": 363320,
+      "truncated": false,
+      "body_sha256": "65f9101f73e6f87d0dd9ca90e0e8ece1ff081184cc31cd957b49681a674b036b",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "WordPress.com: Everything You Need to Build Your Website",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "99",
+      "domain": "wordpress.com",
+      "stratum": "1-100",
+      "requested_url": "https://wordpress.com/support/",
+      "depth": 1,
+      "parent_url": "https://wordpress.com/",
+      "attempt": 2,
+      "timestamp": "2026-11-12T21:11:33.935338+00:00",
+      "final_url": "https://wordpress.com/support/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; preload"
+        ]
+      },
+      "body_bytes": 249017,
+      "truncated": false,
+      "body_sha256": "284e7f132f222689f07999b8114682d4882a8ac340d601bd26319be740d47e53",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "WordPress.com Help Center | WordPress.com Support",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "99",
+      "domain": "wordpress.com",
+      "stratum": "1-100",
+      "requested_url": "https://wordpress.com/start/",
+      "depth": 2,
+      "parent_url": "https://wordpress.com/support/",
+      "attempt": 3,
+      "timestamp": "2026-11-12T21:11:35.453199+00:00",
+      "final_url": "https://wordpress.com/start/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "default-src 'self'; script-src 'self' 'report-sample' 'nonce-c29e01fd65a1011ce3eadd014a4300214b61e4575f9707648dd9cc55db3a92b5bff926e05ffec10c6d49c7f678bbae99' stats.wp.com https://widgets.wp.com *.wordpress.com https://apis.google.com https://appleid.cdn-apple.com www.google-analytics.com use.typekit.net js.stripe.com js.verygoodvault.com www.paypal.com www.paypalobjects.com cdn.siftscience.com survey.survicate.com surveys-static-prd.survicate-cdn.com https://cdn.smooch.io https://static.zdassets.com *.zendesk.com https://www.gstatic.com https://static.ads-twitter.com https://connect.facebook.net https://snap.licdn.com www.redditstatic.com https://analytics.tiktok.com https://bzrcdn.openai.com/ https://bzr.openai.com/ https://a.quora.com www.googletagmanager.com https://accounts.google.com https://bat.bing.com https://blackbox-api.wp.com; base-uri 'none'; style-src 'self' *.wp.com https://fonts.googleapis.com use.typekit.net surveys-static-prd.survicate-cdn.com https://cdn.smooch.io https://www.gstatic.com 'unsafe-inline'; form-action 'self'; object-src 'none'; img-src 'self' data: *.wp.com *.wp.org https://wordpress.com *.wordpress.com *.files.wordpress.com *.gravatar.com https://cdn.bsky.app https://video.bsky.app https://video.cdn.bsky.app https://t.co https://www.google-analytics.com *.doubleclick.net https://analytics.twitter.com https://www.facebook.com https://alb.reddit.com https://*.google.com https://*.google.com.my https://*.google.co.uk https://*.google.de https://*.google.fr https://*.google.es https://*.google.it https://*.google.ca https://*.google.com.au https://*.google.co.jp https://*.google.com.br https://*.google.com.pk https://*.google.co.in https://*.google.com.mx https://*.google.nl https://*.google.co.id https://*.google.cd https://*.google.lu https://*.google.com.tr https://*.google.sm https://*.google.com.ng https://*.google.co.ma https://*.google.ro https://*.googletagmanager.com https://gravatar.com https://linkmaker.itunes.apple.com https://cdn.smooch.io https://bat.bing.com https://amplifypixel.outbrain.com https://hexagon-analytics.com https://img.youtube.com *.ads.linkedin.com https://ps.w.org https://ts.w.org https://s.w.org https://woocommerce.com localhost:8888 p.typekit.net https://q.quora.com; frame-src 'self' https://public-api.wordpress.com https://accounts.google.com/ https://www.googletagmanager.com https://jetpack.com *.doubleclick.net *.wordpress.com js.stripe.com *.stripe.com *.verygoodsecurity.com www.paypal.com *.paypal.com https://blackbox-api.wp.com; font-src 'self' *.wp.com https://fonts.gstatic.com use.typekit.net https://woocommerce.com surveys-static-prd.survicate-cdn.com https://cdn.smooch.io data:; media-src 'self' blob: https://video.bsky.app https://video.cdn.bsky.app; connect-src 'self' https://*.wordpress.com/ wss://*.wordpress.com https://*.wp.com https://wordpress.com *.doubleclick.net https://api.wordpress.org https://pixel.wp.com https://*.google.com www.google-analytics.com https://region1.google-analytics.com https://www.googletagmanager.com https://www.facebook.com https://bat.bing.com https://px.ads.linkedin.com https://*.survicate.com *.sentry.io *.reddit.com https://video.bsky.app https://video.cdn.bsky.app https://analytics.tiktok.com https://analytics-ipv6.tiktokw.us https://a.quora.com *.stripe.com api.stripe.com *.verygoodsecurity.com *.paypal.com *.zendesk.com wss://*.zendesk.com https://ekr.zdassets.com https://*.config.smooch.io https://*.openai.com https://t.co https://analytics.twitter.com; report-uri /cspreport"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000; preload"
+        ]
+      },
+      "body_bytes": 127185,
+      "truncated": false,
+      "body_sha256": "2f5a1a0cc48d5ad2dc5136eb5788767a81aba86beb3cacd8e88ab86aefc05e3f",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "WordPress.com",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "99",
+      "domain": "wordpress.com",
+      "stratum": "1-100",
+      "requested_url": "https://wordpress.com/pricing/",
+      "depth": 1,
+      "parent_url": "https://wordpress.com/",
+      "attempt": 4,
+      "timestamp": "2026-11-12T21:11:35.590037+00:00",
+      "final_url": "https://wordpress.com/pricing/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; preload"
+        ]
+      },
+      "body_bytes": 683346,
+      "truncated": false,
+      "body_sha256": "1b590b762952dc3372c229a3d7114f2f6e061d3456614d6cd9e412a6d3c04911",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "WordPress.com Pricing | Find the Right Plan for You",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "99",
+      "domain": "wordpress.com",
+      "stratum": "1-100",
+      "requested_url": "https://wordpress.com/de/support/",
+      "depth": 2,
+      "parent_url": "https://wordpress.com/support/",
+      "attempt": 5,
+      "timestamp": "2026-11-12T21:11:36.492498+00:00",
+      "final_url": "https://wordpress.com/de/support/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; preload"
+        ]
+      },
+      "body_bytes": 256659,
+      "truncated": false,
+      "body_sha256": "1ba47045ac74514da849dffedf007487bbc79295ea5b55b8b264d838620edd21",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Support \u2013 Der offizielle WordPress.com-Kundensupport",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "99",
+      "domain": "wordpress.com",
+      "stratum": "1-100",
+      "requested_url": "https://wordpress.com/log-in/de",
+      "depth": 3,
+      "parent_url": "https://wordpress.com/de/support/",
+      "attempt": 6,
+      "timestamp": "2026-11-12T21:11:36.951778+00:00",
+      "final_url": "https://wordpress.com/log-in/de",
+      "status": 403,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; preload"
+        ]
+      },
+      "body_bytes": 1762,
+      "truncated": false,
+      "body_sha256": "fc89e2a14f48c43f7c85082a9360f737c7b13e2180a76370e7ae7a4ed6e3355f",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "99",
+      "domain": "wordpress.com",
+      "stratum": "1-100",
+      "requested_url": "https://wordpress.com/setup/domain-transfer/de",
+      "depth": 3,
+      "parent_url": "https://wordpress.com/de/support/",
+      "attempt": 7,
+      "timestamp": "2026-11-12T21:11:37.041355+00:00",
+      "final_url": "https://wordpress.com/setup/domain-transfer/de",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "default-src 'self'; script-src 'self' 'report-sample' 'nonce-ca6c63cc6ddb068769d6241d0798e6d2d2dd96d263c66890fdb468b0b8d68c935a56cdd0ffc2353468d1707c6acaee7f' stats.wp.com https://widgets.wp.com *.wordpress.com https://apis.google.com https://appleid.cdn-apple.com www.google-analytics.com use.typekit.net js.stripe.com js.verygoodvault.com www.paypal.com www.paypalobjects.com cdn.siftscience.com survey.survicate.com surveys-static-prd.survicate-cdn.com https://cdn.smooch.io https://static.zdassets.com *.zendesk.com https://www.gstatic.com https://static.ads-twitter.com https://connect.facebook.net https://snap.licdn.com www.redditstatic.com https://analytics.tiktok.com https://bzrcdn.openai.com/ https://bzr.openai.com/ https://a.quora.com www.googletagmanager.com https://accounts.google.com https://bat.bing.com https://blackbox-api.wp.com; base-uri 'none'; style-src 'self' *.wp.com https://fonts.googleapis.com use.typekit.net surveys-static-prd.survicate-cdn.com https://cdn.smooch.io https://www.gstatic.com 'unsafe-inline'; form-action 'self'; object-src 'none'; img-src 'self' data: *.wp.com *.wp.org https://wordpress.com *.wordpress.com *.files.wordpress.com *.gravatar.com https://cdn.bsky.app https://video.bsky.app https://video.cdn.bsky.app https://t.co https://www.google-analytics.com *.doubleclick.net https://analytics.twitter.com https://www.facebook.com https://alb.reddit.com https://*.google.com https://*.google.com.my https://*.google.co.uk https://*.google.de https://*.google.fr https://*.google.es https://*.google.it https://*.google.ca https://*.google.com.au https://*.google.co.jp https://*.google.com.br https://*.google.com.pk https://*.google.co.in https://*.google.com.mx https://*.google.nl https://*.google.co.id https://*.google.cd https://*.google.lu https://*.google.com.tr https://*.google.sm https://*.google.com.ng https://*.google.co.ma https://*.google.ro https://*.googletagmanager.com https://gravatar.com https://linkmaker.itunes.apple.com https://cdn.smooch.io https://bat.bing.com https://amplifypixel.outbrain.com https://hexagon-analytics.com https://img.youtube.com *.ads.linkedin.com https://ps.w.org https://ts.w.org https://s.w.org https://woocommerce.com localhost:8888 p.typekit.net https://q.quora.com; frame-src 'self' https://public-api.wordpress.com https://accounts.google.com/ https://www.googletagmanager.com https://jetpack.com *.doubleclick.net *.wordpress.com js.stripe.com *.stripe.com *.verygoodsecurity.com www.paypal.com *.paypal.com https://blackbox-api.wp.com; font-src 'self' *.wp.com https://fonts.gstatic.com use.typekit.net https://woocommerce.com surveys-static-prd.survicate-cdn.com https://cdn.smooch.io data:; media-src 'self' blob: https://video.bsky.app https://video.cdn.bsky.app; connect-src 'self' https://*.wordpress.com/ wss://*.wordpress.com https://*.wp.com https://wordpress.com *.doubleclick.net https://api.wordpress.org https://pixel.wp.com https://*.google.com www.google-analytics.com https://region1.google-analytics.com https://www.googletagmanager.com https://www.facebook.com https://bat.bing.com https://px.ads.linkedin.com https://*.survicate.com *.sentry.io *.reddit.com https://video.bsky.app https://video.cdn.bsky.app https://analytics.tiktok.com https://analytics-ipv6.tiktokw.us https://a.quora.com *.stripe.com api.stripe.com *.verygoodsecurity.com *.paypal.com *.zendesk.com wss://*.zendesk.com https://ekr.zdassets.com https://*.config.smooch.io https://*.openai.com https://t.co https://analytics.twitter.com; report-uri /cspreport"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000; preload"
+        ]
+      },
+      "body_bytes": 138632,
+      "truncated": false,
+      "body_sha256": "2fba76d4453f4676d69ade9962bb8f8bfc54ef18d96f260d61b1e80ec6b529f3",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "WordPress.comWordPress",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "99",
+      "domain": "wordpress.com",
+      "stratum": "1-100",
+      "requested_url": "https://wordpress.com/website-builder/",
+      "depth": 1,
+      "parent_url": "https://wordpress.com/",
+      "attempt": 8,
+      "timestamp": "2026-11-12T21:11:37.711880+00:00",
+      "final_url": "https://wordpress.com/website-builder/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; preload"
+        ]
+      },
+      "body_bytes": 270390,
+      "truncated": false,
+      "body_sha256": "12789be92236558ed9a8652c18462138a04e2255793720cc6a1b48f52e880543",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Website Builder \u2014 Create a Website Free | WordPress.com",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "99",
+      "domain": "wordpress.com",
+      "stratum": "1-100",
+      "requested_url": "https://wordpress.com/es/support/",
+      "depth": 2,
+      "parent_url": "https://wordpress.com/support/",
+      "attempt": 9,
+      "timestamp": "2026-11-12T21:11:38.571375+00:00",
+      "final_url": "https://wordpress.com/es/support/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; preload"
+        ]
+      },
+      "body_bytes": 250513,
+      "truncated": false,
+      "body_sha256": "e456444ffe634fb02e2636fef70076f5d0a8191e2a70f95898108329862cf07f",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Servicio de soporte WordPress.com \u2013 Atenci\u00f3n al cliente oficial de WordPress.com",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "99",
+      "domain": "wordpress.com",
+      "stratum": "1-100",
+      "requested_url": "https://wordpress.com/ecommerce/",
+      "depth": 1,
+      "parent_url": "https://wordpress.com/",
+      "attempt": 10,
+      "timestamp": "2026-11-12T21:11:39.134052+00:00",
+      "final_url": "https://wordpress.com/ecommerce/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; preload"
+        ]
+      },
+      "body_bytes": 290759,
+      "truncated": false,
+      "body_sha256": "b5cbb6aabaffb488c3ef07b7b3e2c8fa2c348dfb9578fececf0663da47d35a9a",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Best Ecommerce Platform for WordPress | WordPress.com",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "99",
+      "domain": "wordpress.com",
+      "stratum": "1-100",
+      "requested_url": "https://wordpress.com/fr/support/",
+      "depth": 2,
+      "parent_url": "https://wordpress.com/support/",
+      "attempt": 11,
+      "timestamp": "2026-11-12T21:11:39.272421+00:00",
+      "final_url": "https://wordpress.com/fr/support/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; preload"
+        ]
+      },
+      "body_bytes": 258173,
+      "truncated": false,
+      "body_sha256": "4e2d28d1078e21eb0126d0258072291857ae7835248078c7660781fb1d7a8269",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Assistance WordPress.com \u2013 Support officiel pour utilisateurs",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "99",
+      "domain": "wordpress.com",
+      "stratum": "1-100",
+      "requested_url": "https://wordpress.com/ai-website-builder/",
+      "depth": 1,
+      "parent_url": "https://wordpress.com/",
+      "attempt": 12,
+      "timestamp": "2026-11-12T21:11:40.229466+00:00",
+      "final_url": "https://wordpress.com/ai-website-builder/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; preload"
+        ]
+      },
+      "body_bytes": 315895,
+      "truncated": false,
+      "body_sha256": "de7d2365bc4c7a78abdd53eb12c58ca6eb04bd7635d6ca70894653283d994447",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "AI Website Builder | Create a WordPress.com Site in Minutes",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "99",
+      "domain": "wordpress.com",
+      "stratum": "1-100",
+      "requested_url": "https://wordpress.com/id/support/",
+      "depth": 2,
+      "parent_url": "https://wordpress.com/support/",
+      "attempt": 13,
+      "timestamp": "2026-11-12T21:11:40.363445+00:00",
+      "final_url": "https://wordpress.com/id/support/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; preload"
+        ]
+      },
+      "body_bytes": 252583,
+      "truncated": false,
+      "body_sha256": "907f881af564a4eefc530fe727d986fafc94150416da196d59feaa90f5789406",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Dukungan \u2013 Dukungan Pelanggan WordPress.com Resmi",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "99",
+      "domain": "wordpress.com",
+      "stratum": "1-100",
+      "requested_url": "https://wordpress.com/create-blog/",
+      "depth": 1,
+      "parent_url": "https://wordpress.com/",
+      "attempt": 14,
+      "timestamp": "2026-11-12T21:11:40.854572+00:00",
+      "final_url": "https://wordpress.com/create-blog/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; preload"
+        ]
+      },
+      "body_bytes": 404484,
+      "truncated": false,
+      "body_sha256": "b94333be25408adc45b171acc665b68432119318d3983be2253f61d2a4abb5c4",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Blog Hosting \u2013 Free Blogging Platform | WordPress.com",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "99",
+      "domain": "wordpress.com",
+      "stratum": "1-100",
+      "requested_url": "https://wordpress.com/it/support/",
+      "depth": 2,
+      "parent_url": "https://wordpress.com/support/",
+      "attempt": 15,
+      "timestamp": "2026-11-12T21:11:41.688700+00:00",
+      "final_url": "https://wordpress.com/it/support/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; preload"
+        ]
+      },
+      "body_bytes": 254710,
+      "truncated": false,
+      "body_sha256": "7eec43ed5d9af3e09e96572e045f42723f04888f944ab558b7ad39f44f0ff0f8",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Supporto \u2013 Supporto personalizzato ufficiale di WordPress.com",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "99",
+      "domain": "wordpress.com",
+      "stratum": "1-100",
+      "requested_url": "https://wordpress.com/newsletter/",
+      "depth": 1,
+      "parent_url": "https://wordpress.com/",
+      "attempt": 16,
+      "timestamp": "2026-11-12T21:11:41.855183+00:00",
+      "final_url": "https://wordpress.com/newsletter/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; preload"
+        ]
+      },
+      "body_bytes": 362893,
+      "truncated": false,
+      "body_sha256": "f18c61f63827acffe0d1e12d9c6c9f02e4e6f79b15a7cf32c1d20d07cc1e4226",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Start a Free Newsletter With a Website | WordPress.com",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "99",
+      "domain": "wordpress.com",
+      "stratum": "1-100",
+      "requested_url": "https://wordpress.com/nl/support/",
+      "depth": 2,
+      "parent_url": "https://wordpress.com/support/",
+      "attempt": 17,
+      "timestamp": "2026-11-12T21:11:42.783615+00:00",
+      "final_url": "https://wordpress.com/nl/support/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; preload"
+        ]
+      },
+      "body_bytes": 252842,
+      "truncated": false,
+      "body_sha256": "73f61762ced0c264609f702d3bb6e339bf4cdf08dbe2c88fb40ffca947dfa79f",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Ondersteuning \u2013 Offici\u00eble klantenservice van WordPress.com",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "99",
+      "domain": "wordpress.com",
+      "stratum": "1-100",
+      "requested_url": "https://wordpress.com/hosting/",
+      "depth": 1,
+      "parent_url": "https://wordpress.com/",
+      "attempt": 18,
+      "timestamp": "2026-11-12T21:11:43.283643+00:00",
+      "final_url": "https://wordpress.com/hosting/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; preload"
+        ]
+      },
+      "body_bytes": 444292,
+      "truncated": false,
+      "body_sha256": "73dce7f31ec5b6b23613ed90223ca6f9cee5867a4de5edbd59733e74ad933d9e",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Website Hosting \u2013 Best Managed WordPress Hosting | WordPress.com",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "99",
+      "domain": "wordpress.com",
+      "stratum": "1-100",
+      "requested_url": "https://wordpress.com/pt-br/support/",
+      "depth": 2,
+      "parent_url": "https://wordpress.com/support/",
+      "attempt": 19,
+      "timestamp": "2026-11-12T21:11:43.789516+00:00",
+      "final_url": "https://wordpress.com/pt-br/support/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; preload"
+        ]
+      },
+      "body_bytes": 256384,
+      "truncated": false,
+      "body_sha256": "7856d5e1ebbce48cf9828fbd4fb52cc108167b484527838ce0c3bacdf07db032",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Suporte",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "99",
+      "domain": "wordpress.com",
+      "stratum": "1-100",
+      "requested_url": "https://wordpress.com/for-agencies/",
+      "depth": 1,
+      "parent_url": "https://wordpress.com/",
+      "attempt": 20,
+      "timestamp": "2026-11-12T21:11:43.931513+00:00",
+      "final_url": "https://wordpress.com/for-agencies/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; preload"
+        ]
+      },
+      "body_bytes": 210875,
+      "truncated": false,
+      "body_sha256": "69889763a6d01eb257cfbe457836e49b3832ed52fec33cc9297d9d85820be8a6",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "WordPress for Agencies: Hosting & Partner Program | WordPress.com",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "99",
+      "domain": "wordpress.com",
+      "stratum": "1-100",
+      "requested_url": "https://wordpress.com/sv/support/",
+      "depth": 2,
+      "parent_url": "https://wordpress.com/support/",
+      "attempt": 21,
+      "timestamp": "2026-11-12T21:11:44.556361+00:00",
+      "final_url": "https://wordpress.com/sv/support/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; preload"
+        ]
+      },
+      "body_bytes": 254713,
+      "truncated": false,
+      "body_sha256": "04492fe66ff5f70b5a7dbb13ce98d4c563ba172b3b8a77df8a134d0765499ccb",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "WordPress.com Support \u2013 Officiell WordPress.com-kundsupport",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "99",
+      "domain": "wordpress.com",
+      "stratum": "1-100",
+      "requested_url": "https://wordpress.com/move/",
+      "depth": 1,
+      "parent_url": "https://wordpress.com/",
+      "attempt": 22,
+      "timestamp": "2026-11-12T21:11:45.420574+00:00",
+      "final_url": "https://wordpress.com/move/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; preload"
+        ]
+      },
+      "body_bytes": 676433,
+      "truncated": false,
+      "body_sha256": "68cffc590d2d1853ef829914c1b37482b2ca0c3f3f0637168eb8fdb6d63efcd3",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Move to WordPress.com - Start Your Free, Easy Site Migration",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "99",
+      "domain": "wordpress.com",
+      "stratum": "1-100",
+      "requested_url": "https://wordpress.com/tr/support/",
+      "depth": 2,
+      "parent_url": "https://wordpress.com/support/",
+      "attempt": 23,
+      "timestamp": "2026-11-12T21:11:46.114376+00:00",
+      "final_url": "https://wordpress.com/tr/support/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; preload"
+        ]
+      },
+      "body_bytes": 259129,
+      "truncated": false,
+      "body_sha256": "8b24cf4098ad9fa3b79f0d9df08921e4a741f546e337c8163214033315ae3e12",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "WordPress.com Destek \u2013 Resmi WordPress.com M\u00fc\u015fteri Deste\u011fi",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "99",
+      "domain": "wordpress.com",
+      "stratum": "1-100",
+      "requested_url": "https://wordpress.com/domains/",
+      "depth": 1,
+      "parent_url": "https://wordpress.com/",
+      "attempt": 24,
+      "timestamp": "2026-11-12T21:11:46.552001+00:00",
+      "final_url": "https://wordpress.com/domains/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; preload"
+        ]
+      },
+      "body_bytes": 236030,
+      "truncated": false,
+      "body_sha256": "a6b431abb3495ff4d07817eec2d592f7364738cc5ce43320fe4303edc490d39b",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Domain Name Search - Find Your WordPress.com Domain Now",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "99",
+      "domain": "wordpress.com",
+      "stratum": "1-100",
+      "requested_url": "https://wordpress.com/ru/support/",
+      "depth": 2,
+      "parent_url": "https://wordpress.com/support/",
+      "attempt": 25,
+      "timestamp": "2026-11-12T21:11:47.130762+00:00",
+      "final_url": "https://wordpress.com/ru/support/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; preload"
+        ]
+      },
+      "body_bytes": 298170,
+      "truncated": false,
+      "body_sha256": "de37108129703e4d90ff73bf6f8e75cc0bffef8b47d582cc7acdd99a6132cb00",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "\u041f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0430 \u2014 \u043e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u0430\u044f \u0441\u043b\u0443\u0436\u0431\u0430 \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0438 WordPress.com",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "99",
+      "domain": "wordpress.com",
+      "stratum": "1-100",
+      "requested_url": "https://wordpress.com/professional-email/",
+      "depth": 1,
+      "parent_url": "https://wordpress.com/",
+      "attempt": 26,
+      "timestamp": "2026-11-12T21:11:47.476204+00:00",
+      "final_url": "https://wordpress.com/professional-email/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; preload"
+        ]
+      },
+      "body_bytes": 241440,
+      "truncated": false,
+      "body_sha256": "4f7f9cc6f603e6bd9425fa7df24f9fc29f568491400f11274eb4733e9d0f696c",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Business Email with Your Domain | Free 3-month Trial",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "99",
+      "domain": "wordpress.com",
+      "stratum": "1-100",
+      "requested_url": "https://wordpress.com/ar/support/",
+      "depth": 2,
+      "parent_url": "https://wordpress.com/support/",
+      "attempt": 27,
+      "timestamp": "2026-11-12T21:11:48.148378+00:00",
+      "final_url": "https://wordpress.com/ar/support/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; preload"
+        ]
+      },
+      "body_bytes": 292820,
+      "truncated": false,
+      "body_sha256": "7e9eaaf433c62e2cb032be9164667a1f001acd33742c565fdfd7177d7a33ccb6",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "\u0627\u0644\u062f\u0639\u0645 \u2013 \u062f\u0639\u0645 \u0639\u0645\u0644\u0627\u0621 \u0645\u0648\u0642\u0639 \u0648\u0648\u0631\u062f\u0628\u0631\u064a\u0633.\u0643\u0648\u0645 \u0627\u0644\u0631\u0633\u0645\u064a",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "99",
+      "domain": "wordpress.com",
+      "stratum": "1-100",
+      "requested_url": "https://wordpress.com/affiliates/",
+      "depth": 1,
+      "parent_url": "https://wordpress.com/",
+      "attempt": 28,
+      "timestamp": "2026-11-12T21:11:48.441120+00:00",
+      "final_url": "https://wordpress.com/affiliates/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; preload"
+        ]
+      },
+      "body_bytes": 316957,
+      "truncated": false,
+      "body_sha256": "3220319d1d7ad7210926a77a53a364bab51c911544c67aa8b9956a9713f78773",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Grow Your Income as a\u00a0WordPress.com Affiliate",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "99",
+      "domain": "wordpress.com",
+      "stratum": "1-100",
+      "requested_url": "https://wordpress.com/he/support/",
+      "depth": 2,
+      "parent_url": "https://wordpress.com/support/",
+      "attempt": 29,
+      "timestamp": "2026-11-12T21:11:49.052876+00:00",
+      "final_url": "https://wordpress.com/he/support/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; preload"
+        ]
+      },
+      "body_bytes": 270367,
+      "truncated": false,
+      "body_sha256": "876115be278825a03d1bd582b8f3587fabe7b84ac0c8c664717b09c1f35dace7",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "\u05ea\u05de\u05d9\u05db\u05d4 \u2013 \u05ea\u05de\u05d9\u05db\u05d4 \u05e8\u05e9\u05de\u05d9\u05ea \u05e9\u05dc \u05dc\u05e7\u05d5\u05d7\u05d5\u05ea WordPress.com",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "99",
+      "domain": "wordpress.com",
+      "stratum": "1-100",
+      "requested_url": "https://wordpress.com/reader/blogs/12084301/posts/6604",
+      "depth": 3,
+      "parent_url": "https://wordpress.com/he/support/",
+      "attempt": 30,
+      "timestamp": "2026-11-12T21:11:49.347946+00:00",
+      "error": "robots_denied",
+      "final_url": "https://wordpress.com/reader/blogs/12084301/posts/6604",
+      "redirect_chain": [],
+      "html": false,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "99",
+      "domain": "wordpress.com",
+      "stratum": "1-100",
+      "requested_url": "https://wordpress.com/business-name-generator/",
+      "depth": 1,
+      "parent_url": "https://wordpress.com/",
+      "attempt": 31,
+      "timestamp": "2026-11-12T21:11:49.350004+00:00",
+      "final_url": "https://wordpress.com/business-name-generator/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; preload"
+        ]
+      },
+      "body_bytes": 198644,
+      "truncated": false,
+      "body_sha256": "64cb5bacaa8bc1bc5b50bff3b9106b49a0c5bdcf245247cb34f6939a2c84e799",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "WordPress.com Instant Business Name Generator",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "99",
+      "domain": "wordpress.com",
+      "stratum": "1-100",
+      "requested_url": "https://wordpress.com/ja/support/",
+      "depth": 2,
+      "parent_url": "https://wordpress.com/support/",
+      "attempt": 32,
+      "timestamp": "2026-11-12T21:11:50.120670+00:00",
+      "final_url": "https://wordpress.com/ja/support/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; preload"
+        ]
+      },
+      "body_bytes": 267813,
+      "truncated": false,
+      "body_sha256": "26819a57783d4acc5873639160037e0adf172502227eb031f0b9d6b55b88c3ef",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "\u65e5\u672c\u8a9e\u30b5\u30dd\u30fc\u30c8 \u2013 \u516c\u5f0f WordPress.com \u30ab\u30b9\u30bf\u30de\u30fc\u30b5\u30dd\u30fc\u30c8",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "99",
+      "domain": "wordpress.com",
+      "stratum": "1-100",
+      "requested_url": "https://wordpress.com/logo-maker/",
+      "depth": 1,
+      "parent_url": "https://wordpress.com/",
+      "attempt": 33,
+      "timestamp": "2026-11-12T21:11:50.337084+00:00",
+      "final_url": "https://wordpress.com/logo-maker/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; preload"
+        ]
+      },
+      "body_bytes": 181328,
+      "truncated": false,
+      "body_sha256": "2f4152464a95d659e92ef2cbbaa75c4b64e256727d6175f96fa2eea60b603b8b",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Create the Perfect Logo for Your WordPress.com Website",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "99",
+      "domain": "wordpress.com",
+      "stratum": "1-100",
+      "requested_url": "https://wordpress.com/ko/support/",
+      "depth": 2,
+      "parent_url": "https://wordpress.com/support/",
+      "attempt": 34,
+      "timestamp": "2026-11-12T21:11:51.178058+00:00",
+      "final_url": "https://wordpress.com/ko/support/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; preload"
+        ]
+      },
+      "body_bytes": 262216,
+      "truncated": false,
+      "body_sha256": "a43bae92266f67ba337ecaff0d2268133f52c2bf4a9186a8d8bb38dcc9086b6c",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "\uc9c0\uc6d0 \u2013 \uacf5\uc2dd \uc6cc\ub4dc\ud504\ub808\uc2a4\ub2f7\ucef4 \uace0\uac1d \uc9c0\uc6d0",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "99",
+      "domain": "wordpress.com",
+      "stratum": "1-100",
+      "requested_url": "https://wordpress.com/website-design-service/",
+      "depth": 1,
+      "parent_url": "https://wordpress.com/",
+      "attempt": 35,
+      "timestamp": "2026-11-12T21:11:51.740433+00:00",
+      "final_url": "https://wordpress.com/website-design-service/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; preload"
+        ]
+      },
+      "body_bytes": 295553,
+      "truncated": false,
+      "body_sha256": "3bdd63e983603f28d6cb21db2b4dce0489f2112dfb2ff5cd7f55a1abd981fbfc",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Website design services \u2014 WordPress.com",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "99",
+      "domain": "wordpress.com",
+      "stratum": "1-100",
+      "requested_url": "https://wordpress.com/zh-cn/support/",
+      "depth": 2,
+      "parent_url": "https://wordpress.com/support/",
+      "attempt": 36,
+      "timestamp": "2026-11-12T21:11:52.236167+00:00",
+      "final_url": "https://wordpress.com/zh-cn/support/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; preload"
+        ]
+      },
+      "body_bytes": 257947,
+      "truncated": false,
+      "body_sha256": "0385abce4399ffd4522ff8ddba19b07cb2832f20d680b807213cabdf076ea4ab",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "WordPress.com \u652f\u6301 \u2013 \u5ba2\u6237 WordPress.com \u5b98\u65b9\u652f\u6301",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "99",
+      "domain": "wordpress.com",
+      "stratum": "1-100",
+      "requested_url": "https://wordpress.com/site-profiler",
+      "depth": 1,
+      "parent_url": "https://wordpress.com/",
+      "attempt": 37,
+      "timestamp": "2026-11-12T21:11:52.377575+00:00",
+      "final_url": "https://wordpress.com/site-profiler",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "default-src 'self'; script-src 'self' 'report-sample' 'nonce-f971397d09cd5f843e5f6a327bacb1474d7e32cf3c4d8de3c7584ca05ad2996e304cbd02b096e35c0c30aa594a788b1d' stats.wp.com https://widgets.wp.com *.wordpress.com https://apis.google.com https://appleid.cdn-apple.com www.google-analytics.com use.typekit.net js.stripe.com js.verygoodvault.com www.paypal.com www.paypalobjects.com cdn.siftscience.com survey.survicate.com surveys-static-prd.survicate-cdn.com https://cdn.smooch.io https://static.zdassets.com *.zendesk.com https://www.gstatic.com https://static.ads-twitter.com https://connect.facebook.net https://snap.licdn.com www.redditstatic.com https://analytics.tiktok.com https://bzrcdn.openai.com/ https://bzr.openai.com/ https://a.quora.com www.googletagmanager.com https://accounts.google.com https://bat.bing.com https://blackbox-api.wp.com; base-uri 'none'; style-src 'self' *.wp.com https://fonts.googleapis.com use.typekit.net surveys-static-prd.survicate-cdn.com https://cdn.smooch.io https://www.gstatic.com 'unsafe-inline'; form-action 'self'; object-src 'none'; img-src 'self' data: *.wp.com *.wp.org https://wordpress.com *.wordpress.com *.files.wordpress.com *.gravatar.com https://cdn.bsky.app https://video.bsky.app https://video.cdn.bsky.app https://t.co https://www.google-analytics.com *.doubleclick.net https://analytics.twitter.com https://www.facebook.com https://alb.reddit.com https://*.google.com https://*.google.com.my https://*.google.co.uk https://*.google.de https://*.google.fr https://*.google.es https://*.google.it https://*.google.ca https://*.google.com.au https://*.google.co.jp https://*.google.com.br https://*.google.com.pk https://*.google.co.in https://*.google.com.mx https://*.google.nl https://*.google.co.id https://*.google.cd https://*.google.lu https://*.google.com.tr https://*.google.sm https://*.google.com.ng https://*.google.co.ma https://*.google.ro https://*.googletagmanager.com https://gravatar.com https://linkmaker.itunes.apple.com https://cdn.smooch.io https://bat.bing.com https://amplifypixel.outbrain.com https://hexagon-analytics.com https://img.youtube.com *.ads.linkedin.com https://ps.w.org https://ts.w.org https://s.w.org https://woocommerce.com localhost:8888 p.typekit.net https://q.quora.com; frame-src 'self' https://public-api.wordpress.com https://accounts.google.com/ https://www.googletagmanager.com https://jetpack.com *.doubleclick.net *.wordpress.com js.stripe.com *.stripe.com *.verygoodsecurity.com www.paypal.com *.paypal.com https://blackbox-api.wp.com; font-src 'self' *.wp.com https://fonts.gstatic.com use.typekit.net https://woocommerce.com surveys-static-prd.survicate-cdn.com https://cdn.smooch.io data:; media-src 'self' blob: https://video.bsky.app https://video.cdn.bsky.app; connect-src 'self' https://*.wordpress.com/ wss://*.wordpress.com https://*.wp.com https://wordpress.com *.doubleclick.net https://api.wordpress.org https://pixel.wp.com https://*.google.com www.google-analytics.com https://region1.google-analytics.com https://www.googletagmanager.com https://www.facebook.com https://bat.bing.com https://px.ads.linkedin.com https://*.survicate.com *.sentry.io *.reddit.com https://video.bsky.app https://video.cdn.bsky.app https://analytics.tiktok.com https://analytics-ipv6.tiktokw.us https://a.quora.com *.stripe.com api.stripe.com *.verygoodsecurity.com *.paypal.com *.zendesk.com wss://*.zendesk.com https://ekr.zdassets.com https://*.config.smooch.io https://*.openai.com https://t.co https://analytics.twitter.com; report-uri /cspreport"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000; preload"
+        ]
+      },
+      "body_bytes": 178346,
+      "truncated": false,
+      "body_sha256": "a9b14fca08a794e88828f1796882c7d78ddffbe428f987f81cfc0f386ea07162",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "WordPress.com",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "99",
+      "domain": "wordpress.com",
+      "stratum": "1-100",
+      "requested_url": "https://wordpress.com/zh-tw/support/",
+      "depth": 2,
+      "parent_url": "https://wordpress.com/support/",
+      "attempt": 38,
+      "timestamp": "2026-11-12T21:11:53.286967+00:00",
+      "final_url": "https://wordpress.com/zh-tw/support/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; preload"
+        ]
+      },
+      "body_bytes": 259613,
+      "truncated": false,
+      "body_sha256": "f75ecae447a6d2ddfb769a3599856bdf41f0d59a3a0fa2e9d1035500379d58e9",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "WordPress.com \u652f\u63f4 \u2013 WordPress.com \u5b98\u65b9\u5ba2\u6236\u652f\u63f4\u5718\u968a",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "99",
+      "domain": "wordpress.com",
+      "stratum": "1-100",
+      "requested_url": "https://wordpress.com/blog/category/development/",
+      "depth": 1,
+      "parent_url": "https://wordpress.com/",
+      "attempt": 39,
+      "timestamp": "2026-11-12T21:11:53.487211+00:00",
+      "final_url": "https://wordpress.com/blog/category/development/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; preload"
+        ]
+      },
+      "body_bytes": 219710,
+      "truncated": false,
+      "body_sha256": "ce66ba3c3135e267e7cf32c84428151cf26421aceeaf9661a652cffeb220e8d2",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Development \u2013 WordPress.com Blog",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "99",
+      "domain": "wordpress.com",
+      "stratum": "1-100",
+      "requested_url": "https://wordpress.com/nb/pricing/",
+      "depth": 2,
+      "parent_url": "https://wordpress.com/pricing/",
+      "attempt": 40,
+      "timestamp": "2026-11-12T21:11:53.995792+00:00",
+      "final_url": "https://wordpress.com/nb/pricing/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; preload"
+        ]
+      },
+      "body_bytes": 629151,
+      "truncated": false,
+      "body_sha256": "9c3169154b9723f26b626c90d70e4c887a2d3223703d27a1f3bbade8a5aba678",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "WordPress.com priser og planer | Bygg ditt nettsted i dag",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "99",
+      "domain": "wordpress.com",
+      "stratum": "1-100",
+      "requested_url": "https://wordpress.com/pl/pricing",
+      "depth": 3,
+      "parent_url": "https://wordpress.com/nb/pricing/",
+      "attempt": 41,
+      "timestamp": "2026-11-12T21:11:55.484064+00:00",
+      "final_url": "https://wordpress.com/pl/pricing/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; preload"
+        ]
+      },
+      "body_bytes": 701425,
+      "truncated": false,
+      "body_sha256": "6a76b6bc3f6a6b6a82e2c57aeef8e48676df5627a0dd96f4e940bb9a5262bc86",
+      "redirect_chain": [
+        {
+          "url": "https://wordpress.com/pl/pricing",
+          "status": 301,
+          "location": "https://wordpress.com/pl/pricing/",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000; preload"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Cennik WordPress.com | Znajd\u017a idealny plan do swojej witryny",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "99",
+      "domain": "wordpress.com",
+      "stratum": "1-100",
+      "requested_url": "https://wordpress.com/ro/pricing",
+      "depth": 3,
+      "parent_url": "https://wordpress.com/nb/pricing/",
+      "attempt": 42,
+      "timestamp": "2026-11-12T21:11:56.384404+00:00",
+      "final_url": "https://wordpress.com/ro/pricing/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; preload"
+        ]
+      },
+      "body_bytes": 652365,
+      "truncated": false,
+      "body_sha256": "e138c38aecb3d23b528c3ffdb5ff29821a689766da4d0410b0e2a3ae029a9612",
+      "redirect_chain": [
+        {
+          "url": "https://wordpress.com/ro/pricing",
+          "status": 301,
+          "location": "https://wordpress.com/ro/pricing/",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000; preload"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Pre\u021buri \u0219i planuri WordPress.com | \u00cencepe s\u0103 construie\u0219ti azi",
+      "duplicate_final": false,
+      "eligible": true
+    }
+  ],
+  "robots": [
+    {
+      "url": "https://wordpress.com/robots.txt",
+      "timestamp": "2026-11-12T21:11:33.350289+00:00",
+      "status": 200,
+      "decision": "parsed",
+      "final_url": "https://wordpress.com/robots.txt",
+      "redirect_chain": [],
+      "body_sha256": "4c6624558c79ed5e3defff9aa06f727c1a35337a3295b7106a49d7796d96df43",
+      "body": "# If you are regularly crawling WordPress.com sites, please use our firehose to receive real-time push updates instead.\n# Please see https://developer.wordpress.com/docs/firehose/ for more details.\n\nSitemap: https://wordpress.com/sitemap.xml\nSitemap: https://wordpress.com/news-sitemap.xml\n\nSitemap: https://wordpress.com/go/sitemap.xml\nSitemap: https://wordpress.com/blog/sitemap.xml\nSitemap: https://wordpress.com/support/sitemap.xml\n\nUser-agent: *\nDisallow: /wp-admin/\nAllow: /wp-admin/admin-ajax.php\nDisallow: /typo/?subdomain=\nDisallow: /read/\nDisallow: /*/read/\nAllow: /forums/topic-tag/reader/\nAllow: /*/forums/topic-tag/reader/\nAllow: /support/reader/\nAllow: /*/support/reader/\nDisallow: /reader/\nDisallow: /*/reader/\nAllow: /log-in/\nAllow: /log-in$\nDisallow: /log-in?\nDisallow: /abuse/?*\nDisallow: /abuse?*\nDisallow: /plugins/?s=\nDisallow: /*/plugins/?s=\nDisallow: /*?aff=\nDisallow: /*&aff=\nDisallow: /*?affiliate=\nDisallow: /*&affiliate=\nDisallow: /*?cid=\nDisallow: /*&cid=\nDisallow: /*?irclickid=\nDisallow: /*&irclickid=\nDisallow: /*/?like_comment=\nDisallow: /*?retry=\nDisallow: /*?sid=\nDisallow: /*?action=\nDisallow: /wp-login.php\nDisallow: /wp-signup.php\nDisallow: /press-this.php\nDisallow: /remote-login.php\nDisallow: /activate/\nDisallow: /cgi-bin/\nDisallow: /mshots/v1/\nDisallow: /next/\nDisallow: /public.api/\n\n# This file was generated on Thu, 12 Nov 2026 21:07:27 +0000\n"
+    }
+  ],
+  "eligible_pages": 40,
+  "canonical_origin": [
+    "https",
+    "wordpress.com",
+    443
+  ],
+  "stop_reason": "page_budget",
+  "elapsed_seconds": 23.74
+}

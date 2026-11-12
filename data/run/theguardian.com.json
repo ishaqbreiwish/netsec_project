@@ -1,0 +1,1446 @@
+{
+  "site": {
+    "rank": "203",
+    "domain": "theguardian.com",
+    "stratum": "101-1000"
+  },
+  "rows": [
+    {
+      "rank": "203",
+      "domain": "theguardian.com",
+      "stratum": "101-1000",
+      "requested_url": "https://theguardian.com/",
+      "depth": 0,
+      "parent_url": "",
+      "attempt": 1,
+      "timestamp": "2026-11-12T21:11:58.491849+00:00",
+      "final_url": "https://www.theguardian.com/us",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests; default-src https:; script-src https: 'unsafe-inline' 'unsafe-eval' blob: 'unsafe-inline'; style-src https: 'unsafe-inline'; img-src https: data: blob:; media-src https: data: blob:; font-src 'self' https://assets.guim.co.uk https://pasteup.guim.co.uk https://interactive.guim.co.uk https://dashboard.ophan.co.uk https://cdn.braze.eu data:; connect-src https: wss: blob:; child-src https: blob:; object-src 'none'; base-uri 'none'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 1497841,
+      "truncated": false,
+      "body_sha256": "1929478aa71c20c862ccb7bc39dee8e57a2096cf2999ff599302b48dea4a2f41",
+      "redirect_chain": [
+        {
+          "url": "https://theguardian.com/",
+          "status": 301,
+          "location": "https://www.theguardian.com/",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000"
+            ]
+          }
+        },
+        {
+          "url": "https://www.theguardian.com/",
+          "status": 302,
+          "location": "/us",
+          "headers": {
+            "content-security-policy": [
+              "upgrade-insecure-requests; default-src https:; script-src https: 'unsafe-inline' 'unsafe-eval' blob: 'unsafe-inline'; style-src https: 'unsafe-inline'; img-src https: data: blob:; media-src https: data: blob:; font-src 'self' https://assets.guim.co.uk https://pasteup.guim.co.uk https://interactive.guim.co.uk https://dashboard.ophan.co.uk https://cdn.braze.eu data:; connect-src https: wss: blob:; child-src https: blob:; object-src 'none'; base-uri 'none'"
+            ],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=63072000; includeSubDomains; preload"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Latest news, sport and opinion from the Guardiandouble quotation markdouble quotation markdouble quotation markdouble quotation markdouble quotation markdouble quotation markdouble quotation markdouble quotation markdouble quotation markdouble quotation markdouble quotation markdouble quotation mark",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "203",
+      "domain": "theguardian.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.theguardian.com/us",
+      "depth": 1,
+      "parent_url": "https://www.theguardian.com/us",
+      "attempt": 2,
+      "timestamp": "2026-11-12T21:11:59.232295+00:00",
+      "final_url": "https://www.theguardian.com/us",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests; default-src https:; script-src https: 'unsafe-inline' 'unsafe-eval' blob: 'unsafe-inline'; style-src https: 'unsafe-inline'; img-src https: data: blob:; media-src https: data: blob:; font-src 'self' https://assets.guim.co.uk https://pasteup.guim.co.uk https://interactive.guim.co.uk https://dashboard.ophan.co.uk https://cdn.braze.eu data:; connect-src https: wss: blob:; child-src https: blob:; object-src 'none'; base-uri 'none'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 1497841,
+      "truncated": false,
+      "body_sha256": "1929478aa71c20c862ccb7bc39dee8e57a2096cf2999ff599302b48dea4a2f41",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Latest news, sport and opinion from the Guardiandouble quotation markdouble quotation markdouble quotation markdouble quotation markdouble quotation markdouble quotation markdouble quotation markdouble quotation markdouble quotation markdouble quotation markdouble quotation markdouble quotation mark",
+      "duplicate_final": true,
+      "eligible": false
+    },
+    {
+      "rank": "203",
+      "domain": "theguardian.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.theguardian.com/email-newsletters",
+      "depth": 1,
+      "parent_url": "https://www.theguardian.com/us",
+      "attempt": 3,
+      "timestamp": "2026-11-12T21:11:59.727843+00:00",
+      "final_url": "https://www.theguardian.com/email-newsletters",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests; default-src https:; script-src https: 'unsafe-inline' 'unsafe-eval' blob: 'unsafe-inline'; style-src https: 'unsafe-inline'; img-src https: data: blob:; media-src https: data: blob:; font-src 'self' https://assets.guim.co.uk https://pasteup.guim.co.uk https://interactive.guim.co.uk https://dashboard.ophan.co.uk https://cdn.braze.eu data:; connect-src https: wss: blob:; child-src https: blob:; object-src 'none'; base-uri 'none'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 405694,
+      "truncated": false,
+      "body_sha256": "a28f36a757d76d3d30ce445df180bfb513746a4062b96c8d4406a7107a7df999",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Guardian newsletters: Sign up for our free newsletters",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "203",
+      "domain": "theguardian.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.theguardian.com/help/privacy-policy",
+      "depth": 2,
+      "parent_url": "https://www.theguardian.com/email-newsletters",
+      "attempt": 4,
+      "timestamp": "2026-11-12T21:12:00.679951+00:00",
+      "final_url": "https://www.theguardian.com/help/privacy-policy",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests; default-src https:; script-src https: 'unsafe-inline' 'unsafe-eval' blob: 'unsafe-inline'; style-src https: 'unsafe-inline'; img-src https: data: blob:; media-src https: data: blob:; font-src 'self' https://assets.guim.co.uk https://pasteup.guim.co.uk https://interactive.guim.co.uk https://dashboard.ophan.co.uk https://cdn.braze.eu data:; connect-src https: wss: blob:; child-src https: blob:; object-src 'none'; base-uri 'none'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 321027,
+      "truncated": false,
+      "body_sha256": "def86eee9cfb986e7c18e7fba7f56b554c91993e63657b497d49ee606ccf933f",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Privacy policy | Privacy | The Guardian",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "203",
+      "domain": "theguardian.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.theguardian.com/info/2024/nov/29/contributor-licensing-customers-privacy-policy",
+      "depth": 3,
+      "parent_url": "https://www.theguardian.com/help/privacy-policy",
+      "attempt": 5,
+      "timestamp": "2026-11-12T21:12:01.119826+00:00",
+      "final_url": "https://www.theguardian.com/info/2024/nov/29/contributor-licensing-customers-privacy-policy",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests; default-src https:; script-src https: 'unsafe-inline' 'unsafe-eval' blob: 'unsafe-inline'; style-src https: 'unsafe-inline'; img-src https: data: blob:; media-src https: data: blob:; font-src 'self' https://assets.guim.co.uk https://pasteup.guim.co.uk https://interactive.guim.co.uk https://dashboard.ophan.co.uk https://cdn.braze.eu data:; connect-src https: wss: blob:; child-src https: blob:; object-src 'none'; base-uri 'none'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 296467,
+      "truncated": false,
+      "body_sha256": "007043c49243cac2a0b2d9c728c8cc3d06ae0fd678f72c73da0df7a187644643",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Contributor & Licensing Customers Privacy Policy | Information | The Guardian",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "203",
+      "domain": "theguardian.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.theguardian.com/global/blog/2015/sep/22/living-our-values-facts-guardian",
+      "depth": 3,
+      "parent_url": "https://www.theguardian.com/help/privacy-policy",
+      "attempt": 6,
+      "timestamp": "2026-11-12T21:12:01.661740+00:00",
+      "final_url": "https://www.theguardian.com/global/blog/2015/sep/22/living-our-values-facts-guardian",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests; default-src https:; script-src https: 'unsafe-inline' 'unsafe-eval' blob: 'unsafe-inline'; style-src https: 'unsafe-inline'; img-src https: data: blob:; media-src https: data: blob:; font-src 'self' https://assets.guim.co.uk https://pasteup.guim.co.uk https://interactive.guim.co.uk https://dashboard.ophan.co.uk https://cdn.braze.eu data:; connect-src https: wss: blob:; child-src https: blob:; object-src 'none'; base-uri 'none'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 312237,
+      "truncated": false,
+      "body_sha256": "1d95409df055b7dd186025e1a665bc6ab28507cec009bb31dc58cab6dc418ea1",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Living our Values: 5 facts about the Guardian |  | The Guardiandouble quotation mark",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "203",
+      "domain": "theguardian.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.theguardian.com/sustainability/blog",
+      "depth": 4,
+      "parent_url": "https://www.theguardian.com/global/blog/2015/sep/22/living-our-values-facts-guardian",
+      "attempt": 7,
+      "timestamp": "2026-11-12T21:12:02.134276+00:00",
+      "final_url": "https://www.theguardian.com/sustainability/blog",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests; default-src https:; script-src https: 'unsafe-inline' 'unsafe-eval' blob: 'unsafe-inline'; style-src https: 'unsafe-inline'; img-src https: data: blob:; media-src https: data: blob:; font-src 'self' https://assets.guim.co.uk https://pasteup.guim.co.uk https://interactive.guim.co.uk https://dashboard.ophan.co.uk https://cdn.braze.eu data:; connect-src https: wss: blob:; child-src https: blob:; object-src 'none'; base-uri 'none'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 381804,
+      "truncated": false,
+      "body_sha256": "573ad894199675cc5d11ea1a4899ec016f902e05fd2eb85be37ea42063ed8458",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Sustainability blog | The Guardiandouble quotation mark",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "203",
+      "domain": "theguardian.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.theguardian.com/commentisfree/2015/apr/01/guardian-media-group-divesting-fossil-fuels",
+      "depth": 5,
+      "parent_url": "https://www.theguardian.com/sustainability/blog",
+      "attempt": 8,
+      "timestamp": "2026-11-12T21:12:02.934981+00:00",
+      "final_url": "https://www.theguardian.com/commentisfree/2015/apr/01/guardian-media-group-divesting-fossil-fuels",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests; default-src https:; script-src https: 'unsafe-inline' 'unsafe-eval' blob: 'unsafe-inline'; style-src https: 'unsafe-inline'; img-src https: data: blob:; media-src https: data: blob:; font-src 'self' https://assets.guim.co.uk https://pasteup.guim.co.uk https://interactive.guim.co.uk https://dashboard.ophan.co.uk https://cdn.braze.eu data:; connect-src https: wss: blob:; child-src https: blob:; object-src 'none'; base-uri 'none'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 296648,
+      "truncated": false,
+      "body_sha256": "5dacd9586fdd43d2cc0b7679c1e49c971944116555e6ea2067d011f26271348c",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Why the Guardian Media Group is getting out of fossil fuels | Neil Berkett | The Guardiandouble quotation markdouble quotation mark",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "203",
+      "domain": "theguardian.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.theguardian.com/profile/christopher-hodgson",
+      "depth": 4,
+      "parent_url": "https://www.theguardian.com/global/blog/2015/sep/22/living-our-values-facts-guardian",
+      "attempt": 9,
+      "timestamp": "2026-11-12T21:12:03.763722+00:00",
+      "final_url": "https://www.theguardian.com/profile/christopher-hodgson",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests; default-src https:; script-src https: 'unsafe-inline' 'unsafe-eval' blob: 'unsafe-inline'; style-src https: 'unsafe-inline'; img-src https: data: blob:; media-src https: data: blob:; font-src 'self' https://assets.guim.co.uk https://pasteup.guim.co.uk https://interactive.guim.co.uk https://dashboard.ophan.co.uk https://cdn.braze.eu data:; connect-src https: wss: blob:; child-src https: blob:; object-src 'none'; base-uri 'none'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 347935,
+      "truncated": false,
+      "body_sha256": "be0e837d607875bcc79ffebf8ccae345c0e888e658ebc97aaa675fea1a15cbd2",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Christopher Hodgson | The Guardian",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "203",
+      "domain": "theguardian.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.theguardian.com/environment/fossil-fuel-divestment",
+      "depth": 5,
+      "parent_url": "https://www.theguardian.com/sustainability/blog",
+      "attempt": 10,
+      "timestamp": "2026-11-12T21:12:04.316809+00:00",
+      "final_url": "https://www.theguardian.com/environment/fossil-fuel-divestment",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests; default-src https:; script-src https: 'unsafe-inline' 'unsafe-eval' blob: 'unsafe-inline'; style-src https: 'unsafe-inline'; img-src https: data: blob:; media-src https: data: blob:; font-src 'self' https://assets.guim.co.uk https://pasteup.guim.co.uk https://interactive.guim.co.uk https://dashboard.ophan.co.uk https://cdn.braze.eu data:; connect-src https: wss: blob:; child-src https: blob:; object-src 'none'; base-uri 'none'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 389139,
+      "truncated": false,
+      "body_sha256": "0b792380495c7a34fc82f617f0cd083ef5b6663ff636561b059af3526a5d60fa",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Fossil fuel divestment | The Guardiandouble quotation markdouble quotation mark",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "203",
+      "domain": "theguardian.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.theguardian.com/film/2026/nov/12/you-can-see-everything-on-this-list-the-20-most-jaw-dropping-documentaries-ranked",
+      "depth": 1,
+      "parent_url": "https://www.theguardian.com/us",
+      "attempt": 11,
+      "timestamp": "2026-11-12T21:12:04.992345+00:00",
+      "final_url": "https://www.theguardian.com/film/2026/nov/12/you-can-see-everything-on-this-list-the-20-most-jaw-dropping-documentaries-ranked",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests; default-src https:; script-src https: 'unsafe-inline' 'unsafe-eval' blob: 'unsafe-inline'; style-src https: 'unsafe-inline'; img-src https: data: blob:; media-src https: data: blob:; font-src 'self' https://assets.guim.co.uk https://pasteup.guim.co.uk https://interactive.guim.co.uk https://dashboard.ophan.co.uk https://cdn.braze.eu data:; connect-src https: wss: blob:; child-src https: blob:; object-src 'none'; base-uri 'none'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 387661,
+      "truncated": false,
+      "body_sha256": "bb7fade38248edc263e02b08607aef1ce2ec277728563f764a9279f93f621605",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "You can see everything on this list: the 20 most jaw-dropping documentaries \u2013 ranked! | Documentary films | The Guardian",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "203",
+      "domain": "theguardian.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.theguardian.com/culture/series/ranked",
+      "depth": 2,
+      "parent_url": "https://www.theguardian.com/film/2026/nov/12/you-can-see-everything-on-this-list-the-20-most-jaw-dropping-documentaries-ranked",
+      "attempt": 12,
+      "timestamp": "2026-11-12T21:12:06.551919+00:00",
+      "final_url": "https://www.theguardian.com/culture/series/ranked",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests; default-src https:; script-src https: 'unsafe-inline' 'unsafe-eval' blob: 'unsafe-inline'; style-src https: 'unsafe-inline'; img-src https: data: blob:; media-src https: data: blob:; font-src 'self' https://assets.guim.co.uk https://pasteup.guim.co.uk https://interactive.guim.co.uk https://dashboard.ophan.co.uk https://cdn.braze.eu data:; connect-src https: wss: blob:; child-src https: blob:; object-src 'none'; base-uri 'none'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 372815,
+      "truncated": false,
+      "body_sha256": "261baca1f05153fe30ff20762226c21aa23d40375088c75f027abe168200804a",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Ranked | The Guardian",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "203",
+      "domain": "theguardian.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.theguardian.com/tv-and-radio/2017/sep/26/the-vietnam-war-review-a-complex-story-made-immediately-comprehensible",
+      "depth": 2,
+      "parent_url": "https://www.theguardian.com/film/2026/nov/12/you-can-see-everything-on-this-list-the-20-most-jaw-dropping-documentaries-ranked",
+      "attempt": 13,
+      "timestamp": "2026-11-12T21:12:07.474224+00:00",
+      "final_url": "https://www.theguardian.com/tv-and-radio/2017/sep/26/the-vietnam-war-review-a-complex-story-made-immediately-comprehensible",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests; default-src https:; script-src https: 'unsafe-inline' 'unsafe-eval' blob: 'unsafe-inline'; style-src https: 'unsafe-inline'; img-src https: data: blob:; media-src https: data: blob:; font-src 'self' https://assets.guim.co.uk https://pasteup.guim.co.uk https://interactive.guim.co.uk https://dashboard.ophan.co.uk https://cdn.braze.eu data:; connect-src https: wss: blob:; child-src https: blob:; object-src 'none'; base-uri 'none'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 340391,
+      "truncated": false,
+      "body_sha256": "b0bc7352d46d8b3e9fcae42ff983d440e6ad6c892f7df290e13df9dc693848f4",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "The Vietnam War review \u2013 Ken Burns makes a complex story immediately comprehensible | Documentary | The Guardian",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "203",
+      "domain": "theguardian.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.theguardian.com/tone/help",
+      "depth": 3,
+      "parent_url": "https://www.theguardian.com/help/privacy-policy",
+      "attempt": 14,
+      "timestamp": "2026-11-12T21:12:07.921014+00:00",
+      "final_url": "https://www.theguardian.com/tone/help",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests; default-src https:; script-src https: 'unsafe-inline' 'unsafe-eval' blob: 'unsafe-inline'; style-src https: 'unsafe-inline'; img-src https: data: blob:; media-src https: data: blob:; font-src 'self' https://assets.guim.co.uk https://pasteup.guim.co.uk https://interactive.guim.co.uk https://dashboard.ophan.co.uk https://cdn.braze.eu data:; connect-src https: wss: blob:; child-src https: blob:; object-src 'none'; base-uri 'none'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 285190,
+      "truncated": false,
+      "body_sha256": "c3ab04d727fa24beba26c63a016ce8bf24e55a49877aada64f9397770f1ba0aa",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Help | The Guardian",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "203",
+      "domain": "theguardian.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.theguardian.com/the-scott-trust",
+      "depth": 4,
+      "parent_url": "https://www.theguardian.com/global/blog/2015/sep/22/living-our-values-facts-guardian",
+      "attempt": 15,
+      "timestamp": "2026-11-12T21:12:08.493265+00:00",
+      "final_url": "https://www.theguardian.com/the-scott-trust",
+      "status": 410,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests; default-src https:; script-src https: 'unsafe-inline' 'unsafe-eval' blob: 'unsafe-inline'; style-src https: 'unsafe-inline'; img-src https: data: blob:; media-src https: data: blob:; font-src 'self' https://assets.guim.co.uk https://pasteup.guim.co.uk https://interactive.guim.co.uk https://dashboard.ophan.co.uk https://cdn.braze.eu data:; connect-src https: wss: blob:; child-src https: blob:; object-src 'none'; base-uri 'none'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 709487,
+      "truncated": false,
+      "body_sha256": "89672ce6f1c9882e1a1203a033ad82e77365bb351bf330ae498c46ff397b2c78",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "203",
+      "domain": "theguardian.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.theguardian.com/news/2013/dec/02/what-is-the-guardian-doing-about-its-future-sustainability",
+      "depth": 5,
+      "parent_url": "https://www.theguardian.com/profile/christopher-hodgson",
+      "attempt": 16,
+      "timestamp": "2026-11-12T21:12:09.079454+00:00",
+      "final_url": "https://www.theguardian.com/news/2013/dec/02/what-is-the-guardian-doing-about-its-future-sustainability",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests; default-src https:; script-src https: 'unsafe-inline' 'unsafe-eval' blob: 'unsafe-inline'; style-src https: 'unsafe-inline'; img-src https: data: blob:; media-src https: data: blob:; font-src 'self' https://assets.guim.co.uk https://pasteup.guim.co.uk https://interactive.guim.co.uk https://dashboard.ophan.co.uk https://cdn.braze.eu data:; connect-src https: wss: blob:; child-src https: blob:; object-src 'none'; base-uri 'none'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 301578,
+      "truncated": false,
+      "body_sha256": "f1564b48bf0e898d54520ab673a31d7887b42e7dc6d27b7fdbc53eb327282963",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "What is the Guardian doing about its future? | Sustainable development | The Guardian",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "203",
+      "domain": "theguardian.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.theguardian.com/sport/2026/nov/12/steph-curry-ayesha-curry-manosphere-marriage-backlash",
+      "depth": 1,
+      "parent_url": "https://www.theguardian.com/us",
+      "attempt": 17,
+      "timestamp": "2026-11-12T21:12:09.925266+00:00",
+      "final_url": "https://www.theguardian.com/sport/2026/nov/12/steph-curry-ayesha-curry-manosphere-marriage-backlash",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests; default-src https:; script-src https: 'unsafe-inline' 'unsafe-eval' blob: 'unsafe-inline'; style-src https: 'unsafe-inline'; img-src https: data: blob:; media-src https: data: blob:; font-src 'self' https://assets.guim.co.uk https://pasteup.guim.co.uk https://interactive.guim.co.uk https://dashboard.ophan.co.uk https://cdn.braze.eu data:; connect-src https: wss: blob:; child-src https: blob:; object-src 'none'; base-uri 'none'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 355240,
+      "truncated": false,
+      "body_sha256": "84ce1abd782e84c07a7e0aba9e2cfd748575ab31387af6cd7e6a45171ecf9a13",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Steph Curry\u2019s defense of Ayesha exposes the ugly double standards of the sports manosphere | Stephen Curry | The Guardiandouble quotation mark",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "203",
+      "domain": "theguardian.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.theguardian.com/artanddesign/2015/nov/20/philippe-petit-twin-towers-tightrope",
+      "depth": 2,
+      "parent_url": "https://www.theguardian.com/film/2026/nov/12/you-can-see-everything-on-this-list-the-20-most-jaw-dropping-documentaries-ranked",
+      "attempt": 18,
+      "timestamp": "2026-11-12T21:12:10.157418+00:00",
+      "final_url": "https://www.theguardian.com/artanddesign/2015/nov/20/philippe-petit-twin-towers-tightrope",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests; default-src https:; script-src https: 'unsafe-inline' 'unsafe-eval' blob: 'unsafe-inline'; style-src https: 'unsafe-inline'; img-src https: data: blob:; media-src https: data: blob:; font-src 'self' https://assets.guim.co.uk https://pasteup.guim.co.uk https://interactive.guim.co.uk https://dashboard.ophan.co.uk https://cdn.braze.eu data:; connect-src https: wss: blob:; child-src https: blob:; object-src 'none'; base-uri 'none'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 327801,
+      "truncated": false,
+      "body_sha256": "b9216a50127a7e88257cff2eb87d21b5af86512a52f071b18aff7914e1674013",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Philippe Petit walks a tightrope between Manhattan\u2019s Twin Towers, 7 August 1974 | Photography | The Guardian",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "203",
+      "domain": "theguardian.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.theguardian.com/music/2026/nov/05/full-of-life-and-catching-feelings-christine-and-the-queens-greatest-songs-ranked",
+      "depth": 3,
+      "parent_url": "https://www.theguardian.com/culture/series/ranked",
+      "attempt": 19,
+      "timestamp": "2026-11-12T21:12:11.114873+00:00",
+      "final_url": "https://www.theguardian.com/music/2026/nov/05/full-of-life-and-catching-feelings-christine-and-the-queens-greatest-songs-ranked",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests; default-src https:; script-src https: 'unsafe-inline' 'unsafe-eval' blob: 'unsafe-inline'; style-src https: 'unsafe-inline'; img-src https: data: blob:; media-src https: data: blob:; font-src 'self' https://assets.guim.co.uk https://pasteup.guim.co.uk https://interactive.guim.co.uk https://dashboard.ophan.co.uk https://cdn.braze.eu data:; connect-src https: wss: blob:; child-src https: blob:; object-src 'none'; base-uri 'none'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 362063,
+      "truncated": false,
+      "body_sha256": "c66012b959a65e0b5f86ae0a3896fae3f97fe7b65716ea850785413fc2222a4c",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Full of life and catching feelings: Christine and the Queens\u2019 greatest songs \u2013 ranked! | Christine and the Queens | The Guardian",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "203",
+      "domain": "theguardian.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.theguardian.com/society/female-genital-mutilation",
+      "depth": 4,
+      "parent_url": "https://www.theguardian.com/global/blog/2015/sep/22/living-our-values-facts-guardian",
+      "attempt": 20,
+      "timestamp": "2026-11-12T21:12:11.598920+00:00",
+      "final_url": "https://www.theguardian.com/society/female-genital-mutilation",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests; default-src https:; script-src https: 'unsafe-inline' 'unsafe-eval' blob: 'unsafe-inline'; style-src https: 'unsafe-inline'; img-src https: data: blob:; media-src https: data: blob:; font-src 'self' https://assets.guim.co.uk https://pasteup.guim.co.uk https://interactive.guim.co.uk https://dashboard.ophan.co.uk https://cdn.braze.eu data:; connect-src https: wss: blob:; child-src https: blob:; object-src 'none'; base-uri 'none'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 422711,
+      "truncated": false,
+      "body_sha256": "89e4ba8480e531e247066fc44c42103f92e56070dfe0a54be5890e5a7ffe3e0f",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Female genital mutilation (FGM) | The Guardiandouble quotation mark",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "203",
+      "domain": "theguardian.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.theguardian.com/uk-news",
+      "depth": 5,
+      "parent_url": "https://www.theguardian.com/society/female-genital-mutilation",
+      "attempt": 21,
+      "timestamp": "2026-11-12T21:12:12.297134+00:00",
+      "final_url": "https://www.theguardian.com/uk-news",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests; default-src https:; script-src https: 'unsafe-inline' 'unsafe-eval' blob: 'unsafe-inline'; style-src https: 'unsafe-inline'; img-src https: data: blob:; media-src https: data: blob:; font-src 'self' https://assets.guim.co.uk https://pasteup.guim.co.uk https://interactive.guim.co.uk https://dashboard.ophan.co.uk https://cdn.braze.eu data:; connect-src https: wss: blob:; child-src https: blob:; object-src 'none'; base-uri 'none'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 702638,
+      "truncated": false,
+      "body_sha256": "18e797dec997221be6b77c825d873752686365dd161063b7b5c6abc20cd39a3d",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Latest UK news | The Guardiandouble quotation markdouble quotation mark",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "203",
+      "domain": "theguardian.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.theguardian.com/games/2026/nov/12/trump-video-game-propaganda",
+      "depth": 1,
+      "parent_url": "https://www.theguardian.com/us",
+      "attempt": 22,
+      "timestamp": "2026-11-12T21:12:12.811247+00:00",
+      "final_url": "https://www.theguardian.com/games/2026/nov/12/trump-video-game-propaganda",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests; default-src https:; script-src https: 'unsafe-inline' 'unsafe-eval' blob: 'unsafe-inline'; style-src https: 'unsafe-inline'; img-src https: data: blob:; media-src https: data: blob:; font-src 'self' https://assets.guim.co.uk https://pasteup.guim.co.uk https://interactive.guim.co.uk https://dashboard.ophan.co.uk https://cdn.braze.eu data:; connect-src https: wss: blob:; child-src https: blob:; object-src 'none'; base-uri 'none'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 327098,
+      "truncated": false,
+      "body_sha256": "abae956cb4170e0847c21a76e9a679cc69266631801e7bfa3552c5c4ce8744aa",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "\u2018To them, we\u2019re just NPCs\u2019: the artists and activists challenging Trump\u2019s video game propaganda | Games | The Guardian",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "203",
+      "domain": "theguardian.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.theguardian.com/world/2026/mar/04/middle-east-crisis-petrol-groceries-rising-prices",
+      "depth": 2,
+      "parent_url": "https://www.theguardian.com/games/2026/nov/12/trump-video-game-propaganda",
+      "attempt": 23,
+      "timestamp": "2026-11-12T21:12:13.458755+00:00",
+      "final_url": "https://www.theguardian.com/world/2026/mar/04/middle-east-crisis-petrol-groceries-rising-prices",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests; default-src https:; script-src https: 'unsafe-inline' 'unsafe-eval' blob: 'unsafe-inline'; style-src https: 'unsafe-inline'; img-src https: data: blob:; media-src https: data: blob:; font-src 'self' https://assets.guim.co.uk https://pasteup.guim.co.uk https://interactive.guim.co.uk https://dashboard.ophan.co.uk https://cdn.braze.eu data:; connect-src https: wss: blob:; child-src https: blob:; object-src 'none'; base-uri 'none'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 355872,
+      "truncated": false,
+      "body_sha256": "f26ae90d30e169b0744edf3f113eca08f0d171cdd6136990098356a07a7d08f9",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "From petrol to groceries: how Middle East crisis is driving up prices | US-Israel war on Iran | The Guardian",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "203",
+      "domain": "theguardian.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.theguardian.com/books/fiction",
+      "depth": 3,
+      "parent_url": "https://www.theguardian.com/culture/series/ranked",
+      "attempt": 24,
+      "timestamp": "2026-11-12T21:12:14.281199+00:00",
+      "final_url": "https://www.theguardian.com/books/fiction",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests; default-src https:; script-src https: 'unsafe-inline' 'unsafe-eval' blob: 'unsafe-inline'; style-src https: 'unsafe-inline'; img-src https: data: blob:; media-src https: data: blob:; font-src 'self' https://assets.guim.co.uk https://pasteup.guim.co.uk https://interactive.guim.co.uk https://dashboard.ophan.co.uk https://cdn.braze.eu data:; connect-src https: wss: blob:; child-src https: blob:; object-src 'none'; base-uri 'none'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 438735,
+      "truncated": false,
+      "body_sha256": "9fa12e9c53a3fa34c511226a6a69ec8c3b36af113f913a00f3536cbc72cec504",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Fiction | The Guardiandouble quotation markdouble quotation mark",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "203",
+      "domain": "theguardian.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.theguardian.com/global-development/series/modern-day-slavery-in-focus",
+      "depth": 4,
+      "parent_url": "https://www.theguardian.com/global/blog/2015/sep/22/living-our-values-facts-guardian",
+      "attempt": 25,
+      "timestamp": "2026-11-12T21:12:15.255843+00:00",
+      "final_url": "https://www.theguardian.com/global-development/series/modern-day-slavery-in-focus",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests; default-src https:; script-src https: 'unsafe-inline' 'unsafe-eval' blob: 'unsafe-inline'; style-src https: 'unsafe-inline'; img-src https: data: blob:; media-src https: data: blob:; font-src 'self' https://assets.guim.co.uk https://pasteup.guim.co.uk https://interactive.guim.co.uk https://dashboard.ophan.co.uk https://cdn.braze.eu data:; connect-src https: wss: blob:; child-src https: blob:; object-src 'none'; base-uri 'none'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 381195,
+      "truncated": false,
+      "body_sha256": "e7183e901386e31e4e81846b4a6e5ff69fda2edb8eda3e5b5857764885908406",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Modern-day slavery in focus | The Guardiandouble quotation mark",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "203",
+      "domain": "theguardian.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.theguardian.com/politics",
+      "depth": 5,
+      "parent_url": "https://www.theguardian.com/society/female-genital-mutilation",
+      "attempt": 26,
+      "timestamp": "2026-11-12T21:12:15.949648+00:00",
+      "final_url": "https://www.theguardian.com/politics",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests; default-src https:; script-src https: 'unsafe-inline' 'unsafe-eval' blob: 'unsafe-inline'; style-src https: 'unsafe-inline'; img-src https: data: blob:; media-src https: data: blob:; font-src 'self' https://assets.guim.co.uk https://pasteup.guim.co.uk https://interactive.guim.co.uk https://dashboard.ophan.co.uk https://cdn.braze.eu data:; connect-src https: wss: blob:; child-src https: blob:; object-src 'none'; base-uri 'none'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 607710,
+      "truncated": false,
+      "body_sha256": "a90b2fe15e867344f6c7a4eea3af944c726810075ee81dda4a08b565eb7375a3",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Politics | The Guardiandouble quotation markdouble quotation markdouble quotation markdouble quotation markdouble quotation markdouble quotation markdouble quotation markdouble quotation mark",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "203",
+      "domain": "theguardian.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.theguardian.com/us-news/ng-interactive/2026/nov/12/maga-dead-manosphere-trump",
+      "depth": 1,
+      "parent_url": "https://www.theguardian.com/us",
+      "attempt": 27,
+      "timestamp": "2026-11-12T21:12:16.595324+00:00",
+      "final_url": "https://www.theguardian.com/us-news/ng-interactive/2026/nov/12/maga-dead-manosphere-trump",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests; default-src https:; script-src https: 'unsafe-inline' 'unsafe-eval' blob: 'unsafe-inline'; style-src https: 'unsafe-inline'; img-src https: data: blob:; media-src https: data: blob:; font-src 'self' https://assets.guim.co.uk https://pasteup.guim.co.uk https://interactive.guim.co.uk https://dashboard.ophan.co.uk https://cdn.braze.eu data:; connect-src https: wss: blob:; child-src https: blob:; object-src 'none'; base-uri 'none'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 412331,
+      "truncated": false,
+      "body_sha256": "0936a02f6ed20e256180e2f179a410fa510017ec48322f225af95adf89b62aed",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "\u2018Maga is dead, Maga is effeminate\u2019: why has the manosphere rejected Trump? | US politics | The Guardiandouble quotation mark",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "203",
+      "domain": "theguardian.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.theguardian.com/technology/ng-interactive/2025/oct/21/why-the-manosphere-clicked-for-young-men-a-visual-deep-dive",
+      "depth": 2,
+      "parent_url": "https://www.theguardian.com/us-news/ng-interactive/2026/nov/12/maga-dead-manosphere-trump",
+      "attempt": 28,
+      "timestamp": "2026-11-12T21:12:16.991003+00:00",
+      "final_url": "https://www.theguardian.com/technology/ng-interactive/2025/oct/21/why-the-manosphere-clicked-for-young-men-a-visual-deep-dive",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests; default-src https:; script-src https: 'unsafe-inline' 'unsafe-eval' blob: 'unsafe-inline'; style-src https: 'unsafe-inline'; img-src https: data: blob:; media-src https: data: blob:; font-src 'self' https://assets.guim.co.uk https://pasteup.guim.co.uk https://interactive.guim.co.uk https://dashboard.ophan.co.uk https://cdn.braze.eu data:; connect-src https: wss: blob:; child-src https: blob:; object-src 'none'; base-uri 'none'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 764736,
+      "truncated": false,
+      "body_sha256": "7adb2709b3eb60483a5bf3d71501f7a101816a03d250895f6d2d5e46dadeff94",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Money, muscles and anxiety: why the manosphere clicked with young men \u2013 a visual deep dive | Internet | The Guardian",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "203",
+      "domain": "theguardian.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.theguardian.com/business/2026/mar/02/maritime-insurers-war-risk-cover-gulf-iran-shipping-strait-of-hormuz",
+      "depth": 3,
+      "parent_url": "https://www.theguardian.com/world/2026/mar/04/middle-east-crisis-petrol-groceries-rising-prices",
+      "attempt": 29,
+      "timestamp": "2026-11-12T21:12:17.840286+00:00",
+      "final_url": "https://www.theguardian.com/business/2026/mar/02/maritime-insurers-war-risk-cover-gulf-iran-shipping-strait-of-hormuz",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests; default-src https:; script-src https: 'unsafe-inline' 'unsafe-eval' blob: 'unsafe-inline'; style-src https: 'unsafe-inline'; img-src https: data: blob:; media-src https: data: blob:; font-src 'self' https://assets.guim.co.uk https://pasteup.guim.co.uk https://interactive.guim.co.uk https://dashboard.ophan.co.uk https://cdn.braze.eu data:; connect-src https: wss: blob:; child-src https: blob:; object-src 'none'; base-uri 'none'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 419263,
+      "truncated": false,
+      "body_sha256": "2eb042a9644dc9d3bb88d0d1fac7e9bfa5cea09dc11c44e43b9d47915739425c",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Maritime insurers cancel war risk cover in Gulf as Iran conflict disrupts shipping | Shipping industry | The Guardian",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "203",
+      "domain": "theguardian.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.theguardian.com/education",
+      "depth": 5,
+      "parent_url": "https://www.theguardian.com/society/female-genital-mutilation",
+      "attempt": 30,
+      "timestamp": "2026-11-12T21:12:18.407855+00:00",
+      "final_url": "https://www.theguardian.com/education",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests; default-src https:; script-src https: 'unsafe-inline' 'unsafe-eval' blob: 'unsafe-inline'; style-src https: 'unsafe-inline'; img-src https: data: blob:; media-src https: data: blob:; font-src 'self' https://assets.guim.co.uk https://pasteup.guim.co.uk https://interactive.guim.co.uk https://dashboard.ophan.co.uk https://cdn.braze.eu data:; connect-src https: wss: blob:; child-src https: blob:; object-src 'none'; base-uri 'none'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 593284,
+      "truncated": false,
+      "body_sha256": "73faccc968746a1be8d9ddafc371c846ec80fc958d495ab6465ab6b8ab5c7650",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Education news, opinion and guides | The GuardianGuardian Labsdouble quotation markdouble quotation markdouble quotation markdouble quotation markdouble quotation markdouble quotation mark",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "203",
+      "domain": "theguardian.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.theguardian.com/preference/edition/us",
+      "depth": 1,
+      "parent_url": "https://www.theguardian.com/us",
+      "attempt": 31,
+      "timestamp": "2026-11-12T21:12:19.382107+00:00",
+      "final_url": "https://www.theguardian.com/us?INTCMP=CE_US",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests; default-src https:; script-src https: 'unsafe-inline' 'unsafe-eval' blob: 'unsafe-inline'; style-src https: 'unsafe-inline'; img-src https: data: blob:; media-src https: data: blob:; font-src 'self' https://assets.guim.co.uk https://pasteup.guim.co.uk https://interactive.guim.co.uk https://dashboard.ophan.co.uk https://cdn.braze.eu data:; connect-src https: wss: blob:; child-src https: blob:; object-src 'none'; base-uri 'none'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 1497906,
+      "truncated": false,
+      "body_sha256": "232707ef7257a310c3d8c98b39c02c0e1f22bda36d3f29b83cc9d6298b5f58fa",
+      "redirect_chain": [
+        {
+          "url": "https://www.theguardian.com/preference/edition/us",
+          "status": 302,
+          "location": "/us?INTCMP=CE_US",
+          "headers": {
+            "content-security-policy": [
+              "upgrade-insecure-requests; default-src https:; script-src https: 'unsafe-inline' 'unsafe-eval' blob: 'unsafe-inline'; style-src https: 'unsafe-inline'; img-src https: data: blob:; media-src https: data: blob:; font-src 'self' https://assets.guim.co.uk https://pasteup.guim.co.uk https://interactive.guim.co.uk https://dashboard.ophan.co.uk https://cdn.braze.eu data:; connect-src https: wss: blob:; child-src https: blob:; object-src 'none'; base-uri 'none'"
+            ],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=63072000; includeSubDomains; preload"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Latest news, sport and opinion from the Guardiandouble quotation markdouble quotation markdouble quotation markdouble quotation markdouble quotation markdouble quotation markdouble quotation markdouble quotation markdouble quotation markdouble quotation markdouble quotation markdouble quotation mark",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "203",
+      "domain": "theguardian.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.theguardian.com/media/podcasting",
+      "depth": 2,
+      "parent_url": "https://www.theguardian.com/us-news/ng-interactive/2026/nov/12/maga-dead-manosphere-trump",
+      "attempt": 32,
+      "timestamp": "2026-11-12T21:12:19.961554+00:00",
+      "final_url": "https://www.theguardian.com/media/podcasting",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests; default-src https:; script-src https: 'unsafe-inline' 'unsafe-eval' blob: 'unsafe-inline'; style-src https: 'unsafe-inline'; img-src https: data: blob:; media-src https: data: blob:; font-src 'self' https://assets.guim.co.uk https://pasteup.guim.co.uk https://interactive.guim.co.uk https://dashboard.ophan.co.uk https://cdn.braze.eu data:; connect-src https: wss: blob:; child-src https: blob:; object-src 'none'; base-uri 'none'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 574971,
+      "truncated": false,
+      "body_sha256": "6ae68d96c8e82f7fb562b32fbbf870073b96a770b6cace2ffce6279de98cb9c8",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Podcasting | The Guardiandouble quotation mark",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "203",
+      "domain": "theguardian.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.theguardian.com/money/petrol-prices",
+      "depth": 3,
+      "parent_url": "https://www.theguardian.com/world/2026/mar/04/middle-east-crisis-petrol-groceries-rising-prices",
+      "attempt": 33,
+      "timestamp": "2026-11-12T21:12:20.611754+00:00",
+      "final_url": "https://www.theguardian.com/money/petrol-prices",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests; default-src https:; script-src https: 'unsafe-inline' 'unsafe-eval' blob: 'unsafe-inline'; style-src https: 'unsafe-inline'; img-src https: data: blob:; media-src https: data: blob:; font-src 'self' https://assets.guim.co.uk https://pasteup.guim.co.uk https://interactive.guim.co.uk https://dashboard.ophan.co.uk https://cdn.braze.eu data:; connect-src https: wss: blob:; child-src https: blob:; object-src 'none'; base-uri 'none'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 403610,
+      "truncated": false,
+      "body_sha256": "172318883fcf82e75a9e1795aee41372d6207c50d2f61833b96f05893b0d6829",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Petrol prices | The Guardian",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "203",
+      "domain": "theguardian.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.theguardian.com/law",
+      "depth": 5,
+      "parent_url": "https://www.theguardian.com/society/female-genital-mutilation",
+      "attempt": 34,
+      "timestamp": "2026-11-12T21:12:21.247024+00:00",
+      "final_url": "https://www.theguardian.com/law",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests; default-src https:; script-src https: 'unsafe-inline' 'unsafe-eval' blob: 'unsafe-inline'; style-src https: 'unsafe-inline'; img-src https: data: blob:; media-src https: data: blob:; font-src 'self' https://assets.guim.co.uk https://pasteup.guim.co.uk https://interactive.guim.co.uk https://dashboard.ophan.co.uk https://cdn.braze.eu data:; connect-src https: wss: blob:; child-src https: blob:; object-src 'none'; base-uri 'none'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 466008,
+      "truncated": false,
+      "body_sha256": "8a8c7463fc1956fcda145b2447ee20ed7c4d3f40eb16b509da9dd809b838474e",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Law | The Guardian",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "203",
+      "domain": "theguardian.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.theguardian.com/lifeandstyle",
+      "depth": 1,
+      "parent_url": "https://www.theguardian.com/us",
+      "attempt": 35,
+      "timestamp": "2026-11-12T21:12:22.036970+00:00",
+      "final_url": "https://www.theguardian.com/us/lifeandstyle",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests; default-src https:; script-src https: 'unsafe-inline' 'unsafe-eval' blob: 'unsafe-inline'; style-src https: 'unsafe-inline'; img-src https: data: blob:; media-src https: data: blob:; font-src 'self' https://assets.guim.co.uk https://pasteup.guim.co.uk https://interactive.guim.co.uk https://dashboard.ophan.co.uk https://cdn.braze.eu data:; connect-src https: wss: blob:; child-src https: blob:; object-src 'none'; base-uri 'none'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 789908,
+      "truncated": false,
+      "body_sha256": "5ced75c00f4bb1b311bd3463e9269fcb7d049f0620ea78f268da19b85144eea5",
+      "redirect_chain": [
+        {
+          "url": "https://www.theguardian.com/lifeandstyle",
+          "status": 302,
+          "location": "https://www.theguardian.com/us/lifeandstyle",
+          "headers": {
+            "content-security-policy": [
+              "upgrade-insecure-requests; default-src https:; script-src https: 'unsafe-inline' 'unsafe-eval' blob: 'unsafe-inline'; style-src https: 'unsafe-inline'; img-src https: data: blob:; media-src https: data: blob:; font-src 'self' https://assets.guim.co.uk https://pasteup.guim.co.uk https://interactive.guim.co.uk https://dashboard.ophan.co.uk https://cdn.braze.eu data:; connect-src https: wss: blob:; child-src https: blob:; object-src 'none'; base-uri 'none'"
+            ],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=63072000; includeSubDomains; preload"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Lifestyle | The Guardiandouble quotation markdouble quotation markdouble quotation mark",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "203",
+      "domain": "theguardian.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.theguardian.com/stage/2026/nov/12/cosplay-craze-theatre-beetlejuice-phantom-of-the-opera-cats",
+      "depth": 2,
+      "parent_url": "https://www.theguardian.com/us/lifeandstyle",
+      "attempt": 36,
+      "timestamp": "2026-11-12T21:12:23.147965+00:00",
+      "final_url": "https://www.theguardian.com/stage/2026/nov/12/cosplay-craze-theatre-beetlejuice-phantom-of-the-opera-cats",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests; default-src https:; script-src https: 'unsafe-inline' 'unsafe-eval' blob: 'unsafe-inline'; style-src https: 'unsafe-inline'; img-src https: data: blob:; media-src https: data: blob:; font-src 'self' https://assets.guim.co.uk https://pasteup.guim.co.uk https://interactive.guim.co.uk https://dashboard.ophan.co.uk https://cdn.braze.eu data:; connect-src https: wss: blob:; child-src https: blob:; object-src 'none'; base-uri 'none'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 336327,
+      "truncated": false,
+      "body_sha256": "5605d7b3e4a526356b1ed0636f4f285ca86a0ee7ed55c12e0cf1428321652ac5",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Grab the wigs \u2013 we\u2019re going to the theatre! We meet the audience superfans going crazy for cosplay | Theatre | The Guardiandouble quotation markdouble quotation mark",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "203",
+      "domain": "theguardian.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.theguardian.com/wellness/2025/mar/26/male-coaches-masculinity-mental-health",
+      "depth": 3,
+      "parent_url": "https://www.theguardian.com/technology/ng-interactive/2025/oct/21/why-the-manosphere-clicked-for-young-men-a-visual-deep-dive",
+      "attempt": 37,
+      "timestamp": "2026-11-12T21:12:23.671398+00:00",
+      "final_url": "https://www.theguardian.com/wellness/2025/mar/26/male-coaches-masculinity-mental-health",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests; default-src https:; script-src https: 'unsafe-inline' 'unsafe-eval' blob: 'unsafe-inline'; style-src https: 'unsafe-inline'; img-src https: data: blob:; media-src https: data: blob:; font-src 'self' https://assets.guim.co.uk https://pasteup.guim.co.uk https://interactive.guim.co.uk https://dashboard.ophan.co.uk https://cdn.braze.eu data:; connect-src https: wss: blob:; child-src https: blob:; object-src 'none'; base-uri 'none'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 337977,
+      "truncated": false,
+      "body_sha256": "fdc6efce02d440bb8e178f52316aec4613f62bcff82015b11066522297fa2bbf",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "\u2018I know what it is to go down the rabbit hole\u2019: the male coaches pulling young men back from the edge | Well actually | The Guardiandouble quotation markdouble quotation markdouble quotation mark",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "203",
+      "domain": "theguardian.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.theguardian.com/science/2018/feb/07/how-dangerous-is-jordan-b-peterson-the-rightwing-professor-who-hit-a-hornets-nest",
+      "depth": 4,
+      "parent_url": "https://www.theguardian.com/wellness/2025/mar/26/male-coaches-masculinity-mental-health",
+      "attempt": 38,
+      "timestamp": "2026-11-12T21:12:24.205972+00:00",
+      "final_url": "https://www.theguardian.com/science/2018/feb/07/how-dangerous-is-jordan-b-peterson-the-rightwing-professor-who-hit-a-hornets-nest",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests; default-src https:; script-src https: 'unsafe-inline' 'unsafe-eval' blob: 'unsafe-inline'; style-src https: 'unsafe-inline'; img-src https: data: blob:; media-src https: data: blob:; font-src 'self' https://assets.guim.co.uk https://pasteup.guim.co.uk https://interactive.guim.co.uk https://dashboard.ophan.co.uk https://cdn.braze.eu data:; connect-src https: wss: blob:; child-src https: blob:; object-src 'none'; base-uri 'none'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 357093,
+      "truncated": false,
+      "body_sha256": "bc2c6c8002be536aa46f0f92c2868b0ee5185f1f7aeff00ecbbf2c5a5d7cee1b",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "How dangerous is Jordan B Peterson, the rightwing professor who 'hit a hornets' nest'? | Psychology | The Guardiandouble quotation markdouble quotation mark",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "203",
+      "domain": "theguardian.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.theguardian.com/uk/scotland",
+      "depth": 5,
+      "parent_url": "https://www.theguardian.com/society/female-genital-mutilation",
+      "attempt": 39,
+      "timestamp": "2026-11-12T21:12:24.824918+00:00",
+      "final_url": "https://www.theguardian.com/uk/scotland",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests; default-src https:; script-src https: 'unsafe-inline' 'unsafe-eval' blob: 'unsafe-inline'; style-src https: 'unsafe-inline'; img-src https: data: blob:; media-src https: data: blob:; font-src 'self' https://assets.guim.co.uk https://pasteup.guim.co.uk https://interactive.guim.co.uk https://dashboard.ophan.co.uk https://cdn.braze.eu data:; connect-src https: wss: blob:; child-src https: blob:; object-src 'none'; base-uri 'none'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 397662,
+      "truncated": false,
+      "body_sha256": "a7d19541236b6f20dcdc4056c4165c829beb8b86873aa62adc63db07da0df6ad",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Scotland | The Guardiandouble quotation mark",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "203",
+      "domain": "theguardian.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.theguardian.com/thefilter-us",
+      "depth": 1,
+      "parent_url": "https://www.theguardian.com/us",
+      "attempt": 40,
+      "timestamp": "2026-11-12T21:12:25.676679+00:00",
+      "final_url": "https://www.theguardian.com/thefilter-us",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests; default-src https:; script-src https: 'unsafe-inline' 'unsafe-eval' blob: 'unsafe-inline'; style-src https: 'unsafe-inline'; img-src https: data: blob:; media-src https: data: blob:; font-src 'self' https://assets.guim.co.uk https://pasteup.guim.co.uk https://interactive.guim.co.uk https://dashboard.ophan.co.uk https://cdn.braze.eu data:; connect-src https: wss: blob:; child-src https: blob:; object-src 'none'; base-uri 'none'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 958692,
+      "truncated": false,
+      "body_sha256": "d93ffdae9e6078bf671c3fabd55726d63b13a42e5eb300ec2087fbc18e02585e",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "The Filter US | The Guardiandouble quotation mark",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "203",
+      "domain": "theguardian.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.theguardian.com/tracking/commissioningdesk/filter-us",
+      "depth": 2,
+      "parent_url": "https://www.theguardian.com/us/lifeandstyle",
+      "attempt": 41,
+      "timestamp": "2026-11-12T21:12:26.356161+00:00",
+      "final_url": "https://www.theguardian.com/tracking/commissioningdesk/filter-us",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests; default-src https:; script-src https: 'unsafe-inline' 'unsafe-eval' blob: 'unsafe-inline'; style-src https: 'unsafe-inline'; img-src https: data: blob:; media-src https: data: blob:; font-src 'self' https://assets.guim.co.uk https://pasteup.guim.co.uk https://interactive.guim.co.uk https://dashboard.ophan.co.uk https://cdn.braze.eu data:; connect-src https: wss: blob:; child-src https: blob:; object-src 'none'; base-uri 'none'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 280956,
+      "truncated": false,
+      "body_sha256": "033be0b6ac8b1e3d2857444d9a7ac9a2f9d45c759475e4fb5b2b7bc251c42979",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "The Filter US | The Guardian",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "203",
+      "domain": "theguardian.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.theguardian.com/football",
+      "depth": 3,
+      "parent_url": "https://www.theguardian.com/technology/ng-interactive/2025/oct/21/why-the-manosphere-clicked-for-young-men-a-visual-deep-dive",
+      "attempt": 42,
+      "timestamp": "2026-11-12T21:12:26.938656+00:00",
+      "final_url": "https://www.theguardian.com/football",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests; default-src https:; script-src https: 'unsafe-inline' 'unsafe-eval' blob: 'unsafe-inline'; style-src https: 'unsafe-inline'; img-src https: data: blob:; media-src https: data: blob:; font-src 'self' https://assets.guim.co.uk https://pasteup.guim.co.uk https://interactive.guim.co.uk https://dashboard.ophan.co.uk https://cdn.braze.eu data:; connect-src https: wss: blob:; child-src https: blob:; object-src 'none'; base-uri 'none'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 899054,
+      "truncated": false,
+      "body_sha256": "9e7e33ec3ffaf7f95f88f06ed076f4b2052e729cea7ef8ba219efec3bbd58b3d",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Football | The Guardiandouble quotation markdouble quotation markdouble quotation markdouble quotation markdouble quotation markdouble quotation markdouble quotation markdouble quotation markdouble quotation markdouble quotation markdouble quotation markdouble quotation mark",
+      "duplicate_final": false,
+      "eligible": true
+    }
+  ],
+  "robots": [
+    {
+      "url": "https://theguardian.com/robots.txt",
+      "timestamp": "2026-11-12T21:11:57.571041+00:00",
+      "status": 200,
+      "decision": "parsed",
+      "final_url": "https://www.theguardian.com/robots.txt",
+      "redirect_chain": [
+        {
+          "url": "https://theguardian.com/robots.txt",
+          "status": 301,
+          "location": "https://www.theguardian.com/robots.txt"
+        }
+      ],
+      "body_sha256": "3387cd8d393a0c257e687ce63fcf30558ada1eb1fc167bfc51cb216e29005db2",
+      "body": "# This is the robots.txt file for theguardian.com\n\n# Guardian content is made available under our terms and conditions of use.\n# Any other uses are not permitted, incl. but not limited to: for large language\n# models (LLMs), machine learning and/or artificial intelligence-related\n# purposes; with any of the aforementioned technologies; and/or for any\n# commercial purposes. Contact licensing@theguardian.com for assistance\n\nUser-agent: *\nDisallow: /sendarticle/\nDisallow: /Users/\nDisallow: /users/\nDisallow: /*/print$\nDisallow: /email/\nDisallow: /contactus/\nDisallow: /share/\nDisallow: /websearch\nDisallow: /*?commentpage=\nDisallow: /whsmiths/\nDisallow: /external/overture/\nDisallow: /discussion/report-abuse/*\nDisallow: /discussion/report-abuse-ajax/*\nDisallow: /discussion/comment-permalink/*\nDisallow: /discussion/report-abuse/*\nDisallow: /discussion/user-report-abuse/*\nDisallow: /discussion/handlers/*\nDisallow: /discussion/your-profile\nDisallow: /discussion/your-comments\nDisallow: /discussion/edit-profile\nDisallow: /discussion/search/comments\nDisallow: /discussion/*\nDisallow: /search\nDisallow: /music/artist/*\nDisallow: /music/album/*\nDisallow: /books/data/*\nDisallow: /settings/\nDisallow: /embed/\nDisallow: /*styles/js-on.css$\nDisallow: /sport/olympics/2008/events/*\nDisallow: /sport/olympics/2008/medals/*\nDisallow: /f/healthcheck\nDisallow: /sections\nDisallow: /top-stories\nDisallow: /most-read/sport\nDisallow: /articles\nDisallow: /global$\nDisallow: /*/feedarticle/*\nDisallow: /travel/2013/aug/22/been-there-readers-competition?*\nDisallow: /preference/*\nDisallow: /59666047/\nDisallow: /print/\nDisallow: /info/tech-feedback\nDisallow: /production-monitoring/\nDisallow: *.emailjson\nDisallow: *.emailtxt\nDisallow: /headline.txt\nDisallow: *?*dcr=apps*\n\nUser-agent: Mediapartners-Google\nDisallow:\n\nSitemap: http://www.theguardian.com/sitemaps/news.xml\nSitemap: http://www.theguardian.com/sitemaps/video.xml\n\nUser-agent: NewsNow\nUser-agent: CCBot\nUser-agent: TurnitinBot\nUser-agent: PetalBot\nUser-agent: MoodleBot\nUser-agent: FacebookBot\nUser-agent: Bytespider\nUser-agent: Mojeek\nUser-agent: JenkersBot\nUser-agent: Seekr\nUser-agent: YouBot\nUser-agent: Arquivo-web-crawler\nUser-agent: coccocbot-web\nUser-agent: SeznamBot\nUser-Agent: PerplexityBot\nUser-Agent: yacy\nUser-agent: anthropic-ai\nUser-agent: ClaudeBot\nUser-agent: Claude-SearchBot\nUser-agent: Claude-User\nUser-agent: AwarioRssBot\nUser-agent: AwarioSmartBot\nUser-agent: SentiOne\nUser-agent: ImageSift\nUser-agent: Applebot-Extended\nUser-agent: YandexAdditional\nUser-agent: YandexAdditionalBot\nUser-agent: scalepostAI\nUser-agent: Buck\nUser-agent: meta-externalagent\nUser-agent: Amazonbot\nUser-agent: amazon-QBusiness\nUser-agent: DuckAssistBot\nUser-agent: Google-CloudVertexBot\nUser-agent: Amzn-SearchBot\nUser-agent: AhrefsBot\nUser-agent: AhrefsSiteAudit\nDisallow: /\n\nLicense: https://theguardian.com/license.xml\n"
+    },
+    {
+      "url": "https://www.theguardian.com/robots.txt",
+      "timestamp": "2026-11-12T21:11:57.969229+00:00",
+      "status": 200,
+      "decision": "parsed",
+      "final_url": "https://www.theguardian.com/robots.txt",
+      "redirect_chain": [],
+      "body_sha256": "3387cd8d393a0c257e687ce63fcf30558ada1eb1fc167bfc51cb216e29005db2",
+      "body": "# This is the robots.txt file for theguardian.com\n\n# Guardian content is made available under our terms and conditions of use.\n# Any other uses are not permitted, incl. but not limited to: for large language\n# models (LLMs), machine learning and/or artificial intelligence-related\n# purposes; with any of the aforementioned technologies; and/or for any\n# commercial purposes. Contact licensing@theguardian.com for assistance\n\nUser-agent: *\nDisallow: /sendarticle/\nDisallow: /Users/\nDisallow: /users/\nDisallow: /*/print$\nDisallow: /email/\nDisallow: /contactus/\nDisallow: /share/\nDisallow: /websearch\nDisallow: /*?commentpage=\nDisallow: /whsmiths/\nDisallow: /external/overture/\nDisallow: /discussion/report-abuse/*\nDisallow: /discussion/report-abuse-ajax/*\nDisallow: /discussion/comment-permalink/*\nDisallow: /discussion/report-abuse/*\nDisallow: /discussion/user-report-abuse/*\nDisallow: /discussion/handlers/*\nDisallow: /discussion/your-profile\nDisallow: /discussion/your-comments\nDisallow: /discussion/edit-profile\nDisallow: /discussion/search/comments\nDisallow: /discussion/*\nDisallow: /search\nDisallow: /music/artist/*\nDisallow: /music/album/*\nDisallow: /books/data/*\nDisallow: /settings/\nDisallow: /embed/\nDisallow: /*styles/js-on.css$\nDisallow: /sport/olympics/2008/events/*\nDisallow: /sport/olympics/2008/medals/*\nDisallow: /f/healthcheck\nDisallow: /sections\nDisallow: /top-stories\nDisallow: /most-read/sport\nDisallow: /articles\nDisallow: /global$\nDisallow: /*/feedarticle/*\nDisallow: /travel/2013/aug/22/been-there-readers-competition?*\nDisallow: /preference/*\nDisallow: /59666047/\nDisallow: /print/\nDisallow: /info/tech-feedback\nDisallow: /production-monitoring/\nDisallow: *.emailjson\nDisallow: *.emailtxt\nDisallow: /headline.txt\nDisallow: *?*dcr=apps*\n\nUser-agent: Mediapartners-Google\nDisallow:\n\nSitemap: http://www.theguardian.com/sitemaps/news.xml\nSitemap: http://www.theguardian.com/sitemaps/video.xml\n\nUser-agent: NewsNow\nUser-agent: CCBot\nUser-agent: TurnitinBot\nUser-agent: PetalBot\nUser-agent: MoodleBot\nUser-agent: FacebookBot\nUser-agent: Bytespider\nUser-agent: Mojeek\nUser-agent: JenkersBot\nUser-agent: Seekr\nUser-agent: YouBot\nUser-agent: Arquivo-web-crawler\nUser-agent: coccocbot-web\nUser-agent: SeznamBot\nUser-Agent: PerplexityBot\nUser-Agent: yacy\nUser-agent: anthropic-ai\nUser-agent: ClaudeBot\nUser-agent: Claude-SearchBot\nUser-agent: Claude-User\nUser-agent: AwarioRssBot\nUser-agent: AwarioSmartBot\nUser-agent: SentiOne\nUser-agent: ImageSift\nUser-agent: Applebot-Extended\nUser-agent: YandexAdditional\nUser-agent: YandexAdditionalBot\nUser-agent: scalepostAI\nUser-agent: Buck\nUser-agent: meta-externalagent\nUser-agent: Amazonbot\nUser-agent: amazon-QBusiness\nUser-agent: DuckAssistBot\nUser-agent: Google-CloudVertexBot\nUser-agent: Amzn-SearchBot\nUser-agent: AhrefsBot\nUser-agent: AhrefsSiteAudit\nDisallow: /\n\nLicense: https://theguardian.com/license.xml\n"
+    }
+  ],
+  "eligible_pages": 40,
+  "canonical_origin": [
+    "https",
+    "www.theguardian.com",
+    443
+  ],
+  "stop_reason": "page_budget",
+  "elapsed_seconds": 30.56
+}

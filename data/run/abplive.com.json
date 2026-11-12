@@ -1,0 +1,1353 @@
+{
+  "site": {
+    "rank": "6619",
+    "domain": "abplive.com",
+    "stratum": "1001-10000"
+  },
+  "rows": [
+    {
+      "rank": "6619",
+      "domain": "abplive.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://abplive.com/",
+      "depth": 0,
+      "parent_url": "",
+      "attempt": 1,
+      "timestamp": "2026-11-12T21:14:01.223590+00:00",
+      "final_url": "https://www.abplive.com/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000 ; includeSubDomains ; preload"
+        ]
+      },
+      "body_bytes": 501980,
+      "truncated": false,
+      "body_sha256": "e031bfa74d9bef70a9aa20c719a8602c686f48ad55ff93ad3f253136237f5fd9",
+      "redirect_chain": [
+        {
+          "url": "https://abplive.com/",
+          "status": 301,
+          "location": "https://www.abplive.com/",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000 ; includeSubDomains ; preload"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Hindi News, \u0939\u093f\u0902\u0926\u0940 \u0928\u094d\u092f\u0942\u095b, Latest Hindi News Live, \u0939\u093f\u0902\u0926\u0940 \u0938\u092e\u093e\u091a\u093e\u0930, Hindi Samachar, Breaking Hindi News, \u0924\u093e\u091c\u093e \u0916\u093c\u092c\u0930\u0947\u0902, ABP News Hindi",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "6619",
+      "domain": "abplive.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.abplive.com/advertisement",
+      "depth": 1,
+      "parent_url": "https://www.abplive.com/",
+      "attempt": 2,
+      "timestamp": "2026-11-12T21:14:01.866469+00:00",
+      "final_url": "https://www.abplive.com/advertisement",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000 ; includeSubDomains ; preload"
+        ]
+      },
+      "body_bytes": 303698,
+      "truncated": false,
+      "body_sha256": "f2ea95c8195ab5decac664594ca888cd7775248440816e1f803b05b8d567d529",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Advertise With Us | ABP Network | ABP News",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "6619",
+      "domain": "abplive.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.abplive.com/states/delhi-ncr/du-professor-sent-on-forced-leave-allegations-of-inappropriate-behavior-towards-female-student-3214084",
+      "depth": 2,
+      "parent_url": "https://www.abplive.com/advertisement",
+      "attempt": 3,
+      "timestamp": "2026-11-12T21:14:02.381449+00:00",
+      "final_url": "https://www.abplive.com/states/delhi-ncr/du-professor-sent-on-forced-leave-allegations-of-inappropriate-behavior-towards-female-student-3214084",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000 ; includeSubDomains ; preload"
+        ]
+      },
+      "body_bytes": 328991,
+      "truncated": false,
+      "body_sha256": "7a02493f93a144216dba2bb0a87687c912043fab047777917bff371b64979bc4",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "\u091b\u093e\u0924\u094d\u0930\u093e \u0938\u0947 \u0905\u0928\u0941\u091a\u093f\u0924 \u0935\u094d\u092f\u0935\u0939\u093e\u0930 \u0915\u093e \u0906\u0930\u094b\u092a, \u091c\u092c\u0930\u0928 \u091b\u0941\u091f\u094d\u091f\u0940 \u092a\u0930 \u092d\u0947\u091c\u0947 \u0917\u090f DU \u0915\u0947 \u092a\u094d\u0930\u094b\u092b\u0947\u0938\u0930 | DU professor sent on forced leave allegations of inappropriate behavior towards female student",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "6619",
+      "domain": "abplive.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.abplive.com/authors/fiyaz-ul-mustufa",
+      "depth": 3,
+      "parent_url": "https://www.abplive.com/states/delhi-ncr/du-professor-sent-on-forced-leave-allegations-of-inappropriate-behavior-towards-female-student-3214084",
+      "attempt": 4,
+      "timestamp": "2026-11-12T21:14:02.846479+00:00",
+      "final_url": "https://www.abplive.com/authors/fiyaz-ul-mustufa",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000 ; includeSubDomains ; preload"
+        ]
+      },
+      "body_bytes": 325377,
+      "truncated": false,
+      "body_sha256": "fb929c6d339ad3bbf6e451b533e6ac5f28cc32f226fbbd85463f8472b95aa652",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Fiyaz ul mustufa (\u092b\u093f\u092f\u093e\u091c \u0909\u0932 \u092e\u0941\u0938\u094d\u0924\u092b\u093e): Read the latest articles by Fiyaz ul mustufa | ABP News",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "6619",
+      "domain": "abplive.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.abplive.com/news/india/tmc-mp-abhishek-banerjee-moves-calcutta-hc-security-reduction-z-plus-to-x-category-3214069",
+      "depth": 4,
+      "parent_url": "https://www.abplive.com/authors/fiyaz-ul-mustufa",
+      "attempt": 5,
+      "timestamp": "2026-11-12T21:14:04.635301+00:00",
+      "final_url": "https://www.abplive.com/news/india/tmc-mp-abhishek-banerjee-moves-calcutta-hc-security-reduction-z-plus-to-x-category-3214069",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000 ; includeSubDomains ; preload"
+        ]
+      },
+      "body_bytes": 333098,
+      "truncated": false,
+      "body_sha256": "d4b434826271e0a1e7200d748abe751a3f7c722b90fc55203e7c95d79b776469",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "'\u092e\u0947\u0930\u0940 \u0938\u0941\u0930\u0915\u094d\u0937\u093e \u0918\u091f\u093e \u0926\u0940 \u092e\u0940\u0932\u0949\u0930\u094d\u0921', \u0915\u0932\u0915\u0924\u094d\u0924\u093e HC \u092a\u0939\u0941\u0902\u091a\u0947 \u0905\u092d\u093f\u0937\u0947\u0915 \u092c\u0928\u0930\u094d\u091c\u0940, '\u0905\u092c \u0924\u0915 6 \u092c\u093e\u0930 \u0939\u094b \u091a\u0941\u0915\u0947 \u0939\u092e\u0932\u0947' | TMC Mp Abhishek Banerjee moves calcutta hc security reduction z plus to x category",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "6619",
+      "domain": "abplive.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.abplive.com/topic/abhishek-banerjee",
+      "depth": 5,
+      "parent_url": "https://www.abplive.com/news/india/tmc-mp-abhishek-banerjee-moves-calcutta-hc-security-reduction-z-plus-to-x-category-3214069",
+      "attempt": 6,
+      "timestamp": "2026-11-12T21:14:04.893599+00:00",
+      "final_url": "https://www.abplive.com/topic/abhishek-banerjee",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000 ; includeSubDomains ; preload"
+        ]
+      },
+      "body_bytes": 304914,
+      "truncated": false,
+      "body_sha256": "d99ea86285664a9223ddef8675f81e23b21bfc14e11f10d86d0726e6836024e8",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Abhishek Banerjee: Latest Hindi News Updates, Abhishek Banerjee \u0915\u0947 \u0938\u092e\u093e\u091a\u093e\u0930 \u0914\u0930 \u0905\u092a\u0921\u0947\u091f | ABP News",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "6619",
+      "domain": "abplive.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.abplive.com/entertainment",
+      "depth": 1,
+      "parent_url": "https://www.abplive.com/",
+      "attempt": 7,
+      "timestamp": "2026-11-12T21:14:06.382154+00:00",
+      "final_url": "https://www.abplive.com/entertainment",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000 ; includeSubDomains ; preload"
+        ]
+      },
+      "body_bytes": 367555,
+      "truncated": false,
+      "body_sha256": "8a1158351f448f9c63c53ca144ce32e9570c6c3e246356d2b6e050441b731888",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Entertainment News in Hindi: Entertainment Hindi News, \u092e\u0928\u094b\u0930\u0902\u091c\u0928 \u0938\u092e\u093e\u091a\u093e\u0930,  Bollywood, Movie, Gossips",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "6619",
+      "domain": "abplive.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.abplive.com/education/jobs/afcat-01-2027-notification-out-apply-online-begins-for-iaf-officer-posts-check-eligibility-3213882",
+      "depth": 2,
+      "parent_url": "https://www.abplive.com/advertisement",
+      "attempt": 8,
+      "timestamp": "2026-11-12T21:14:06.569333+00:00",
+      "final_url": "https://www.abplive.com/education/jobs/afcat-01-2027-notification-out-apply-online-begins-for-iaf-officer-posts-check-eligibility-3213882",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000 ; includeSubDomains ; preload"
+        ]
+      },
+      "body_bytes": 334884,
+      "truncated": false,
+      "body_sha256": "98d1380f74d050cb4f66eab11e9d95581b34a975b156d34ec663bf816f291415",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "\u092d\u093e\u0930\u0924\u0940\u092f \u0935\u093e\u092f\u0941 \u0938\u0947\u0928\u093e \u092e\u0947\u0902 \u0905\u092b\u0938\u0930 \u092c\u0928\u0928\u0947 \u0915\u093e \u092e\u094c\u0915\u093e, AFCAT 2027 \u0915\u0947 \u0932\u093f\u090f \u0928\u093f\u0915\u0932\u0940 \u092d\u0930\u094d\u0924\u0940 | AFCAT 01 2027 notification out apply online begins for iaf officer posts check eligibility",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "6619",
+      "domain": "abplive.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.abplive.com/videos/entertainment/television-yeh-fitoor-tera-jeet-saumya-3214040",
+      "depth": 3,
+      "parent_url": "https://www.abplive.com/states/delhi-ncr/du-professor-sent-on-forced-leave-allegations-of-inappropriate-behavior-towards-female-student-3214084",
+      "attempt": 9,
+      "timestamp": "2026-11-12T21:14:07.151749+00:00",
+      "final_url": "https://www.abplive.com/videos/entertainment/television-yeh-fitoor-tera-jeet-saumya-3214040",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000 ; includeSubDomains ; preload"
+        ]
+      },
+      "body_bytes": 285566,
+      "truncated": false,
+      "body_sha256": "bfaec3a27e396fb7c506592ea3384c07cf6e7e8dc2b85512d607f11d9220a037",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Yeh Fitoor Tera: Jeet \u0915\u0947 \u092a\u094d\u092f\u093e\u0930 \u092e\u0947\u0902 \u0905\u0921\u093c\u0940 Saumya, \u092a\u093f\u0924\u093e \u0915\u0947 \u0938\u093e\u092e\u0928\u0947 \u0930\u0916\u093e \u092c\u0921\u093c\u093e \u0927\u0930\u094d\u092e\u0938\u0902\u0915\u091f! | Yeh Fitoor Tera: Jeet \u0915\u0947 \u092a\u094d\u092f\u093e\u0930 \u092e\u0947\u0902 \u0905\u0921\u093c\u0940 Saumya, \u092a\u093f\u0924\u093e \u0915\u0947 \u0938\u093e\u092e\u0928\u0947 \u0930\u0916\u093e \u092c\u0921\u093c\u093e \u0927\u0930\u094d\u092e\u0938\u0902\u0915\u091f!",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "6619",
+      "domain": "abplive.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.abplive.com/tv-show/mahadangal/will-bhim-and-meem-change-the-scenario-for-27-3214180",
+      "depth": 4,
+      "parent_url": "https://www.abplive.com/authors/fiyaz-ul-mustufa",
+      "attempt": 10,
+      "timestamp": "2026-11-12T21:14:07.630380+00:00",
+      "final_url": "https://www.abplive.com/tv-show/mahadangal/will-bhim-and-meem-change-the-scenario-for-27-3214180",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000 ; includeSubDomains ; preload"
+        ]
+      },
+      "body_bytes": 297116,
+      "truncated": false,
+      "body_sha256": "3495771e58389f8c00ce18ff029fb4373f3cc5a3e8ec9c410bd1fe497e2ad835",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "'\u092d\u0940\u092e \u0914\u0930 \u092e\u0940\u092e' \u092c\u0926\u0932\u0947\u0902\u0917\u0947 27 \u0915\u093e \u0938\u0940\u0928? | Will 'Bhim and Meem' change the scenario for '27?",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "6619",
+      "domain": "abplive.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.abplive.com/photo-gallery/india",
+      "depth": 5,
+      "parent_url": "https://www.abplive.com/news/india/tmc-mp-abhishek-banerjee-moves-calcutta-hc-security-reduction-z-plus-to-x-category-3214069",
+      "attempt": 11,
+      "timestamp": "2026-11-12T21:14:09.144915+00:00",
+      "final_url": "https://www.abplive.com/photo-gallery/news/india",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000 ; includeSubDomains ; preload"
+        ]
+      },
+      "body_bytes": 378196,
+      "truncated": false,
+      "body_sha256": "0506e709e8ae4a03d22a882acff1fd2f268b99be5ce6d984b6c76d4bd6807483",
+      "redirect_chain": [
+        {
+          "url": "https://www.abplive.com/photo-gallery/india",
+          "status": 301,
+          "location": "https://www.abplive.com/photo-gallery/news/india",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000 ; includeSubDomains ; preload"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Photo Gallery (\u092b\u094b\u091f\u094b\u0917\u0948\u0932\u0930\u0940): Latest Photo News in Hindi, Photo Gallery Online | ABP News",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "6619",
+      "domain": "abplive.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.abplive.com/movie-review/entertainment",
+      "depth": 1,
+      "parent_url": "https://www.abplive.com/",
+      "attempt": 12,
+      "timestamp": "2026-11-12T21:14:10.563273+00:00",
+      "final_url": "https://www.abplive.com/entertainment",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000 ; includeSubDomains ; preload"
+        ]
+      },
+      "body_bytes": 367555,
+      "truncated": false,
+      "body_sha256": "6c2aca1252462e4a12c708d7ba4f86c77a161d24dbf7d9c2a2d7aeaf4bce1888",
+      "redirect_chain": [
+        {
+          "url": "https://www.abplive.com/movie-review/entertainment",
+          "status": 301,
+          "location": "https://www.abplive.com/entertainment",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000 ; includeSubDomains ; preload"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Entertainment News in Hindi: Entertainment Hindi News, \u092e\u0928\u094b\u0930\u0902\u091c\u0928 \u0938\u092e\u093e\u091a\u093e\u0930,  Bollywood, Movie, Gossips",
+      "duplicate_final": true,
+      "eligible": false
+    },
+    {
+      "rank": "6619",
+      "domain": "abplive.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.abplive.com/business/noel-tata-retirement-tata-investment-board-bahram-vakil-new-chairman-what-will-changes-tcs-controversy-explained-3214003",
+      "depth": 2,
+      "parent_url": "https://www.abplive.com/advertisement",
+      "attempt": 13,
+      "timestamp": "2026-11-12T21:14:11.098149+00:00",
+      "final_url": "https://www.abplive.com/business/noel-tata-retirement-tata-investment-board-bahram-vakil-new-chairman-what-will-changes-tcs-controversy-explained-3214003",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000 ; includeSubDomains ; preload"
+        ]
+      },
+      "body_bytes": 341414,
+      "truncated": false,
+      "body_sha256": "3235f67a689c9e860e9d78e6923320a03a354a334963e0dc732fb9a82d31fc37",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Explained: \u0928\u094b\u090f\u0932 \u091f\u093e\u091f\u093e \u0915\u0947 \u092c\u093e\u0926 \u091a\u0947\u092f\u0930\u092e\u0948\u0928 \u092c\u0928\u0928\u0947 \u0935\u093e\u0932\u0947 \u092c\u0939\u0930\u093e\u092e \u0935\u0915\u0940\u0932 \u0915\u094c\u0928 \u0939\u0948\u0902? \u0905\u092c \u0915\u093f\u0938 \u092c\u0926\u0932\u093e\u0935 \u0915\u0940 \u0906\u0939\u091f | Noel Tata Retirement TATA Investment Board Bahram Vakil New Chairman What Will Changes TCS Controversy Explained",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "6619",
+      "domain": "abplive.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.abplive.com/utility/education-loan-emi-calculator.html",
+      "depth": 3,
+      "parent_url": "https://www.abplive.com/education/jobs/afcat-01-2027-notification-out-apply-online-begins-for-iaf-officer-posts-check-eligibility-3213882",
+      "attempt": 14,
+      "timestamp": "2026-11-12T21:14:12.767489+00:00",
+      "final_url": "https://www.abplive.com/utility/education-loan-emi-calculator",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000 ; includeSubDomains ; preload"
+        ]
+      },
+      "body_bytes": 280811,
+      "truncated": false,
+      "body_sha256": "a24c148bd5287970e8a70d29d1fe60b5a2a7344717694bc930c4cedf27da1fd9",
+      "redirect_chain": [
+        {
+          "url": "https://www.abplive.com/utility/education-loan-emi-calculator.html",
+          "status": 301,
+          "location": "/utility/education-loan-emi-calculator",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000 ; includeSubDomains ; preload"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Education Loan EMI Calculator: \u0915\u093f\u0924\u0928\u093e \u0939\u094b\u0917\u0940 \u0906\u092a\u0915\u0947 \u090f\u091c\u0941\u0915\u0947\u0936\u0928 \u0932\u094b\u0928 \u0915\u0940 EMI, \u092f\u0939\u093e\u0901 \u0915\u0930\u0947\u0902 \u091a\u0947\u0915",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "6619",
+      "domain": "abplive.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.abplive.com/blog/up-cm-yogi-adityanath-schemes-for-women-empowerment-security-respect-and-self-reliance-3213711",
+      "depth": 4,
+      "parent_url": "https://www.abplive.com/authors/fiyaz-ul-mustufa",
+      "attempt": 15,
+      "timestamp": "2026-11-12T21:14:13.203187+00:00",
+      "final_url": "https://www.abplive.com/blog/up-cm-yogi-adityanath-schemes-for-women-empowerment-security-respect-and-self-reliance-3213711",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000 ; includeSubDomains ; preload"
+        ]
+      },
+      "body_bytes": 362405,
+      "truncated": false,
+      "body_sha256": "1573e556d784bc643a4723ae429038f1f5babeefd06b38520d17a683b1e63422",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "\u092d\u0948\u092f\u093e\u0926\u0942\u091c \u0915\u093e \u092e\u0930\u094d\u092e \u0914\u0930 \u092f\u094b\u0917\u0940 \u0915\u093e '\u092d\u093e\u0908 \u0927\u0930\u094d\u092e' | UP CM Yogi Adityanath schemes for women empowerment security respect and self reliance",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "6619",
+      "domain": "abplive.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.abplive.com/chitra-tripathi-profile",
+      "depth": 5,
+      "parent_url": "https://www.abplive.com/tv-show/mahadangal/will-bhim-and-meem-change-the-scenario-for-27-3214180",
+      "attempt": 16,
+      "timestamp": "2026-11-12T21:14:13.463426+00:00",
+      "final_url": "https://www.abplive.com/chitra-tripathi-profile",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000 ; includeSubDomains ; preload"
+        ]
+      },
+      "body_bytes": 310917,
+      "truncated": false,
+      "body_sha256": "a7296ea7c65d753248a7b3afd9fb0a824929501f043c8c6c3b28e27a60f2e5f2",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Chitra Tripathi",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "6619",
+      "domain": "abplive.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.abplive.com/sports",
+      "depth": 1,
+      "parent_url": "https://www.abplive.com/",
+      "attempt": 17,
+      "timestamp": "2026-11-12T21:14:13.936670+00:00",
+      "final_url": "https://www.abplive.com/sports",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000 ; includeSubDomains ; preload"
+        ]
+      },
+      "body_bytes": 414414,
+      "truncated": false,
+      "body_sha256": "15f27f3646497ecaff5b1ba397b264ae9d0cf35482ac0bab2b96fa3768e1671e",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Sports News in Hindi: \u0916\u0947\u0932 \u0938\u092e\u093e\u091a\u093e\u0930, Latest Sports Hindi News Cricket LIVE Score - ABP \u0928\u094d\u092f\u0942\u095b",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "6619",
+      "domain": "abplive.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.abplive.com/lifestyle/foods-to-keep-hair-black-naturally-prevent-grey-hair-3213878",
+      "depth": 3,
+      "parent_url": "https://www.abplive.com/education/jobs/afcat-01-2027-notification-out-apply-online-begins-for-iaf-officer-posts-check-eligibility-3213882",
+      "attempt": 18,
+      "timestamp": "2026-11-12T21:14:15.886291+00:00",
+      "final_url": "https://www.abplive.com/lifestyle/foods-to-keep-hair-black-naturally-prevent-grey-hair-3213878",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000 ; includeSubDomains ; preload"
+        ]
+      },
+      "body_bytes": 340326,
+      "truncated": false,
+      "body_sha256": "3352c8b51b13b9839f6fd74f62198a39fee3e6711a72bffc7c801406e7c4170a",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Hair Care Tips: \u092c\u093e\u0932\u094b\u0902 \u0915\u094b \u091c\u093f\u0902\u0926\u0917\u0940 \u092d\u0930 \u0915\u093e\u0932\u093e \u0930\u0916\u0947\u0917\u0940 \u092f\u0947 \u091a\u0940\u091c, \u0939\u0930 \u0939\u092b\u094d\u0924\u0947 \u091c\u0930\u0942\u0930 \u0915\u0930\u0947\u0902 \u0907\u0938\u0915\u093e \u0907\u0938\u094d\u0924\u0947\u092e\u093e\u0932 | foods to keep hair black naturally prevent grey hair",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "6619",
+      "domain": "abplive.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.abplive.com/technology/samsung-one-ui-9-5-may-rollout-call-recording-feature-on-whatsapp-telegram-know-details-3213834",
+      "depth": 4,
+      "parent_url": "https://www.abplive.com/utility/education-loan-emi-calculator",
+      "attempt": 19,
+      "timestamp": "2026-11-12T21:14:16.064094+00:00",
+      "final_url": "https://www.abplive.com/technology/samsung-one-ui-9-5-may-rollout-call-recording-feature-on-whatsapp-telegram-know-details-3213834",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000 ; includeSubDomains ; preload"
+        ]
+      },
+      "body_bytes": 333205,
+      "truncated": false,
+      "body_sha256": "ace6d53a10d9948f05225c5e3d6060c9b85d672b250ecc5e6f0033249013a640",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Samsung New Feature : \u092c\u093f\u0928\u093e \u0905\u0932\u0917 \u0910\u092a \u0915\u0947 \u0930\u093f\u0915\u0949\u0930\u094d\u0921 \u0939\u094b\u0917\u0940 WhatsApp \u0915\u0949\u0932? Samsung \u0932\u093e \u0930\u0939\u093e \u0939\u0948 \u0928\u092f\u093e \u092b\u0940\u091a\u0930 | Samsung One UI 9 5 May rollout Call Recording feature on WhatsApp Telegram know details",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "6619",
+      "domain": "abplive.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.abplive.com/astro",
+      "depth": 1,
+      "parent_url": "https://www.abplive.com/",
+      "attempt": 20,
+      "timestamp": "2026-11-12T21:14:17.949233+00:00",
+      "final_url": "https://www.abplive.com/astro",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000 ; includeSubDomains ; preload"
+        ]
+      },
+      "body_bytes": 422768,
+      "truncated": false,
+      "body_sha256": "af809913b9c9244817e3631b8ca1317bb81192dabf5057e294b09c3442bd1ed2",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Astrology News in Hindi, \u0939\u0938\u094d\u0924\u0930\u0947\u0916\u093e \u091c\u094d\u092f\u094b\u0924\u093f\u0937 \u0936\u093e\u0938\u094d\u0924\u094d\u0930, \u0939\u0938\u094d\u0924\u0930\u0947\u0916\u093e, \u0930\u093e\u0936\u093f\u092b\u0932, Astrology in Hindi | ABP News",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "6619",
+      "domain": "abplive.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.abplive.com/web-stories/astro",
+      "depth": 2,
+      "parent_url": "https://www.abplive.com/astro",
+      "attempt": 21,
+      "timestamp": "2026-11-12T21:14:19.195181+00:00",
+      "final_url": "https://www.abplive.com/web-stories/astro",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000 ; includeSubDomains ; preload"
+        ]
+      },
+      "body_bytes": 332064,
+      "truncated": false,
+      "body_sha256": "f86d86c4042062b174bc7013b5d56158a7a9fda08c9875dad0accad074a7166f",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Astro Web Stories: Mobile Visual Stories | News Web Stories | Web Stories of Celebrities, Cricketers | ABP News | ABP News",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "6619",
+      "domain": "abplive.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.abplive.com/trending/candidate-crying-after-losing-sarpanch-election-viral-video-3213855",
+      "depth": 3,
+      "parent_url": "https://www.abplive.com/education/jobs/afcat-01-2027-notification-out-apply-online-begins-for-iaf-officer-posts-check-eligibility-3213882",
+      "attempt": 22,
+      "timestamp": "2026-11-12T21:14:20.628307+00:00",
+      "final_url": "https://www.abplive.com/trending/candidate-crying-after-losing-sarpanch-election-viral-video-3213855",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000 ; includeSubDomains ; preload"
+        ]
+      },
+      "body_bytes": 335336,
+      "truncated": false,
+      "body_sha256": "a4915d690744f8cfcbcbf4113c0b3db5b23a58a0a488a4b7ffee494be2cf231a",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Video: \u0938\u0930\u092a\u0902\u091a \u0915\u093e \u091a\u0941\u0928\u093e\u0935 \u0939\u093e\u0930\u093e \u0909\u092e\u094d\u092e\u0940\u0926\u0935\u093e\u0930 \u0924\u094b \u092b\u0942\u091f \u092b\u0942\u091f\u0915\u0930 \u0930\u094b\u092f\u093e, \u0917\u094d\u0930\u093e\u092e\u0940\u0923\u094b\u0902 \u0928\u0947 \u092c\u0902\u0927\u093e\u092f\u093e \u0922\u093e\u0902\u0922\u0938 | Candidate Crying After Losing Sarpanch Election Viral Video",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "6619",
+      "domain": "abplive.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.abplive.com/gk",
+      "depth": 1,
+      "parent_url": "https://www.abplive.com/",
+      "attempt": 23,
+      "timestamp": "2026-11-12T21:14:21.079949+00:00",
+      "final_url": "https://www.abplive.com/gk",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000 ; includeSubDomains ; preload"
+        ]
+      },
+      "body_bytes": 351790,
+      "truncated": false,
+      "body_sha256": "1b4106b87812edf5751b2645624666e73696996eb4b4eca6bc68629569e10854",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "General Knowledge in Hindi, GK Questions, Current Topics Facts, \u0932\u0947\u091f\u0947\u0938\u094d\u091f \u0928\u0949\u0932\u0947\u091c \u0928\u094d\u092f\u0942\u091c\u093c",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "6619",
+      "domain": "abplive.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.abplive.com/auto",
+      "depth": 1,
+      "parent_url": "https://www.abplive.com/",
+      "attempt": 24,
+      "timestamp": "2026-11-12T21:14:22.327210+00:00",
+      "final_url": "https://www.abplive.com/auto",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000 ; includeSubDomains ; preload"
+        ]
+      },
+      "body_bytes": 347505,
+      "truncated": false,
+      "body_sha256": "de0a969fd75b4361357bede61ac82d1069d867fd0fc4e8eb18b09fe8ee830b2c",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Auto News in Hindi, Automobile Latest News in Hindi, \u0911\u091f\u094b\u092e\u094b\u092c\u093e\u0907\u0932 \u0915\u0940 \u0924\u093e\u095b\u093e \u0959\u092c\u0930\u0947\u0902 | ABP News",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "6619",
+      "domain": "abplive.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.abplive.com/personal-finance",
+      "depth": 1,
+      "parent_url": "https://www.abplive.com/",
+      "attempt": 25,
+      "timestamp": "2026-11-12T21:14:23.765886+00:00",
+      "final_url": "https://www.abplive.com/business/personal-finance",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000 ; includeSubDomains ; preload"
+        ]
+      },
+      "body_bytes": 354569,
+      "truncated": false,
+      "body_sha256": "6edb3b4ffe136fd35a589592db354a3aa5deef967f1867208b40e56840a8b43b",
+      "redirect_chain": [
+        {
+          "url": "https://www.abplive.com/personal-finance",
+          "status": 301,
+          "location": "https://www.abplive.com/business/personal-finance",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000 ; includeSubDomains ; preload"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Personal-finance News, Latest Personal-finance News Today, Live News updates from Personal-finance | ABP News",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "6619",
+      "domain": "abplive.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.abplive.com/ipo",
+      "depth": 1,
+      "parent_url": "https://www.abplive.com/",
+      "attempt": 26,
+      "timestamp": "2026-11-12T21:14:25.607779+00:00",
+      "final_url": "https://www.abplive.com/business/ipo",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000 ; includeSubDomains ; preload"
+        ]
+      },
+      "body_bytes": 350978,
+      "truncated": false,
+      "body_sha256": "3efe5f48a618741a1de611637f27b2311e08fe8c39ac601c02c993e5e5de081d",
+      "redirect_chain": [
+        {
+          "url": "https://www.abplive.com/ipo",
+          "status": 301,
+          "location": "https://www.abplive.com/business/ipo",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000 ; includeSubDomains ; preload"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Ipo News, Latest Ipo News Today, Live News updates from Ipo | ABP News",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "6619",
+      "domain": "abplive.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.abplive.com/utility-news",
+      "depth": 1,
+      "parent_url": "https://www.abplive.com/",
+      "attempt": 27,
+      "timestamp": "2026-11-12T21:14:27.380535+00:00",
+      "final_url": "https://www.abplive.com/utility-news",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000 ; includeSubDomains ; preload"
+        ]
+      },
+      "body_bytes": 351082,
+      "truncated": false,
+      "body_sha256": "24016751759bba13381d4efd54a9af7d62ff060e0592e8ce50e805dc4d5deab6",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Utility News in Hindi, \u092f\u0942\u091f\u093f\u0932\u093f\u091f\u0940 \u0928\u094d\u092f\u0942\u091c\u093c, Utility Hindi News, \u092f\u0942\u091f\u093f\u0932\u093f\u091f\u0940 \u0938\u092e\u093e\u091a\u093e\u0930 | ABP News",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "6619",
+      "domain": "abplive.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.abplive.com/agriculture",
+      "depth": 1,
+      "parent_url": "https://www.abplive.com/",
+      "attempt": 28,
+      "timestamp": "2026-11-12T21:14:27.560927+00:00",
+      "final_url": "https://www.abplive.com/agriculture",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000 ; includeSubDomains ; preload"
+        ]
+      },
+      "body_bytes": 349694,
+      "truncated": false,
+      "body_sha256": "343b248fe4b3332012ba0ad9879c61d3443059e6171bdfb73affbf7cb7e9782f",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Agriculture News in Hindi, \u0915\u0943\u0937\u093f \u0938\u092e\u093e\u091a\u093e\u0930, Indian Farming Agriculture Latest News- ABP News",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "6619",
+      "domain": "abplive.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.abplive.com/fact-check",
+      "depth": 1,
+      "parent_url": "https://www.abplive.com/",
+      "attempt": 29,
+      "timestamp": "2026-11-12T21:14:28.432968+00:00",
+      "final_url": "https://www.abplive.com/fact-check",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000 ; includeSubDomains ; preload"
+        ]
+      },
+      "body_bytes": 314857,
+      "truncated": false,
+      "body_sha256": "f204767f1bd161da4cda23343e0d57bd74132eb7ad89f96977c5deef4b9115f8",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Fact Check in Hindi: Truth Behind Fake News, Images, Viral Videos - ABP Live",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "6619",
+      "domain": "abplive.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.abplive.com/datalabs/business/world-bank-report-nearly-50-crore-indians-lifted-out-of-poverty-since-2011-infographics-3210546",
+      "depth": 2,
+      "parent_url": "https://www.abplive.com/fact-check",
+      "attempt": 30,
+      "timestamp": "2026-11-12T21:14:28.634638+00:00",
+      "final_url": "https://www.abplive.com/datalabs/business/world-bank-report-nearly-50-crore-indians-lifted-out-of-poverty-since-2011-infographics-3210546",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000 ; includeSubDomains ; preload"
+        ]
+      },
+      "body_bytes": 284474,
+      "truncated": false,
+      "body_sha256": "251bb14cdcb0cd284a3a8d470bd9ab4a71df9bce1b98086f1b6e5453135834e8",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "49.6 \u0915\u0930\u094b\u0921\u093c \u0932\u094b\u0917 \u0917\u0930\u0940\u092c\u0940 \u0930\u0947\u0916\u093e \u0938\u0947 \u092c\u093e\u0939\u0930: \u0935\u093f\u0936\u094d\u0935 \u092c\u0948\u0902\u0915 \u0915\u0940 \u0930\u093f\u092a\u094b\u0930\u094d\u091f \u092e\u0947\u0902 \u092d\u093e\u0930\u0924 \u0915\u0947 \u0935\u093f\u0915\u093e\u0938 \u0915\u093e \u092c\u0921\u093c\u093e \u092a\u094d\u0930\u092e\u093e\u0923 | World Bank Report Nearly 50 Crore Indians Lifted Out of Poverty Since 2011 infographics",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "6619",
+      "domain": "abplive.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.abplive.com/diwali",
+      "depth": 1,
+      "parent_url": "https://www.abplive.com/",
+      "attempt": 31,
+      "timestamp": "2026-11-12T21:14:29.099436+00:00",
+      "final_url": "https://www.abplive.com/diwali",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000 ; includeSubDomains ; preload"
+        ]
+      },
+      "body_bytes": 320289,
+      "truncated": false,
+      "body_sha256": "f781387db507a9dede830ad7d1ddcdb2c99baf7375123dd693fb02d33da0be99",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "6619",
+      "domain": "abplive.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.abplive.com/diwali-2025",
+      "depth": 2,
+      "parent_url": "https://www.abplive.com/diwali",
+      "attempt": 32,
+      "timestamp": "2026-11-12T21:14:30.679661+00:00",
+      "final_url": "https://www.abplive.com/diwali-2025",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000 ; includeSubDomains ; preload"
+        ]
+      },
+      "body_bytes": 333571,
+      "truncated": false,
+      "body_sha256": "c3d33e9ba8985109d4a1b73a2346a2c424d8ab615f433c8f9cc0d4962437ab2b",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "6619",
+      "domain": "abplive.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.abplive.com/diwali-2024",
+      "depth": 2,
+      "parent_url": "https://www.abplive.com/diwali",
+      "attempt": 33,
+      "timestamp": "2026-11-12T21:14:31.823761+00:00",
+      "final_url": "https://www.abplive.com/diwali-2024",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000 ; includeSubDomains ; preload"
+        ]
+      },
+      "body_bytes": 330660,
+      "truncated": false,
+      "body_sha256": "b5e0cf5d54a99d3ae8802d5ec65fa008fe47d6be066a86cd3603d2abc1924b1c",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "6619",
+      "domain": "abplive.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.abplive.com/short-videos/news/kapoor-family-seen-together-on-diwali-raha-was-also-seen-in-ranbir-s-lap-abp-news-shorts-2815153",
+      "depth": 3,
+      "parent_url": "https://www.abplive.com/diwali-2024",
+      "attempt": 34,
+      "timestamp": "2026-11-12T21:14:33.246977+00:00",
+      "final_url": "https://www.abplive.com/short-videos/news/kapoor-family-seen-together-on-diwali-raha-was-also-seen-in-ranbir-s-lap-abp-news-shorts-2815153",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000 ; includeSubDomains ; preload"
+        ]
+      },
+      "body_bytes": 76035,
+      "truncated": false,
+      "body_sha256": "01fb82452e8cbdb9095787ff41760604e821c695f471287408120c49d6e6f670",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "\u0926\u093f\u0935\u093e\u0932\u0940 \u092a\u0930 \u0938\u093e\u0925 \u0926\u093f\u0916\u0940 \u0915\u092a\u0942\u0930 \u092b\u0948\u092e\u093f\u0932\u0940, \u0930\u0923\u092c\u0940\u0930 \u0915\u0940 \u0917\u094b\u0926 \u092e\u0947\u0902 \u0930\u093e\u0939\u093e \u092d\u0940 \u0906\u0908 \u0928\u091c\u0930 | Abp News Shorts | Kapoor Family Seen Together On Diwali, Raha Was Also Seen In Ranbir's Lap. Abp News Shorts",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "6619",
+      "domain": "abplive.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.abplive.com/games",
+      "depth": 1,
+      "parent_url": "https://www.abplive.com/",
+      "attempt": 35,
+      "timestamp": "2026-11-12T21:14:34.246029+00:00",
+      "final_url": "https://www.abplive.com/games",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000 ; includeSubDomains ; preload"
+        ]
+      },
+      "body_bytes": 251330,
+      "truncated": false,
+      "body_sha256": "ffd79c4ae48ad4909130ae884a264ad6b457a5ea42e41983e22d54c65cd2ed7b",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "ABP News Games | Play Daily Games for Free on ABPLIVE  | ABP News",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "6619",
+      "domain": "abplive.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.abplive.com/weather",
+      "depth": 1,
+      "parent_url": "https://www.abplive.com/",
+      "attempt": 36,
+      "timestamp": "2026-11-12T21:14:34.422791+00:00",
+      "final_url": "https://www.abplive.com/weather",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000 ; includeSubDomains ; preload"
+        ]
+      },
+      "body_bytes": 512765,
+      "truncated": false,
+      "body_sha256": "ae42a1254a53fd3a6cf7f37412f8215cb26a6e01231088c60d7ded3897aa049d",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "\u0928\u0908 \u0926\u093f\u0932\u094d\u0932\u0940 \u092e\u0947\u0902 \u0906\u091c \u0915\u0947 \u0926\u093f\u0928 \u0915\u093e \u092e\u094c\u0938\u092e \u0938\u092e\u093e\u091a\u093e\u0930, \u0924\u093e\u092a\u092e\u093e\u0928 \u092a\u0942\u0930\u094d\u0935\u093e\u0928\u0941\u092e\u093e\u0928 | ABP News | ABP News",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "6619",
+      "domain": "abplive.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.abplive.com/aqi/air-quality-index-in-delhi-delhi",
+      "depth": 2,
+      "parent_url": "https://www.abplive.com/weather",
+      "attempt": 37,
+      "timestamp": "2026-11-12T21:14:36.350324+00:00",
+      "final_url": "https://www.abplive.com/aqi/air-quality-index-in-delhi-delhi",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000 ; includeSubDomains ; preload"
+        ]
+      },
+      "body_bytes": 514742,
+      "truncated": false,
+      "body_sha256": "c1fd2be18f5150ff9cd9e36f734370c12a0136700386a48dfc8b8dedd9dcceb5",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Delhi AQI Today, Delhi Real Time Air Quality Index | ABP News",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "6619",
+      "domain": "abplive.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.abplive.com/podcasts/samwaad/how-scientists-predicts-about-weather-fifty-years-ago-know-here-2642167",
+      "depth": 2,
+      "parent_url": "https://www.abplive.com/weather",
+      "attempt": 38,
+      "timestamp": "2026-11-12T21:14:37.902222+00:00",
+      "final_url": "https://www.abplive.com/podcasts/samwaad/how-scientists-predicts-about-weather-fifty-years-ago-know-here-2642167",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000 ; includeSubDomains ; preload"
+        ]
+      },
+      "body_bytes": 331429,
+      "truncated": false,
+      "body_sha256": "28e2625e303196719b7314cd9b05bb1d562e87db4dd93ffe22f190c503f3b61d",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "How Scientists predicts about Weather fifty years ago know here  | \u0926\u0947\u0936 \u092e\u0947\u0902 50 \u0938\u093e\u0932 \u092a\u0939\u0932\u0947 \u0915\u0948\u0938\u0947 \u0915\u0940 \u091c\u093e\u0924\u0940 \u0925\u0940 \u092e\u094c\u0938\u092e \u0915\u093f \u092d\u0935\u093f\u0937\u094d\u092f\u0935\u093e\u0923\u0940? Samwaad",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "6619",
+      "domain": "abplive.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.abplive.com/events/india-at-2047",
+      "depth": 1,
+      "parent_url": "https://www.abplive.com/",
+      "attempt": 39,
+      "timestamp": "2026-11-12T21:14:39.424180+00:00",
+      "final_url": "https://www.abplive.com/events/india-at-2047",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000 ; includeSubDomains ; preload"
+        ]
+      },
+      "body_bytes": 46269,
+      "truncated": false,
+      "body_sha256": "d8b639aee218f9057dcaec345c56cb1f357975fa418bd6b9f15ad09f86bb6d88",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "INDIA AT 2047: 100 Years of Independence, India's Making of World's Fastest Growing Super Power India At 2047 | ABP Live",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "6619",
+      "domain": "abplive.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.abplive.com/live-tv",
+      "depth": 1,
+      "parent_url": "https://www.abplive.com/",
+      "attempt": 40,
+      "timestamp": "2026-11-12T21:14:39.538378+00:00",
+      "final_url": "https://www.abplive.com/live-tv",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000 ; includeSubDomains ; preload"
+        ]
+      },
+      "body_bytes": 279066,
+      "truncated": false,
+      "body_sha256": "4f63acaa94d7cd12628e7b384ff7d9a09e8642568068fa97a7d3b5af71cce537",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "ABP News LIVE TV (\u090f\u092c\u0940\u092a\u0940 \u0928\u094d\u092f\u0942\u091c\u093c \u0932\u093e\u0907\u0935 \u091f\u0940\u0935\u0940 \u0939\u093f\u0902\u0926\u0940): Hindi News LIVE, \u0939\u093f\u0902\u0926\u0940 \u0928\u094d\u092f\u0942\u091c\u093c \u0932\u093e\u0907\u0935, Breaking Hindi News LIVE TV, Latest Hindi News Live",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "6619",
+      "domain": "abplive.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.abplive.com/pincode/pincode-finder.html",
+      "depth": 1,
+      "parent_url": "https://www.abplive.com/",
+      "attempt": 41,
+      "timestamp": "2026-11-12T21:14:40.130062+00:00",
+      "final_url": "https://www.abplive.com/pincode/pincode-finder.html",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000 ; includeSubDomains ; preload"
+        ]
+      },
+      "body_bytes": 309060,
+      "truncated": false,
+      "body_sha256": "500d878fe358b209d2377dd75811d347923fc545735df67fed322d80177b9a33",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "All India PIN Codes, Post Office Address, PIN Code Finder",
+      "duplicate_final": false,
+      "eligible": true
+    }
+  ],
+  "robots": [
+    {
+      "url": "https://abplive.com/robots.txt",
+      "timestamp": "2026-11-12T21:14:00.759620+00:00",
+      "status": 200,
+      "decision": "parsed",
+      "final_url": "https://www.abplive.com/robots.txt",
+      "redirect_chain": [
+        {
+          "url": "https://abplive.com/robots.txt",
+          "status": 301,
+          "location": "https://www.abplive.com/robots.txt"
+        }
+      ],
+      "body_sha256": "3ecbf5edf400127e61ccac930f0a0dfd3fd43ff9fe095c69bfe556655b2dbd41",
+      "body": "User-agent: *\nAllow: /\nDisallow: /wp-admin/\nDisallow: /search?s*\nDisallow: /search/page-*\nDisallow: /abp-widget/\nDisallow: /adsunits/\nDisallow: /adsunits-a/\nDisallow: /adsunits-b/\nDisallow: /adsunits-c/\nDisallow: /*?s-news-\nDisallow: /*?sport-news-\n# Block font files\nDisallow: /abp-web/assets/css/amp/fonts/\nDisallow: /abp-web/assets/css/mobile/fonts/\n# Block image sprite assets\nDisallow: /abp-web/assets/images/amp/\nDisallow: /abp-web/assets/images/mobile/\n# Block dynamic or unnecessary AJAX URLs\nDisallow: /dajax/\nDisallow: /embed-video-player/\nDisallow: /akamai/\nDisallow: /embed/\nDisallow: /style.css\nDisallow: /diesel-prices/*\nDisallow: /petrol-prices/*\nDisallow: /aqi/*\nDisallow: /personal-loan-emi-calculator/*\nDisallow: /car-loan-emi-calculator/*\nDisallow: /bmi-calculator/*\nDisallow: /home-loan-emi-calculator/*\nDisallow: /education-loan-emi-calculator/*\nDisallow: /dajax/premium/*\nDisallow: /abplive-premium/offerings\n\n#Sitemaps\nSitemap: https://www.abplive.com/news-sitemap.xml\nSitemap: https://www.abplive.com/video-sitemap.xml\nSitemap: https://www.abplive.com/gallery-sitemap.xml\nSitemap: https://www.abplive.com/google-news-sitemap.xml\nSitemap: https://www.abplive.com/web-sitemap.xml\nSitemap: https://www.abplive.com/amp-stories-sitemap.xml\nSitemap: https://www.abplive.com/shortvideo-sitemap.xml\n"
+    },
+    {
+      "url": "https://www.abplive.com/robots.txt",
+      "timestamp": "2026-11-12T21:14:01.223567+00:00",
+      "status": 200,
+      "decision": "parsed",
+      "final_url": "https://www.abplive.com/robots.txt",
+      "redirect_chain": [],
+      "body_sha256": "3ecbf5edf400127e61ccac930f0a0dfd3fd43ff9fe095c69bfe556655b2dbd41",
+      "body": "User-agent: *\nAllow: /\nDisallow: /wp-admin/\nDisallow: /search?s*\nDisallow: /search/page-*\nDisallow: /abp-widget/\nDisallow: /adsunits/\nDisallow: /adsunits-a/\nDisallow: /adsunits-b/\nDisallow: /adsunits-c/\nDisallow: /*?s-news-\nDisallow: /*?sport-news-\n# Block font files\nDisallow: /abp-web/assets/css/amp/fonts/\nDisallow: /abp-web/assets/css/mobile/fonts/\n# Block image sprite assets\nDisallow: /abp-web/assets/images/amp/\nDisallow: /abp-web/assets/images/mobile/\n# Block dynamic or unnecessary AJAX URLs\nDisallow: /dajax/\nDisallow: /embed-video-player/\nDisallow: /akamai/\nDisallow: /embed/\nDisallow: /style.css\nDisallow: /diesel-prices/*\nDisallow: /petrol-prices/*\nDisallow: /aqi/*\nDisallow: /personal-loan-emi-calculator/*\nDisallow: /car-loan-emi-calculator/*\nDisallow: /bmi-calculator/*\nDisallow: /home-loan-emi-calculator/*\nDisallow: /education-loan-emi-calculator/*\nDisallow: /dajax/premium/*\nDisallow: /abplive-premium/offerings\n\n#Sitemaps\nSitemap: https://www.abplive.com/news-sitemap.xml\nSitemap: https://www.abplive.com/video-sitemap.xml\nSitemap: https://www.abplive.com/gallery-sitemap.xml\nSitemap: https://www.abplive.com/google-news-sitemap.xml\nSitemap: https://www.abplive.com/web-sitemap.xml\nSitemap: https://www.abplive.com/amp-stories-sitemap.xml\nSitemap: https://www.abplive.com/shortvideo-sitemap.xml\n"
+    }
+  ],
+  "eligible_pages": 40,
+  "canonical_origin": [
+    "https",
+    "www.abplive.com",
+    443
+  ],
+  "stop_reason": "page_budget",
+  "elapsed_seconds": 42.1
+}

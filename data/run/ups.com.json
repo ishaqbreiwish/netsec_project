@@ -1,0 +1,88 @@
+{
+  "site": {
+    "rank": "657",
+    "domain": "ups.com",
+    "stratum": "101-1000"
+  },
+  "rows": [
+    {
+      "rank": "657",
+      "domain": "ups.com",
+      "stratum": "101-1000",
+      "requested_url": "https://ups.com/",
+      "depth": 0,
+      "parent_url": "",
+      "attempt": 1,
+      "timestamp": "2026-11-12T21:12:23.592666+00:00",
+      "final_url": "https://www.ups.com/",
+      "status": 200,
+      "content_type": "application/blank",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000 ; includeSubDomains ; preload"
+        ]
+      },
+      "body_bytes": 177,
+      "truncated": false,
+      "body_sha256": "d1ced042dd356a027ee0d2505c4186077a07223ebb4f308f5cda423735f71487",
+      "redirect_chain": [
+        {
+          "url": "https://ups.com/",
+          "status": 301,
+          "location": "https://www.ups.com/",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=63072000; includeSubDomains; preload"
+            ]
+          }
+        }
+      ],
+      "html": false,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    }
+  ],
+  "robots": [
+    {
+      "url": "https://ups.com/robots.txt",
+      "timestamp": "2026-11-12T21:12:22.860630+00:00",
+      "status": 200,
+      "decision": "parsed",
+      "final_url": "https://www.ups.com/robots.txt",
+      "redirect_chain": [
+        {
+          "url": "https://ups.com/robots.txt",
+          "status": 301,
+          "location": "https://www.ups.com/robots.txt"
+        }
+      ],
+      "body_sha256": "d1251813bc82189669060e038b1122ef9cd86055b4cda828afe8d5d0da68eafe",
+      "body": "User-agent: *\nDisallow: /media/en/Marketplace_Integration.pdf\nDisallow: /tracking?loc=*\n\nUser-agent: ia_archiver\nDisallow: /\n\nSitemap: https://www.ups.com/sitemap-index.xml"
+    },
+    {
+      "url": "https://www.ups.com/robots.txt",
+      "timestamp": "2026-11-12T21:12:23.592596+00:00",
+      "status": 200,
+      "decision": "parsed",
+      "final_url": "https://www.ups.com/robots.txt",
+      "redirect_chain": [],
+      "body_sha256": "d1251813bc82189669060e038b1122ef9cd86055b4cda828afe8d5d0da68eafe",
+      "body": "User-agent: *\nDisallow: /media/en/Marketplace_Integration.pdf\nDisallow: /tracking?loc=*\n\nUser-agent: ia_archiver\nDisallow: /\n\nSitemap: https://www.ups.com/sitemap-index.xml"
+    }
+  ],
+  "eligible_pages": 0,
+  "canonical_origin": [
+    "https",
+    "www.ups.com",
+    443
+  ],
+  "stop_reason": "frontier_exhausted",
+  "elapsed_seconds": 1.28
+}

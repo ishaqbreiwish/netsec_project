@@ -1,0 +1,1619 @@
+{
+  "site": {
+    "rank": "98",
+    "domain": "t-online.de",
+    "stratum": "1-100"
+  },
+  "rows": [
+    {
+      "rank": "98",
+      "domain": "t-online.de",
+      "stratum": "1-100",
+      "requested_url": "https://t-online.de/",
+      "depth": 0,
+      "parent_url": "",
+      "attempt": 1,
+      "timestamp": "2026-11-12T21:11:33.388415+00:00",
+      "final_url": "https://www.t-online.de/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://*.t-online.de;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 1506861,
+      "truncated": false,
+      "body_sha256": "cb53238539f170511ccd66b70aade171a5b2a16bb6e89357bd0bd46ccbae7f48",
+      "redirect_chain": [
+        {
+          "url": "https://t-online.de/",
+          "status": 301,
+          "location": "https://www.t-online.de/",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=63072000; includeSubDomains; preload"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "News & E-Mail bei t-online | Politik, Sport, Unterhaltung & RatgeberLoading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Lo",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "98",
+      "domain": "t-online.de",
+      "stratum": "1-100",
+      "requested_url": "https://www.t-online.de/wetter",
+      "depth": 1,
+      "parent_url": "https://www.t-online.de/",
+      "attempt": 2,
+      "timestamp": "2026-11-12T21:11:34.615320+00:00",
+      "final_url": "https://www.t-online.de/wetter",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://*.t-online.de;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 35377,
+      "truncated": false,
+      "body_sha256": "a8fb651b68d1137dd9be7b25b1dc338be73721f08d6464bed64da0b51ba463ad",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "98",
+      "domain": "t-online.de",
+      "stratum": "1-100",
+      "requested_url": "https://www.t-online.de/finanzen/boerse/indizes/dax/de0008469008/",
+      "depth": 1,
+      "parent_url": "https://www.t-online.de/",
+      "attempt": 3,
+      "timestamp": "2026-11-12T21:11:35.331958+00:00",
+      "final_url": "https://www.t-online.de/finanzen/boerse/indizes/dax/de0008469008/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://*.t-online.de;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 264719,
+      "truncated": false,
+      "body_sha256": "f945d564316f89b6add480dc6dd855f3c1cd15d9b957dca62526f8386f062d79",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "DAX | aktuell | heutiger Stand, Kurs & Chart | Einzelwerte",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "98",
+      "domain": "t-online.de",
+      "stratum": "1-100",
+      "requested_url": "https://www.t-online.de/id_100055046/hinweise-zum-datenschutz-mit-werbeeinwilligung-.html/",
+      "depth": 2,
+      "parent_url": "https://www.t-online.de/finanzen/boerse/indizes/dax/de0008469008/",
+      "attempt": 4,
+      "timestamp": "2026-11-12T21:11:36.492964+00:00",
+      "final_url": "https://www.t-online.de/id_100055046/hinweise-zum-datenschutz-mit-werbeeinwilligung-.html",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://*.t-online.de;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 644067,
+      "truncated": false,
+      "body_sha256": "d29c7305eb63dead75f94fb27ffe3aaafd499629f9092473228eec766ad4b982",
+      "redirect_chain": [
+        {
+          "url": "https://www.t-online.de/id_100055046/hinweise-zum-datenschutz-mit-werbeeinwilligung-.html/",
+          "status": 301,
+          "location": "/id_100055046/hinweise-zum-datenschutz-mit-werbeeinwilligung-.html",
+          "headers": {
+            "content-security-policy": [
+              "frame-ancestors 'self' https://*.t-online.de;"
+            ],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000; includeSubDomains; preload"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Hinweise zum Datenschutz (mit Werbeeinwilligung)",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "98",
+      "domain": "t-online.de",
+      "stratum": "1-100",
+      "requested_url": "https://www.t-online.de/themen/deutschland/",
+      "depth": 3,
+      "parent_url": "https://www.t-online.de/id_100055046/hinweise-zum-datenschutz-mit-werbeeinwilligung-.html",
+      "attempt": 5,
+      "timestamp": "2026-11-12T21:11:36.974322+00:00",
+      "final_url": "https://www.t-online.de/themen/deutschland/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://*.t-online.de;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 632101,
+      "truncated": false,
+      "body_sha256": "e75c0d22840e85f44e9c7ce3520687a366a6d83f9e60933a0f3852f3912e5c14",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Deutschland: Aktuelle News & Infos ",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "98",
+      "domain": "t-online.de",
+      "stratum": "1-100",
+      "requested_url": "https://www.t-online.de/leben/alltagswissen/id_101512442/klischees-ueber-deutschland-wie-deutsch-fuer-den-rest-der-welt-klingt.html",
+      "depth": 4,
+      "parent_url": "https://www.t-online.de/themen/deutschland/",
+      "attempt": 6,
+      "timestamp": "2026-11-12T21:11:37.588024+00:00",
+      "final_url": "https://www.t-online.de/leben/alltagswissen/id_101512442/klischees-ueber-deutschland-wie-deutsch-fuer-den-rest-der-welt-klingt.html",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://*.t-online.de;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 518740,
+      "truncated": false,
+      "body_sha256": "324c9100dec807f0c9b8f3da56b390890e4ec1f00ea100a7d754aa55be7f8ebb",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Klischees \u00fcber Deutschland: Wie Deutsch f\u00fcr den Rest der Welt klingtLoading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Lo",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "98",
+      "domain": "t-online.de",
+      "stratum": "1-100",
+      "requested_url": "https://www.t-online.de/author/id_100106146/dorothea-meadows.html",
+      "depth": 5,
+      "parent_url": "https://www.t-online.de/leben/alltagswissen/id_101512442/klischees-ueber-deutschland-wie-deutsch-fuer-den-rest-der-welt-klingt.html",
+      "attempt": 7,
+      "timestamp": "2026-11-12T21:11:38.031087+00:00",
+      "final_url": "https://www.t-online.de/author/id_100106146/dorothea-meadows.html",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://*.t-online.de;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 1716386,
+      "truncated": false,
+      "body_sha256": "cd2e04f1d0e88a2b486d9fad90001a0b69d58c338217c31db558aa10b5f7c66a",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Dorothea Meadows: alle aktuellen ArtikelLoading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "98",
+      "domain": "t-online.de",
+      "stratum": "1-100",
+      "requested_url": "https://www.t-online.de/jugendschutzbeauftragter-stroeer-digital-publishing-gmbh/id_88747768/jugendschutzbeauftragter-stroeer-digital-publishing-gmbh.html/",
+      "depth": 2,
+      "parent_url": "https://www.t-online.de/finanzen/boerse/indizes/dax/de0008469008/",
+      "attempt": 8,
+      "timestamp": "2026-11-12T21:11:38.979283+00:00",
+      "final_url": "https://www.t-online.de/id_88747768/jugendschutzbeauftragter-stroeer-digital-publishing-gmbh.html",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://*.t-online.de;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 337621,
+      "truncated": false,
+      "body_sha256": "e897e7b7d1c2d430152b593d54f97b63d1047138ba068cf87da8a06cae0ca811",
+      "redirect_chain": [
+        {
+          "url": "https://www.t-online.de/jugendschutzbeauftragter-stroeer-digital-publishing-gmbh/id_88747768/jugendschutzbeauftragter-stroeer-digital-publishing-gmbh.html/",
+          "status": 301,
+          "location": "/id_88747768/jugendschutzbeauftragter-stroeer-digital-publishing-gmbh.html",
+          "headers": {
+            "content-security-policy": [
+              "frame-ancestors 'self' https://*.t-online.de;"
+            ],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000; includeSubDomains; preload"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Jugendschutzbeauftragter- Str\u00f6er Digital Publishing GmbH",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "98",
+      "domain": "t-online.de",
+      "stratum": "1-100",
+      "requested_url": "https://www.t-online.de/id_88747768/jugendschutzbeauftragter-stroeer-digital-publishing-gmbh.html",
+      "depth": 3,
+      "parent_url": "https://www.t-online.de/id_88747768/jugendschutzbeauftragter-stroeer-digital-publishing-gmbh.html",
+      "attempt": 9,
+      "timestamp": "2026-11-12T21:11:39.569135+00:00",
+      "final_url": "https://www.t-online.de/id_88747768/jugendschutzbeauftragter-stroeer-digital-publishing-gmbh.html",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://*.t-online.de;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 337621,
+      "truncated": false,
+      "body_sha256": "e897e7b7d1c2d430152b593d54f97b63d1047138ba068cf87da8a06cae0ca811",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Jugendschutzbeauftragter- Str\u00f6er Digital Publishing GmbH",
+      "duplicate_final": true,
+      "eligible": false
+    },
+    {
+      "rank": "98",
+      "domain": "t-online.de",
+      "stratum": "1-100",
+      "requested_url": "https://www.t-online.de/mobilitaet/recht-und-verkehr/id_88959806/auto-vor-eigener-garage-parken-das-kann-teuer-werden-der-grund.html",
+      "depth": 4,
+      "parent_url": "https://www.t-online.de/themen/deutschland/",
+      "attempt": 10,
+      "timestamp": "2026-11-12T21:11:39.792364+00:00",
+      "final_url": "https://www.t-online.de/mobilitaet/recht-und-verkehr/id_88959806/auto-vor-eigener-garage-parken-das-kann-teuer-werden-der-grund.html",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://*.t-online.de;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 477953,
+      "truncated": false,
+      "body_sha256": "0767335c6ad6b03c27332a5068fa89a354c42f7d95dc17db1a4f2028f36cfb33",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Auto vor eigener Garage parken: Das kann teuer werden | der GrundLoading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loadi",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "98",
+      "domain": "t-online.de",
+      "stratum": "1-100",
+      "requested_url": "https://www.t-online.de/ki-ratgeber/id_100000000/index.html",
+      "depth": 5,
+      "parent_url": "https://www.t-online.de/leben/alltagswissen/id_101512442/klischees-ueber-deutschland-wie-deutsch-fuer-den-rest-der-welt-klingt.html",
+      "attempt": 11,
+      "timestamp": "2026-11-12T21:11:40.638888+00:00",
+      "error": "robots_denied",
+      "final_url": "https://www.t-online.de/ki-ratgeber/id_100000000/index.html",
+      "redirect_chain": [],
+      "html": false,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "98",
+      "domain": "t-online.de",
+      "stratum": "1-100",
+      "requested_url": "https://www.t-online.de/region/",
+      "depth": 1,
+      "parent_url": "https://www.t-online.de/",
+      "attempt": 12,
+      "timestamp": "2026-11-12T21:11:40.641042+00:00",
+      "final_url": "https://www.t-online.de/region/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://*.t-online.de;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 928311,
+      "truncated": false,
+      "body_sha256": "46b39ee5561dfd655d7784172baed2719e51c6f47390db140da14baee2bf11cb",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Regional-Nachrichten: News aus Ihrer Region",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "98",
+      "domain": "t-online.de",
+      "stratum": "1-100",
+      "requested_url": "https://www.t-online.de/impressum/id_100008454/stroeer-digital-publishing-das-unternehmen.html",
+      "depth": 2,
+      "parent_url": "https://www.t-online.de/finanzen/boerse/indizes/dax/de0008469008/",
+      "attempt": 13,
+      "timestamp": "2026-11-12T21:11:41.372664+00:00",
+      "final_url": "https://www.t-online.de/id_100008454/stroeer-digital-publishing-das-unternehmen.html",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://*.t-online.de;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 339467,
+      "truncated": false,
+      "body_sha256": "f94492b7edd8e0628ddca966358ae3c71b14efb05f52f5eb10e3409222b5cd85",
+      "redirect_chain": [
+        {
+          "url": "https://www.t-online.de/impressum/id_100008454/stroeer-digital-publishing-das-unternehmen.html",
+          "status": 301,
+          "location": "/id_100008454/stroeer-digital-publishing-das-unternehmen.html",
+          "headers": {
+            "content-security-policy": [
+              "frame-ancestors 'self' https://*.t-online.de;"
+            ],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000; includeSubDomains; preload"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Str\u00f6er Digital Publishing - Das Unternehmen",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "98",
+      "domain": "t-online.de",
+      "stratum": "1-100",
+      "requested_url": "https://www.t-online.de/nachrichten/ausland/id_101524704/europaeer-benennen-vorerst-keinen-ukraine-chefverhandler.html",
+      "depth": 4,
+      "parent_url": "https://www.t-online.de/themen/deutschland/",
+      "attempt": 14,
+      "timestamp": "2026-11-12T21:11:42.147333+00:00",
+      "final_url": "https://www.t-online.de/nachrichten/ausland/id_101524704/europaeer-benennen-vorerst-keinen-ukraine-chefverhandler.html",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://*.t-online.de;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 555893,
+      "truncated": false,
+      "body_sha256": "baab5db04a3934089f5af4c3a37f74660b77b43cd2998c93e38294f2ca83164d",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Europ\u00e4er benennen vorerst keinen Ukraine-ChefverhandlerLoading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loadi",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "98",
+      "domain": "t-online.de",
+      "stratum": "1-100",
+      "requested_url": "https://www.t-online.de/ueber-t-online/id_100436630/t-online-so-ergaenzt-kuenstliche-intelligenz-menschlichen-journalismus.html",
+      "depth": 5,
+      "parent_url": "https://www.t-online.de/leben/alltagswissen/id_101512442/klischees-ueber-deutschland-wie-deutsch-fuer-den-rest-der-welt-klingt.html",
+      "attempt": 15,
+      "timestamp": "2026-11-12T21:11:42.812613+00:00",
+      "final_url": "https://www.t-online.de/ueber-t-online/id_100436630/t-online-so-ergaenzt-kuenstliche-intelligenz-menschlichen-journalismus.html",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://*.t-online.de;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 474839,
+      "truncated": false,
+      "body_sha256": "c823f83f8fc1f0ea084e07965cc046dd6891bbb98dce4471584004d4598b16d9",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "t-online: So erg\u00e4nzt K\u00fcnstliche Intelligenz menschlichen JournalismusLoading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...L",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "98",
+      "domain": "t-online.de",
+      "stratum": "1-100",
+      "requested_url": "https://www.t-online.de/kolumnisten/",
+      "depth": 1,
+      "parent_url": "https://www.t-online.de/",
+      "attempt": 16,
+      "timestamp": "2026-11-12T21:11:43.264263+00:00",
+      "final_url": "https://www.t-online.de/kolumnisten/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://*.t-online.de;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 591620,
+      "truncated": false,
+      "body_sha256": "05c63e2bafec296624def2db8b88d483d916b2d28517eb06d236965ccaa1ceb6",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Kolumnen bei t-online",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "98",
+      "domain": "t-online.de",
+      "stratum": "1-100",
+      "requested_url": "https://www.t-online.de/digital/computer/software/id_100055596/der-t-online-browser-jetzt-kostenlos-herunterladen.html",
+      "depth": 2,
+      "parent_url": "https://www.t-online.de/finanzen/boerse/indizes/dax/de0008469008/",
+      "attempt": 17,
+      "timestamp": "2026-11-12T21:11:44.087535+00:00",
+      "final_url": "https://www.t-online.de/digital/aktuelles/id_100055596/der-t-online-browser-jetzt-kostenlos-herunterladen.html",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://*.t-online.de;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 470421,
+      "truncated": false,
+      "body_sha256": "2f95b1f209318774416b5edff5ac1e4a5acc090b88a547d943110fc5b63bca98",
+      "redirect_chain": [
+        {
+          "url": "https://www.t-online.de/digital/computer/software/id_100055596/der-t-online-browser-jetzt-kostenlos-herunterladen.html",
+          "status": 301,
+          "location": "/digital/aktuelles/id_100055596/der-t-online-browser-jetzt-kostenlos-herunterladen.html",
+          "headers": {
+            "content-security-policy": [
+              "frame-ancestors 'self' https://*.t-online.de;"
+            ],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000; includeSubDomains; preload"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Der t-online Browser: Jetzt kostenlos herunterladen",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "98",
+      "domain": "t-online.de",
+      "stratum": "1-100",
+      "requested_url": "https://www.t-online.de/sport/fussball/frauenfussball/nationalmannschaft-deutschland/id_101526452/freier-eintritt-bei-deutschem-laenderspiel-dfb-frauen-gegen-peru.html",
+      "depth": 4,
+      "parent_url": "https://www.t-online.de/themen/deutschland/",
+      "attempt": 18,
+      "timestamp": "2026-11-12T21:11:44.847420+00:00",
+      "final_url": "https://www.t-online.de/sport/fussball/frauenfussball/nationalmannschaft-deutschland/id_101526452/freier-eintritt-bei-deutschem-laenderspiel-dfb-frauen-gegen-peru.html",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://*.t-online.de;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 475906,
+      "truncated": false,
+      "body_sha256": "90686fd255999d913d8f55e93142616006aedbbdb9319a98507c3e87b532838c",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Freier Eintritt bei deutschem L\u00e4nderspiel \u2013 DFB-Frauen gegen PeruLoading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loadi",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "98",
+      "domain": "t-online.de",
+      "stratum": "1-100",
+      "requested_url": "https://www.t-online.de/unterhaltung/",
+      "depth": 1,
+      "parent_url": "https://www.t-online.de/",
+      "attempt": 19,
+      "timestamp": "2026-11-12T21:11:45.152786+00:00",
+      "final_url": "https://www.t-online.de/unterhaltung/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://*.t-online.de;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 644641,
+      "truncated": false,
+      "body_sha256": "b57e4aba7599b5eec73b18e3fdb71e5ac31ece48bc78adaad71cfd48d6da7177",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Unterhaltung: Promi-News & Star-News",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "98",
+      "domain": "t-online.de",
+      "stratum": "1-100",
+      "requested_url": "https://www.t-online.de/gesundheit/kolumne-yael-adler/id_101516064/winter-blues-diese-tipps-heben-die-stimmung-in-der-dunklen-jahreszeit.html",
+      "depth": 2,
+      "parent_url": "https://www.t-online.de/kolumnisten/",
+      "attempt": 20,
+      "timestamp": "2026-11-12T21:11:45.707508+00:00",
+      "final_url": "https://www.t-online.de/gesundheit/kolumne-yael-adler/id_101516064/winter-blues-diese-tipps-heben-die-stimmung-in-der-dunklen-jahreszeit.html",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://*.t-online.de;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 584001,
+      "truncated": false,
+      "body_sha256": "c46a2ca36df6108ea8c358b78b940518877cd6b4cd74945509c8667ad45b11a8",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Winter-Blues: Diese Tipps heben die Stimmung in der dunklen JahreszeitLoading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "98",
+      "domain": "t-online.de",
+      "stratum": "1-100",
+      "requested_url": "https://www.t-online.de/klima/leben-umwelt/id_101522802/weltklimagipfel-in-tuerkei-deutschlands-riskante-wette.html",
+      "depth": 4,
+      "parent_url": "https://www.t-online.de/themen/deutschland/",
+      "attempt": 21,
+      "timestamp": "2026-11-12T21:11:46.524617+00:00",
+      "final_url": "https://www.t-online.de/klima/leben-umwelt/id_101522802/weltklimagipfel-in-tuerkei-deutschlands-riskante-wette.html",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://*.t-online.de;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 562702,
+      "truncated": false,
+      "body_sha256": "967b91faeea44df6b9204b4e9fb439666a8e625a103a178dfcae59421b4d253e",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Weltklimagipfel in T\u00fcrkei: Deutschlands riskante WetteLoading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loadin",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "98",
+      "domain": "t-online.de",
+      "stratum": "1-100",
+      "requested_url": "https://www.t-online.de/lesermeinungen/",
+      "depth": 1,
+      "parent_url": "https://www.t-online.de/",
+      "attempt": 22,
+      "timestamp": "2026-11-12T21:11:47.003517+00:00",
+      "final_url": "https://www.t-online.de/lesermeinungen/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://*.t-online.de;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 403769,
+      "truncated": false,
+      "body_sha256": "86bee53e8860f31f497454306754fb52dc0fd3f915a9b97c0134fd169899cb31",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "t-online.de bei Instagram: Hintergrundinfos zu unseren Themen",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "98",
+      "domain": "t-online.de",
+      "stratum": "1-100",
+      "requested_url": "https://www.t-online.de/schlagzeilen/unterhaltung/",
+      "depth": 2,
+      "parent_url": "https://www.t-online.de/unterhaltung/",
+      "attempt": 23,
+      "timestamp": "2026-11-12T21:11:47.460933+00:00",
+      "final_url": "https://www.t-online.de/schlagzeilen/unterhaltung/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://*.t-online.de;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 689493,
+      "truncated": false,
+      "body_sha256": "76ae8a7b6538173e8b18a9c9bbf6b7774a28531afdf8e8412436d6d282d81b68",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Alle aktuellen Nachrichten von t-online.de - Unterhaltung",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "98",
+      "domain": "t-online.de",
+      "stratum": "1-100",
+      "requested_url": "https://www.t-online.de/spiele/",
+      "depth": 1,
+      "parent_url": "https://www.t-online.de/",
+      "attempt": 24,
+      "timestamp": "2026-11-12T21:11:48.070869+00:00",
+      "final_url": "https://www.t-online.de/spiele/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://*.t-online.de;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 1036351,
+      "truncated": false,
+      "body_sha256": "fc0bc6e18b3816b19e6695aa52302297f8b0cfec6afad16e29bfd39c99064e58",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Spiele: Kostenlose Online Spiele, Spiele News, Cheats, Downloads uvm.",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "98",
+      "domain": "t-online.de",
+      "stratum": "1-100",
+      "requested_url": "https://www.t-online.de/heim-garten/",
+      "depth": 1,
+      "parent_url": "https://www.t-online.de/",
+      "attempt": 25,
+      "timestamp": "2026-11-12T21:11:48.616245+00:00",
+      "final_url": "https://www.t-online.de/heim-garten/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://*.t-online.de;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 745874,
+      "truncated": false,
+      "body_sha256": "6b4414b1b9e345b236f80c46c2e41a6104fee6b01c20385eba546b751582ab51",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Kreative Ideen f\u00fcr Haus, Garten und WohnenLoading...Loading...Loading...",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "98",
+      "domain": "t-online.de",
+      "stratum": "1-100",
+      "requested_url": "https://www.t-online.de/video/ratgeber/heim-garten/id_101494550/haushaltstipps-mit-diesen-vergessenen-tricks-sparen-sie-geld-im-alltag.html",
+      "depth": 2,
+      "parent_url": "https://www.t-online.de/heim-garten/",
+      "attempt": 26,
+      "timestamp": "2026-11-12T21:11:50.158915+00:00",
+      "final_url": "https://www.t-online.de/video/ratgeber/heim-garten/id_101494550/haushaltstipps-mit-diesen-vergessenen-tricks-sparen-sie-geld-im-alltag.html",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://*.t-online.de;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 441723,
+      "truncated": false,
+      "body_sha256": "5851b78f804ce89ea4694e40a64c48b869b042a9c9a7e9d7474502af4ac5b259",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Haushaltstipps: Mit diesen vergessenen Tricks sparen Sie Geld im Alltag",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "98",
+      "domain": "t-online.de",
+      "stratum": "1-100",
+      "requested_url": "https://www.t-online.de/ratgeber/haus-und-garten/gartenausstattung/",
+      "depth": 2,
+      "parent_url": "https://www.t-online.de/heim-garten/",
+      "attempt": 27,
+      "timestamp": "2026-11-12T21:11:50.598720+00:00",
+      "final_url": "https://www.t-online.de/ratgeber/haus-und-garten/gartenausstattung/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://*.t-online.de;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 643646,
+      "truncated": false,
+      "body_sha256": "d3df01c0a5ccb58767364f508c387e083dae6ac2c785cbca8cdd84d3251242df",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Gartenausstattung | Produkte im Test & Vergleich",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "98",
+      "domain": "t-online.de",
+      "stratum": "1-100",
+      "requested_url": "https://www.t-online.de/podcasts/",
+      "depth": 1,
+      "parent_url": "https://www.t-online.de/",
+      "attempt": 28,
+      "timestamp": "2026-11-12T21:11:51.256361+00:00",
+      "final_url": "https://www.t-online.de/podcasts/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://*.t-online.de;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 405398,
+      "truncated": false,
+      "body_sha256": "e58dbef6d575d7c7555706499a4a4f5364ba33ba17e85d18e04a9df7c6f62f60",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Kostenlos h\u00f6ren: Alle Podcasts von t-online",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "98",
+      "domain": "t-online.de",
+      "stratum": "1-100",
+      "requested_url": "https://www.t-online.de/magazin/anstaendig-miteinander/",
+      "depth": 1,
+      "parent_url": "https://www.t-online.de/",
+      "attempt": 29,
+      "timestamp": "2026-11-12T21:11:51.767668+00:00",
+      "final_url": "https://www.t-online.de/magazin/anstaendig-miteinander/",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://*.t-online.de;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 175405,
+      "truncated": false,
+      "body_sha256": "f1d24f9238fe987baeabb0f69f78616d19cc8f230a1d75254ad1fffa9ee67925",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "t-online Magazin: Anst\u00e4ndig. Miteinander",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "98",
+      "domain": "t-online.de",
+      "stratum": "1-100",
+      "requested_url": "https://www.t-online.de/newsletter/",
+      "depth": 1,
+      "parent_url": "https://www.t-online.de/",
+      "attempt": 30,
+      "timestamp": "2026-11-12T21:11:52.199631+00:00",
+      "final_url": "https://www.t-online.de/newsletter/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://*.t-online.de;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 334424,
+      "truncated": false,
+      "body_sha256": "151adb3fa96acf5dba919114b83d47f671f6a9996bf4b99c09f02aabcca5f4c0",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Newsletter abonnieren: Alle aktuellen News",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "98",
+      "domain": "t-online.de",
+      "stratum": "1-100",
+      "requested_url": "https://www.t-online.de/nur-bei-t-online/",
+      "depth": 1,
+      "parent_url": "https://www.t-online.de/",
+      "attempt": 31,
+      "timestamp": "2026-11-12T21:11:52.786293+00:00",
+      "final_url": "https://www.t-online.de/nur-bei-t-online/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://*.t-online.de;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 459792,
+      "truncated": false,
+      "body_sha256": "44d128a849d1fc54cc3018ffb5d66d25a1c6b2b1da741bd80144ab363ad029b3",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "News & E-Mail bei t-online.de | Politik, Sport, Unterhaltung & Ratgeber",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "98",
+      "domain": "t-online.de",
+      "stratum": "1-100",
+      "requested_url": "https://www.t-online.de/tagesanbruch/",
+      "depth": 1,
+      "parent_url": "https://www.t-online.de/",
+      "attempt": 32,
+      "timestamp": "2026-11-12T21:11:53.520690+00:00",
+      "final_url": "https://www.t-online.de/nachrichten/tagesanbruch/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://*.t-online.de;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 417144,
+      "truncated": false,
+      "body_sha256": "278a740772051ff495513c0d753a4cd9afefd7d6b91cd28113ccb8ce947124a2",
+      "redirect_chain": [
+        {
+          "url": "https://www.t-online.de/tagesanbruch/",
+          "status": 301,
+          "location": "/nachrichten/tagesanbruch/",
+          "headers": {
+            "content-security-policy": [
+              "frame-ancestors 'self' https://*.t-online.de;"
+            ],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000; includeSubDomains; preload"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Tagesanbruch - der Newsletter der Chefredaktion im \u00dcberblickLoading...",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "98",
+      "domain": "t-online.de",
+      "stratum": "1-100",
+      "requested_url": "https://www.t-online.de/datenschutz",
+      "depth": 2,
+      "parent_url": "https://www.t-online.de/nachrichten/tagesanbruch/",
+      "attempt": 33,
+      "timestamp": "2026-11-12T21:11:54.504119+00:00",
+      "final_url": "https://www.t-online.de/id_100055046/hinweise-zum-datenschutz-mit-werbeeinwilligung-.html",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://*.t-online.de;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 644067,
+      "truncated": false,
+      "body_sha256": "d29c7305eb63dead75f94fb27ffe3aaafd499629f9092473228eec766ad4b982",
+      "redirect_chain": [
+        {
+          "url": "https://www.t-online.de/datenschutz",
+          "status": 301,
+          "location": "/id_100055046/hinweise-zum-datenschutz-mit-werbeeinwilligung-.html",
+          "headers": {
+            "content-security-policy": [
+              "frame-ancestors 'self' https://*.t-online.de;"
+            ],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000; includeSubDomains; preload"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Hinweise zum Datenschutz (mit Werbeeinwilligung)",
+      "duplicate_final": true,
+      "eligible": false
+    },
+    {
+      "rank": "98",
+      "domain": "t-online.de",
+      "stratum": "1-100",
+      "requested_url": "https://www.t-online.de/tv/unterhaltung/id_101522394/eu-parlament-prinz-harry-und-meghan-markle-in-bruessel.html",
+      "depth": 1,
+      "parent_url": "https://www.t-online.de/",
+      "attempt": 34,
+      "timestamp": "2026-11-12T21:11:55.390686+00:00",
+      "final_url": "https://www.t-online.de/tv/unterhaltung/id_101522394/eu-parlament-prinz-harry-und-meghan-markle-in-bruessel.html",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://*.t-online.de;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 444767,
+      "truncated": false,
+      "body_sha256": "915b1efd9710c1f165141c5e230f78fa513c5707218bdd580f46a71a5e71cb2f",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "EU-Parlament: Prinz Harry und Meghan Markle in Br\u00fcssel",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "98",
+      "domain": "t-online.de",
+      "stratum": "1-100",
+      "requested_url": "https://www.t-online.de/id_100008454/stroeer-digital-publishing-das-unternehmen.html",
+      "depth": 1,
+      "parent_url": "https://www.t-online.de/",
+      "attempt": 35,
+      "timestamp": "2026-11-12T21:11:55.871070+00:00",
+      "final_url": "https://www.t-online.de/id_100008454/stroeer-digital-publishing-das-unternehmen.html",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://*.t-online.de;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 339467,
+      "truncated": false,
+      "body_sha256": "f94492b7edd8e0628ddca966358ae3c71b14efb05f52f5eb10e3409222b5cd85",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Str\u00f6er Digital Publishing - Das Unternehmen",
+      "duplicate_final": true,
+      "eligible": false
+    },
+    {
+      "rank": "98",
+      "domain": "t-online.de",
+      "stratum": "1-100",
+      "requested_url": "https://www.t-online.de/id_12511434/impressum-von-t-online.html",
+      "depth": 1,
+      "parent_url": "https://www.t-online.de/",
+      "attempt": 36,
+      "timestamp": "2026-11-12T21:11:56.081093+00:00",
+      "final_url": "https://www.t-online.de/id_12511434/impressum-von-t-online.html",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://*.t-online.de;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 482165,
+      "truncated": false,
+      "body_sha256": "93eaeb63c3d7873828d78a3e724089b17d334c762b9566fcc2b3f04fac63a822",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Impressum von t-online",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "98",
+      "domain": "t-online.de",
+      "stratum": "1-100",
+      "requested_url": "https://www.t-online.de/id_100055206/hinweise-zum-datenschutz-auf-t-online-de-pur-abo-.html",
+      "depth": 1,
+      "parent_url": "https://www.t-online.de/",
+      "attempt": 37,
+      "timestamp": "2026-11-12T21:11:56.974121+00:00",
+      "final_url": "https://www.t-online.de/id_100055206/hinweise-zum-datenschutz-auf-t-online-de-pur-abo-.html",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://*.t-online.de;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 563029,
+      "truncated": false,
+      "body_sha256": "fb5216e4d96d2dc7dcfc97545d97e06fc26624669a485c5829e65562a28855ec",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Hinweise zum Datenschutz auf t-online.de (PUR-Abo)",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "98",
+      "domain": "t-online.de",
+      "stratum": "1-100",
+      "requested_url": "https://www.t-online.de/utiq-verwalten",
+      "depth": 1,
+      "parent_url": "https://www.t-online.de/",
+      "attempt": 38,
+      "timestamp": "2026-11-12T21:11:58.166089+00:00",
+      "final_url": "https://www.t-online.de/id_100434500/hinweise-zur-nutzung-von-utiq.html",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://*.t-online.de;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 392045,
+      "truncated": false,
+      "body_sha256": "525ad5fc305cfe183175291b538bd4c6861915d6fddc7e74f6546ae14a68e474",
+      "redirect_chain": [
+        {
+          "url": "https://www.t-online.de/utiq-verwalten",
+          "status": 301,
+          "location": "/id_100434500/hinweise-zum-datenschutz-mit-werbeeinwilligung-.html",
+          "headers": {
+            "content-security-policy": [
+              "frame-ancestors 'self' https://*.t-online.de;"
+            ],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000; includeSubDomains; preload"
+            ]
+          }
+        },
+        {
+          "url": "https://www.t-online.de/id_100434500/hinweise-zum-datenschutz-mit-werbeeinwilligung-.html",
+          "status": 301,
+          "location": "/id_100434500/hinweise-zur-nutzung-von-utiq.html",
+          "headers": {
+            "content-security-policy": [
+              "frame-ancestors 'self' https://*.t-online.de;"
+            ],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000; includeSubDomains; preload"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Hinweise zur Nutzung von Utiq",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "98",
+      "domain": "t-online.de",
+      "stratum": "1-100",
+      "requested_url": "https://www.t-online.de/id_100434500/hinweise-zur-nutzung-von-utiq.html",
+      "depth": 2,
+      "parent_url": "https://www.t-online.de/id_100434500/hinweise-zur-nutzung-von-utiq.html",
+      "attempt": 39,
+      "timestamp": "2026-11-12T21:11:58.819152+00:00",
+      "final_url": "https://www.t-online.de/id_100434500/hinweise-zur-nutzung-von-utiq.html",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://*.t-online.de;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 392045,
+      "truncated": false,
+      "body_sha256": "525ad5fc305cfe183175291b538bd4c6861915d6fddc7e74f6546ae14a68e474",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Hinweise zur Nutzung von Utiq",
+      "duplicate_final": true,
+      "eligible": false
+    },
+    {
+      "rank": "98",
+      "domain": "t-online.de",
+      "stratum": "1-100",
+      "requested_url": "https://www.t-online.de/id_15610510/nachrichten-aus-aller-welt-dank-rss-feeds-von-t-online-de-immer-auf-dem-laufenden.html",
+      "depth": 1,
+      "parent_url": "https://www.t-online.de/",
+      "attempt": 40,
+      "timestamp": "2026-11-12T21:11:59.685951+00:00",
+      "final_url": "https://www.t-online.de/id_15610510/nachrichten-aus-aller-welt-rss-feeds-von-t-online-de.html",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://*.t-online.de;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 474028,
+      "truncated": false,
+      "body_sha256": "9629b58a5b9bef7e31b6bf8e2ac32266578fc42ab1cfe93f0de44494a48044bf",
+      "redirect_chain": [
+        {
+          "url": "https://www.t-online.de/id_15610510/nachrichten-aus-aller-welt-dank-rss-feeds-von-t-online-de-immer-auf-dem-laufenden.html",
+          "status": 301,
+          "location": "/id_15610510/nachrichten-aus-aller-welt-rss-feeds-von-t-online-de.html",
+          "headers": {
+            "content-security-policy": [
+              "frame-ancestors 'self' https://*.t-online.de;"
+            ],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000; includeSubDomains; preload"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Nachrichten aus aller Welt: RSS-Feeds von t-online.deLoading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "98",
+      "domain": "t-online.de",
+      "stratum": "1-100",
+      "requested_url": "https://www.t-online.de/themen/new-york/",
+      "depth": 3,
+      "parent_url": "https://www.t-online.de/id_100055046/hinweise-zum-datenschutz-mit-werbeeinwilligung-.html",
+      "attempt": 41,
+      "timestamp": "2026-11-12T21:12:00.624687+00:00",
+      "final_url": "https://www.t-online.de/themen/new-york/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://*.t-online.de;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 614321,
+      "truncated": false,
+      "body_sha256": "38bb338ff9686cd63f94c682799d4195a648e745f1a86924da1bef0971b02219",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "New York: Aktuelle News und Infos zu New York",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "98",
+      "domain": "t-online.de",
+      "stratum": "1-100",
+      "requested_url": "https://www.t-online.de/digital/aktuelles/id_89934030/end-user-license-agreement.html",
+      "depth": 3,
+      "parent_url": "https://www.t-online.de/digital/aktuelles/id_100055596/der-t-online-browser-jetzt-kostenlos-herunterladen.html",
+      "attempt": 42,
+      "timestamp": "2026-11-12T21:12:01.107348+00:00",
+      "final_url": "https://www.t-online.de/digital/aktuelles/id_89934030/end-user-license-agreement.html",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://*.t-online.de;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 448117,
+      "truncated": false,
+      "body_sha256": "c32896d9380ceb3176485992508f31234a962516da847dc3bc1890ade253d904",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Browser | End User License AgreementLoading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "98",
+      "domain": "t-online.de",
+      "stratum": "1-100",
+      "requested_url": "https://www.t-online.de/leben/aktuelles/id_100496016/dialekte-was-ein-sprachforscher-zur-ueberlebenschance-sagt.html",
+      "depth": 5,
+      "parent_url": "https://www.t-online.de/leben/alltagswissen/id_101512442/klischees-ueber-deutschland-wie-deutsch-fuer-den-rest-der-welt-klingt.html",
+      "attempt": 43,
+      "timestamp": "2026-11-12T21:12:01.690689+00:00",
+      "final_url": "https://www.t-online.de/leben/aktuelles/id_100496016/dialekte-was-ein-sprachforscher-zur-ueberlebenschance-sagt.html",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://*.t-online.de;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 563290,
+      "truncated": false,
+      "body_sha256": "ef970600bf0d46d24c9a5b3a90f23c6102b0fbc60564cc78073d5c49c1d92281",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Dialekte: Was ein Sprachforscher zur \u00dcberlebenschance sagtLoading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Lo",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "98",
+      "domain": "t-online.de",
+      "stratum": "1-100",
+      "requested_url": "https://www.t-online.de/author/id_100317484/yael-adler.html",
+      "depth": 3,
+      "parent_url": "https://www.t-online.de/gesundheit/kolumne-yael-adler/id_101516064/winter-blues-diese-tipps-heben-die-stimmung-in-der-dunklen-jahreszeit.html",
+      "attempt": 44,
+      "timestamp": "2026-11-12T21:12:02.263752+00:00",
+      "final_url": "https://www.t-online.de/author/id_100317484/yael-adler.html",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://*.t-online.de;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 1379692,
+      "truncated": false,
+      "body_sha256": "5312bc84bf842812cd5e0d642838398b2a293c64377f5dae2baa25f56f0afd7c",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Yael Adler: alle aktuellen ArtikelLoading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "98",
+      "domain": "t-online.de",
+      "stratum": "1-100",
+      "requested_url": "https://www.t-online.de/mobilitaet/recht-und-verkehr/id_90875936/auto-was-darf-in-die-garage-und-was-nicht-hohe-strafen-drohen-.html",
+      "depth": 5,
+      "parent_url": "https://www.t-online.de/mobilitaet/recht-und-verkehr/id_88959806/auto-vor-eigener-garage-parken-das-kann-teuer-werden-der-grund.html",
+      "attempt": 45,
+      "timestamp": "2026-11-12T21:12:03.259621+00:00",
+      "final_url": "https://www.t-online.de/mobilitaet/recht-und-verkehr/id_90875936/auto-was-darf-in-die-garage-und-was-nicht-hohe-strafen-drohen-.html",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://*.t-online.de;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 479783,
+      "truncated": false,
+      "body_sha256": "8ffbe612882b8dbbaeab09f87eca803b4574be5e53445c4c8a83f56e63cc321e",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Auto: Was darf in die Garage und was nicht? Hohe Strafen drohen  Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loading...Loadi",
+      "duplicate_final": false,
+      "eligible": true
+    }
+  ],
+  "robots": [
+    {
+      "url": "https://t-online.de/robots.txt",
+      "timestamp": "2026-11-12T21:11:32.701260+00:00",
+      "status": 200,
+      "decision": "parsed",
+      "final_url": "https://www.t-online.de/robots.txt",
+      "redirect_chain": [
+        {
+          "url": "https://t-online.de/robots.txt",
+          "status": 301,
+          "location": "https://www.t-online.de/robots.txt"
+        }
+      ],
+      "body_sha256": "aefcf62006193c765ed22c8c6e46711397b52d962c0875c6c43e1cdae0b4153c",
+      "body": "User-agent: *\nDisallow: /native/\nDisallow: /auth/\nDisallow: /?artid\nDisallow: /preisvergleich/\nDisallow: /spiele/weihnachtsspiele/\nDisallow: /studiopreview_\nDisallow: /vid_1/\nDisallow: /,ei=\nDisallow: /,linkId=\nDisallow: /,pt=pictureEnlarge\nDisallow: /,pt=print\nDisallow: /,pt=self\nDisallow: /,tid=print\nDisallow: /,vv=P5\nDisallow: /,vv=enlarge\nDisallow: */tid_external_content_proxy/\nDisallow: /-/id_62530634/tid_tsr_iframe_loginbox/index\nDisallow: /-/id_62530634/tid_tsr_iframe_loginbox_buzz/index\nDisallow: /gtm.js\nDisallow: /metatag/\nDisallow: /ki-ratgeber/\nDisallow: /api/greenplayer/\nDisallow: /api/search/zero-input\n\nUser-agent: GPTBot\nDisallow: /\nAllow: /finanzen/versichern-und-vorsorgen/\n\nUser-agent: PerplexityBot\nDisallow: /\nAllow: /finanzen/versichern-und-vorsorgen/\n\nUser-agent: ClaudeBot\nDisallow: /\nAllow: /finanzen/versichern-und-vorsorgen/\n\nUser-agent: Applebot-Extended\nUser-agent: Bytespider\nUser-agent: CCBot\nUser-agent: Meta-ExternalAgent\nUser-agent: meta-externalagent\nDisallow: /\nAllow: /finanzen/versichern-und-vorsorgen/\n\nUser-agent: Google-Extended\nDisallow: /native/\nDisallow: /auth/\nDisallow: /?artid\nDisallow: /preisvergleich/\nDisallow: /spiele/weihnachtsspiele/\nDisallow: /studiopreview_\nDisallow: /vid_1/\nDisallow: /,ei=\nDisallow: /,linkId=\nDisallow: /,pt=pictureEnlarge\nDisallow: /,pt=print\nDisallow: /,pt=self\nDisallow: /,tid=print\nDisallow: /,vv=P5\nDisallow: /,vv=enlarge\nDisallow: */tid_external_content_proxy/\nDisallow: /-/id_62530634/tid_tsr_iframe_loginbox/index\nDisallow: /-/id_62530634/tid_tsr_iframe_loginbox_buzz/index\nDisallow: /gtm.js\nDisallow: /metatag/\nDisallow: /ki-ratgeber/\nDisallow: /api/greenplayer/\nDisallow: /api/search/zero-input\nAllow: /\n\n# Legal notice: t-online.de expressly reserves the right to use its content for commercial text and data mining (\u00a7 44 b UrhG).\n# The use of robots or other automated means to access t-online.de or collect or mine data without\n# the express permission of t-online.de is strictly prohibited.\n# t-online.de may, in its discretion, permit certain automated access to certain t-online.de pages,\n# If you would like to apply for permission to crawl t-online.de, collect or use data, please email t-online@stroeer.de\n"
+    },
+    {
+      "url": "https://www.t-online.de/robots.txt",
+      "timestamp": "2026-11-12T21:11:33.388383+00:00",
+      "status": 200,
+      "decision": "parsed",
+      "final_url": "https://www.t-online.de/robots.txt",
+      "redirect_chain": [],
+      "body_sha256": "aefcf62006193c765ed22c8c6e46711397b52d962c0875c6c43e1cdae0b4153c",
+      "body": "User-agent: *\nDisallow: /native/\nDisallow: /auth/\nDisallow: /?artid\nDisallow: /preisvergleich/\nDisallow: /spiele/weihnachtsspiele/\nDisallow: /studiopreview_\nDisallow: /vid_1/\nDisallow: /,ei=\nDisallow: /,linkId=\nDisallow: /,pt=pictureEnlarge\nDisallow: /,pt=print\nDisallow: /,pt=self\nDisallow: /,tid=print\nDisallow: /,vv=P5\nDisallow: /,vv=enlarge\nDisallow: */tid_external_content_proxy/\nDisallow: /-/id_62530634/tid_tsr_iframe_loginbox/index\nDisallow: /-/id_62530634/tid_tsr_iframe_loginbox_buzz/index\nDisallow: /gtm.js\nDisallow: /metatag/\nDisallow: /ki-ratgeber/\nDisallow: /api/greenplayer/\nDisallow: /api/search/zero-input\n\nUser-agent: GPTBot\nDisallow: /\nAllow: /finanzen/versichern-und-vorsorgen/\n\nUser-agent: PerplexityBot\nDisallow: /\nAllow: /finanzen/versichern-und-vorsorgen/\n\nUser-agent: ClaudeBot\nDisallow: /\nAllow: /finanzen/versichern-und-vorsorgen/\n\nUser-agent: Applebot-Extended\nUser-agent: Bytespider\nUser-agent: CCBot\nUser-agent: Meta-ExternalAgent\nUser-agent: meta-externalagent\nDisallow: /\nAllow: /finanzen/versichern-und-vorsorgen/\n\nUser-agent: Google-Extended\nDisallow: /native/\nDisallow: /auth/\nDisallow: /?artid\nDisallow: /preisvergleich/\nDisallow: /spiele/weihnachtsspiele/\nDisallow: /studiopreview_\nDisallow: /vid_1/\nDisallow: /,ei=\nDisallow: /,linkId=\nDisallow: /,pt=pictureEnlarge\nDisallow: /,pt=print\nDisallow: /,pt=self\nDisallow: /,tid=print\nDisallow: /,vv=P5\nDisallow: /,vv=enlarge\nDisallow: */tid_external_content_proxy/\nDisallow: /-/id_62530634/tid_tsr_iframe_loginbox/index\nDisallow: /-/id_62530634/tid_tsr_iframe_loginbox_buzz/index\nDisallow: /gtm.js\nDisallow: /metatag/\nDisallow: /ki-ratgeber/\nDisallow: /api/greenplayer/\nDisallow: /api/search/zero-input\nAllow: /\n\n# Legal notice: t-online.de expressly reserves the right to use its content for commercial text and data mining (\u00a7 44 b UrhG).\n# The use of robots or other automated means to access t-online.de or collect or mine data without\n# the express permission of t-online.de is strictly prohibited.\n# t-online.de may, in its discretion, permit certain automated access to certain t-online.de pages,\n# If you would like to apply for permission to crawl t-online.de, collect or use data, please email t-online@stroeer.de\n"
+    }
+  ],
+  "eligible_pages": 40,
+  "canonical_origin": [
+    "https",
+    "www.t-online.de",
+    443
+  ],
+  "stop_reason": "page_budget",
+  "elapsed_seconds": 32.05
+}

@@ -1,0 +1,44 @@
+{
+  "site": {
+    "rank": "991",
+    "domain": "btloader.com",
+    "stratum": "101-1000"
+  },
+  "rows": [
+    {
+      "rank": "991",
+      "domain": "btloader.com",
+      "stratum": "101-1000",
+      "requested_url": "https://btloader.com/",
+      "depth": 0,
+      "parent_url": "",
+      "attempt": 1,
+      "timestamp": "2026-11-12T21:13:22.043087+00:00",
+      "error": "robots_denied",
+      "final_url": "https://btloader.com/",
+      "redirect_chain": [],
+      "html": false,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    }
+  ],
+  "robots": [
+    {
+      "url": "https://btloader.com/robots.txt",
+      "timestamp": "2026-11-12T21:13:22.375530+00:00",
+      "status": 200,
+      "decision": "parsed",
+      "final_url": "https://btloader.com/robots.txt",
+      "redirect_chain": [],
+      "body_sha256": "331ea9090db0c9f6f597bd9840fd5b171830f6e0b3ba1cb24dfa91f0c95aedc1",
+      "body": "User-agent: *\nDisallow: /\n"
+    }
+  ],
+  "eligible_pages": 0,
+  "canonical_origin": null,
+  "stop_reason": "frontier_exhausted",
+  "elapsed_seconds": 0.33
+}

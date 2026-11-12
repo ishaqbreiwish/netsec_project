@@ -1,0 +1,1512 @@
+{
+  "site": {
+    "rank": "581",
+    "domain": "dailymail.com",
+    "stratum": "101-1000"
+  },
+  "rows": [
+    {
+      "rank": "581",
+      "domain": "dailymail.com",
+      "stratum": "101-1000",
+      "requested_url": "https://dailymail.com/",
+      "depth": 0,
+      "parent_url": "",
+      "attempt": 1,
+      "timestamp": "2026-11-12T21:12:16.402859+00:00",
+      "final_url": "https://www.dailymail.com/ushome/index.html",
+      "status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "block-all-mixed-content; report-uri https://dmgm.report-uri.com/r/t/csp/reportOnly"
+        ],
+        "strict-transport-security": []
+      },
+      "body_bytes": 1124753,
+      "truncated": false,
+      "body_sha256": "020c0430f7084cb1d483e9c454dc1e864b7d408fb65697d04bd308f98e19a5c8",
+      "redirect_chain": [
+        {
+          "url": "https://dailymail.com/",
+          "status": 301,
+          "location": "https://www.dailymail.com/",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": []
+          }
+        },
+        {
+          "url": "https://www.dailymail.com/",
+          "status": 301,
+          "location": "https://www.dailymail.com/ushome/index.html",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [
+              "block-all-mixed-content; report-uri https://dmgm.report-uri.com/r/t/csp/reportOnly"
+            ],
+            "strict-transport-security": []
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [
+        "block-all-mixed-content"
+      ],
+      "title": "US Home | Daily Mail Online",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "581",
+      "domain": "dailymail.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.dailymail.com/ushome/index.html",
+      "depth": 1,
+      "parent_url": "https://www.dailymail.com/ushome/index.html",
+      "attempt": 2,
+      "timestamp": "2026-11-12T21:12:17.932664+00:00",
+      "final_url": "https://www.dailymail.com/ushome/index.html",
+      "status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "block-all-mixed-content; report-uri https://dmgm.report-uri.com/r/t/csp/reportOnly"
+        ],
+        "strict-transport-security": []
+      },
+      "body_bytes": 1124753,
+      "truncated": false,
+      "body_sha256": "6529331d2217ec219078948db5cb37abd32d47de80f6b1a36f5ac007f61758c9",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [
+        "block-all-mixed-content"
+      ],
+      "title": "US Home | Daily Mail Online",
+      "duplicate_final": true,
+      "eligible": false
+    },
+    {
+      "rank": "581",
+      "domain": "dailymail.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.dailymail.com/usshowbiz/index.html",
+      "depth": 1,
+      "parent_url": "https://www.dailymail.com/ushome/index.html",
+      "attempt": 3,
+      "timestamp": "2026-11-12T21:12:18.873644+00:00",
+      "final_url": "https://www.dailymail.com/usshowbiz/index.html",
+      "status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "block-all-mixed-content; report-uri https://dmgm.report-uri.com/r/t/csp/reportOnly"
+        ],
+        "strict-transport-security": []
+      },
+      "body_bytes": 751819,
+      "truncated": false,
+      "body_sha256": "913db258b1fd65193ef7b38c4ed53b3933423bc79a99aa57784103ba9e4a91b9",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [
+        "block-all-mixed-content"
+      ],
+      "title": "US Entertainment News | Celebrity News & Gossip | Daily Mail Online",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "581",
+      "domain": "dailymail.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.dailymail.com/tvshowbiz/article-16285721/General-Hospital-star-Randall-England-dead-75-cancer.html",
+      "depth": 2,
+      "parent_url": "https://www.dailymail.com/usshowbiz/index.html",
+      "attempt": 4,
+      "timestamp": "2026-11-12T21:12:19.719689+00:00",
+      "final_url": "https://www.dailymail.com/tvshowbiz/article-16285721/General-Hospital-star-Randall-England-dead-75-cancer.html",
+      "status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "block-all-mixed-content; report-uri https://dmgm.report-uri.com/r/t/csp/reportOnly"
+        ],
+        "strict-transport-security": []
+      },
+      "body_bytes": 839557,
+      "truncated": false,
+      "body_sha256": "48b22e0e46d85171b6927cb252f157c6a20413ffc4d614621f6df4405e7f962c",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [
+        "block-all-mixed-content"
+      ],
+      "title": "Randall England dead at 75:\u00a0General Hospital star passes away after battle with esophageal cancer | Daily Mail Online",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "581",
+      "domain": "dailymail.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.dailymail.com/profile-470/sonia-horon.html",
+      "depth": 3,
+      "parent_url": "https://www.dailymail.com/tvshowbiz/article-16285721/General-Hospital-star-Randall-England-dead-75-cancer.html",
+      "attempt": 5,
+      "timestamp": "2026-11-12T21:12:20.760244+00:00",
+      "final_url": "https://www.dailymail.com/profile-470/sonia-horon.html",
+      "status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "block-all-mixed-content; report-uri https://dmgm.report-uri.com/r/t/csp/reportOnly"
+        ],
+        "strict-transport-security": []
+      },
+      "body_bytes": 706292,
+      "truncated": false,
+      "body_sha256": "d6ed329d4270920c82ebbc9c4bac2fb24f8fd6b8b49b48aef9ac7917376859d1",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Sonia Horon: All their latest coverage | Daily Mail Online",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "581",
+      "domain": "dailymail.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.dailymail.com/news/cancer/index.html",
+      "depth": 3,
+      "parent_url": "https://www.dailymail.com/tvshowbiz/article-16285721/General-Hospital-star-Randall-England-dead-75-cancer.html",
+      "attempt": 6,
+      "timestamp": "2026-11-12T21:12:21.714989+00:00",
+      "final_url": "https://www.dailymail.com/news/cancer/index.html",
+      "status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "block-all-mixed-content; report-uri https://dmgm.report-uri.com/r/t/csp/reportOnly"
+        ],
+        "strict-transport-security": []
+      },
+      "body_bytes": 1108169,
+      "truncated": false,
+      "body_sha256": "da226eccbe610743c337a8a999fcedecb893568eb36c60f05ca5c49e7407ab08",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [
+        "block-all-mixed-content"
+      ],
+      "title": "Cancer News, Symptoms and Treatment Updates | Daily Mail Online",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "581",
+      "domain": "dailymail.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.dailymail.com/health/article-16170075/Odour-discharge-painless-sores-taboo-cancer-One-man-shares-story-penis-cost-life-changed-sex-life-marriage-forever.html",
+      "depth": 4,
+      "parent_url": "https://www.dailymail.com/news/cancer/index.html",
+      "attempt": 7,
+      "timestamp": "2026-11-12T21:12:23.200909+00:00",
+      "final_url": "https://www.dailymail.com/health/article-16170075/Odour-discharge-painless-sores-taboo-cancer-One-man-shares-story-penis-cost-life-changed-sex-life-marriage-forever.html",
+      "status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "block-all-mixed-content; report-uri https://dmgm.report-uri.com/r/t/csp/reportOnly"
+        ],
+        "strict-transport-security": []
+      },
+      "body_bytes": 929289,
+      "truncated": false,
+      "body_sha256": "18984ccf71a57d594d4d09d0275f754e29624f10cbe3a46771a315eed96fc496",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [
+        "block-all-mixed-content"
+      ],
+      "title": "The penis cancer signs you should not ignore - as one Irish man\u00a0shares the story of how this taboo disease almost cost him his life... and changed his sex life forever | Daily Mail Online",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "581",
+      "domain": "dailymail.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.dailymail.com/lifestyle/fitness-wellbeing/article-15940001/Scientists-work-health-lifestyle-factors-increase-risk-bowel-cancer-young-Australians-mysterious-global-rise-cases.html",
+      "depth": 4,
+      "parent_url": "https://www.dailymail.com/news/cancer/index.html",
+      "attempt": 8,
+      "timestamp": "2026-11-12T21:12:24.803629+00:00",
+      "final_url": "https://www.dailymail.com/lifestyle/fitness-wellbeing/article-15940001/Scientists-work-health-lifestyle-factors-increase-risk-bowel-cancer-young-Australians-mysterious-global-rise-cases.html",
+      "status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "block-all-mixed-content; report-uri https://dmgm.report-uri.com/r/t/csp/reportOnly"
+        ],
+        "strict-transport-security": []
+      },
+      "body_bytes": 821744,
+      "truncated": false,
+      "body_sha256": "f21b20d574d57841195138d33c337cc2bd7ae8a8620ddff60db72f723e4abe05",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [
+        "block-all-mixed-content"
+      ],
+      "title": "Scientists work out health and lifestyle factors that increase the risk of bowel cancer in young Australians after mysterious global rise in cases | Daily Mail Online",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "581",
+      "domain": "dailymail.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.dailymail.com/profile-3821/zoe-hardy.html",
+      "depth": 5,
+      "parent_url": "https://www.dailymail.com/lifestyle/fitness-wellbeing/article-15940001/Scientists-work-health-lifestyle-factors-increase-risk-bowel-cancer-young-Australians-mysterious-global-rise-cases.html",
+      "attempt": 9,
+      "timestamp": "2026-11-12T21:12:25.885364+00:00",
+      "final_url": "https://www.dailymail.com/profile-3821/zoe-hardy.html",
+      "status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "block-all-mixed-content; report-uri https://dmgm.report-uri.com/r/t/csp/reportOnly"
+        ],
+        "strict-transport-security": []
+      },
+      "body_bytes": 754004,
+      "truncated": false,
+      "body_sha256": "12f7d360af621cf531c8e258aa76839d7e109ac0d92e6ccbf4a20994f259e978",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Zo\u00eb Hardy: All their latest coverage | Daily Mail Online",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "581",
+      "domain": "dailymail.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.dailymail.com/sport/us/index.html",
+      "depth": 1,
+      "parent_url": "https://www.dailymail.com/ushome/index.html",
+      "attempt": 10,
+      "timestamp": "2026-11-12T21:12:26.964997+00:00",
+      "final_url": "https://www.dailymail.com/sport/us/index.html",
+      "status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "block-all-mixed-content; report-uri https://dmgm.report-uri.com/r/t/csp/reportOnly"
+        ],
+        "strict-transport-security": []
+      },
+      "body_bytes": 1034621,
+      "truncated": false,
+      "body_sha256": "49cd0a7687e6a783b49d9062b762fd6d78d3bb522a62728ecba7101b8d03955b",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [
+        "block-all-mixed-content"
+      ],
+      "title": "US Sport News: Soccer, Boxing, UFC and more | Daily Mail Online",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "581",
+      "domain": "dailymail.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.dailymail.com/yourmoney/article-16282037/nvidia-affair-scandal-margin-debt-bubble.html",
+      "depth": 3,
+      "parent_url": "https://www.dailymail.com/tvshowbiz/article-16285721/General-Hospital-star-Randall-England-dead-75-cancer.html",
+      "attempt": 11,
+      "timestamp": "2026-11-12T21:12:27.971828+00:00",
+      "final_url": "https://www.dailymail.com/yourmoney/article-16282037/nvidia-affair-scandal-margin-debt-bubble.html",
+      "status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "block-all-mixed-content; report-uri https://dmgm.report-uri.com/r/t/csp/reportOnly"
+        ],
+        "strict-transport-security": []
+      },
+      "body_bytes": 713571,
+      "truncated": false,
+      "body_sha256": "c08c032033b9cfd8ef8daa9ef1d142a50cd8029a0e3f329f68a7ee19b64dec4f",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [
+        "block-all-mixed-content"
+      ],
+      "title": "Nvidia's affair scandal sent shockwaves through the stock market. Now Wall Street experts fear a hidden bubble is about to burst elsewhere and cause a full-blown financial crisis | Daily Mail Online",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "581",
+      "domain": "dailymail.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.dailymail.com/tv/article-15737943/Im-Celebrity-Beverley-Callard-cancer-update-itv.html",
+      "depth": 4,
+      "parent_url": "https://www.dailymail.com/news/cancer/index.html",
+      "attempt": 12,
+      "timestamp": "2026-11-12T21:12:28.940238+00:00",
+      "final_url": "https://www.dailymail.com/tv/article-15737943/Im-Celebrity-Beverley-Callard-cancer-update-itv.html",
+      "status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "block-all-mixed-content; report-uri https://dmgm.report-uri.com/r/t/csp/reportOnly"
+        ],
+        "strict-transport-security": []
+      },
+      "body_bytes": 814453,
+      "truncated": false,
+      "body_sha256": "1d82df2a8a40d6deb88327f7941f4e2ee7b4dca3026bbed460e2f9a562b381d7",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [
+        "block-all-mixed-content"
+      ],
+      "title": "I'm A Celebrity's Beverley Callard 'trying to be brave and strong' as she shares 'weird' cancer update with fans and says 'I don't know what this means' in vulnerable video | Daily Mail Online",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "581",
+      "domain": "dailymail.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.dailymail.com/profile-4522/jess-lester.html",
+      "depth": 5,
+      "parent_url": "https://www.dailymail.com/tv/article-15737943/Im-Celebrity-Beverley-Callard-cancer-update-itv.html",
+      "attempt": 13,
+      "timestamp": "2026-11-12T21:12:29.947251+00:00",
+      "final_url": "https://www.dailymail.com/profile-4522/jess-lester.html",
+      "status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "block-all-mixed-content; report-uri https://dmgm.report-uri.com/r/t/csp/reportOnly"
+        ],
+        "strict-transport-security": []
+      },
+      "body_bytes": 668866,
+      "truncated": false,
+      "body_sha256": "0254bce68566a8c84f731cf0fd048f104f087e770079173e9fbe34e8c8729eb3",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Jess Lester: All their latest coverage | Daily Mail Online",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "581",
+      "domain": "dailymail.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.dailymail.com/opinion/us/index.html",
+      "depth": 1,
+      "parent_url": "https://www.dailymail.com/ushome/index.html",
+      "attempt": 14,
+      "timestamp": "2026-11-12T21:12:31.014810+00:00",
+      "final_url": "https://www.dailymail.com/opinion/us/index.html",
+      "status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "block-all-mixed-content; report-uri https://dmgm.report-uri.com/r/t/csp/reportOnly"
+        ],
+        "strict-transport-security": []
+      },
+      "body_bytes": 601055,
+      "truncated": false,
+      "body_sha256": "c30e8d25579e418489a9ecffed8ed45fec311e531c453ac3ba142c2ec3968a8c",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [
+        "block-all-mixed-content"
+      ],
+      "title": "US Opinion, Commentary & Columnists | Daily Mail Online",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "581",
+      "domain": "dailymail.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.dailymail.com/debate/article-16266629/Everyones-blaming-Trumps-Iran-war-midterms-bloodbath-MAUREEN-CALLAHAN-confronts-far-sinister-cause-warns-Hell-Mad-King-squandered-greatest-comeback-history.html",
+      "depth": 2,
+      "parent_url": "https://www.dailymail.com/opinion/us/index.html",
+      "attempt": 15,
+      "timestamp": "2026-11-12T21:12:31.602944+00:00",
+      "final_url": "https://www.dailymail.com/debate/article-16266629/Everyones-blaming-Trumps-Iran-war-midterms-bloodbath-MAUREEN-CALLAHAN-confronts-far-sinister-cause-warns-Hell-Mad-King-squandered-greatest-comeback-history.html",
+      "status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "block-all-mixed-content; report-uri https://dmgm.report-uri.com/r/t/csp/reportOnly"
+        ],
+        "strict-transport-security": []
+      },
+      "body_bytes": 859023,
+      "truncated": false,
+      "body_sha256": "7f6c9fbfbe4375aa3df3b6ff34c5a08e30e915c50524c03c9060fdb98a1d5154",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [
+        "block-all-mixed-content"
+      ],
+      "title": "Everyone's blaming Trump's Iran war for the midterms bloodbath... but MAUREEN CALLAHAN confronts a far more sinister cause, and warns: He'll go down as the Mad King who squandered the greatest comeback in history | Daily Mail Online",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "581",
+      "domain": "dailymail.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.dailymail.com/sciencetech/article-16262645/iran-sleeper-agents-trump-nuclear.html",
+      "depth": 3,
+      "parent_url": "https://www.dailymail.com/tvshowbiz/article-16285721/General-Hospital-star-Randall-England-dead-75-cancer.html",
+      "attempt": 16,
+      "timestamp": "2026-11-12T21:12:32.583794+00:00",
+      "final_url": "https://www.dailymail.com/sciencetech/article-16262645/iran-sleeper-agents-trump-nuclear.html",
+      "status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "block-all-mixed-content; report-uri https://dmgm.report-uri.com/r/t/csp/reportOnly"
+        ],
+        "strict-transport-security": []
+      },
+      "body_bytes": 846443,
+      "truncated": false,
+      "body_sha256": "d6437096aac551e412f2adf1c473defcd411855a67b0de81751719b964ee558b",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [
+        "block-all-mixed-content"
+      ],
+      "title": "America's sleeper agent nightmare comes true as hidden invasion emerges: Ex-FBI boss reveals terror attack targets and exactly how they will strike | Daily Mail Online",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "581",
+      "domain": "dailymail.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.dailymail.com/travel/article-16214433/Meet-holiday-self-you-Adventurer-Relaxer-Joy-Seeker-Lets-perfect-break.html",
+      "depth": 4,
+      "parent_url": "https://www.dailymail.com/news/cancer/index.html",
+      "attempt": 17,
+      "timestamp": "2026-11-12T21:12:33.283421+00:00",
+      "final_url": "https://www.dailymail.com/travel/article-16214433/Meet-holiday-self-you-Adventurer-Relaxer-Joy-Seeker-Lets-perfect-break.html",
+      "status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "block-all-mixed-content; report-uri https://dmgm.report-uri.com/r/t/csp/reportOnly"
+        ],
+        "strict-transport-security": []
+      },
+      "body_bytes": 805508,
+      "truncated": false,
+      "body_sha256": "d9595d17f683205007a13fbec71be47feba1c27bbbb630b3089e6a53419f52d0",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [
+        "block-all-mixed-content"
+      ],
+      "title": "Meet your holiday self: Are you the Adventurer, the Relaxer, or the Joy-Seeker? Let's find your perfect break! | Daily Mail Online",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "581",
+      "domain": "dailymail.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.dailymail.com/crime-desk/us/index.html",
+      "depth": 1,
+      "parent_url": "https://www.dailymail.com/ushome/index.html",
+      "attempt": 18,
+      "timestamp": "2026-11-12T21:12:34.163182+00:00",
+      "final_url": "https://www.dailymail.com/crime-desk/us/index.html",
+      "status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "block-all-mixed-content; report-uri https://dmgm.report-uri.com/r/t/csp/reportOnly"
+        ],
+        "strict-transport-security": []
+      },
+      "body_bytes": 834797,
+      "truncated": false,
+      "body_sha256": "fd1d8af7f7efe17ed517da3b977f935f404a553c10df02c296827cf3c9df259f",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [
+        "block-all-mixed-content"
+      ],
+      "title": "The Crime Desk | Latest true crime news | Daily Mail | Daily Mail Online",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "581",
+      "domain": "dailymail.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.dailymail.com/profile-2086/maureen-callahan.html",
+      "depth": 3,
+      "parent_url": "https://www.dailymail.com/debate/article-16266629/Everyones-blaming-Trumps-Iran-war-midterms-bloodbath-MAUREEN-CALLAHAN-confronts-far-sinister-cause-warns-Hell-Mad-King-squandered-greatest-comeback-history.html",
+      "attempt": 19,
+      "timestamp": "2026-11-12T21:12:35.286745+00:00",
+      "final_url": "https://www.dailymail.com/profile-2086/maureen-callahan.html",
+      "status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "block-all-mixed-content; report-uri https://dmgm.report-uri.com/r/t/csp/reportOnly"
+        ],
+        "strict-transport-security": []
+      },
+      "body_bytes": 670860,
+      "truncated": false,
+      "body_sha256": "5bd6b965d53fef254c33b41bb612b1944134ada55013b11629797e0e420bee77",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Maureen Callahan: All their latest coverage | Daily Mail Online",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "581",
+      "domain": "dailymail.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.dailymail.com/buyline/beauty/article-16242915/The-YOU-Beauty-Advent-Calendar-2026-bigger-14-size-products.html",
+      "depth": 4,
+      "parent_url": "https://www.dailymail.com/news/cancer/index.html",
+      "attempt": 20,
+      "timestamp": "2026-11-12T21:12:36.244893+00:00",
+      "final_url": "https://www.dailymail.com/buyline/beauty/article-16242915/The-YOU-Beauty-Advent-Calendar-2026-bigger-14-size-products.html",
+      "status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "block-all-mixed-content; report-uri https://dmgm.report-uri.com/r/t/csp/reportOnly"
+        ],
+        "strict-transport-security": []
+      },
+      "body_bytes": 701240,
+      "truncated": false,
+      "body_sha256": "e9852e6d8e1a56e15279b56c98bce42e130c4cd15deb2fbb02438d6ae295442a",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [
+        "block-all-mixed-content"
+      ],
+      "title": "The YOU Beauty Advent Calendar is back for 2026 - and it's bigger than ever with 14 full-size products | Daily Mail Online",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "581",
+      "domain": "dailymail.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.dailymail.com/profile-1326/emily-scrivener.html",
+      "depth": 5,
+      "parent_url": "https://www.dailymail.com/buyline/beauty/article-16242915/The-YOU-Beauty-Advent-Calendar-2026-bigger-14-size-products.html",
+      "attempt": 21,
+      "timestamp": "2026-11-12T21:12:37.009281+00:00",
+      "final_url": "https://www.dailymail.com/profile-1326/emily-scrivener.html",
+      "status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "block-all-mixed-content; report-uri https://dmgm.report-uri.com/r/t/csp/reportOnly"
+        ],
+        "strict-transport-security": []
+      },
+      "body_bytes": 618602,
+      "truncated": false,
+      "body_sha256": "5fcb2df0e08e8962399cf5250f54baeb34d6a660eb3b5c45f3c01456278e32e3",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Emily Scrivener: All their latest coverage | Daily Mail Online",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "581",
+      "domain": "dailymail.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.dailymail.com/home/index.html",
+      "depth": 1,
+      "parent_url": "https://www.dailymail.com/ushome/index.html",
+      "attempt": 22,
+      "timestamp": "2026-11-12T21:12:38.371897+00:00",
+      "final_url": "https://www.dailymail.com/home/index.html",
+      "status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "block-all-mixed-content; report-uri https://dmgm.report-uri.com/r/t/csp/reportOnly"
+        ],
+        "strict-transport-security": []
+      },
+      "body_bytes": 1489390,
+      "truncated": false,
+      "body_sha256": "61664d62452c52e8b7c5d9b187550febf430d0e954619b0476151cb180e6fc6d",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [
+        "block-all-mixed-content"
+      ],
+      "title": "UK Home | Daily Mail Online",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "581",
+      "domain": "dailymail.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.dailymail.com/money/",
+      "depth": 2,
+      "parent_url": "https://www.dailymail.com/home/index.html",
+      "attempt": 23,
+      "timestamp": "2026-11-12T21:12:39.832561+00:00",
+      "final_url": "https://www.dailymail.com/money/index.html",
+      "status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "block-all-mixed-content; report-uri https://dmgm.report-uri.com/r/t/csp/reportOnly"
+        ],
+        "strict-transport-security": []
+      },
+      "body_bytes": 485803,
+      "truncated": false,
+      "body_sha256": "2cd282d628a4f843577dca2927e239da9835e68c084ea7299c14c02abfc4ba9f",
+      "redirect_chain": [
+        {
+          "url": "https://www.dailymail.com/money/",
+          "status": 301,
+          "location": "/money/index.html",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [
+              "block-all-mixed-content; report-uri https://dmgm.report-uri.com/r/t/csp/reportOnly"
+            ],
+            "strict-transport-security": []
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [
+        "block-all-mixed-content"
+      ],
+      "title": "Money - Financial & Business News, Stocks | Daily Mail Online",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "581",
+      "domain": "dailymail.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.dailymail.com/games/index.html",
+      "depth": 2,
+      "parent_url": "https://www.dailymail.com/home/index.html",
+      "attempt": 24,
+      "timestamp": "2026-11-12T21:12:41.013520+00:00",
+      "final_url": "https://www.dailymail.com/games/index.html",
+      "status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "block-all-mixed-content; report-uri https://dmgm.report-uri.com/r/t/csp/reportOnly"
+        ],
+        "strict-transport-security": []
+      },
+      "body_bytes": 259911,
+      "truncated": false,
+      "body_sha256": "45fde731bc219fc9a8d233103bad339db17a2d9e8a3113337df498d573b241e0",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [
+        "block-all-mixed-content"
+      ],
+      "title": "Free Online Games, Puzzles & Crosswords | Daily Mail Online",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "581",
+      "domain": "dailymail.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.dailymail.com/showbiz",
+      "depth": 4,
+      "parent_url": "https://www.dailymail.com/news/cancer/index.html",
+      "attempt": 25,
+      "timestamp": "2026-11-12T21:12:42.429538+00:00",
+      "final_url": "https://www.dailymail.com/showbiz/index.html",
+      "status": 404,
+      "content_type": "text/html;charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "block-all-mixed-content; report-uri https://dmgm.report-uri.com/r/t/csp/reportOnly"
+        ],
+        "strict-transport-security": []
+      },
+      "body_bytes": 38719,
+      "truncated": false,
+      "body_sha256": "65fac31b0e253ac2adcbad53431ceb282a9e5a1a275d1235640bc112242a59d0",
+      "redirect_chain": [
+        {
+          "url": "https://www.dailymail.com/showbiz",
+          "status": 301,
+          "location": "/showbiz/index.html",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [
+              "block-all-mixed-content; report-uri https://dmgm.report-uri.com/r/t/csp/reportOnly"
+            ],
+            "strict-transport-security": []
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "581",
+      "domain": "dailymail.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.dailymail.com/video/us/index.html",
+      "depth": 1,
+      "parent_url": "https://www.dailymail.com/ushome/index.html",
+      "attempt": 26,
+      "timestamp": "2026-11-12T21:12:42.996636+00:00",
+      "final_url": "https://www.dailymail.com/video/us/index.html",
+      "status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "block-all-mixed-content; report-uri https://dmgm.report-uri.com/r/t/csp/reportOnly"
+        ],
+        "strict-transport-security": []
+      },
+      "body_bytes": 384704,
+      "truncated": false,
+      "body_sha256": "a04df9e3cb4d33ae7a10d8e72fa82a929810fd84867c77835b4f43d9040d23fd",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [
+        "block-all-mixed-content"
+      ],
+      "title": "US Videos | Watch viral news videos, clips & footage | Daily Mail Online",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "581",
+      "domain": "dailymail.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.dailymail.com/media/article-16284309/rachel-maddow-daily-detention-centers-ice-trump.html",
+      "depth": 2,
+      "parent_url": "https://www.dailymail.com/video/us/index.html",
+      "attempt": 27,
+      "timestamp": "2026-11-12T21:12:44.618208+00:00",
+      "final_url": "https://www.dailymail.com/media/article-16284309/rachel-maddow-daily-detention-centers-ice-trump.html",
+      "status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "block-all-mixed-content; report-uri https://dmgm.report-uri.com/r/t/csp/reportOnly"
+        ],
+        "strict-transport-security": []
+      },
+      "body_bytes": 855850,
+      "truncated": false,
+      "body_sha256": "50ea3943ccca6fbe7926b8af22e9c417c27944404b5866bbd905eace32f3cac7",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [
+        "block-all-mixed-content"
+      ],
+      "title": "Rachel Maddow says she fears Trump could end up locking her up in one of new mega detention centers built for migrants | Daily Mail Online",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "581",
+      "domain": "dailymail.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.dailymail.com/wires/pa/article-16068589/Unprecedented-El-Nino-event-bring-storms-rain-UK-says-Met-Office.html",
+      "depth": 2,
+      "parent_url": "https://www.dailymail.com/video/us/index.html",
+      "attempt": 28,
+      "timestamp": "2026-11-12T21:12:45.370065+00:00",
+      "final_url": "https://www.dailymail.com/wires/pa/article-16068589/Unprecedented-El-Nino-event-bring-storms-rain-UK-says-Met-Office.html",
+      "status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "block-all-mixed-content; report-uri https://dmgm.report-uri.com/r/t/csp/reportOnly"
+        ],
+        "strict-transport-security": []
+      },
+      "body_bytes": 855050,
+      "truncated": false,
+      "body_sha256": "3d07be95d302cccf46fceff117b3628cb25330879d617544950deda8fd0c4615",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [
+        "block-all-mixed-content"
+      ],
+      "title": "`Unprecedented\u00b4 El Nino event to bring storms and rain... | Daily Mail Online",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "581",
+      "domain": "dailymail.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.dailymail.com/profile-2701/alex-hammer.html",
+      "depth": 3,
+      "parent_url": "https://www.dailymail.com/media/article-16284309/rachel-maddow-daily-detention-centers-ice-trump.html",
+      "attempt": 29,
+      "timestamp": "2026-11-12T21:12:46.393574+00:00",
+      "final_url": "https://www.dailymail.com/profile-2701/alex-hammer.html",
+      "status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "block-all-mixed-content; report-uri https://dmgm.report-uri.com/r/t/csp/reportOnly"
+        ],
+        "strict-transport-security": []
+      },
+      "body_bytes": 657518,
+      "truncated": false,
+      "body_sha256": "4e69dad4879b7f5b3d36a64c735f086ba1e96c36f8fbb1dcf809890deaf201ce",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Alex Hammer: All their latest coverage | Daily Mail Online",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "581",
+      "domain": "dailymail.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.dailymail.com/profile-5243/benjamin-curry.html",
+      "depth": 4,
+      "parent_url": "https://www.dailymail.com/yourmoney/article-16282037/nvidia-affair-scandal-margin-debt-bubble.html",
+      "attempt": 30,
+      "timestamp": "2026-11-12T21:12:48.013156+00:00",
+      "final_url": "https://www.dailymail.com/profile-5243/benjamin-curry.html",
+      "status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "block-all-mixed-content; report-uri https://dmgm.report-uri.com/r/t/csp/reportOnly"
+        ],
+        "strict-transport-security": []
+      },
+      "body_bytes": 534624,
+      "truncated": false,
+      "body_sha256": "acfa4f7ce9dd48f844fbff56a1ded1d9fb6160f51d259b647e5a61ab1bc78d26",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Benjamin Curry: All their latest coverage | Daily Mail Online",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "581",
+      "domain": "dailymail.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.dailymail.com/real-estate/article-16285439/christmas-eve-homebuying-savings-americans.html",
+      "depth": 1,
+      "parent_url": "https://www.dailymail.com/ushome/index.html",
+      "attempt": 31,
+      "timestamp": "2026-11-12T21:12:49.384519+00:00",
+      "final_url": "https://www.dailymail.com/real-estate/article-16285439/christmas-eve-homebuying-savings-americans.html",
+      "status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "block-all-mixed-content; report-uri https://dmgm.report-uri.com/r/t/csp/reportOnly"
+        ],
+        "strict-transport-security": []
+      },
+      "body_bytes": 798632,
+      "truncated": false,
+      "body_sha256": "486847e31e58654fdb5ec904b3a9ac0f4ea39f868e99e8daec90b96404fe1827",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [
+        "block-all-mixed-content"
+      ],
+      "title": "The Christmas Eve homebuying trick that could save you thousands on your next home - and the best month of the year to buy | Daily Mail Online",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "581",
+      "domain": "dailymail.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.dailymail.com/profile-2761/Sara-McGiff.html",
+      "depth": 2,
+      "parent_url": "https://www.dailymail.com/real-estate/article-16285439/christmas-eve-homebuying-savings-americans.html",
+      "attempt": 32,
+      "timestamp": "2026-11-12T21:12:50.380058+00:00",
+      "final_url": "https://www.dailymail.com/profile-2761/Sara-McGiff.html",
+      "status": 301,
+      "content_type": "",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "block-all-mixed-content; report-uri https://dmgm.report-uri.com/r/t/csp/reportOnly"
+        ],
+        "strict-transport-security": []
+      },
+      "body_bytes": 0,
+      "truncated": false,
+      "body_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "redirect_chain": [
+        {
+          "url": "https://www.dailymail.com/profile-2761/Sara-McGiff.html",
+          "status": 301,
+          "location": "https://www.thisismoney.co.uk/profile-2761/Sara-McGiff.html",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [
+              "block-all-mixed-content; report-uri https://dmgm.report-uri.com/r/t/csp/reportOnly"
+            ],
+            "strict-transport-security": []
+          }
+        }
+      ],
+      "error": "redirect_out_of_scope",
+      "html": false,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "581",
+      "domain": "dailymail.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.dailymail.com/profile-3590/chris-melore.html",
+      "depth": 4,
+      "parent_url": "https://www.dailymail.com/sciencetech/article-16262645/iran-sleeper-agents-trump-nuclear.html",
+      "attempt": 33,
+      "timestamp": "2026-11-12T21:12:50.830364+00:00",
+      "final_url": "https://www.dailymail.com/profile-3590/chris-melore.html",
+      "status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "block-all-mixed-content; report-uri https://dmgm.report-uri.com/r/t/csp/reportOnly"
+        ],
+        "strict-transport-security": []
+      },
+      "body_bytes": 662946,
+      "truncated": false,
+      "body_sha256": "7129cc00e95dde763085755862cf04c67061cb926240489bb0aee7c5a8d579da",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Chris Melore: All their latest coverage | Daily Mail Online",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "581",
+      "domain": "dailymail.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.dailymail.com/mailplus/us/index.html",
+      "depth": 1,
+      "parent_url": "https://www.dailymail.com/ushome/index.html",
+      "attempt": 34,
+      "timestamp": "2026-11-12T21:12:52.057929+00:00",
+      "final_url": "https://www.dailymail.com/mailplus/us/index.html",
+      "status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "block-all-mixed-content; report-uri https://dmgm.report-uri.com/r/t/csp/reportOnly"
+        ],
+        "strict-transport-security": []
+      },
+      "body_bytes": 689651,
+      "truncated": false,
+      "body_sha256": "74c35bfb9b354f80fb4cd668ee47fd12bf68ad020091dcede8c31317a6780f38",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [
+        "block-all-mixed-content"
+      ],
+      "title": "DailyMail+ | Daily Mail Online",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "581",
+      "domain": "dailymail.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.dailymail.com/terms",
+      "depth": 1,
+      "parent_url": "https://www.dailymail.com/ushome/index.html",
+      "attempt": 35,
+      "timestamp": "2026-11-12T21:12:53.293249+00:00",
+      "final_url": "https://www.dailymail.com/terms",
+      "status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "block-all-mixed-content; report-uri https://dmgm.report-uri.com/r/t/csp/reportOnly"
+        ],
+        "strict-transport-security": []
+      },
+      "body_bytes": 862783,
+      "truncated": false,
+      "body_sha256": "a32ebe532c3902703ad6625cec8adf1db033590e0907774f74cfc663c87cb37c",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [
+        "block-all-mixed-content"
+      ],
+      "title": "Terms | Daily Mail Online",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "581",
+      "domain": "dailymail.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.dailymail.com/privacy",
+      "depth": 1,
+      "parent_url": "https://www.dailymail.com/ushome/index.html",
+      "attempt": 36,
+      "timestamp": "2026-11-12T21:12:54.382103+00:00",
+      "final_url": "https://www.dailymail.com/privacy",
+      "status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "block-all-mixed-content; report-uri https://dmgm.report-uri.com/r/t/csp/reportOnly"
+        ],
+        "strict-transport-security": []
+      },
+      "body_bytes": 669387,
+      "truncated": false,
+      "body_sha256": "b0623b4074320b20d9efd44933957c6313605ffb7f380bf8773b01e260aee989",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [
+        "block-all-mixed-content"
+      ],
+      "title": "Privacy & Cookies Policy (the 'Policy') | Daily Mail Online",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "581",
+      "domain": "dailymail.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.dailymail.com/additionalcookieinfo",
+      "depth": 1,
+      "parent_url": "https://www.dailymail.com/ushome/index.html",
+      "attempt": 37,
+      "timestamp": "2026-11-12T21:12:55.801726+00:00",
+      "final_url": "https://www.dailymail.com/home/article-1388152/Privacy-policy-cookies-frequently-asked-questions.html",
+      "status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "block-all-mixed-content; report-uri https://dmgm.report-uri.com/r/t/csp/reportOnly"
+        ],
+        "strict-transport-security": []
+      },
+      "body_bytes": 853542,
+      "truncated": false,
+      "body_sha256": "314612471e43468710f30e8b7ac3b263e0796d280e53769272e4902d5876f560",
+      "redirect_chain": [
+        {
+          "url": "https://www.dailymail.com/additionalcookieinfo",
+          "status": 301,
+          "location": "/home/article-1388152/Privacy-policy-cookies-frequently-asked-questions.html",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [
+              "block-all-mixed-content; report-uri https://dmgm.report-uri.com/r/t/csp/reportOnly"
+            ],
+            "strict-transport-security": []
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [
+        "block-all-mixed-content"
+      ],
+      "title": "Privacy policy and cookies: frequently asked questions | Daily Mail Online",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "581",
+      "domain": "dailymail.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.dailymail.com/privacycontrol",
+      "depth": 2,
+      "parent_url": "https://www.dailymail.com/home/article-1388152/Privacy-policy-cookies-frequently-asked-questions.html",
+      "attempt": 38,
+      "timestamp": "2026-11-12T21:12:57.305015+00:00",
+      "final_url": "https://www.dailymail.com/home/article-2149459/Controlling-based-advertising-party-cookies.html",
+      "status": 410,
+      "content_type": "",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "block-all-mixed-content; report-uri https://dmgm.report-uri.com/r/t/csp/reportOnly"
+        ],
+        "strict-transport-security": []
+      },
+      "body_bytes": 0,
+      "truncated": false,
+      "body_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "redirect_chain": [
+        {
+          "url": "https://www.dailymail.com/privacycontrol",
+          "status": 301,
+          "location": "/home/article-2149459/Controlling-based-advertising-party-cookies.html",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [
+              "block-all-mixed-content; report-uri https://dmgm.report-uri.com/r/t/csp/reportOnly"
+            ],
+            "strict-transport-security": []
+          }
+        }
+      ],
+      "html": false,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "581",
+      "domain": "dailymail.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.dailymail.com/howcomplain",
+      "depth": 1,
+      "parent_url": "https://www.dailymail.com/ushome/index.html",
+      "attempt": 39,
+      "timestamp": "2026-11-12T21:12:57.806719+00:00",
+      "final_url": "https://www.dailymail.com/howcomplain",
+      "status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "block-all-mixed-content; report-uri https://dmgm.report-uri.com/r/t/csp/reportOnly"
+        ],
+        "strict-transport-security": []
+      },
+      "body_bytes": 841608,
+      "truncated": false,
+      "body_sha256": "47747097a4a4ccfef987e0665d1558b253ecfce3a2fb33318210236800c35243",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [
+        "block-all-mixed-content"
+      ],
+      "title": "How to Complain | Daily Mail Online",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "581",
+      "domain": "dailymail.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.dailymail.com/authors",
+      "depth": 1,
+      "parent_url": "https://www.dailymail.com/ushome/index.html",
+      "attempt": 40,
+      "timestamp": "2026-11-12T21:12:58.771664+00:00",
+      "final_url": "https://www.dailymail.com/authors",
+      "status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "block-all-mixed-content; report-uri https://dmgm.report-uri.com/r/t/csp/reportOnly"
+        ],
+        "strict-transport-security": []
+      },
+      "body_bytes": 921287,
+      "truncated": false,
+      "body_sha256": "14f5549cf1011c750607160016c4d64674dc7395169106f1d40c15780f86b62e",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [
+        "block-all-mixed-content"
+      ],
+      "title": "Authors Index - A to Z | Daily Mail Online",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "581",
+      "domain": "dailymail.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.dailymail.com/profile-178/aadam-patel.html",
+      "depth": 2,
+      "parent_url": "https://www.dailymail.com/authors",
+      "attempt": 41,
+      "timestamp": "2026-11-12T21:13:00.411089+00:00",
+      "final_url": "https://www.dailymail.com/profile-178/aadam-patel.html",
+      "status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "block-all-mixed-content; report-uri https://dmgm.report-uri.com/r/t/csp/reportOnly"
+        ],
+        "strict-transport-security": []
+      },
+      "body_bytes": 644517,
+      "truncated": false,
+      "body_sha256": "44e56657124e26667c3a059e2821c507904495000eb56bbb29b92ea34af5d78d",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Aadam Patel: All their latest coverage | Daily Mail Online",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "581",
+      "domain": "dailymail.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.dailymail.com/profile-2961/abdi-rashid.html",
+      "depth": 2,
+      "parent_url": "https://www.dailymail.com/authors",
+      "attempt": 42,
+      "timestamp": "2026-11-12T21:13:01.878311+00:00",
+      "final_url": "https://www.dailymail.com/profile-2961/abdi-rashid.html",
+      "status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "block-all-mixed-content; report-uri https://dmgm.report-uri.com/r/t/csp/reportOnly"
+        ],
+        "strict-transport-security": []
+      },
+      "body_bytes": 662164,
+      "truncated": false,
+      "body_sha256": "afb7ba598e1f25807aa1ca7bec2d50eacd594cf132b5bf74e3b137410dd522f0",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Abdi Rashid: All their latest coverage | Daily Mail Online",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "581",
+      "domain": "dailymail.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.dailymail.com/profile-275/abigail-turner.html",
+      "depth": 2,
+      "parent_url": "https://www.dailymail.com/authors",
+      "attempt": 43,
+      "timestamp": "2026-11-12T21:13:03.454151+00:00",
+      "final_url": "https://www.dailymail.com/profile-275/abigail-turner.html",
+      "status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "block-all-mixed-content; report-uri https://dmgm.report-uri.com/r/t/csp/reportOnly"
+        ],
+        "strict-transport-security": []
+      },
+      "body_bytes": 792890,
+      "truncated": false,
+      "body_sha256": "b1e1d630a3b1dfce5b4aad03e2a0b9b49934f419b59e340f0741a9c5fc5a95f4",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Abigail Turner: All their latest coverage | Daily Mail Online",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "581",
+      "domain": "dailymail.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.dailymail.com/profile-3557/adam-pogrund.html",
+      "depth": 2,
+      "parent_url": "https://www.dailymail.com/authors",
+      "attempt": 44,
+      "timestamp": "2026-11-12T21:13:04.591680+00:00",
+      "final_url": "https://www.dailymail.com/profile-3557/adam-pogrund.html",
+      "status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "block-all-mixed-content; report-uri https://dmgm.report-uri.com/r/t/csp/reportOnly"
+        ],
+        "strict-transport-security": []
+      },
+      "body_bytes": 688883,
+      "truncated": false,
+      "body_sha256": "e032dad46b2b8d83d8bf2ce8f39529d55e1aa47b9a6fccd79ef7f94b047e2144",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Adam Pogrund: All their latest coverage | Daily Mail Online",
+      "duplicate_final": false,
+      "eligible": true
+    }
+  ],
+  "robots": [
+    {
+      "url": "https://dailymail.com/robots.txt",
+      "timestamp": "2026-11-12T21:12:15.694908+00:00",
+      "status": 200,
+      "decision": "parsed",
+      "final_url": "https://www.dailymail.com/robots.txt",
+      "redirect_chain": [
+        {
+          "url": "https://dailymail.com/robots.txt",
+          "status": 301,
+          "location": "https://www.dailymail.com/robots.txt"
+        }
+      ],
+      "body_sha256": "108aa1655200ee4243f457d64ab2494fa4756c8e8e1709f39d90b2088baae32f",
+      "body": "# Robots.txt for https://www.dailymail.com/ updated 04/11/2026\n#\n#\n# Daily Mail content is made available for your personal and non-commercial\n# use subject to our Terms and Conditions of use:\n# https://www.dailymail.com/terms\n# Use of any device, tool, or process designed to data mine or scrape the content\n# using automated means is prohibited without prior written permission from\n# DMG MEDIA LIMITED.  Prohibited uses include but are not limited to:\n# (1) text and data mining activities under Art. 4 of the EU Directive on Copyright in\n# the Digital Single Market;\n# (2) the development of any software, machine learning, artificial intelligence (AI),\n# and/or large language models (LLMs);\n# (3) creating or providing archived or cached data sets containing our content to others; and/or\n# (4) any commercial purposes.\n# For any licensing queries please contact partnerships@dmgmedia.co.uk.\n#\n#\n# All Robots\nUser-agent: *\n#\n# Begin Standard Rules\nDisallow: /*readcommentshtml*\nDisallow: /*login?redirectPath=\nDisallow: /*logout?redirectPath=\nDisallow: /*nextThread.html\nDisallow: /*previousThread.html\nDisallow: /*questionId*\nDisallow: /*selectedImage*\nDisallow: /*threadIndex=*\nDisallow: /*topGallery*\nDisallow: /ce/item.cms*\nDisallow: /guide/*\nDisallow: /registration/*\nDisallow: /best-buys/clickout/*\nDisallow: /best-buys/m/clickout/*\nDisallow: /weather.html?latitude=*\nDisallow: /weather.html?old=*\nDisallow: /home/search.html*\nDisallow: /best-buys/mercury/out*\nDisallow: /api/infinite-list.html\nDisallow: /api/infinite-list.html\nDisallow: /mobileapps/*\n\n#\n# Disallow Money for Google News\nUser-agent: Googlebot-News\nDisallow: /tmoney/*\n#\n# Allow Adsense\nUser-agent: Mediapartners-Google\nDisallow:\n#\n#\nUser-agent: CrystalSemanticsBot\nDisallow: /\n#\nUser-agent: archive-it.org\nUser-agent: archive.org_bot\nUser-agent: ArchiveBot\nUser-agent: Arquivo-web-crawler\nUser-agent: Authory\nUser-agent: babel\nUser-agent: bl.uk_ldfc_bot\nUser-agent: bl.uk_ldfc_renderbot\nUser-agent: bne.es_bot\nUser-agent: bnf.fr_bot\nUser-agent: ecoresearch\nUser-agent: ecoresearchCrawler\nUser-agent: Europarchive.org\nUser-agent: kb.dk_bot\nUser-agent: Kulturarw3\nUser-agent: LivelapBot\nUser-agent: mediacloud\nUser-agent: mirrorweb\nUser-agent: MSIECrawler\nUser-agent: nationalarchives.gov.uk\nUser-agent: netarkivet.dk\nUser-agent: netEstate NE Crawler\nUser-agent: Nicecrawler\nUser-agent: nl-israel_iaharvester2026\nUser-agent: nlnbot\nUser-agent: nlncrawler\nUser-agent: PageFreezer\nUser-agent: SafeDNS\nUser-agent: SmarshBot\nUser-agent: special_archiver\nUser-agent: tkl.iis.u-tokyo.ac.jp\nUser-agent: TurnitinBot\nUser-agent: webarchiv.cz\nUser-agent: WordPress.com mShots\nUser-agent: XY-Archive-Compliance-Archiver\nUser-agent: XY-Archive-Compliance-Crawler\nDisallow: /\n#\nUser-agent: AhrefsBot\nUser-agent: AI2Bot\nUser-agent: Ai2Bot-Dolma\nUser-agent: Amazonbot\nUser-agent: amazon-kendra-\nUser-agent: anthropic-ai\nUser-agent: Applebot-Extended\nUser-agent: bedrockbot\nUser-agent: Bytespider\nUser-agent: CloudflareBrowserRenderingCrawler\nUser-agent: CCBot\nUser-agent: ChatGLM-Spider\nUser-agent: ChatGPT-User\nUser-agent: ClaudeBot\nUser-agent: Claude-SearchBot\nUser-agent: Claude-User\nUser-agent: Claude-Web\nUser-agent: cohere-ai\nUser-agent: cohere-training-data-crawler\nUser-agent: Cotoyogi\nUser-agent: DeepSeekBot\nUser-agent: Diffbot\nUser-agent: DuckAssistBot\nUser-agent: EchoboxBot\nUser-agent: ExaSearchBot\nUser-agent: FacebookBot\nUser-agent: FriendlyCrawler\nUser-agent: Gemini-Deep-Research\nUser-agent: Google-CloudVertexBot\nUser-agent: Google-Extended\nUser-agent: GoogleOther-Image\nUser-agent: GoogleOther-Video\nUser-agent: GPTBot\nUser-agent: GPTBot-Search\nUser-agent: Grok\nUser-agent: iaskspider/2.0\nUser-agent: ICC-Crawler\nUser-agent: ImagesiftBot\nUser-agent: img2dataset\nUser-agent: ISSCyberRiskCrawler\nUser-agent: Kangaroo Bot\nUser-agent: KunatoCrawler\nUser-agent: KeenableBot\nUser-agent: LinerBot\nUser-agent: Meltwater\nUser-agent: Meta-ExternalAgent\nUser-agent: Meta-ExternalFetcher\nUser-agent: Meta-WebIndexer\nUser-agent: MistralAI-User\nUser-agent: OAI-Operator\nUser-agent: OAI-SearchBot\nUser-agent: omgili\nUser-agent: omgilibot\nUser-agent: PanguBot\nUser-agent: PerplexityBot\nUser-agent: Perplexity-User\nUser-agent: PetalBot\nUser-agent: QualifiedBot\nUser-agent: Scrapy\nUser-agent: Seekr\nUser-agent: Sidetrade indexer bot\nUser-agent: TaraGroup Intelligent Bot\nUser-agent: TikTokSpider\nUser-agent: Timpibot\nUser-agent: VelenPublicWebCrawler\nUser-agent: WARDBot\nUser-agent: Webzio-Extended\nUser-agent: wpbot\nUser-agent: WRTNBot\nUser-agent: xAI-SearchBot\nUser-agent: YouBot\nAllow: /*_.html\nAllow: /llms.txt\nDisallow: /\n#\n#Allow Google sandbox privacy testing\nUser-agent: GoogleOther\nAllow: /.well-known/privacy-sandbox-attestations.json\n#\n# Sitemap Files\nSitemap: https://www.dailymail.com/google-news-sitemap.xml\nSitemap: https://www.dailymail.com/video-new-sitemap.xml\nSitemap: https://www.dailymail.com/sitemap-articles-year~2021.xml\nSitemap: https://www.dailymail.com/sitemap-articles-year~2022.xml\nSitemap: https://www.dailymail.com/sitemap-articles-year~2023.xml\nSitemap: https://www.dailymail.com/sitemap-articles-year~2024.xml\nSitemap: https://www.dailymail.com/sitemap-articles-year~2025.xml\nSitemap: https://www.dailymail.com/sitemap-articles-year~2026.xml\nSitemap: https://www.dailymail.com/sitemap-videos-year~2021.xml\nSitemap: https://www.dailymail.com/sitemap-videos-year~2022.xml\nSitemap: https://www.dailymail.com/sitemap-videos-year~2023.xml\nSitemap: https://www.dailymail.com/sitemap-videos-year~2024.xml\nSitemap: https://www.dailymail.com/sitemap-videos-year~2025.xml\nSitemap: https://www.dailymail.com/sitemap-videos-year~2026.xml"
+    },
+    {
+      "url": "https://www.dailymail.com/robots.txt",
+      "timestamp": "2026-11-12T21:12:16.002454+00:00",
+      "status": 200,
+      "decision": "parsed",
+      "final_url": "https://www.dailymail.com/robots.txt",
+      "redirect_chain": [],
+      "body_sha256": "108aa1655200ee4243f457d64ab2494fa4756c8e8e1709f39d90b2088baae32f",
+      "body": "# Robots.txt for https://www.dailymail.com/ updated 04/11/2026\n#\n#\n# Daily Mail content is made available for your personal and non-commercial\n# use subject to our Terms and Conditions of use:\n# https://www.dailymail.com/terms\n# Use of any device, tool, or process designed to data mine or scrape the content\n# using automated means is prohibited without prior written permission from\n# DMG MEDIA LIMITED.  Prohibited uses include but are not limited to:\n# (1) text and data mining activities under Art. 4 of the EU Directive on Copyright in\n# the Digital Single Market;\n# (2) the development of any software, machine learning, artificial intelligence (AI),\n# and/or large language models (LLMs);\n# (3) creating or providing archived or cached data sets containing our content to others; and/or\n# (4) any commercial purposes.\n# For any licensing queries please contact partnerships@dmgmedia.co.uk.\n#\n#\n# All Robots\nUser-agent: *\n#\n# Begin Standard Rules\nDisallow: /*readcommentshtml*\nDisallow: /*login?redirectPath=\nDisallow: /*logout?redirectPath=\nDisallow: /*nextThread.html\nDisallow: /*previousThread.html\nDisallow: /*questionId*\nDisallow: /*selectedImage*\nDisallow: /*threadIndex=*\nDisallow: /*topGallery*\nDisallow: /ce/item.cms*\nDisallow: /guide/*\nDisallow: /registration/*\nDisallow: /best-buys/clickout/*\nDisallow: /best-buys/m/clickout/*\nDisallow: /weather.html?latitude=*\nDisallow: /weather.html?old=*\nDisallow: /home/search.html*\nDisallow: /best-buys/mercury/out*\nDisallow: /api/infinite-list.html\nDisallow: /api/infinite-list.html\nDisallow: /mobileapps/*\n\n#\n# Disallow Money for Google News\nUser-agent: Googlebot-News\nDisallow: /tmoney/*\n#\n# Allow Adsense\nUser-agent: Mediapartners-Google\nDisallow:\n#\n#\nUser-agent: CrystalSemanticsBot\nDisallow: /\n#\nUser-agent: archive-it.org\nUser-agent: archive.org_bot\nUser-agent: ArchiveBot\nUser-agent: Arquivo-web-crawler\nUser-agent: Authory\nUser-agent: babel\nUser-agent: bl.uk_ldfc_bot\nUser-agent: bl.uk_ldfc_renderbot\nUser-agent: bne.es_bot\nUser-agent: bnf.fr_bot\nUser-agent: ecoresearch\nUser-agent: ecoresearchCrawler\nUser-agent: Europarchive.org\nUser-agent: kb.dk_bot\nUser-agent: Kulturarw3\nUser-agent: LivelapBot\nUser-agent: mediacloud\nUser-agent: mirrorweb\nUser-agent: MSIECrawler\nUser-agent: nationalarchives.gov.uk\nUser-agent: netarkivet.dk\nUser-agent: netEstate NE Crawler\nUser-agent: Nicecrawler\nUser-agent: nl-israel_iaharvester2026\nUser-agent: nlnbot\nUser-agent: nlncrawler\nUser-agent: PageFreezer\nUser-agent: SafeDNS\nUser-agent: SmarshBot\nUser-agent: special_archiver\nUser-agent: tkl.iis.u-tokyo.ac.jp\nUser-agent: TurnitinBot\nUser-agent: webarchiv.cz\nUser-agent: WordPress.com mShots\nUser-agent: XY-Archive-Compliance-Archiver\nUser-agent: XY-Archive-Compliance-Crawler\nDisallow: /\n#\nUser-agent: AhrefsBot\nUser-agent: AI2Bot\nUser-agent: Ai2Bot-Dolma\nUser-agent: Amazonbot\nUser-agent: amazon-kendra-\nUser-agent: anthropic-ai\nUser-agent: Applebot-Extended\nUser-agent: bedrockbot\nUser-agent: Bytespider\nUser-agent: CloudflareBrowserRenderingCrawler\nUser-agent: CCBot\nUser-agent: ChatGLM-Spider\nUser-agent: ChatGPT-User\nUser-agent: ClaudeBot\nUser-agent: Claude-SearchBot\nUser-agent: Claude-User\nUser-agent: Claude-Web\nUser-agent: cohere-ai\nUser-agent: cohere-training-data-crawler\nUser-agent: Cotoyogi\nUser-agent: DeepSeekBot\nUser-agent: Diffbot\nUser-agent: DuckAssistBot\nUser-agent: EchoboxBot\nUser-agent: ExaSearchBot\nUser-agent: FacebookBot\nUser-agent: FriendlyCrawler\nUser-agent: Gemini-Deep-Research\nUser-agent: Google-CloudVertexBot\nUser-agent: Google-Extended\nUser-agent: GoogleOther-Image\nUser-agent: GoogleOther-Video\nUser-agent: GPTBot\nUser-agent: GPTBot-Search\nUser-agent: Grok\nUser-agent: iaskspider/2.0\nUser-agent: ICC-Crawler\nUser-agent: ImagesiftBot\nUser-agent: img2dataset\nUser-agent: ISSCyberRiskCrawler\nUser-agent: Kangaroo Bot\nUser-agent: KunatoCrawler\nUser-agent: KeenableBot\nUser-agent: LinerBot\nUser-agent: Meltwater\nUser-agent: Meta-ExternalAgent\nUser-agent: Meta-ExternalFetcher\nUser-agent: Meta-WebIndexer\nUser-agent: MistralAI-User\nUser-agent: OAI-Operator\nUser-agent: OAI-SearchBot\nUser-agent: omgili\nUser-agent: omgilibot\nUser-agent: PanguBot\nUser-agent: PerplexityBot\nUser-agent: Perplexity-User\nUser-agent: PetalBot\nUser-agent: QualifiedBot\nUser-agent: Scrapy\nUser-agent: Seekr\nUser-agent: Sidetrade indexer bot\nUser-agent: TaraGroup Intelligent Bot\nUser-agent: TikTokSpider\nUser-agent: Timpibot\nUser-agent: VelenPublicWebCrawler\nUser-agent: WARDBot\nUser-agent: Webzio-Extended\nUser-agent: wpbot\nUser-agent: WRTNBot\nUser-agent: xAI-SearchBot\nUser-agent: YouBot\nAllow: /*_.html\nAllow: /llms.txt\nDisallow: /\n#\n#Allow Google sandbox privacy testing\nUser-agent: GoogleOther\nAllow: /.well-known/privacy-sandbox-attestations.json\n#\n# Sitemap Files\nSitemap: https://www.dailymail.com/google-news-sitemap.xml\nSitemap: https://www.dailymail.com/video-new-sitemap.xml\nSitemap: https://www.dailymail.com/sitemap-articles-year~2021.xml\nSitemap: https://www.dailymail.com/sitemap-articles-year~2022.xml\nSitemap: https://www.dailymail.com/sitemap-articles-year~2023.xml\nSitemap: https://www.dailymail.com/sitemap-articles-year~2024.xml\nSitemap: https://www.dailymail.com/sitemap-articles-year~2025.xml\nSitemap: https://www.dailymail.com/sitemap-articles-year~2026.xml\nSitemap: https://www.dailymail.com/sitemap-videos-year~2021.xml\nSitemap: https://www.dailymail.com/sitemap-videos-year~2022.xml\nSitemap: https://www.dailymail.com/sitemap-videos-year~2023.xml\nSitemap: https://www.dailymail.com/sitemap-videos-year~2024.xml\nSitemap: https://www.dailymail.com/sitemap-videos-year~2025.xml\nSitemap: https://www.dailymail.com/sitemap-videos-year~2026.xml"
+    }
+  ],
+  "eligible_pages": 40,
+  "canonical_origin": [
+    "https",
+    "www.dailymail.com",
+    443
+  ],
+  "stop_reason": "page_budget",
+  "elapsed_seconds": 50.9
+}

@@ -1,0 +1,59 @@
+{
+  "site": {
+    "rank": "6616",
+    "domain": "neal.fun",
+    "stratum": "1001-10000"
+  },
+  "rows": [
+    {
+      "rank": "6616",
+      "domain": "neal.fun",
+      "stratum": "1001-10000",
+      "requested_url": "https://neal.fun/",
+      "depth": 0,
+      "parent_url": "",
+      "attempt": 1,
+      "timestamp": "2026-11-12T21:13:59.626842+00:00",
+      "final_url": "https://neal.fun/",
+      "status": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'none'; script-src 'nonce-pNLSTQkc2SGDfSO65Ns1C1' 'unsafe-eval' https://challenges.cloudflare.com; script-src-attr 'none'; style-src 'unsafe-inline'; img-src 'self' https://challenges.cloudflare.com; connect-src 'self' https://challenges.cloudflare.com; frame-src 'self' https://challenges.cloudflare.com blob:; child-src 'self' https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 5559,
+      "truncated": false,
+      "body_sha256": "270c6a0abc4cac2cbaac455cb1c2786d59f4bbc1eab66f2591e2ef9a745be317",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    }
+  ],
+  "robots": [
+    {
+      "url": "https://neal.fun/robots.txt",
+      "timestamp": "2026-11-12T21:13:59.626816+00:00",
+      "status": 200,
+      "decision": "parsed",
+      "final_url": "https://neal.fun/robots.txt",
+      "redirect_chain": [],
+      "body_sha256": "639057bc41d15fc3986a3aa9ee7b94eb6cdd6600107fa8704ade2324322717c3",
+      "body": "Sitemap: https://neal.fun/sitemap.xml"
+    }
+  ],
+  "eligible_pages": 0,
+  "canonical_origin": [
+    "https",
+    "neal.fun",
+    443
+  ],
+  "stop_reason": "frontier_exhausted",
+  "elapsed_seconds": 0.85
+}

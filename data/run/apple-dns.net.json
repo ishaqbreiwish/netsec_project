@@ -1,0 +1,40 @@
+{
+  "site": {
+    "rank": "42",
+    "domain": "apple-dns.net",
+    "stratum": "1-100"
+  },
+  "rows": [
+    {
+      "rank": "42",
+      "domain": "apple-dns.net",
+      "stratum": "1-100",
+      "requested_url": "https://apple-dns.net/",
+      "depth": 0,
+      "parent_url": "",
+      "attempt": 1,
+      "timestamp": "2026-11-12T21:11:29.154330+00:00",
+      "error": "robots_denied",
+      "final_url": "https://apple-dns.net/",
+      "redirect_chain": [],
+      "html": false,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    }
+  ],
+  "robots": [
+    {
+      "url": "https://apple-dns.net/robots.txt",
+      "timestamp": "2026-11-12T21:11:29.155517+00:00",
+      "decision": "conservative_block_error",
+      "error": "[Errno 8] nodename nor servname provided, or not known"
+    }
+  ],
+  "eligible_pages": 0,
+  "canonical_origin": null,
+  "stop_reason": "frontier_exhausted",
+  "elapsed_seconds": 0.0
+}

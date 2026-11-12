@@ -1,0 +1,44 @@
+{
+  "site": {
+    "rank": "9124",
+    "domain": "supersport.hr",
+    "stratum": "1001-10000"
+  },
+  "rows": [
+    {
+      "rank": "9124",
+      "domain": "supersport.hr",
+      "stratum": "1001-10000",
+      "requested_url": "https://supersport.hr/",
+      "depth": 0,
+      "parent_url": "",
+      "attempt": 1,
+      "timestamp": "2026-11-12T21:14:40.485069+00:00",
+      "error": "robots_denied",
+      "final_url": "https://supersport.hr/",
+      "redirect_chain": [],
+      "html": false,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    }
+  ],
+  "robots": [
+    {
+      "url": "https://supersport.hr/robots.txt",
+      "timestamp": "2026-11-12T21:14:41.164013+00:00",
+      "status": 403,
+      "decision": "conservative_block_status_403",
+      "final_url": "https://supersport.hr/robots.txt",
+      "redirect_chain": [],
+      "body_sha256": "58bf2215b395dcac74c009aa98701854e43cbe54a1cd3a95fee6a647ca9910d4",
+      "body": "<html>\r\n<head><title>403 Forbidden</title></head>\r\n<body>\r\n<center><h1>403 Forbidden</h1></center>\r\n</body>\r\n</html>\r\n"
+    }
+  ],
+  "eligible_pages": 0,
+  "canonical_origin": null,
+  "stop_reason": "frontier_exhausted",
+  "elapsed_seconds": 0.68
+}

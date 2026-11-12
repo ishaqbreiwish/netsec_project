@@ -1,0 +1,68 @@
+{
+  "site": {
+    "rank": "8878",
+    "domain": "sssinstagram.com",
+    "stratum": "1001-10000"
+  },
+  "rows": [
+    {
+      "rank": "8878",
+      "domain": "sssinstagram.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://sssinstagram.com/",
+      "depth": 0,
+      "parent_url": "",
+      "attempt": 1,
+      "timestamp": "2026-11-12T21:14:38.117631+00:00",
+      "final_url": "https://sssinstagram.com/blocked",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 3008,
+      "truncated": false,
+      "body_sha256": "7e33eea827c77a48f78568a6751ff139b4ff74c92ba281a761d1511e0ee482cd",
+      "redirect_chain": [
+        {
+          "url": "https://sssinstagram.com/",
+          "status": 302,
+          "location": "/blocked",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": []
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "This service is permanently unavailable",
+      "duplicate_final": false,
+      "eligible": true
+    }
+  ],
+  "robots": [
+    {
+      "url": "https://sssinstagram.com/robots.txt",
+      "timestamp": "2026-11-12T21:14:37.810716+00:00",
+      "status": 200,
+      "decision": "parsed",
+      "final_url": "https://sssinstagram.com/robots.txt",
+      "redirect_chain": [],
+      "body_sha256": "ee6f408e4dd61a06bce0317b80b8731463ff6b88128c6d2911ce1bd933408329",
+      "body": "User-Agent: *\nAllow: /\nDisallow: /p/*\nDisallow: /cdn-cgi/\n\nSitemap: https://sssinstagram.com/sitemap.xml\n"
+    }
+  ],
+  "eligible_pages": 1,
+  "canonical_origin": [
+    "https",
+    "sssinstagram.com",
+    443
+  ],
+  "stop_reason": "frontier_exhausted",
+  "elapsed_seconds": 1.45
+}

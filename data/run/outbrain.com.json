@@ -1,0 +1,656 @@
+{
+  "site": {
+    "rank": "720",
+    "domain": "outbrain.com",
+    "stratum": "101-1000"
+  },
+  "rows": [
+    {
+      "rank": "720",
+      "domain": "outbrain.com",
+      "stratum": "101-1000",
+      "requested_url": "https://outbrain.com/",
+      "depth": 0,
+      "parent_url": "",
+      "attempt": 1,
+      "timestamp": "2026-11-12T21:12:38.237308+00:00",
+      "final_url": "https://www.outbrain.com/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=86400 ; includeSubDomains ; preload"
+        ]
+      },
+      "body_bytes": 25529,
+      "truncated": false,
+      "body_sha256": "16d993ec9522fec59b2e945a2b40c0c334ed354ce7374fa3273f82f1cccd0ae0",
+      "redirect_chain": [
+        {
+          "url": "https://outbrain.com/",
+          "status": 301,
+          "location": "https://www.outbrain.com/",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=0;"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Outbrain Direct Response to Maximize Your ROI",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "720",
+      "domain": "outbrain.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.outbrain.com/advertisers/",
+      "depth": 1,
+      "parent_url": "https://www.outbrain.com/",
+      "attempt": 2,
+      "timestamp": "2026-11-12T21:12:48.291268+00:00",
+      "final_url": "https://www.outbrain.com/advertisers/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=86400 ; includeSubDomains ; preload"
+        ]
+      },
+      "body_bytes": 26274,
+      "truncated": false,
+      "body_sha256": "5b94d2b339b5192bacf1d15f3aed9151bbe1053f264dac4b14285c099da1be50",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Outbrain Advertising - Drive ROAS on the Open Web | Outbrain.com",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "720",
+      "domain": "outbrain.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.outbrain.com/help/ads-specs/",
+      "depth": 1,
+      "parent_url": "https://www.outbrain.com/",
+      "attempt": 3,
+      "timestamp": "2026-11-12T21:12:58.329142+00:00",
+      "final_url": "https://www.outbrain.com/help/ads-specs/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=86400 ; includeSubDomains ; preload"
+        ]
+      },
+      "body_bytes": 95472,
+      "truncated": false,
+      "body_sha256": "e1294bed97e56c07b223bde0e9dbb838269c10c70d75f1cfb1413e54b24482f8",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "720",
+      "domain": "outbrain.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.outbrain.com/resources",
+      "depth": 2,
+      "parent_url": "https://www.outbrain.com/help/ads-specs/",
+      "attempt": 4,
+      "timestamp": "2026-11-12T21:13:18.600050+00:00",
+      "final_url": "https://www.outbrain.com/resources/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=86400 ; includeSubDomains ; preload"
+        ]
+      },
+      "body_bytes": 103127,
+      "truncated": false,
+      "body_sha256": "e5591411c224807cbb359d8385d478edbd3363c8e82d28616d09947c1cf51781",
+      "redirect_chain": [
+        {
+          "url": "https://www.outbrain.com/resources",
+          "status": 301,
+          "location": "https://www.outbrain.com/resources/",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=86400 ; includeSubDomains ; preload"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Outbrain's Marketing Resource Center - Ace Native Advertising",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "720",
+      "domain": "outbrain.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.outbrain.com/blog/the-end-to-end-advertising-platform-for-the-open-internet/",
+      "depth": 3,
+      "parent_url": "https://www.outbrain.com/resources/",
+      "attempt": 5,
+      "timestamp": "2026-11-12T21:13:28.338278+00:00",
+      "final_url": "https://www.outbrain.com/blog/the-end-to-end-advertising-platform-for-the-open-internet/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=86400 ; includeSubDomains ; preload"
+        ]
+      },
+      "body_bytes": 75746,
+      "truncated": false,
+      "body_sha256": "b851094c60f46e11e89c5c7b815bbae89514bd8e7a83477876fbf3587cb44d1f",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "A Transformational Moment: Outbrain Merges with Teads, a Branding and Omnichannel Video Leader",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "720",
+      "domain": "outbrain.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.outbrain.com/brainpower/",
+      "depth": 4,
+      "parent_url": "https://www.outbrain.com/blog/the-end-to-end-advertising-platform-for-the-open-internet/",
+      "attempt": 6,
+      "timestamp": "2026-11-12T21:13:38.685262+00:00",
+      "final_url": "https://www.outbrain.com/brainpower/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=86400 ; includeSubDomains ; preload"
+        ]
+      },
+      "body_bytes": 2492,
+      "truncated": false,
+      "body_sha256": "b7022c7978bfd0fdaeedbf31374ae1927f140928f97459cb3634565d3c43ca2c",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Maximize Your Native Ad ROAS | BrainPower Insights",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "720",
+      "domain": "outbrain.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.outbrain.com/case-studies",
+      "depth": 2,
+      "parent_url": "https://www.outbrain.com/help/ads-specs/",
+      "attempt": 7,
+      "timestamp": "2026-11-12T21:13:58.150200+00:00",
+      "final_url": "https://www.outbrain.com/case-studies/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=86400 ; includeSubDomains ; preload"
+        ]
+      },
+      "body_bytes": 62706,
+      "truncated": false,
+      "body_sha256": "7403b2bbaf407ea362a782889788693d5f5bd1036a3d139ffa3ae447c5cc0419",
+      "redirect_chain": [
+        {
+          "url": "https://www.outbrain.com/case-studies",
+          "status": 301,
+          "location": "https://www.outbrain.com/case-studies/",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=86400 ; includeSubDomains ; preload"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Case Studies - Success Stories and Insights from Outbrain Campaigns",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "720",
+      "domain": "outbrain.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.outbrain.com/glossary",
+      "depth": 3,
+      "parent_url": "https://www.outbrain.com/resources/",
+      "attempt": 8,
+      "timestamp": "2026-11-12T21:14:18.129456+00:00",
+      "final_url": "https://www.outbrain.com/glossary/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=86400 ; includeSubDomains ; preload"
+        ]
+      },
+      "body_bytes": 113422,
+      "truncated": false,
+      "body_sha256": "5a75c3d5bc6c91f035a7adff341fec89745f6fdc87d7088728f19793da9a15d6",
+      "redirect_chain": [
+        {
+          "url": "https://www.outbrain.com/glossary",
+          "status": 301,
+          "location": "https://www.outbrain.com/glossary/",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=86400 ; includeSubDomains ; preload"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Outbrain's Digital Advertising & Marketing Glossary",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "720",
+      "domain": "outbrain.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.outbrain.com/publishers-directory/",
+      "depth": 4,
+      "parent_url": "https://www.outbrain.com/blog/the-end-to-end-advertising-platform-for-the-open-internet/",
+      "attempt": 9,
+      "timestamp": "2026-11-12T21:14:38.132782+00:00",
+      "final_url": "https://www.outbrain.com/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=86400 ; includeSubDomains ; preload"
+        ]
+      },
+      "body_bytes": 25529,
+      "truncated": false,
+      "body_sha256": "16d993ec9522fec59b2e945a2b40c0c334ed354ce7374fa3273f82f1cccd0ae0",
+      "redirect_chain": [
+        {
+          "url": "https://www.outbrain.com/publishers-directory/",
+          "status": 301,
+          "location": "https://www.outbrain.com",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=86400 ; includeSubDomains ; preload"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Outbrain Direct Response to Maximize Your ROI",
+      "duplicate_final": true,
+      "eligible": false
+    },
+    {
+      "rank": "720",
+      "domain": "outbrain.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.outbrain.com/partnerships/referral-program/",
+      "depth": 1,
+      "parent_url": "https://www.outbrain.com/",
+      "attempt": 10,
+      "timestamp": "2026-11-12T21:14:48.335203+00:00",
+      "final_url": "https://www.outbrain.com/partnerships/referral-program/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=86400 ; includeSubDomains ; preload"
+        ]
+      },
+      "body_bytes": 184776,
+      "truncated": false,
+      "body_sha256": "9724579f5acdc455796099372f499bfe37fdcd97790dd935ba3a46534cbde23d",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Referral Program - Outbrain Direct Response",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "720",
+      "domain": "outbrain.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.outbrain.com/publishers/",
+      "depth": 2,
+      "parent_url": "https://www.outbrain.com/help/ads-specs/",
+      "attempt": 11,
+      "timestamp": "2026-11-12T21:14:58.525645+00:00",
+      "final_url": "https://www.outbrain.com/publishers/",
+      "status": 301,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=86400 ; includeSubDomains ; preload"
+        ]
+      },
+      "body_bytes": 0,
+      "truncated": false,
+      "body_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "redirect_chain": [
+        {
+          "url": "https://www.outbrain.com/publishers/",
+          "status": 301,
+          "location": "https://www.teads.com/media-owners",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=86400 ; includeSubDomains ; preload"
+            ]
+          }
+        }
+      ],
+      "error": "redirect_out_of_scope",
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "720",
+      "domain": "outbrain.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.outbrain.com/affiliate-marketing-strategy",
+      "depth": 3,
+      "parent_url": "https://www.outbrain.com/resources/",
+      "attempt": 12,
+      "timestamp": "2026-11-12T21:15:18.682837+00:00",
+      "final_url": "https://www.outbrain.com/affiliate-marketing-strategy/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=86400 ; includeSubDomains ; preload"
+        ]
+      },
+      "body_bytes": 35420,
+      "truncated": false,
+      "body_sha256": "777b84db54f73352a9b6d8ce60cbbf192bb640e055b7713092f6f58dc896b573",
+      "redirect_chain": [
+        {
+          "url": "https://www.outbrain.com/affiliate-marketing-strategy",
+          "status": 301,
+          "location": "/affiliate-marketing-strategy/",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=86400 ; includeSubDomains ; preload"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "How to Boost your Affiliate Marketing Strategy [Repository] | Outbrain.com",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "720",
+      "domain": "outbrain.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.outbrain.com/native-advertising/",
+      "depth": 4,
+      "parent_url": "https://www.outbrain.com/glossary/",
+      "attempt": 13,
+      "timestamp": "2026-11-12T21:15:28.745024+00:00",
+      "final_url": "https://www.outbrain.com/native-advertising/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=86400 ; includeSubDomains ; preload"
+        ]
+      },
+      "body_bytes": 107074,
+      "truncated": false,
+      "body_sha256": "a2f503fb308eaf93b743ff39dc868b69461ac1313dfe970fdfa9402b4e82da48",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "What is Native Advertising - How it Works | Outbrain | Outbrain.com",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "720",
+      "domain": "outbrain.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.outbrain.com/request-demo/",
+      "depth": 1,
+      "parent_url": "https://www.outbrain.com/",
+      "attempt": 14,
+      "timestamp": "2026-11-12T21:15:38.882871+00:00",
+      "final_url": "https://www.outbrain.com/request-demo/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=86400 ; includeSubDomains ; preload"
+        ]
+      },
+      "body_bytes": 32863,
+      "truncated": false,
+      "body_sha256": "1036495a14a60cb0533b476ee87713ec1536330fe78f972a323052483e265470",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Request A Demo | Outbrain.com",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "720",
+      "domain": "outbrain.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.outbrain.com/about/company",
+      "depth": 2,
+      "parent_url": "https://www.outbrain.com/help/ads-specs/",
+      "attempt": 15,
+      "timestamp": "2026-11-12T21:15:58.286734+00:00",
+      "final_url": "https://www.outbrain.com/about/company/",
+      "status": 301,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=86400 ; includeSubDomains ; preload"
+        ]
+      },
+      "body_bytes": 0,
+      "truncated": false,
+      "body_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "redirect_chain": [
+        {
+          "url": "https://www.outbrain.com/about/company",
+          "status": 301,
+          "location": "/about/company/",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=86400 ; includeSubDomains ; preload"
+            ]
+          }
+        },
+        {
+          "url": "https://www.outbrain.com/about/company/",
+          "status": 301,
+          "location": "https://www.teads.com/about-teads/",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=86400 ; includeSubDomains ; preload"
+            ]
+          }
+        }
+      ],
+      "error": "redirect_out_of_scope",
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "720",
+      "domain": "outbrain.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.outbrain.com/news",
+      "depth": 3,
+      "parent_url": "https://www.outbrain.com/resources/",
+      "attempt": 16,
+      "timestamp": "2026-11-12T21:16:18.165722+00:00",
+      "final_url": "https://www.outbrain.com/news/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=86400 ; includeSubDomains ; preload"
+        ]
+      },
+      "body_bytes": 62804,
+      "truncated": false,
+      "body_sha256": "3791b998b1295e83ac30e567bf8df3cc6a2301789884b27c52c31cb7fe9a3cb9",
+      "redirect_chain": [
+        {
+          "url": "https://www.outbrain.com/news",
+          "status": 301,
+          "location": "https://www.outbrain.com/news/",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=86400 ; includeSubDomains ; preload"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Check out the Latest News About Outbrain | News | Outbrain.com",
+      "duplicate_final": false,
+      "eligible": true
+    }
+  ],
+  "robots": [
+    {
+      "url": "https://outbrain.com/robots.txt",
+      "timestamp": "2026-11-12T21:12:28.273609+00:00",
+      "status": 200,
+      "decision": "parsed",
+      "final_url": "https://www.outbrain.com/robots.txt",
+      "redirect_chain": [
+        {
+          "url": "https://outbrain.com/robots.txt",
+          "status": 301,
+          "location": "https://www.outbrain.com/robots.txt"
+        }
+      ],
+      "body_sha256": "8404cf565cf0e06053e02f263214fa83dd0afeed141fdb1d338465e8f6d3bc93",
+      "body": "User-agent: *\nCrawl-delay: 10\nDisallow: /blog/wp-json/\nDisallow: /blog/jp/wp-json/\nDisallow: /blog/de/wp-json/\nDisallow: /blog/fr/wp-json/\nDisallow: /webinars/wp-json/\nDisallow: /videos/\nDisallow: /legal/\nDisallow: /help/search\nDisallow: /help/*?s=\nDisallow: /help/*?q=\nDisallow: /help/*&s=\nDisallow: /help/*&q=\nDisallow: /help/*?*filter=\nDisallow: /help/*?*sort=\nDisallow: /help/*?*orderby=\nDisallow: /help/*?*order=\nDisallow: /help/*?*view=\nDisallow: /help/*?*utm_\nDisallow: /help/*?*gclid=\nDisallow: /help/*?*fbclid=\nDisallow: /help/*?*mc_cid=\nDisallow: /help/*?*mc_eid=\nDisallow: /help/*?*ref=\nDisallow: /help/*?*referrer=\nDisallow: /help/*?replytocom=\nDisallow: /help/*/trackback/\nDisallow: /help/trackback/\nDisallow: /help/*/feed/\nDisallow: /help/feed/\nDisallow: /help/*.atom$\nDisallow: /help/*.rss$\nDisallow: /help/*?print=\nDisallow: /help/*?preview=\nDisallow: /help/wp-admin/\nAllow: /help/wp-admin/admin-ajax.php\nDisallow: /help/wp-json/\nDisallow: /help/xmlrpc.php\nDisallow: /help/?p=\n\nUser-agent: bingbot\nCrawl-delay: 10\nDisallow: /blog/wp-json/\nDisallow: /blog/jp/wp-json/\nDisallow: /blog/de/wp-json/\nDisallow: /blog/fr/wp-json/\nDisallow: /webinars/wp-json/\nDisallow: /videos/\nDisallow: /legal/\nDisallow: /help/search\nDisallow: /help/*?s=\nDisallow: /help/*?q=\nDisallow: /help/*&s=\nDisallow: /help/*&q=\nDisallow: /help/*?*filter=\nDisallow: /help/*?*sort=\nDisallow: /help/*?*orderby=\nDisallow: /help/*?*order=\nDisallow: /help/*?*view=\nDisallow: /help/*?*utm_\nDisallow: /help/*?*gclid=\nDisallow: /help/*?*fbclid=\nDisallow: /help/*?*mc_cid=\nDisallow: /help/*?*mc_eid=\nDisallow: /help/*?*ref=\nDisallow: /help/*?*referrer=\nDisallow: /help/*?replytocom=\nDisallow: /help/*/trackback/\nDisallow: /help/trackback/\nDisallow: /help/*/feed/\nDisallow: /help/feed/\nDisallow: /help/*.atom$\nDisallow: /help/*.rss$\nDisallow: /help/*?print=\nDisallow: /help/*?preview=\nDisallow: /help/wp-admin/\nAllow: /help/wp-admin/admin-ajax.php\nDisallow: /help/wp-json/\nDisallow: /help/xmlrpc.php\nDisallow: /help/?p=\n\nUser-agent: Baiduspider\nDisallow: /help/\nAllow: /help/zh/\nCrawl-delay: 10\n\nUser-agent: Sogou web spider\nUser-agent: Sogou inst spider\nUser-agent: Sogou spider2\nDisallow: /help/\nAllow: /help/zh/\nCrawl-delay: 10\n\nUser-agent: HaoSouSpider\nUser-agent: 360Spider\nDisallow: /help/\nAllow: /help/zh/\nCrawl-delay: 10\n\nUser-agent: Yandex\nDisallow: /help/\n\nUser-agent: SeznamBot\nDisallow: /help/\n\nUser-agent: Yeti\nDisallow: /help/\n\n# User-agent: GPTBot\n# Disallow: /help/\n#\n# User-agent: ClaudeBot\n# Disallow: /help/\n#\n# User-agent: CCBot\n# Disallow: /help/\n#\n# User-agent: Google-Extended\n# Disallow: /help/\n#\n# User-agent: Bytespider\n# Disallow: /help/\n\nSitemap: https://www.outbrain.com/sitemap.xml\nSitemap: https://www.outbrain.com/help/sitemaps.xml"
+    },
+    {
+      "url": "https://www.outbrain.com/robots.txt",
+      "timestamp": "2026-11-12T21:12:38.237193+00:00",
+      "status": 200,
+      "decision": "parsed",
+      "final_url": "https://www.outbrain.com/robots.txt",
+      "redirect_chain": [],
+      "body_sha256": "8404cf565cf0e06053e02f263214fa83dd0afeed141fdb1d338465e8f6d3bc93",
+      "body": "User-agent: *\nCrawl-delay: 10\nDisallow: /blog/wp-json/\nDisallow: /blog/jp/wp-json/\nDisallow: /blog/de/wp-json/\nDisallow: /blog/fr/wp-json/\nDisallow: /webinars/wp-json/\nDisallow: /videos/\nDisallow: /legal/\nDisallow: /help/search\nDisallow: /help/*?s=\nDisallow: /help/*?q=\nDisallow: /help/*&s=\nDisallow: /help/*&q=\nDisallow: /help/*?*filter=\nDisallow: /help/*?*sort=\nDisallow: /help/*?*orderby=\nDisallow: /help/*?*order=\nDisallow: /help/*?*view=\nDisallow: /help/*?*utm_\nDisallow: /help/*?*gclid=\nDisallow: /help/*?*fbclid=\nDisallow: /help/*?*mc_cid=\nDisallow: /help/*?*mc_eid=\nDisallow: /help/*?*ref=\nDisallow: /help/*?*referrer=\nDisallow: /help/*?replytocom=\nDisallow: /help/*/trackback/\nDisallow: /help/trackback/\nDisallow: /help/*/feed/\nDisallow: /help/feed/\nDisallow: /help/*.atom$\nDisallow: /help/*.rss$\nDisallow: /help/*?print=\nDisallow: /help/*?preview=\nDisallow: /help/wp-admin/\nAllow: /help/wp-admin/admin-ajax.php\nDisallow: /help/wp-json/\nDisallow: /help/xmlrpc.php\nDisallow: /help/?p=\n\nUser-agent: bingbot\nCrawl-delay: 10\nDisallow: /blog/wp-json/\nDisallow: /blog/jp/wp-json/\nDisallow: /blog/de/wp-json/\nDisallow: /blog/fr/wp-json/\nDisallow: /webinars/wp-json/\nDisallow: /videos/\nDisallow: /legal/\nDisallow: /help/search\nDisallow: /help/*?s=\nDisallow: /help/*?q=\nDisallow: /help/*&s=\nDisallow: /help/*&q=\nDisallow: /help/*?*filter=\nDisallow: /help/*?*sort=\nDisallow: /help/*?*orderby=\nDisallow: /help/*?*order=\nDisallow: /help/*?*view=\nDisallow: /help/*?*utm_\nDisallow: /help/*?*gclid=\nDisallow: /help/*?*fbclid=\nDisallow: /help/*?*mc_cid=\nDisallow: /help/*?*mc_eid=\nDisallow: /help/*?*ref=\nDisallow: /help/*?*referrer=\nDisallow: /help/*?replytocom=\nDisallow: /help/*/trackback/\nDisallow: /help/trackback/\nDisallow: /help/*/feed/\nDisallow: /help/feed/\nDisallow: /help/*.atom$\nDisallow: /help/*.rss$\nDisallow: /help/*?print=\nDisallow: /help/*?preview=\nDisallow: /help/wp-admin/\nAllow: /help/wp-admin/admin-ajax.php\nDisallow: /help/wp-json/\nDisallow: /help/xmlrpc.php\nDisallow: /help/?p=\n\nUser-agent: Baiduspider\nDisallow: /help/\nAllow: /help/zh/\nCrawl-delay: 10\n\nUser-agent: Sogou web spider\nUser-agent: Sogou inst spider\nUser-agent: Sogou spider2\nDisallow: /help/\nAllow: /help/zh/\nCrawl-delay: 10\n\nUser-agent: HaoSouSpider\nUser-agent: 360Spider\nDisallow: /help/\nAllow: /help/zh/\nCrawl-delay: 10\n\nUser-agent: Yandex\nDisallow: /help/\n\nUser-agent: SeznamBot\nDisallow: /help/\n\nUser-agent: Yeti\nDisallow: /help/\n\n# User-agent: GPTBot\n# Disallow: /help/\n#\n# User-agent: ClaudeBot\n# Disallow: /help/\n#\n# User-agent: CCBot\n# Disallow: /help/\n#\n# User-agent: Google-Extended\n# Disallow: /help/\n#\n# User-agent: Bytespider\n# Disallow: /help/\n\nSitemap: https://www.outbrain.com/sitemap.xml\nSitemap: https://www.outbrain.com/help/sitemaps.xml"
+    }
+  ],
+  "eligible_pages": 13,
+  "canonical_origin": [
+    "https",
+    "www.outbrain.com",
+    443
+  ],
+  "stop_reason": "time_budget",
+  "elapsed_seconds": 240.91
+}

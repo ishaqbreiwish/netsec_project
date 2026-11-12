@@ -1,0 +1,40 @@
+{
+  "site": {
+    "rank": "3424",
+    "domain": "swrve.com",
+    "stratum": "1001-10000"
+  },
+  "rows": [
+    {
+      "rank": "3424",
+      "domain": "swrve.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://swrve.com/",
+      "depth": 0,
+      "parent_url": "",
+      "attempt": 1,
+      "timestamp": "2026-11-12T21:13:37.288852+00:00",
+      "error": "robots_denied",
+      "final_url": "https://swrve.com/",
+      "redirect_chain": [],
+      "html": false,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    }
+  ],
+  "robots": [
+    {
+      "url": "https://swrve.com/robots.txt",
+      "timestamp": "2026-11-12T21:13:37.494555+00:00",
+      "decision": "conservative_block_error",
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'swrve.com'. (_ssl.c:1129)>"
+    }
+  ],
+  "eligible_pages": 0,
+  "canonical_origin": null,
+  "stop_reason": "frontier_exhausted",
+  "elapsed_seconds": 0.21
+}

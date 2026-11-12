@@ -1,0 +1,42 @@
+{
+  "site": {
+    "rank": "49",
+    "domain": "x.com",
+    "stratum": "1-100"
+  },
+  "rows": [
+    {
+      "rank": "49",
+      "domain": "x.com",
+      "stratum": "1-100",
+      "requested_url": "https://x.com/",
+      "depth": 0,
+      "parent_url": "",
+      "attempt": 1,
+      "timestamp": "2026-11-12T21:07:20.067742+00:00",
+      "error": "robots_denied",
+      "final_url": "https://x.com/",
+      "redirect_chain": [],
+      "html": false,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    }
+  ],
+  "robots": [
+    {
+      "url": "https://x.com/robots.txt",
+      "timestamp": "2026-11-12T21:07:20.263566+00:00",
+      "status": 200,
+      "decision": "parsed",
+      "body_sha256": "b54dd4fefb8786b6441dc95ab04db1dbe4c6b9fcb5e7bb60d8381ab6e40989ff",
+      "body": "# Google / Bing Search Engine Robots\n# ==================================\n# Shared group so Googlebot and Bingbot always get the same rules.\nUser-agent: Googlebot\nUser-agent: Bingbot\n\nAllow: /*?s=\nAllow: /*?t=\nAllow: /*?ref_src=\nAllow: /hashtag/*?src=\nAllow: /search?q=%23\nAllow: /i/api/\n# Same length as the /*/likes and /*/media rules; RFC 9309 breaks the tie in\n# favor of Allow, so /i/api/ fetches stay crawlable.\nAllow: /i/api/*\nDisallow: /*?lang=en-ss\nAllow: /*?lang=\nDisallow: /search/realtime\nDisallow: /search/users\nDisallow: /search/*/grid\n\nDisallow: /*/analytics\nDisallow: /*/followers\nDisallow: /*/following\nDisallow: /*/verified_followers\n\nDisallow: /account/deactivated\nDisallow: /settings/deactivated\n\n# Only `*` and `$` are metacharacters here (RFC 9309); regex classes match\n# literally. /photo is anchored so /status/*/photo/1 media pages stay open.\nDisallow: /*/likes\nDisallow: /*/likes?\nDisallow: /*/retweets\nDisallow: /*/retweets?\nDisallow: /*/media\nDisallow: /*/media?\nDisallow: /*/photo$\nDisallow: /*/photo?\nAllow: /*?\n\nUser-agent: facebookexternalhit\n\nAllow: /*?lang=\nAllow: /*?s=\nAllow: /*&s=\nAllow: /*?t=\nAllow: /*?ref_src=\nAllow: /hashtag/*?src=\nAllow: /search?*cashtagRestId=\nAllow: /i/api/\nAllow: /i/api/*\nDisallow: /search?q=\nDisallow: /search/realtime\nDisallow: /search/users\nDisallow: /search/*/grid\n\nDisallow: /*?\nDisallow: /*/followers\nDisallow: /*/following\nDisallow: /*/verified_followers\n\nDisallow: /account/deactivated\nDisallow: /settings/deactivated\n\nDisallow: /*/likes\nDisallow: /*/likes?\nDisallow: /*/retweets\nDisallow: /*/retweets?\nDisallow: /*/media\nDisallow: /*/media?\nDisallow: /*/photo$\nDisallow: /*/photo?\n\nUser-Agent: Google-Extended\nDisallow: *\n\nUser-Agent: FacebookBot\nDisallow: *\n\nUser-agent: Discordbot\nDisallow: *\n\n# Meta AI / product crawlers (product tokens; versions like /1.1 are ignored\n# under RFC 9309 token matching).\nUser-agent: meta-webindexer\nDisallow: *\n\nUser-agent: meta-externalagent\nDisallow: *\n\nUser-agent: meta-externalads\nDisallow: *\n\nUser-agent: meta-externalfetcher\nDisallow: *\n\n# Shared AI training preference (IETF draft-kelley-aipref-training-preference-signal),\n# honored by Microsoft, Google, OpenAI, and Anthropic. This is a usage policy\n# token, not a crawler: it does not change crawl access, and `User-agent: *`\n# never matches it.\nUser-agent: __usage_ai-training\nDisallow: /\n\n# Every bot that might possibly read and respect this file\n# ========================================================\nUser-agent: *\nDisallow: /\n\n\n# WHAT-4882 - Keep notification-email links (/i/u) out of search results.\n# Named crawlers stay un-blocked on purpose: they must crawl /i/u to see its\n# X-Robots-Tag noindex (the robots.txt Noindex directive died in 2019).\nDisallow: /i/u\n\n# Wait 1 second between successive requests. See ONBOARD-2698 for details.\nCrawl-delay: 1\n\n# Independent of user agent. Links in the sitemap are full URLs using https://\n# and need to match the protocol of the sitemap.\nSitemap: https://x.com/sitemap.xml\nSitemap: https://x.com/sitemaps/finance0\n"
+    }
+  ],
+  "eligible_pages": 0,
+  "canonical_origin": null,
+  "stop_reason": "frontier_exhausted",
+  "elapsed_seconds": 0.2
+}

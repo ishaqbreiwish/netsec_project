@@ -1,0 +1,42 @@
+{
+  "site": {
+    "rank": "651",
+    "domain": "iso.org",
+    "stratum": "101-1000"
+  },
+  "rows": [
+    {
+      "rank": "651",
+      "domain": "iso.org",
+      "stratum": "101-1000",
+      "requested_url": "https://iso.org/",
+      "depth": 0,
+      "parent_url": "",
+      "attempt": 1,
+      "timestamp": "2026-11-12T21:07:26.821635+00:00",
+      "error": "robots_denied",
+      "final_url": "https://iso.org/",
+      "redirect_chain": [],
+      "html": false,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    }
+  ],
+  "robots": [
+    {
+      "url": "https://iso.org/robots.txt",
+      "timestamp": "2026-11-12T21:07:27.004498+00:00",
+      "status": 403,
+      "decision": "conservative_block_status_403",
+      "body_sha256": "7bc689760799d2ed3105ca367d96a5ae4d6fbfb333c1493b2ee5ff16090d5a9e",
+      "body": "<!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\"><meta name=\"robots\" content=\"noindex,nofollow\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><meta http-equiv=\"content-security-policy\" content=\"default-src &#39;none&#39;; script-src &#39;nonce-k3ZKWa0EFJfPXANYoxTAPU&#39; &#39;unsafe-eval&#39; https://challenges.cloudflare.com; script-src-attr &#39;none&#39;; style-src &#39;unsafe-inline&#39;; img-src &#39;self&#39; https://challenges.cloudflare.com; connect-src &#39;self&#39; https://challenges.cloudflare.com; frame-src &#39;self&#39; https://challenges.cloudflare.com blob:; child-src &#39;self&#39; https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri &#39;self&#39;\"><style>*{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131;font-family:system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,\"Noto Sans\",sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\"}body{display:flex;flex-direction:column;height:100vh;min-height:100vh}.main-content{margin:8rem auto;padding-left:1.5rem;max-width:60rem}@media (width <= 720px){.main-content{margin-top:4rem}}#challenge-error-text{background-image:url(\"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0IyMEYwMyIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjQjIwRjAzIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+\");background-repeat:no-repeat;background-size:contain;padding-left:34px}</style><meta http-equiv=\"refresh\" content=\"360\"></head><body><div class=\"main-wrapper\" role=\"main\"><div class=\"main-content\"><noscript><div class=\"h2\"><span id=\"challenge-error-text\">Enable JavaScript and cookies to continue</span></div></noscript></div></div><script nonce=\"k3ZKWa0EFJfPXANYoxTAPU\">(function(){window._cf_chl_opt = {cFPWv: 'g',cH: 'WJe_q0qY4sA5V0Kb0lX7.tycKhkvQZu3RiKFRm2djxI-1794517646-1.2.1.1-RJgRqcxRhuwyhzBZgv1X9dePVbV5ckRcIPmkaEP7ib_BQjgYgFDemywWUYqW9I6p',cITimeS: '1794517646',cN: 'k3ZKWa0EFJfPXANYoxTAPU',cRay: 'a598819d9b2bd6b5',cTplC:0,cTplO:0,cTplV:5,cType: 'managed',cUPMDTk:\"/robots.txt?__cf_chl_tk=tZt1RlWAYgeyQWiRO1qx2THMeOkWCa.tT.PDTnZLfSo-1794517646-1.0.1.1-9OU9p1FP.6EqwRJHTgxQ7G5LbJvAauhRJbbKIefbP_s\",cvId: '3',cZone: 'iso.org',fa:\"/robots.txt?__cf_chl_f_tk=tZt1RlWAYgeyQWiRO1qx2THMeOkWCa.tT.PDTnZLfSo-1794517646-1.0.1.1-9OU9p1FP.6EqwRJHTgxQ7G5LbJvAauhRJbbKIefbP_s\",md: '2dxI3xVfoaGO5tQi35bBUZv023dHmQn36BMdDlREIQw-1794517646-1.2.1.1-syLwW7Ew.FoKOu_v8JkvEHIAhF9.wW6BBOYk7QPI.KQfN9t.3a9l1zWPKzrqfQjqu.78pxVq8Nyhq0eq80Y_EI6x0ys1wz_AFf2wVt.qSRj9L10flYSVvffABQNVD0qNjdqZOpMmFYjYIuCY17g6hI6jUvMQii1h.HH4fnLK0sMJ59zv1zAvB.EzPOGU1vbMn38fUtf9cvHdzs54vHIfgB55kPPV0sDgLKG_PGlg8kfNSj4dfaZMW4A89jrJgNLky0C_setmKrXLfN8jGcBsZYDubbzLEX4_D2FQ5kY.vPtmvDNP4cdRIyIV.GS64D5c.nvnTbB9RYDv5hU7pfQUT7nd2_5FuvvrJPtr.QgOWkaBSgfi9SYSmZ2.jZQbS_dvqYas58ldd_kNCRANXJj_i_gmze6R2YYjzxD2C1fTzws09zEKK7KRKbSdhT9cyYmr5fEHbE72vN4rN8bMBTQUCVkcOV4Ay__diUdtIzeFY.uYIbsfj_ijeOaV1eOBf84O49WXL6F6iqKlx55L64YaGPL6UXOBUKTD0n96tSdYK7EjsD0jaPv7zV7XNJb7sb.RQcaPqw_IBUX2Omht.2e9DDVWsPQYEZO0SEO72.5s61ljPr025VTp.CyY.nHaJ27Yduw4WH1xQaqM6rE0ljYMTuU7Ckk8Ng2qnL7_ioQBFeltGcbEtfNXeulUYEzwt3C0V5I8Y4XjgE9bXxbWwpTTfO5x3dMpd6U0jqf6AlKu7GdhFin_nYQUqIhUaFml.Rb0dw5BjDboUHdirmwrHtNdG7ZmKMLa6FtHBlwh_jyjmxTbErgGkPez67zri3TpYyE916CZxA1df4RCITPSPkcMIwsx1pqrIEZKDbh8EgxHHG8b2KHk6KPTetZKc2zSmEUjRIQeOnpNMzF5R9oQE1KS.7xvixxkZDDqUshoUjmxCl6_IsFl8ZFEznJP1haIoX4S7U0y1giJ6_3b0qPyk0930eOEIOK1xqm4y_kCFcmGPRGF4UG6ga.zdjHyBIiv_OHr1s2uybtBxBTZl7a5fPOwlXIftWjYLHfHgFPRHLT72tBLuq7L.13Vo2xvELv9Yg8cp8X_HqW81iRqXgHjqR7alOUW9TGiF4uB6bqtxx60NUOgBtV2.8bFjmwORWPWGucmJ2w5C9afI0DeCsRAsADf3_sxD8xBW9HnBI8_0CQ0FbVJxWkRIy.kkgE7WZnIRH4e_gArJyxYOIXX6uGyfHd6nfi7WNKpzfiSUSQvx36w1zgq_gbEsjC9jQ5Ai5TEMoVEwaF.vX0IFRHxvYBp.yi2k1r7ckAujRWCDkTN_zsplsU',mdrd: '1JCpqQ93jEN8d2b5yusMNW.ro1PgDUq2JAKuv0VMSyI-1794517646-1.2.1.1-76sgRyChfUvP4_9y91BJR30ITc52xM_e1iS.SzhGdmyo4vTFsc7naZyRy2g7w1kZgEmTaBo8Zzptq6pmS4YShz8xp3L0CeJQzTmlh2qSJ54xBCDh5dIKTbVVvbS7xV_fNoxY9.enoMwNaN.phvKe9d03oH3OcD6PUU_8iM4ezoMAWQVHjp.eA2.sQBFGQLSs8O8cSWT3tBf9O1iVOgEM6lJBUBQDGULv3MbOJE4L2wIHIklSS13DC0Dy3a8ga9Waq8ZeKc2qZcVasEMSN3XAsQ8V09M0oZnC4Zi34wir8tYAd13oaQnBmTb_Y4ibeNfz5c5TPfQrVkHqxBeZ.cmTjw',};var a = document.createElement('script');a.nonce = 'k3ZKWa0EFJfPXANYoxTAPU';a.src = '/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=a598819d9b2bd6b5';window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, location.href.length - window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;if (window.history && window.history.replaceState) {var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;history.replaceState(null, null,\"/robots.txt?__cf_chl_rt_tk=tZt1RlWAYgeyQWiRO1qx2THMeOkWCa.tT.PDTnZLfSo-1794517646-1.0.1.1-9OU9p1FP.6EqwRJHTgxQ7G5LbJvAauhRJbbKIefbP_s\"+ window._cf_chl_opt.cOgUHash);a.onload = function() {history.replaceState(null, null, ogU);}}document.getElementsByTagName('head')[0].appendChild(a);}());</script></body></html>"
+    }
+  ],
+  "eligible_pages": 0,
+  "canonical_origin": null,
+  "stop_reason": "frontier_exhausted",
+  "elapsed_seconds": 0.18
+}

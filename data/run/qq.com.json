@@ -1,0 +1,86 @@
+{
+  "site": {
+    "rank": "92",
+    "domain": "qq.com",
+    "stratum": "1-100"
+  },
+  "rows": [
+    {
+      "rank": "92",
+      "domain": "qq.com",
+      "stratum": "1-100",
+      "requested_url": "https://qq.com/",
+      "depth": 0,
+      "parent_url": "",
+      "attempt": 1,
+      "timestamp": "2026-11-12T21:11:33.738654+00:00",
+      "final_url": "https://www.qq.com/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors none"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 129159,
+      "truncated": false,
+      "body_sha256": "ff4e9b8aa814c43b05081b149bb72af1c9cc09cb357ee53b7a799faf4183c216",
+      "redirect_chain": [
+        {
+          "url": "https://qq.com/",
+          "status": 302,
+          "location": "https://www.qq.com/",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": []
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "\u817e\u8baf\u7f51",
+      "duplicate_final": false,
+      "eligible": true
+    }
+  ],
+  "robots": [
+    {
+      "url": "https://qq.com/robots.txt",
+      "timestamp": "2026-11-12T21:11:32.253585+00:00",
+      "status": 200,
+      "decision": "parsed",
+      "final_url": "https://www.qq.com/robots.txt",
+      "redirect_chain": [
+        {
+          "url": "https://qq.com/robots.txt",
+          "status": 302,
+          "location": "https://www.qq.com/robots.txt"
+        }
+      ],
+      "body_sha256": "1f5d4ddc6513b31998acadbb56fe02e8b9eb244a3eb64d36f446f146e0bc3d5f",
+      "body": "User-agent: *\nDisallow: \nSitemap: https://news.qq.com/sitemap/index.xml"
+    },
+    {
+      "url": "https://www.qq.com/robots.txt",
+      "timestamp": "2026-11-12T21:11:33.738589+00:00",
+      "status": 200,
+      "decision": "parsed",
+      "final_url": "https://www.qq.com/robots.txt",
+      "redirect_chain": [],
+      "body_sha256": "1f5d4ddc6513b31998acadbb56fe02e8b9eb244a3eb64d36f446f146e0bc3d5f",
+      "body": "User-agent: *\nDisallow: \nSitemap: https://news.qq.com/sitemap/index.xml"
+    }
+  ],
+  "eligible_pages": 1,
+  "canonical_origin": [
+    "https",
+    "www.qq.com",
+    443
+  ],
+  "stop_reason": "frontier_exhausted",
+  "elapsed_seconds": 4.66
+}

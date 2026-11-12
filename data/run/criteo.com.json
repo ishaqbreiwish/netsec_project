@@ -1,0 +1,1418 @@
+{
+  "site": {
+    "rank": "228",
+    "domain": "criteo.com",
+    "stratum": "101-1000"
+  },
+  "rows": [
+    {
+      "rank": "228",
+      "domain": "criteo.com",
+      "stratum": "101-1000",
+      "requested_url": "https://criteo.com/",
+      "depth": 0,
+      "parent_url": "",
+      "attempt": 1,
+      "timestamp": "2026-11-12T21:11:58.726680+00:00",
+      "final_url": "https://www.criteo.com/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "script-src * 'unsafe-inline' 'unsafe-eval';"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=300"
+        ]
+      },
+      "body_bytes": 546626,
+      "truncated": false,
+      "body_sha256": "10ce82f3a3ea2e2517caf5a1743762788e206e3e97a684de36b16bc614d3497b",
+      "redirect_chain": [
+        {
+          "url": "https://criteo.com/",
+          "status": 301,
+          "location": "https://www.criteo.com/",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=300"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "The Global Commerce Intelligence Platform",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "228",
+      "domain": "criteo.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.criteo.com/news/press-releases/2026/11/criteo-expands-performance-ctv-capabilities-across-global-markets/",
+      "depth": 1,
+      "parent_url": "https://www.criteo.com/",
+      "attempt": 2,
+      "timestamp": "2026-11-12T21:11:59.625253+00:00",
+      "final_url": "https://www.criteo.com/news/press-releases/2026/11/criteo-expands-performance-ctv-capabilities-across-global-markets/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "script-src * 'unsafe-inline' 'unsafe-eval';"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=300"
+        ]
+      },
+      "body_bytes": 360171,
+      "truncated": false,
+      "body_sha256": "6efe1a4110720d898c759073e41847ba11b15bad536a319cf9e63f771cb9f164",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Criteo Expands Performance CTV Capabilities Across Global Markets | Criteo",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "228",
+      "domain": "criteo.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.criteo.com/talk-to-an-expert/",
+      "depth": 1,
+      "parent_url": "https://www.criteo.com/",
+      "attempt": 3,
+      "timestamp": "2026-11-12T21:12:00.019039+00:00",
+      "final_url": "https://www.criteo.com/talk-to-an-expert/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "script-src * 'unsafe-inline' 'unsafe-eval';"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=300"
+        ]
+      },
+      "body_bytes": 131622,
+      "truncated": false,
+      "body_sha256": "ce33a34c4dddfe5f279da2b482b5825367c8aae522567f486781f855c39e234b",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Talk to an expert | Criteo",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "228",
+      "domain": "criteo.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.criteo.com/platform/commerce-media-platform/",
+      "depth": 1,
+      "parent_url": "https://www.criteo.com/",
+      "attempt": 4,
+      "timestamp": "2026-11-12T21:12:00.585856+00:00",
+      "final_url": "https://www.criteo.com/platform/commerce-media-platform/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "script-src * 'unsafe-inline' 'unsafe-eval';"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=300"
+        ]
+      },
+      "body_bytes": 508881,
+      "truncated": false,
+      "body_sha256": "1f5e94c7dfd2fbfc5ce41a9faa739c34e3ffaf34c36973b8a7bb3f00e76987fc",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Commerce Media Platform | Criteo",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "228",
+      "domain": "criteo.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.criteo.com/de/platform/commerce-media-platform/",
+      "depth": 2,
+      "parent_url": "https://www.criteo.com/platform/commerce-media-platform/",
+      "attempt": 5,
+      "timestamp": "2026-11-12T21:12:00.869886+00:00",
+      "final_url": "https://www.criteo.com/de/platform/commerce-media-platform/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "script-src * 'unsafe-inline' 'unsafe-eval';"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=300"
+        ]
+      },
+      "body_bytes": 488793,
+      "truncated": false,
+      "body_sha256": "fddfc7c26b3d6d1caa4efd3adc8dd999bcda024fb8316473486fc74fbdac9e43",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Commerce Media Platform | DE - Criteo.com",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "228",
+      "domain": "criteo.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.criteo.com/es/platform/commerce-media-platform/",
+      "depth": 2,
+      "parent_url": "https://www.criteo.com/platform/commerce-media-platform/",
+      "attempt": 6,
+      "timestamp": "2026-11-12T21:12:01.618038+00:00",
+      "final_url": "https://www.criteo.com/es/platform/commerce-media-platform/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "script-src * 'unsafe-inline' 'unsafe-eval';"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=300"
+        ]
+      },
+      "body_bytes": 462571,
+      "truncated": false,
+      "body_sha256": "7b2bf0068f4b1eca4d747b58bbbad25014242762052344297a07be7c01d2ae5d",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Plataforma de Commerce Media | Criteo",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "228",
+      "domain": "criteo.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.criteo.com/fr/platform/commerce-media-platform/",
+      "depth": 2,
+      "parent_url": "https://www.criteo.com/platform/commerce-media-platform/",
+      "attempt": 7,
+      "timestamp": "2026-11-12T21:12:01.924753+00:00",
+      "final_url": "https://www.criteo.com/fr/platform/commerce-media-platform/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "script-src * 'unsafe-inline' 'unsafe-eval';"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=300"
+        ]
+      },
+      "body_bytes": 478170,
+      "truncated": false,
+      "body_sha256": "836f7d7d6e94c0750736b41bbd74cc33534c263d9230b98602cd42abba79a2e4",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Commerce Media Platform | FR - Criteo.com",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "228",
+      "domain": "criteo.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.criteo.com/solutions/addressability/",
+      "depth": 1,
+      "parent_url": "https://www.criteo.com/",
+      "attempt": 8,
+      "timestamp": "2026-11-12T21:12:02.631792+00:00",
+      "final_url": "https://www.criteo.com/solutions/addressability/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "script-src * 'unsafe-inline' 'unsafe-eval';"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=300"
+        ]
+      },
+      "body_bytes": 436827,
+      "truncated": false,
+      "body_sha256": "33a2d5913d847ee594cf9157639185339861d1d92380d2a7f4a24ec63a99e99f",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Addressability | Criteo",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "228",
+      "domain": "criteo.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.criteo.com/it/platform/commerce-media-platform/",
+      "depth": 2,
+      "parent_url": "https://www.criteo.com/platform/commerce-media-platform/",
+      "attempt": 9,
+      "timestamp": "2026-11-12T21:12:02.901228+00:00",
+      "final_url": "https://www.criteo.com/it/platform/commerce-media-platform/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "script-src * 'unsafe-inline' 'unsafe-eval';"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=300"
+        ]
+      },
+      "body_bytes": 459140,
+      "truncated": false,
+      "body_sha256": "e8540f5307b36580dccbdc27bc8f990fa6001c7b3e9b6524e3b3399d46d7aa23",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Commerce Media Platform | IT - Criteo",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "228",
+      "domain": "criteo.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.criteo.com/technology/commerce-ai/",
+      "depth": 1,
+      "parent_url": "https://www.criteo.com/",
+      "attempt": 10,
+      "timestamp": "2026-11-12T21:12:03.675843+00:00",
+      "final_url": "https://www.criteo.com/technology/commerce-ai/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "script-src * 'unsafe-inline' 'unsafe-eval';"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=300"
+        ]
+      },
+      "body_bytes": 423457,
+      "truncated": false,
+      "body_sha256": "a1bb65ad0a901ba00e7b77edbb1cab0c55f7a2f384b20291a815624aa9d02d32",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Commerce AI | Criteo",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "228",
+      "domain": "criteo.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.criteo.com/br/platform/commerce-media-platform/",
+      "depth": 2,
+      "parent_url": "https://www.criteo.com/platform/commerce-media-platform/",
+      "attempt": 11,
+      "timestamp": "2026-11-12T21:12:03.953021+00:00",
+      "final_url": "https://www.criteo.com/br/platform/commerce-media-platform/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "script-src * 'unsafe-inline' 'unsafe-eval';"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=300"
+        ]
+      },
+      "body_bytes": 463729,
+      "truncated": false,
+      "body_sha256": "e6f2c22794359db8b7a214ad77c0b46f9faa001b49a8e4a643e711f821ef4b9c",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Commerce Media Platform | BR - Criteo.com",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "228",
+      "domain": "criteo.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.criteo.com/blog/rethink-app-retargeting/",
+      "depth": 1,
+      "parent_url": "https://www.criteo.com/",
+      "attempt": 12,
+      "timestamp": "2026-11-12T21:12:04.716645+00:00",
+      "final_url": "https://www.criteo.com/blog/rethink-app-retargeting/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "script-src * 'unsafe-inline' 'unsafe-eval';"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=300"
+        ]
+      },
+      "body_bytes": 422619,
+      "truncated": false,
+      "body_sha256": "10480573dc9679ba9709700046d3603fbb84c8fdafd201fdc070a79857b1c6fe",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Rethink app retargeting: Unify web and app into one customer journey | Criteo",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "228",
+      "domain": "criteo.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.criteo.com/ru/platform/commerce-media-platform/",
+      "depth": 2,
+      "parent_url": "https://www.criteo.com/platform/commerce-media-platform/",
+      "attempt": 13,
+      "timestamp": "2026-11-12T21:12:05.007508+00:00",
+      "final_url": "https://www.criteo.com/ru/platform/commerce-media-platform/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "script-src * 'unsafe-inline' 'unsafe-eval';"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=300"
+        ]
+      },
+      "body_bytes": 483208,
+      "truncated": false,
+      "body_sha256": "89c00eed0f9fe5ee9e82c9e48f29313c66483fe5a14d545ea9326eacb7725bb1",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Commerce Media Platform | RU - Criteo.com",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "228",
+      "domain": "criteo.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.criteo.com/business/advertisers/",
+      "depth": 1,
+      "parent_url": "https://www.criteo.com/",
+      "attempt": 14,
+      "timestamp": "2026-11-12T21:12:05.512478+00:00",
+      "final_url": "https://www.criteo.com/business/advertisers/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "script-src * 'unsafe-inline' 'unsafe-eval';"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=300"
+        ]
+      },
+      "body_bytes": 499282,
+      "truncated": false,
+      "body_sha256": "6b40bd2d878f7609f1f10f75b13ddc2f6cc0310b21f66a1adab584e51e01137d",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Solutions for advertisers | Criteo",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "228",
+      "domain": "criteo.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.criteo.com/kr/platform/commerce-media-platform/",
+      "depth": 2,
+      "parent_url": "https://www.criteo.com/platform/commerce-media-platform/",
+      "attempt": 15,
+      "timestamp": "2026-11-12T21:12:05.966931+00:00",
+      "final_url": "https://www.criteo.com/kr/platform/commerce-media-platform/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "script-src * 'unsafe-inline' 'unsafe-eval';"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=300"
+        ]
+      },
+      "body_bytes": 477697,
+      "truncated": false,
+      "body_sha256": "738b961de64f7a8bddbfd0d28c3681838157e4479cd8e49849e0961a8a9de80f",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Commerce Media Platform | KR - Criteo",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "228",
+      "domain": "criteo.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.criteo.com/industry/beauty/",
+      "depth": 1,
+      "parent_url": "https://www.criteo.com/",
+      "attempt": 16,
+      "timestamp": "2026-11-12T21:12:06.829369+00:00",
+      "final_url": "https://www.criteo.com/industry/beauty/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "script-src * 'unsafe-inline' 'unsafe-eval';"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=300"
+        ]
+      },
+      "body_bytes": 465360,
+      "truncated": false,
+      "body_sha256": "dc343258bdb6048cd493ba1445e6bf94a3ecf7509d48427af0c7e3715ee4dcb5",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Solutions for Beauty brands | Criteo",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "228",
+      "domain": "criteo.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.criteo.com/cn/platform/commerce-media-platform/",
+      "depth": 2,
+      "parent_url": "https://www.criteo.com/platform/commerce-media-platform/",
+      "attempt": 17,
+      "timestamp": "2026-11-12T21:12:07.081290+00:00",
+      "final_url": "https://www.criteo.com/cn/platform/commerce-media-platform/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "script-src * 'unsafe-inline' 'unsafe-eval';"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=300"
+        ]
+      },
+      "body_bytes": 382189,
+      "truncated": false,
+      "body_sha256": "a37781722cb6403a1b8e11c40d6890c6cfe48bfe45f383b511c13080b369a6fe",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Commerce Media Platform - CN - Criteo",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "228",
+      "domain": "criteo.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.criteo.com/privacy/corporate-privacy-policy/",
+      "depth": 3,
+      "parent_url": "https://www.criteo.com/cn/platform/commerce-media-platform/",
+      "attempt": 18,
+      "timestamp": "2026-11-12T21:12:07.964090+00:00",
+      "final_url": "https://www.criteo.com/corporate-privacy-notice/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "script-src * 'unsafe-inline' 'unsafe-eval';"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=300"
+        ]
+      },
+      "body_bytes": 359455,
+      "truncated": false,
+      "body_sha256": "f31c78385b128f844c9574c7b576121c3e52131997e6989f14402025952cb6a1",
+      "redirect_chain": [
+        {
+          "url": "https://www.criteo.com/privacy/corporate-privacy-policy/",
+          "status": 301,
+          "location": "https://www.criteo.com/corporate-privacy-notice/",
+          "headers": {
+            "content-security-policy": [
+              "script-src * 'unsafe-inline' 'unsafe-eval';"
+            ],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=300"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Criteo Corporate Privacy Notice | Criteo",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "228",
+      "domain": "criteo.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.criteo.com/jp/corporate-privacy-notice/",
+      "depth": 4,
+      "parent_url": "https://www.criteo.com/corporate-privacy-notice/",
+      "attempt": 19,
+      "timestamp": "2026-11-12T21:12:08.574318+00:00",
+      "final_url": "https://www.criteo.com/jp/corporate-privacy-notice/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "script-src * 'unsafe-inline' 'unsafe-eval';"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=300"
+        ]
+      },
+      "body_bytes": 370286,
+      "truncated": false,
+      "body_sha256": "1ef17785e66a48f0dd592fa0630363b712f376bc1ba7dec785410c50428cff27",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Criteo\u30b3\u30fc\u30dd\u30ec\u30fc\u30c8\u30d7\u30e9\u30a4\u30d0\u30b7\u30fc\u901a\u77e5 | JP - Criteo.com",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "228",
+      "domain": "criteo.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.criteo.com/resources/",
+      "depth": 1,
+      "parent_url": "https://www.criteo.com/",
+      "attempt": 20,
+      "timestamp": "2026-11-12T21:12:09.343117+00:00",
+      "final_url": "https://www.criteo.com/resources/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "script-src * 'unsafe-inline' 'unsafe-eval';"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=300"
+        ]
+      },
+      "body_bytes": 365439,
+      "truncated": false,
+      "body_sha256": "d3461d909c1a50de1ff0560dc7639d3a06cb2cf09218c12a450a8bd1c8aee22c",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Digital Advertising Resources | Criteo",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "228",
+      "domain": "criteo.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.criteo.com/success-stories/ambiendo/",
+      "depth": 2,
+      "parent_url": "https://www.criteo.com/platform/commerce-media-platform/",
+      "attempt": 21,
+      "timestamp": "2026-11-12T21:12:09.756173+00:00",
+      "final_url": "https://www.criteo.com/success-stories/ambiendo/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "script-src * 'unsafe-inline' 'unsafe-eval';"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=300"
+        ]
+      },
+      "body_bytes": 356598,
+      "truncated": false,
+      "body_sha256": "0e33f292496e03486101d79f8acacba9c9d2638e8a6c4fbc083806c936cf70fa",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Ambiendo | Criteo Success Story",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "228",
+      "domain": "criteo.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.criteo.com/consumer-insights-dashboard/",
+      "depth": 1,
+      "parent_url": "https://www.criteo.com/",
+      "attempt": 22,
+      "timestamp": "2026-11-12T21:12:10.139517+00:00",
+      "final_url": "https://www.criteo.com/consumer-insights-dashboard/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "script-src * 'unsafe-inline' 'unsafe-eval';"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=300"
+        ]
+      },
+      "body_bytes": 487392,
+      "truncated": false,
+      "body_sha256": "58d58c656d7d5336ce5f55d1444391449a79292635ade60b2e3dd77b3172350d",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Consumer Trends | Criteo",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "228",
+      "domain": "criteo.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.criteo.com/tag/topic/first-party-data/",
+      "depth": 2,
+      "parent_url": "https://www.criteo.com/solutions/addressability/",
+      "attempt": 23,
+      "timestamp": "2026-11-12T21:12:10.745381+00:00",
+      "final_url": "https://www.criteo.com/tag/topic/first-party-data/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "script-src * 'unsafe-inline' 'unsafe-eval';"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=300"
+        ]
+      },
+      "body_bytes": 339103,
+      "truncated": false,
+      "body_sha256": "c0abfb34421fc214fdc33f54a6e37cb8f6b75f8d26ba6def1cf44b7bbb86c23b",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "First Party Data Archives | Criteo",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "228",
+      "domain": "criteo.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.criteo.com/digital-advertising-glossary/",
+      "depth": 1,
+      "parent_url": "https://www.criteo.com/",
+      "attempt": 24,
+      "timestamp": "2026-11-12T21:12:11.169226+00:00",
+      "final_url": "https://www.criteo.com/digital-advertising-glossary/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "script-src * 'unsafe-inline' 'unsafe-eval';"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=300"
+        ]
+      },
+      "body_bytes": 526991,
+      "truncated": false,
+      "body_sha256": "83ed14b2b25ab629af78c4ad041a7216dfbfe5f7b74bf1254fad55aeb47ce2ea",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Digital Advertising Glossary | Criteo",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "228",
+      "domain": "criteo.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.criteo.com/help-center/",
+      "depth": 1,
+      "parent_url": "https://www.criteo.com/",
+      "attempt": 25,
+      "timestamp": "2026-11-12T21:12:11.773284+00:00",
+      "final_url": "https://www.criteo.com/help-center/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "script-src * 'unsafe-inline' 'unsafe-eval';"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=300"
+        ]
+      },
+      "body_bytes": 384456,
+      "truncated": false,
+      "body_sha256": "d264c1192cbb1cc0597e2589e40929618e87fa0d1e41c36b159f0dfb052bdd6c",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Help Center | Criteo",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "228",
+      "domain": "criteo.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.criteo.com/events/",
+      "depth": 1,
+      "parent_url": "https://www.criteo.com/",
+      "attempt": 26,
+      "timestamp": "2026-11-12T21:12:12.279894+00:00",
+      "final_url": "https://www.criteo.com/events/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "script-src * 'unsafe-inline' 'unsafe-eval';"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=300"
+        ]
+      },
+      "body_bytes": 337227,
+      "truncated": false,
+      "body_sha256": "24adeea20044a702d979d83c381040e2bf58e06b3afc000c25de9de398d9def3",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Events | Criteo",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "228",
+      "domain": "criteo.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.criteo.com/digital-ad-formats/",
+      "depth": 1,
+      "parent_url": "https://www.criteo.com/",
+      "attempt": 27,
+      "timestamp": "2026-11-12T21:12:12.828098+00:00",
+      "final_url": "https://www.criteo.com/digital-ad-formats/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "script-src * 'unsafe-inline' 'unsafe-eval';"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=300"
+        ]
+      },
+      "body_bytes": 373306,
+      "truncated": false,
+      "body_sha256": "bce56a2a23966855273022c233fde6beaf611061ae1a4605aa37ee6ef3ba06e8",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Ad Formats | Criteo",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "228",
+      "domain": "criteo.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.criteo.com/ad-gallery/",
+      "depth": 1,
+      "parent_url": "https://www.criteo.com/",
+      "attempt": 28,
+      "timestamp": "2026-11-12T21:12:13.364758+00:00",
+      "final_url": "https://www.criteo.com/ad-gallery/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "script-src * 'unsafe-inline' 'unsafe-eval';"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=300"
+        ]
+      },
+      "body_bytes": 1577165,
+      "truncated": false,
+      "body_sha256": "6f529170451bb61d6202235cb445fff63f9a3473cbe06f340915ee6f2d4ec205",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Display Ad Gallery | Criteo",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "228",
+      "domain": "criteo.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.criteo.com/company/",
+      "depth": 1,
+      "parent_url": "https://www.criteo.com/",
+      "attempt": 29,
+      "timestamp": "2026-11-12T21:12:13.865755+00:00",
+      "final_url": "https://www.criteo.com/company/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "script-src * 'unsafe-inline' 'unsafe-eval';"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=300"
+        ]
+      },
+      "body_bytes": 379951,
+      "truncated": false,
+      "body_sha256": "f23c1afa0d7ca78c7e7bd87d06eff0f45abbfda39d53045022fa9d73d98e7881",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "We're Criteo, the Commerce Intelligence Platform",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "228",
+      "domain": "criteo.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.criteo.com/sustainability/",
+      "depth": 1,
+      "parent_url": "https://www.criteo.com/",
+      "attempt": 30,
+      "timestamp": "2026-11-12T21:12:14.387470+00:00",
+      "final_url": "https://www.criteo.com/sustainability/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "script-src * 'unsafe-inline' 'unsafe-eval';"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=300"
+        ]
+      },
+      "body_bytes": 440113,
+      "truncated": false,
+      "body_sha256": "6b58a787c42d8a0affcb4c538fcba7b80af2060cdb85ddd5f3730e4f36c115d1",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Sustainability | Criteo",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "228",
+      "domain": "criteo.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.criteo.com/trust-center/",
+      "depth": 1,
+      "parent_url": "https://www.criteo.com/",
+      "attempt": 31,
+      "timestamp": "2026-11-12T21:12:14.950523+00:00",
+      "final_url": "https://www.criteo.com/trust-center/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "script-src * 'unsafe-inline' 'unsafe-eval';"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=300"
+        ]
+      },
+      "body_bytes": 392326,
+      "truncated": false,
+      "body_sha256": "fe14a6eec370ea0f2239904e89deac9d685ee79e0885d0626157b49953fcc8c7",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Trust Center | Criteo",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "228",
+      "domain": "criteo.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.criteo.com/pl/",
+      "depth": 1,
+      "parent_url": "https://www.criteo.com/",
+      "attempt": 32,
+      "timestamp": "2026-11-12T21:12:15.768409+00:00",
+      "final_url": "https://www.criteo.com/pl/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "script-src * 'unsafe-inline' 'unsafe-eval';"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=300"
+        ]
+      },
+      "body_bytes": 158764,
+      "truncated": false,
+      "body_sha256": "758a4ec7074256b1b064ad5bdecc669e17bf74975409a19f03f0cd2a0a023981",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Home - PL - Criteo.com",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "228",
+      "domain": "criteo.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.criteo.com/resellers-program/",
+      "depth": 2,
+      "parent_url": "https://www.criteo.com/pl/",
+      "attempt": 33,
+      "timestamp": "2026-11-12T21:12:16.418839+00:00",
+      "final_url": "https://www.criteo.com/solutions/marketplace-performance-outcomes/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "script-src * 'unsafe-inline' 'unsafe-eval';"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=300"
+        ]
+      },
+      "body_bytes": 425202,
+      "truncated": false,
+      "body_sha256": "5964516c17413be7700e1e30941c0e50abd34caad3047715eedd4653daa63534",
+      "redirect_chain": [
+        {
+          "url": "https://www.criteo.com/resellers-program/",
+          "status": 301,
+          "location": "https://www.criteo.com/solutions/marketplace-performance-outcomes/",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=300"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Marketplace Performance Outcomes | Criteo",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "228",
+      "domain": "criteo.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.criteo.com/ccpa-website-privacy-policy/",
+      "depth": 2,
+      "parent_url": "https://www.criteo.com/pl/",
+      "attempt": 34,
+      "timestamp": "2026-11-12T21:12:17.417824+00:00",
+      "final_url": "https://www.criteo.com/privacy/ccpa-privacy-policy/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "script-src * 'unsafe-inline' 'unsafe-eval';"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=300"
+        ]
+      },
+      "body_bytes": 337089,
+      "truncated": false,
+      "body_sha256": "d435a5e8f53a58ce2196d2dc89afb352d72f81fff54c00078ba8be2436420f5e",
+      "redirect_chain": [
+        {
+          "url": "https://www.criteo.com/ccpa-website-privacy-policy/",
+          "status": 301,
+          "location": "https://www.criteo.com/privacy/ccpa-privacy-policy/",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=300"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "CCPA Privacy Policy | Criteo",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "228",
+      "domain": "criteo.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.criteo.com/agencies/",
+      "depth": 1,
+      "parent_url": "https://www.criteo.com/",
+      "attempt": 35,
+      "timestamp": "2026-11-12T21:12:18.061902+00:00",
+      "final_url": "https://www.criteo.com/agencies/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "script-src * 'unsafe-inline' 'unsafe-eval';"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=300"
+        ]
+      },
+      "body_bytes": 413957,
+      "truncated": false,
+      "body_sha256": "7223865a9c176d34f3efec2f70d2e141381487a60c5c3bb897e47196800f64da",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Agencies | Criteo",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "228",
+      "domain": "criteo.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.criteo.com/partners/",
+      "depth": 1,
+      "parent_url": "https://www.criteo.com/",
+      "attempt": 36,
+      "timestamp": "2026-11-12T21:12:18.536219+00:00",
+      "final_url": "https://www.criteo.com/partners/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "script-src * 'unsafe-inline' 'unsafe-eval';"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=300"
+        ]
+      },
+      "body_bytes": 380534,
+      "truncated": false,
+      "body_sha256": "ffe7efb60bcaa97e5a44fc3fadfcb1735979c2603eba605e7ef9e56c6df8a65f",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Partners | Criteo",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "228",
+      "domain": "criteo.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.criteo.com/corporate-privacy-notice/",
+      "depth": 1,
+      "parent_url": "https://www.criteo.com/",
+      "attempt": 37,
+      "timestamp": "2026-11-12T21:12:19.123903+00:00",
+      "final_url": "https://www.criteo.com/corporate-privacy-notice/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "script-src * 'unsafe-inline' 'unsafe-eval';"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=300"
+        ]
+      },
+      "body_bytes": 359455,
+      "truncated": false,
+      "body_sha256": "f31c78385b128f844c9574c7b576121c3e52131997e6989f14402025952cb6a1",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Criteo Corporate Privacy Notice | Criteo",
+      "duplicate_final": true,
+      "eligible": false
+    },
+    {
+      "rank": "228",
+      "domain": "criteo.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.criteo.com/criteo-privacy-guidelines-for-clients-and-publisher-partners/",
+      "depth": 1,
+      "parent_url": "https://www.criteo.com/",
+      "attempt": 38,
+      "timestamp": "2026-11-12T21:12:19.597623+00:00",
+      "final_url": "https://www.criteo.com/criteo-privacy-guidelines-for-clients-and-publisher-partners/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "script-src * 'unsafe-inline' 'unsafe-eval';"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=300"
+        ]
+      },
+      "body_bytes": 341978,
+      "truncated": false,
+      "body_sha256": "86948a00a68a0f2a871a97bec9bfb3d6e8788100238b1c8fda92a04f52ce05d7",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Criteo Privacy Guidelines for Clients and Publisher Partners | Criteo",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "228",
+      "domain": "criteo.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.criteo.com/security/",
+      "depth": 1,
+      "parent_url": "https://www.criteo.com/",
+      "attempt": 39,
+      "timestamp": "2026-11-12T21:12:20.527231+00:00",
+      "final_url": "https://www.criteo.com/trust-center/security/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "script-src * 'unsafe-inline' 'unsafe-eval';"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=300"
+        ]
+      },
+      "body_bytes": 334450,
+      "truncated": false,
+      "body_sha256": "a9c8accf83f9eda4acd92b02a66477619eae7e00f3c830af8052868a655eff29",
+      "redirect_chain": [
+        {
+          "url": "https://www.criteo.com/security/",
+          "status": 301,
+          "location": "https://www.criteo.com/trust-center/security/",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=300"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Criteo Security - Trust Overview",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "228",
+      "domain": "criteo.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.criteo.com/terms-and-conditions/",
+      "depth": 1,
+      "parent_url": "https://www.criteo.com/",
+      "attempt": 40,
+      "timestamp": "2026-11-12T21:12:21.122811+00:00",
+      "final_url": "https://www.criteo.com/terms-and-conditions/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "script-src * 'unsafe-inline' 'unsafe-eval';"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=300"
+        ]
+      },
+      "body_bytes": 348333,
+      "truncated": false,
+      "body_sha256": "7222b535c9e993e69e392524f9881b0accba411698340aca52b6359e5315c866",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Terms and Conditions | Criteo",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "228",
+      "domain": "criteo.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.criteo.com/legal/",
+      "depth": 1,
+      "parent_url": "https://www.criteo.com/",
+      "attempt": 41,
+      "timestamp": "2026-11-12T21:12:21.654358+00:00",
+      "final_url": "https://www.criteo.com/legal/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "script-src * 'unsafe-inline' 'unsafe-eval';"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=300"
+        ]
+      },
+      "body_bytes": 330110,
+      "truncated": false,
+      "body_sha256": "c58ef1d4106b4df2ceb47b0cd06a269f3da7d654d8db010422654811f8b37c62",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Legal Notice | Criteo",
+      "duplicate_final": false,
+      "eligible": true
+    }
+  ],
+  "robots": [
+    {
+      "url": "https://criteo.com/robots.txt",
+      "timestamp": "2026-11-12T21:11:58.096844+00:00",
+      "status": 200,
+      "decision": "parsed",
+      "final_url": "https://criteo.com/robots.txt",
+      "redirect_chain": [],
+      "body_sha256": "ed40002530b0bd8be508782552d6d35cd29d7b15ae6a3efbbd9317ea9381c5a8",
+      "body": "User-agent: *\n\n#Dynamic URLs\n\nDisallow: /*?industry=\nDisallow: /*?region=\nDisallow: /*?business=\nDisallow: /*?solution=\nDisallow: /*sortby=\nDisallow: /*?action=\nDisallow: /*?year=\n\n#Paths & URls\n# -----------------\n\nDisallow: /privacy/embed/\nDisallow: */media_category\nDisallow: */email-preference-center/\nDisallow: */process/*\nDisallow: /wp-json/\nDisallow: */criteo2017/fonts/*\nDisallow: */privacy/disable-criteo-services-on-internet-browsers/\nDisallow: /blocked-sitemap.xml\n\n# Prevents issues with GWT\n# -----------------\n\nAllow: /*.css$\nAllow: /*.js$\n\n#Trackbacks\n# -----------------\n\nDisallow: /trackback\nDisallow: /*trackback\nDisallow: /*trackback*\nDisallow: /*/trackback\n\n#Block feeds for crawlers\n# -----------------\n\nAllow: /feed/$\nDisallow: /feed/\nDisallow: /comments/feed/\nDisallow: /*/feed/$\nDisallow: /*/feed/rss/$\nDisallow: /*/trackback/$\nDisallow: /*/*/feed/$\nDisallow: /*/*/feed/rss/$\nDisallow: /*/*/trackback/$\nDisallow: /*/*/*/feed/$\nDisallow: /*/*/*/feed/rss/$\nDisallow: /*/*/*/trackback/$\n\n\n# Sitemap\n# -----------------\n\nSitemap: https://www.criteo.com/sitemap_index.xml\nSitemap: https://www.criteo.com/de/sitemap_index.xml\nSitemap: https://www.criteo.com/fr/sitemap_index.xml\nSitemap: https://www.criteo.com/br/sitemap_index.xml\nSitemap: https://www.criteo.com/jp/sitemap_index.xml\nSitemap: https://www.criteo.com/kr/sitemap_index.xml\nSitemap: https://www.criteo.com/es/sitemap_index.xml\nSitemap: https://www.criteo.com/it/sitemap_index.xml\nSitemap: https://www.criteo.com/ru/sitemap_index.xml\nSitemap: https://www.criteo.com/cn/sitemap_index.xml\n\n# Bots list to exclude\n# --------------------------------\n\nUser-agent: MSIECrawler\nUser-agent: WebCopier\nUser-agent: HTTrack\nUser-agent: Microsoft.URL.Control\nUser-agent: libwww\nUser-agent: Nuclei\nUser-agent: WikiDo\nUser-agent: Riddler\nUser-agent: PetalBot\nUser-agent: Zoominfobot\nUser-agent: Go-http-client\nUser-agent: Node/simplecrawler\nUser-agent: CazoodleBot\nUser-agent: dotbot/1.0\nUser-agent: Gigabot\nUser-agent: Barkrowler\nUser-agent: BLEXBot\nUser-agent: magpie-crawler\nDisallow: /"
+    },
+    {
+      "url": "https://www.criteo.com/robots.txt",
+      "timestamp": "2026-11-12T21:11:58.726628+00:00",
+      "status": 200,
+      "decision": "parsed",
+      "final_url": "https://www.criteo.com/robots.txt",
+      "redirect_chain": [],
+      "body_sha256": "ed40002530b0bd8be508782552d6d35cd29d7b15ae6a3efbbd9317ea9381c5a8",
+      "body": "User-agent: *\n\n#Dynamic URLs\n\nDisallow: /*?industry=\nDisallow: /*?region=\nDisallow: /*?business=\nDisallow: /*?solution=\nDisallow: /*sortby=\nDisallow: /*?action=\nDisallow: /*?year=\n\n#Paths & URls\n# -----------------\n\nDisallow: /privacy/embed/\nDisallow: */media_category\nDisallow: */email-preference-center/\nDisallow: */process/*\nDisallow: /wp-json/\nDisallow: */criteo2017/fonts/*\nDisallow: */privacy/disable-criteo-services-on-internet-browsers/\nDisallow: /blocked-sitemap.xml\n\n# Prevents issues with GWT\n# -----------------\n\nAllow: /*.css$\nAllow: /*.js$\n\n#Trackbacks\n# -----------------\n\nDisallow: /trackback\nDisallow: /*trackback\nDisallow: /*trackback*\nDisallow: /*/trackback\n\n#Block feeds for crawlers\n# -----------------\n\nAllow: /feed/$\nDisallow: /feed/\nDisallow: /comments/feed/\nDisallow: /*/feed/$\nDisallow: /*/feed/rss/$\nDisallow: /*/trackback/$\nDisallow: /*/*/feed/$\nDisallow: /*/*/feed/rss/$\nDisallow: /*/*/trackback/$\nDisallow: /*/*/*/feed/$\nDisallow: /*/*/*/feed/rss/$\nDisallow: /*/*/*/trackback/$\n\n\n# Sitemap\n# -----------------\n\nSitemap: https://www.criteo.com/sitemap_index.xml\nSitemap: https://www.criteo.com/de/sitemap_index.xml\nSitemap: https://www.criteo.com/fr/sitemap_index.xml\nSitemap: https://www.criteo.com/br/sitemap_index.xml\nSitemap: https://www.criteo.com/jp/sitemap_index.xml\nSitemap: https://www.criteo.com/kr/sitemap_index.xml\nSitemap: https://www.criteo.com/es/sitemap_index.xml\nSitemap: https://www.criteo.com/it/sitemap_index.xml\nSitemap: https://www.criteo.com/ru/sitemap_index.xml\nSitemap: https://www.criteo.com/cn/sitemap_index.xml\n\n# Bots list to exclude\n# --------------------------------\n\nUser-agent: MSIECrawler\nUser-agent: WebCopier\nUser-agent: HTTrack\nUser-agent: Microsoft.URL.Control\nUser-agent: libwww\nUser-agent: Nuclei\nUser-agent: WikiDo\nUser-agent: Riddler\nUser-agent: PetalBot\nUser-agent: Zoominfobot\nUser-agent: Go-http-client\nUser-agent: Node/simplecrawler\nUser-agent: CazoodleBot\nUser-agent: dotbot/1.0\nUser-agent: Gigabot\nUser-agent: Barkrowler\nUser-agent: BLEXBot\nUser-agent: magpie-crawler\nDisallow: /"
+    }
+  ],
+  "eligible_pages": 40,
+  "canonical_origin": [
+    "https",
+    "www.criteo.com",
+    443
+  ],
+  "stop_reason": "page_budget",
+  "elapsed_seconds": 24.27
+}

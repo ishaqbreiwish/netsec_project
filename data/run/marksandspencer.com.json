@@ -1,0 +1,1641 @@
+{
+  "site": {
+    "rank": "4817",
+    "domain": "marksandspencer.com",
+    "stratum": "1001-10000"
+  },
+  "rows": [
+    {
+      "rank": "4817",
+      "domain": "marksandspencer.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://marksandspencer.com/",
+      "depth": 0,
+      "parent_url": "",
+      "attempt": 1,
+      "timestamp": "2026-11-12T21:13:45.869636+00:00",
+      "final_url": "https://www.marksandspencer.com/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'none'; base-uri 'none'; img-src 'self' data: lantern.roeye.com *.bing.com *.bing.net images.ctfassets.net *.contentsquare.net cm.everesttech.net dpm.demdex.net *.doubleclick.net *.facebook.com *.facebook.net *.google.com *.google.co.uk *.google.ie *.googlesyndication.com *.googleadservices.com *.googletagmanager.com *.iseaskies.com *.marksandspencer.com *.marksandspencer.app *.cxnmarksandspencer.com *.mparticle.com *.onetrust.com *.reddit.com analytics.tiktok.com match.adsrvr.org; connect-src 'self' ms-gb.attn.tv *.attentivemobile.com the.sciencebehindecommerce.com www.wepowerconnections.com *.bing.com *.bing.net *.contentsquare.net dpm.demdex.net *.doubleclick.net *.dynatrace.com *.facebook.com *.facebook.net *.google.com *.google.co.uk *.google.ie *.googlesyndication.com *.google-analytics.com *.googleadservices.com *.googletagmanager.com translate.googleapis.com obseu.iseaskies.com *.medallia.eu *.marksandspencer.app *.marksandspencer.com *.mnscorp.net *.mparticle.com *.onetrust.com *.optimizely.com *.zaius.eu s.pinimg.com ct.pinterest.com *.reddit.com *.swrve.com api.taggstar.com *.tiktok.com *.tiktokw.us tags.tiqcdn.com banner.appsflyersdk.com p11.techlab-cdn.com; child-src 'none'; manifest-src 'self' *.marksandspencer.com; frame-ancestors 'self'; form-action 'self' www.facebook.com; object-src 'none'; worker-src blob: 'self'; script-src 'self' 'unsafe-inline' cdn.attn.tv *.dwin1.com *.roeyecdn.com the.sciencebehindecommerce.com *.bing.com *.bing.net blob: *.contentsquare.net *.doubleclick.net js-cdn.dynatrace.com *.facebook.com *.facebook.net *.getamigo.io *.googletagmanager.com *.iseaskies.com *.medallia.eu *.marksandspencer.com *.mparticle.com *.onetrust.com *.optimizely.com *.zaius.eu s.pinimg.com ct.pinterest.com *.redditstatic.com *.tiktok.com tags.tiqcdn.com banner.appsflyersdk.com p11.techlab-cdn.com; style-src 'self' 'unsafe-inline' *.bing.com *.bing.net fonts.googleapis.com *.optimizely.com; frame-src *.awin1.com *.demdex.net *.doubleclick.net www.facebook.com servedby.flashtalking.com *.googletagmanager.com *.medallia.eu *.optimizely.com ct.pinterest.com; font-src *.contentsquare.net fonts.gstatic.com *.iseaskies.com *.marksandspencer.com; media-src *.marksandspencer.app blob:; upgrade-insecure-requests"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=15768000"
+        ]
+      },
+      "body_bytes": 577929,
+      "truncated": false,
+      "body_sha256": "0a6567380cd8b4014588c29acd9e2faa894b537819a60c43196d797d2d550dfb",
+      "redirect_chain": [
+        {
+          "url": "https://marksandspencer.com/",
+          "status": 301,
+          "location": "https://www.marksandspencer.com/",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": []
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "M&S | Marks & Spencer | Fashion, Home, Beauty, Food & Gifts",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "4817",
+      "domain": "marksandspencer.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.marksandspencer.com/l/offers/home-offers",
+      "depth": 1,
+      "parent_url": "https://www.marksandspencer.com/",
+      "attempt": 2,
+      "timestamp": "2026-11-12T21:13:46.796102+00:00",
+      "final_url": "https://www.marksandspencer.com/l/offers/home-offers",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'none'; base-uri 'none'; img-src 'self' data: lantern.roeye.com *.bing.com *.bing.net images.ctfassets.net *.contentsquare.net cm.everesttech.net dpm.demdex.net *.doubleclick.net *.facebook.com *.facebook.net *.google.com *.google.co.uk *.google.ie *.googlesyndication.com *.googleadservices.com *.googletagmanager.com *.iseaskies.com *.marksandspencer.com *.marksandspencer.app *.cxnmarksandspencer.com *.mparticle.com *.onetrust.com *.reddit.com analytics.tiktok.com match.adsrvr.org edge.curalate.com; connect-src 'self' ms-gb.attn.tv *.attentivemobile.com the.sciencebehindecommerce.com www.wepowerconnections.com *.bing.com *.bing.net *.contentsquare.net dpm.demdex.net *.doubleclick.net *.dynatrace.com *.facebook.com *.facebook.net *.google.com *.google.co.uk *.google.ie *.googlesyndication.com *.google-analytics.com *.googleadservices.com *.googletagmanager.com translate.googleapis.com obseu.iseaskies.com *.medallia.eu *.marksandspencer.app *.marksandspencer.com *.mnscorp.net *.mparticle.com *.onetrust.com *.optimizely.com *.zaius.eu s.pinimg.com ct.pinterest.com *.reddit.com *.swrve.com api.taggstar.com *.tiktok.com *.tiktokw.us tags.tiqcdn.com edge.curalate.com *.foundit.com p11.techlab-cdn.com; child-src 'none'; manifest-src 'self' *.marksandspencer.com; frame-ancestors 'self'; form-action 'self' www.facebook.com; object-src 'none'; worker-src blob: 'self'; script-src 'self' 'unsafe-inline' cdn.attn.tv *.dwin1.com *.roeyecdn.com the.sciencebehindecommerce.com *.bing.com *.bing.net blob: *.contentsquare.net *.doubleclick.net js-cdn.dynatrace.com *.facebook.com *.facebook.net *.getamigo.io *.googletagmanager.com *.iseaskies.com *.medallia.eu *.marksandspencer.com *.mparticle.com *.onetrust.com *.optimizely.com *.zaius.eu s.pinimg.com ct.pinterest.com *.redditstatic.com *.tiktok.com tags.tiqcdn.com *.curalate.com p11.techlab-cdn.com; style-src 'self' 'unsafe-inline' *.bing.com *.bing.net fonts.googleapis.com *.optimizely.com; frame-src *.awin1.com *.demdex.net *.doubleclick.net www.facebook.com servedby.flashtalking.com *.googletagmanager.com *.medallia.eu *.optimizely.com ct.pinterest.com; font-src *.contentsquare.net fonts.gstatic.com *.iseaskies.com *.marksandspencer.com; media-src *.marksandspencer.app *.curalate.com; upgrade-insecure-requests"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=15768000"
+        ]
+      },
+      "body_bytes": 1754208,
+      "truncated": false,
+      "body_sha256": "2d5ee1f11d92ff4eace9fd858d9b907afc15dccd1fe77eb4d3192784afd86836",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Home Offers at M&S",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "4817",
+      "domain": "marksandspencer.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.marksandspencer.com/set-of-4-etched-tumblers/p/hbp60772621",
+      "depth": 2,
+      "parent_url": "https://www.marksandspencer.com/l/offers/home-offers",
+      "attempt": 3,
+      "timestamp": "2026-11-12T21:13:47.632198+00:00",
+      "final_url": "https://www.marksandspencer.com/set-of-4-etched-tumblers/p/hbp60772621",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'none'; base-uri 'none'; img-src 'self' data: lantern.roeye.com *.bing.com *.bing.net images.ctfassets.net *.contentsquare.net cm.everesttech.net dpm.demdex.net *.doubleclick.net *.facebook.com *.facebook.net *.google.com *.google.co.uk *.google.ie *.googlesyndication.com *.googleadservices.com *.googletagmanager.com *.iseaskies.com *.marksandspencer.com *.marksandspencer.app *.cxnmarksandspencer.com *.mparticle.com *.onetrust.com *.reddit.com analytics.tiktok.com match.adsrvr.org edge.curalate.com; connect-src 'self' ms-gb.attn.tv *.attentivemobile.com the.sciencebehindecommerce.com www.wepowerconnections.com *.bing.com *.bing.net *.contentsquare.net dpm.demdex.net *.doubleclick.net *.dynatrace.com *.facebook.com *.facebook.net *.google.com *.google.co.uk *.google.ie *.googlesyndication.com *.google-analytics.com *.googleadservices.com *.googletagmanager.com translate.googleapis.com obseu.iseaskies.com *.medallia.eu *.marksandspencer.app *.marksandspencer.com *.mnscorp.net *.mparticle.com *.onetrust.com *.optimizely.com *.zaius.eu s.pinimg.com ct.pinterest.com *.reddit.com *.swrve.com api.taggstar.com *.tiktok.com *.tiktokw.us tags.tiqcdn.com edge.curalate.com *.foundit.com mas-consumer.truefitcorp.com mas-consumer.staging.truefitcorp.com p11.techlab-cdn.com; child-src 'none'; manifest-src 'self' *.marksandspencer.com; frame-ancestors 'self'; form-action 'self' www.facebook.com; object-src 'none'; worker-src blob: 'self'; script-src 'self' 'unsafe-inline' cdn.attn.tv *.dwin1.com *.roeyecdn.com the.sciencebehindecommerce.com *.bing.com *.bing.net blob: *.contentsquare.net *.doubleclick.net js-cdn.dynatrace.com *.facebook.com *.facebook.net *.getamigo.io *.googletagmanager.com *.iseaskies.com *.medallia.eu *.marksandspencer.com *.mparticle.com *.onetrust.com *.optimizely.com *.zaius.eu s.pinimg.com ct.pinterest.com *.redditstatic.com *.tiktok.com tags.tiqcdn.com *.curalate.com mas-cdn.truefitcorp.com p11.techlab-cdn.com; style-src 'self' 'unsafe-inline' *.bing.com *.bing.net fonts.googleapis.com *.optimizely.com; frame-src *.awin1.com *.demdex.net *.doubleclick.net www.facebook.com servedby.flashtalking.com *.googletagmanager.com *.medallia.eu *.optimizely.com ct.pinterest.com *.truefitcorp.com; font-src *.contentsquare.net fonts.gstatic.com *.iseaskies.com *.marksandspencer.com; media-src *.marksandspencer.app *.curalate.com; upgrade-insecure-requests"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=15768000"
+        ]
+      },
+      "body_bytes": 569568,
+      "truncated": false,
+      "body_sha256": "f7a0e0d47d891e72ae52c42066f8779dc8b361fae15bb7667189d574e4159a3e",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Set of 4 Etched Tumblers by M&S X Kelly Hoppen at M&S",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "4817",
+      "domain": "marksandspencer.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.marksandspencer.com/c/help/delivery",
+      "depth": 3,
+      "parent_url": "https://www.marksandspencer.com/set-of-4-etched-tumblers/p/hbp60772621",
+      "attempt": 4,
+      "timestamp": "2026-11-12T21:13:49.094414+00:00",
+      "final_url": "https://www.marksandspencer.com/help-and-support/collection-and-delivery",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'none'; base-uri 'none'; img-src 'self' data: *.marksandspencer.com *.marksandspencer.app *.cxnmarksandspencer.com *.onetrust.com images.ctfassets.net cm.everesttech.net dpm.demdex.net *.google.com *.google.co.uk *.google.ie *.googlesyndication.com *.googleadservices.com *.googletagmanager.com *.doubleclick.net *.facebook.com *.facebook.net *.bing.com *.bing.net analytics.tiktok.com match.adsrvr.org *.reddit.com *.mparticle.com *.contentsquare.net *.iseaskies.com lantern.roeye.com; connect-src 'self' *.marksandspencer.app *.marksandspencer.com *.mnscorp.net tags.tiqcdn.com *.onetrust.com *.dynatrace.com *.optimizely.com *.zaius.eu *.medallia.eu dpm.demdex.net *.google.com *.google.co.uk *.google.ie *.googlesyndication.com *.google-analytics.com *.googleadservices.com *.googletagmanager.com *.doubleclick.net *.facebook.com *.facebook.net *.bing.com *.bing.net s.pinimg.com ct.pinterest.com *.tiktok.com *.tiktokw.us *.reddit.com *.mparticle.com *.contentsquare.net obseu.iseaskies.com ms-gb.attn.tv *.attentivemobile.com the.sciencebehindecommerce.com www.wepowerconnections.com *.ccaiplatform.com *.pgsdemo.com *.twilio.com wss://*.twilio.com p11.techlab-cdn.com; child-src 'none'; manifest-src 'self' *.marksandspencer.com; frame-ancestors 'self'; form-action 'self' www.facebook.com; object-src 'none'; worker-src blob:; script-src 'self' 'unsafe-inline' *.marksandspencer.com tags.tiqcdn.com *.onetrust.com js-cdn.dynatrace.com *.optimizely.com *.zaius.eu *.medallia.eu *.googletagmanager.com *.doubleclick.net *.facebook.com *.facebook.net *.bing.com *.bing.net s.pinimg.com ct.pinterest.com *.tiktok.com *.redditstatic.com *.mparticle.com blob: *.contentsquare.net *.iseaskies.com cdn.attn.tv *.dwin1.com *.roeyecdn.com the.sciencebehindecommerce.com *.getamigo.io *.ccaiplatform.com *.pgsdemo.com *.pagescdn.com p11.techlab-cdn.com; style-src 'self' 'unsafe-inline' *.optimizely.com fonts.googleapis.com *.bing.com *.bing.net; media-src *.marksandspencer.app *.ccaiplatform.com; font-src *.marksandspencer.com fonts.gstatic.com *.contentsquare.net *.iseaskies.com; frame-src *.optimizely.com *.medallia.eu *.demdex.net *.googletagmanager.com *.doubleclick.net www.facebook.com ct.pinterest.com *.awin1.com servedby.flashtalking.com *.ccaiplatform.com *.pgsdemo.com *.pagescdn.com; upgrade-insecure-requests"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=15768000"
+        ]
+      },
+      "body_bytes": 600677,
+      "truncated": false,
+      "body_sha256": "5891c894c7d5a6c0c338e3a1948674629dba333de4cf64f3e6a4f31de42dd3cd",
+      "redirect_chain": [
+        {
+          "url": "https://www.marksandspencer.com/c/help/delivery",
+          "status": 301,
+          "location": "https://www.marksandspencer.com/c/help-and-support/collection-and-delivery",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=15768000"
+            ]
+          }
+        },
+        {
+          "url": "https://www.marksandspencer.com/c/help-and-support/collection-and-delivery",
+          "status": 302,
+          "location": "/help-and-support/collection-and-delivery",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=15768000"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Collection and Delivery | M&S",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "4817",
+      "domain": "marksandspencer.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.marksandspencer.com/help-and-support/store-information",
+      "depth": 4,
+      "parent_url": "https://www.marksandspencer.com/help-and-support/collection-and-delivery",
+      "attempt": 5,
+      "timestamp": "2026-11-12T21:13:50.421555+00:00",
+      "final_url": "https://www.marksandspencer.com/help-and-support/store-information",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'none'; base-uri 'none'; img-src 'self' data: *.marksandspencer.com *.marksandspencer.app *.cxnmarksandspencer.com *.onetrust.com images.ctfassets.net cm.everesttech.net dpm.demdex.net *.google.com *.google.co.uk *.google.ie *.googlesyndication.com *.googleadservices.com *.googletagmanager.com *.doubleclick.net *.facebook.com *.facebook.net *.bing.com *.bing.net analytics.tiktok.com match.adsrvr.org *.reddit.com *.mparticle.com *.contentsquare.net *.iseaskies.com lantern.roeye.com; connect-src 'self' *.marksandspencer.app *.marksandspencer.com *.mnscorp.net tags.tiqcdn.com *.onetrust.com *.dynatrace.com *.optimizely.com *.zaius.eu *.medallia.eu dpm.demdex.net *.google.com *.google.co.uk *.google.ie *.googlesyndication.com *.google-analytics.com *.googleadservices.com *.googletagmanager.com *.doubleclick.net *.facebook.com *.facebook.net *.bing.com *.bing.net s.pinimg.com ct.pinterest.com *.tiktok.com *.tiktokw.us *.reddit.com *.mparticle.com *.contentsquare.net obseu.iseaskies.com ms-gb.attn.tv *.attentivemobile.com the.sciencebehindecommerce.com www.wepowerconnections.com *.ccaiplatform.com *.pgsdemo.com *.twilio.com wss://*.twilio.com p11.techlab-cdn.com; child-src 'none'; manifest-src 'self' *.marksandspencer.com; frame-ancestors 'self'; form-action 'self' www.facebook.com; object-src 'none'; worker-src blob:; script-src 'self' 'unsafe-inline' *.marksandspencer.com tags.tiqcdn.com *.onetrust.com js-cdn.dynatrace.com *.optimizely.com *.zaius.eu *.medallia.eu *.googletagmanager.com *.doubleclick.net *.facebook.com *.facebook.net *.bing.com *.bing.net s.pinimg.com ct.pinterest.com *.tiktok.com *.redditstatic.com *.mparticle.com blob: *.contentsquare.net *.iseaskies.com cdn.attn.tv *.dwin1.com *.roeyecdn.com the.sciencebehindecommerce.com *.getamigo.io *.ccaiplatform.com *.pgsdemo.com *.pagescdn.com p11.techlab-cdn.com; style-src 'self' 'unsafe-inline' *.optimizely.com fonts.googleapis.com *.bing.com *.bing.net; media-src *.marksandspencer.app *.ccaiplatform.com; font-src *.marksandspencer.com fonts.gstatic.com *.contentsquare.net *.iseaskies.com; frame-src *.optimizely.com *.medallia.eu *.demdex.net *.googletagmanager.com *.doubleclick.net www.facebook.com ct.pinterest.com *.awin1.com servedby.flashtalking.com *.ccaiplatform.com *.pgsdemo.com *.pagescdn.com; upgrade-insecure-requests"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=15768000"
+        ]
+      },
+      "body_bytes": 498899,
+      "truncated": false,
+      "body_sha256": "8ca8498e6f7571bd2b94efd5cd62a9fcbccd111a0cb658e936fe2a5ec93a8343",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Store Information | M&S",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "4817",
+      "domain": "marksandspencer.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.marksandspencer.com/joinsparks",
+      "depth": 1,
+      "parent_url": "https://www.marksandspencer.com/",
+      "attempt": 6,
+      "timestamp": "2026-11-12T21:13:51.357422+00:00",
+      "final_url": "https://www.marksandspencer.com/joinsparks",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'none'; base-uri 'none'; img-src 'self' data: lantern.roeye.com *.bing.com *.bing.net images.ctfassets.net *.contentsquare.net cm.everesttech.net dpm.demdex.net *.doubleclick.net *.facebook.com *.facebook.net *.google.com *.google.co.uk *.google.ie *.googlesyndication.com *.googleadservices.com *.googletagmanager.com *.iseaskies.com *.marksandspencer.com *.marksandspencer.app *.cxnmarksandspencer.com *.mparticle.com *.onetrust.com *.reddit.com analytics.tiktok.com match.adsrvr.org; connect-src 'self' ms-gb.attn.tv *.attentivemobile.com the.sciencebehindecommerce.com www.wepowerconnections.com *.bing.com *.bing.net *.contentsquare.net dpm.demdex.net *.doubleclick.net *.dynatrace.com *.facebook.com *.facebook.net *.google.com *.google.co.uk *.google.ie *.googlesyndication.com *.google-analytics.com *.googleadservices.com *.googletagmanager.com obseu.iseaskies.com *.medallia.eu *.marksandspencer.app *.marksandspencer.com *.mnscorp.net *.mparticle.com *.onetrust.com *.optimizely.com *.zaius.eu s.pinimg.com ct.pinterest.com *.reddit.com *.tiktok.com *.tiktokw.us tags.tiqcdn.com p11.techlab-cdn.com; child-src 'none'; manifest-src 'self' *.marksandspencer.com; frame-ancestors 'self'; form-action 'self' www.facebook.com; object-src 'none'; worker-src blob:; script-src 'self' 'unsafe-inline' cdn.attn.tv *.dwin1.com *.roeyecdn.com the.sciencebehindecommerce.com *.bing.com *.bing.net blob: *.contentsquare.net *.doubleclick.net js-cdn.dynatrace.com *.facebook.com *.facebook.net *.googletagmanager.com *.iseaskies.com *.medallia.eu *.marksandspencer.com *.mparticle.com *.onetrust.com *.optimizely.com *.zaius.eu s.pinimg.com ct.pinterest.com *.redditstatic.com *.tiktok.com tags.tiqcdn.com p11.techlab-cdn.com; style-src 'self' 'unsafe-inline' *.bing.com *.bing.net fonts.googleapis.com *.optimizely.com; frame-src *.awin1.com *.demdex.net *.doubleclick.net www.facebook.com servedby.flashtalking.com *.googletagmanager.com *.medallia.eu *.optimizely.com ct.pinterest.com; font-src *.contentsquare.net fonts.gstatic.com *.iseaskies.com *.marksandspencer.com; media-src *.marksandspencer.app; upgrade-insecure-requests"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=15768000"
+        ]
+      },
+      "body_bytes": 678906,
+      "truncated": false,
+      "body_sha256": "edb080d5685426b3c843fe5b0809b3e0584eb66e69f8e0b90744fc84ebcc2237",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Join M&S Sparks \u2013 New Sparks is here",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "4817",
+      "domain": "marksandspencer.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.marksandspencer.com/ultimate-comfort-bedding-set/p/hbp60713978",
+      "depth": 2,
+      "parent_url": "https://www.marksandspencer.com/l/offers/home-offers",
+      "attempt": 7,
+      "timestamp": "2026-11-12T21:13:52.824349+00:00",
+      "final_url": "https://www.marksandspencer.com/ultimate-comfort-bedding-set/p/hbp60713978",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'none'; base-uri 'none'; img-src 'self' data: lantern.roeye.com *.bing.com *.bing.net images.ctfassets.net *.contentsquare.net cm.everesttech.net dpm.demdex.net *.doubleclick.net *.facebook.com *.facebook.net *.google.com *.google.co.uk *.google.ie *.googlesyndication.com *.googleadservices.com *.googletagmanager.com *.iseaskies.com *.marksandspencer.com *.marksandspencer.app *.cxnmarksandspencer.com *.mparticle.com *.onetrust.com *.reddit.com analytics.tiktok.com match.adsrvr.org edge.curalate.com; connect-src 'self' ms-gb.attn.tv *.attentivemobile.com the.sciencebehindecommerce.com www.wepowerconnections.com *.bing.com *.bing.net *.contentsquare.net dpm.demdex.net *.doubleclick.net *.dynatrace.com *.facebook.com *.facebook.net *.google.com *.google.co.uk *.google.ie *.googlesyndication.com *.google-analytics.com *.googleadservices.com *.googletagmanager.com translate.googleapis.com obseu.iseaskies.com *.medallia.eu *.marksandspencer.app *.marksandspencer.com *.mnscorp.net *.mparticle.com *.onetrust.com *.optimizely.com *.zaius.eu s.pinimg.com ct.pinterest.com *.reddit.com *.swrve.com api.taggstar.com *.tiktok.com *.tiktokw.us tags.tiqcdn.com edge.curalate.com *.foundit.com mas-consumer.truefitcorp.com mas-consumer.staging.truefitcorp.com p11.techlab-cdn.com; child-src 'none'; manifest-src 'self' *.marksandspencer.com; frame-ancestors 'self'; form-action 'self' www.facebook.com; object-src 'none'; worker-src blob: 'self'; script-src 'self' 'unsafe-inline' cdn.attn.tv *.dwin1.com *.roeyecdn.com the.sciencebehindecommerce.com *.bing.com *.bing.net blob: *.contentsquare.net *.doubleclick.net js-cdn.dynatrace.com *.facebook.com *.facebook.net *.getamigo.io *.googletagmanager.com *.iseaskies.com *.medallia.eu *.marksandspencer.com *.mparticle.com *.onetrust.com *.optimizely.com *.zaius.eu s.pinimg.com ct.pinterest.com *.redditstatic.com *.tiktok.com tags.tiqcdn.com *.curalate.com mas-cdn.truefitcorp.com p11.techlab-cdn.com; style-src 'self' 'unsafe-inline' *.bing.com *.bing.net fonts.googleapis.com *.optimizely.com; frame-src *.awin1.com *.demdex.net *.doubleclick.net www.facebook.com servedby.flashtalking.com *.googletagmanager.com *.medallia.eu *.optimizely.com ct.pinterest.com *.truefitcorp.com; font-src *.contentsquare.net fonts.gstatic.com *.iseaskies.com *.marksandspencer.com; media-src *.marksandspencer.app *.curalate.com; upgrade-insecure-requests"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=15768000"
+        ]
+      },
+      "body_bytes": 748290,
+      "truncated": false,
+      "body_sha256": "0214ef620848cd5bf39b9b2e109aa5a5ec1730f635822b5107cea5f3690b5ab8",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "The Ultimate Soft & Silky Bedding Set by M&S",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "4817",
+      "domain": "marksandspencer.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.marksandspencer.com/set-of-4-etched-hi-ball-glasses/p/hbp60772622",
+      "depth": 3,
+      "parent_url": "https://www.marksandspencer.com/set-of-4-etched-tumblers/p/hbp60772621",
+      "attempt": 8,
+      "timestamp": "2026-11-12T21:13:53.405603+00:00",
+      "final_url": "https://www.marksandspencer.com/set-of-4-etched-hi-ball-glasses/p/hbp60772622",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'none'; base-uri 'none'; img-src 'self' data: lantern.roeye.com *.bing.com *.bing.net images.ctfassets.net *.contentsquare.net cm.everesttech.net dpm.demdex.net *.doubleclick.net *.facebook.com *.facebook.net *.google.com *.google.co.uk *.google.ie *.googlesyndication.com *.googleadservices.com *.googletagmanager.com *.iseaskies.com *.marksandspencer.com *.marksandspencer.app *.cxnmarksandspencer.com *.mparticle.com *.onetrust.com *.reddit.com analytics.tiktok.com match.adsrvr.org edge.curalate.com; connect-src 'self' ms-gb.attn.tv *.attentivemobile.com the.sciencebehindecommerce.com www.wepowerconnections.com *.bing.com *.bing.net *.contentsquare.net dpm.demdex.net *.doubleclick.net *.dynatrace.com *.facebook.com *.facebook.net *.google.com *.google.co.uk *.google.ie *.googlesyndication.com *.google-analytics.com *.googleadservices.com *.googletagmanager.com translate.googleapis.com obseu.iseaskies.com *.medallia.eu *.marksandspencer.app *.marksandspencer.com *.mnscorp.net *.mparticle.com *.onetrust.com *.optimizely.com *.zaius.eu s.pinimg.com ct.pinterest.com *.reddit.com *.swrve.com api.taggstar.com *.tiktok.com *.tiktokw.us tags.tiqcdn.com edge.curalate.com *.foundit.com mas-consumer.truefitcorp.com mas-consumer.staging.truefitcorp.com p11.techlab-cdn.com; child-src 'none'; manifest-src 'self' *.marksandspencer.com; frame-ancestors 'self'; form-action 'self' www.facebook.com; object-src 'none'; worker-src blob: 'self'; script-src 'self' 'unsafe-inline' cdn.attn.tv *.dwin1.com *.roeyecdn.com the.sciencebehindecommerce.com *.bing.com *.bing.net blob: *.contentsquare.net *.doubleclick.net js-cdn.dynatrace.com *.facebook.com *.facebook.net *.getamigo.io *.googletagmanager.com *.iseaskies.com *.medallia.eu *.marksandspencer.com *.mparticle.com *.onetrust.com *.optimizely.com *.zaius.eu s.pinimg.com ct.pinterest.com *.redditstatic.com *.tiktok.com tags.tiqcdn.com *.curalate.com mas-cdn.truefitcorp.com p11.techlab-cdn.com; style-src 'self' 'unsafe-inline' *.bing.com *.bing.net fonts.googleapis.com *.optimizely.com; frame-src *.awin1.com *.demdex.net *.doubleclick.net www.facebook.com servedby.flashtalking.com *.googletagmanager.com *.medallia.eu *.optimizely.com ct.pinterest.com *.truefitcorp.com; font-src *.contentsquare.net fonts.gstatic.com *.iseaskies.com *.marksandspencer.com; media-src *.marksandspencer.app *.curalate.com; upgrade-insecure-requests"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=15768000"
+        ]
+      },
+      "body_bytes": 607019,
+      "truncated": false,
+      "body_sha256": "7f414156e9f692e968f85b2bb999d67fa57b8fba271f4f00ad07f7c35fb3daf5",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Set of 4 Etched Hi Ball Glasses by M&S X Kelly Hoppen at M&S",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "4817",
+      "domain": "marksandspencer.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.marksandspencer.com/webapp/wcs/stores/servlet/MSResLogin",
+      "depth": 4,
+      "parent_url": "https://www.marksandspencer.com/help-and-support/collection-and-delivery",
+      "attempt": 9,
+      "timestamp": "2026-11-12T21:13:54.982534+00:00",
+      "final_url": "https://www.marksandspencer.com/webapp/wcs/stores/servlet/MSResLogin",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'none'; base-uri 'none'; img-src 'self' data: *.contentsquare.net *.google.com *.google.co.uk *.google.ie *.googlesyndication.com *.googleadservices.com *.googletagmanager.com *.marksandspencer.com *.marksandspencer.app *.cxnmarksandspencer.com *.mparticle.com *.onetrust.com; connect-src 'self' *.contentsquare.net *.dynatrace.com *.google.com *.google.co.uk *.google.ie *.googlesyndication.com *.google-analytics.com *.googleadservices.com *.googletagmanager.com *.marksandspencer.app *.marksandspencer.com *.mnscorp.net *.mparticle.com *.onetrust.com tags.tiqcdn.com p11.techlab-cdn.com; child-src 'none'; manifest-src 'self' *.marksandspencer.com; frame-ancestors 'self'; form-action 'self'; object-src 'none'; worker-src blob:; script-src 'self' 'unsafe-inline' blob: *.contentsquare.net js-cdn.dynatrace.com *.googletagmanager.com *.marksandspencer.com *.mparticle.com *.onetrust.com tags.tiqcdn.com p11.techlab-cdn.com; style-src 'self' 'unsafe-inline' fonts.googleapis.com; font-src *.contentsquare.net fonts.gstatic.com *.marksandspencer.com; frame-src *.googletagmanager.com; media-src *.marksandspencer.app; upgrade-insecure-requests"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=15768000"
+        ]
+      },
+      "body_bytes": 4814,
+      "truncated": false,
+      "body_sha256": "292a500b37c435858ab7ce708224c12c7bb1ad2d8f8f0cd30208fbebe030c262",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "4817",
+      "domain": "marksandspencer.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.marksandspencer.com/account/wish-list",
+      "depth": 1,
+      "parent_url": "https://www.marksandspencer.com/",
+      "attempt": 10,
+      "timestamp": "2026-11-12T21:13:55.520546+00:00",
+      "final_url": "https://www.marksandspencer.com/account/wish-list",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'none'; base-uri 'none'; img-src 'self' data: lantern.roeye.com *.bing.com *.bing.net images.ctfassets.net *.contentsquare.net cm.everesttech.net dpm.demdex.net *.doubleclick.net *.facebook.com *.facebook.net *.google.com *.google.co.uk *.google.ie *.googlesyndication.com *.googleadservices.com *.googletagmanager.com *.iseaskies.com *.marksandspencer.com *.marksandspencer.app *.cxnmarksandspencer.com *.mparticle.com *.onetrust.com *.reddit.com analytics.tiktok.com match.adsrvr.org; connect-src 'self' ms-gb.attn.tv *.attentivemobile.com the.sciencebehindecommerce.com www.wepowerconnections.com *.bing.com *.bing.net *.contentsquare.net dpm.demdex.net *.doubleclick.net *.optimizely.com *.zaius.eu *.dynatrace.com *.facebook.com *.facebook.net *.google.com *.google.co.uk *.google.ie *.googlesyndication.com *.google-analytics.com *.googleadservices.com *.googletagmanager.com obseu.iseaskies.com *.medallia.eu *.marksandspencer.app *.marksandspencer.com *.mnscorp.net *.mparticle.com *.onetrust.com s.pinimg.com ct.pinterest.com *.reddit.com *.tiktok.com *.tiktokw.us tags.tiqcdn.com p11.techlab-cdn.com; child-src 'none'; manifest-src 'self' *.marksandspencer.com; frame-ancestors 'self'; form-action 'self' www.facebook.com; object-src 'none'; worker-src blob:; script-src 'self' 'unsafe-inline' cdn.attn.tv *.dwin1.com *.roeyecdn.com the.sciencebehindecommerce.com *.bing.com *.bing.net blob: *.contentsquare.net *.doubleclick.net *.optimizely.com *.zaius.eu js-cdn.dynatrace.com *.facebook.com *.facebook.net *.googletagmanager.com *.iseaskies.com *.medallia.eu *.marksandspencer.com *.mparticle.com *.onetrust.com s.pinimg.com ct.pinterest.com *.redditstatic.com *.tiktok.com tags.tiqcdn.com p11.techlab-cdn.com; style-src 'self' 'unsafe-inline' *.bing.com *.bing.net *.optimizely.com fonts.googleapis.com; frame-src *.awin1.com *.demdex.net *.doubleclick.net *.optimizely.com www.facebook.com servedby.flashtalking.com *.googletagmanager.com *.medallia.eu ct.pinterest.com; font-src *.contentsquare.net fonts.gstatic.com *.iseaskies.com *.marksandspencer.com; media-src *.marksandspencer.app; upgrade-insecure-requests"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=15768000"
+        ]
+      },
+      "body_bytes": 643546,
+      "truncated": false,
+      "body_sha256": "3b3dcdad10dedbe2a3f994102b54ba888fce6d277be5a95de756869c4f6ba342",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Wishlist | M&S",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "4817",
+      "domain": "marksandspencer.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.marksandspencer.com/set-of-4-etched-champagne-flutes/p/hbp60772623",
+      "depth": 2,
+      "parent_url": "https://www.marksandspencer.com/l/offers/home-offers",
+      "attempt": 11,
+      "timestamp": "2026-11-12T21:13:56.438469+00:00",
+      "final_url": "https://www.marksandspencer.com/set-of-4-etched-champagne-flutes/p/hbp60772623",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'none'; base-uri 'none'; img-src 'self' data: lantern.roeye.com *.bing.com *.bing.net images.ctfassets.net *.contentsquare.net cm.everesttech.net dpm.demdex.net *.doubleclick.net *.facebook.com *.facebook.net *.google.com *.google.co.uk *.google.ie *.googlesyndication.com *.googleadservices.com *.googletagmanager.com *.iseaskies.com *.marksandspencer.com *.marksandspencer.app *.cxnmarksandspencer.com *.mparticle.com *.onetrust.com *.reddit.com analytics.tiktok.com match.adsrvr.org edge.curalate.com; connect-src 'self' ms-gb.attn.tv *.attentivemobile.com the.sciencebehindecommerce.com www.wepowerconnections.com *.bing.com *.bing.net *.contentsquare.net dpm.demdex.net *.doubleclick.net *.dynatrace.com *.facebook.com *.facebook.net *.google.com *.google.co.uk *.google.ie *.googlesyndication.com *.google-analytics.com *.googleadservices.com *.googletagmanager.com translate.googleapis.com obseu.iseaskies.com *.medallia.eu *.marksandspencer.app *.marksandspencer.com *.mnscorp.net *.mparticle.com *.onetrust.com *.optimizely.com *.zaius.eu s.pinimg.com ct.pinterest.com *.reddit.com *.swrve.com api.taggstar.com *.tiktok.com *.tiktokw.us tags.tiqcdn.com edge.curalate.com *.foundit.com mas-consumer.truefitcorp.com mas-consumer.staging.truefitcorp.com p11.techlab-cdn.com; child-src 'none'; manifest-src 'self' *.marksandspencer.com; frame-ancestors 'self'; form-action 'self' www.facebook.com; object-src 'none'; worker-src blob: 'self'; script-src 'self' 'unsafe-inline' cdn.attn.tv *.dwin1.com *.roeyecdn.com the.sciencebehindecommerce.com *.bing.com *.bing.net blob: *.contentsquare.net *.doubleclick.net js-cdn.dynatrace.com *.facebook.com *.facebook.net *.getamigo.io *.googletagmanager.com *.iseaskies.com *.medallia.eu *.marksandspencer.com *.mparticle.com *.onetrust.com *.optimizely.com *.zaius.eu s.pinimg.com ct.pinterest.com *.redditstatic.com *.tiktok.com tags.tiqcdn.com *.curalate.com mas-cdn.truefitcorp.com p11.techlab-cdn.com; style-src 'self' 'unsafe-inline' *.bing.com *.bing.net fonts.googleapis.com *.optimizely.com; frame-src *.awin1.com *.demdex.net *.doubleclick.net www.facebook.com servedby.flashtalking.com *.googletagmanager.com *.medallia.eu *.optimizely.com ct.pinterest.com *.truefitcorp.com; font-src *.contentsquare.net fonts.gstatic.com *.iseaskies.com *.marksandspencer.com; media-src *.marksandspencer.app *.curalate.com; upgrade-insecure-requests"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=15768000"
+        ]
+      },
+      "body_bytes": 576475,
+      "truncated": false,
+      "body_sha256": "b2e64353a505ae01aab2e4f6cbbf0cba677b2f50b1ae399b7e1bc656fb79ea84",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Set of 4 Etched Champagne Flutes by M&S X Kelly Hoppen at M&S",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "4817",
+      "domain": "marksandspencer.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.marksandspencer.com/the-ultimate-soft-and-silky-flat-sheet/p/hbp60714088",
+      "depth": 3,
+      "parent_url": "https://www.marksandspencer.com/ultimate-comfort-bedding-set/p/hbp60713978",
+      "attempt": 12,
+      "timestamp": "2026-11-12T21:13:57.481108+00:00",
+      "final_url": "https://www.marksandspencer.com/ultimate-comfort-flat-sheet/p/hbp60714088",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'none'; base-uri 'none'; img-src 'self' data: lantern.roeye.com *.bing.com *.bing.net images.ctfassets.net *.contentsquare.net cm.everesttech.net dpm.demdex.net *.doubleclick.net *.facebook.com *.facebook.net *.google.com *.google.co.uk *.google.ie *.googlesyndication.com *.googleadservices.com *.googletagmanager.com *.iseaskies.com *.marksandspencer.com *.marksandspencer.app *.cxnmarksandspencer.com *.mparticle.com *.onetrust.com *.reddit.com analytics.tiktok.com match.adsrvr.org edge.curalate.com; connect-src 'self' ms-gb.attn.tv *.attentivemobile.com the.sciencebehindecommerce.com www.wepowerconnections.com *.bing.com *.bing.net *.contentsquare.net dpm.demdex.net *.doubleclick.net *.dynatrace.com *.facebook.com *.facebook.net *.google.com *.google.co.uk *.google.ie *.googlesyndication.com *.google-analytics.com *.googleadservices.com *.googletagmanager.com translate.googleapis.com obseu.iseaskies.com *.medallia.eu *.marksandspencer.app *.marksandspencer.com *.mnscorp.net *.mparticle.com *.onetrust.com *.optimizely.com *.zaius.eu s.pinimg.com ct.pinterest.com *.reddit.com *.swrve.com api.taggstar.com *.tiktok.com *.tiktokw.us tags.tiqcdn.com edge.curalate.com *.foundit.com mas-consumer.truefitcorp.com mas-consumer.staging.truefitcorp.com p11.techlab-cdn.com; child-src 'none'; manifest-src 'self' *.marksandspencer.com; frame-ancestors 'self'; form-action 'self' www.facebook.com; object-src 'none'; worker-src blob: 'self'; script-src 'self' 'unsafe-inline' cdn.attn.tv *.dwin1.com *.roeyecdn.com the.sciencebehindecommerce.com *.bing.com *.bing.net blob: *.contentsquare.net *.doubleclick.net js-cdn.dynatrace.com *.facebook.com *.facebook.net *.getamigo.io *.googletagmanager.com *.iseaskies.com *.medallia.eu *.marksandspencer.com *.mparticle.com *.onetrust.com *.optimizely.com *.zaius.eu s.pinimg.com ct.pinterest.com *.redditstatic.com *.tiktok.com tags.tiqcdn.com *.curalate.com mas-cdn.truefitcorp.com p11.techlab-cdn.com; style-src 'self' 'unsafe-inline' *.bing.com *.bing.net fonts.googleapis.com *.optimizely.com; frame-src *.awin1.com *.demdex.net *.doubleclick.net www.facebook.com servedby.flashtalking.com *.googletagmanager.com *.medallia.eu *.optimizely.com ct.pinterest.com *.truefitcorp.com; font-src *.contentsquare.net fonts.gstatic.com *.iseaskies.com *.marksandspencer.com; media-src *.marksandspencer.app *.curalate.com; upgrade-insecure-requests"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=15768000"
+        ]
+      },
+      "body_bytes": 737294,
+      "truncated": false,
+      "body_sha256": "47a44a383b924d2e6300210515c3ac1d9674b3f9a1dd7a1277ae1c6ff876803d",
+      "redirect_chain": [
+        {
+          "url": "https://www.marksandspencer.com/the-ultimate-soft-and-silky-flat-sheet/p/hbp60714088",
+          "status": 308,
+          "location": "/ultimate-comfort-flat-sheet/p/hbp60714088",
+          "headers": {
+            "content-security-policy": [
+              "default-src 'none'; base-uri 'none'; img-src 'self' data: lantern.roeye.com *.bing.com *.bing.net images.ctfassets.net *.contentsquare.net cm.everesttech.net dpm.demdex.net *.doubleclick.net *.facebook.com *.facebook.net *.google.com *.google.co.uk *.google.ie *.googlesyndication.com *.googleadservices.com *.googletagmanager.com *.iseaskies.com *.marksandspencer.com *.marksandspencer.app *.cxnmarksandspencer.com *.mparticle.com *.onetrust.com *.reddit.com analytics.tiktok.com match.adsrvr.org edge.curalate.com; connect-src 'self' ms-gb.attn.tv *.attentivemobile.com the.sciencebehindecommerce.com www.wepowerconnections.com *.bing.com *.bing.net *.contentsquare.net dpm.demdex.net *.doubleclick.net *.dynatrace.com *.facebook.com *.facebook.net *.google.com *.google.co.uk *.google.ie *.googlesyndication.com *.google-analytics.com *.googleadservices.com *.googletagmanager.com translate.googleapis.com obseu.iseaskies.com *.medallia.eu *.marksandspencer.app *.marksandspencer.com *.mnscorp.net *.mparticle.com *.onetrust.com *.optimizely.com *.zaius.eu s.pinimg.com ct.pinterest.com *.reddit.com *.swrve.com api.taggstar.com *.tiktok.com *.tiktokw.us tags.tiqcdn.com edge.curalate.com *.foundit.com mas-consumer.truefitcorp.com mas-consumer.staging.truefitcorp.com p11.techlab-cdn.com; child-src 'none'; manifest-src 'self' *.marksandspencer.com; frame-ancestors 'self'; form-action 'self' www.facebook.com; object-src 'none'; worker-src blob: 'self'; script-src 'self' 'unsafe-inline' cdn.attn.tv *.dwin1.com *.roeyecdn.com the.sciencebehindecommerce.com *.bing.com *.bing.net blob: *.contentsquare.net *.doubleclick.net js-cdn.dynatrace.com *.facebook.com *.facebook.net *.getamigo.io *.googletagmanager.com *.iseaskies.com *.medallia.eu *.marksandspencer.com *.mparticle.com *.onetrust.com *.optimizely.com *.zaius.eu s.pinimg.com ct.pinterest.com *.redditstatic.com *.tiktok.com tags.tiqcdn.com *.curalate.com mas-cdn.truefitcorp.com p11.techlab-cdn.com; style-src 'self' 'unsafe-inline' *.bing.com *.bing.net fonts.googleapis.com *.optimizely.com; frame-src *.awin1.com *.demdex.net *.doubleclick.net www.facebook.com servedby.flashtalking.com *.googletagmanager.com *.medallia.eu *.optimizely.com ct.pinterest.com *.truefitcorp.com; font-src *.contentsquare.net fonts.gstatic.com *.iseaskies.com *.marksandspencer.com; media-src *.marksandspencer.app *.curalate.com; upgrade-insecure-requests"
+            ],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=15768000"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "The Ultimate Soft & Silky Flat Sheet by M&S",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "4817",
+      "domain": "marksandspencer.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.marksandspencer.com/ultimate-comfort-flat-sheet/p/hbp60714088",
+      "depth": 4,
+      "parent_url": "https://www.marksandspencer.com/ultimate-comfort-flat-sheet/p/hbp60714088",
+      "attempt": 13,
+      "timestamp": "2026-11-12T21:13:59.085671+00:00",
+      "final_url": "https://www.marksandspencer.com/ultimate-comfort-flat-sheet/p/hbp60714088",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'none'; base-uri 'none'; img-src 'self' data: lantern.roeye.com *.bing.com *.bing.net images.ctfassets.net *.contentsquare.net cm.everesttech.net dpm.demdex.net *.doubleclick.net *.facebook.com *.facebook.net *.google.com *.google.co.uk *.google.ie *.googlesyndication.com *.googleadservices.com *.googletagmanager.com *.iseaskies.com *.marksandspencer.com *.marksandspencer.app *.cxnmarksandspencer.com *.mparticle.com *.onetrust.com *.reddit.com analytics.tiktok.com match.adsrvr.org edge.curalate.com; connect-src 'self' ms-gb.attn.tv *.attentivemobile.com the.sciencebehindecommerce.com www.wepowerconnections.com *.bing.com *.bing.net *.contentsquare.net dpm.demdex.net *.doubleclick.net *.dynatrace.com *.facebook.com *.facebook.net *.google.com *.google.co.uk *.google.ie *.googlesyndication.com *.google-analytics.com *.googleadservices.com *.googletagmanager.com translate.googleapis.com obseu.iseaskies.com *.medallia.eu *.marksandspencer.app *.marksandspencer.com *.mnscorp.net *.mparticle.com *.onetrust.com *.optimizely.com *.zaius.eu s.pinimg.com ct.pinterest.com *.reddit.com *.swrve.com api.taggstar.com *.tiktok.com *.tiktokw.us tags.tiqcdn.com edge.curalate.com *.foundit.com mas-consumer.truefitcorp.com mas-consumer.staging.truefitcorp.com p11.techlab-cdn.com; child-src 'none'; manifest-src 'self' *.marksandspencer.com; frame-ancestors 'self'; form-action 'self' www.facebook.com; object-src 'none'; worker-src blob: 'self'; script-src 'self' 'unsafe-inline' cdn.attn.tv *.dwin1.com *.roeyecdn.com the.sciencebehindecommerce.com *.bing.com *.bing.net blob: *.contentsquare.net *.doubleclick.net js-cdn.dynatrace.com *.facebook.com *.facebook.net *.getamigo.io *.googletagmanager.com *.iseaskies.com *.medallia.eu *.marksandspencer.com *.mparticle.com *.onetrust.com *.optimizely.com *.zaius.eu s.pinimg.com ct.pinterest.com *.redditstatic.com *.tiktok.com tags.tiqcdn.com *.curalate.com mas-cdn.truefitcorp.com p11.techlab-cdn.com; style-src 'self' 'unsafe-inline' *.bing.com *.bing.net fonts.googleapis.com *.optimizely.com; frame-src *.awin1.com *.demdex.net *.doubleclick.net www.facebook.com servedby.flashtalking.com *.googletagmanager.com *.medallia.eu *.optimizely.com ct.pinterest.com *.truefitcorp.com; font-src *.contentsquare.net fonts.gstatic.com *.iseaskies.com *.marksandspencer.com; media-src *.marksandspencer.app *.curalate.com; upgrade-insecure-requests"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=15768000"
+        ]
+      },
+      "body_bytes": 737294,
+      "truncated": false,
+      "body_sha256": "47a44a383b924d2e6300210515c3ac1d9674b3f9a1dd7a1277ae1c6ff876803d",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "The Ultimate Soft & Silky Flat Sheet by M&S",
+      "duplicate_final": true,
+      "eligible": false
+    },
+    {
+      "rank": "4817",
+      "domain": "marksandspencer.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.marksandspencer.com/content/christmas-advert",
+      "depth": 1,
+      "parent_url": "https://www.marksandspencer.com/",
+      "attempt": 14,
+      "timestamp": "2026-11-12T21:13:59.588491+00:00",
+      "final_url": "https://www.marksandspencer.com/content/christmas-advert",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'none'; base-uri 'none'; img-src 'self' data: lantern.roeye.com *.bing.com *.bing.net images.ctfassets.net *.contentsquare.net cm.everesttech.net dpm.demdex.net *.doubleclick.net *.facebook.com *.facebook.net *.google.com *.google.co.uk *.google.ie *.googlesyndication.com *.googleadservices.com *.googletagmanager.com *.iseaskies.com *.marksandspencer.com *.marksandspencer.app *.cxnmarksandspencer.com *.mparticle.com *.onetrust.com *.reddit.com analytics.tiktok.com match.adsrvr.org edge.curalate.com; connect-src 'self' ms-gb.attn.tv *.attentivemobile.com the.sciencebehindecommerce.com www.wepowerconnections.com *.bing.com *.bing.net *.contentsquare.net dpm.demdex.net *.doubleclick.net *.dynatrace.com *.facebook.com *.facebook.net *.google.com *.google.co.uk *.google.ie *.googlesyndication.com *.google-analytics.com *.googleadservices.com *.googletagmanager.com translate.googleapis.com obseu.iseaskies.com *.medallia.eu *.marksandspencer.app *.marksandspencer.com *.mnscorp.net *.mparticle.com *.onetrust.com *.optimizely.com *.zaius.eu s.pinimg.com ct.pinterest.com *.reddit.com *.swrve.com api.taggstar.com *.tiktok.com *.tiktokw.us tags.tiqcdn.com edge.curalate.com p11.techlab-cdn.com; child-src 'none'; manifest-src 'self' *.marksandspencer.com; frame-ancestors 'self'; form-action 'self' www.facebook.com; object-src 'none'; worker-src blob: 'self'; script-src 'self' 'unsafe-inline' cdn.attn.tv *.dwin1.com *.roeyecdn.com the.sciencebehindecommerce.com *.bing.com *.bing.net blob: *.contentsquare.net *.doubleclick.net js-cdn.dynatrace.com *.facebook.com *.facebook.net *.getamigo.io *.googletagmanager.com *.iseaskies.com *.medallia.eu *.marksandspencer.com *.mparticle.com *.onetrust.com *.optimizely.com *.zaius.eu s.pinimg.com ct.pinterest.com *.redditstatic.com *.tiktok.com tags.tiqcdn.com *.curalate.com p11.techlab-cdn.com; style-src 'self' 'unsafe-inline' *.bing.com *.bing.net fonts.googleapis.com *.optimizely.com; frame-src *.awin1.com *.demdex.net *.doubleclick.net www.facebook.com servedby.flashtalking.com *.googletagmanager.com *.medallia.eu *.optimizely.com ct.pinterest.com; font-src *.contentsquare.net fonts.gstatic.com *.iseaskies.com *.marksandspencer.com; media-src *.marksandspencer.app *.curalate.com; upgrade-insecure-requests"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=15768000"
+        ]
+      },
+      "body_bytes": 574024,
+      "truncated": false,
+      "body_sha256": "37e1a729abf5734c648ed447d4d5ab700a1ac1ae66ec13263ebf182fa51af525",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Discover our magical Christmas advert | M&S",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "4817",
+      "domain": "marksandspencer.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.marksandspencer.com/small-fabric-shade/p/hbp60896842",
+      "depth": 2,
+      "parent_url": "https://www.marksandspencer.com/l/offers/home-offers",
+      "attempt": 15,
+      "timestamp": "2026-11-12T21:14:00.426707+00:00",
+      "final_url": "https://www.marksandspencer.com/small-fabric-shade/p/hbp60896842",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'none'; base-uri 'none'; img-src 'self' data: lantern.roeye.com *.bing.com *.bing.net images.ctfassets.net *.contentsquare.net cm.everesttech.net dpm.demdex.net *.doubleclick.net *.facebook.com *.facebook.net *.google.com *.google.co.uk *.google.ie *.googlesyndication.com *.googleadservices.com *.googletagmanager.com *.iseaskies.com *.marksandspencer.com *.marksandspencer.app *.cxnmarksandspencer.com *.mparticle.com *.onetrust.com *.reddit.com analytics.tiktok.com match.adsrvr.org edge.curalate.com; connect-src 'self' ms-gb.attn.tv *.attentivemobile.com the.sciencebehindecommerce.com www.wepowerconnections.com *.bing.com *.bing.net *.contentsquare.net dpm.demdex.net *.doubleclick.net *.dynatrace.com *.facebook.com *.facebook.net *.google.com *.google.co.uk *.google.ie *.googlesyndication.com *.google-analytics.com *.googleadservices.com *.googletagmanager.com translate.googleapis.com obseu.iseaskies.com *.medallia.eu *.marksandspencer.app *.marksandspencer.com *.mnscorp.net *.mparticle.com *.onetrust.com *.optimizely.com *.zaius.eu s.pinimg.com ct.pinterest.com *.reddit.com *.swrve.com api.taggstar.com *.tiktok.com *.tiktokw.us tags.tiqcdn.com edge.curalate.com *.foundit.com mas-consumer.truefitcorp.com mas-consumer.staging.truefitcorp.com p11.techlab-cdn.com; child-src 'none'; manifest-src 'self' *.marksandspencer.com; frame-ancestors 'self'; form-action 'self' www.facebook.com; object-src 'none'; worker-src blob: 'self'; script-src 'self' 'unsafe-inline' cdn.attn.tv *.dwin1.com *.roeyecdn.com the.sciencebehindecommerce.com *.bing.com *.bing.net blob: *.contentsquare.net *.doubleclick.net js-cdn.dynatrace.com *.facebook.com *.facebook.net *.getamigo.io *.googletagmanager.com *.iseaskies.com *.medallia.eu *.marksandspencer.com *.mparticle.com *.onetrust.com *.optimizely.com *.zaius.eu s.pinimg.com ct.pinterest.com *.redditstatic.com *.tiktok.com tags.tiqcdn.com *.curalate.com mas-cdn.truefitcorp.com p11.techlab-cdn.com; style-src 'self' 'unsafe-inline' *.bing.com *.bing.net fonts.googleapis.com *.optimizely.com; frame-src *.awin1.com *.demdex.net *.doubleclick.net www.facebook.com servedby.flashtalking.com *.googletagmanager.com *.medallia.eu *.optimizely.com ct.pinterest.com *.truefitcorp.com; font-src *.contentsquare.net fonts.gstatic.com *.iseaskies.com *.marksandspencer.com; media-src *.marksandspencer.app *.curalate.com; upgrade-insecure-requests"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=15768000"
+        ]
+      },
+      "body_bytes": 598359,
+      "truncated": false,
+      "body_sha256": "3dd2daf12eb28335f63aee91406ae14b1857d01058bf7a317cab14e958213088",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Small Bamboo Shade by M&S",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "4817",
+      "domain": "marksandspencer.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.marksandspencer.com/2-pack-ultimate-silky-and-softy-oxford-pillowcases/p/hbp60714163",
+      "depth": 3,
+      "parent_url": "https://www.marksandspencer.com/ultimate-comfort-bedding-set/p/hbp60713978",
+      "attempt": 16,
+      "timestamp": "2026-11-12T21:14:01.444168+00:00",
+      "final_url": "https://www.marksandspencer.com/2pk-ultimate-comfort-oxford-pillowcases/p/hbp60714163",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'none'; base-uri 'none'; img-src 'self' data: lantern.roeye.com *.bing.com *.bing.net images.ctfassets.net *.contentsquare.net cm.everesttech.net dpm.demdex.net *.doubleclick.net *.facebook.com *.facebook.net *.google.com *.google.co.uk *.google.ie *.googlesyndication.com *.googleadservices.com *.googletagmanager.com *.iseaskies.com *.marksandspencer.com *.marksandspencer.app *.cxnmarksandspencer.com *.mparticle.com *.onetrust.com *.reddit.com analytics.tiktok.com match.adsrvr.org edge.curalate.com; connect-src 'self' ms-gb.attn.tv *.attentivemobile.com the.sciencebehindecommerce.com www.wepowerconnections.com *.bing.com *.bing.net *.contentsquare.net dpm.demdex.net *.doubleclick.net *.dynatrace.com *.facebook.com *.facebook.net *.google.com *.google.co.uk *.google.ie *.googlesyndication.com *.google-analytics.com *.googleadservices.com *.googletagmanager.com translate.googleapis.com obseu.iseaskies.com *.medallia.eu *.marksandspencer.app *.marksandspencer.com *.mnscorp.net *.mparticle.com *.onetrust.com *.optimizely.com *.zaius.eu s.pinimg.com ct.pinterest.com *.reddit.com *.swrve.com api.taggstar.com *.tiktok.com *.tiktokw.us tags.tiqcdn.com edge.curalate.com *.foundit.com mas-consumer.truefitcorp.com mas-consumer.staging.truefitcorp.com p11.techlab-cdn.com; child-src 'none'; manifest-src 'self' *.marksandspencer.com; frame-ancestors 'self'; form-action 'self' www.facebook.com; object-src 'none'; worker-src blob: 'self'; script-src 'self' 'unsafe-inline' cdn.attn.tv *.dwin1.com *.roeyecdn.com the.sciencebehindecommerce.com *.bing.com *.bing.net blob: *.contentsquare.net *.doubleclick.net js-cdn.dynatrace.com *.facebook.com *.facebook.net *.getamigo.io *.googletagmanager.com *.iseaskies.com *.medallia.eu *.marksandspencer.com *.mparticle.com *.onetrust.com *.optimizely.com *.zaius.eu s.pinimg.com ct.pinterest.com *.redditstatic.com *.tiktok.com tags.tiqcdn.com *.curalate.com mas-cdn.truefitcorp.com p11.techlab-cdn.com; style-src 'self' 'unsafe-inline' *.bing.com *.bing.net fonts.googleapis.com *.optimizely.com; frame-src *.awin1.com *.demdex.net *.doubleclick.net www.facebook.com servedby.flashtalking.com *.googletagmanager.com *.medallia.eu *.optimizely.com ct.pinterest.com *.truefitcorp.com; font-src *.contentsquare.net fonts.gstatic.com *.iseaskies.com *.marksandspencer.com; media-src *.marksandspencer.app *.curalate.com; upgrade-insecure-requests"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=15768000"
+        ]
+      },
+      "body_bytes": 725666,
+      "truncated": false,
+      "body_sha256": "a2c955cbad7fc8f1915b87a39847c7bb4d2a68daf454352b59db8637edd8c18d",
+      "redirect_chain": [
+        {
+          "url": "https://www.marksandspencer.com/2-pack-ultimate-silky-and-softy-oxford-pillowcases/p/hbp60714163",
+          "status": 308,
+          "location": "/2pk-ultimate-comfort-oxford-pillowcases/p/hbp60714163",
+          "headers": {
+            "content-security-policy": [
+              "default-src 'none'; base-uri 'none'; img-src 'self' data: lantern.roeye.com *.bing.com *.bing.net images.ctfassets.net *.contentsquare.net cm.everesttech.net dpm.demdex.net *.doubleclick.net *.facebook.com *.facebook.net *.google.com *.google.co.uk *.google.ie *.googlesyndication.com *.googleadservices.com *.googletagmanager.com *.iseaskies.com *.marksandspencer.com *.marksandspencer.app *.cxnmarksandspencer.com *.mparticle.com *.onetrust.com *.reddit.com analytics.tiktok.com match.adsrvr.org edge.curalate.com; connect-src 'self' ms-gb.attn.tv *.attentivemobile.com the.sciencebehindecommerce.com www.wepowerconnections.com *.bing.com *.bing.net *.contentsquare.net dpm.demdex.net *.doubleclick.net *.dynatrace.com *.facebook.com *.facebook.net *.google.com *.google.co.uk *.google.ie *.googlesyndication.com *.google-analytics.com *.googleadservices.com *.googletagmanager.com translate.googleapis.com obseu.iseaskies.com *.medallia.eu *.marksandspencer.app *.marksandspencer.com *.mnscorp.net *.mparticle.com *.onetrust.com *.optimizely.com *.zaius.eu s.pinimg.com ct.pinterest.com *.reddit.com *.swrve.com api.taggstar.com *.tiktok.com *.tiktokw.us tags.tiqcdn.com edge.curalate.com *.foundit.com mas-consumer.truefitcorp.com mas-consumer.staging.truefitcorp.com p11.techlab-cdn.com; child-src 'none'; manifest-src 'self' *.marksandspencer.com; frame-ancestors 'self'; form-action 'self' www.facebook.com; object-src 'none'; worker-src blob: 'self'; script-src 'self' 'unsafe-inline' cdn.attn.tv *.dwin1.com *.roeyecdn.com the.sciencebehindecommerce.com *.bing.com *.bing.net blob: *.contentsquare.net *.doubleclick.net js-cdn.dynatrace.com *.facebook.com *.facebook.net *.getamigo.io *.googletagmanager.com *.iseaskies.com *.medallia.eu *.marksandspencer.com *.mparticle.com *.onetrust.com *.optimizely.com *.zaius.eu s.pinimg.com ct.pinterest.com *.redditstatic.com *.tiktok.com tags.tiqcdn.com *.curalate.com mas-cdn.truefitcorp.com p11.techlab-cdn.com; style-src 'self' 'unsafe-inline' *.bing.com *.bing.net fonts.googleapis.com *.optimizely.com; frame-src *.awin1.com *.demdex.net *.doubleclick.net www.facebook.com servedby.flashtalking.com *.googletagmanager.com *.medallia.eu *.optimizely.com ct.pinterest.com *.truefitcorp.com; font-src *.contentsquare.net fonts.gstatic.com *.iseaskies.com *.marksandspencer.com; media-src *.marksandspencer.app *.curalate.com; upgrade-insecure-requests"
+            ],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=15768000"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "2 Pack Ultimate Silky & Softy Oxford Pillowcases by M&S",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "4817",
+      "domain": "marksandspencer.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.marksandspencer.com/the-ultimate-soft-and-silky-bedding-set/p/hbp60713978",
+      "depth": 4,
+      "parent_url": "https://www.marksandspencer.com/ultimate-comfort-flat-sheet/p/hbp60714088",
+      "attempt": 17,
+      "timestamp": "2026-11-12T21:14:03.703775+00:00",
+      "final_url": "https://www.marksandspencer.com/ultimate-comfort-bedding-set/p/hbp60713978",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'none'; base-uri 'none'; img-src 'self' data: lantern.roeye.com *.bing.com *.bing.net images.ctfassets.net *.contentsquare.net cm.everesttech.net dpm.demdex.net *.doubleclick.net *.facebook.com *.facebook.net *.google.com *.google.co.uk *.google.ie *.googlesyndication.com *.googleadservices.com *.googletagmanager.com *.iseaskies.com *.marksandspencer.com *.marksandspencer.app *.cxnmarksandspencer.com *.mparticle.com *.onetrust.com *.reddit.com analytics.tiktok.com match.adsrvr.org edge.curalate.com; connect-src 'self' ms-gb.attn.tv *.attentivemobile.com the.sciencebehindecommerce.com www.wepowerconnections.com *.bing.com *.bing.net *.contentsquare.net dpm.demdex.net *.doubleclick.net *.dynatrace.com *.facebook.com *.facebook.net *.google.com *.google.co.uk *.google.ie *.googlesyndication.com *.google-analytics.com *.googleadservices.com *.googletagmanager.com translate.googleapis.com obseu.iseaskies.com *.medallia.eu *.marksandspencer.app *.marksandspencer.com *.mnscorp.net *.mparticle.com *.onetrust.com *.optimizely.com *.zaius.eu s.pinimg.com ct.pinterest.com *.reddit.com *.swrve.com api.taggstar.com *.tiktok.com *.tiktokw.us tags.tiqcdn.com edge.curalate.com *.foundit.com mas-consumer.truefitcorp.com mas-consumer.staging.truefitcorp.com p11.techlab-cdn.com; child-src 'none'; manifest-src 'self' *.marksandspencer.com; frame-ancestors 'self'; form-action 'self' www.facebook.com; object-src 'none'; worker-src blob: 'self'; script-src 'self' 'unsafe-inline' cdn.attn.tv *.dwin1.com *.roeyecdn.com the.sciencebehindecommerce.com *.bing.com *.bing.net blob: *.contentsquare.net *.doubleclick.net js-cdn.dynatrace.com *.facebook.com *.facebook.net *.getamigo.io *.googletagmanager.com *.iseaskies.com *.medallia.eu *.marksandspencer.com *.mparticle.com *.onetrust.com *.optimizely.com *.zaius.eu s.pinimg.com ct.pinterest.com *.redditstatic.com *.tiktok.com tags.tiqcdn.com *.curalate.com mas-cdn.truefitcorp.com p11.techlab-cdn.com; style-src 'self' 'unsafe-inline' *.bing.com *.bing.net fonts.googleapis.com *.optimizely.com; frame-src *.awin1.com *.demdex.net *.doubleclick.net www.facebook.com servedby.flashtalking.com *.googletagmanager.com *.medallia.eu *.optimizely.com ct.pinterest.com *.truefitcorp.com; font-src *.contentsquare.net fonts.gstatic.com *.iseaskies.com *.marksandspencer.com; media-src *.marksandspencer.app *.curalate.com; upgrade-insecure-requests"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=15768000"
+        ]
+      },
+      "body_bytes": 748290,
+      "truncated": false,
+      "body_sha256": "0214ef620848cd5bf39b9b2e109aa5a5ec1730f635822b5107cea5f3690b5ab8",
+      "redirect_chain": [
+        {
+          "url": "https://www.marksandspencer.com/the-ultimate-soft-and-silky-bedding-set/p/hbp60713978",
+          "status": 308,
+          "location": "/ultimate-comfort-bedding-set/p/hbp60713978",
+          "headers": {
+            "content-security-policy": [
+              "default-src 'none'; base-uri 'none'; img-src 'self' data: lantern.roeye.com *.bing.com *.bing.net images.ctfassets.net *.contentsquare.net cm.everesttech.net dpm.demdex.net *.doubleclick.net *.facebook.com *.facebook.net *.google.com *.google.co.uk *.google.ie *.googlesyndication.com *.googleadservices.com *.googletagmanager.com *.iseaskies.com *.marksandspencer.com *.marksandspencer.app *.cxnmarksandspencer.com *.mparticle.com *.onetrust.com *.reddit.com analytics.tiktok.com match.adsrvr.org edge.curalate.com; connect-src 'self' ms-gb.attn.tv *.attentivemobile.com the.sciencebehindecommerce.com www.wepowerconnections.com *.bing.com *.bing.net *.contentsquare.net dpm.demdex.net *.doubleclick.net *.dynatrace.com *.facebook.com *.facebook.net *.google.com *.google.co.uk *.google.ie *.googlesyndication.com *.google-analytics.com *.googleadservices.com *.googletagmanager.com translate.googleapis.com obseu.iseaskies.com *.medallia.eu *.marksandspencer.app *.marksandspencer.com *.mnscorp.net *.mparticle.com *.onetrust.com *.optimizely.com *.zaius.eu s.pinimg.com ct.pinterest.com *.reddit.com *.swrve.com api.taggstar.com *.tiktok.com *.tiktokw.us tags.tiqcdn.com edge.curalate.com *.foundit.com mas-consumer.truefitcorp.com mas-consumer.staging.truefitcorp.com p11.techlab-cdn.com; child-src 'none'; manifest-src 'self' *.marksandspencer.com; frame-ancestors 'self'; form-action 'self' www.facebook.com; object-src 'none'; worker-src blob: 'self'; script-src 'self' 'unsafe-inline' cdn.attn.tv *.dwin1.com *.roeyecdn.com the.sciencebehindecommerce.com *.bing.com *.bing.net blob: *.contentsquare.net *.doubleclick.net js-cdn.dynatrace.com *.facebook.com *.facebook.net *.getamigo.io *.googletagmanager.com *.iseaskies.com *.medallia.eu *.marksandspencer.com *.mparticle.com *.onetrust.com *.optimizely.com *.zaius.eu s.pinimg.com ct.pinterest.com *.redditstatic.com *.tiktok.com tags.tiqcdn.com *.curalate.com mas-cdn.truefitcorp.com p11.techlab-cdn.com; style-src 'self' 'unsafe-inline' *.bing.com *.bing.net fonts.googleapis.com *.optimizely.com; frame-src *.awin1.com *.demdex.net *.doubleclick.net www.facebook.com servedby.flashtalking.com *.googletagmanager.com *.medallia.eu *.optimizely.com ct.pinterest.com *.truefitcorp.com; font-src *.contentsquare.net fonts.gstatic.com *.iseaskies.com *.marksandspencer.com; media-src *.marksandspencer.app *.curalate.com; upgrade-insecure-requests"
+            ],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=15768000"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "The Ultimate Soft & Silky Bedding Set by M&S",
+      "duplicate_final": true,
+      "eligible": false
+    },
+    {
+      "rank": "4817",
+      "domain": "marksandspencer.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.marksandspencer.com/the-beauty-advent-calender-2026/p/hbp61228694",
+      "depth": 1,
+      "parent_url": "https://www.marksandspencer.com/",
+      "attempt": 18,
+      "timestamp": "2026-11-12T21:14:04.640553+00:00",
+      "final_url": "https://www.marksandspencer.com/the-beauty-advent-calender-2026/p/hbp61228694",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'none'; base-uri 'none'; img-src 'self' data: lantern.roeye.com *.bing.com *.bing.net images.ctfassets.net *.contentsquare.net cm.everesttech.net dpm.demdex.net *.doubleclick.net *.facebook.com *.facebook.net *.google.com *.google.co.uk *.google.ie *.googlesyndication.com *.googleadservices.com *.googletagmanager.com *.iseaskies.com *.marksandspencer.com *.marksandspencer.app *.cxnmarksandspencer.com *.mparticle.com *.onetrust.com *.reddit.com analytics.tiktok.com match.adsrvr.org edge.curalate.com; connect-src 'self' ms-gb.attn.tv *.attentivemobile.com the.sciencebehindecommerce.com www.wepowerconnections.com *.bing.com *.bing.net *.contentsquare.net dpm.demdex.net *.doubleclick.net *.dynatrace.com *.facebook.com *.facebook.net *.google.com *.google.co.uk *.google.ie *.googlesyndication.com *.google-analytics.com *.googleadservices.com *.googletagmanager.com translate.googleapis.com obseu.iseaskies.com *.medallia.eu *.marksandspencer.app *.marksandspencer.com *.mnscorp.net *.mparticle.com *.onetrust.com *.optimizely.com *.zaius.eu s.pinimg.com ct.pinterest.com *.reddit.com *.swrve.com api.taggstar.com *.tiktok.com *.tiktokw.us tags.tiqcdn.com edge.curalate.com *.foundit.com mas-consumer.truefitcorp.com mas-consumer.staging.truefitcorp.com p11.techlab-cdn.com; child-src 'none'; manifest-src 'self' *.marksandspencer.com; frame-ancestors 'self'; form-action 'self' www.facebook.com; object-src 'none'; worker-src blob: 'self'; script-src 'self' 'unsafe-inline' cdn.attn.tv *.dwin1.com *.roeyecdn.com the.sciencebehindecommerce.com *.bing.com *.bing.net blob: *.contentsquare.net *.doubleclick.net js-cdn.dynatrace.com *.facebook.com *.facebook.net *.getamigo.io *.googletagmanager.com *.iseaskies.com *.medallia.eu *.marksandspencer.com *.mparticle.com *.onetrust.com *.optimizely.com *.zaius.eu s.pinimg.com ct.pinterest.com *.redditstatic.com *.tiktok.com tags.tiqcdn.com *.curalate.com mas-cdn.truefitcorp.com p11.techlab-cdn.com; style-src 'self' 'unsafe-inline' *.bing.com *.bing.net fonts.googleapis.com *.optimizely.com; frame-src *.awin1.com *.demdex.net *.doubleclick.net www.facebook.com servedby.flashtalking.com *.googletagmanager.com *.medallia.eu *.optimizely.com ct.pinterest.com *.truefitcorp.com; font-src *.contentsquare.net fonts.gstatic.com *.iseaskies.com *.marksandspencer.com; media-src *.marksandspencer.app *.curalate.com; upgrade-insecure-requests"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=15768000"
+        ]
+      },
+      "body_bytes": 725435,
+      "truncated": false,
+      "body_sha256": "5579b9ecd099e6711cac755ce6d5e75823418e0bf6837001058d47201fe394ac",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "The Beauty Advent Calendar 2026 - Worth \u00a3450/\u20ac500 by M&S",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "4817",
+      "domain": "marksandspencer.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.marksandspencer.com/ultimate-comfort-6cm-mattress-topper/p/hbp60735556",
+      "depth": 2,
+      "parent_url": "https://www.marksandspencer.com/l/offers/home-offers",
+      "attempt": 19,
+      "timestamp": "2026-11-12T21:14:05.873869+00:00",
+      "final_url": "https://www.marksandspencer.com/ultimate-comfort-6cm-mattress-topper/p/hbp60735556",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'none'; base-uri 'none'; img-src 'self' data: lantern.roeye.com *.bing.com *.bing.net images.ctfassets.net *.contentsquare.net cm.everesttech.net dpm.demdex.net *.doubleclick.net *.facebook.com *.facebook.net *.google.com *.google.co.uk *.google.ie *.googlesyndication.com *.googleadservices.com *.googletagmanager.com *.iseaskies.com *.marksandspencer.com *.marksandspencer.app *.cxnmarksandspencer.com *.mparticle.com *.onetrust.com *.reddit.com analytics.tiktok.com match.adsrvr.org edge.curalate.com; connect-src 'self' ms-gb.attn.tv *.attentivemobile.com the.sciencebehindecommerce.com www.wepowerconnections.com *.bing.com *.bing.net *.contentsquare.net dpm.demdex.net *.doubleclick.net *.dynatrace.com *.facebook.com *.facebook.net *.google.com *.google.co.uk *.google.ie *.googlesyndication.com *.google-analytics.com *.googleadservices.com *.googletagmanager.com translate.googleapis.com obseu.iseaskies.com *.medallia.eu *.marksandspencer.app *.marksandspencer.com *.mnscorp.net *.mparticle.com *.onetrust.com *.optimizely.com *.zaius.eu s.pinimg.com ct.pinterest.com *.reddit.com *.swrve.com api.taggstar.com *.tiktok.com *.tiktokw.us tags.tiqcdn.com edge.curalate.com *.foundit.com mas-consumer.truefitcorp.com mas-consumer.staging.truefitcorp.com p11.techlab-cdn.com; child-src 'none'; manifest-src 'self' *.marksandspencer.com; frame-ancestors 'self'; form-action 'self' www.facebook.com; object-src 'none'; worker-src blob: 'self'; script-src 'self' 'unsafe-inline' cdn.attn.tv *.dwin1.com *.roeyecdn.com the.sciencebehindecommerce.com *.bing.com *.bing.net blob: *.contentsquare.net *.doubleclick.net js-cdn.dynatrace.com *.facebook.com *.facebook.net *.getamigo.io *.googletagmanager.com *.iseaskies.com *.medallia.eu *.marksandspencer.com *.mparticle.com *.onetrust.com *.optimizely.com *.zaius.eu s.pinimg.com ct.pinterest.com *.redditstatic.com *.tiktok.com tags.tiqcdn.com *.curalate.com mas-cdn.truefitcorp.com p11.techlab-cdn.com; style-src 'self' 'unsafe-inline' *.bing.com *.bing.net fonts.googleapis.com *.optimizely.com; frame-src *.awin1.com *.demdex.net *.doubleclick.net www.facebook.com servedby.flashtalking.com *.googletagmanager.com *.medallia.eu *.optimizely.com ct.pinterest.com *.truefitcorp.com; font-src *.contentsquare.net fonts.gstatic.com *.iseaskies.com *.marksandspencer.com; media-src *.marksandspencer.app *.curalate.com; upgrade-insecure-requests"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=15768000"
+        ]
+      },
+      "body_bytes": 691593,
+      "truncated": false,
+      "body_sha256": "18ee2d78331f463c018e54880cc4a12b430cacce4bacebe7e85dbe9dfe576277",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Ultimate Comfort 6cm Mattress Topper by M&S",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "4817",
+      "domain": "marksandspencer.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.marksandspencer.com/2pk-ultimate-comfort-oxford-pillowcases/p/hbp60714163",
+      "depth": 4,
+      "parent_url": "https://www.marksandspencer.com/2pk-ultimate-comfort-oxford-pillowcases/p/hbp60714163",
+      "attempt": 20,
+      "timestamp": "2026-11-12T21:14:07.447893+00:00",
+      "final_url": "https://www.marksandspencer.com/2pk-ultimate-comfort-oxford-pillowcases/p/hbp60714163",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'none'; base-uri 'none'; img-src 'self' data: lantern.roeye.com *.bing.com *.bing.net images.ctfassets.net *.contentsquare.net cm.everesttech.net dpm.demdex.net *.doubleclick.net *.facebook.com *.facebook.net *.google.com *.google.co.uk *.google.ie *.googlesyndication.com *.googleadservices.com *.googletagmanager.com *.iseaskies.com *.marksandspencer.com *.marksandspencer.app *.cxnmarksandspencer.com *.mparticle.com *.onetrust.com *.reddit.com analytics.tiktok.com match.adsrvr.org edge.curalate.com; connect-src 'self' ms-gb.attn.tv *.attentivemobile.com the.sciencebehindecommerce.com www.wepowerconnections.com *.bing.com *.bing.net *.contentsquare.net dpm.demdex.net *.doubleclick.net *.dynatrace.com *.facebook.com *.facebook.net *.google.com *.google.co.uk *.google.ie *.googlesyndication.com *.google-analytics.com *.googleadservices.com *.googletagmanager.com translate.googleapis.com obseu.iseaskies.com *.medallia.eu *.marksandspencer.app *.marksandspencer.com *.mnscorp.net *.mparticle.com *.onetrust.com *.optimizely.com *.zaius.eu s.pinimg.com ct.pinterest.com *.reddit.com *.swrve.com api.taggstar.com *.tiktok.com *.tiktokw.us tags.tiqcdn.com edge.curalate.com *.foundit.com mas-consumer.truefitcorp.com mas-consumer.staging.truefitcorp.com p11.techlab-cdn.com; child-src 'none'; manifest-src 'self' *.marksandspencer.com; frame-ancestors 'self'; form-action 'self' www.facebook.com; object-src 'none'; worker-src blob: 'self'; script-src 'self' 'unsafe-inline' cdn.attn.tv *.dwin1.com *.roeyecdn.com the.sciencebehindecommerce.com *.bing.com *.bing.net blob: *.contentsquare.net *.doubleclick.net js-cdn.dynatrace.com *.facebook.com *.facebook.net *.getamigo.io *.googletagmanager.com *.iseaskies.com *.medallia.eu *.marksandspencer.com *.mparticle.com *.onetrust.com *.optimizely.com *.zaius.eu s.pinimg.com ct.pinterest.com *.redditstatic.com *.tiktok.com tags.tiqcdn.com *.curalate.com mas-cdn.truefitcorp.com p11.techlab-cdn.com; style-src 'self' 'unsafe-inline' *.bing.com *.bing.net fonts.googleapis.com *.optimizely.com; frame-src *.awin1.com *.demdex.net *.doubleclick.net www.facebook.com servedby.flashtalking.com *.googletagmanager.com *.medallia.eu *.optimizely.com ct.pinterest.com *.truefitcorp.com; font-src *.contentsquare.net fonts.gstatic.com *.iseaskies.com *.marksandspencer.com; media-src *.marksandspencer.app *.curalate.com; upgrade-insecure-requests"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=15768000"
+        ]
+      },
+      "body_bytes": 725666,
+      "truncated": false,
+      "body_sha256": "a2c955cbad7fc8f1915b87a39847c7bb4d2a68daf454352b59db8637edd8c18d",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "2 Pack Ultimate Silky & Softy Oxford Pillowcases by M&S",
+      "duplicate_final": true,
+      "eligible": false
+    },
+    {
+      "rank": "4817",
+      "domain": "marksandspencer.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.marksandspencer.com/the-parent-hood",
+      "depth": 1,
+      "parent_url": "https://www.marksandspencer.com/",
+      "attempt": 21,
+      "timestamp": "2026-11-12T21:14:09.188007+00:00",
+      "final_url": "https://www.marksandspencer.com/the-parent-hood",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'none'; base-uri 'none'; img-src 'self' data: lantern.roeye.com *.bing.com *.bing.net images.ctfassets.net *.contentsquare.net cm.everesttech.net dpm.demdex.net *.doubleclick.net *.facebook.com *.facebook.net *.google.com *.google.co.uk *.google.ie *.googlesyndication.com *.googleadservices.com *.googletagmanager.com *.iseaskies.com *.marksandspencer.com *.marksandspencer.app *.cxnmarksandspencer.com *.mparticle.com *.onetrust.com *.reddit.com analytics.tiktok.com match.adsrvr.org; connect-src 'self' ms-gb.attn.tv *.attentivemobile.com the.sciencebehindecommerce.com www.wepowerconnections.com *.bing.com *.bing.net *.contentsquare.net dpm.demdex.net *.doubleclick.net *.optimizely.com *.zaius.eu *.dynatrace.com *.facebook.com *.facebook.net *.google.com *.google.co.uk *.google.ie *.googlesyndication.com *.google-analytics.com *.googleadservices.com *.googletagmanager.com obseu.iseaskies.com *.medallia.eu *.marksandspencer.app *.marksandspencer.com *.mnscorp.net *.mparticle.com *.onetrust.com s.pinimg.com ct.pinterest.com *.reddit.com *.tiktok.com *.tiktokw.us tags.tiqcdn.com p11.techlab-cdn.com; child-src 'none'; manifest-src 'self' *.marksandspencer.com; frame-ancestors 'self'; form-action 'self' www.facebook.com; object-src 'none'; worker-src blob:; script-src 'self' 'unsafe-inline' cdn.attn.tv *.dwin1.com *.roeyecdn.com the.sciencebehindecommerce.com *.bing.com *.bing.net blob: *.contentsquare.net *.doubleclick.net *.optimizely.com *.zaius.eu js-cdn.dynatrace.com *.facebook.com *.facebook.net *.googletagmanager.com *.iseaskies.com *.medallia.eu *.marksandspencer.com *.mparticle.com *.onetrust.com s.pinimg.com ct.pinterest.com *.redditstatic.com *.tiktok.com tags.tiqcdn.com p11.techlab-cdn.com; style-src 'self' 'unsafe-inline' *.bing.com *.bing.net *.optimizely.com fonts.googleapis.com; frame-src *.awin1.com *.demdex.net *.doubleclick.net *.optimizely.com www.facebook.com servedby.flashtalking.com *.googletagmanager.com *.medallia.eu ct.pinterest.com; font-src *.contentsquare.net fonts.gstatic.com *.iseaskies.com *.marksandspencer.com; media-src *.marksandspencer.app; upgrade-insecure-requests"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=15768000"
+        ]
+      },
+      "body_bytes": 711577,
+      "truncated": false,
+      "body_sha256": "f52af43c2fe7db96d6e85eabb441a6fd3deb905f018964256ee2937002ecfca9",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "The parent hood | M&S",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "4817",
+      "domain": "marksandspencer.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.marksandspencer.com/2pk-ultimate-comfort-standard-pillowcases/p/hbp60714139",
+      "depth": 2,
+      "parent_url": "https://www.marksandspencer.com/l/offers/home-offers",
+      "attempt": 22,
+      "timestamp": "2026-11-12T21:14:12.754809+00:00",
+      "final_url": "https://www.marksandspencer.com/2pk-ultimate-comfort-standard-pillowcases/p/hbp60714139",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'none'; base-uri 'none'; img-src 'self' data: lantern.roeye.com *.bing.com *.bing.net images.ctfassets.net *.contentsquare.net cm.everesttech.net dpm.demdex.net *.doubleclick.net *.facebook.com *.facebook.net *.google.com *.google.co.uk *.google.ie *.googlesyndication.com *.googleadservices.com *.googletagmanager.com *.iseaskies.com *.marksandspencer.com *.marksandspencer.app *.cxnmarksandspencer.com *.mparticle.com *.onetrust.com *.reddit.com analytics.tiktok.com match.adsrvr.org edge.curalate.com; connect-src 'self' ms-gb.attn.tv *.attentivemobile.com the.sciencebehindecommerce.com www.wepowerconnections.com *.bing.com *.bing.net *.contentsquare.net dpm.demdex.net *.doubleclick.net *.dynatrace.com *.facebook.com *.facebook.net *.google.com *.google.co.uk *.google.ie *.googlesyndication.com *.google-analytics.com *.googleadservices.com *.googletagmanager.com translate.googleapis.com obseu.iseaskies.com *.medallia.eu *.marksandspencer.app *.marksandspencer.com *.mnscorp.net *.mparticle.com *.onetrust.com *.optimizely.com *.zaius.eu s.pinimg.com ct.pinterest.com *.reddit.com *.swrve.com api.taggstar.com *.tiktok.com *.tiktokw.us tags.tiqcdn.com edge.curalate.com *.foundit.com mas-consumer.truefitcorp.com mas-consumer.staging.truefitcorp.com p11.techlab-cdn.com; child-src 'none'; manifest-src 'self' *.marksandspencer.com; frame-ancestors 'self'; form-action 'self' www.facebook.com; object-src 'none'; worker-src blob: 'self'; script-src 'self' 'unsafe-inline' cdn.attn.tv *.dwin1.com *.roeyecdn.com the.sciencebehindecommerce.com *.bing.com *.bing.net blob: *.contentsquare.net *.doubleclick.net js-cdn.dynatrace.com *.facebook.com *.facebook.net *.getamigo.io *.googletagmanager.com *.iseaskies.com *.medallia.eu *.marksandspencer.com *.mparticle.com *.onetrust.com *.optimizely.com *.zaius.eu s.pinimg.com ct.pinterest.com *.redditstatic.com *.tiktok.com tags.tiqcdn.com *.curalate.com mas-cdn.truefitcorp.com p11.techlab-cdn.com; style-src 'self' 'unsafe-inline' *.bing.com *.bing.net fonts.googleapis.com *.optimizely.com; frame-src *.awin1.com *.demdex.net *.doubleclick.net www.facebook.com servedby.flashtalking.com *.googletagmanager.com *.medallia.eu *.optimizely.com ct.pinterest.com *.truefitcorp.com; font-src *.contentsquare.net fonts.gstatic.com *.iseaskies.com *.marksandspencer.com; media-src *.marksandspencer.app *.curalate.com; upgrade-insecure-requests"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=15768000"
+        ]
+      },
+      "body_bytes": 734784,
+      "truncated": false,
+      "body_sha256": "95d066bbfd489e11214f1a18f7d987e6a9fab2853fe50c8afa6462aa31c94256",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "2 Pack Ultimate Soft & Silky Pillowcases by M&S",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "4817",
+      "domain": "marksandspencer.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.marksandspencer.com/food/l/christmas-groceries-in-store",
+      "depth": 1,
+      "parent_url": "https://www.marksandspencer.com/",
+      "attempt": 23,
+      "timestamp": "2026-11-12T21:14:14.834052+00:00",
+      "final_url": "https://www.marksandspencer.com/food/l/christmas-groceries-in-store",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'none'; base-uri 'none'; img-src 'self' data: lantern.roeye.com *.bing.com *.bing.net images.ctfassets.net atlas.microsoft.com blob: *.contentsquare.net cm.everesttech.net dpm.demdex.net *.doubleclick.net *.facebook.com *.facebook.net *.google.com *.google.co.uk *.google.ie *.googlesyndication.com *.googleadservices.com *.googletagmanager.com *.iseaskies.com *.marksandspencer.com *.marksandspencer.app *.cxnmarksandspencer.com *.mparticle.com *.onetrust.com *.reddit.com analytics.tiktok.com match.adsrvr.org; connect-src 'self' ms-gb.attn.tv *.attentivemobile.com the.sciencebehindecommerce.com www.wepowerconnections.com *.bing.com *.bing.net atlas.microsoft.com *.atlas.microsoft.com *.contentsquare.net dpm.demdex.net *.doubleclick.net *.dynatrace.com *.facebook.com *.facebook.net *.google.com *.google.co.uk *.google.ie *.googlesyndication.com *.google-analytics.com *.googleadservices.com *.googletagmanager.com obseu.iseaskies.com *.medallia.eu *.marksandspencer.app *.marksandspencer.com *.mnscorp.net *.mparticle.com *.onetrust.com *.optimizely.com *.zaius.eu s.pinimg.com ct.pinterest.com *.reddit.com *.tiktok.com *.tiktokw.us tags.tiqcdn.com p11.techlab-cdn.com; child-src 'none'; manifest-src 'self' *.marksandspencer.com; frame-ancestors 'self'; form-action 'self' www.facebook.com; object-src 'none'; worker-src blob:; script-src 'self' 'unsafe-inline' cdn.attn.tv *.dwin1.com *.roeyecdn.com the.sciencebehindecommerce.com *.bing.com *.bing.net atlas.microsoft.com blob: *.contentsquare.net *.doubleclick.net js-cdn.dynatrace.com *.facebook.com *.facebook.net *.googletagmanager.com *.iseaskies.com *.medallia.eu *.marksandspencer.com *.mparticle.com *.onetrust.com *.optimizely.com *.zaius.eu s.pinimg.com ct.pinterest.com *.redditstatic.com *.tiktok.com tags.tiqcdn.com p11.techlab-cdn.com; style-src 'self' 'unsafe-inline' *.bing.com *.bing.net atlas.microsoft.com fonts.googleapis.com *.optimizely.com; frame-src *.awin1.com *.demdex.net *.doubleclick.net www.facebook.com servedby.flashtalking.com *.googletagmanager.com *.medallia.eu *.optimizely.com ct.pinterest.com; font-src atlas.microsoft.com *.atlas.microsoft.com *.contentsquare.net fonts.gstatic.com *.iseaskies.com *.marksandspencer.com; media-src *.marksandspencer.app; upgrade-insecure-requests"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=15768000"
+        ]
+      },
+      "body_bytes": 833873,
+      "truncated": false,
+      "body_sha256": "ea62259adf64e297588ae0056d2b045e8b4de0307862c20acef857c63f7d8830",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Christmas Groceries In-Store at M&S Food",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "4817",
+      "domain": "marksandspencer.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.marksandspencer.com/3pk-vitreous-enamel-roaster-set/p/hbp60677256",
+      "depth": 2,
+      "parent_url": "https://www.marksandspencer.com/l/offers/home-offers",
+      "attempt": 24,
+      "timestamp": "2026-11-12T21:14:17.033486+00:00",
+      "final_url": "https://www.marksandspencer.com/3pk-vitreous-enamel-roaster-set/p/hbp60677256",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'none'; base-uri 'none'; img-src 'self' data: lantern.roeye.com *.bing.com *.bing.net images.ctfassets.net *.contentsquare.net cm.everesttech.net dpm.demdex.net *.doubleclick.net *.facebook.com *.facebook.net *.google.com *.google.co.uk *.google.ie *.googlesyndication.com *.googleadservices.com *.googletagmanager.com *.iseaskies.com *.marksandspencer.com *.marksandspencer.app *.cxnmarksandspencer.com *.mparticle.com *.onetrust.com *.reddit.com analytics.tiktok.com match.adsrvr.org edge.curalate.com; connect-src 'self' ms-gb.attn.tv *.attentivemobile.com the.sciencebehindecommerce.com www.wepowerconnections.com *.bing.com *.bing.net *.contentsquare.net dpm.demdex.net *.doubleclick.net *.dynatrace.com *.facebook.com *.facebook.net *.google.com *.google.co.uk *.google.ie *.googlesyndication.com *.google-analytics.com *.googleadservices.com *.googletagmanager.com translate.googleapis.com obseu.iseaskies.com *.medallia.eu *.marksandspencer.app *.marksandspencer.com *.mnscorp.net *.mparticle.com *.onetrust.com *.optimizely.com *.zaius.eu s.pinimg.com ct.pinterest.com *.reddit.com *.swrve.com api.taggstar.com *.tiktok.com *.tiktokw.us tags.tiqcdn.com edge.curalate.com *.foundit.com mas-consumer.truefitcorp.com mas-consumer.staging.truefitcorp.com p11.techlab-cdn.com; child-src 'none'; manifest-src 'self' *.marksandspencer.com; frame-ancestors 'self'; form-action 'self' www.facebook.com; object-src 'none'; worker-src blob: 'self'; script-src 'self' 'unsafe-inline' cdn.attn.tv *.dwin1.com *.roeyecdn.com the.sciencebehindecommerce.com *.bing.com *.bing.net blob: *.contentsquare.net *.doubleclick.net js-cdn.dynatrace.com *.facebook.com *.facebook.net *.getamigo.io *.googletagmanager.com *.iseaskies.com *.medallia.eu *.marksandspencer.com *.mparticle.com *.onetrust.com *.optimizely.com *.zaius.eu s.pinimg.com ct.pinterest.com *.redditstatic.com *.tiktok.com tags.tiqcdn.com *.curalate.com mas-cdn.truefitcorp.com p11.techlab-cdn.com; style-src 'self' 'unsafe-inline' *.bing.com *.bing.net fonts.googleapis.com *.optimizely.com; frame-src *.awin1.com *.demdex.net *.doubleclick.net www.facebook.com servedby.flashtalking.com *.googletagmanager.com *.medallia.eu *.optimizely.com ct.pinterest.com *.truefitcorp.com; font-src *.contentsquare.net fonts.gstatic.com *.iseaskies.com *.marksandspencer.com; media-src *.marksandspencer.app *.curalate.com; upgrade-insecure-requests"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=15768000"
+        ]
+      },
+      "body_bytes": 694459,
+      "truncated": false,
+      "body_sha256": "eba8178d16b5592053486458ae345c60e0ff7fb6d50a5bbd465fe3a22ca11068",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "3 Piece Vitreous Enamel Roaster Set by M&S",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "4817",
+      "domain": "marksandspencer.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.marksandspencer.com/completely-choctastic-cupcake-selection-serves-12-/p/fdp60760721",
+      "depth": 1,
+      "parent_url": "https://www.marksandspencer.com/",
+      "attempt": 25,
+      "timestamp": "2026-11-12T21:14:19.175731+00:00",
+      "final_url": "https://www.marksandspencer.com/completely-choctastic-cupcake-selection-serves-12-/p/fdp60760721",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'none'; base-uri 'none'; img-src 'self' data: lantern.roeye.com *.bing.com *.bing.net images.ctfassets.net *.contentsquare.net cm.everesttech.net dpm.demdex.net *.doubleclick.net *.facebook.com *.facebook.net *.google.com *.google.co.uk *.google.ie *.googlesyndication.com *.googleadservices.com *.googletagmanager.com *.iseaskies.com *.marksandspencer.com *.marksandspencer.app *.cxnmarksandspencer.com *.mparticle.com *.onetrust.com *.reddit.com analytics.tiktok.com match.adsrvr.org edge.curalate.com; connect-src 'self' ms-gb.attn.tv *.attentivemobile.com the.sciencebehindecommerce.com www.wepowerconnections.com *.bing.com *.bing.net *.contentsquare.net dpm.demdex.net *.doubleclick.net *.dynatrace.com *.facebook.com *.facebook.net *.google.com *.google.co.uk *.google.ie *.googlesyndication.com *.google-analytics.com *.googleadservices.com *.googletagmanager.com translate.googleapis.com obseu.iseaskies.com *.medallia.eu *.marksandspencer.app *.marksandspencer.com *.mnscorp.net *.mparticle.com *.onetrust.com *.optimizely.com *.zaius.eu s.pinimg.com ct.pinterest.com *.reddit.com *.swrve.com api.taggstar.com *.tiktok.com *.tiktokw.us tags.tiqcdn.com edge.curalate.com *.foundit.com mas-consumer.truefitcorp.com mas-consumer.staging.truefitcorp.com p11.techlab-cdn.com; child-src 'none'; manifest-src 'self' *.marksandspencer.com; frame-ancestors 'self'; form-action 'self' www.facebook.com; object-src 'none'; worker-src blob: 'self'; script-src 'self' 'unsafe-inline' cdn.attn.tv *.dwin1.com *.roeyecdn.com the.sciencebehindecommerce.com *.bing.com *.bing.net blob: *.contentsquare.net *.doubleclick.net js-cdn.dynatrace.com *.facebook.com *.facebook.net *.getamigo.io *.googletagmanager.com *.iseaskies.com *.medallia.eu *.marksandspencer.com *.mparticle.com *.onetrust.com *.optimizely.com *.zaius.eu s.pinimg.com ct.pinterest.com *.redditstatic.com *.tiktok.com tags.tiqcdn.com *.curalate.com mas-cdn.truefitcorp.com p11.techlab-cdn.com; style-src 'self' 'unsafe-inline' *.bing.com *.bing.net fonts.googleapis.com *.optimizely.com; frame-src *.awin1.com *.demdex.net *.doubleclick.net www.facebook.com servedby.flashtalking.com *.googletagmanager.com *.medallia.eu *.optimizely.com ct.pinterest.com *.truefitcorp.com; font-src *.contentsquare.net fonts.gstatic.com *.iseaskies.com *.marksandspencer.com; media-src *.marksandspencer.app *.curalate.com; upgrade-insecure-requests"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=15768000"
+        ]
+      },
+      "body_bytes": 683600,
+      "truncated": false,
+      "body_sha256": "7d78d4c36a9fe2a0d1de95273114a2ce2b69334ca9e58e406221b38127520e59",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Completely Choctastic Cupcake Selection (Serves 12) by M&S",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "4817",
+      "domain": "marksandspencer.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.marksandspencer.com/2pk-vitreous-enamel-oven-trays/p/hbp60677255",
+      "depth": 2,
+      "parent_url": "https://www.marksandspencer.com/l/offers/home-offers",
+      "attempt": 26,
+      "timestamp": "2026-11-12T21:14:23.548630+00:00",
+      "final_url": "https://www.marksandspencer.com/2pk-vitreous-enamel-oven-trays/p/hbp60677255",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'none'; base-uri 'none'; img-src 'self' data: lantern.roeye.com *.bing.com *.bing.net images.ctfassets.net *.contentsquare.net cm.everesttech.net dpm.demdex.net *.doubleclick.net *.facebook.com *.facebook.net *.google.com *.google.co.uk *.google.ie *.googlesyndication.com *.googleadservices.com *.googletagmanager.com *.iseaskies.com *.marksandspencer.com *.marksandspencer.app *.cxnmarksandspencer.com *.mparticle.com *.onetrust.com *.reddit.com analytics.tiktok.com match.adsrvr.org edge.curalate.com; connect-src 'self' ms-gb.attn.tv *.attentivemobile.com the.sciencebehindecommerce.com www.wepowerconnections.com *.bing.com *.bing.net *.contentsquare.net dpm.demdex.net *.doubleclick.net *.dynatrace.com *.facebook.com *.facebook.net *.google.com *.google.co.uk *.google.ie *.googlesyndication.com *.google-analytics.com *.googleadservices.com *.googletagmanager.com translate.googleapis.com obseu.iseaskies.com *.medallia.eu *.marksandspencer.app *.marksandspencer.com *.mnscorp.net *.mparticle.com *.onetrust.com *.optimizely.com *.zaius.eu s.pinimg.com ct.pinterest.com *.reddit.com *.swrve.com api.taggstar.com *.tiktok.com *.tiktokw.us tags.tiqcdn.com edge.curalate.com *.foundit.com mas-consumer.truefitcorp.com mas-consumer.staging.truefitcorp.com p11.techlab-cdn.com; child-src 'none'; manifest-src 'self' *.marksandspencer.com; frame-ancestors 'self'; form-action 'self' www.facebook.com; object-src 'none'; worker-src blob: 'self'; script-src 'self' 'unsafe-inline' cdn.attn.tv *.dwin1.com *.roeyecdn.com the.sciencebehindecommerce.com *.bing.com *.bing.net blob: *.contentsquare.net *.doubleclick.net js-cdn.dynatrace.com *.facebook.com *.facebook.net *.getamigo.io *.googletagmanager.com *.iseaskies.com *.medallia.eu *.marksandspencer.com *.mparticle.com *.onetrust.com *.optimizely.com *.zaius.eu s.pinimg.com ct.pinterest.com *.redditstatic.com *.tiktok.com tags.tiqcdn.com *.curalate.com mas-cdn.truefitcorp.com p11.techlab-cdn.com; style-src 'self' 'unsafe-inline' *.bing.com *.bing.net fonts.googleapis.com *.optimizely.com; frame-src *.awin1.com *.demdex.net *.doubleclick.net www.facebook.com servedby.flashtalking.com *.googletagmanager.com *.medallia.eu *.optimizely.com ct.pinterest.com *.truefitcorp.com; font-src *.contentsquare.net fonts.gstatic.com *.iseaskies.com *.marksandspencer.com; media-src *.marksandspencer.app *.curalate.com; upgrade-insecure-requests"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=15768000"
+        ]
+      },
+      "body_bytes": 691084,
+      "truncated": false,
+      "body_sha256": "15d85284bf020ef21f2112e3b0c968f346338c902617c823d3226e8412df4ada",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "2pk Vitreous Enamel Oven Trays by M&S",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "4817",
+      "domain": "marksandspencer.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.marksandspencer.com/fantastically-fruity-cupcake-selection-serves-12-/p/fdp60760722",
+      "depth": 1,
+      "parent_url": "https://www.marksandspencer.com/",
+      "attempt": 27,
+      "timestamp": "2026-11-12T21:14:28.413188+00:00",
+      "final_url": "https://www.marksandspencer.com/fantastically-fruity-cupcake-selection-serves-12-/p/fdp60760722",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'none'; base-uri 'none'; img-src 'self' data: lantern.roeye.com *.bing.com *.bing.net images.ctfassets.net *.contentsquare.net cm.everesttech.net dpm.demdex.net *.doubleclick.net *.facebook.com *.facebook.net *.google.com *.google.co.uk *.google.ie *.googlesyndication.com *.googleadservices.com *.googletagmanager.com *.iseaskies.com *.marksandspencer.com *.marksandspencer.app *.cxnmarksandspencer.com *.mparticle.com *.onetrust.com *.reddit.com analytics.tiktok.com match.adsrvr.org edge.curalate.com; connect-src 'self' ms-gb.attn.tv *.attentivemobile.com the.sciencebehindecommerce.com www.wepowerconnections.com *.bing.com *.bing.net *.contentsquare.net dpm.demdex.net *.doubleclick.net *.dynatrace.com *.facebook.com *.facebook.net *.google.com *.google.co.uk *.google.ie *.googlesyndication.com *.google-analytics.com *.googleadservices.com *.googletagmanager.com translate.googleapis.com obseu.iseaskies.com *.medallia.eu *.marksandspencer.app *.marksandspencer.com *.mnscorp.net *.mparticle.com *.onetrust.com *.optimizely.com *.zaius.eu s.pinimg.com ct.pinterest.com *.reddit.com *.swrve.com api.taggstar.com *.tiktok.com *.tiktokw.us tags.tiqcdn.com edge.curalate.com *.foundit.com mas-consumer.truefitcorp.com mas-consumer.staging.truefitcorp.com p11.techlab-cdn.com; child-src 'none'; manifest-src 'self' *.marksandspencer.com; frame-ancestors 'self'; form-action 'self' www.facebook.com; object-src 'none'; worker-src blob: 'self'; script-src 'self' 'unsafe-inline' cdn.attn.tv *.dwin1.com *.roeyecdn.com the.sciencebehindecommerce.com *.bing.com *.bing.net blob: *.contentsquare.net *.doubleclick.net js-cdn.dynatrace.com *.facebook.com *.facebook.net *.getamigo.io *.googletagmanager.com *.iseaskies.com *.medallia.eu *.marksandspencer.com *.mparticle.com *.onetrust.com *.optimizely.com *.zaius.eu s.pinimg.com ct.pinterest.com *.redditstatic.com *.tiktok.com tags.tiqcdn.com *.curalate.com mas-cdn.truefitcorp.com p11.techlab-cdn.com; style-src 'self' 'unsafe-inline' *.bing.com *.bing.net fonts.googleapis.com *.optimizely.com; frame-src *.awin1.com *.demdex.net *.doubleclick.net www.facebook.com servedby.flashtalking.com *.googletagmanager.com *.medallia.eu *.optimizely.com ct.pinterest.com *.truefitcorp.com; font-src *.contentsquare.net fonts.gstatic.com *.iseaskies.com *.marksandspencer.com; media-src *.marksandspencer.app *.curalate.com; upgrade-insecure-requests"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=15768000"
+        ]
+      },
+      "body_bytes": 678255,
+      "truncated": false,
+      "body_sha256": "992643a29c1e94d103c40ce426e9cd8f62a8664ddd125b0eba461743f50fd934",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Fantastically Fruity Cupcake Selection (Serves 12) by M&S",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "4817",
+      "domain": "marksandspencer.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.marksandspencer.com/evelyn-wooden-bobbin-table-lamp/p/hbp22153679",
+      "depth": 2,
+      "parent_url": "https://www.marksandspencer.com/l/offers/home-offers",
+      "attempt": 28,
+      "timestamp": "2026-11-12T21:14:36.539179+00:00",
+      "final_url": "https://www.marksandspencer.com/evelyn-wooden-bobbin-table-lamp/p/hbp22153679",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'none'; base-uri 'none'; img-src 'self' data: lantern.roeye.com *.bing.com *.bing.net images.ctfassets.net *.contentsquare.net cm.everesttech.net dpm.demdex.net *.doubleclick.net *.facebook.com *.facebook.net *.google.com *.google.co.uk *.google.ie *.googlesyndication.com *.googleadservices.com *.googletagmanager.com *.iseaskies.com *.marksandspencer.com *.marksandspencer.app *.cxnmarksandspencer.com *.mparticle.com *.onetrust.com *.reddit.com analytics.tiktok.com match.adsrvr.org edge.curalate.com; connect-src 'self' ms-gb.attn.tv *.attentivemobile.com the.sciencebehindecommerce.com www.wepowerconnections.com *.bing.com *.bing.net *.contentsquare.net dpm.demdex.net *.doubleclick.net *.dynatrace.com *.facebook.com *.facebook.net *.google.com *.google.co.uk *.google.ie *.googlesyndication.com *.google-analytics.com *.googleadservices.com *.googletagmanager.com translate.googleapis.com obseu.iseaskies.com *.medallia.eu *.marksandspencer.app *.marksandspencer.com *.mnscorp.net *.mparticle.com *.onetrust.com *.optimizely.com *.zaius.eu s.pinimg.com ct.pinterest.com *.reddit.com *.swrve.com api.taggstar.com *.tiktok.com *.tiktokw.us tags.tiqcdn.com edge.curalate.com *.foundit.com mas-consumer.truefitcorp.com mas-consumer.staging.truefitcorp.com p11.techlab-cdn.com; child-src 'none'; manifest-src 'self' *.marksandspencer.com; frame-ancestors 'self'; form-action 'self' www.facebook.com; object-src 'none'; worker-src blob: 'self'; script-src 'self' 'unsafe-inline' cdn.attn.tv *.dwin1.com *.roeyecdn.com the.sciencebehindecommerce.com *.bing.com *.bing.net blob: *.contentsquare.net *.doubleclick.net js-cdn.dynatrace.com *.facebook.com *.facebook.net *.getamigo.io *.googletagmanager.com *.iseaskies.com *.medallia.eu *.marksandspencer.com *.mparticle.com *.onetrust.com *.optimizely.com *.zaius.eu s.pinimg.com ct.pinterest.com *.redditstatic.com *.tiktok.com tags.tiqcdn.com *.curalate.com mas-cdn.truefitcorp.com p11.techlab-cdn.com; style-src 'self' 'unsafe-inline' *.bing.com *.bing.net fonts.googleapis.com *.optimizely.com; frame-src *.awin1.com *.demdex.net *.doubleclick.net www.facebook.com servedby.flashtalking.com *.googletagmanager.com *.medallia.eu *.optimizely.com ct.pinterest.com *.truefitcorp.com; font-src *.contentsquare.net fonts.gstatic.com *.iseaskies.com *.marksandspencer.com; media-src *.marksandspencer.app *.curalate.com; upgrade-insecure-requests"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=15768000"
+        ]
+      },
+      "body_bytes": 603998,
+      "truncated": false,
+      "body_sha256": "c4a6b88bd9aebba5ad08f7ef88e8c193b8894cdfcb6a8ecb8d6cd26288de07ee",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Evelyn Wooden Bobbin Table Lamp by M&S",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "4817",
+      "domain": "marksandspencer.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.marksandspencer.com/2-pack-4w-e14-candle-led-light-bulbs/p/hbp60896845",
+      "depth": 3,
+      "parent_url": "https://www.marksandspencer.com/evelyn-wooden-bobbin-table-lamp/p/hbp22153679",
+      "attempt": 29,
+      "timestamp": "2026-11-12T21:14:44.658427+00:00",
+      "final_url": "https://www.marksandspencer.com/2-pack-ses-4w-candle-led-bulb/p/hbp60896845",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'none'; base-uri 'none'; img-src 'self' data: lantern.roeye.com *.bing.com *.bing.net images.ctfassets.net *.contentsquare.net cm.everesttech.net dpm.demdex.net *.doubleclick.net *.facebook.com *.facebook.net *.google.com *.google.co.uk *.google.ie *.googlesyndication.com *.googleadservices.com *.googletagmanager.com *.iseaskies.com *.marksandspencer.com *.marksandspencer.app *.cxnmarksandspencer.com *.mparticle.com *.onetrust.com *.reddit.com analytics.tiktok.com match.adsrvr.org edge.curalate.com; connect-src 'self' ms-gb.attn.tv *.attentivemobile.com the.sciencebehindecommerce.com www.wepowerconnections.com *.bing.com *.bing.net *.contentsquare.net dpm.demdex.net *.doubleclick.net *.dynatrace.com *.facebook.com *.facebook.net *.google.com *.google.co.uk *.google.ie *.googlesyndication.com *.google-analytics.com *.googleadservices.com *.googletagmanager.com translate.googleapis.com obseu.iseaskies.com *.medallia.eu *.marksandspencer.app *.marksandspencer.com *.mnscorp.net *.mparticle.com *.onetrust.com *.optimizely.com *.zaius.eu s.pinimg.com ct.pinterest.com *.reddit.com *.swrve.com api.taggstar.com *.tiktok.com *.tiktokw.us tags.tiqcdn.com edge.curalate.com *.foundit.com mas-consumer.truefitcorp.com mas-consumer.staging.truefitcorp.com p11.techlab-cdn.com; child-src 'none'; manifest-src 'self' *.marksandspencer.com; frame-ancestors 'self'; form-action 'self' www.facebook.com; object-src 'none'; worker-src blob: 'self'; script-src 'self' 'unsafe-inline' cdn.attn.tv *.dwin1.com *.roeyecdn.com the.sciencebehindecommerce.com *.bing.com *.bing.net blob: *.contentsquare.net *.doubleclick.net js-cdn.dynatrace.com *.facebook.com *.facebook.net *.getamigo.io *.googletagmanager.com *.iseaskies.com *.medallia.eu *.marksandspencer.com *.mparticle.com *.onetrust.com *.optimizely.com *.zaius.eu s.pinimg.com ct.pinterest.com *.redditstatic.com *.tiktok.com tags.tiqcdn.com *.curalate.com mas-cdn.truefitcorp.com p11.techlab-cdn.com; style-src 'self' 'unsafe-inline' *.bing.com *.bing.net fonts.googleapis.com *.optimizely.com; frame-src *.awin1.com *.demdex.net *.doubleclick.net www.facebook.com servedby.flashtalking.com *.googletagmanager.com *.medallia.eu *.optimizely.com ct.pinterest.com *.truefitcorp.com; font-src *.contentsquare.net fonts.gstatic.com *.iseaskies.com *.marksandspencer.com; media-src *.marksandspencer.app *.curalate.com; upgrade-insecure-requests"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=15768000"
+        ]
+      },
+      "body_bytes": 617693,
+      "truncated": false,
+      "body_sha256": "1bc419a0d9350dba039db4ba768c07c1ea70067fba550351202ce0177eda96b8",
+      "redirect_chain": [
+        {
+          "url": "https://www.marksandspencer.com/2-pack-4w-e14-candle-led-light-bulbs/p/hbp60896845",
+          "status": 308,
+          "location": "/2-pack-ses-4w-candle-led-bulb/p/hbp60896845",
+          "headers": {
+            "content-security-policy": [
+              "default-src 'none'; base-uri 'none'; img-src 'self' data: lantern.roeye.com *.bing.com *.bing.net images.ctfassets.net *.contentsquare.net cm.everesttech.net dpm.demdex.net *.doubleclick.net *.facebook.com *.facebook.net *.google.com *.google.co.uk *.google.ie *.googlesyndication.com *.googleadservices.com *.googletagmanager.com *.iseaskies.com *.marksandspencer.com *.marksandspencer.app *.cxnmarksandspencer.com *.mparticle.com *.onetrust.com *.reddit.com analytics.tiktok.com match.adsrvr.org edge.curalate.com; connect-src 'self' ms-gb.attn.tv *.attentivemobile.com the.sciencebehindecommerce.com www.wepowerconnections.com *.bing.com *.bing.net *.contentsquare.net dpm.demdex.net *.doubleclick.net *.dynatrace.com *.facebook.com *.facebook.net *.google.com *.google.co.uk *.google.ie *.googlesyndication.com *.google-analytics.com *.googleadservices.com *.googletagmanager.com translate.googleapis.com obseu.iseaskies.com *.medallia.eu *.marksandspencer.app *.marksandspencer.com *.mnscorp.net *.mparticle.com *.onetrust.com *.optimizely.com *.zaius.eu s.pinimg.com ct.pinterest.com *.reddit.com *.swrve.com api.taggstar.com *.tiktok.com *.tiktokw.us tags.tiqcdn.com edge.curalate.com *.foundit.com mas-consumer.truefitcorp.com mas-consumer.staging.truefitcorp.com p11.techlab-cdn.com; child-src 'none'; manifest-src 'self' *.marksandspencer.com; frame-ancestors 'self'; form-action 'self' www.facebook.com; object-src 'none'; worker-src blob: 'self'; script-src 'self' 'unsafe-inline' cdn.attn.tv *.dwin1.com *.roeyecdn.com the.sciencebehindecommerce.com *.bing.com *.bing.net blob: *.contentsquare.net *.doubleclick.net js-cdn.dynatrace.com *.facebook.com *.facebook.net *.getamigo.io *.googletagmanager.com *.iseaskies.com *.medallia.eu *.marksandspencer.com *.mparticle.com *.onetrust.com *.optimizely.com *.zaius.eu s.pinimg.com ct.pinterest.com *.redditstatic.com *.tiktok.com tags.tiqcdn.com *.curalate.com mas-cdn.truefitcorp.com p11.techlab-cdn.com; style-src 'self' 'unsafe-inline' *.bing.com *.bing.net fonts.googleapis.com *.optimizely.com; frame-src *.awin1.com *.demdex.net *.doubleclick.net www.facebook.com servedby.flashtalking.com *.googletagmanager.com *.medallia.eu *.optimizely.com ct.pinterest.com *.truefitcorp.com; font-src *.contentsquare.net fonts.gstatic.com *.iseaskies.com *.marksandspencer.com; media-src *.marksandspencer.app *.curalate.com; upgrade-insecure-requests"
+            ],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=15768000"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "2 Pack 4W E14 Candle LED Light Bulbs by M&S",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "4817",
+      "domain": "marksandspencer.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.marksandspencer.com/2-pack-4w-e14-golf-ball-led-light-bulbs/p/hbp60896847",
+      "depth": 3,
+      "parent_url": "https://www.marksandspencer.com/evelyn-wooden-bobbin-table-lamp/p/hbp22153679",
+      "attempt": 30,
+      "timestamp": "2026-11-12T21:14:46.183387+00:00",
+      "final_url": "https://www.marksandspencer.com/2-pack-led-golf-ball-light-bulbs/p/hbp60896847",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'none'; base-uri 'none'; img-src 'self' data: lantern.roeye.com *.bing.com *.bing.net images.ctfassets.net *.contentsquare.net cm.everesttech.net dpm.demdex.net *.doubleclick.net *.facebook.com *.facebook.net *.google.com *.google.co.uk *.google.ie *.googlesyndication.com *.googleadservices.com *.googletagmanager.com *.iseaskies.com *.marksandspencer.com *.marksandspencer.app *.cxnmarksandspencer.com *.mparticle.com *.onetrust.com *.reddit.com analytics.tiktok.com match.adsrvr.org edge.curalate.com; connect-src 'self' ms-gb.attn.tv *.attentivemobile.com the.sciencebehindecommerce.com www.wepowerconnections.com *.bing.com *.bing.net *.contentsquare.net dpm.demdex.net *.doubleclick.net *.dynatrace.com *.facebook.com *.facebook.net *.google.com *.google.co.uk *.google.ie *.googlesyndication.com *.google-analytics.com *.googleadservices.com *.googletagmanager.com translate.googleapis.com obseu.iseaskies.com *.medallia.eu *.marksandspencer.app *.marksandspencer.com *.mnscorp.net *.mparticle.com *.onetrust.com *.optimizely.com *.zaius.eu s.pinimg.com ct.pinterest.com *.reddit.com *.swrve.com api.taggstar.com *.tiktok.com *.tiktokw.us tags.tiqcdn.com edge.curalate.com *.foundit.com mas-consumer.truefitcorp.com mas-consumer.staging.truefitcorp.com p11.techlab-cdn.com; child-src 'none'; manifest-src 'self' *.marksandspencer.com; frame-ancestors 'self'; form-action 'self' www.facebook.com; object-src 'none'; worker-src blob: 'self'; script-src 'self' 'unsafe-inline' cdn.attn.tv *.dwin1.com *.roeyecdn.com the.sciencebehindecommerce.com *.bing.com *.bing.net blob: *.contentsquare.net *.doubleclick.net js-cdn.dynatrace.com *.facebook.com *.facebook.net *.getamigo.io *.googletagmanager.com *.iseaskies.com *.medallia.eu *.marksandspencer.com *.mparticle.com *.onetrust.com *.optimizely.com *.zaius.eu s.pinimg.com ct.pinterest.com *.redditstatic.com *.tiktok.com tags.tiqcdn.com *.curalate.com mas-cdn.truefitcorp.com p11.techlab-cdn.com; style-src 'self' 'unsafe-inline' *.bing.com *.bing.net fonts.googleapis.com *.optimizely.com; frame-src *.awin1.com *.demdex.net *.doubleclick.net www.facebook.com servedby.flashtalking.com *.googletagmanager.com *.medallia.eu *.optimizely.com ct.pinterest.com *.truefitcorp.com; font-src *.contentsquare.net fonts.gstatic.com *.iseaskies.com *.marksandspencer.com; media-src *.marksandspencer.app *.curalate.com; upgrade-insecure-requests"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=15768000"
+        ]
+      },
+      "body_bytes": 585796,
+      "truncated": false,
+      "body_sha256": "a97bf578bff24d027d046e600ad8e432bfe95e04f98e981979deafd131d5b69b",
+      "redirect_chain": [
+        {
+          "url": "https://www.marksandspencer.com/2-pack-4w-e14-golf-ball-led-light-bulbs/p/hbp60896847",
+          "status": 308,
+          "location": "/2-pack-led-golf-ball-light-bulbs/p/hbp60896847",
+          "headers": {
+            "content-security-policy": [
+              "default-src 'none'; base-uri 'none'; img-src 'self' data: lantern.roeye.com *.bing.com *.bing.net images.ctfassets.net *.contentsquare.net cm.everesttech.net dpm.demdex.net *.doubleclick.net *.facebook.com *.facebook.net *.google.com *.google.co.uk *.google.ie *.googlesyndication.com *.googleadservices.com *.googletagmanager.com *.iseaskies.com *.marksandspencer.com *.marksandspencer.app *.cxnmarksandspencer.com *.mparticle.com *.onetrust.com *.reddit.com analytics.tiktok.com match.adsrvr.org edge.curalate.com; connect-src 'self' ms-gb.attn.tv *.attentivemobile.com the.sciencebehindecommerce.com www.wepowerconnections.com *.bing.com *.bing.net *.contentsquare.net dpm.demdex.net *.doubleclick.net *.dynatrace.com *.facebook.com *.facebook.net *.google.com *.google.co.uk *.google.ie *.googlesyndication.com *.google-analytics.com *.googleadservices.com *.googletagmanager.com translate.googleapis.com obseu.iseaskies.com *.medallia.eu *.marksandspencer.app *.marksandspencer.com *.mnscorp.net *.mparticle.com *.onetrust.com *.optimizely.com *.zaius.eu s.pinimg.com ct.pinterest.com *.reddit.com *.swrve.com api.taggstar.com *.tiktok.com *.tiktokw.us tags.tiqcdn.com edge.curalate.com *.foundit.com mas-consumer.truefitcorp.com mas-consumer.staging.truefitcorp.com p11.techlab-cdn.com; child-src 'none'; manifest-src 'self' *.marksandspencer.com; frame-ancestors 'self'; form-action 'self' www.facebook.com; object-src 'none'; worker-src blob: 'self'; script-src 'self' 'unsafe-inline' cdn.attn.tv *.dwin1.com *.roeyecdn.com the.sciencebehindecommerce.com *.bing.com *.bing.net blob: *.contentsquare.net *.doubleclick.net js-cdn.dynatrace.com *.facebook.com *.facebook.net *.getamigo.io *.googletagmanager.com *.iseaskies.com *.medallia.eu *.marksandspencer.com *.mparticle.com *.onetrust.com *.optimizely.com *.zaius.eu s.pinimg.com ct.pinterest.com *.redditstatic.com *.tiktok.com tags.tiqcdn.com *.curalate.com mas-cdn.truefitcorp.com p11.techlab-cdn.com; style-src 'self' 'unsafe-inline' *.bing.com *.bing.net fonts.googleapis.com *.optimizely.com; frame-src *.awin1.com *.demdex.net *.doubleclick.net www.facebook.com servedby.flashtalking.com *.googletagmanager.com *.medallia.eu *.optimizely.com ct.pinterest.com *.truefitcorp.com; font-src *.contentsquare.net fonts.gstatic.com *.iseaskies.com *.marksandspencer.com; media-src *.marksandspencer.app *.curalate.com; upgrade-insecure-requests"
+            ],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=15768000"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "2 Pack 4W E14 Golf Ball LED Light Bulbs by M&S",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "4817",
+      "domain": "marksandspencer.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.marksandspencer.com/2-pack-ses-4w-candle-led-bulb/p/hbp60896845",
+      "depth": 4,
+      "parent_url": "https://www.marksandspencer.com/2-pack-ses-4w-candle-led-bulb/p/hbp60896845",
+      "attempt": 31,
+      "timestamp": "2026-11-12T21:14:49.375144+00:00",
+      "final_url": "https://www.marksandspencer.com/2-pack-ses-4w-candle-led-bulb/p/hbp60896845",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'none'; base-uri 'none'; img-src 'self' data: lantern.roeye.com *.bing.com *.bing.net images.ctfassets.net *.contentsquare.net cm.everesttech.net dpm.demdex.net *.doubleclick.net *.facebook.com *.facebook.net *.google.com *.google.co.uk *.google.ie *.googlesyndication.com *.googleadservices.com *.googletagmanager.com *.iseaskies.com *.marksandspencer.com *.marksandspencer.app *.cxnmarksandspencer.com *.mparticle.com *.onetrust.com *.reddit.com analytics.tiktok.com match.adsrvr.org edge.curalate.com; connect-src 'self' ms-gb.attn.tv *.attentivemobile.com the.sciencebehindecommerce.com www.wepowerconnections.com *.bing.com *.bing.net *.contentsquare.net dpm.demdex.net *.doubleclick.net *.dynatrace.com *.facebook.com *.facebook.net *.google.com *.google.co.uk *.google.ie *.googlesyndication.com *.google-analytics.com *.googleadservices.com *.googletagmanager.com translate.googleapis.com obseu.iseaskies.com *.medallia.eu *.marksandspencer.app *.marksandspencer.com *.mnscorp.net *.mparticle.com *.onetrust.com *.optimizely.com *.zaius.eu s.pinimg.com ct.pinterest.com *.reddit.com *.swrve.com api.taggstar.com *.tiktok.com *.tiktokw.us tags.tiqcdn.com edge.curalate.com *.foundit.com mas-consumer.truefitcorp.com mas-consumer.staging.truefitcorp.com p11.techlab-cdn.com; child-src 'none'; manifest-src 'self' *.marksandspencer.com; frame-ancestors 'self'; form-action 'self' www.facebook.com; object-src 'none'; worker-src blob: 'self'; script-src 'self' 'unsafe-inline' cdn.attn.tv *.dwin1.com *.roeyecdn.com the.sciencebehindecommerce.com *.bing.com *.bing.net blob: *.contentsquare.net *.doubleclick.net js-cdn.dynatrace.com *.facebook.com *.facebook.net *.getamigo.io *.googletagmanager.com *.iseaskies.com *.medallia.eu *.marksandspencer.com *.mparticle.com *.onetrust.com *.optimizely.com *.zaius.eu s.pinimg.com ct.pinterest.com *.redditstatic.com *.tiktok.com tags.tiqcdn.com *.curalate.com mas-cdn.truefitcorp.com p11.techlab-cdn.com; style-src 'self' 'unsafe-inline' *.bing.com *.bing.net fonts.googleapis.com *.optimizely.com; frame-src *.awin1.com *.demdex.net *.doubleclick.net www.facebook.com servedby.flashtalking.com *.googletagmanager.com *.medallia.eu *.optimizely.com ct.pinterest.com *.truefitcorp.com; font-src *.contentsquare.net fonts.gstatic.com *.iseaskies.com *.marksandspencer.com; media-src *.marksandspencer.app *.curalate.com; upgrade-insecure-requests"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=15768000"
+        ]
+      },
+      "body_bytes": 617693,
+      "truncated": false,
+      "body_sha256": "1bc419a0d9350dba039db4ba768c07c1ea70067fba550351202ce0177eda96b8",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "2 Pack 4W E14 Candle LED Light Bulbs by M&S",
+      "duplicate_final": true,
+      "eligible": false
+    },
+    {
+      "rank": "4817",
+      "domain": "marksandspencer.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.marksandspencer.com/evelyn-wooden-bobbin-floor-lamp/p/hbp60775247",
+      "depth": 3,
+      "parent_url": "https://www.marksandspencer.com/evelyn-wooden-bobbin-table-lamp/p/hbp22153679",
+      "attempt": 32,
+      "timestamp": "2026-11-12T21:14:51.807682+00:00",
+      "final_url": "https://www.marksandspencer.com/evelyn-wooden-bobbin-floor-lamp/p/hbp60775247",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'none'; base-uri 'none'; img-src 'self' data: lantern.roeye.com *.bing.com *.bing.net images.ctfassets.net *.contentsquare.net cm.everesttech.net dpm.demdex.net *.doubleclick.net *.facebook.com *.facebook.net *.google.com *.google.co.uk *.google.ie *.googlesyndication.com *.googleadservices.com *.googletagmanager.com *.iseaskies.com *.marksandspencer.com *.marksandspencer.app *.cxnmarksandspencer.com *.mparticle.com *.onetrust.com *.reddit.com analytics.tiktok.com match.adsrvr.org edge.curalate.com; connect-src 'self' ms-gb.attn.tv *.attentivemobile.com the.sciencebehindecommerce.com www.wepowerconnections.com *.bing.com *.bing.net *.contentsquare.net dpm.demdex.net *.doubleclick.net *.dynatrace.com *.facebook.com *.facebook.net *.google.com *.google.co.uk *.google.ie *.googlesyndication.com *.google-analytics.com *.googleadservices.com *.googletagmanager.com translate.googleapis.com obseu.iseaskies.com *.medallia.eu *.marksandspencer.app *.marksandspencer.com *.mnscorp.net *.mparticle.com *.onetrust.com *.optimizely.com *.zaius.eu s.pinimg.com ct.pinterest.com *.reddit.com *.swrve.com api.taggstar.com *.tiktok.com *.tiktokw.us tags.tiqcdn.com edge.curalate.com *.foundit.com mas-consumer.truefitcorp.com mas-consumer.staging.truefitcorp.com p11.techlab-cdn.com; child-src 'none'; manifest-src 'self' *.marksandspencer.com; frame-ancestors 'self'; form-action 'self' www.facebook.com; object-src 'none'; worker-src blob: 'self'; script-src 'self' 'unsafe-inline' cdn.attn.tv *.dwin1.com *.roeyecdn.com the.sciencebehindecommerce.com *.bing.com *.bing.net blob: *.contentsquare.net *.doubleclick.net js-cdn.dynatrace.com *.facebook.com *.facebook.net *.getamigo.io *.googletagmanager.com *.iseaskies.com *.medallia.eu *.marksandspencer.com *.mparticle.com *.onetrust.com *.optimizely.com *.zaius.eu s.pinimg.com ct.pinterest.com *.redditstatic.com *.tiktok.com tags.tiqcdn.com *.curalate.com mas-cdn.truefitcorp.com p11.techlab-cdn.com; style-src 'self' 'unsafe-inline' *.bing.com *.bing.net fonts.googleapis.com *.optimizely.com; frame-src *.awin1.com *.demdex.net *.doubleclick.net www.facebook.com servedby.flashtalking.com *.googletagmanager.com *.medallia.eu *.optimizely.com ct.pinterest.com *.truefitcorp.com; font-src *.contentsquare.net fonts.gstatic.com *.iseaskies.com *.marksandspencer.com; media-src *.marksandspencer.app *.curalate.com; upgrade-insecure-requests"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=15768000"
+        ]
+      },
+      "body_bytes": 622939,
+      "truncated": false,
+      "body_sha256": "5ee5aa3d3937f42e78bfd29caa40595d45ec7556596316ee84a84d363380b607",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Evelyn Wooden Bobbin Floor Lamp by M&S",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "4817",
+      "domain": "marksandspencer.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.marksandspencer.com/2-pack-led-golf-ball-light-bulbs/p/hbp60896847",
+      "depth": 4,
+      "parent_url": "https://www.marksandspencer.com/2-pack-led-golf-ball-light-bulbs/p/hbp60896847",
+      "attempt": 33,
+      "timestamp": "2026-11-12T21:14:56.214136+00:00",
+      "final_url": "https://www.marksandspencer.com/2-pack-led-golf-ball-light-bulbs/p/hbp60896847",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'none'; base-uri 'none'; img-src 'self' data: lantern.roeye.com *.bing.com *.bing.net images.ctfassets.net *.contentsquare.net cm.everesttech.net dpm.demdex.net *.doubleclick.net *.facebook.com *.facebook.net *.google.com *.google.co.uk *.google.ie *.googlesyndication.com *.googleadservices.com *.googletagmanager.com *.iseaskies.com *.marksandspencer.com *.marksandspencer.app *.cxnmarksandspencer.com *.mparticle.com *.onetrust.com *.reddit.com analytics.tiktok.com match.adsrvr.org edge.curalate.com; connect-src 'self' ms-gb.attn.tv *.attentivemobile.com the.sciencebehindecommerce.com www.wepowerconnections.com *.bing.com *.bing.net *.contentsquare.net dpm.demdex.net *.doubleclick.net *.dynatrace.com *.facebook.com *.facebook.net *.google.com *.google.co.uk *.google.ie *.googlesyndication.com *.google-analytics.com *.googleadservices.com *.googletagmanager.com translate.googleapis.com obseu.iseaskies.com *.medallia.eu *.marksandspencer.app *.marksandspencer.com *.mnscorp.net *.mparticle.com *.onetrust.com *.optimizely.com *.zaius.eu s.pinimg.com ct.pinterest.com *.reddit.com *.swrve.com api.taggstar.com *.tiktok.com *.tiktokw.us tags.tiqcdn.com edge.curalate.com *.foundit.com mas-consumer.truefitcorp.com mas-consumer.staging.truefitcorp.com p11.techlab-cdn.com; child-src 'none'; manifest-src 'self' *.marksandspencer.com; frame-ancestors 'self'; form-action 'self' www.facebook.com; object-src 'none'; worker-src blob: 'self'; script-src 'self' 'unsafe-inline' cdn.attn.tv *.dwin1.com *.roeyecdn.com the.sciencebehindecommerce.com *.bing.com *.bing.net blob: *.contentsquare.net *.doubleclick.net js-cdn.dynatrace.com *.facebook.com *.facebook.net *.getamigo.io *.googletagmanager.com *.iseaskies.com *.medallia.eu *.marksandspencer.com *.mparticle.com *.onetrust.com *.optimizely.com *.zaius.eu s.pinimg.com ct.pinterest.com *.redditstatic.com *.tiktok.com tags.tiqcdn.com *.curalate.com mas-cdn.truefitcorp.com p11.techlab-cdn.com; style-src 'self' 'unsafe-inline' *.bing.com *.bing.net fonts.googleapis.com *.optimizely.com; frame-src *.awin1.com *.demdex.net *.doubleclick.net www.facebook.com servedby.flashtalking.com *.googletagmanager.com *.medallia.eu *.optimizely.com ct.pinterest.com *.truefitcorp.com; font-src *.contentsquare.net fonts.gstatic.com *.iseaskies.com *.marksandspencer.com; media-src *.marksandspencer.app *.curalate.com; upgrade-insecure-requests"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=15768000"
+        ]
+      },
+      "body_bytes": 585796,
+      "truncated": false,
+      "body_sha256": "a97bf578bff24d027d046e600ad8e432bfe95e04f98e981979deafd131d5b69b",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "2 Pack 4W E14 Golf Ball LED Light Bulbs by M&S",
+      "duplicate_final": true,
+      "eligible": false
+    },
+    {
+      "rank": "4817",
+      "domain": "marksandspencer.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.marksandspencer.com/evelyn-wood-bobbin-wall-light/p/hbp60775257",
+      "depth": 3,
+      "parent_url": "https://www.marksandspencer.com/evelyn-wooden-bobbin-table-lamp/p/hbp22153679",
+      "attempt": 34,
+      "timestamp": "2026-11-12T21:14:58.374803+00:00",
+      "final_url": "https://www.marksandspencer.com/evelyn-wood-bobbin-wall-light/p/hbp60775257",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'none'; base-uri 'none'; img-src 'self' data: lantern.roeye.com *.bing.com *.bing.net images.ctfassets.net *.contentsquare.net cm.everesttech.net dpm.demdex.net *.doubleclick.net *.facebook.com *.facebook.net *.google.com *.google.co.uk *.google.ie *.googlesyndication.com *.googleadservices.com *.googletagmanager.com *.iseaskies.com *.marksandspencer.com *.marksandspencer.app *.cxnmarksandspencer.com *.mparticle.com *.onetrust.com *.reddit.com analytics.tiktok.com match.adsrvr.org edge.curalate.com; connect-src 'self' ms-gb.attn.tv *.attentivemobile.com the.sciencebehindecommerce.com www.wepowerconnections.com *.bing.com *.bing.net *.contentsquare.net dpm.demdex.net *.doubleclick.net *.dynatrace.com *.facebook.com *.facebook.net *.google.com *.google.co.uk *.google.ie *.googlesyndication.com *.google-analytics.com *.googleadservices.com *.googletagmanager.com translate.googleapis.com obseu.iseaskies.com *.medallia.eu *.marksandspencer.app *.marksandspencer.com *.mnscorp.net *.mparticle.com *.onetrust.com *.optimizely.com *.zaius.eu s.pinimg.com ct.pinterest.com *.reddit.com *.swrve.com api.taggstar.com *.tiktok.com *.tiktokw.us tags.tiqcdn.com edge.curalate.com *.foundit.com mas-consumer.truefitcorp.com mas-consumer.staging.truefitcorp.com p11.techlab-cdn.com; child-src 'none'; manifest-src 'self' *.marksandspencer.com; frame-ancestors 'self'; form-action 'self' www.facebook.com; object-src 'none'; worker-src blob: 'self'; script-src 'self' 'unsafe-inline' cdn.attn.tv *.dwin1.com *.roeyecdn.com the.sciencebehindecommerce.com *.bing.com *.bing.net blob: *.contentsquare.net *.doubleclick.net js-cdn.dynatrace.com *.facebook.com *.facebook.net *.getamigo.io *.googletagmanager.com *.iseaskies.com *.medallia.eu *.marksandspencer.com *.mparticle.com *.onetrust.com *.optimizely.com *.zaius.eu s.pinimg.com ct.pinterest.com *.redditstatic.com *.tiktok.com tags.tiqcdn.com *.curalate.com mas-cdn.truefitcorp.com p11.techlab-cdn.com; style-src 'self' 'unsafe-inline' *.bing.com *.bing.net fonts.googleapis.com *.optimizely.com; frame-src *.awin1.com *.demdex.net *.doubleclick.net www.facebook.com servedby.flashtalking.com *.googletagmanager.com *.medallia.eu *.optimizely.com ct.pinterest.com *.truefitcorp.com; font-src *.contentsquare.net fonts.gstatic.com *.iseaskies.com *.marksandspencer.com; media-src *.marksandspencer.app *.curalate.com; upgrade-insecure-requests"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=15768000"
+        ]
+      },
+      "body_bytes": 577859,
+      "truncated": false,
+      "body_sha256": "14571f2db978ddc03c5527b390a19c10f9a9729e852a039ea880fc02f5f8a5cf",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Evelyn Wood Bobbin Wall Light by M&S",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "4817",
+      "domain": "marksandspencer.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.marksandspencer.com/2-pack-4w-e27-gls-led-light-bulbs/p/hbp60896844",
+      "depth": 4,
+      "parent_url": "https://www.marksandspencer.com/evelyn-wooden-bobbin-floor-lamp/p/hbp60775247",
+      "attempt": 35,
+      "timestamp": "2026-11-12T21:15:01.497343+00:00",
+      "final_url": "https://www.marksandspencer.com/2-pack-energy-saving-led-light-bulb/p/hbp60896844",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'none'; base-uri 'none'; img-src 'self' data: lantern.roeye.com *.bing.com *.bing.net images.ctfassets.net *.contentsquare.net cm.everesttech.net dpm.demdex.net *.doubleclick.net *.facebook.com *.facebook.net *.google.com *.google.co.uk *.google.ie *.googlesyndication.com *.googleadservices.com *.googletagmanager.com *.iseaskies.com *.marksandspencer.com *.marksandspencer.app *.cxnmarksandspencer.com *.mparticle.com *.onetrust.com *.reddit.com analytics.tiktok.com match.adsrvr.org edge.curalate.com; connect-src 'self' ms-gb.attn.tv *.attentivemobile.com the.sciencebehindecommerce.com www.wepowerconnections.com *.bing.com *.bing.net *.contentsquare.net dpm.demdex.net *.doubleclick.net *.dynatrace.com *.facebook.com *.facebook.net *.google.com *.google.co.uk *.google.ie *.googlesyndication.com *.google-analytics.com *.googleadservices.com *.googletagmanager.com translate.googleapis.com obseu.iseaskies.com *.medallia.eu *.marksandspencer.app *.marksandspencer.com *.mnscorp.net *.mparticle.com *.onetrust.com *.optimizely.com *.zaius.eu s.pinimg.com ct.pinterest.com *.reddit.com *.swrve.com api.taggstar.com *.tiktok.com *.tiktokw.us tags.tiqcdn.com edge.curalate.com *.foundit.com mas-consumer.truefitcorp.com mas-consumer.staging.truefitcorp.com p11.techlab-cdn.com; child-src 'none'; manifest-src 'self' *.marksandspencer.com; frame-ancestors 'self'; form-action 'self' www.facebook.com; object-src 'none'; worker-src blob: 'self'; script-src 'self' 'unsafe-inline' cdn.attn.tv *.dwin1.com *.roeyecdn.com the.sciencebehindecommerce.com *.bing.com *.bing.net blob: *.contentsquare.net *.doubleclick.net js-cdn.dynatrace.com *.facebook.com *.facebook.net *.getamigo.io *.googletagmanager.com *.iseaskies.com *.medallia.eu *.marksandspencer.com *.mparticle.com *.onetrust.com *.optimizely.com *.zaius.eu s.pinimg.com ct.pinterest.com *.redditstatic.com *.tiktok.com tags.tiqcdn.com *.curalate.com mas-cdn.truefitcorp.com p11.techlab-cdn.com; style-src 'self' 'unsafe-inline' *.bing.com *.bing.net fonts.googleapis.com *.optimizely.com; frame-src *.awin1.com *.demdex.net *.doubleclick.net www.facebook.com servedby.flashtalking.com *.googletagmanager.com *.medallia.eu *.optimizely.com ct.pinterest.com *.truefitcorp.com; font-src *.contentsquare.net fonts.gstatic.com *.iseaskies.com *.marksandspencer.com; media-src *.marksandspencer.app *.curalate.com; upgrade-insecure-requests"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=15768000"
+        ]
+      },
+      "body_bytes": 582670,
+      "truncated": false,
+      "body_sha256": "f23129dc28395afc5228bf87f82bcd23335e9742b51b9794131d5a94fac7d9a2",
+      "redirect_chain": [
+        {
+          "url": "https://www.marksandspencer.com/2-pack-4w-e27-gls-led-light-bulbs/p/hbp60896844",
+          "status": 308,
+          "location": "/2-pack-energy-saving-led-light-bulb/p/hbp60896844",
+          "headers": {
+            "content-security-policy": [
+              "default-src 'none'; base-uri 'none'; img-src 'self' data: lantern.roeye.com *.bing.com *.bing.net images.ctfassets.net *.contentsquare.net cm.everesttech.net dpm.demdex.net *.doubleclick.net *.facebook.com *.facebook.net *.google.com *.google.co.uk *.google.ie *.googlesyndication.com *.googleadservices.com *.googletagmanager.com *.iseaskies.com *.marksandspencer.com *.marksandspencer.app *.cxnmarksandspencer.com *.mparticle.com *.onetrust.com *.reddit.com analytics.tiktok.com match.adsrvr.org edge.curalate.com; connect-src 'self' ms-gb.attn.tv *.attentivemobile.com the.sciencebehindecommerce.com www.wepowerconnections.com *.bing.com *.bing.net *.contentsquare.net dpm.demdex.net *.doubleclick.net *.dynatrace.com *.facebook.com *.facebook.net *.google.com *.google.co.uk *.google.ie *.googlesyndication.com *.google-analytics.com *.googleadservices.com *.googletagmanager.com translate.googleapis.com obseu.iseaskies.com *.medallia.eu *.marksandspencer.app *.marksandspencer.com *.mnscorp.net *.mparticle.com *.onetrust.com *.optimizely.com *.zaius.eu s.pinimg.com ct.pinterest.com *.reddit.com *.swrve.com api.taggstar.com *.tiktok.com *.tiktokw.us tags.tiqcdn.com edge.curalate.com *.foundit.com mas-consumer.truefitcorp.com mas-consumer.staging.truefitcorp.com p11.techlab-cdn.com; child-src 'none'; manifest-src 'self' *.marksandspencer.com; frame-ancestors 'self'; form-action 'self' www.facebook.com; object-src 'none'; worker-src blob: 'self'; script-src 'self' 'unsafe-inline' cdn.attn.tv *.dwin1.com *.roeyecdn.com the.sciencebehindecommerce.com *.bing.com *.bing.net blob: *.contentsquare.net *.doubleclick.net js-cdn.dynatrace.com *.facebook.com *.facebook.net *.getamigo.io *.googletagmanager.com *.iseaskies.com *.medallia.eu *.marksandspencer.com *.mparticle.com *.onetrust.com *.optimizely.com *.zaius.eu s.pinimg.com ct.pinterest.com *.redditstatic.com *.tiktok.com tags.tiqcdn.com *.curalate.com mas-cdn.truefitcorp.com p11.techlab-cdn.com; style-src 'self' 'unsafe-inline' *.bing.com *.bing.net fonts.googleapis.com *.optimizely.com; frame-src *.awin1.com *.demdex.net *.doubleclick.net www.facebook.com servedby.flashtalking.com *.googletagmanager.com *.medallia.eu *.optimizely.com ct.pinterest.com *.truefitcorp.com; font-src *.contentsquare.net fonts.gstatic.com *.iseaskies.com *.marksandspencer.com; media-src *.marksandspencer.app *.curalate.com; upgrade-insecure-requests"
+            ],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=15768000"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "2 Pack 4W E27 GLS LED Light Bulbs by M&S",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "4817",
+      "domain": "marksandspencer.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.marksandspencer.com/2-pack-energy-saving-led-light-bulb/p/hbp60896844",
+      "depth": 5,
+      "parent_url": "https://www.marksandspencer.com/2-pack-energy-saving-led-light-bulb/p/hbp60896844",
+      "attempt": 36,
+      "timestamp": "2026-11-12T21:15:04.410168+00:00",
+      "final_url": "https://www.marksandspencer.com/2-pack-energy-saving-led-light-bulb/p/hbp60896844",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'none'; base-uri 'none'; img-src 'self' data: lantern.roeye.com *.bing.com *.bing.net images.ctfassets.net *.contentsquare.net cm.everesttech.net dpm.demdex.net *.doubleclick.net *.facebook.com *.facebook.net *.google.com *.google.co.uk *.google.ie *.googlesyndication.com *.googleadservices.com *.googletagmanager.com *.iseaskies.com *.marksandspencer.com *.marksandspencer.app *.cxnmarksandspencer.com *.mparticle.com *.onetrust.com *.reddit.com analytics.tiktok.com match.adsrvr.org edge.curalate.com; connect-src 'self' ms-gb.attn.tv *.attentivemobile.com the.sciencebehindecommerce.com www.wepowerconnections.com *.bing.com *.bing.net *.contentsquare.net dpm.demdex.net *.doubleclick.net *.dynatrace.com *.facebook.com *.facebook.net *.google.com *.google.co.uk *.google.ie *.googlesyndication.com *.google-analytics.com *.googleadservices.com *.googletagmanager.com translate.googleapis.com obseu.iseaskies.com *.medallia.eu *.marksandspencer.app *.marksandspencer.com *.mnscorp.net *.mparticle.com *.onetrust.com *.optimizely.com *.zaius.eu s.pinimg.com ct.pinterest.com *.reddit.com *.swrve.com api.taggstar.com *.tiktok.com *.tiktokw.us tags.tiqcdn.com edge.curalate.com *.foundit.com mas-consumer.truefitcorp.com mas-consumer.staging.truefitcorp.com p11.techlab-cdn.com; child-src 'none'; manifest-src 'self' *.marksandspencer.com; frame-ancestors 'self'; form-action 'self' www.facebook.com; object-src 'none'; worker-src blob: 'self'; script-src 'self' 'unsafe-inline' cdn.attn.tv *.dwin1.com *.roeyecdn.com the.sciencebehindecommerce.com *.bing.com *.bing.net blob: *.contentsquare.net *.doubleclick.net js-cdn.dynatrace.com *.facebook.com *.facebook.net *.getamigo.io *.googletagmanager.com *.iseaskies.com *.medallia.eu *.marksandspencer.com *.mparticle.com *.onetrust.com *.optimizely.com *.zaius.eu s.pinimg.com ct.pinterest.com *.redditstatic.com *.tiktok.com tags.tiqcdn.com *.curalate.com mas-cdn.truefitcorp.com p11.techlab-cdn.com; style-src 'self' 'unsafe-inline' *.bing.com *.bing.net fonts.googleapis.com *.optimizely.com; frame-src *.awin1.com *.demdex.net *.doubleclick.net www.facebook.com servedby.flashtalking.com *.googletagmanager.com *.medallia.eu *.optimizely.com ct.pinterest.com *.truefitcorp.com; font-src *.contentsquare.net fonts.gstatic.com *.iseaskies.com *.marksandspencer.com; media-src *.marksandspencer.app *.curalate.com; upgrade-insecure-requests"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=15768000"
+        ]
+      },
+      "body_bytes": 582670,
+      "truncated": false,
+      "body_sha256": "f23129dc28395afc5228bf87f82bcd23335e9742b51b9794131d5a94fac7d9a2",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "2 Pack 4W E27 GLS LED Light Bulbs by M&S",
+      "duplicate_final": true,
+      "eligible": false
+    },
+    {
+      "rank": "4817",
+      "domain": "marksandspencer.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.marksandspencer.com/2-pack-4w-e27-golf-led-light-bulbs/p/hbp60896848",
+      "depth": 4,
+      "parent_url": "https://www.marksandspencer.com/evelyn-wooden-bobbin-floor-lamp/p/hbp60775247",
+      "attempt": 37,
+      "timestamp": "2026-11-12T21:15:06.479774+00:00",
+      "final_url": "https://www.marksandspencer.com/2-pack-4w-e27-golf-led-light-bulbs/p/hbp60896848",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'none'; base-uri 'none'; img-src 'self' data: lantern.roeye.com *.bing.com *.bing.net images.ctfassets.net *.contentsquare.net cm.everesttech.net dpm.demdex.net *.doubleclick.net *.facebook.com *.facebook.net *.google.com *.google.co.uk *.google.ie *.googlesyndication.com *.googleadservices.com *.googletagmanager.com *.iseaskies.com *.marksandspencer.com *.marksandspencer.app *.cxnmarksandspencer.com *.mparticle.com *.onetrust.com *.reddit.com analytics.tiktok.com match.adsrvr.org edge.curalate.com; connect-src 'self' ms-gb.attn.tv *.attentivemobile.com the.sciencebehindecommerce.com www.wepowerconnections.com *.bing.com *.bing.net *.contentsquare.net dpm.demdex.net *.doubleclick.net *.dynatrace.com *.facebook.com *.facebook.net *.google.com *.google.co.uk *.google.ie *.googlesyndication.com *.google-analytics.com *.googleadservices.com *.googletagmanager.com translate.googleapis.com obseu.iseaskies.com *.medallia.eu *.marksandspencer.app *.marksandspencer.com *.mnscorp.net *.mparticle.com *.onetrust.com *.optimizely.com *.zaius.eu s.pinimg.com ct.pinterest.com *.reddit.com *.swrve.com api.taggstar.com *.tiktok.com *.tiktokw.us tags.tiqcdn.com edge.curalate.com *.foundit.com mas-consumer.truefitcorp.com mas-consumer.staging.truefitcorp.com p11.techlab-cdn.com; child-src 'none'; manifest-src 'self' *.marksandspencer.com; frame-ancestors 'self'; form-action 'self' www.facebook.com; object-src 'none'; worker-src blob: 'self'; script-src 'self' 'unsafe-inline' cdn.attn.tv *.dwin1.com *.roeyecdn.com the.sciencebehindecommerce.com *.bing.com *.bing.net blob: *.contentsquare.net *.doubleclick.net js-cdn.dynatrace.com *.facebook.com *.facebook.net *.getamigo.io *.googletagmanager.com *.iseaskies.com *.medallia.eu *.marksandspencer.com *.mparticle.com *.onetrust.com *.optimizely.com *.zaius.eu s.pinimg.com ct.pinterest.com *.redditstatic.com *.tiktok.com tags.tiqcdn.com *.curalate.com mas-cdn.truefitcorp.com p11.techlab-cdn.com; style-src 'self' 'unsafe-inline' *.bing.com *.bing.net fonts.googleapis.com *.optimizely.com; frame-src *.awin1.com *.demdex.net *.doubleclick.net www.facebook.com servedby.flashtalking.com *.googletagmanager.com *.medallia.eu *.optimizely.com ct.pinterest.com *.truefitcorp.com; font-src *.contentsquare.net fonts.gstatic.com *.iseaskies.com *.marksandspencer.com; media-src *.marksandspencer.app *.curalate.com; upgrade-insecure-requests"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=15768000"
+        ]
+      },
+      "body_bytes": 576600,
+      "truncated": false,
+      "body_sha256": "02acca2c84b4c6f2a718454fe9f7496b81e3c2e556327ab4851ac1816fa729a2",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "2 Pack 4W E27 Golf LED Light Bulbs by M&S",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "4817",
+      "domain": "marksandspencer.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.marksandspencer.com/vanilla-sprinkle-cupcake-selection-serves-12-/p/fdp60760723",
+      "depth": 1,
+      "parent_url": "https://www.marksandspencer.com/",
+      "attempt": 38,
+      "timestamp": "2026-11-12T21:15:09.465627+00:00",
+      "final_url": "https://www.marksandspencer.com/vanilla-sprinkle-cupcake-selection-serves-12-/p/fdp60760723",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'none'; base-uri 'none'; img-src 'self' data: lantern.roeye.com *.bing.com *.bing.net images.ctfassets.net *.contentsquare.net cm.everesttech.net dpm.demdex.net *.doubleclick.net *.facebook.com *.facebook.net *.google.com *.google.co.uk *.google.ie *.googlesyndication.com *.googleadservices.com *.googletagmanager.com *.iseaskies.com *.marksandspencer.com *.marksandspencer.app *.cxnmarksandspencer.com *.mparticle.com *.onetrust.com *.reddit.com analytics.tiktok.com match.adsrvr.org edge.curalate.com; connect-src 'self' ms-gb.attn.tv *.attentivemobile.com the.sciencebehindecommerce.com www.wepowerconnections.com *.bing.com *.bing.net *.contentsquare.net dpm.demdex.net *.doubleclick.net *.dynatrace.com *.facebook.com *.facebook.net *.google.com *.google.co.uk *.google.ie *.googlesyndication.com *.google-analytics.com *.googleadservices.com *.googletagmanager.com translate.googleapis.com obseu.iseaskies.com *.medallia.eu *.marksandspencer.app *.marksandspencer.com *.mnscorp.net *.mparticle.com *.onetrust.com *.optimizely.com *.zaius.eu s.pinimg.com ct.pinterest.com *.reddit.com *.swrve.com api.taggstar.com *.tiktok.com *.tiktokw.us tags.tiqcdn.com edge.curalate.com *.foundit.com mas-consumer.truefitcorp.com mas-consumer.staging.truefitcorp.com p11.techlab-cdn.com; child-src 'none'; manifest-src 'self' *.marksandspencer.com; frame-ancestors 'self'; form-action 'self' www.facebook.com; object-src 'none'; worker-src blob: 'self'; script-src 'self' 'unsafe-inline' cdn.attn.tv *.dwin1.com *.roeyecdn.com the.sciencebehindecommerce.com *.bing.com *.bing.net blob: *.contentsquare.net *.doubleclick.net js-cdn.dynatrace.com *.facebook.com *.facebook.net *.getamigo.io *.googletagmanager.com *.iseaskies.com *.medallia.eu *.marksandspencer.com *.mparticle.com *.onetrust.com *.optimizely.com *.zaius.eu s.pinimg.com ct.pinterest.com *.redditstatic.com *.tiktok.com tags.tiqcdn.com *.curalate.com mas-cdn.truefitcorp.com p11.techlab-cdn.com; style-src 'self' 'unsafe-inline' *.bing.com *.bing.net fonts.googleapis.com *.optimizely.com; frame-src *.awin1.com *.demdex.net *.doubleclick.net www.facebook.com servedby.flashtalking.com *.googletagmanager.com *.medallia.eu *.optimizely.com ct.pinterest.com *.truefitcorp.com; font-src *.contentsquare.net fonts.gstatic.com *.iseaskies.com *.marksandspencer.com; media-src *.marksandspencer.app *.curalate.com; upgrade-insecure-requests"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=15768000"
+        ]
+      },
+      "body_bytes": 668965,
+      "truncated": false,
+      "body_sha256": "463ca21faf4b68c05ff5ef30fc90c841a55014b189d8bc44eb184ff19b503b04",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Vanilla Sprinkle Cupcake Selection (Serves 12) by M&S",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "4817",
+      "domain": "marksandspencer.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.marksandspencer.com/rocco-large-easy-fit-lamp-shade/p/hbp60717471",
+      "depth": 2,
+      "parent_url": "https://www.marksandspencer.com/l/offers/home-offers",
+      "attempt": 39,
+      "timestamp": "2026-11-12T21:15:12.190635+00:00",
+      "final_url": "https://www.marksandspencer.com/rocco-large-easy-fit-lamp-shade/p/hbp60717471",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'none'; base-uri 'none'; img-src 'self' data: lantern.roeye.com *.bing.com *.bing.net images.ctfassets.net *.contentsquare.net cm.everesttech.net dpm.demdex.net *.doubleclick.net *.facebook.com *.facebook.net *.google.com *.google.co.uk *.google.ie *.googlesyndication.com *.googleadservices.com *.googletagmanager.com *.iseaskies.com *.marksandspencer.com *.marksandspencer.app *.cxnmarksandspencer.com *.mparticle.com *.onetrust.com *.reddit.com analytics.tiktok.com match.adsrvr.org edge.curalate.com; connect-src 'self' ms-gb.attn.tv *.attentivemobile.com the.sciencebehindecommerce.com www.wepowerconnections.com *.bing.com *.bing.net *.contentsquare.net dpm.demdex.net *.doubleclick.net *.dynatrace.com *.facebook.com *.facebook.net *.google.com *.google.co.uk *.google.ie *.googlesyndication.com *.google-analytics.com *.googleadservices.com *.googletagmanager.com translate.googleapis.com obseu.iseaskies.com *.medallia.eu *.marksandspencer.app *.marksandspencer.com *.mnscorp.net *.mparticle.com *.onetrust.com *.optimizely.com *.zaius.eu s.pinimg.com ct.pinterest.com *.reddit.com *.swrve.com api.taggstar.com *.tiktok.com *.tiktokw.us tags.tiqcdn.com edge.curalate.com *.foundit.com mas-consumer.truefitcorp.com mas-consumer.staging.truefitcorp.com p11.techlab-cdn.com; child-src 'none'; manifest-src 'self' *.marksandspencer.com; frame-ancestors 'self'; form-action 'self' www.facebook.com; object-src 'none'; worker-src blob: 'self'; script-src 'self' 'unsafe-inline' cdn.attn.tv *.dwin1.com *.roeyecdn.com the.sciencebehindecommerce.com *.bing.com *.bing.net blob: *.contentsquare.net *.doubleclick.net js-cdn.dynatrace.com *.facebook.com *.facebook.net *.getamigo.io *.googletagmanager.com *.iseaskies.com *.medallia.eu *.marksandspencer.com *.mparticle.com *.onetrust.com *.optimizely.com *.zaius.eu s.pinimg.com ct.pinterest.com *.redditstatic.com *.tiktok.com tags.tiqcdn.com *.curalate.com mas-cdn.truefitcorp.com p11.techlab-cdn.com; style-src 'self' 'unsafe-inline' *.bing.com *.bing.net fonts.googleapis.com *.optimizely.com; frame-src *.awin1.com *.demdex.net *.doubleclick.net www.facebook.com servedby.flashtalking.com *.googletagmanager.com *.medallia.eu *.optimizely.com ct.pinterest.com *.truefitcorp.com; font-src *.contentsquare.net fonts.gstatic.com *.iseaskies.com *.marksandspencer.com; media-src *.marksandspencer.app *.curalate.com; upgrade-insecure-requests"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=15768000"
+        ]
+      },
+      "body_bytes": 600483,
+      "truncated": false,
+      "body_sha256": "dd37e008f0c4a5235770b6a80dffb6b64c6bccde1ab0d3b02f90d50e6ee9c592",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Rocco Large Easy Fit Lamp Shade by M&S",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "4817",
+      "domain": "marksandspencer.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.marksandspencer.com/sparkspay/account",
+      "depth": 1,
+      "parent_url": "https://www.marksandspencer.com/",
+      "attempt": 40,
+      "timestamp": "2026-11-12T21:15:15.206197+00:00",
+      "final_url": "https://www.marksandspencer.com/sparkspay/account",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=15768000"
+        ]
+      },
+      "body_bytes": 33595,
+      "truncated": false,
+      "body_sha256": "b4877d1cf86633a6e5a3110e8f51093751f8338f324ce8ed27d80ea0a4ef991a",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Marks & SpencerMarks & Spencer",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "4817",
+      "domain": "marksandspencer.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.marksandspencer.com/pure-cotton-zebra-jacquard-bedding-set/p/hbp61219681",
+      "depth": 2,
+      "parent_url": "https://www.marksandspencer.com/l/offers/home-offers",
+      "attempt": 41,
+      "timestamp": "2026-11-12T21:15:18.168112+00:00",
+      "final_url": "https://www.marksandspencer.com/pure-cotton-zebra-jacquard-bedding-set/p/hbp61219681",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'none'; base-uri 'none'; img-src 'self' data: lantern.roeye.com *.bing.com *.bing.net images.ctfassets.net *.contentsquare.net cm.everesttech.net dpm.demdex.net *.doubleclick.net *.facebook.com *.facebook.net *.google.com *.google.co.uk *.google.ie *.googlesyndication.com *.googleadservices.com *.googletagmanager.com *.iseaskies.com *.marksandspencer.com *.marksandspencer.app *.cxnmarksandspencer.com *.mparticle.com *.onetrust.com *.reddit.com analytics.tiktok.com match.adsrvr.org edge.curalate.com; connect-src 'self' ms-gb.attn.tv *.attentivemobile.com the.sciencebehindecommerce.com www.wepowerconnections.com *.bing.com *.bing.net *.contentsquare.net dpm.demdex.net *.doubleclick.net *.dynatrace.com *.facebook.com *.facebook.net *.google.com *.google.co.uk *.google.ie *.googlesyndication.com *.google-analytics.com *.googleadservices.com *.googletagmanager.com translate.googleapis.com obseu.iseaskies.com *.medallia.eu *.marksandspencer.app *.marksandspencer.com *.mnscorp.net *.mparticle.com *.onetrust.com *.optimizely.com *.zaius.eu s.pinimg.com ct.pinterest.com *.reddit.com *.swrve.com api.taggstar.com *.tiktok.com *.tiktokw.us tags.tiqcdn.com edge.curalate.com *.foundit.com mas-consumer.truefitcorp.com mas-consumer.staging.truefitcorp.com p11.techlab-cdn.com; child-src 'none'; manifest-src 'self' *.marksandspencer.com; frame-ancestors 'self'; form-action 'self' www.facebook.com; object-src 'none'; worker-src blob: 'self'; script-src 'self' 'unsafe-inline' cdn.attn.tv *.dwin1.com *.roeyecdn.com the.sciencebehindecommerce.com *.bing.com *.bing.net blob: *.contentsquare.net *.doubleclick.net js-cdn.dynatrace.com *.facebook.com *.facebook.net *.getamigo.io *.googletagmanager.com *.iseaskies.com *.medallia.eu *.marksandspencer.com *.mparticle.com *.onetrust.com *.optimizely.com *.zaius.eu s.pinimg.com ct.pinterest.com *.redditstatic.com *.tiktok.com tags.tiqcdn.com *.curalate.com mas-cdn.truefitcorp.com p11.techlab-cdn.com; style-src 'self' 'unsafe-inline' *.bing.com *.bing.net fonts.googleapis.com *.optimizely.com; frame-src *.awin1.com *.demdex.net *.doubleclick.net www.facebook.com servedby.flashtalking.com *.googletagmanager.com *.medallia.eu *.optimizely.com ct.pinterest.com *.truefitcorp.com; font-src *.contentsquare.net fonts.gstatic.com *.iseaskies.com *.marksandspencer.com; media-src *.marksandspencer.app *.curalate.com; upgrade-insecure-requests"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=15768000"
+        ]
+      },
+      "body_bytes": 658122,
+      "truncated": false,
+      "body_sha256": "65f403dbe7e82eaa43a5e4a355de0d398f5dd1a2a7d3db8a3d0a3fc4f080a6c2",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Pure Cotton Zebra Jacquard Bedding Set by M&S",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "4817",
+      "domain": "marksandspencer.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.marksandspencer.com/store-listing",
+      "depth": 1,
+      "parent_url": "https://www.marksandspencer.com/",
+      "attempt": 42,
+      "timestamp": "2026-11-12T21:15:19.858694+00:00",
+      "final_url": "https://www.marksandspencer.com/store-listing",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'none'; base-uri 'none'; img-src 'self' data: lantern.roeye.com *.bing.com *.bing.net images.ctfassets.net *.contentsquare.net cm.everesttech.net dpm.demdex.net *.doubleclick.net *.facebook.com *.facebook.net *.google.com *.google.co.uk *.google.ie *.googlesyndication.com *.googleadservices.com *.googletagmanager.com *.iseaskies.com *.marksandspencer.com *.marksandspencer.app *.cxnmarksandspencer.com *.mparticle.com *.onetrust.com *.reddit.com analytics.tiktok.com match.adsrvr.org atlas.microsoft.com blob:; connect-src 'self' ms-gb.attn.tv *.attentivemobile.com the.sciencebehindecommerce.com www.wepowerconnections.com *.bing.com *.bing.net *.contentsquare.net dpm.demdex.net *.doubleclick.net *.dynatrace.com *.facebook.com *.facebook.net *.google.com *.google.co.uk *.google.ie *.googlesyndication.com *.google-analytics.com *.googleadservices.com *.googletagmanager.com translate.googleapis.com obseu.iseaskies.com *.medallia.eu *.marksandspencer.app *.marksandspencer.com *.mnscorp.net *.mparticle.com *.onetrust.com *.optimizely.com *.zaius.eu s.pinimg.com ct.pinterest.com *.reddit.com *.swrve.com api.taggstar.com *.tiktok.com *.tiktokw.us tags.tiqcdn.com atlas.microsoft.com *.atlas.microsoft.com p11.techlab-cdn.com; child-src 'none'; manifest-src 'self' *.marksandspencer.com; frame-ancestors 'self'; form-action 'self' www.facebook.com; object-src 'none'; worker-src blob: 'self'; script-src 'self' 'unsafe-inline' cdn.attn.tv *.dwin1.com *.roeyecdn.com the.sciencebehindecommerce.com *.bing.com *.bing.net blob: *.contentsquare.net *.doubleclick.net js-cdn.dynatrace.com *.facebook.com *.facebook.net *.getamigo.io *.googletagmanager.com *.iseaskies.com *.medallia.eu *.marksandspencer.com *.mparticle.com *.onetrust.com *.optimizely.com *.zaius.eu s.pinimg.com ct.pinterest.com *.redditstatic.com *.tiktok.com tags.tiqcdn.com atlas.microsoft.com p11.techlab-cdn.com; style-src 'self' 'unsafe-inline' *.bing.com *.bing.net fonts.googleapis.com *.optimizely.com atlas.microsoft.com; frame-src *.awin1.com *.demdex.net *.doubleclick.net www.facebook.com servedby.flashtalking.com *.googletagmanager.com *.medallia.eu *.optimizely.com ct.pinterest.com; font-src *.contentsquare.net fonts.gstatic.com *.iseaskies.com *.marksandspencer.com atlas.microsoft.com *.atlas.microsoft.com; media-src *.marksandspencer.app; upgrade-insecure-requests"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=15768000"
+        ]
+      },
+      "body_bytes": 1230424,
+      "truncated": false,
+      "body_sha256": "3ac25bfaaff4e9ee0d9c151241a587eee58664bdadd838fa274d9fa4cee24909",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Find your Nearest Store | M&S",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "4817",
+      "domain": "marksandspencer.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.marksandspencer.com/rechargeable-ceramic-base-jute-table-lamp/p/hbp60916082",
+      "depth": 2,
+      "parent_url": "https://www.marksandspencer.com/l/offers/home-offers",
+      "attempt": 43,
+      "timestamp": "2026-11-12T21:15:21.131960+00:00",
+      "final_url": "https://www.marksandspencer.com/rechargeable-ceramic-base-jute-table-lamp/p/hbp60916082",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'none'; base-uri 'none'; img-src 'self' data: lantern.roeye.com *.bing.com *.bing.net images.ctfassets.net *.contentsquare.net cm.everesttech.net dpm.demdex.net *.doubleclick.net *.facebook.com *.facebook.net *.google.com *.google.co.uk *.google.ie *.googlesyndication.com *.googleadservices.com *.googletagmanager.com *.iseaskies.com *.marksandspencer.com *.marksandspencer.app *.cxnmarksandspencer.com *.mparticle.com *.onetrust.com *.reddit.com analytics.tiktok.com match.adsrvr.org edge.curalate.com; connect-src 'self' ms-gb.attn.tv *.attentivemobile.com the.sciencebehindecommerce.com www.wepowerconnections.com *.bing.com *.bing.net *.contentsquare.net dpm.demdex.net *.doubleclick.net *.dynatrace.com *.facebook.com *.facebook.net *.google.com *.google.co.uk *.google.ie *.googlesyndication.com *.google-analytics.com *.googleadservices.com *.googletagmanager.com translate.googleapis.com obseu.iseaskies.com *.medallia.eu *.marksandspencer.app *.marksandspencer.com *.mnscorp.net *.mparticle.com *.onetrust.com *.optimizely.com *.zaius.eu s.pinimg.com ct.pinterest.com *.reddit.com *.swrve.com api.taggstar.com *.tiktok.com *.tiktokw.us tags.tiqcdn.com edge.curalate.com *.foundit.com mas-consumer.truefitcorp.com mas-consumer.staging.truefitcorp.com p11.techlab-cdn.com; child-src 'none'; manifest-src 'self' *.marksandspencer.com; frame-ancestors 'self'; form-action 'self' www.facebook.com; object-src 'none'; worker-src blob: 'self'; script-src 'self' 'unsafe-inline' cdn.attn.tv *.dwin1.com *.roeyecdn.com the.sciencebehindecommerce.com *.bing.com *.bing.net blob: *.contentsquare.net *.doubleclick.net js-cdn.dynatrace.com *.facebook.com *.facebook.net *.getamigo.io *.googletagmanager.com *.iseaskies.com *.medallia.eu *.marksandspencer.com *.mparticle.com *.onetrust.com *.optimizely.com *.zaius.eu s.pinimg.com ct.pinterest.com *.redditstatic.com *.tiktok.com tags.tiqcdn.com *.curalate.com mas-cdn.truefitcorp.com p11.techlab-cdn.com; style-src 'self' 'unsafe-inline' *.bing.com *.bing.net fonts.googleapis.com *.optimizely.com; frame-src *.awin1.com *.demdex.net *.doubleclick.net www.facebook.com servedby.flashtalking.com *.googletagmanager.com *.medallia.eu *.optimizely.com ct.pinterest.com *.truefitcorp.com; font-src *.contentsquare.net fonts.gstatic.com *.iseaskies.com *.marksandspencer.com; media-src *.marksandspencer.app *.curalate.com; upgrade-insecure-requests"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=15768000"
+        ]
+      },
+      "body_bytes": 604779,
+      "truncated": false,
+      "body_sha256": "54292accf6126c8ace7c272909150290beb01e9f14ca130523f61bca7d1baefb",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Rechargeable Ceramic Base Jute Table Lamp by M&S",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "4817",
+      "domain": "marksandspencer.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.marksandspencer.com/sequin-tie-front-lace-top/p/clp61267948",
+      "depth": 1,
+      "parent_url": "https://www.marksandspencer.com/",
+      "attempt": 44,
+      "timestamp": "2026-11-12T21:15:22.161327+00:00",
+      "final_url": "https://www.marksandspencer.com/sequin-tie-front-lace-top/p/clp61267948",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'none'; base-uri 'none'; img-src 'self' data: lantern.roeye.com *.bing.com *.bing.net images.ctfassets.net *.contentsquare.net cm.everesttech.net dpm.demdex.net *.doubleclick.net *.facebook.com *.facebook.net *.google.com *.google.co.uk *.google.ie *.googlesyndication.com *.googleadservices.com *.googletagmanager.com *.iseaskies.com *.marksandspencer.com *.marksandspencer.app *.cxnmarksandspencer.com *.mparticle.com *.onetrust.com *.reddit.com analytics.tiktok.com match.adsrvr.org edge.curalate.com; connect-src 'self' ms-gb.attn.tv *.attentivemobile.com the.sciencebehindecommerce.com www.wepowerconnections.com *.bing.com *.bing.net *.contentsquare.net dpm.demdex.net *.doubleclick.net *.dynatrace.com *.facebook.com *.facebook.net *.google.com *.google.co.uk *.google.ie *.googlesyndication.com *.google-analytics.com *.googleadservices.com *.googletagmanager.com translate.googleapis.com obseu.iseaskies.com *.medallia.eu *.marksandspencer.app *.marksandspencer.com *.mnscorp.net *.mparticle.com *.onetrust.com *.optimizely.com *.zaius.eu s.pinimg.com ct.pinterest.com *.reddit.com *.swrve.com api.taggstar.com *.tiktok.com *.tiktokw.us tags.tiqcdn.com edge.curalate.com *.foundit.com mas-consumer.truefitcorp.com mas-consumer.staging.truefitcorp.com p11.techlab-cdn.com; child-src 'none'; manifest-src 'self' *.marksandspencer.com; frame-ancestors 'self'; form-action 'self' www.facebook.com; object-src 'none'; worker-src blob: 'self'; script-src 'self' 'unsafe-inline' cdn.attn.tv *.dwin1.com *.roeyecdn.com the.sciencebehindecommerce.com *.bing.com *.bing.net blob: *.contentsquare.net *.doubleclick.net js-cdn.dynatrace.com *.facebook.com *.facebook.net *.getamigo.io *.googletagmanager.com *.iseaskies.com *.medallia.eu *.marksandspencer.com *.mparticle.com *.onetrust.com *.optimizely.com *.zaius.eu s.pinimg.com ct.pinterest.com *.redditstatic.com *.tiktok.com tags.tiqcdn.com *.curalate.com mas-cdn.truefitcorp.com p11.techlab-cdn.com; style-src 'self' 'unsafe-inline' *.bing.com *.bing.net fonts.googleapis.com *.optimizely.com; frame-src *.awin1.com *.demdex.net *.doubleclick.net www.facebook.com servedby.flashtalking.com *.googletagmanager.com *.medallia.eu *.optimizely.com ct.pinterest.com *.truefitcorp.com; font-src *.contentsquare.net fonts.gstatic.com *.iseaskies.com *.marksandspencer.com; media-src *.marksandspencer.app *.curalate.com; upgrade-insecure-requests"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=15768000"
+        ]
+      },
+      "body_bytes": 624952,
+      "truncated": false,
+      "body_sha256": "c049f66fb6ab17d86e162f81b29fd67d7b1ab1c5b1d31940e53c6893abbdac05",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Sequin Tie Front Lace Top by M&S",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "4817",
+      "domain": "marksandspencer.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.marksandspencer.com/stone-effect-table-lamp/p/hbp22153688",
+      "depth": 2,
+      "parent_url": "https://www.marksandspencer.com/l/offers/home-offers",
+      "attempt": 45,
+      "timestamp": "2026-11-12T21:15:23.519693+00:00",
+      "final_url": "https://www.marksandspencer.com/stone-effect-table-lamp/p/hbp22153688",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'none'; base-uri 'none'; img-src 'self' data: lantern.roeye.com *.bing.com *.bing.net images.ctfassets.net *.contentsquare.net cm.everesttech.net dpm.demdex.net *.doubleclick.net *.facebook.com *.facebook.net *.google.com *.google.co.uk *.google.ie *.googlesyndication.com *.googleadservices.com *.googletagmanager.com *.iseaskies.com *.marksandspencer.com *.marksandspencer.app *.cxnmarksandspencer.com *.mparticle.com *.onetrust.com *.reddit.com analytics.tiktok.com match.adsrvr.org edge.curalate.com; connect-src 'self' ms-gb.attn.tv *.attentivemobile.com the.sciencebehindecommerce.com www.wepowerconnections.com *.bing.com *.bing.net *.contentsquare.net dpm.demdex.net *.doubleclick.net *.dynatrace.com *.facebook.com *.facebook.net *.google.com *.google.co.uk *.google.ie *.googlesyndication.com *.google-analytics.com *.googleadservices.com *.googletagmanager.com translate.googleapis.com obseu.iseaskies.com *.medallia.eu *.marksandspencer.app *.marksandspencer.com *.mnscorp.net *.mparticle.com *.onetrust.com *.optimizely.com *.zaius.eu s.pinimg.com ct.pinterest.com *.reddit.com *.swrve.com api.taggstar.com *.tiktok.com *.tiktokw.us tags.tiqcdn.com edge.curalate.com *.foundit.com mas-consumer.truefitcorp.com mas-consumer.staging.truefitcorp.com p11.techlab-cdn.com; child-src 'none'; manifest-src 'self' *.marksandspencer.com; frame-ancestors 'self'; form-action 'self' www.facebook.com; object-src 'none'; worker-src blob: 'self'; script-src 'self' 'unsafe-inline' cdn.attn.tv *.dwin1.com *.roeyecdn.com the.sciencebehindecommerce.com *.bing.com *.bing.net blob: *.contentsquare.net *.doubleclick.net js-cdn.dynatrace.com *.facebook.com *.facebook.net *.getamigo.io *.googletagmanager.com *.iseaskies.com *.medallia.eu *.marksandspencer.com *.mparticle.com *.onetrust.com *.optimizely.com *.zaius.eu s.pinimg.com ct.pinterest.com *.redditstatic.com *.tiktok.com tags.tiqcdn.com *.curalate.com mas-cdn.truefitcorp.com p11.techlab-cdn.com; style-src 'self' 'unsafe-inline' *.bing.com *.bing.net fonts.googleapis.com *.optimizely.com; frame-src *.awin1.com *.demdex.net *.doubleclick.net www.facebook.com servedby.flashtalking.com *.googletagmanager.com *.medallia.eu *.optimizely.com ct.pinterest.com *.truefitcorp.com; font-src *.contentsquare.net fonts.gstatic.com *.iseaskies.com *.marksandspencer.com; media-src *.marksandspencer.app *.curalate.com; upgrade-insecure-requests"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=15768000"
+        ]
+      },
+      "body_bytes": 603666,
+      "truncated": false,
+      "body_sha256": "288ec1737974706e27c1aa331c76915b153d925975bbc6206a9fedad99dc9df3",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Stone Effect Table Lamp by M&S",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "4817",
+      "domain": "marksandspencer.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.marksandspencer.com/cotton-rich-embellished-high-waisted-wide-leg-jeans/p/clp61225038",
+      "depth": 1,
+      "parent_url": "https://www.marksandspencer.com/",
+      "attempt": 46,
+      "timestamp": "2026-11-12T21:15:25.153279+00:00",
+      "final_url": "https://www.marksandspencer.com/cotton-rich-embellished-high-waisted-wide-leg-jeans/p/clp61225038",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'none'; base-uri 'none'; img-src 'self' data: lantern.roeye.com *.bing.com *.bing.net images.ctfassets.net *.contentsquare.net cm.everesttech.net dpm.demdex.net *.doubleclick.net *.facebook.com *.facebook.net *.google.com *.google.co.uk *.google.ie *.googlesyndication.com *.googleadservices.com *.googletagmanager.com *.iseaskies.com *.marksandspencer.com *.marksandspencer.app *.cxnmarksandspencer.com *.mparticle.com *.onetrust.com *.reddit.com analytics.tiktok.com match.adsrvr.org edge.curalate.com; connect-src 'self' ms-gb.attn.tv *.attentivemobile.com the.sciencebehindecommerce.com www.wepowerconnections.com *.bing.com *.bing.net *.contentsquare.net dpm.demdex.net *.doubleclick.net *.dynatrace.com *.facebook.com *.facebook.net *.google.com *.google.co.uk *.google.ie *.googlesyndication.com *.google-analytics.com *.googleadservices.com *.googletagmanager.com translate.googleapis.com obseu.iseaskies.com *.medallia.eu *.marksandspencer.app *.marksandspencer.com *.mnscorp.net *.mparticle.com *.onetrust.com *.optimizely.com *.zaius.eu s.pinimg.com ct.pinterest.com *.reddit.com *.swrve.com api.taggstar.com *.tiktok.com *.tiktokw.us tags.tiqcdn.com edge.curalate.com *.foundit.com mas-consumer.truefitcorp.com mas-consumer.staging.truefitcorp.com p11.techlab-cdn.com; child-src 'none'; manifest-src 'self' *.marksandspencer.com; frame-ancestors 'self'; form-action 'self' www.facebook.com; object-src 'none'; worker-src blob: 'self'; script-src 'self' 'unsafe-inline' cdn.attn.tv *.dwin1.com *.roeyecdn.com the.sciencebehindecommerce.com *.bing.com *.bing.net blob: *.contentsquare.net *.doubleclick.net js-cdn.dynatrace.com *.facebook.com *.facebook.net *.getamigo.io *.googletagmanager.com *.iseaskies.com *.medallia.eu *.marksandspencer.com *.mparticle.com *.onetrust.com *.optimizely.com *.zaius.eu s.pinimg.com ct.pinterest.com *.redditstatic.com *.tiktok.com tags.tiqcdn.com *.curalate.com mas-cdn.truefitcorp.com p11.techlab-cdn.com; style-src 'self' 'unsafe-inline' *.bing.com *.bing.net fonts.googleapis.com *.optimizely.com; frame-src *.awin1.com *.demdex.net *.doubleclick.net www.facebook.com servedby.flashtalking.com *.googletagmanager.com *.medallia.eu *.optimizely.com ct.pinterest.com *.truefitcorp.com; font-src *.contentsquare.net fonts.gstatic.com *.iseaskies.com *.marksandspencer.com; media-src *.marksandspencer.app *.curalate.com; upgrade-insecure-requests"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=15768000"
+        ]
+      },
+      "body_bytes": 693700,
+      "truncated": false,
+      "body_sha256": "3dcb59118df62dbe9fe2666de7d277167cc09808421bfb2fb8e116e46b8c3759",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Cotton Rich Embellished High Waisted Wide Leg Jeans by M&S",
+      "duplicate_final": false,
+      "eligible": true
+    }
+  ],
+  "robots": [
+    {
+      "url": "https://marksandspencer.com/robots.txt",
+      "timestamp": "2026-11-12T21:13:45.345801+00:00",
+      "status": 200,
+      "decision": "parsed",
+      "final_url": "https://www.marksandspencer.com/robots.txt",
+      "redirect_chain": [
+        {
+          "url": "https://marksandspencer.com/robots.txt",
+          "status": 301,
+          "location": "https://www.marksandspencer.com/robots.txt"
+        }
+      ],
+      "body_sha256": "9e4f27602fb91bd2af6d4abd0eddec6af4a3780814c0aeb9a0071d413943b2f6",
+      "body": "## This is not just a robots.txt file\r\n\r\nUser-agent: *\r\n\r\nDisallow: /eg/\r\nDisallow: /mt/\r\nDisallow: /gg/\r\n\r\nDisallow: /*/just-arrived/\r\nDisallow: /l/lingerie/new-in/\r\nDisallow: /l/lingerie/new-in?\r\nDisallow: /l/women/all-new-in/\r\nDisallow: /l/women/all-new-in?\r\nDisallow: /l/men/new-in/\r\nDisallow: /l/men/new-in?\r\nDisallow: /l/kids/new-in-kids-clothing/\r\nDisallow: /l/kids/new-in-kids-clothing?\r\nDisallow: /l/home-and-furniture/new-in-home-and-furniture/\r\nDisallow: /l/home-and-furniture/new-in-home-and-furniture?\r\nDisallow: /l/furniture/new-in-furniture/\r\nDisallow: /l/furniture/new-in-furniture?\r\nDisallow: /l/beauty/new-in-beauty/\r\nDisallow: /l/beauty/new-in-beauty?\r\nDisallow: /l/men/all-new-in/\r\nDisallow: /l/men/all-new-in?\r\nDisallow: /l/men/mens-new-in/\r\nDisallow: /l/men/mens-new-in?\r\n\r\nDisallow: /c/gift-cards\r\nDisallow: /l/brands/all-*\r\nDisallow: /*/fs5/*/*\r\nDisallow: /*/offers/*fs5\r\nAllow: /*/offers/sale*\r\nDisallow: /*/offers/*/*\r\nDisallow: /*/offers/sale/*fs5*\r\nDisallow: /*/offers/sale/*/*\r\nDisallow: /*5-off*\r\nDisallow: /*0-off*\r\nDisallow: /l/*4-for\r\nDisallow: /l/*3-for\r\nDisallow: /l/*2-for\r\nDisallow: /TealeafTarget\r\nDisallow: /MSItemSalesScrollingProductsESpotView*\r\nDisallow: /*maxparcount\r\nDisallow: /l/*:\r\nDisallow: /ie/l/*:\r\n\r\n\r\nDisallow: /*MSCS\r\nDisallow: /*Logoff\r\nDisallow: /*MSOrder\r\nDisallow: /*Error404\r\nDisallow: /*ErrorView\r\nDisallow: /*ModalView\r\nDisallow: /*MSAccount\r\nDisallow: /*MSPayment\r\nDisallow: /*BasketView\r\nDisallow: /*basket/view\r\nDisallow: /*DisplayCmd\r\nDisallow: /*MS3DSecure\r\nDisallow: /*MSRegister\r\nDisallow: /*NotifyView\r\nDisallow: /*DisplayView\r\nDisallow: /*MSMyAccount\r\nDisallow: /*PrivacyView\r\nDisallow: /*WelcomeView\r\nDisallow: /*InterestItem\r\nDisallow: /*LogonFormView\r\nDisallow: /*MSChangeLogon\r\nDisallow: /*MSUserProfile\r\nDisallow: /*ResetPassword\r\nDisallow: /*ChangePassword\r\nDisallow: /*MSSubscription\r\nDisallow: /*CategoryDisplay\r\nDisallow: /*OrderSummaryView\r\nDisallow: /*MSAgeVerification\r\nDisallow: /*MSHomeStoreOption\r\nDisallow: /*SavedForLaterView\r\nDisallow: /*GenericSystemError\r\nDisallow: /*MSSessionAliveView\r\nDisallow: /*MSWhereMyOrderView\r\nDisallow: /*SharedWishListView\r\nDisallow: /*MSPasswordResetView\r\nDisallow: /*MSEditBillingAddress\r\nDisallow: /*OrderShippingBilling\r\nDisallow: /*MSStaffCardAddEditView\r\nDisallow: /*GenericApplicationError\r\nDisallow: /*MSAjaxAddressChangeView\r\nDisallow: /*NonAjaxTrackOrderStatus\r\nDisallow: /*RegistrationAddFormView\r\nDisallow: /*MSSinglePageCheckoutView\r\nDisallow: /*QuickCheckoutLOCSnippetView\r\nDisallow: /*MSDisplayPaymentErrorMessages\r\nAllow: /webapp/wcs/stores/servlet/MSSparksLandingPage*\r\nAllow: /webapp/wcs/stores/servlet/MSResStoreFinderConfigCmd*\r\nDisallow: /*webapp\r\nDisallow: /*Krypto\r\nDisallow: /*krypto\r\nDisallow: /checkout\r\nDisallow: /content/the-parent-hood/\r\n\r\nDisallow: /analytics/\r\nDisallow: /lightbox/\r\nDisallow: /omniture/\r\nDisallow: /events/\r\nDisallow: /ajax/\r\nDisallow: /allComponentsInitialised/\r\nDisallow: /richRelevance/\r\nDisallow: /sendToFriend/\r\nDisallow: /minibasket/\r\nDisallow: /log/\r\nDisallow: /replaceContent/\r\nDisallow: /IWCat*\r\nDisallow: /*quickView=\r\nDisallow: /*productId=\r\nDisallow: /*firstImage=\r\nDisallow: /*relatedAsins=\r\nDisallow: /*selectedTab=\r\nDisallow: /*mcp_filters_filterPanelOpen=\r\nDisallow: /*stop_mobi=\r\nDisallow: /*facets-1090-1=\r\nDisallow: /*sr%20%20=\r\nDisallow: /*mcp_size_filterPanelOpen=\r\nDisallow: /*pup_c=\r\nDisallow: /*useParentAsinsInResult=\r\nDisallow: /*+Furniture+_PLAHome+=\r\nDisallow: /*dpsrtxl\r\n\r\nDisallow: /*prefn1\r\nDisallow: /*prefv1\r\nDisallow: /*dwvar\r\nDisallow: /*pmin\r\nDisallow: /*pgNumber\r\nDisallow: /*srule=\r\nDisallow: *fh_location\r\n\r\nDisallow: /*/orders$\r\nDisallow: /*/cart$\r\nDisallow: /*/account$\r\nDisallow: /*/registration$\r\nDisallow: /*/*Order-History\r\nDisallow: /*/*Cart-Show\r\nDisallow: /*/*Account-Show\r\nDisallow: /*/*Account-StartRegister\r\nDisallow: /*/*account/*/?next=*\r\nDisallow: */account\r\nDisallow: /*/forgot-password\r\nDisallow: /*/reset-password\r\n\r\nDisallow: /*MSFindItems\r\nDisallow: /*search?q=\r\nDisallow: /*Search-Show\r\nDisallow: */search\r\n\r\nDisallow: /*MSAssocProductDataAjax\r\n\r\n## Sitemaps\r\nSitemap: https://www.marksandspencer.com/sitemap/sitemap_index.xml\r\nSitemap: https://www.marksandspencer.com/ie/sitemap/sitemap_index.xml\r\nSitemap: https://www.marksandspencer.com/en/sitemap/sitemap_index.xml"
+    },
+    {
+      "url": "https://www.marksandspencer.com/robots.txt",
+      "timestamp": "2026-11-12T21:13:45.869510+00:00",
+      "status": 200,
+      "decision": "parsed",
+      "final_url": "https://www.marksandspencer.com/robots.txt",
+      "redirect_chain": [],
+      "body_sha256": "9e4f27602fb91bd2af6d4abd0eddec6af4a3780814c0aeb9a0071d413943b2f6",
+      "body": "## This is not just a robots.txt file\r\n\r\nUser-agent: *\r\n\r\nDisallow: /eg/\r\nDisallow: /mt/\r\nDisallow: /gg/\r\n\r\nDisallow: /*/just-arrived/\r\nDisallow: /l/lingerie/new-in/\r\nDisallow: /l/lingerie/new-in?\r\nDisallow: /l/women/all-new-in/\r\nDisallow: /l/women/all-new-in?\r\nDisallow: /l/men/new-in/\r\nDisallow: /l/men/new-in?\r\nDisallow: /l/kids/new-in-kids-clothing/\r\nDisallow: /l/kids/new-in-kids-clothing?\r\nDisallow: /l/home-and-furniture/new-in-home-and-furniture/\r\nDisallow: /l/home-and-furniture/new-in-home-and-furniture?\r\nDisallow: /l/furniture/new-in-furniture/\r\nDisallow: /l/furniture/new-in-furniture?\r\nDisallow: /l/beauty/new-in-beauty/\r\nDisallow: /l/beauty/new-in-beauty?\r\nDisallow: /l/men/all-new-in/\r\nDisallow: /l/men/all-new-in?\r\nDisallow: /l/men/mens-new-in/\r\nDisallow: /l/men/mens-new-in?\r\n\r\nDisallow: /c/gift-cards\r\nDisallow: /l/brands/all-*\r\nDisallow: /*/fs5/*/*\r\nDisallow: /*/offers/*fs5\r\nAllow: /*/offers/sale*\r\nDisallow: /*/offers/*/*\r\nDisallow: /*/offers/sale/*fs5*\r\nDisallow: /*/offers/sale/*/*\r\nDisallow: /*5-off*\r\nDisallow: /*0-off*\r\nDisallow: /l/*4-for\r\nDisallow: /l/*3-for\r\nDisallow: /l/*2-for\r\nDisallow: /TealeafTarget\r\nDisallow: /MSItemSalesScrollingProductsESpotView*\r\nDisallow: /*maxparcount\r\nDisallow: /l/*:\r\nDisallow: /ie/l/*:\r\n\r\n\r\nDisallow: /*MSCS\r\nDisallow: /*Logoff\r\nDisallow: /*MSOrder\r\nDisallow: /*Error404\r\nDisallow: /*ErrorView\r\nDisallow: /*ModalView\r\nDisallow: /*MSAccount\r\nDisallow: /*MSPayment\r\nDisallow: /*BasketView\r\nDisallow: /*basket/view\r\nDisallow: /*DisplayCmd\r\nDisallow: /*MS3DSecure\r\nDisallow: /*MSRegister\r\nDisallow: /*NotifyView\r\nDisallow: /*DisplayView\r\nDisallow: /*MSMyAccount\r\nDisallow: /*PrivacyView\r\nDisallow: /*WelcomeView\r\nDisallow: /*InterestItem\r\nDisallow: /*LogonFormView\r\nDisallow: /*MSChangeLogon\r\nDisallow: /*MSUserProfile\r\nDisallow: /*ResetPassword\r\nDisallow: /*ChangePassword\r\nDisallow: /*MSSubscription\r\nDisallow: /*CategoryDisplay\r\nDisallow: /*OrderSummaryView\r\nDisallow: /*MSAgeVerification\r\nDisallow: /*MSHomeStoreOption\r\nDisallow: /*SavedForLaterView\r\nDisallow: /*GenericSystemError\r\nDisallow: /*MSSessionAliveView\r\nDisallow: /*MSWhereMyOrderView\r\nDisallow: /*SharedWishListView\r\nDisallow: /*MSPasswordResetView\r\nDisallow: /*MSEditBillingAddress\r\nDisallow: /*OrderShippingBilling\r\nDisallow: /*MSStaffCardAddEditView\r\nDisallow: /*GenericApplicationError\r\nDisallow: /*MSAjaxAddressChangeView\r\nDisallow: /*NonAjaxTrackOrderStatus\r\nDisallow: /*RegistrationAddFormView\r\nDisallow: /*MSSinglePageCheckoutView\r\nDisallow: /*QuickCheckoutLOCSnippetView\r\nDisallow: /*MSDisplayPaymentErrorMessages\r\nAllow: /webapp/wcs/stores/servlet/MSSparksLandingPage*\r\nAllow: /webapp/wcs/stores/servlet/MSResStoreFinderConfigCmd*\r\nDisallow: /*webapp\r\nDisallow: /*Krypto\r\nDisallow: /*krypto\r\nDisallow: /checkout\r\nDisallow: /content/the-parent-hood/\r\n\r\nDisallow: /analytics/\r\nDisallow: /lightbox/\r\nDisallow: /omniture/\r\nDisallow: /events/\r\nDisallow: /ajax/\r\nDisallow: /allComponentsInitialised/\r\nDisallow: /richRelevance/\r\nDisallow: /sendToFriend/\r\nDisallow: /minibasket/\r\nDisallow: /log/\r\nDisallow: /replaceContent/\r\nDisallow: /IWCat*\r\nDisallow: /*quickView=\r\nDisallow: /*productId=\r\nDisallow: /*firstImage=\r\nDisallow: /*relatedAsins=\r\nDisallow: /*selectedTab=\r\nDisallow: /*mcp_filters_filterPanelOpen=\r\nDisallow: /*stop_mobi=\r\nDisallow: /*facets-1090-1=\r\nDisallow: /*sr%20%20=\r\nDisallow: /*mcp_size_filterPanelOpen=\r\nDisallow: /*pup_c=\r\nDisallow: /*useParentAsinsInResult=\r\nDisallow: /*+Furniture+_PLAHome+=\r\nDisallow: /*dpsrtxl\r\n\r\nDisallow: /*prefn1\r\nDisallow: /*prefv1\r\nDisallow: /*dwvar\r\nDisallow: /*pmin\r\nDisallow: /*pgNumber\r\nDisallow: /*srule=\r\nDisallow: *fh_location\r\n\r\nDisallow: /*/orders$\r\nDisallow: /*/cart$\r\nDisallow: /*/account$\r\nDisallow: /*/registration$\r\nDisallow: /*/*Order-History\r\nDisallow: /*/*Cart-Show\r\nDisallow: /*/*Account-Show\r\nDisallow: /*/*Account-StartRegister\r\nDisallow: /*/*account/*/?next=*\r\nDisallow: */account\r\nDisallow: /*/forgot-password\r\nDisallow: /*/reset-password\r\n\r\nDisallow: /*MSFindItems\r\nDisallow: /*search?q=\r\nDisallow: /*Search-Show\r\nDisallow: */search\r\n\r\nDisallow: /*MSAssocProductDataAjax\r\n\r\n## Sitemaps\r\nSitemap: https://www.marksandspencer.com/sitemap/sitemap_index.xml\r\nSitemap: https://www.marksandspencer.com/ie/sitemap/sitemap_index.xml\r\nSitemap: https://www.marksandspencer.com/en/sitemap/sitemap_index.xml"
+    }
+  ],
+  "eligible_pages": 40,
+  "canonical_origin": [
+    "https",
+    "www.marksandspencer.com",
+    443
+  ],
+  "stop_reason": "page_budget",
+  "elapsed_seconds": 102.7
+}

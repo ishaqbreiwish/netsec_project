@@ -1,0 +1,1786 @@
+{
+  "site": {
+    "rank": "144",
+    "domain": "apache.org",
+    "stratum": "101-1000"
+  },
+  "rows": [
+    {
+      "rank": "144",
+      "domain": "apache.org",
+      "stratum": "101-1000",
+      "requested_url": "https://apache.org/",
+      "depth": 0,
+      "parent_url": "",
+      "attempt": 1,
+      "timestamp": "2026-11-12T21:11:49.067750+00:00",
+      "final_url": "https://apache.org/",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'self' data: 'unsafe-inline' https://www.apachecon.com/ https://analytics.apache.org/ http://analytics.apache.org/ https://www.youtube-nocookie.com https://www.youtube.com; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://www.apachecon.com/ https://analytics.apache.org/ http://analytics.apache.org/ https://www.youtube-nocookie.com https://www.youtube.com; style-src 'self' 'unsafe-inline'; frame-ancestors 'none'; img-src 'self' data: https://www.apache.org/ https://www.apachecon.com/;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 52707,
+      "truncated": false,
+      "body_sha256": "a1c32705189bb17406091590182618c9072e7bab1f246b2e1ee7128a76687d0c",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Welcome to The Apache Software Foundation | Apache Software Foundation",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "144",
+      "domain": "apache.org",
+      "stratum": "101-1000",
+      "requested_url": "https://apache.org/foundation/policies/conduct",
+      "depth": 1,
+      "parent_url": "https://apache.org/",
+      "attempt": 2,
+      "timestamp": "2026-11-12T21:11:53.362585+00:00",
+      "final_url": "https://apache.org/foundation/policies/conduct",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'self' data: 'unsafe-inline' https://www.apachecon.com/ https://analytics.apache.org/ http://analytics.apache.org/ https://www.youtube-nocookie.com https://www.youtube.com; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://www.apachecon.com/ https://analytics.apache.org/ http://analytics.apache.org/ https://www.youtube-nocookie.com https://www.youtube.com; style-src 'self' 'unsafe-inline'; frame-ancestors 'none'; img-src 'self' data: https://www.apache.org/ https://www.apachecon.com/;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 34121,
+      "truncated": false,
+      "body_sha256": "ac3cba1e395d456baee7ccd4b9131599ba304253559d44c253b3172fa9b134be",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Code of Conduct | Apache Software Foundation",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "144",
+      "domain": "apache.org",
+      "stratum": "101-1000",
+      "requested_url": "https://apache.org/community-resources/",
+      "depth": 1,
+      "parent_url": "https://apache.org/",
+      "attempt": 3,
+      "timestamp": "2026-11-12T21:11:57.035861+00:00",
+      "final_url": "https://apache.org/community-resources/",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'self' data: 'unsafe-inline' https://www.apachecon.com/ https://analytics.apache.org/ http://analytics.apache.org/ https://www.youtube-nocookie.com https://www.youtube.com; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://www.apachecon.com/ https://analytics.apache.org/ http://analytics.apache.org/ https://www.youtube-nocookie.com https://www.youtube.com; style-src 'self' 'unsafe-inline'; frame-ancestors 'none'; img-src 'self' data: https://www.apache.org/ https://www.apachecon.com/;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 27216,
+      "truncated": false,
+      "body_sha256": "6a1d17430ab2a5136d869cc7db6bdc01e1169d41a28e66a2a409f0feba0cf015",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Community Connect & Mentor | Apache Software Foundation",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "144",
+      "domain": "apache.org",
+      "stratum": "101-1000",
+      "requested_url": "https://apache.org/memorials/",
+      "depth": 2,
+      "parent_url": "https://apache.org/community-resources/",
+      "attempt": 4,
+      "timestamp": "2026-11-12T21:12:01.123466+00:00",
+      "final_url": "https://apache.org/memorials/",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'self' data: 'unsafe-inline' https://www.apachecon.com/ https://analytics.apache.org/ http://analytics.apache.org/ https://www.youtube-nocookie.com https://www.youtube.com; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://www.apachecon.com/ https://analytics.apache.org/ http://analytics.apache.org/ https://www.youtube-nocookie.com https://www.youtube.com; style-src 'self' 'unsafe-inline'; frame-ancestors 'none'; img-src 'self' data: https://www.apache.org/ https://www.apachecon.com/;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 26747,
+      "truncated": false,
+      "body_sha256": "3a8bee79dc2f4556e40355d9ee247e108a4c4aaaf606cdfb210b31c4a20c77c9",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "ASF Memorials | Apache Software Foundation",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "144",
+      "domain": "apache.org",
+      "stratum": "101-1000",
+      "requested_url": "https://apache.org/dev/pmc.html",
+      "depth": 3,
+      "parent_url": "https://apache.org/memorials/",
+      "attempt": 5,
+      "timestamp": "2026-11-12T21:12:05.041273+00:00",
+      "final_url": "https://apache.org/dev/pmc.html",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'self' data: 'unsafe-inline' https://www.apachecon.com/ https://analytics.apache.org/ http://analytics.apache.org/ https://www.youtube-nocookie.com https://www.youtube.com; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://www.apachecon.com/ https://analytics.apache.org/ http://analytics.apache.org/ https://www.youtube-nocookie.com https://www.youtube.com; style-src 'self' 'unsafe-inline'; frame-ancestors 'none'; img-src 'self' data: https://www.apache.org/ https://www.apachecon.com/;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 68068,
+      "truncated": false,
+      "body_sha256": "eed3bc838b0ae05cd0187dfd1de985320a415a3371a216eefae26c628e0abbfb",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Project Management Committee Guide | Apache Software Foundation",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "144",
+      "domain": "apache.org",
+      "stratum": "101-1000",
+      "requested_url": "https://apache.org/legal/release-policy.html",
+      "depth": 4,
+      "parent_url": "https://apache.org/dev/pmc.html",
+      "attempt": 6,
+      "timestamp": "2026-11-12T21:12:09.350353+00:00",
+      "final_url": "https://apache.org/legal/release-policy.html",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'self' data: 'unsafe-inline' https://www.apachecon.com/ https://analytics.apache.org/ http://analytics.apache.org/ https://www.youtube-nocookie.com https://www.youtube.com; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://www.apachecon.com/ https://analytics.apache.org/ http://analytics.apache.org/ https://www.youtube-nocookie.com https://www.youtube.com; style-src 'self' 'unsafe-inline'; frame-ancestors 'none'; img-src 'self' data: https://www.apache.org/ https://www.apachecon.com/;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 68152,
+      "truncated": false,
+      "body_sha256": "22c8f3478bf47d51b2114d7fbab0ff6b30a70037e3324b0b10ff6ba0b3748c1b",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Release Policy | Apache Software Foundation",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "144",
+      "domain": "apache.org",
+      "stratum": "101-1000",
+      "requested_url": "https://apache.org/licenses/",
+      "depth": 4,
+      "parent_url": "https://apache.org/dev/pmc.html",
+      "attempt": 7,
+      "timestamp": "2026-11-12T21:12:13.223548+00:00",
+      "final_url": "https://apache.org/licenses/",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'self' data: 'unsafe-inline' https://www.apachecon.com/ https://analytics.apache.org/ http://analytics.apache.org/ https://www.youtube-nocookie.com https://www.youtube.com; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://www.apachecon.com/ https://analytics.apache.org/ http://analytics.apache.org/ https://www.youtube-nocookie.com https://www.youtube.com; style-src 'self' 'unsafe-inline'; frame-ancestors 'none'; img-src 'self' data: https://www.apache.org/ https://www.apachecon.com/;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 28515,
+      "truncated": false,
+      "body_sha256": "21b4afbd993791ec6b4b56c4b96190d085833313f365e88ff3811282c939d122",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Licenses | Apache Software Foundation",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "144",
+      "domain": "apache.org",
+      "stratum": "101-1000",
+      "requested_url": "https://apache.org/projects",
+      "depth": 1,
+      "parent_url": "https://apache.org/",
+      "attempt": 8,
+      "timestamp": "2026-11-12T21:12:21.027096+00:00",
+      "final_url": "https://apache.org/projects/",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'self' data: 'unsafe-inline' https://www.apachecon.com/ https://analytics.apache.org/ http://analytics.apache.org/ https://www.youtube-nocookie.com https://www.youtube.com; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://www.apachecon.com/ https://analytics.apache.org/ http://analytics.apache.org/ https://www.youtube-nocookie.com https://www.youtube.com; style-src 'self' 'unsafe-inline'; frame-ancestors 'none'; img-src 'self' data: https://www.apache.org/ https://www.apachecon.com/;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 28541,
+      "truncated": false,
+      "body_sha256": "9b748cce5143af0f3c939911cf636160210b9b902a8b0d1eaca3f6042fa50407",
+      "redirect_chain": [
+        {
+          "url": "https://apache.org/projects",
+          "status": 301,
+          "location": "https://apache.org/projects/",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000; includeSubDomains; preload"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "ASF Open Source Projects | Apache Software Foundation",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "144",
+      "domain": "apache.org",
+      "stratum": "101-1000",
+      "requested_url": "https://apache.org/board/escalation",
+      "depth": 4,
+      "parent_url": "https://apache.org/dev/pmc.html",
+      "attempt": 9,
+      "timestamp": "2026-11-12T21:12:25.314567+00:00",
+      "final_url": "https://apache.org/board/escalation",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'self' data: 'unsafe-inline' https://www.apachecon.com/ https://analytics.apache.org/ http://analytics.apache.org/ https://www.youtube-nocookie.com https://www.youtube.com; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://www.apachecon.com/ https://analytics.apache.org/ http://analytics.apache.org/ https://www.youtube-nocookie.com https://www.youtube.com; style-src 'self' 'unsafe-inline'; frame-ancestors 'none'; img-src 'self' data: https://www.apache.org/ https://www.apachecon.com/;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 33403,
+      "truncated": false,
+      "body_sha256": "4ceeb7a2d8a94571b8ea42fa3937d29f30a9e94bcf28223fa73290298d2a46e6",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "How To Escalate Issues At The ASF | Apache Software Foundation",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "144",
+      "domain": "apache.org",
+      "stratum": "101-1000",
+      "requested_url": "https://apache.org/security/",
+      "depth": 5,
+      "parent_url": "https://apache.org/board/escalation",
+      "attempt": 10,
+      "timestamp": "2026-11-12T21:12:29.084679+00:00",
+      "final_url": "https://apache.org/security/",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'self' data: 'unsafe-inline' https://www.apachecon.com/ https://analytics.apache.org/ http://analytics.apache.org/ https://www.youtube-nocookie.com https://www.youtube.com; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://www.apachecon.com/ https://analytics.apache.org/ http://analytics.apache.org/ https://www.youtube-nocookie.com https://www.youtube.com; style-src 'self' 'unsafe-inline'; frame-ancestors 'none'; img-src 'self' data: https://www.apache.org/ https://www.apachecon.com/;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 29818,
+      "truncated": false,
+      "body_sha256": "f03185a0b56ebfd44547f114d02f21548092086daa5a6d7bc85bbabfa90c9da6",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "ASF Security Team | Apache Software Foundation",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "144",
+      "domain": "apache.org",
+      "stratum": "101-1000",
+      "requested_url": "https://apache.org/theapacheway/",
+      "depth": 1,
+      "parent_url": "https://apache.org/",
+      "attempt": 11,
+      "timestamp": "2026-11-12T21:12:33.093785+00:00",
+      "final_url": "https://apache.org/theapacheway/",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'self' data: 'unsafe-inline' https://www.apachecon.com/ https://analytics.apache.org/ http://analytics.apache.org/ https://www.youtube-nocookie.com https://www.youtube.com; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://www.apachecon.com/ https://analytics.apache.org/ http://analytics.apache.org/ https://www.youtube-nocookie.com https://www.youtube.com; style-src 'self' 'unsafe-inline'; frame-ancestors 'none'; img-src 'self' data: https://www.apache.org/ https://www.apachecon.com/;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 31278,
+      "truncated": false,
+      "body_sha256": "9f3f7f1de6bf0595e7499ef88fddf4918f43cd96b2b5e0c0f91d90a461a73736",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Briefing: The Apache Way | Apache Software Foundation",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "144",
+      "domain": "apache.org",
+      "stratum": "101-1000",
+      "requested_url": "https://apache.org/logos/",
+      "depth": 1,
+      "parent_url": "https://apache.org/",
+      "attempt": 12,
+      "timestamp": "2026-11-12T21:12:37.327976+00:00",
+      "final_url": "https://apache.org/logos/",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'self' data: 'unsafe-inline' https://www.apachecon.com/ https://analytics.apache.org/ http://analytics.apache.org/ https://www.youtube-nocookie.com https://www.youtube.com; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://www.apachecon.com/ https://analytics.apache.org/ http://analytics.apache.org/ https://www.youtube-nocookie.com https://www.youtube.com; style-src 'self' 'unsafe-inline'; frame-ancestors 'none'; img-src 'self' data: https://www.apache.org/ https://www.apachecon.com/;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 7077,
+      "truncated": false,
+      "body_sha256": "7a39763ecec7d4f5342823d35381a6d44636cd8af87ca34c78b57a18168eff72",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Apache Project logosWelcome to The Apache Software Foundation!",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "144",
+      "domain": "apache.org",
+      "stratum": "101-1000",
+      "requested_url": "https://apache.org/index.html",
+      "depth": 2,
+      "parent_url": "https://apache.org/logos/",
+      "attempt": 13,
+      "timestamp": "2026-11-12T21:12:41.079865+00:00",
+      "final_url": "https://apache.org/index.html",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'self' data: 'unsafe-inline' https://www.apachecon.com/ https://analytics.apache.org/ http://analytics.apache.org/ https://www.youtube-nocookie.com https://www.youtube.com; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://www.apachecon.com/ https://analytics.apache.org/ http://analytics.apache.org/ https://www.youtube-nocookie.com https://www.youtube.com; style-src 'self' 'unsafe-inline'; frame-ancestors 'none'; img-src 'self' data: https://www.apache.org/ https://www.apachecon.com/;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 52707,
+      "truncated": false,
+      "body_sha256": "a1c32705189bb17406091590182618c9072e7bab1f246b2e1ee7128a76687d0c",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Welcome to The Apache Software Foundation | Apache Software Foundation",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "144",
+      "domain": "apache.org",
+      "stratum": "101-1000",
+      "requested_url": "https://apache.org/dyn/closer.cgi",
+      "depth": 2,
+      "parent_url": "https://apache.org/logos/",
+      "attempt": 14,
+      "timestamp": "2026-11-12T21:12:45.311546+00:00",
+      "final_url": "https://apache.org/dyn/closer.cgi",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'self' data: 'unsafe-inline' https://www.apachecon.com/ https://analytics.apache.org/ http://analytics.apache.org/ https://www.youtube-nocookie.com https://www.youtube.com; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://www.apachecon.com/ https://analytics.apache.org/ http://analytics.apache.org/ https://www.youtube-nocookie.com https://www.youtube.com; style-src 'self' 'unsafe-inline'; frame-ancestors 'none'; img-src 'self' data: https://www.apache.org/ https://www.apachecon.com/;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 21128,
+      "truncated": false,
+      "body_sha256": "7bd66ee75379e9212a0e46f337d33857d5402425352f835514fa1df6246cec81",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Apache Download Mirrors",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "144",
+      "domain": "apache.org",
+      "stratum": "101-1000",
+      "requested_url": "https://apache.org/press/",
+      "depth": 1,
+      "parent_url": "https://apache.org/",
+      "attempt": 15,
+      "timestamp": "2026-11-12T21:12:49.255647+00:00",
+      "final_url": "https://apache.org/press/",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'self' data: 'unsafe-inline' https://www.apachecon.com/ https://analytics.apache.org/ http://analytics.apache.org/ https://www.youtube-nocookie.com https://www.youtube.com; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://www.apachecon.com/ https://analytics.apache.org/ http://analytics.apache.org/ https://www.youtube-nocookie.com https://www.youtube.com; style-src 'self' 'unsafe-inline'; frame-ancestors 'none'; img-src 'self' data: https://www.apache.org/ https://www.apachecon.com/;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 28175,
+      "truncated": false,
+      "body_sha256": "bd8a1312ac96740390d6d9a642483b0879455607c535278348094bc284d02370",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "ASF Newsroom | Apache Software Foundation",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "144",
+      "domain": "apache.org",
+      "stratum": "101-1000",
+      "requested_url": "https://apache.org/memorials/mladen_turk.html",
+      "depth": 3,
+      "parent_url": "https://apache.org/memorials/",
+      "attempt": 16,
+      "timestamp": "2026-11-12T21:12:53.210917+00:00",
+      "final_url": "https://apache.org/memorials/mladen_turk.html",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'self' data: 'unsafe-inline' https://www.apachecon.com/ https://analytics.apache.org/ http://analytics.apache.org/ https://www.youtube-nocookie.com https://www.youtube.com; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://www.apachecon.com/ https://analytics.apache.org/ http://analytics.apache.org/ https://www.youtube-nocookie.com https://www.youtube.com; style-src 'self' 'unsafe-inline'; frame-ancestors 'none'; img-src 'self' data: https://www.apache.org/ https://www.apachecon.com/;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 25707,
+      "truncated": false,
+      "body_sha256": "2a1f677533d286ef1831ed1f8665f509dc8d82b2e698d36b0743c437ad511ad9",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Mladen Turk - April 17th 2025 | Apache Software Foundation",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "144",
+      "domain": "apache.org",
+      "stratum": "101-1000",
+      "requested_url": "https://apache.org/foundation/voting.html",
+      "depth": 5,
+      "parent_url": "https://apache.org/legal/release-policy.html",
+      "attempt": 17,
+      "timestamp": "2026-11-12T21:12:57.228898+00:00",
+      "final_url": "https://apache.org/foundation/voting.html",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'self' data: 'unsafe-inline' https://www.apachecon.com/ https://analytics.apache.org/ http://analytics.apache.org/ https://www.youtube-nocookie.com https://www.youtube.com; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://www.apachecon.com/ https://analytics.apache.org/ http://analytics.apache.org/ https://www.youtube-nocookie.com https://www.youtube.com; style-src 'self' 'unsafe-inline'; frame-ancestors 'none'; img-src 'self' data: https://www.apache.org/ https://www.apachecon.com/;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 33072,
+      "truncated": false,
+      "body_sha256": "6305650a30680abb7a0479487a491526a1301fa8e9c2e59f076fdda17640c850",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Apache Voting Process | Apache Software Foundation",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "144",
+      "domain": "apache.org",
+      "stratum": "101-1000",
+      "requested_url": "https://apache.org/dev/release-signing.html",
+      "depth": 5,
+      "parent_url": "https://apache.org/legal/release-policy.html",
+      "attempt": 18,
+      "timestamp": "2026-11-12T21:13:01.313133+00:00",
+      "final_url": "https://apache.org/dev/release-signing.html",
+      "status": 302,
+      "content_type": "text/html; charset=iso-8859-1",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 0,
+      "truncated": false,
+      "body_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "redirect_chain": [
+        {
+          "url": "https://apache.org/dev/release-signing.html",
+          "status": 302,
+          "location": "https://infra.apache.org/release-signing.html",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000; includeSubDomains; preload"
+            ]
+          }
+        }
+      ],
+      "error": "redirect_out_of_scope",
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "144",
+      "domain": "apache.org",
+      "stratum": "101-1000",
+      "requested_url": "https://apache.org/logos/about.html",
+      "depth": 2,
+      "parent_url": "https://apache.org/logos/",
+      "attempt": 19,
+      "timestamp": "2026-11-12T21:13:05.092633+00:00",
+      "final_url": "https://apache.org/logos/about.html",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'self' data: 'unsafe-inline' https://www.apachecon.com/ https://analytics.apache.org/ http://analytics.apache.org/ https://www.youtube-nocookie.com https://www.youtube.com; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://www.apachecon.com/ https://analytics.apache.org/ http://analytics.apache.org/ https://www.youtube-nocookie.com https://www.youtube.com; style-src 'self' 'unsafe-inline'; frame-ancestors 'none'; img-src 'self' data: https://www.apache.org/ https://www.apachecon.com/;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 8004,
+      "truncated": false,
+      "body_sha256": "6670e0b32069380f5253ecaf84b8889cfe20986050b788cde563feb605841589",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Apache Project logosWelcome to The Apache Software Foundation!",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "144",
+      "domain": "apache.org",
+      "stratum": "101-1000",
+      "requested_url": "https://apache.org/board/services",
+      "depth": 4,
+      "parent_url": "https://apache.org/dev/pmc.html",
+      "attempt": 20,
+      "timestamp": "2026-11-12T21:13:09.228159+00:00",
+      "final_url": "https://apache.org/board/services",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'self' data: 'unsafe-inline' https://www.apachecon.com/ https://analytics.apache.org/ http://analytics.apache.org/ https://www.youtube-nocookie.com https://www.youtube.com; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://www.apachecon.com/ https://analytics.apache.org/ http://analytics.apache.org/ https://www.youtube-nocookie.com https://www.youtube.com; style-src 'self' 'unsafe-inline'; frame-ancestors 'none'; img-src 'self' data: https://www.apache.org/ https://www.apachecon.com/;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 33245,
+      "truncated": false,
+      "body_sha256": "3600cf5c73462c84746d3f6c63017f33776a96dc6cd1d7ef1745503d28bad7bb",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Foundation Services for Apache Projects | Apache Software Foundation",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "144",
+      "domain": "apache.org",
+      "stratum": "101-1000",
+      "requested_url": "https://apache.org/travel",
+      "depth": 5,
+      "parent_url": "https://apache.org/board/services",
+      "attempt": 21,
+      "timestamp": "2026-11-12T21:13:13.226792+00:00",
+      "final_url": "https://apache.org/travel",
+      "status": 302,
+      "content_type": "text/html; charset=iso-8859-1",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 0,
+      "truncated": false,
+      "body_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "redirect_chain": [
+        {
+          "url": "https://apache.org/travel",
+          "status": 302,
+          "location": "https://tac.apache.org",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000; includeSubDomains; preload"
+            ]
+          }
+        }
+      ],
+      "error": "redirect_out_of_scope",
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "144",
+      "domain": "apache.org",
+      "stratum": "101-1000",
+      "requested_url": "https://apache.org/legal/resolved",
+      "depth": 5,
+      "parent_url": "https://apache.org/legal/release-policy.html",
+      "attempt": 22,
+      "timestamp": "2026-11-12T21:13:17.750698+00:00",
+      "final_url": "https://apache.org/legal/resolved",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'self' data: 'unsafe-inline' https://www.apachecon.com/ https://analytics.apache.org/ http://analytics.apache.org/ https://www.youtube-nocookie.com https://www.youtube.com; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://www.apachecon.com/ https://analytics.apache.org/ http://analytics.apache.org/ https://www.youtube-nocookie.com https://www.youtube.com; style-src 'self' 'unsafe-inline'; frame-ancestors 'none'; img-src 'self' data: https://www.apache.org/ https://www.apachecon.com/;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 63783,
+      "truncated": false,
+      "body_sha256": "075683591ae9252d6aa47c94d45d8de3940f92cae261affc9964497ff0be2e4e",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "ASF 3rd Party License Policy | Apache Software Foundation",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "144",
+      "domain": "apache.org",
+      "stratum": "101-1000",
+      "requested_url": "https://apache.org/licenses/LICENSE-1.1",
+      "depth": 5,
+      "parent_url": "https://apache.org/licenses/",
+      "attempt": 23,
+      "timestamp": "2026-11-12T21:13:21.424308+00:00",
+      "final_url": "https://apache.org/licenses/LICENSE-1.1",
+      "status": 200,
+      "content_type": "text/plain",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'self' data: 'unsafe-inline' https://www.apachecon.com/ https://analytics.apache.org/ http://analytics.apache.org/ https://www.youtube-nocookie.com https://www.youtube.com; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://www.apachecon.com/ https://analytics.apache.org/ http://analytics.apache.org/ https://www.youtube-nocookie.com https://www.youtube.com; style-src 'self' 'unsafe-inline'; frame-ancestors 'none'; img-src 'self' data: https://www.apache.org/ https://www.apachecon.com/;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 3198,
+      "truncated": false,
+      "body_sha256": "efaafbc1cbe97852157319bfb98bf1b43c70223251d388507c168697afd832c6",
+      "redirect_chain": [],
+      "html": false,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "144",
+      "domain": "apache.org",
+      "stratum": "101-1000",
+      "requested_url": "https://apache.org/security",
+      "depth": 1,
+      "parent_url": "https://apache.org/",
+      "attempt": 24,
+      "timestamp": "2026-11-12T21:13:29.180166+00:00",
+      "final_url": "https://apache.org/security/",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'self' data: 'unsafe-inline' https://www.apachecon.com/ https://analytics.apache.org/ http://analytics.apache.org/ https://www.youtube-nocookie.com https://www.youtube.com; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://www.apachecon.com/ https://analytics.apache.org/ http://analytics.apache.org/ https://www.youtube-nocookie.com https://www.youtube.com; style-src 'self' 'unsafe-inline'; frame-ancestors 'none'; img-src 'self' data: https://www.apache.org/ https://www.apachecon.com/;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 29818,
+      "truncated": false,
+      "body_sha256": "f03185a0b56ebfd44547f114d02f21548092086daa5a6d7bc85bbabfa90c9da6",
+      "redirect_chain": [
+        {
+          "url": "https://apache.org/security",
+          "status": 301,
+          "location": "https://apache.org/security/",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000; includeSubDomains; preload"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "ASF Security Team | Apache Software Foundation",
+      "duplicate_final": true,
+      "eligible": false
+    },
+    {
+      "rank": "144",
+      "domain": "apache.org",
+      "stratum": "101-1000",
+      "requested_url": "https://apache.org/projects/",
+      "depth": 1,
+      "parent_url": "https://apache.org/",
+      "attempt": 25,
+      "timestamp": "2026-11-12T21:13:33.174842+00:00",
+      "final_url": "https://apache.org/projects/",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'self' data: 'unsafe-inline' https://www.apachecon.com/ https://analytics.apache.org/ http://analytics.apache.org/ https://www.youtube-nocookie.com https://www.youtube.com; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://www.apachecon.com/ https://analytics.apache.org/ http://analytics.apache.org/ https://www.youtube-nocookie.com https://www.youtube.com; style-src 'self' 'unsafe-inline'; frame-ancestors 'none'; img-src 'self' data: https://www.apache.org/ https://www.apachecon.com/;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 28541,
+      "truncated": false,
+      "body_sha256": "9b748cce5143af0f3c939911cf636160210b9b902a8b0d1eaca3f6042fa50407",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "ASF Open Source Projects | Apache Software Foundation",
+      "duplicate_final": true,
+      "eligible": false
+    },
+    {
+      "rank": "144",
+      "domain": "apache.org",
+      "stratum": "101-1000",
+      "requested_url": "https://apache.org/memorials/alan_m_carroll.html",
+      "depth": 3,
+      "parent_url": "https://apache.org/memorials/",
+      "attempt": 26,
+      "timestamp": "2026-11-12T21:13:37.168148+00:00",
+      "final_url": "https://apache.org/memorials/alan_m_carroll.html",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'self' data: 'unsafe-inline' https://www.apachecon.com/ https://analytics.apache.org/ http://analytics.apache.org/ https://www.youtube-nocookie.com https://www.youtube.com; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://www.apachecon.com/ https://analytics.apache.org/ http://analytics.apache.org/ https://www.youtube-nocookie.com https://www.youtube.com; style-src 'self' 'unsafe-inline'; frame-ancestors 'none'; img-src 'self' data: https://www.apache.org/ https://www.apachecon.com/;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 26541,
+      "truncated": false,
+      "body_sha256": "ac436e52dfe2f14899465642918455c4b288c4d66209751a0ad9f30025ab2409",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Alan M. Carroll - December 20, 2023 | Apache Software Foundation",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "144",
+      "domain": "apache.org",
+      "stratum": "101-1000",
+      "requested_url": "https://apache.org/logos/montages/",
+      "depth": 3,
+      "parent_url": "https://apache.org/logos/about.html",
+      "attempt": 27,
+      "timestamp": "2026-11-12T21:13:41.264372+00:00",
+      "final_url": "https://apache.org/logos/montages/",
+      "status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'self' data: 'unsafe-inline' https://www.apachecon.com/ https://analytics.apache.org/ http://analytics.apache.org/ https://www.youtube-nocookie.com https://www.youtube.com; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://www.apachecon.com/ https://analytics.apache.org/ http://analytics.apache.org/ https://www.youtube-nocookie.com https://www.youtube.com; style-src 'self' 'unsafe-inline'; frame-ancestors 'none'; img-src 'self' data: https://www.apache.org/ https://www.apachecon.com/;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 1100,
+      "truncated": false,
+      "body_sha256": "cda7c90480974b4a0eae367c7221296cc401560b5c66370e3a0caa538c8bd90a",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Index of /montages",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "144",
+      "domain": "apache.org",
+      "stratum": "101-1000",
+      "requested_url": "https://apache.org/foundation/governance/members.html",
+      "depth": 2,
+      "parent_url": "https://apache.org/theapacheway/",
+      "attempt": 28,
+      "timestamp": "2026-11-12T21:13:45.119077+00:00",
+      "final_url": "https://apache.org/foundation/governance/members.html",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'self' data: 'unsafe-inline' https://www.apachecon.com/ https://analytics.apache.org/ http://analytics.apache.org/ https://www.youtube-nocookie.com https://www.youtube.com; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://www.apachecon.com/ https://analytics.apache.org/ http://analytics.apache.org/ https://www.youtube-nocookie.com https://www.youtube.com; style-src 'self' 'unsafe-inline'; frame-ancestors 'none'; img-src 'self' data: https://www.apache.org/ https://www.apachecon.com/;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 37274,
+      "truncated": false,
+      "body_sha256": "83ce7b276e762328296a2d2230eb1b2e85bc1a4b15ed1e50f13c70d004523c4d",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Apache Corporate Governance - Members | Apache Software Foundation",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "144",
+      "domain": "apache.org",
+      "stratum": "101-1000",
+      "requested_url": "https://apache.org/dev/committers.html",
+      "depth": 4,
+      "parent_url": "https://apache.org/dev/pmc.html",
+      "attempt": 29,
+      "timestamp": "2026-11-12T21:13:49.158898+00:00",
+      "final_url": "https://apache.org/dev/committers.html",
+      "status": 302,
+      "content_type": "text/html; charset=iso-8859-1",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 0,
+      "truncated": false,
+      "body_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "redirect_chain": [
+        {
+          "url": "https://apache.org/dev/committers.html",
+          "status": 302,
+          "location": "https://infra.apache.org/committers.html",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000; includeSubDomains; preload"
+            ]
+          }
+        }
+      ],
+      "error": "redirect_out_of_scope",
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "144",
+      "domain": "apache.org",
+      "stratum": "101-1000",
+      "requested_url": "https://apache.org/legal/src-headers.html",
+      "depth": 5,
+      "parent_url": "https://apache.org/legal/release-policy.html",
+      "attempt": 30,
+      "timestamp": "2026-11-12T21:13:53.406221+00:00",
+      "final_url": "https://apache.org/legal/src-headers.html",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'self' data: 'unsafe-inline' https://www.apachecon.com/ https://analytics.apache.org/ http://analytics.apache.org/ https://www.youtube-nocookie.com https://www.youtube.com; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://www.apachecon.com/ https://analytics.apache.org/ http://analytics.apache.org/ https://www.youtube-nocookie.com https://www.youtube.com; style-src 'self' 'unsafe-inline'; frame-ancestors 'none'; img-src 'self' data: https://www.apache.org/ https://www.apachecon.com/;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 38158,
+      "truncated": false,
+      "body_sha256": "4e4a9e7d3eddb63224ecae8d25f66cdb27ab150bfd151d4d7014d0a8d57cdea3",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "ASF Source Header and Copyright Notice Policy | Apache Software Foundation",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "144",
+      "domain": "apache.org",
+      "stratum": "101-1000",
+      "requested_url": "https://apache.org/licenses/LICENSE-1.0",
+      "depth": 5,
+      "parent_url": "https://apache.org/licenses/",
+      "attempt": 31,
+      "timestamp": "2026-11-12T21:13:57.424053+00:00",
+      "final_url": "https://apache.org/licenses/LICENSE-1.0",
+      "status": 200,
+      "content_type": "text/plain",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'self' data: 'unsafe-inline' https://www.apachecon.com/ https://analytics.apache.org/ http://analytics.apache.org/ https://www.youtube-nocookie.com https://www.youtube.com; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://www.apachecon.com/ https://analytics.apache.org/ http://analytics.apache.org/ https://www.youtube-nocookie.com https://www.youtube.com; style-src 'self' 'unsafe-inline'; frame-ancestors 'none'; img-src 'self' data: https://www.apache.org/ https://www.apachecon.com/;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 3038,
+      "truncated": false,
+      "body_sha256": "b2f708ed3b207c22022a41f00ccdc313e55b7e0ffc67fef6943e2f94dc325a91",
+      "redirect_chain": [],
+      "html": false,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "144",
+      "domain": "apache.org",
+      "stratum": "101-1000",
+      "requested_url": "https://apache.org/security/committers.html",
+      "depth": 5,
+      "parent_url": "https://apache.org/board/services",
+      "attempt": 32,
+      "timestamp": "2026-11-12T21:14:01.196707+00:00",
+      "final_url": "https://apache.org/security/committers.html",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'self' data: 'unsafe-inline' https://www.apachecon.com/ https://analytics.apache.org/ http://analytics.apache.org/ https://www.youtube-nocookie.com https://www.youtube.com; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://www.apachecon.com/ https://analytics.apache.org/ http://analytics.apache.org/ https://www.youtube-nocookie.com https://www.youtube.com; style-src 'self' 'unsafe-inline'; frame-ancestors 'none'; img-src 'self' data: https://www.apache.org/ https://www.apachecon.com/;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 34786,
+      "truncated": false,
+      "body_sha256": "08e5dbd517b0290c3ef4f04841699d3b4eb8648d6eb8512c5751a292fa9563b2",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "ASF Project Security for Committers | Apache Software Foundation",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "144",
+      "domain": "apache.org",
+      "stratum": "101-1000",
+      "requested_url": "https://apache.org/memorials/henry_story.html",
+      "depth": 3,
+      "parent_url": "https://apache.org/memorials/",
+      "attempt": 33,
+      "timestamp": "2026-11-12T21:14:05.402588+00:00",
+      "final_url": "https://apache.org/memorials/henry_story.html",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'self' data: 'unsafe-inline' https://www.apachecon.com/ https://analytics.apache.org/ http://analytics.apache.org/ https://www.youtube-nocookie.com https://www.youtube.com; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://www.apachecon.com/ https://analytics.apache.org/ http://analytics.apache.org/ https://www.youtube-nocookie.com https://www.youtube.com; style-src 'self' 'unsafe-inline'; frame-ancestors 'none'; img-src 'self' data: https://www.apache.org/ https://www.apachecon.com/;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 26195,
+      "truncated": false,
+      "body_sha256": "9194d8893b736df3962cfc873da1bed477e29710010bed49649e52e582bbbbaf",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Henry Story, September 5th 2023 | Apache Software Foundation",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "144",
+      "domain": "apache.org",
+      "stratum": "101-1000",
+      "requested_url": "https://apache.org/foundation",
+      "depth": 2,
+      "parent_url": "https://apache.org/logos/",
+      "attempt": 34,
+      "timestamp": "2026-11-12T21:14:13.663864+00:00",
+      "final_url": "https://apache.org/foundation/",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'self' data: 'unsafe-inline' https://www.apachecon.com/ https://analytics.apache.org/ http://analytics.apache.org/ https://www.youtube-nocookie.com https://www.youtube.com; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://www.apachecon.com/ https://analytics.apache.org/ http://analytics.apache.org/ https://www.youtube-nocookie.com https://www.youtube.com; style-src 'self' 'unsafe-inline'; frame-ancestors 'none'; img-src 'self' data: https://www.apache.org/ https://www.apachecon.com/;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 28494,
+      "truncated": false,
+      "body_sha256": "a1bb8fc61c9737c197f372b3a69cb35bf05c696607a34645e832894d953f86d5",
+      "redirect_chain": [
+        {
+          "url": "https://apache.org/foundation",
+          "status": 301,
+          "location": "https://apache.org/foundation/",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000; includeSubDomains; preload"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "About the ASF | Apache Software Foundation",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "144",
+      "domain": "apache.org",
+      "stratum": "101-1000",
+      "requested_url": "https://apache.org/history",
+      "depth": 3,
+      "parent_url": "https://apache.org/foundation/",
+      "attempt": 35,
+      "timestamp": "2026-11-12T21:14:21.189829+00:00",
+      "final_url": "https://apache.org/history/",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'self' data: 'unsafe-inline' https://www.apachecon.com/ https://analytics.apache.org/ http://analytics.apache.org/ https://www.youtube-nocookie.com https://www.youtube.com; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://www.apachecon.com/ https://analytics.apache.org/ http://analytics.apache.org/ https://www.youtube-nocookie.com https://www.youtube.com; style-src 'self' 'unsafe-inline'; frame-ancestors 'none'; img-src 'self' data: https://www.apache.org/ https://www.apachecon.com/;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 32387,
+      "truncated": false,
+      "body_sha256": "707e27dd16c9e07b64f31f3ba772f3a2bcf18cf564750318ef41cbf841c5ced0",
+      "redirect_chain": [
+        {
+          "url": "https://apache.org/history",
+          "status": 301,
+          "location": "https://apache.org/history/",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000; includeSubDomains; preload"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "ASF History | Apache Software Foundation",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "144",
+      "domain": "apache.org",
+      "stratum": "101-1000",
+      "requested_url": "https://apache.org/history/",
+      "depth": 4,
+      "parent_url": "https://apache.org/history/",
+      "attempt": 36,
+      "timestamp": "2026-11-12T21:14:25.323071+00:00",
+      "final_url": "https://apache.org/history/",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'self' data: 'unsafe-inline' https://www.apachecon.com/ https://analytics.apache.org/ http://analytics.apache.org/ https://www.youtube-nocookie.com https://www.youtube.com; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://www.apachecon.com/ https://analytics.apache.org/ http://analytics.apache.org/ https://www.youtube-nocookie.com https://www.youtube.com; style-src 'self' 'unsafe-inline'; frame-ancestors 'none'; img-src 'self' data: https://www.apache.org/ https://www.apachecon.com/;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 32387,
+      "truncated": false,
+      "body_sha256": "707e27dd16c9e07b64f31f3ba772f3a2bcf18cf564750318ef41cbf841c5ced0",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "ASF History | Apache Software Foundation",
+      "duplicate_final": true,
+      "eligible": false
+    },
+    {
+      "rank": "144",
+      "domain": "apache.org",
+      "stratum": "101-1000",
+      "requested_url": "https://apache.org/press/highlights",
+      "depth": 4,
+      "parent_url": "https://apache.org/history/",
+      "attempt": 37,
+      "timestamp": "2026-11-12T21:14:29.406593+00:00",
+      "final_url": "https://apache.org/press/highlights",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'self' data: 'unsafe-inline' https://www.apachecon.com/ https://analytics.apache.org/ http://analytics.apache.org/ https://www.youtube-nocookie.com https://www.youtube.com; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://www.apachecon.com/ https://analytics.apache.org/ http://analytics.apache.org/ https://www.youtube-nocookie.com https://www.youtube.com; style-src 'self' 'unsafe-inline'; frame-ancestors 'none'; img-src 'self' data: https://www.apache.org/ https://www.apachecon.com/;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 66991,
+      "truncated": false,
+      "body_sha256": "14b0546584b08cd33419665c93150e2a72be1741ff55e6d54c3360d454dd9ca9",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "ASF Milestones | Apache Software Foundation",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "144",
+      "domain": "apache.org",
+      "stratum": "101-1000",
+      "requested_url": "https://apache.org/history/timeline.html",
+      "depth": 4,
+      "parent_url": "https://apache.org/history/",
+      "attempt": 38,
+      "timestamp": "2026-11-12T21:14:33.234896+00:00",
+      "final_url": "https://apache.org/history/timeline.html",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'self' data: 'unsafe-inline' https://www.apachecon.com/ https://analytics.apache.org/ http://analytics.apache.org/ https://www.youtube-nocookie.com https://www.youtube.com; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://www.apachecon.com/ https://analytics.apache.org/ http://analytics.apache.org/ https://www.youtube-nocookie.com https://www.youtube.com; style-src 'self' 'unsafe-inline'; frame-ancestors 'none'; img-src 'self' data: https://www.apache.org/ https://www.apachecon.com/;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 27238,
+      "truncated": false,
+      "body_sha256": "32ddc557c25004123969b3355f802656c4a6eda6908db4c3a1157f8930a0914e",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "ASF History Project - Timeline | Apache Software Foundation",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "144",
+      "domain": "apache.org",
+      "stratum": "101-1000",
+      "requested_url": "https://apache.org/logos/poweredby/",
+      "depth": 3,
+      "parent_url": "https://apache.org/logos/about.html",
+      "attempt": 39,
+      "timestamp": "2026-11-12T21:14:37.488502+00:00",
+      "final_url": "https://apache.org/logos/poweredby/",
+      "status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'self' data: 'unsafe-inline' https://www.apachecon.com/ https://analytics.apache.org/ http://analytics.apache.org/ https://www.youtube-nocookie.com https://www.youtube.com; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://www.apachecon.com/ https://analytics.apache.org/ http://analytics.apache.org/ https://www.youtube-nocookie.com https://www.youtube.com; style-src 'self' 'unsafe-inline'; frame-ancestors 'none'; img-src 'self' data: https://www.apache.org/ https://www.apachecon.com/;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 56734,
+      "truncated": false,
+      "body_sha256": "4f0c115962d07760d1405352018663f76c284f2eba498d54488050e7bbf580e9",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Index of /poweredby",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "144",
+      "domain": "apache.org",
+      "stratum": "101-1000",
+      "requested_url": "https://apache.org/legal/",
+      "depth": 1,
+      "parent_url": "https://apache.org/",
+      "attempt": 40,
+      "timestamp": "2026-11-12T21:14:41.479347+00:00",
+      "final_url": "https://apache.org/legal/",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'self' data: 'unsafe-inline' https://www.apachecon.com/ https://analytics.apache.org/ http://analytics.apache.org/ https://www.youtube-nocookie.com https://www.youtube.com; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://www.apachecon.com/ https://analytics.apache.org/ http://analytics.apache.org/ https://www.youtube-nocookie.com https://www.youtube.com; style-src 'self' 'unsafe-inline'; frame-ancestors 'none'; img-src 'self' data: https://www.apache.org/ https://www.apachecon.com/;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 29316,
+      "truncated": false,
+      "body_sha256": "fe7b3db7a588f029840e4d261b09f18321f58fc8bfdcd512decba92a9aeb46c1",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "ASF Legal & Trademark | Apache Software Foundation",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "144",
+      "domain": "apache.org",
+      "stratum": "101-1000",
+      "requested_url": "https://apache.org/dev/crypto.html",
+      "depth": 2,
+      "parent_url": "https://apache.org/legal/",
+      "attempt": 41,
+      "timestamp": "2026-11-12T21:14:45.452112+00:00",
+      "final_url": "https://apache.org/dev/crypto.html",
+      "status": 302,
+      "content_type": "text/html; charset=iso-8859-1",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 0,
+      "truncated": false,
+      "body_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "redirect_chain": [
+        {
+          "url": "https://apache.org/dev/crypto.html",
+          "status": 302,
+          "location": "https://infra.apache.org/crypto.html",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000; includeSubDomains; preload"
+            ]
+          }
+        }
+      ],
+      "error": "redirect_out_of_scope",
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "144",
+      "domain": "apache.org",
+      "stratum": "101-1000",
+      "requested_url": "https://apache.org/history/mirror-history.html",
+      "depth": 4,
+      "parent_url": "https://apache.org/history/",
+      "attempt": 42,
+      "timestamp": "2026-11-12T21:14:49.553981+00:00",
+      "final_url": "https://apache.org/history/mirror-history.html",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'self' data: 'unsafe-inline' https://www.apachecon.com/ https://analytics.apache.org/ http://analytics.apache.org/ https://www.youtube-nocookie.com https://www.youtube.com; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://www.apachecon.com/ https://analytics.apache.org/ http://analytics.apache.org/ https://www.youtube-nocookie.com https://www.youtube.com; style-src 'self' 'unsafe-inline'; frame-ancestors 'none'; img-src 'self' data: https://www.apache.org/ https://www.apachecon.com/;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 33554,
+      "truncated": false,
+      "body_sha256": "d23170fb97a18da48cc58f35b5a9b1e80233e3565dd9c3d177164712e0837998",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "The history of the Apache mirror system | Apache Software Foundation",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "144",
+      "domain": "apache.org",
+      "stratum": "101-1000",
+      "requested_url": "https://apache.org/licenses",
+      "depth": 1,
+      "parent_url": "https://apache.org/",
+      "attempt": 43,
+      "timestamp": "2026-11-12T21:14:57.366456+00:00",
+      "final_url": "https://apache.org/licenses/",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'self' data: 'unsafe-inline' https://www.apachecon.com/ https://analytics.apache.org/ http://analytics.apache.org/ https://www.youtube-nocookie.com https://www.youtube.com; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://www.apachecon.com/ https://analytics.apache.org/ http://analytics.apache.org/ https://www.youtube-nocookie.com https://www.youtube.com; style-src 'self' 'unsafe-inline'; frame-ancestors 'none'; img-src 'self' data: https://www.apache.org/ https://www.apachecon.com/;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 28515,
+      "truncated": false,
+      "body_sha256": "21b4afbd993791ec6b4b56c4b96190d085833313f365e88ff3811282c939d122",
+      "redirect_chain": [
+        {
+          "url": "https://apache.org/licenses",
+          "status": 301,
+          "location": "https://apache.org/licenses/",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000; includeSubDomains; preload"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Licenses | Apache Software Foundation",
+      "duplicate_final": true,
+      "eligible": false
+    },
+    {
+      "rank": "144",
+      "domain": "apache.org",
+      "stratum": "101-1000",
+      "requested_url": "https://apache.org/foundation/members.html",
+      "depth": 2,
+      "parent_url": "https://apache.org/logos/",
+      "attempt": 44,
+      "timestamp": "2026-11-12T21:15:01.382952+00:00",
+      "final_url": "https://apache.org/foundation/members.html",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'self' data: 'unsafe-inline' https://www.apachecon.com/ https://analytics.apache.org/ http://analytics.apache.org/ https://www.youtube-nocookie.com https://www.youtube.com; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://www.apachecon.com/ https://analytics.apache.org/ http://analytics.apache.org/ https://www.youtube-nocookie.com https://www.youtube.com; style-src 'self' 'unsafe-inline'; frame-ancestors 'none'; img-src 'self' data: https://www.apache.org/ https://www.apachecon.com/;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 119889,
+      "truncated": false,
+      "body_sha256": "61b41d96911f94132e51535f7c3997f7f5e13390f867668e42004eb866c8e47e",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "ASF Members | Apache Software Foundation",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "144",
+      "domain": "apache.org",
+      "stratum": "101-1000",
+      "requested_url": "https://apache.org/memorials/patricia_shanahan.html",
+      "depth": 3,
+      "parent_url": "https://apache.org/memorials/",
+      "attempt": 45,
+      "timestamp": "2026-11-12T21:15:05.326243+00:00",
+      "final_url": "https://apache.org/memorials/patricia_shanahan.html",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'self' data: 'unsafe-inline' https://www.apachecon.com/ https://analytics.apache.org/ http://analytics.apache.org/ https://www.youtube-nocookie.com https://www.youtube.com; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://www.apachecon.com/ https://analytics.apache.org/ http://analytics.apache.org/ https://www.youtube-nocookie.com https://www.youtube.com; style-src 'self' 'unsafe-inline'; frame-ancestors 'none'; img-src 'self' data: https://www.apache.org/ https://www.apachecon.com/;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 27658,
+      "truncated": false,
+      "body_sha256": "45afb39c1d806b243aed2a383a2868aed14dc68f3b98cd2363091a42bec7cb34",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Patricia Shanahan - July 6th 2021 | Apache Software Foundation",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "144",
+      "domain": "apache.org",
+      "stratum": "101-1000",
+      "requested_url": "https://apache.org/legal/dmca",
+      "depth": 2,
+      "parent_url": "https://apache.org/legal/",
+      "attempt": 46,
+      "timestamp": "2026-11-12T21:15:09.426642+00:00",
+      "final_url": "https://apache.org/legal/dmca",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'self' data: 'unsafe-inline' https://www.apachecon.com/ https://analytics.apache.org/ http://analytics.apache.org/ https://www.youtube-nocookie.com https://www.youtube.com; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://www.apachecon.com/ https://analytics.apache.org/ http://analytics.apache.org/ https://www.youtube-nocookie.com https://www.youtube.com; style-src 'self' 'unsafe-inline'; frame-ancestors 'none'; img-src 'self' data: https://www.apache.org/ https://www.apachecon.com/;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 25275,
+      "truncated": false,
+      "body_sha256": "985b27c94fdc10a7fe2fc402320b04cf0d2ff4235248ebd15e406ea0885c5f03",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "ASF Legal Digital Millenium Copyright Act Designated Agent | Apache Software Foundation",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "144",
+      "domain": "apache.org",
+      "stratum": "101-1000",
+      "requested_url": "https://apache.org/dev/contributors.html",
+      "depth": 4,
+      "parent_url": "https://apache.org/dev/pmc.html",
+      "attempt": 47,
+      "timestamp": "2026-11-12T21:15:13.713484+00:00",
+      "final_url": "https://apache.org/dev/contributors.html",
+      "status": 302,
+      "content_type": "text/html; charset=iso-8859-1",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 0,
+      "truncated": false,
+      "body_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "redirect_chain": [
+        {
+          "url": "https://apache.org/dev/contributors.html",
+          "status": 302,
+          "location": "https://infra.apache.org/contributors.html",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000; includeSubDomains; preload"
+            ]
+          }
+        }
+      ],
+      "error": "redirect_out_of_scope",
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "144",
+      "domain": "apache.org",
+      "stratum": "101-1000",
+      "requested_url": "https://apache.org/licenses/contributor-agreements.html",
+      "depth": 5,
+      "parent_url": "https://apache.org/licenses/",
+      "attempt": 48,
+      "timestamp": "2026-11-12T21:15:17.272388+00:00",
+      "final_url": "https://apache.org/licenses/contributor-agreements.html",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'self' data: 'unsafe-inline' https://www.apachecon.com/ https://analytics.apache.org/ http://analytics.apache.org/ https://www.youtube-nocookie.com https://www.youtube.com; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://www.apachecon.com/ https://analytics.apache.org/ http://analytics.apache.org/ https://www.youtube-nocookie.com https://www.youtube.com; style-src 'self' 'unsafe-inline'; frame-ancestors 'none'; img-src 'self' data: https://www.apache.org/ https://www.apachecon.com/;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 31459,
+      "truncated": false,
+      "body_sha256": "e4998585e604987200785a2b2ae4aecd20d8124089b588814c3d1e2bab750962",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "ASF Contributor Agreements | Apache Software Foundation",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "144",
+      "domain": "apache.org",
+      "stratum": "101-1000",
+      "requested_url": "https://apache.org/history/goals.html",
+      "depth": 4,
+      "parent_url": "https://apache.org/history/",
+      "attempt": 49,
+      "timestamp": "2026-11-12T21:15:21.417732+00:00",
+      "final_url": "https://apache.org/history/goals.html",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'self' data: 'unsafe-inline' https://www.apachecon.com/ https://analytics.apache.org/ http://analytics.apache.org/ https://www.youtube-nocookie.com https://www.youtube.com; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://www.apachecon.com/ https://analytics.apache.org/ http://analytics.apache.org/ https://www.youtube-nocookie.com https://www.youtube.com; style-src 'self' 'unsafe-inline'; frame-ancestors 'none'; img-src 'self' data: https://www.apache.org/ https://www.apachecon.com/;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 27941,
+      "truncated": false,
+      "body_sha256": "80f469f39c86e1a4e57f27462842da1880af2edfa2bb589fbbfc81f0b127f699",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "ASF History Project - Goals | Apache Software Foundation",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "144",
+      "domain": "apache.org",
+      "stratum": "101-1000",
+      "requested_url": "https://apache.org/memorials/henk_penning.html",
+      "depth": 3,
+      "parent_url": "https://apache.org/memorials/",
+      "attempt": 50,
+      "timestamp": "2026-11-12T21:15:25.509360+00:00",
+      "final_url": "https://apache.org/memorials/henk_penning.html",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'self' data: 'unsafe-inline' https://www.apachecon.com/ https://analytics.apache.org/ http://analytics.apache.org/ https://www.youtube-nocookie.com https://www.youtube.com; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://www.apachecon.com/ https://analytics.apache.org/ http://analytics.apache.org/ https://www.youtube-nocookie.com https://www.youtube.com; style-src 'self' 'unsafe-inline'; frame-ancestors 'none'; img-src 'self' data: https://www.apache.org/ https://www.apachecon.com/;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 27357,
+      "truncated": false,
+      "body_sha256": "e181dbb463ecce6f7a951f49ce87e7315e7047a989db63761a945e4baebd45b8",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Henk Penning, May 29th 2019 | Apache Software Foundation",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "144",
+      "domain": "apache.org",
+      "stratum": "101-1000",
+      "requested_url": "https://apache.org/foundation/sponsorship.html",
+      "depth": 2,
+      "parent_url": "https://apache.org/logos/",
+      "attempt": 51,
+      "timestamp": "2026-11-12T21:15:29.263331+00:00",
+      "final_url": "https://apache.org/foundation/sponsorship.html",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'self' data: 'unsafe-inline' https://www.apachecon.com/ https://analytics.apache.org/ http://analytics.apache.org/ https://www.youtube-nocookie.com https://www.youtube.com; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://www.apachecon.com/ https://analytics.apache.org/ http://analytics.apache.org/ https://www.youtube-nocookie.com https://www.youtube.com; style-src 'self' 'unsafe-inline'; frame-ancestors 'none'; img-src 'self' data: https://www.apache.org/ https://www.apachecon.com/;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 40527,
+      "truncated": false,
+      "body_sha256": "f55d0948c69f300bfd79f3882311833626dfeb0b46ecff6e274e328dde3d5885",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "ASF Sponsorship | Apache Software Foundation",
+      "duplicate_final": false,
+      "eligible": true
+    }
+  ],
+  "robots": [
+    {
+      "url": "https://apache.org/robots.txt",
+      "timestamp": "2026-11-12T21:11:49.067729+00:00",
+      "status": 200,
+      "decision": "parsed",
+      "final_url": "https://apache.org/robots.txt",
+      "redirect_chain": [],
+      "body_sha256": "e969244acbbadc64dd66254a7d2bb20017fd9ed3115290694c9a1f562a070c53",
+      "body": "User-agent: *\nDisallow: /websrc\nCrawl-Delay: 4\n"
+    }
+  ],
+  "eligible_pages": 40,
+  "canonical_origin": [
+    "https",
+    "apache.org",
+    443
+  ],
+  "stop_reason": "page_budget",
+  "elapsed_seconds": 224.61
+}

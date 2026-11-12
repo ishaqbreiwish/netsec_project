@@ -1,0 +1,97 @@
+{
+  "site": {
+    "rank": "77",
+    "domain": "spotify.com",
+    "stratum": "1-100"
+  },
+  "rows": [
+    {
+      "rank": "77",
+      "domain": "spotify.com",
+      "stratum": "1-100",
+      "requested_url": "https://spotify.com/",
+      "depth": 0,
+      "parent_url": "",
+      "attempt": 1,
+      "timestamp": "2026-11-12T21:11:31.258070+00:00",
+      "final_url": "https://www.spotify.com/",
+      "status": 301,
+      "content_type": "",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 0,
+      "truncated": false,
+      "body_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "redirect_chain": [
+        {
+          "url": "https://spotify.com/",
+          "status": 301,
+          "location": "https://www.spotify.com/",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000"
+            ]
+          }
+        },
+        {
+          "url": "https://www.spotify.com/",
+          "status": 301,
+          "location": "https://open.spotify.com/",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000"
+            ]
+          }
+        }
+      ],
+      "error": "redirect_out_of_scope",
+      "html": false,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    }
+  ],
+  "robots": [
+    {
+      "url": "https://spotify.com/robots.txt",
+      "timestamp": "2026-11-12T21:11:30.668524+00:00",
+      "status": 200,
+      "decision": "parsed",
+      "final_url": "https://www.spotify.com/robots.txt",
+      "redirect_chain": [
+        {
+          "url": "https://spotify.com/robots.txt",
+          "status": 301,
+          "location": "https://www.spotify.com/robots.txt"
+        }
+      ],
+      "body_sha256": "b68c89548f813d5c465c13051353b9452dba066f14146cafabb46dafd239b738",
+      "body": "User-agent: *\nDisallow: /*/about-us/contact/contact-spotify-password/\nDisallow: /*/about-us/contact/contact-spotify-account/\nDisallow: /*/get-spotify/*\nDisallow: /*/xhr/*\nDisallow: /*/external/*\nDisallow: /*/legal/*?ets=\nDisallow: /*/legal/advertiser-terms-and-conditions/\nDisallow: /*/legal/gdpr-article-15-information/\nDisallow: /*/legal/spotify-controller-data-processing-terms/\nDisallow: /*/legal/podcast-api-terms/\nDisallow: /*/legal/distribution-api-terms/\nDisallow: /*/account/cls/*\nDisallow: /*/starbuckspartners\nDisallow: /starbuckspartners\nDisallow: /ppt/*?\nDisallow: /partner/*?\nSitemap: https://www.spotify.com/sitemap.xml\n"
+    },
+    {
+      "url": "https://www.spotify.com/robots.txt",
+      "timestamp": "2026-11-12T21:11:31.258006+00:00",
+      "status": 200,
+      "decision": "parsed",
+      "final_url": "https://www.spotify.com/robots.txt",
+      "redirect_chain": [],
+      "body_sha256": "b68c89548f813d5c465c13051353b9452dba066f14146cafabb46dafd239b738",
+      "body": "User-agent: *\nDisallow: /*/about-us/contact/contact-spotify-password/\nDisallow: /*/about-us/contact/contact-spotify-account/\nDisallow: /*/get-spotify/*\nDisallow: /*/xhr/*\nDisallow: /*/external/*\nDisallow: /*/legal/*?ets=\nDisallow: /*/legal/advertiser-terms-and-conditions/\nDisallow: /*/legal/gdpr-article-15-information/\nDisallow: /*/legal/spotify-controller-data-processing-terms/\nDisallow: /*/legal/podcast-api-terms/\nDisallow: /*/legal/distribution-api-terms/\nDisallow: /*/account/cls/*\nDisallow: /*/starbuckspartners\nDisallow: /starbuckspartners\nDisallow: /ppt/*?\nDisallow: /partner/*?\nSitemap: https://www.spotify.com/sitemap.xml\n"
+    }
+  ],
+  "eligible_pages": 0,
+  "canonical_origin": null,
+  "stop_reason": "frontier_exhausted",
+  "elapsed_seconds": 1.39
+}

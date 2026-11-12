@@ -1,0 +1,42 @@
+{
+  "site": {
+    "rank": "766",
+    "domain": "livejournal.com",
+    "stratum": "101-1000"
+  },
+  "rows": [
+    {
+      "rank": "766",
+      "domain": "livejournal.com",
+      "stratum": "101-1000",
+      "requested_url": "https://livejournal.com/",
+      "depth": 0,
+      "parent_url": "",
+      "attempt": 1,
+      "timestamp": "2026-11-12T21:07:28.086583+00:00",
+      "error": "robots_denied",
+      "final_url": "https://livejournal.com/",
+      "redirect_chain": [],
+      "html": false,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    }
+  ],
+  "robots": [
+    {
+      "url": "https://livejournal.com/robots.txt",
+      "timestamp": "2026-11-12T21:07:29.328558+00:00",
+      "status": 302,
+      "decision": "conservative_block_status_302",
+      "body_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "body": ""
+    }
+  ],
+  "eligible_pages": 0,
+  "canonical_origin": null,
+  "stop_reason": "frontier_exhausted",
+  "elapsed_seconds": 1.24
+}

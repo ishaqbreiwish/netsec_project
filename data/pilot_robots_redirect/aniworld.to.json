@@ -1,0 +1,1354 @@
+{
+  "site": {
+    "rank": "8380",
+    "domain": "aniworld.to",
+    "stratum": "1001-10000"
+  },
+  "rows": [
+    {
+      "rank": "8380",
+      "domain": "aniworld.to",
+      "stratum": "1001-10000",
+      "requested_url": "https://aniworld.to/",
+      "depth": 0,
+      "parent_url": "",
+      "attempt": 1,
+      "timestamp": "2026-11-12T21:07:54.440082+00:00",
+      "final_url": "https://aniworld.to/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 356084,
+      "truncated": false,
+      "body_sha256": "5f7940dd05c6a2743b433f1468da784c504413b2f66fdc45aadb579c873a5a2e",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Home | AniWorld.to - Animes gratis legal online ansehen",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "8380",
+      "domain": "aniworld.to",
+      "stratum": "1001-10000",
+      "requested_url": "https://aniworld.to/animes",
+      "depth": 1,
+      "parent_url": "https://aniworld.to/",
+      "attempt": 2,
+      "timestamp": "2026-11-12T21:07:55.592387+00:00",
+      "final_url": "https://aniworld.to/animes",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 723380,
+      "truncated": false,
+      "body_sha256": "62e6a349217c9023baf10459d8a512e88021f5a765f075791cb67bafa1d2c54b",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "\u00dcber 1000+ Animes | AniWorld.to - Animes gratis legal online ansehen",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "8380",
+      "domain": "aniworld.to",
+      "stratum": "1001-10000",
+      "requested_url": "https://aniworld.to/animes-alphabet",
+      "depth": 2,
+      "parent_url": "https://aniworld.to/animes",
+      "attempt": 3,
+      "timestamp": "2026-11-12T21:07:56.755403+00:00",
+      "final_url": "https://aniworld.to/animes-alphabet",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 719039,
+      "truncated": false,
+      "body_sha256": "4f60795485f5388407899f8343da6e1c32e6879b1667ddcd9331f547a92bee01",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Mehr als 1000+ Animes jetzt kostenlos Streamen! | AniWorld.to - Animes gratis legal online ansehen",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "8380",
+      "domain": "aniworld.to",
+      "stratum": "1001-10000",
+      "requested_url": "https://aniworld.to/animes-genres",
+      "depth": 3,
+      "parent_url": "https://aniworld.to/animes-alphabet",
+      "attempt": 4,
+      "timestamp": "2026-11-12T21:07:57.769765+00:00",
+      "final_url": "https://aniworld.to/animes-genres",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 723394,
+      "truncated": false,
+      "body_sha256": "4435b7576e7a76ca76370f8992663ef13017bb15568f62f3e42db82d0f44c005",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "\u00dcber 1000+ Animes | AniWorld.to - Animes gratis legal online ansehen",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "8380",
+      "domain": "aniworld.to",
+      "stratum": "1001-10000",
+      "requested_url": "https://aniworld.to/anime/stream/onipan",
+      "depth": 4,
+      "parent_url": "https://aniworld.to/animes-genres",
+      "attempt": 5,
+      "timestamp": "2026-11-12T21:07:58.786974+00:00",
+      "final_url": "https://aniworld.to/anime/stream/onipan",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 67043,
+      "truncated": false,
+      "body_sha256": "7f00483fcaeb10c2e0040e8243ce503f764d61333cf8eb6161a236f2b2dffe3c",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Staffel 1 von Onipan! | AniWorld.to - Animes gratis legal online ansehen",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "8380",
+      "domain": "aniworld.to",
+      "stratum": "1001-10000",
+      "requested_url": "https://aniworld.to/beliebte-animes",
+      "depth": 1,
+      "parent_url": "https://aniworld.to/",
+      "attempt": 6,
+      "timestamp": "2026-11-12T21:07:59.330168+00:00",
+      "final_url": "https://aniworld.to/beliebte-animes",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 79049,
+      "truncated": false,
+      "body_sha256": "acd9ab0c9cbfe02d4a32885329a6d68a5f078627fa2707b70db81a8df0b195ca",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Beliebte Animes im November | AniWorld.to - Animes gratis legal online ansehen",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "8380",
+      "domain": "aniworld.to",
+      "stratum": "1001-10000",
+      "requested_url": "https://aniworld.to/support/anleitung",
+      "depth": 1,
+      "parent_url": "https://aniworld.to/",
+      "attempt": 7,
+      "timestamp": "2026-11-12T21:07:59.908689+00:00",
+      "final_url": "https://aniworld.to/support/anleitung",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 27635,
+      "truncated": false,
+      "body_sha256": "53815424c58c99019cf299165889dbb63fe357b751d18ba2a3896ed12650f2a3",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "So funktioniert's - Die Anleitung | AniWorld.to - Animes gratis legal online ansehen",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "8380",
+      "domain": "aniworld.to",
+      "stratum": "1001-10000",
+      "requested_url": "https://aniworld.to/statistics",
+      "depth": 2,
+      "parent_url": "https://aniworld.to/support/anleitung",
+      "attempt": 8,
+      "timestamp": "2026-11-12T21:08:00.289380+00:00",
+      "final_url": "https://aniworld.to/statistics",
+      "status": 404,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 845,
+      "truncated": false,
+      "body_sha256": "2a50da6a1ece9e8914548f6b8144adff71f8fae867e7b33b6eec3d9a5e3209dd",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "8380",
+      "domain": "aniworld.to",
+      "stratum": "1001-10000",
+      "requested_url": "https://aniworld.to/search",
+      "depth": 1,
+      "parent_url": "https://aniworld.to/",
+      "attempt": 9,
+      "timestamp": "2026-11-12T21:08:00.725850+00:00",
+      "final_url": "https://aniworld.to/search",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 18472,
+      "truncated": false,
+      "body_sha256": "15096989722dd104fa316ded6d4e1d003345728d25804692c5ec89d4b1674d65",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Suche Animes! | AniWorld.to - Animes gratis legal online ansehen",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "8380",
+      "domain": "aniworld.to",
+      "stratum": "1001-10000",
+      "requested_url": "https://aniworld.to/animekalender",
+      "depth": 1,
+      "parent_url": "https://aniworld.to/",
+      "attempt": 10,
+      "timestamp": "2026-11-12T21:08:01.326340+00:00",
+      "final_url": "https://aniworld.to/animekalender",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 626616,
+      "truncated": false,
+      "body_sha256": "8ca591fb1d588de3c9ec95456f1b80382d70784f30e9c74ee4954f79df8b816a",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Animekalender | AniWorld.to - Animes gratis legal online ansehen",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "8380",
+      "domain": "aniworld.to",
+      "stratum": "1001-10000",
+      "requested_url": "https://aniworld.to/random",
+      "depth": 1,
+      "parent_url": "https://aniworld.to/",
+      "attempt": 11,
+      "timestamp": "2026-11-12T21:08:02.386356+00:00",
+      "final_url": "https://aniworld.to/random",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 411050,
+      "truncated": false,
+      "body_sha256": "93bf9732a0651f434da6d03c16f0d5922c853442ab430fbecf0c13e077e70cf1",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Der Anime-Zufallsgenerator | AniWorld.to - Animes gratis legal online ansehen",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "8380",
+      "domain": "aniworld.to",
+      "stratum": "1001-10000",
+      "requested_url": "https://aniworld.to/registrierung",
+      "depth": 1,
+      "parent_url": "https://aniworld.to/",
+      "attempt": 12,
+      "timestamp": "2026-11-12T21:08:03.229572+00:00",
+      "final_url": "https://aniworld.to/registrierung",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 32923,
+      "truncated": false,
+      "body_sha256": "0f0692d02d4dea2a3583450830328992141f0535c8dac12f5ed2d9e0a46f4e42",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Registrierung (100% Kostenlos) | AniWorld.to - Animes gratis legal online ansehen",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "8380",
+      "domain": "aniworld.to",
+      "stratum": "1001-10000",
+      "requested_url": "https://aniworld.to/katalog/A",
+      "depth": 1,
+      "parent_url": "https://aniworld.to/",
+      "attempt": 13,
+      "timestamp": "2026-11-12T21:08:03.707687+00:00",
+      "final_url": "https://aniworld.to/katalog/A",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 56903,
+      "truncated": false,
+      "body_sha256": "c9257b2df7e08925f32f98cb0653893cb38d77c103a26e1ce5cc198aafac2e4d",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Animes mit Buchstabe A mehr von A bis Z (Seite 1) | AniWorld.to - Animes gratis legal online ansehen",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "8380",
+      "domain": "aniworld.to",
+      "stratum": "1001-10000",
+      "requested_url": "https://aniworld.to/animewuensche",
+      "depth": 1,
+      "parent_url": "https://aniworld.to/",
+      "attempt": 14,
+      "timestamp": "2026-11-12T21:08:04.400593+00:00",
+      "final_url": "https://aniworld.to/animewuensche",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 130369,
+      "truncated": false,
+      "body_sha256": "a9866ce3ba00c54c7fb47b78ba9664b38d3fdec4e119d2d8a0bda4a3ec25f972",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Animew\u00fcnsche von November | AniWorld.to - Animes gratis legal online ansehen",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "8380",
+      "domain": "aniworld.to",
+      "stratum": "1001-10000",
+      "requested_url": "https://aniworld.to/neue-episoden",
+      "depth": 1,
+      "parent_url": "https://aniworld.to/",
+      "attempt": 15,
+      "timestamp": "2026-11-12T21:08:05.063355+00:00",
+      "final_url": "https://aniworld.to/neue-episoden",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 200492,
+      "truncated": false,
+      "body_sha256": "9b25a14bcf0bcb1235212dea94fb52757e4842d56df9af7712d6f30960e99457",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Neue Animes-Episoden | AniWorld.to - Animes gratis legal online ansehen",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "8380",
+      "domain": "aniworld.to",
+      "stratum": "1001-10000",
+      "requested_url": "https://aniworld.to/user/profil/makken",
+      "depth": 1,
+      "parent_url": "https://aniworld.to/",
+      "attempt": 16,
+      "timestamp": "2026-11-12T21:08:05.740631+00:00",
+      "final_url": "https://aniworld.to/user/profil/makken",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 26379,
+      "truncated": false,
+      "body_sha256": "a92cfe66ead24f3bbed4e5fbb182add8714c96d260d67785d2d3f5bb1985ac1f",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Makken Anime-Profil | AniWorld.to - Animes gratis legal online ansehen",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "8380",
+      "domain": "aniworld.to",
+      "stratum": "1001-10000",
+      "requested_url": "https://aniworld.to/genre/abenteuer",
+      "depth": 1,
+      "parent_url": "https://aniworld.to/",
+      "attempt": 17,
+      "timestamp": "2026-11-12T21:08:06.104724+00:00",
+      "final_url": "https://aniworld.to/genre/abenteuer",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 54186,
+      "truncated": false,
+      "body_sha256": "a71861c748f942a1fdc2fb228a2bca3b484a6a367ad2f9d67cc8958437f9e587",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Abenteuer Animes | AniWorld.to - Animes gratis legal online ansehen",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "8380",
+      "domain": "aniworld.to",
+      "stratum": "1001-10000",
+      "requested_url": "https://aniworld.to/neu",
+      "depth": 1,
+      "parent_url": "https://aniworld.to/",
+      "attempt": 18,
+      "timestamp": "2026-11-12T21:08:06.770233+00:00",
+      "final_url": "https://aniworld.to/neu",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 40908,
+      "truncated": false,
+      "body_sha256": "a9612880a36c833e1c7beda85e2c58e1d296f121f1376a897a9b1d5e438d3e29",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Neue Animes im November | AniWorld.to - Animes gratis legal online ansehen",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "8380",
+      "domain": "aniworld.to",
+      "stratum": "1001-10000",
+      "requested_url": "https://aniworld.to/zufall",
+      "depth": 1,
+      "parent_url": "https://aniworld.to/",
+      "attempt": 19,
+      "timestamp": "2026-11-12T21:08:07.144344+00:00",
+      "final_url": "https://aniworld.to/zufall",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 411050,
+      "truncated": false,
+      "body_sha256": "70afa6c47ad416807c901c5782043fa26f35612514ba2076c144628e69d928c7",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Der Anime-Zufallsgenerator | AniWorld.to - Animes gratis legal online ansehen",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "8380",
+      "domain": "aniworld.to",
+      "stratum": "1001-10000",
+      "requested_url": "https://aniworld.to/dmca",
+      "depth": 1,
+      "parent_url": "https://aniworld.to/",
+      "attempt": 20,
+      "timestamp": "2026-11-12T21:08:08.242245+00:00",
+      "final_url": "https://aniworld.to/dmca",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 15863,
+      "truncated": false,
+      "body_sha256": "9151845a361d73444fb665406bfa3c097ca0012b6f3d44ac64099cdd20772e3d",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "DMCA - Digital Millennium Copyright Act of 1998 | AniWorld.to - Animes gratis legal online ansehen",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "8380",
+      "domain": "aniworld.to",
+      "stratum": "1001-10000",
+      "requested_url": "https://aniworld.to/account/support/new",
+      "depth": 1,
+      "parent_url": "https://aniworld.to/",
+      "attempt": 21,
+      "timestamp": "2026-11-12T21:08:08.613142+00:00",
+      "final_url": "https://aniworld.to/account/support/new",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 0,
+      "truncated": false,
+      "body_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "8380",
+      "domain": "aniworld.to",
+      "stratum": "1001-10000",
+      "requested_url": "https://aniworld.to/animes/jahr/2022",
+      "depth": 5,
+      "parent_url": "https://aniworld.to/anime/stream/onipan",
+      "attempt": 22,
+      "timestamp": "2026-11-12T21:08:09.000876+00:00",
+      "final_url": "https://aniworld.to/animes/jahr/2022",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 52032,
+      "truncated": false,
+      "body_sha256": "21d843f21ec39ed8a38c8d07e7fcaf7c87f279c7e4e738c0e1b5f48a074e6c22",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Animes von 2022 | AniWorld.to - Animes gratis legal online ansehen",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "8380",
+      "domain": "aniworld.to",
+      "stratum": "1001-10000",
+      "requested_url": "https://aniworld.to/anime/stream/demons-ascension",
+      "depth": 2,
+      "parent_url": "https://aniworld.to/animes",
+      "attempt": 23,
+      "timestamp": "2026-11-12T21:08:09.753811+00:00",
+      "final_url": "https://aniworld.to/anime/stream/demons-ascension",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 75421,
+      "truncated": false,
+      "body_sha256": "7183240f47f3ccd39264f4d2b38bf954af976beba942b01765287f4f7d31f055",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Staffel 1 von  Demon's Ascension | AniWorld.to - Animes gratis legal online ansehen",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "8380",
+      "domain": "aniworld.to",
+      "stratum": "1001-10000",
+      "requested_url": "https://aniworld.to/support/privacy",
+      "depth": 2,
+      "parent_url": "https://aniworld.to/registrierung",
+      "attempt": 24,
+      "timestamp": "2026-11-12T21:08:10.322057+00:00",
+      "final_url": "https://aniworld.to/support/privacy",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 26500,
+      "truncated": false,
+      "body_sha256": "7c0d0914dbb18f8662f86ac9ed15d1e00dda7533e2a2a90156e793492d7da89a",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Datenschutz Informationen | AniWorld.to - Animes gratis legal online ansehen",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "8380",
+      "domain": "aniworld.to",
+      "stratum": "1001-10000",
+      "requested_url": "https://aniworld.to/account/settings",
+      "depth": 3,
+      "parent_url": "https://aniworld.to/support/privacy",
+      "attempt": 25,
+      "timestamp": "2026-11-12T21:08:10.694904+00:00",
+      "final_url": "https://aniworld.to/account/settings",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 0,
+      "truncated": false,
+      "body_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "8380",
+      "domain": "aniworld.to",
+      "stratum": "1001-10000",
+      "requested_url": "https://aniworld.to/katalog/A/2",
+      "depth": 2,
+      "parent_url": "https://aniworld.to/katalog/A",
+      "attempt": 26,
+      "timestamp": "2026-11-12T21:08:11.081733+00:00",
+      "final_url": "https://aniworld.to/katalog/A/2",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 52666,
+      "truncated": false,
+      "body_sha256": "1d16b892d5b9a060a0752d18d7b69ad0ab3fd44df33d5f0c6df087a88ed5484f",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Animes mit Buchstabe A mehr von A bis Z (Seite 2) | AniWorld.to - Animes gratis legal online ansehen",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "8380",
+      "domain": "aniworld.to",
+      "stratum": "1001-10000",
+      "requested_url": "https://aniworld.to/user/profil/makken/freunde",
+      "depth": 2,
+      "parent_url": "https://aniworld.to/user/profil/makken",
+      "attempt": 27,
+      "timestamp": "2026-11-12T21:08:11.864689+00:00",
+      "final_url": "https://aniworld.to/user/profil/makken/freunde",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 22990,
+      "truncated": false,
+      "body_sha256": "fba77199f375cfae74e47aa052c945b73ef3fcf1804a4b6052c91fbd87c77ed8",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Makken Freunde bei AniWorld | AniWorld.to - Animes gratis legal online ansehen",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "8380",
+      "domain": "aniworld.to",
+      "stratum": "1001-10000",
+      "requested_url": "https://aniworld.to/genre/abenteuer/2",
+      "depth": 2,
+      "parent_url": "https://aniworld.to/genre/abenteuer",
+      "attempt": 28,
+      "timestamp": "2026-11-12T21:08:12.257632+00:00",
+      "final_url": "https://aniworld.to/genre/abenteuer/2",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 52754,
+      "truncated": false,
+      "body_sha256": "942fe982e161abc05208eaba5528bb8d5a27e658a395cbf38b4cbe56bc4020f4",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Abenteuer Animes | AniWorld.to - Animes gratis legal online ansehen",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "8380",
+      "domain": "aniworld.to",
+      "stratum": "1001-10000",
+      "requested_url": "https://aniworld.to/animes/jahr/2025",
+      "depth": 3,
+      "parent_url": "https://aniworld.to/anime/stream/demons-ascension",
+      "attempt": 29,
+      "timestamp": "2026-11-12T21:08:12.893521+00:00",
+      "final_url": "https://aniworld.to/animes/jahr/2025",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 54728,
+      "truncated": false,
+      "body_sha256": "eeda8a06575609ac44d2c3900a5e028e472f82f0d66b3240bf9dd20e6d0f4b00",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Animes von 2025 | AniWorld.to - Animes gratis legal online ansehen",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "8380",
+      "domain": "aniworld.to",
+      "stratum": "1001-10000",
+      "requested_url": "https://aniworld.to/katalog/A/1",
+      "depth": 3,
+      "parent_url": "https://aniworld.to/katalog/A/2",
+      "attempt": 30,
+      "timestamp": "2026-11-12T21:08:13.420159+00:00",
+      "final_url": "https://aniworld.to/katalog/A/1",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 56907,
+      "truncated": false,
+      "body_sha256": "082f214798ab2725a5a280c83d49e8929cbf1fd8dc4a66fefd75301658f83fd5",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Animes mit Buchstabe A mehr von A bis Z (Seite 1) | AniWorld.to - Animes gratis legal online ansehen",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "8380",
+      "domain": "aniworld.to",
+      "stratum": "1001-10000",
+      "requested_url": "https://aniworld.to/user/profil/makken/watched",
+      "depth": 3,
+      "parent_url": "https://aniworld.to/user/profil/makken/freunde",
+      "attempt": 31,
+      "timestamp": "2026-11-12T21:08:13.956335+00:00",
+      "final_url": "https://aniworld.to/user/profil/makken/watched",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 21762,
+      "truncated": false,
+      "body_sha256": "a6c637783fd622bd06abe9f7cf9e7096a5115e67ff587da4f0d95fbbdf385b94",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Makken gesehene Animes | AniWorld.to - Animes gratis legal online ansehen",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "8380",
+      "domain": "aniworld.to",
+      "stratum": "1001-10000",
+      "requested_url": "https://aniworld.to/anime/stream/aoashi/staffel-2/episode-3",
+      "depth": 4,
+      "parent_url": "https://aniworld.to/user/profil/makken/watched",
+      "attempt": 32,
+      "timestamp": "2026-11-12T21:08:14.356665+00:00",
+      "final_url": "https://aniworld.to/anime/stream/aoashi/staffel-2/episode-3",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 89528,
+      "truncated": false,
+      "body_sha256": "e975ebf208afbaabaeb3901d7f003ab2f5e13f863d91836761d03dbf0d83abd3",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Episode 3 Staffel 2 von Aoashi | AniWorld.to - Animes gratis legal online ansehen",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "8380",
+      "domain": "aniworld.to",
+      "stratum": "1001-10000",
+      "requested_url": "https://aniworld.to/genre/abenteuer/1",
+      "depth": 3,
+      "parent_url": "https://aniworld.to/genre/abenteuer/2",
+      "attempt": 33,
+      "timestamp": "2026-11-12T21:08:15.069377+00:00",
+      "final_url": "https://aniworld.to/genre/abenteuer/1",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 54190,
+      "truncated": false,
+      "body_sha256": "2d676b4c21ef5f3c2d7cd560ddaf98f2d5c0d02254d06d3f4edd46f1728769b6",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Abenteuer Animes | AniWorld.to - Animes gratis legal online ansehen",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "8380",
+      "domain": "aniworld.to",
+      "stratum": "1001-10000",
+      "requested_url": "https://aniworld.to/support/frage/anime-verschiebungen",
+      "depth": 1,
+      "parent_url": "https://aniworld.to/",
+      "attempt": 34,
+      "timestamp": "2026-11-12T21:08:15.567442+00:00",
+      "final_url": "https://aniworld.to/support/frage/anime-verschiebungen",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 34720,
+      "truncated": false,
+      "body_sha256": "7763eb07599f5564ca3ebcac381451d664036ee323ab7a916948f4a771893d41",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Animeverschiebungen [10.11. 18:00] | AniWorld.to - Animes gratis legal online ansehen",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "8380",
+      "domain": "aniworld.to",
+      "stratum": "1001-10000",
+      "requested_url": "https://aniworld.to/animes/jahr/2026",
+      "depth": 5,
+      "parent_url": "https://aniworld.to/anime/stream/aoashi/staffel-2/episode-3",
+      "attempt": 35,
+      "timestamp": "2026-11-12T21:08:15.956542+00:00",
+      "final_url": "https://aniworld.to/animes/jahr/2026",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 54052,
+      "truncated": false,
+      "body_sha256": "69fc5f1f88cf111ac85e210844be6b6a7debc265583201db577757ef94c3cf3b",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Animes von 2026 | AniWorld.to - Animes gratis legal online ansehen",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "8380",
+      "domain": "aniworld.to",
+      "stratum": "1001-10000",
+      "requested_url": "https://aniworld.to/katalog/A/4",
+      "depth": 4,
+      "parent_url": "https://aniworld.to/katalog/A/1",
+      "attempt": 36,
+      "timestamp": "2026-11-12T21:08:16.464405+00:00",
+      "final_url": "https://aniworld.to/katalog/A/4",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 54055,
+      "truncated": false,
+      "body_sha256": "f1f69fd274d0d4707fa105b2af9a6b129bc872c21b432d4d6cb1b1b2dbdb75b5",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Animes mit Buchstabe A mehr von A bis Z (Seite 4) | AniWorld.to - Animes gratis legal online ansehen",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "8380",
+      "domain": "aniworld.to",
+      "stratum": "1001-10000",
+      "requested_url": "https://aniworld.to/genre/abenteuer/3",
+      "depth": 4,
+      "parent_url": "https://aniworld.to/genre/abenteuer/1",
+      "attempt": 37,
+      "timestamp": "2026-11-12T21:08:17.188851+00:00",
+      "final_url": "https://aniworld.to/genre/abenteuer/3",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 51814,
+      "truncated": false,
+      "body_sha256": "81e3bd3971cc05feb877ba69376dda99086c1a9b3c8bc8ffa1ce19358cbcf15c",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Abenteuer Animes | AniWorld.to - Animes gratis legal online ansehen",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "8380",
+      "domain": "aniworld.to",
+      "stratum": "1001-10000",
+      "requested_url": "https://aniworld.to/anime/stream/100-sleeping-princes-the-kingdom-of-dreams",
+      "depth": 2,
+      "parent_url": "https://aniworld.to/animes",
+      "attempt": 38,
+      "timestamp": "2026-11-12T21:08:17.730818+00:00",
+      "final_url": "https://aniworld.to/anime/stream/100-sleeping-princes-the-kingdom-of-dreams",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 72319,
+      "truncated": false,
+      "body_sha256": "f3eaa055ded7a9b74d6905743292b8b44834e87cb0e3418906730c27f49667ab",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Staffel 1 von 100 Sleeping Princes & The Kingdom of Dreams | AniWorld.to - Animes gratis legal online ansehen",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "8380",
+      "domain": "aniworld.to",
+      "stratum": "1001-10000",
+      "requested_url": "https://aniworld.to/support/fragen",
+      "depth": 2,
+      "parent_url": "https://aniworld.to/support/frage/anime-verschiebungen",
+      "attempt": 39,
+      "timestamp": "2026-11-12T21:08:18.293099+00:00",
+      "final_url": "https://aniworld.to/support/fragen",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 51100,
+      "truncated": false,
+      "body_sha256": "125c3d2d4ccc55b8197ff947891c5121892f0effd3edb74509379b830abf37c7",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Anime Community Fragen & Antworten | AniWorld.to - Animes gratis legal online ansehen",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "8380",
+      "domain": "aniworld.to",
+      "stratum": "1001-10000",
+      "requested_url": "https://aniworld.to/user/profil/star-geist",
+      "depth": 1,
+      "parent_url": "https://aniworld.to/",
+      "attempt": 40,
+      "timestamp": "2026-11-12T21:08:19.061221+00:00",
+      "final_url": "https://aniworld.to/profil/notFound",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 15100,
+      "truncated": false,
+      "body_sha256": "580cf800efc0fbd6d31b23d76542bdbd9b270ac1776578bed17eac88a3ab65f9",
+      "redirect_chain": [
+        {
+          "url": "https://aniworld.to/user/profil/star-geist",
+          "status": 302,
+          "location": "/profil/notFound",
+          "headers": {
+            "content-security-policy": [
+              "upgrade-insecure-requests;"
+            ],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Profil | AniWorld.to - Animes gratis legal online ansehen",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "8380",
+      "domain": "aniworld.to",
+      "stratum": "1001-10000",
+      "requested_url": "https://aniworld.to/katalog/A/5",
+      "depth": 5,
+      "parent_url": "https://aniworld.to/katalog/A/4",
+      "attempt": 41,
+      "timestamp": "2026-11-12T21:08:19.700947+00:00",
+      "final_url": "https://aniworld.to/katalog/A/5",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 53360,
+      "truncated": false,
+      "body_sha256": "02dadd289e8607333a703569aea381108e4e4fe3d38124a933c679aa47bb4e24",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Animes mit Buchstabe A mehr von A bis Z (Seite 5) | AniWorld.to - Animes gratis legal online ansehen",
+      "duplicate_final": false,
+      "eligible": true
+    }
+  ],
+  "robots": [
+    {
+      "url": "https://aniworld.to/robots.txt",
+      "timestamp": "2026-11-12T21:07:54.439974+00:00",
+      "status": 200,
+      "decision": "parsed",
+      "body_sha256": "e7714240a450ea58c3537e0effea7701858d5b03bf1d3d3e64976d202896dc39",
+      "body": "User-agent: *\r\nAllow: /\r\nDisallow: /redirect/*\r\nSitemap: /sitemap.xml\r\n"
+    }
+  ],
+  "eligible_pages": 40,
+  "canonical_origin": [
+    "https",
+    "aniworld.to",
+    443
+  ],
+  "stop_reason": "page_budget",
+  "elapsed_seconds": 26.11
+}

@@ -1,0 +1,213 @@
+{
+  "site": {
+    "rank": "3628",
+    "domain": "amazon.nl",
+    "stratum": "1001-10000"
+  },
+  "rows": [
+    {
+      "rank": "3628",
+      "domain": "amazon.nl",
+      "stratum": "1001-10000",
+      "requested_url": "https://amazon.nl/",
+      "depth": 0,
+      "parent_url": "",
+      "attempt": 1,
+      "timestamp": "2026-11-12T21:13:39.336383+00:00",
+      "final_url": "https://www.amazon.nl/",
+      "status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests;report-uri https://metrics.media-amazon.com/"
+        ],
+        "content-security-policy-report-only": [
+          "default-src 'self' blob: https: data: mediastream: 'unsafe-eval' 'unsafe-inline';report-uri https://metrics.media-amazon.com/"
+        ],
+        "strict-transport-security": [
+          "max-age=47474747; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 979041,
+      "truncated": false,
+      "body_sha256": "2a9efef0edd7944a77175292e965cb10aeca0e896880281c220ebb5de1536afb",
+      "redirect_chain": [
+        {
+          "url": "https://amazon.nl/",
+          "status": 301,
+          "location": "https://www.amazon.nl/",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=47474747; includeSubDomains; preload"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Amazon.nl: Groot aanbod, kleine prijzen in o.a. Elektronica, boeken, sport en meer",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "3628",
+      "domain": "amazon.nl",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.amazon.nl/ref=nav_logo",
+      "depth": 1,
+      "parent_url": "https://www.amazon.nl/",
+      "attempt": 2,
+      "timestamp": "2026-11-12T21:13:40.223195+00:00",
+      "final_url": "https://www.amazon.nl/ref=nav_logo",
+      "status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests;report-uri https://metrics.media-amazon.com/"
+        ],
+        "content-security-policy-report-only": [
+          "default-src 'self' blob: https: data: mediastream: 'unsafe-eval' 'unsafe-inline';report-uri https://metrics.media-amazon.com/"
+        ],
+        "strict-transport-security": [
+          "max-age=47474747; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 1081862,
+      "truncated": false,
+      "body_sha256": "976b5c92d70a43eeb3d59aaaf18ff68835ef652ce3f2044c0e13c2184c23182f",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Amazon.nl: Groot aanbod, kleine prijzen in o.a. Elektronica, boeken, sport en meer",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "3628",
+      "domain": "amazon.nl",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.amazon.nl/gp/history",
+      "depth": 1,
+      "parent_url": "https://www.amazon.nl/",
+      "attempt": 3,
+      "timestamp": "2026-11-12T21:13:40.947338+00:00",
+      "error": "robots_denied",
+      "final_url": "https://www.amazon.nl/gp/history",
+      "redirect_chain": [],
+      "html": false,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "3628",
+      "domain": "amazon.nl",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.amazon.nl/ref=footer_logo",
+      "depth": 1,
+      "parent_url": "https://www.amazon.nl/",
+      "attempt": 4,
+      "timestamp": "2026-11-12T21:13:40.947529+00:00",
+      "final_url": "https://www.amazon.nl/ref=footer_logo",
+      "status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests;report-uri https://metrics.media-amazon.com/"
+        ],
+        "content-security-policy-report-only": [
+          "default-src 'self' blob: https: data: mediastream: 'unsafe-eval' 'unsafe-inline';report-uri https://metrics.media-amazon.com/"
+        ],
+        "strict-transport-security": [
+          "max-age=47474747; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 1067347,
+      "truncated": false,
+      "body_sha256": "5c3db1f85f52653dd03b4091bd07a797f0d690325173f23d49d3a65100801f74",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Amazon.nl: Groot aanbod, kleine prijzen in o.a. Elektronica, boeken, sport en meer",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "3628",
+      "domain": "amazon.nl",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.amazon.nl/",
+      "depth": 1,
+      "parent_url": "https://www.amazon.nl/",
+      "attempt": 5,
+      "timestamp": "2026-11-12T21:13:41.759991+00:00",
+      "final_url": "https://www.amazon.nl/",
+      "status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "upgrade-insecure-requests;report-uri https://metrics.media-amazon.com/"
+        ],
+        "content-security-policy-report-only": [
+          "default-src 'self' blob: https: data: mediastream: 'unsafe-eval' 'unsafe-inline';report-uri https://metrics.media-amazon.com/"
+        ],
+        "strict-transport-security": [
+          "max-age=47474747; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 1078058,
+      "truncated": false,
+      "body_sha256": "a619a18372c5b73794e3d673ab41977ec2f6079d1e3aba0ca5ecee6b337be9a8",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Amazon.nl: Groot aanbod, kleine prijzen in o.a. Elektronica, boeken, sport en meer",
+      "duplicate_final": true,
+      "eligible": false
+    }
+  ],
+  "robots": [
+    {
+      "url": "https://amazon.nl/robots.txt",
+      "timestamp": "2026-11-12T21:13:38.378035+00:00",
+      "status": 200,
+      "decision": "parsed",
+      "final_url": "https://www.amazon.nl/robots.txt",
+      "redirect_chain": [
+        {
+          "url": "https://amazon.nl/robots.txt",
+          "status": 301,
+          "location": "https://www.amazon.nl/robots.txt"
+        }
+      ],
+      "body_sha256": "d8e52a97f18ebaa6eecd38bcdbaf076e348244bc3e5f64260e7d40889475bc3c",
+      "body": "User-agent: *\nDisallow: /dp/product-availability/\nDisallow: /dp/rate-this-item/\nDisallow: /exec/obidos/account-access-login\nDisallow: /exec/obidos/change-style\nDisallow: /exec/obidos/di\nDisallow: /exec/obidos/dt\nDisallow: /exec/obidos/flex-sign-in\nDisallow: /exec/obidos/handle-buy-box\nDisallow: /exec/obidos/refer-a-friend-login\nDisallow: /exec/obidos/subst/associates/join\nDisallow: /exec/obidos/subst/marketplace/sell-your-collection.html\nDisallow: /exec/obidos/subst/marketplace/sell-your-stuff.html\nDisallow: /exec/obidos/subst/partners/friends/access.html\nDisallow: /exec/obidos/tg/cm/member/\nDisallow: /gp/cart\nDisallow: /gp/content-form\nDisallow: /gp/customer-images\nDisallow: /gp/customer-media/upload\nDisallow: /gp/customer-reviews/common/du\nDisallow: /gp/customer-reviews/write-a-review.html\nDisallow: /gp/flex\nDisallow: /gp/gfix\nDisallow: /gp/history\nDisallow: /gp/item-dispatch\nDisallow: /gp/legacy-handle-buy-box.html\nDisallow: /gp/reader\nDisallow: /gp/registry/wishlist/*/reserve\nDisallow: /gp/richpub/listmania/createpipeline\nDisallow: /gp/music/clipserve\nDisallow: /gp/recsradio\nDisallow: /gp/sign-in\nDisallow: /gp/slides/make-money\nDisallow: /gp/structured-ratings/actions/get-experience.html\nDisallow: /gp/twitter/\nDisallow: /gp/vote\nDisallow: /gp/voting/\nDisallow: /gp/yourstore\nDisallow: /ap/signin\nDisallow: /gp/registry/search.html\nDisallow: /gp/orc/rml/\nDisallow: /gp/dmusic/mp3/player\nDisallow: /gp/entity-alert/external\nDisallow: /gp/customer-reviews/dynamic/sims-box\nDisallow: /review/dynamic/sims-box\nDisallow: /gp/redirect.html\nDisallow: /gp/customer-media/actions/delete/\nDisallow: /gp/customer-media/actions/edit-caption/\nDisallow: /gp/dmusic/\nDisallow: /gp/customer-media/product-gallery/B007HCCOD0\nDisallow: /gp/help/customer/display.html?*nodeId=200534000\nDisallow: /gp/help/customer/display.html?*nodeId=200145650\nDisallow: /gp/feature.html?*docId=1000632623\nDisallow: /gp/aag\nDisallow: /gp/socialmedia/giveaways\nDisallow: /gp/aw/so.html\nDisallow: /gp/aw/sp.html?*t=returns\nDisallow: /gp/pdp/profile/\nDisallow: /gp/product/product-availability\nDisallow: /gp/offer-listing\nDisallow: /dp/twister-update/\nDisallow: /dp/e-mail-friend/\nDisallow: /gp/registry/wishlist/\nDisallow: /gp/switch-language\nDisallow: /wishlist/\nAllow: /wishlist/universal\nAllow: /wishlist/vendor-button\nAllow: /wishlist/get-button\nDisallow: /gp/wishlist/\nAllow: /gp/wishlist/universal\nAllow: /gp/wishlist/vendor-button\nAllow: /gp/wishlist/ipad-install\nDisallow: /registry/wishlist/\nDisallow: /local/ajax/\nDisallow: /gp/rate-it\nDisallow: /gp/rentallist\nDisallow: /gp/video/dvd-rental/settings\nDisallow: /gp/rl/settings\nDisallow: /gp/video/settings\nDisallow: /gp/video/watchlist\nDisallow: /gp/video/library\nDisallow: /o/di\nDisallow: /o/dt\nDisallow: /gp/profile\nDisallow: /reviews/iframe\nDisallow: /ss/customer-reviews/lighthouse/\nDisallow: /gp/aw/ol/\nDisallow: /hz/leaderboard/top-reviewers/\nDisallow: /hz/leaderboard/hall-of-fame/\nDisallow: /review/top-reviewers/\nDisallow: /review/top-reviewers\nDisallow: /review/hall-of-fame\nDisallow: /reviews/top-reviewers/\nDisallow: /reviews/top-reviewers\nDisallow: /reviews/hall-of-fame\nDisallow: /hz/help/contact/*/message/$\nDisallow: /-/\nAllow: /-/en/\nAllow: /-/en$\nDisallow: /gp/aw/shoppingAids/\n\nUser-agent: EtaoSpider\nDisallow: /\n\nUser-agent: GPTBot\nDisallow: /\n\nUser-agent: CCBot\nDisallow: /\n\nUser-Agent: PerplexityBot\nDisallow: /\n\nUser-agent: Google-Extended\nDisallow: /\n\nUser-agent: GoogleAgent-Mariner\nDisallow: /\n\nUser-agent: GoogleAgent-Shopping\nDisallow: /\n\nUser-agent: ClaudeBot\nDisallow: /\n\nUser-agent: meta-externalagent\nDisallow: /\n\nUser-agent: Bytespider\nDisallow: /\n\nUser-agent: Scrapy\nDisallow: /\n\nUser-agent: PetalBot\nDisallow: /\n\nUser-agent: Devin\nDisallow: /\n\nUser-agent: omgili\nDisallow: /\n\nUser-agent: AI2Bot\nDisallow: /\n\nUser-agent: Gemini-Deep-Research\nDisallow: /\n\nUser-agent: PanguBot\nDisallow: /\n\nUser-agent: MistralAI-User\nDisallow: /\n\nUser-agent: Diffbot\nDisallow: /\n\nUser-agent: Sidetrade indexer bot\nDisallow: /\n\nUser-agent: Google-NotebookLM\nDisallow: /\n\nUser-agent: DuckAssistBot\nDisallow: /\n\nUser-agent: Copilot\nDisallow: /\n\nUser-agent: Ai2Bot-Dolma\nDisallow: /\n\nUser-agent: Google-CloudVertexBot\nDisallow: /\n\nUser-agent: meta-externalfetcher\nDisallow: /\n\nUser-agent: iaskspider\nDisallow: /\n\nUser-agent: wpbot\nDisallow: /\n\nUser-agent: aiHitBot\nDisallow: /\n\nUser-agent: cohere-ai\nDisallow: /\n\nUser-agent: FriendlyCrawler\nDisallow: /\n\nUser-agent: img2dataset\nDisallow: /\n\nUser-agent: VelenPublicWebCrawler\nDisallow: /\n\nUser-agent: YouBot\nDisallow: /\n\nUser-agent: Brightbot\nDisallow: /\n\nUser-agent: Claude-User\nDisallow: /\n\nUser-agent: ClaudeBot\nDisallow: /\n\nUser-agent: Claude-SearchBot\nDisallow: /\n\nUser-agent: Perplexity-User\nDisallow: /\n\nUser-agent: ISSCyberRiskCrawler\nDisallow: /\n\nUser-agent: CopilotNative\nDisallow: /\n\nUser-agent: CopilotSapphire\nDisallow: /\n\nUser-agent: imgproxy\nDisallow: /\n\nUser-agent: SemrushBot-SWA\nDisallow: /\n\nUser-agent: ChatGPT-User\nDisallow: /\n\nUser-agent: OAI-SearchBot\nDisallow: /\n\nUser-agent: Timpibot\nDisallow: /\n\nUser-agent: Thinkbot\nDisallow: /\n\nUser-agent: AddSearchBot\nDisallow: /\n\nUser-agent: AI2Bot-DeepResearchEval\nDisallow: /\n\nUser-agent: Andibot\nDisallow: /\n\nUser-agent: Anomura\nDisallow: /\n\nUser-agent: atlassian-bot\nDisallow: /\n\nUser-agent: BuddyBot\nDisallow: /\n\nUser-agent: Channel3Bot\nDisallow: /\n\nUser-agent: ChatGLM-Spider\nDisallow: /\n\nUser-agent: Claude-Web\nDisallow: /\n\nUser-agent: Cloudflare-AutoRAG\nDisallow: /\n\nUser-agent: CloudflareBrowserRenderingCrawler\nDisallow: /\n\nUser-agent: cohere-training-data-crawler\nDisallow: /\n\nUser-agent: Cotoyogi\nDisallow: /\n\nUser-agent: Crawl4AI\nDisallow: /\n\nUser-agent: Datenbank Crawler\nDisallow: /\n\nUser-agent: DeepSeekBot\nDisallow: /\n\nUser-agent: Echobot Bot\nDisallow: /\n\nUser-agent: EchoboxBot\nDisallow: /\n\nUser-agent: factset_spyderbot\nDisallow: /\n\nUser-agent: Google-Firebase\nDisallow: /\n\nUser-agent: GoogleOther\nDisallow: /\n\nUser-agent: Grok-DeepSearch\nDisallow: /\n\nUser-agent: GrokBot\nDisallow: /\n\nUser-agent: iAskBot\nDisallow: /\n\nUser-agent: IbouBot\nDisallow: /\n\nUser-agent: ICC-Crawler\nDisallow: /\n\nUser-agent: ImagesiftBot\nDisallow: /\n\nUser-agent: imageSpider\nDisallow: /\n\nUser-agent: Kangaroo Bot\nDisallow: /\n\nUser-agent: KlaviyoAIBot\nDisallow: /\n\nUser-agent: KunatoCrawler\nDisallow: /\n\nUser-agent: laion-huggingface-processor\nDisallow: /\n\nUser-agent: Linguee Bot\nDisallow: /\n\nUser-agent: LinkupBot\nDisallow: /\n\nUser-agent: Manus-User\nDisallow: /\n\nUser-agent: meta-webindexer\nDisallow: /\n\nUser-agent: netEstate Imprint Crawler\nDisallow: /\n\nUser-agent: Panscient\nDisallow: /\n\nUser-agent: panscient.com\nDisallow: /\n\nUser-agent: PhindBot\nDisallow: /\n\nUser-agent: Poggio-Citations\nDisallow: /\n\nUser-agent: QualifiedBot\nDisallow: /\n\nUser-agent: SBIntuitionsBot\nDisallow: /\n\nUser-agent: ShapBot\nDisallow: /\n\nUser-agent: TavilyBot\nDisallow: /\n\nUser-agent: TerraCotta\nDisallow: /\n\nUser-agent: TwinAgent\nDisallow: /\n\nUser-agent: webzio-extended\nDisallow: /\n\nUser-agent: WRTNBot\nDisallow: /\n\nUser-agent: xAI-Grok\nDisallow: /\n\nUser-agent: YaK\nDisallow: /\n\nUser-agent: ZanistaBot\nDisallow: /"
+    },
+    {
+      "url": "https://www.amazon.nl/robots.txt",
+      "timestamp": "2026-11-12T21:13:39.336198+00:00",
+      "status": 200,
+      "decision": "parsed",
+      "final_url": "https://www.amazon.nl/robots.txt",
+      "redirect_chain": [],
+      "body_sha256": "d8e52a97f18ebaa6eecd38bcdbaf076e348244bc3e5f64260e7d40889475bc3c",
+      "body": "User-agent: *\nDisallow: /dp/product-availability/\nDisallow: /dp/rate-this-item/\nDisallow: /exec/obidos/account-access-login\nDisallow: /exec/obidos/change-style\nDisallow: /exec/obidos/di\nDisallow: /exec/obidos/dt\nDisallow: /exec/obidos/flex-sign-in\nDisallow: /exec/obidos/handle-buy-box\nDisallow: /exec/obidos/refer-a-friend-login\nDisallow: /exec/obidos/subst/associates/join\nDisallow: /exec/obidos/subst/marketplace/sell-your-collection.html\nDisallow: /exec/obidos/subst/marketplace/sell-your-stuff.html\nDisallow: /exec/obidos/subst/partners/friends/access.html\nDisallow: /exec/obidos/tg/cm/member/\nDisallow: /gp/cart\nDisallow: /gp/content-form\nDisallow: /gp/customer-images\nDisallow: /gp/customer-media/upload\nDisallow: /gp/customer-reviews/common/du\nDisallow: /gp/customer-reviews/write-a-review.html\nDisallow: /gp/flex\nDisallow: /gp/gfix\nDisallow: /gp/history\nDisallow: /gp/item-dispatch\nDisallow: /gp/legacy-handle-buy-box.html\nDisallow: /gp/reader\nDisallow: /gp/registry/wishlist/*/reserve\nDisallow: /gp/richpub/listmania/createpipeline\nDisallow: /gp/music/clipserve\nDisallow: /gp/recsradio\nDisallow: /gp/sign-in\nDisallow: /gp/slides/make-money\nDisallow: /gp/structured-ratings/actions/get-experience.html\nDisallow: /gp/twitter/\nDisallow: /gp/vote\nDisallow: /gp/voting/\nDisallow: /gp/yourstore\nDisallow: /ap/signin\nDisallow: /gp/registry/search.html\nDisallow: /gp/orc/rml/\nDisallow: /gp/dmusic/mp3/player\nDisallow: /gp/entity-alert/external\nDisallow: /gp/customer-reviews/dynamic/sims-box\nDisallow: /review/dynamic/sims-box\nDisallow: /gp/redirect.html\nDisallow: /gp/customer-media/actions/delete/\nDisallow: /gp/customer-media/actions/edit-caption/\nDisallow: /gp/dmusic/\nDisallow: /gp/customer-media/product-gallery/B007HCCOD0\nDisallow: /gp/help/customer/display.html?*nodeId=200534000\nDisallow: /gp/help/customer/display.html?*nodeId=200145650\nDisallow: /gp/feature.html?*docId=1000632623\nDisallow: /gp/aag\nDisallow: /gp/socialmedia/giveaways\nDisallow: /gp/aw/so.html\nDisallow: /gp/aw/sp.html?*t=returns\nDisallow: /gp/pdp/profile/\nDisallow: /gp/product/product-availability\nDisallow: /gp/offer-listing\nDisallow: /dp/twister-update/\nDisallow: /dp/e-mail-friend/\nDisallow: /gp/registry/wishlist/\nDisallow: /gp/switch-language\nDisallow: /wishlist/\nAllow: /wishlist/universal\nAllow: /wishlist/vendor-button\nAllow: /wishlist/get-button\nDisallow: /gp/wishlist/\nAllow: /gp/wishlist/universal\nAllow: /gp/wishlist/vendor-button\nAllow: /gp/wishlist/ipad-install\nDisallow: /registry/wishlist/\nDisallow: /local/ajax/\nDisallow: /gp/rate-it\nDisallow: /gp/rentallist\nDisallow: /gp/video/dvd-rental/settings\nDisallow: /gp/rl/settings\nDisallow: /gp/video/settings\nDisallow: /gp/video/watchlist\nDisallow: /gp/video/library\nDisallow: /o/di\nDisallow: /o/dt\nDisallow: /gp/profile\nDisallow: /reviews/iframe\nDisallow: /ss/customer-reviews/lighthouse/\nDisallow: /gp/aw/ol/\nDisallow: /hz/leaderboard/top-reviewers/\nDisallow: /hz/leaderboard/hall-of-fame/\nDisallow: /review/top-reviewers/\nDisallow: /review/top-reviewers\nDisallow: /review/hall-of-fame\nDisallow: /reviews/top-reviewers/\nDisallow: /reviews/top-reviewers\nDisallow: /reviews/hall-of-fame\nDisallow: /hz/help/contact/*/message/$\nDisallow: /-/\nAllow: /-/en/\nAllow: /-/en$\nDisallow: /gp/aw/shoppingAids/\n\nUser-agent: EtaoSpider\nDisallow: /\n\nUser-agent: GPTBot\nDisallow: /\n\nUser-agent: CCBot\nDisallow: /\n\nUser-Agent: PerplexityBot\nDisallow: /\n\nUser-agent: Google-Extended\nDisallow: /\n\nUser-agent: GoogleAgent-Mariner\nDisallow: /\n\nUser-agent: GoogleAgent-Shopping\nDisallow: /\n\nUser-agent: ClaudeBot\nDisallow: /\n\nUser-agent: meta-externalagent\nDisallow: /\n\nUser-agent: Bytespider\nDisallow: /\n\nUser-agent: Scrapy\nDisallow: /\n\nUser-agent: PetalBot\nDisallow: /\n\nUser-agent: Devin\nDisallow: /\n\nUser-agent: omgili\nDisallow: /\n\nUser-agent: AI2Bot\nDisallow: /\n\nUser-agent: Gemini-Deep-Research\nDisallow: /\n\nUser-agent: PanguBot\nDisallow: /\n\nUser-agent: MistralAI-User\nDisallow: /\n\nUser-agent: Diffbot\nDisallow: /\n\nUser-agent: Sidetrade indexer bot\nDisallow: /\n\nUser-agent: Google-NotebookLM\nDisallow: /\n\nUser-agent: DuckAssistBot\nDisallow: /\n\nUser-agent: Copilot\nDisallow: /\n\nUser-agent: Ai2Bot-Dolma\nDisallow: /\n\nUser-agent: Google-CloudVertexBot\nDisallow: /\n\nUser-agent: meta-externalfetcher\nDisallow: /\n\nUser-agent: iaskspider\nDisallow: /\n\nUser-agent: wpbot\nDisallow: /\n\nUser-agent: aiHitBot\nDisallow: /\n\nUser-agent: cohere-ai\nDisallow: /\n\nUser-agent: FriendlyCrawler\nDisallow: /\n\nUser-agent: img2dataset\nDisallow: /\n\nUser-agent: VelenPublicWebCrawler\nDisallow: /\n\nUser-agent: YouBot\nDisallow: /\n\nUser-agent: Brightbot\nDisallow: /\n\nUser-agent: Claude-User\nDisallow: /\n\nUser-agent: ClaudeBot\nDisallow: /\n\nUser-agent: Claude-SearchBot\nDisallow: /\n\nUser-agent: Perplexity-User\nDisallow: /\n\nUser-agent: ISSCyberRiskCrawler\nDisallow: /\n\nUser-agent: CopilotNative\nDisallow: /\n\nUser-agent: CopilotSapphire\nDisallow: /\n\nUser-agent: imgproxy\nDisallow: /\n\nUser-agent: SemrushBot-SWA\nDisallow: /\n\nUser-agent: ChatGPT-User\nDisallow: /\n\nUser-agent: OAI-SearchBot\nDisallow: /\n\nUser-agent: Timpibot\nDisallow: /\n\nUser-agent: Thinkbot\nDisallow: /\n\nUser-agent: AddSearchBot\nDisallow: /\n\nUser-agent: AI2Bot-DeepResearchEval\nDisallow: /\n\nUser-agent: Andibot\nDisallow: /\n\nUser-agent: Anomura\nDisallow: /\n\nUser-agent: atlassian-bot\nDisallow: /\n\nUser-agent: BuddyBot\nDisallow: /\n\nUser-agent: Channel3Bot\nDisallow: /\n\nUser-agent: ChatGLM-Spider\nDisallow: /\n\nUser-agent: Claude-Web\nDisallow: /\n\nUser-agent: Cloudflare-AutoRAG\nDisallow: /\n\nUser-agent: CloudflareBrowserRenderingCrawler\nDisallow: /\n\nUser-agent: cohere-training-data-crawler\nDisallow: /\n\nUser-agent: Cotoyogi\nDisallow: /\n\nUser-agent: Crawl4AI\nDisallow: /\n\nUser-agent: Datenbank Crawler\nDisallow: /\n\nUser-agent: DeepSeekBot\nDisallow: /\n\nUser-agent: Echobot Bot\nDisallow: /\n\nUser-agent: EchoboxBot\nDisallow: /\n\nUser-agent: factset_spyderbot\nDisallow: /\n\nUser-agent: Google-Firebase\nDisallow: /\n\nUser-agent: GoogleOther\nDisallow: /\n\nUser-agent: Grok-DeepSearch\nDisallow: /\n\nUser-agent: GrokBot\nDisallow: /\n\nUser-agent: iAskBot\nDisallow: /\n\nUser-agent: IbouBot\nDisallow: /\n\nUser-agent: ICC-Crawler\nDisallow: /\n\nUser-agent: ImagesiftBot\nDisallow: /\n\nUser-agent: imageSpider\nDisallow: /\n\nUser-agent: Kangaroo Bot\nDisallow: /\n\nUser-agent: KlaviyoAIBot\nDisallow: /\n\nUser-agent: KunatoCrawler\nDisallow: /\n\nUser-agent: laion-huggingface-processor\nDisallow: /\n\nUser-agent: Linguee Bot\nDisallow: /\n\nUser-agent: LinkupBot\nDisallow: /\n\nUser-agent: Manus-User\nDisallow: /\n\nUser-agent: meta-webindexer\nDisallow: /\n\nUser-agent: netEstate Imprint Crawler\nDisallow: /\n\nUser-agent: Panscient\nDisallow: /\n\nUser-agent: panscient.com\nDisallow: /\n\nUser-agent: PhindBot\nDisallow: /\n\nUser-agent: Poggio-Citations\nDisallow: /\n\nUser-agent: QualifiedBot\nDisallow: /\n\nUser-agent: SBIntuitionsBot\nDisallow: /\n\nUser-agent: ShapBot\nDisallow: /\n\nUser-agent: TavilyBot\nDisallow: /\n\nUser-agent: TerraCotta\nDisallow: /\n\nUser-agent: TwinAgent\nDisallow: /\n\nUser-agent: webzio-extended\nDisallow: /\n\nUser-agent: WRTNBot\nDisallow: /\n\nUser-agent: xAI-Grok\nDisallow: /\n\nUser-agent: YaK\nDisallow: /\n\nUser-agent: ZanistaBot\nDisallow: /"
+    }
+  ],
+  "eligible_pages": 3,
+  "canonical_origin": [
+    "https",
+    "www.amazon.nl",
+    443
+  ],
+  "stop_reason": "frontier_exhausted",
+  "elapsed_seconds": 4.86
+}

@@ -1,0 +1,59 @@
+{
+  "site": {
+    "rank": "1533",
+    "domain": "18comic.vip",
+    "stratum": "1001-10000"
+  },
+  "rows": [
+    {
+      "rank": "1533",
+      "domain": "18comic.vip",
+      "stratum": "1001-10000",
+      "requested_url": "https://18comic.vip/",
+      "depth": 0,
+      "parent_url": "",
+      "attempt": 1,
+      "timestamp": "2026-11-12T21:13:28.331072+00:00",
+      "final_url": "https://18comic.vip/",
+      "status": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'none'; script-src 'nonce-UzbAIRUKxpmsYc6JMeGcRm' 'unsafe-eval' https://challenges.cloudflare.com; script-src-attr 'none'; style-src 'unsafe-inline'; img-src 'self' https://challenges.cloudflare.com; connect-src 'self' https://challenges.cloudflare.com; frame-src 'self' https://challenges.cloudflare.com blob:; child-src 'self' https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 5583,
+      "truncated": false,
+      "body_sha256": "872633a78caf55595dd169c39c1f1a95575eb73bc29b447916637a6704aaff1a",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    }
+  ],
+  "robots": [
+    {
+      "url": "https://18comic.vip/robots.txt",
+      "timestamp": "2026-11-12T21:13:28.331042+00:00",
+      "status": 200,
+      "decision": "parsed",
+      "final_url": "https://18comic.vip/robots.txt",
+      "redirect_chain": [],
+      "body_sha256": "bee53099c40cf91d6db23a0df0e80b20dd6312f51e548e60ba4b0fd7d0d1bde1",
+      "body": "User-agent: *\nAllow: /media/videos/tmb/*/*.jpg\nAllow: /media/albums/*.jpg\nAllow: /templates/frontend/\nAllow: /media/*.jpg\nAllow: /media/*/preview.mp4\nDisallow: /siteadmin/\nDisallow: /cache/\nDisallow: /include/\nDisallow: /install/\nDisallow: /language/\nDisallow: /media/\nDisallow: /tmp/\nDisallow: /classes/\nDisallow: /templates/\nDisallow: /scripts/\nDisallow: /addons/\nDisallow: /cron/\nDisallow: /contrib/\n\nUser-agent: Googlebot\nCrawl-delay: 10\n\nUser-agent: bingbot\nCrawl-delay: 10\n\nUser-agent: SemrushBot\nCrawl-delay: 10\n\nUser-agent: dotbot\nCrawl-delay: 10\n\nUser-agent: AhrefsBot\nCrawl-delay: 10\n\nUser-agent: YandexBot\nCrawl-delay: 10\n\nUser-agent: MJ12bot\nCrawl-delay: 10\n\nUser-agent: BlexBot\nCrawl-delay: 10\n\nUser-agent: Baiduspider\nCrawl-delay: 10\n\nUser-agent: Sogou\nCrawl-delay: 10\n\nUser-agent: PetalBot\nCrawl-delay: 10\n\nUser-agent: CCBot\nCrawl-delay: 10\n\nUser-agent: MauiBot\nCrawl-delay: 10\n\nUser-agent: serpstatbot\nCrawl-delay: 10\n\nUser-agent: SEOkicks-Robot\nCrawl-delay: 10\n"
+    }
+  ],
+  "eligible_pages": 0,
+  "canonical_origin": [
+    "https",
+    "18comic.vip",
+    443
+  ],
+  "stop_reason": "frontier_exhausted",
+  "elapsed_seconds": 0.65
+}

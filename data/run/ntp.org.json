@@ -1,0 +1,1288 @@
+{
+  "site": {
+    "rank": "86",
+    "domain": "ntp.org",
+    "stratum": "1-100"
+  },
+  "rows": [
+    {
+      "rank": "86",
+      "domain": "ntp.org",
+      "stratum": "1-100",
+      "requested_url": "https://ntp.org/",
+      "depth": 0,
+      "parent_url": "",
+      "attempt": 1,
+      "timestamp": "2026-11-12T21:11:32.166404+00:00",
+      "final_url": "https://www.ntp.org/",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age-16000000; includeSubDomains; preload;"
+        ]
+      },
+      "body_bytes": 9114,
+      "truncated": false,
+      "body_sha256": "9812869b85080fba2b26749348b535e391dfdc861753788aefc52b86262e3c41",
+      "redirect_chain": [
+        {
+          "url": "https://ntp.org/",
+          "status": 302,
+          "location": "https://www.ntp.org/",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age-16000000; includeSubDomains; preload;"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "NTP: Network Time Protocol",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "86",
+      "domain": "ntp.org",
+      "stratum": "1-100",
+      "requested_url": "https://www.ntp.org/donate/",
+      "depth": 1,
+      "parent_url": "https://www.ntp.org/",
+      "attempt": 2,
+      "timestamp": "2026-11-12T21:11:32.699581+00:00",
+      "final_url": "https://www.ntp.org/donate/",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age-16000000; includeSubDomains; preload;"
+        ]
+      },
+      "body_bytes": 6313,
+      "truncated": false,
+      "body_sha256": "161d11abdfcaf7b6fee263b50fb97537c978d5372fbbf2fc57633eb9ec8dd33b",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Donate Today!",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "86",
+      "domain": "ntp.org",
+      "stratum": "1-100",
+      "requested_url": "https://www.ntp.org/documentation/4.2.8-series/",
+      "depth": 1,
+      "parent_url": "https://www.ntp.org/",
+      "attempt": 3,
+      "timestamp": "2026-11-12T21:11:32.901309+00:00",
+      "final_url": "https://www.ntp.org/documentation/4.2.8-series/",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age-16000000; includeSubDomains; preload;"
+        ]
+      },
+      "body_bytes": 14866,
+      "truncated": false,
+      "body_sha256": "75fb820040ea4a2441d150b5d63f861bc114d670ba04f25ba1e9ecd506f82503",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "4.2.8-series",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "86",
+      "domain": "ntp.org",
+      "stratum": "1-100",
+      "requested_url": "https://www.ntp.org/reflib/pictures/",
+      "depth": 2,
+      "parent_url": "https://www.ntp.org/documentation/4.2.8-series/",
+      "attempt": 4,
+      "timestamp": "2026-11-12T21:11:33.579163+00:00",
+      "final_url": "https://www.ntp.org/reflib/pictures/",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age-16000000; includeSubDomains; preload;"
+        ]
+      },
+      "body_bytes": 17738,
+      "truncated": false,
+      "body_sha256": "0dcc5f7b7d1bf513b6f8a67f8de8e5dc5fcca83052a48d8f9d7e72f0bf65d0be",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "About the Pictures",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "86",
+      "domain": "ntp.org",
+      "stratum": "1-100",
+      "requested_url": "https://www.ntp.org/support/securitynotice/",
+      "depth": 1,
+      "parent_url": "https://www.ntp.org/",
+      "attempt": 5,
+      "timestamp": "2026-11-12T21:11:34.279048+00:00",
+      "final_url": "https://www.ntp.org/support/securitynotice/",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age-16000000; includeSubDomains; preload;"
+        ]
+      },
+      "body_bytes": 35994,
+      "truncated": false,
+      "body_sha256": "b791f3f90131a77b16d3e6c19409466f43912295440786d5f1a8ef1674f84c57",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Security",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "86",
+      "domain": "ntp.org",
+      "stratum": "1-100",
+      "requested_url": "https://www.ntp.org/dev/releasetimeline/",
+      "depth": 2,
+      "parent_url": "https://www.ntp.org/support/securitynotice/",
+      "attempt": 6,
+      "timestamp": "2026-11-12T21:11:34.549674+00:00",
+      "final_url": "https://www.ntp.org/dev/releasetimeline/",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age-16000000; includeSubDomains; preload;"
+        ]
+      },
+      "body_bytes": 29051,
+      "truncated": false,
+      "body_sha256": "fcf4eee4f8354abf3867107fd903d323daf7004db076ff4588812205e0d22661",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "NTP Release Timeline",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "86",
+      "domain": "ntp.org",
+      "stratum": "1-100",
+      "requested_url": "https://www.ntp.org/contact/",
+      "depth": 1,
+      "parent_url": "https://www.ntp.org/",
+      "attempt": 7,
+      "timestamp": "2026-11-12T21:11:34.998425+00:00",
+      "final_url": "https://www.ntp.org/contact/",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age-16000000; includeSubDomains; preload;"
+        ]
+      },
+      "body_bytes": 8058,
+      "truncated": false,
+      "body_sha256": "6808169ee1d00f29760d206435ee3008130756ccce34a7b70ee7d1af289a5d04",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "NTP Contact Information",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "86",
+      "domain": "ntp.org",
+      "stratum": "1-100",
+      "requested_url": "https://www.ntp.org/ntpfaq/",
+      "depth": 2,
+      "parent_url": "https://www.ntp.org/contact/",
+      "attempt": 8,
+      "timestamp": "2026-11-12T21:11:35.559167+00:00",
+      "final_url": "https://www.ntp.org/ntpfaq/",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age-16000000; includeSubDomains; preload;"
+        ]
+      },
+      "body_bytes": 50940,
+      "truncated": false,
+      "body_sha256": "92fbd8c0ed3dae2c825ed1ef88aac98b30325cef2d48e5dcb0836cc6d049deda",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "The NTP FAQ and HOWTO",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "86",
+      "domain": "ntp.org",
+      "stratum": "1-100",
+      "requested_url": "https://www.ntp.org/contributorslist/",
+      "depth": 1,
+      "parent_url": "https://www.ntp.org/",
+      "attempt": 9,
+      "timestamp": "2026-11-12T21:11:36.413598+00:00",
+      "final_url": "https://www.ntp.org/contributorslist/",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age-16000000; includeSubDomains; preload;"
+        ]
+      },
+      "body_bytes": 9996,
+      "truncated": false,
+      "body_sha256": "c3edf67b2139cb667b7cd4acf8b696923cdb285f6d0c24e42f839893e4a2a2f8",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Contributors List",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "86",
+      "domain": "ntp.org",
+      "stratum": "1-100",
+      "requested_url": "https://www.ntp.org/bugs/",
+      "depth": 1,
+      "parent_url": "https://www.ntp.org/",
+      "attempt": 10,
+      "timestamp": "2026-11-12T21:11:36.641909+00:00",
+      "final_url": "https://www.ntp.org/bugs/",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age-16000000; includeSubDomains; preload;"
+        ]
+      },
+      "body_bytes": 8804,
+      "truncated": false,
+      "body_sha256": "a7eac6b4aa7231a9f94c737ed89fb8b74d6b19b3ea378af9ff965d8b04509f3d",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Bug Reporting",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "86",
+      "domain": "ntp.org",
+      "stratum": "1-100",
+      "requested_url": "https://www.ntp.org/reflib/maya/",
+      "depth": 3,
+      "parent_url": "https://www.ntp.org/reflib/pictures/",
+      "attempt": 11,
+      "timestamp": "2026-11-12T21:11:37.096500+00:00",
+      "final_url": "https://www.ntp.org/reflib/maya/",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age-16000000; includeSubDomains; preload;"
+        ]
+      },
+      "body_bytes": 25524,
+      "truncated": false,
+      "body_sha256": "704c0cd656e18ebf9c2064865324f84da29186b03018051f47316c702a9bcfce",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "The Classic Maya Calendar and Day Numbering System",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "86",
+      "domain": "ntp.org",
+      "stratum": "1-100",
+      "requested_url": "https://www.ntp.org/dev/",
+      "depth": 3,
+      "parent_url": "https://www.ntp.org/dev/releasetimeline/",
+      "attempt": 12,
+      "timestamp": "2026-11-12T21:11:37.651809+00:00",
+      "final_url": "https://www.ntp.org/dev/",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age-16000000; includeSubDomains; preload;"
+        ]
+      },
+      "body_bytes": 8601,
+      "truncated": false,
+      "body_sha256": "b14649b5f5ce2dcc661a668f2f6beb6ab35011abf22735cdcdd08b6d3f351b57",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Developers",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "86",
+      "domain": "ntp.org",
+      "stratum": "1-100",
+      "requested_url": "https://www.ntp.org/support/securitynotice/4_2_8p18-release-announcement/",
+      "depth": 3,
+      "parent_url": "https://www.ntp.org/dev/releasetimeline/",
+      "attempt": 13,
+      "timestamp": "2026-11-12T21:11:38.102972+00:00",
+      "final_url": "https://www.ntp.org/support/securitynotice/4_2_8p18-release-announcement/",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age-16000000; includeSubDomains; preload;"
+        ]
+      },
+      "body_bytes": 17725,
+      "truncated": false,
+      "body_sha256": "45a4d88c8e25aa751a85bd29d7efb69b191c5ef79fbb930245b3bba29889b9da",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "4.2.8p18 Release Announcement",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "86",
+      "domain": "ntp.org",
+      "stratum": "1-100",
+      "requested_url": "https://www.ntp.org/documentation/",
+      "depth": 2,
+      "parent_url": "https://www.ntp.org/documentation/4.2.8-series/",
+      "attempt": 14,
+      "timestamp": "2026-11-12T21:11:38.670736+00:00",
+      "final_url": "https://www.ntp.org/documentation/",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age-16000000; includeSubDomains; preload;"
+        ]
+      },
+      "body_bytes": 8920,
+      "truncated": false,
+      "body_sha256": "c179b1ce939f09466b9ef671fc4bdef518e8a7e41c6786a3f4b840f95c30ed42",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "NTP Documentation",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "86",
+      "domain": "ntp.org",
+      "stratum": "1-100",
+      "requested_url": "https://www.ntp.org/current-stable/",
+      "depth": 3,
+      "parent_url": "https://www.ntp.org/documentation/",
+      "attempt": 15,
+      "timestamp": "2026-11-12T21:11:39.138638+00:00",
+      "final_url": "https://www.ntp.org/current-stable/",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age-16000000; includeSubDomains; preload;"
+        ]
+      },
+      "body_bytes": 337,
+      "truncated": false,
+      "body_sha256": "7e83c2abde42689a7730058280de5837d0acae341511be98e8658c3320f6f14e",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "https://www.ntp.org/documentation/4.2.8-series/",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "86",
+      "domain": "ntp.org",
+      "stratum": "1-100",
+      "requested_url": "https://www.ntp.org/ntpfaq/ntp-s-time/",
+      "depth": 3,
+      "parent_url": "https://www.ntp.org/ntpfaq/",
+      "attempt": 16,
+      "timestamp": "2026-11-12T21:11:39.648216+00:00",
+      "final_url": "https://www.ntp.org/ntpfaq/ntp-s-time/",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age-16000000; includeSubDomains; preload;"
+        ]
+      },
+      "body_bytes": 10616,
+      "truncated": false,
+      "body_sha256": "aed88666d54cc67a72f7590fbef73624265b129184b436925ed2f28b7954b62e",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "2. Time, what Time?",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "86",
+      "domain": "ntp.org",
+      "stratum": "1-100",
+      "requested_url": "https://www.ntp.org/",
+      "depth": 1,
+      "parent_url": "https://www.ntp.org/",
+      "attempt": 17,
+      "timestamp": "2026-11-12T21:11:40.191714+00:00",
+      "final_url": "https://www.ntp.org/",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age-16000000; includeSubDomains; preload;"
+        ]
+      },
+      "body_bytes": 9114,
+      "truncated": false,
+      "body_sha256": "9812869b85080fba2b26749348b535e391dfdc861753788aefc52b86262e3c41",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "NTP: Network Time Protocol",
+      "duplicate_final": true,
+      "eligible": false
+    },
+    {
+      "rank": "86",
+      "domain": "ntp.org",
+      "stratum": "1-100",
+      "requested_url": "https://www.ntp.org/dev/releasenumberingscheme/",
+      "depth": 4,
+      "parent_url": "https://www.ntp.org/dev/",
+      "attempt": 18,
+      "timestamp": "2026-11-12T21:11:40.741502+00:00",
+      "final_url": "https://www.ntp.org/dev/releasenumberingscheme/",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age-16000000; includeSubDomains; preload;"
+        ]
+      },
+      "body_bytes": 12323,
+      "truncated": false,
+      "body_sha256": "55b843ad3daabca2953551ca270ae83e9e38f1420e8e240cbba22644528cd526",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Release Numbering Scheme",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "86",
+      "domain": "ntp.org",
+      "stratum": "1-100",
+      "requested_url": "https://www.ntp.org/ntpfaq/NTP-s-time/",
+      "depth": 4,
+      "parent_url": "https://www.ntp.org/ntpfaq/ntp-s-time/",
+      "attempt": 19,
+      "timestamp": "2026-11-12T21:11:41.219944+00:00",
+      "final_url": "https://www.ntp.org/ntpfaq/NTP-s-time/",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age-16000000; includeSubDomains; preload;"
+        ]
+      },
+      "body_bytes": 10616,
+      "truncated": false,
+      "body_sha256": "aed88666d54cc67a72f7590fbef73624265b129184b436925ed2f28b7954b62e",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "2. Time, what Time?",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "86",
+      "domain": "ntp.org",
+      "stratum": "1-100",
+      "requested_url": "https://www.ntp.org/documentation/4.2.8-series/sitemap/",
+      "depth": 2,
+      "parent_url": "https://www.ntp.org/documentation/4.2.8-series/",
+      "attempt": 20,
+      "timestamp": "2026-11-12T21:11:41.877077+00:00",
+      "final_url": "https://www.ntp.org/documentation/4.2.8-series/sitemap/",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age-16000000; includeSubDomains; preload;"
+        ]
+      },
+      "body_bytes": 15338,
+      "truncated": false,
+      "body_sha256": "ff3b93657c759cbbc60d8e05952a66761da4b19376404eaac463b8b26992c387",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Site Map",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "86",
+      "domain": "ntp.org",
+      "stratum": "1-100",
+      "requested_url": "https://www.ntp.org/reflib/exec/",
+      "depth": 2,
+      "parent_url": "https://www.ntp.org/documentation/4.2.8-series/",
+      "attempt": 21,
+      "timestamp": "2026-11-12T21:11:42.331806+00:00",
+      "final_url": "https://www.ntp.org/reflib/exec/",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age-16000000; includeSubDomains; preload;"
+        ]
+      },
+      "body_bytes": 38577,
+      "truncated": false,
+      "body_sha256": "75c954effa4b3c31c3a1ebaaa5257e774927b0540ca3fd06226005c4c94337d5",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Executive Summary: Computer Network Time Synchronization",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "86",
+      "domain": "ntp.org",
+      "stratum": "1-100",
+      "requested_url": "https://www.ntp.org/support/securitynotice/4_2_8-series-changelog/",
+      "depth": 3,
+      "parent_url": "https://www.ntp.org/dev/releasetimeline/",
+      "attempt": 22,
+      "timestamp": "2026-11-12T21:11:43.203667+00:00",
+      "final_url": "https://www.ntp.org/support/securitynotice/4_2_8-series-changelog/",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age-16000000; includeSubDomains; preload;"
+        ]
+      },
+      "body_bytes": 251101,
+      "truncated": false,
+      "body_sha256": "1b5458cb13b63696396b181861add50a68025aa2b6258d7c706225906b72faa1",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "4.2.8-series Changelog",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "86",
+      "domain": "ntp.org",
+      "stratum": "1-100",
+      "requested_url": "https://www.ntp.org/dev/softwaredevelopment/",
+      "depth": 4,
+      "parent_url": "https://www.ntp.org/dev/",
+      "attempt": 23,
+      "timestamp": "2026-11-12T21:11:44.339948+00:00",
+      "final_url": "https://www.ntp.org/dev/softwaredevelopment/",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age-16000000; includeSubDomains; preload;"
+        ]
+      },
+      "body_bytes": 10599,
+      "truncated": false,
+      "body_sha256": "33ed2eae5ae2cfc0ea13b1e43723c74d69d16d7a48fba3cbe46e7eee630d9c95",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "NTP Software Development",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "86",
+      "domain": "ntp.org",
+      "stratum": "1-100",
+      "requested_url": "https://www.ntp.org/documentation/4.2.8-series/miscopt/",
+      "depth": 4,
+      "parent_url": "https://www.ntp.org/support/securitynotice/4_2_8-series-changelog/",
+      "attempt": 24,
+      "timestamp": "2026-11-12T21:11:47.674607+00:00",
+      "final_url": "https://www.ntp.org/documentation/4.2.8-series/miscopt/",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age-16000000; includeSubDomains; preload;"
+        ]
+      },
+      "body_bytes": 37363,
+      "truncated": false,
+      "body_sha256": "a3c776792b379d9f5b2aa2f9ac5532272f8239e2d8e608c0186d2bffbaa7afea",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Miscellaneous Commands and Options",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "86",
+      "domain": "ntp.org",
+      "stratum": "1-100",
+      "requested_url": "https://www.ntp.org/support/securitynotice/ntpbug2382/",
+      "depth": 4,
+      "parent_url": "https://www.ntp.org/support/securitynotice/4_2_8-series-changelog/",
+      "attempt": 25,
+      "timestamp": "2026-11-12T21:11:48.124834+00:00",
+      "final_url": "https://www.ntp.org/support/securitynotice/ntpbug2382/",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age-16000000; includeSubDomains; preload;"
+        ]
+      },
+      "body_bytes": 8703,
+      "truncated": false,
+      "body_sha256": "384f0bea87ee05ee9199437a2d655c04b07da2e3d3995916b1cbe328e19746f8",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "NTP BUG 2382: Peer precision < -31 gives division by zero",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "86",
+      "domain": "ntp.org",
+      "stratum": "1-100",
+      "requested_url": "https://www.ntp.org/reflib/ntp/",
+      "depth": 2,
+      "parent_url": "https://www.ntp.org/documentation/4.2.8-series/",
+      "attempt": 26,
+      "timestamp": "2026-11-12T21:11:48.502382+00:00",
+      "final_url": "https://www.ntp.org/reflib/ntp/",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age-16000000; includeSubDomains; preload;"
+        ]
+      },
+      "body_bytes": 28282,
+      "truncated": false,
+      "body_sha256": "04517e23576f71911b17d9138a193c12e506094f0fc21ae3deb423dfab0bc3a7",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Network Time Synchronization Research Project",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "86",
+      "domain": "ntp.org",
+      "stratum": "1-100",
+      "requested_url": "https://www.ntp.org/ntpfaq/ntp-s-sw-clocks/",
+      "depth": 3,
+      "parent_url": "https://www.ntp.org/ntpfaq/",
+      "attempt": 27,
+      "timestamp": "2026-11-12T21:11:49.245965+00:00",
+      "final_url": "https://www.ntp.org/ntpfaq/ntp-s-sw-clocks/",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age-16000000; includeSubDomains; preload;"
+        ]
+      },
+      "body_bytes": 8088,
+      "truncated": false,
+      "body_sha256": "e0191cf901ac70d27bf46aabc3189bf5cdd14a09ee098b962beb539a144c9ced",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "3. How do Computer Clocks work?",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "86",
+      "domain": "ntp.org",
+      "stratum": "1-100",
+      "requested_url": "https://www.ntp.org/documentation/4.2.8-series/accopt/",
+      "depth": 5,
+      "parent_url": "https://www.ntp.org/documentation/4.2.8-series/miscopt/",
+      "attempt": 28,
+      "timestamp": "2026-11-12T21:11:49.548614+00:00",
+      "final_url": "https://www.ntp.org/documentation/4.2.8-series/accopt/",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age-16000000; includeSubDomains; preload;"
+        ]
+      },
+      "body_bytes": 16462,
+      "truncated": false,
+      "body_sha256": "c7b2dff97e703306c51a98428c99ad17bb877940a9e5c2570d501f819595356a",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Access Control Commands and Options",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "86",
+      "domain": "ntp.org",
+      "stratum": "1-100",
+      "requested_url": "https://www.ntp.org/dev/whybitkeeper/",
+      "depth": 4,
+      "parent_url": "https://www.ntp.org/dev/",
+      "attempt": 29,
+      "timestamp": "2026-11-12T21:11:50.325189+00:00",
+      "final_url": "https://www.ntp.org/dev/whybitkeeper/",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age-16000000; includeSubDomains; preload;"
+        ]
+      },
+      "body_bytes": 9036,
+      "truncated": false,
+      "body_sha256": "b79c5955f3e05caa910da0b738869aa075fb262d62af8e81a497c9fee2d7338a",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Why BitKeeper?",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "86",
+      "domain": "ntp.org",
+      "stratum": "1-100",
+      "requested_url": "https://www.ntp.org/support/securitynotice/ntpbug1774/",
+      "depth": 4,
+      "parent_url": "https://www.ntp.org/support/securitynotice/4_2_8-series-changelog/",
+      "attempt": 30,
+      "timestamp": "2026-11-12T21:11:50.698413+00:00",
+      "final_url": "https://www.ntp.org/support/securitynotice/ntpbug1774/",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age-16000000; includeSubDomains; preload;"
+        ]
+      },
+      "body_bytes": 9004,
+      "truncated": false,
+      "body_sha256": "5450481db627b0b2675d3103ba6dc825516056ab51f81556cea8396280f5632a",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "NTP BUG 1774: ntpd segfaults if cryptostats enabled when built without OpenSSL",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "86",
+      "domain": "ntp.org",
+      "stratum": "1-100",
+      "requested_url": "https://www.ntp.org/reflib/",
+      "depth": 1,
+      "parent_url": "https://www.ntp.org/",
+      "attempt": 31,
+      "timestamp": "2026-11-12T21:11:51.257909+00:00",
+      "final_url": "https://www.ntp.org/reflib/",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age-16000000; includeSubDomains; preload;"
+        ]
+      },
+      "body_bytes": 10923,
+      "truncated": false,
+      "body_sha256": "b9e284cfa00a50290845048f55c564ea7bfc4ce0ffabc6c48c1b98e303e9b2ab",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Reference Library",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "86",
+      "domain": "ntp.org",
+      "stratum": "1-100",
+      "requested_url": "https://www.ntp.org/ntpfaq/ntp-s-sw-clocks-tick/",
+      "depth": 3,
+      "parent_url": "https://www.ntp.org/ntpfaq/",
+      "attempt": 32,
+      "timestamp": "2026-11-12T21:11:51.685292+00:00",
+      "final_url": "https://www.ntp.org/ntpfaq/ntp-s-sw-clocks-tick/",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age-16000000; includeSubDomains; preload;"
+        ]
+      },
+      "body_bytes": 8425,
+      "truncated": false,
+      "body_sha256": "95036a855cbfefc323538cfc0c0f06d636ce0a29d5cfd7b4d17a6a3116d1a7b7",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "3.2 Making Time go on",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "86",
+      "domain": "ntp.org",
+      "stratum": "1-100",
+      "requested_url": "https://www.ntp.org/documentation/4.2.8-series/monopt/",
+      "depth": 5,
+      "parent_url": "https://www.ntp.org/documentation/4.2.8-series/miscopt/",
+      "attempt": 33,
+      "timestamp": "2026-11-12T21:11:52.306267+00:00",
+      "final_url": "https://www.ntp.org/documentation/4.2.8-series/monopt/",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age-16000000; includeSubDomains; preload;"
+        ]
+      },
+      "body_bytes": 23720,
+      "truncated": false,
+      "body_sha256": "bf9218af0e8d7e7fb3cfc92f92f5a3cb3765268f71d1b091042cfe3097e12ff4",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Monitoring Options",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "86",
+      "domain": "ntp.org",
+      "stratum": "1-100",
+      "requested_url": "https://www.ntp.org/support/",
+      "depth": 2,
+      "parent_url": "https://www.ntp.org/support/securitynotice/",
+      "attempt": 34,
+      "timestamp": "2026-11-12T21:11:52.782065+00:00",
+      "final_url": "https://www.ntp.org/support/",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age-16000000; includeSubDomains; preload;"
+        ]
+      },
+      "body_bytes": 10468,
+      "truncated": false,
+      "body_sha256": "1813929017a88002b4a0c4502a4dc083652a2105737e2c648c68681a2da1040b",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Support",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "86",
+      "domain": "ntp.org",
+      "stratum": "1-100",
+      "requested_url": "https://www.ntp.org/ntpfaq/NTP-s-sw-clocks/",
+      "depth": 4,
+      "parent_url": "https://www.ntp.org/ntpfaq/ntp-s-sw-clocks/",
+      "attempt": 35,
+      "timestamp": "2026-11-12T21:11:53.291077+00:00",
+      "final_url": "https://www.ntp.org/ntpfaq/NTP-s-sw-clocks/",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age-16000000; includeSubDomains; preload;"
+        ]
+      },
+      "body_bytes": 8088,
+      "truncated": false,
+      "body_sha256": "e0191cf901ac70d27bf46aabc3189bf5cdd14a09ee098b962beb539a144c9ced",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "3. How do Computer Clocks work?",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "86",
+      "domain": "ntp.org",
+      "stratum": "1-100",
+      "requested_url": "https://www.ntp.org/reflib/brief/",
+      "depth": 2,
+      "parent_url": "https://www.ntp.org/reflib/",
+      "attempt": 36,
+      "timestamp": "2026-11-12T21:11:53.741286+00:00",
+      "final_url": "https://www.ntp.org/reflib/brief/",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age-16000000; includeSubDomains; preload;"
+        ]
+      },
+      "body_bytes": 13237,
+      "truncated": false,
+      "body_sha256": "be9e1ffc48981b0d86e321e965b1ae9b1acb41aa631a6419671083638d8e25ea",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Briefs",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "86",
+      "domain": "ntp.org",
+      "stratum": "1-100",
+      "requested_url": "https://www.ntp.org/support/vendorlinks/",
+      "depth": 1,
+      "parent_url": "https://www.ntp.org/",
+      "attempt": 37,
+      "timestamp": "2026-11-12T21:11:54.402624+00:00",
+      "final_url": "https://www.ntp.org/support/vendorlinks/",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age-16000000; includeSubDomains; preload;"
+        ]
+      },
+      "body_bytes": 14595,
+      "truncated": false,
+      "body_sha256": "82ecf09fef3c63449100729951ac4e4c5e12f3183bb8fd1930ca0297aa9f6589",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Vendors of Time Products",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "86",
+      "domain": "ntp.org",
+      "stratum": "1-100",
+      "requested_url": "https://www.ntp.org/reflib/gallery/gallery10/",
+      "depth": 3,
+      "parent_url": "https://www.ntp.org/reflib/pictures/",
+      "attempt": 38,
+      "timestamp": "2026-11-12T21:11:54.731566+00:00",
+      "final_url": "https://www.ntp.org/reflib/gallery/gallery10/",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age-16000000; includeSubDomains; preload;"
+        ]
+      },
+      "body_bytes": 11119,
+      "truncated": false,
+      "body_sha256": "1ce5ba1abe5f1d3fb0d8ca5f833b884b189cebec957c6eaa7a17f5c23c1cb5dd",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "The Fuzzball",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "86",
+      "domain": "ntp.org",
+      "stratum": "1-100",
+      "requested_url": "https://www.ntp.org/ntpfaq/NTP-s-sw-clocks-tick/",
+      "depth": 4,
+      "parent_url": "https://www.ntp.org/ntpfaq/ntp-s-sw-clocks-tick/",
+      "attempt": 39,
+      "timestamp": "2026-11-12T21:11:55.270743+00:00",
+      "final_url": "https://www.ntp.org/ntpfaq/NTP-s-sw-clocks-tick/",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age-16000000; includeSubDomains; preload;"
+        ]
+      },
+      "body_bytes": 8425,
+      "truncated": false,
+      "body_sha256": "95036a855cbfefc323538cfc0c0f06d636ce0a29d5cfd7b4d17a6a3116d1a7b7",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "3.2 Making Time go on",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "86",
+      "domain": "ntp.org",
+      "stratum": "1-100",
+      "requested_url": "https://www.ntp.org/documentation/4.2.8-series/copyright/",
+      "depth": 2,
+      "parent_url": "https://www.ntp.org/documentation/4.2.8-series/",
+      "attempt": 40,
+      "timestamp": "2026-11-12T21:11:55.764048+00:00",
+      "final_url": "https://www.ntp.org/documentation/4.2.8-series/copyright/",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age-16000000; includeSubDomains; preload;"
+        ]
+      },
+      "body_bytes": 16691,
+      "truncated": false,
+      "body_sha256": "b3eec6b67eec072c927f59b8b03ac7ff1418074a93b65c86aa5dbf62f6355a14",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Copyright Notice",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "86",
+      "domain": "ntp.org",
+      "stratum": "1-100",
+      "requested_url": "https://www.ntp.org/reflib/gallery/gallery9/",
+      "depth": 3,
+      "parent_url": "https://www.ntp.org/reflib/pictures/",
+      "attempt": 41,
+      "timestamp": "2026-11-12T21:11:56.338190+00:00",
+      "final_url": "https://www.ntp.org/reflib/gallery/gallery9/",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age-16000000; includeSubDomains; preload;"
+        ]
+      },
+      "body_bytes": 11555,
+      "truncated": false,
+      "body_sha256": "64f829130bb98709ffdd870b7e477761a4742c75a3cb24460134342289ec81c7",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Anatomy of a Hollerith Card",
+      "duplicate_final": false,
+      "eligible": true
+    }
+  ],
+  "robots": [
+    {
+      "url": "https://ntp.org/robots.txt",
+      "timestamp": "2026-11-12T21:11:31.417101+00:00",
+      "status": 200,
+      "decision": "parsed",
+      "final_url": "https://www.ntp.org/robots.txt",
+      "redirect_chain": [
+        {
+          "url": "https://ntp.org/robots.txt",
+          "status": 302,
+          "location": "https://www.ntp.org/robots.txt"
+        }
+      ],
+      "body_sha256": "5a5a4434f108ef034c256b9d3e169e516fb806aa6f6353e53eff9655732fbb79",
+      "body": "\nUser-agent: *\n\n"
+    },
+    {
+      "url": "https://www.ntp.org/robots.txt",
+      "timestamp": "2026-11-12T21:11:32.166359+00:00",
+      "status": 200,
+      "decision": "parsed",
+      "final_url": "https://www.ntp.org/robots.txt",
+      "redirect_chain": [],
+      "body_sha256": "5a5a4434f108ef034c256b9d3e169e516fb806aa6f6353e53eff9655732fbb79",
+      "body": "\nUser-agent: *\n\n"
+    }
+  ],
+  "eligible_pages": 40,
+  "canonical_origin": [
+    "https",
+    "www.ntp.org",
+    443
+  ],
+  "stop_reason": "page_budget",
+  "elapsed_seconds": 25.98
+}

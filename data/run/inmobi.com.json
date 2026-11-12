@@ -1,0 +1,1107 @@
+{
+  "site": {
+    "rank": "532",
+    "domain": "inmobi.com",
+    "stratum": "101-1000"
+  },
+  "rows": [
+    {
+      "rank": "532",
+      "domain": "inmobi.com",
+      "stratum": "101-1000",
+      "requested_url": "https://inmobi.com/",
+      "depth": 0,
+      "parent_url": "",
+      "attempt": 1,
+      "timestamp": "2026-11-12T21:12:14.661951+00:00",
+      "final_url": "https://www.inmobi.com/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 26606,
+      "truncated": false,
+      "body_sha256": "eb88506902c57449eede09589f9aeb981bf09f2dff4414b1648618f814dbb423",
+      "redirect_chain": [
+        {
+          "url": "https://inmobi.com/",
+          "status": 301,
+          "location": "https://www.inmobi.com/",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": []
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Redefining the mobile experience for consumers",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "532",
+      "domain": "inmobi.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.inmobi.com/company/leadership/",
+      "depth": 1,
+      "parent_url": "https://www.inmobi.com/",
+      "attempt": 2,
+      "timestamp": "2026-11-12T21:12:15.780769+00:00",
+      "final_url": "https://www.inmobi.com/company/leadership",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 58719,
+      "truncated": false,
+      "body_sha256": "964fc42c87219787c57b70e9680e58d96c1e7a2d03bac8650f603a215d264149",
+      "redirect_chain": [
+        {
+          "url": "https://www.inmobi.com/company/leadership/",
+          "status": 308,
+          "location": "/company/leadership",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": []
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "InMobi\u2019s Leadership Team and Board | InMobi",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "532",
+      "domain": "inmobi.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.inmobi.com/website-privacy-policy/",
+      "depth": 2,
+      "parent_url": "https://www.inmobi.com/company/leadership",
+      "attempt": 3,
+      "timestamp": "2026-11-12T21:12:16.748270+00:00",
+      "final_url": "https://www.inmobi.com/website-privacy-policy",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 92853,
+      "truncated": false,
+      "body_sha256": "0ebbcd9a5b047d5058e8e5d3d79cec667ab9b0d4057ff96f74c6876b53e391e1",
+      "redirect_chain": [
+        {
+          "url": "https://www.inmobi.com/website-privacy-policy/",
+          "status": 308,
+          "location": "/website-privacy-policy",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": []
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Website Privacy Policy",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "532",
+      "domain": "inmobi.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.inmobi.com/security",
+      "depth": 3,
+      "parent_url": "https://www.inmobi.com/website-privacy-policy",
+      "attempt": 4,
+      "timestamp": "2026-11-12T21:12:17.445400+00:00",
+      "final_url": "https://www.inmobi.com/security",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 93068,
+      "truncated": false,
+      "body_sha256": "5fa030d97a27a6ac13561a633dd598b936b60b215999fe146b68f422b8cab361",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Security",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "532",
+      "domain": "inmobi.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.inmobi.com/trust-center/",
+      "depth": 1,
+      "parent_url": "https://www.inmobi.com/",
+      "attempt": 5,
+      "timestamp": "2026-11-12T21:12:18.345124+00:00",
+      "final_url": "https://www.inmobi.com/trust-center",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 65316,
+      "truncated": false,
+      "body_sha256": "f2ee2e94b225ce69bb0e9f042cece1a951c638357d7f6c69830a6a63b3c2189b",
+      "redirect_chain": [
+        {
+          "url": "https://www.inmobi.com/trust-center/",
+          "status": 308,
+          "location": "/trust-center",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": []
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "InMobi Trust Center | Privacy, Security, Compliance &amp; Transparency",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "532",
+      "domain": "inmobi.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.inmobi.com/website-cookie-policy/",
+      "depth": 2,
+      "parent_url": "https://www.inmobi.com/company/leadership",
+      "attempt": 6,
+      "timestamp": "2026-11-12T21:12:19.424593+00:00",
+      "final_url": "https://www.inmobi.com/website-cookie-policy",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 92880,
+      "truncated": false,
+      "body_sha256": "8c471993fc662e7aeb7bbfcd6395a554f7555ebb776e2927a6edb32229ebefd5",
+      "redirect_chain": [
+        {
+          "url": "https://www.inmobi.com/website-cookie-policy/",
+          "status": 308,
+          "location": "/website-cookie-policy",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": []
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Website Cookie Policy | InMobi",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "532",
+      "domain": "inmobi.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.inmobi.com/page/opt-out/",
+      "depth": 3,
+      "parent_url": "https://www.inmobi.com/website-privacy-policy",
+      "attempt": 7,
+      "timestamp": "2026-11-12T21:12:20.421078+00:00",
+      "final_url": "https://www.inmobi.com/page/opt-out",
+      "status": 308,
+      "content_type": "",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 0,
+      "truncated": false,
+      "body_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "redirect_chain": [
+        {
+          "url": "https://www.inmobi.com/page/opt-out/",
+          "status": 308,
+          "location": "/page/opt-out",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": []
+          }
+        },
+        {
+          "url": "https://www.inmobi.com/page/opt-out",
+          "status": 308,
+          "location": "https://advertising.inmobi.com/page/opt-out",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": []
+          }
+        }
+      ],
+      "error": "redirect_out_of_scope",
+      "html": false,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "532",
+      "domain": "inmobi.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.inmobi.com/fraud-warning-notice",
+      "depth": 2,
+      "parent_url": "https://www.inmobi.com/company/leadership",
+      "attempt": 8,
+      "timestamp": "2026-11-12T21:12:20.711898+00:00",
+      "final_url": "https://www.inmobi.com/fraud-warning-notice",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 62093,
+      "truncated": false,
+      "body_sha256": "f2f671da20deaf5d610848368a54353ee05fe6f8290112292ea58cc2f42c407e",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Fraud Warning Notice | InMobi",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "532",
+      "domain": "inmobi.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.inmobi.com/notice-to-publishers",
+      "depth": 2,
+      "parent_url": "https://www.inmobi.com/company/leadership",
+      "attempt": 9,
+      "timestamp": "2026-11-12T21:12:21.717447+00:00",
+      "final_url": "https://www.inmobi.com/notice-to-publishers",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 84428,
+      "truncated": false,
+      "body_sha256": "9885d4285a5d2c57cd03643f9b85b89c1f40a5732249468fa73a661444905bdf",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "InMobi | Enterprise Mobile Marketing & Advertising Platforms",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "532",
+      "domain": "inmobi.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.inmobi.com/amalgamation-announcement",
+      "depth": 2,
+      "parent_url": "https://www.inmobi.com/company/leadership",
+      "attempt": 10,
+      "timestamp": "2026-11-12T21:12:22.101836+00:00",
+      "final_url": "https://www.inmobi.com/amalgamation-announcement",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 84882,
+      "truncated": false,
+      "body_sha256": "2847c594b306ac3e2b891301b25153bc272112bbd5db86c2eea0a6f28c021c06",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "InMobi | Enterprise Mobile Marketing & Advertising Platforms",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "532",
+      "domain": "inmobi.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.inmobi.com/",
+      "depth": 1,
+      "parent_url": "https://www.inmobi.com/",
+      "attempt": 11,
+      "timestamp": "2026-11-12T21:12:22.624314+00:00",
+      "final_url": "https://www.inmobi.com/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 26606,
+      "truncated": false,
+      "body_sha256": "ac45e9c5710f714e069e8afd46181a6b374ddb8bed2c460cd7afe527d4d37bcd",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Redefining the mobile experience for consumers",
+      "duplicate_final": true,
+      "eligible": false
+    },
+    {
+      "rank": "532",
+      "domain": "inmobi.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.inmobi.com/website-cookie-policy",
+      "depth": 3,
+      "parent_url": "https://www.inmobi.com/fraud-warning-notice",
+      "attempt": 12,
+      "timestamp": "2026-11-12T21:12:22.886165+00:00",
+      "final_url": "https://www.inmobi.com/website-cookie-policy",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 92881,
+      "truncated": false,
+      "body_sha256": "228dbcf166d4011b1f9fdd7e5285bb85a9a3e46a4269445383accb6ca704e3b2",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Website Cookie Policy | InMobi",
+      "duplicate_final": true,
+      "eligible": false
+    },
+    {
+      "rank": "532",
+      "domain": "inmobi.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.inmobi.com/company/culture/",
+      "depth": 1,
+      "parent_url": "https://www.inmobi.com/",
+      "attempt": 13,
+      "timestamp": "2026-11-12T21:12:23.866823+00:00",
+      "final_url": "https://www.inmobi.com/company/culture",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 85430,
+      "truncated": false,
+      "body_sha256": "f2d9ce9b3190e8a95d6e35cbf0454d2c9fd68fad018f1fe1e3dc11abfd34191d",
+      "redirect_chain": [
+        {
+          "url": "https://www.inmobi.com/company/culture/",
+          "status": 308,
+          "location": "/company/culture",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": []
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "InMobi Culture - Builders, Dreamers and Doers at InMobi",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "532",
+      "domain": "inmobi.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.inmobi.com/security/",
+      "depth": 2,
+      "parent_url": "https://www.inmobi.com/company/leadership",
+      "attempt": 14,
+      "timestamp": "2026-11-12T21:12:24.972797+00:00",
+      "final_url": "https://www.inmobi.com/security",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 93068,
+      "truncated": false,
+      "body_sha256": "392c0e52ba8cf57ecce0a2efcb40cc2919d7df1e3436c397ff496dc402a659f9",
+      "redirect_chain": [
+        {
+          "url": "https://www.inmobi.com/security/",
+          "status": 308,
+          "location": "/security",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": []
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Security",
+      "duplicate_final": true,
+      "eligible": false
+    },
+    {
+      "rank": "532",
+      "domain": "inmobi.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.inmobi.com/trust-center",
+      "depth": 2,
+      "parent_url": "https://www.inmobi.com/trust-center",
+      "attempt": 15,
+      "timestamp": "2026-11-12T21:12:25.681362+00:00",
+      "final_url": "https://www.inmobi.com/trust-center",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 65315,
+      "truncated": false,
+      "body_sha256": "27f15c25e9b40caac4683d1a83b77a10e7e9d6ece05740f6d4eb27a4402d4462",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "InMobi Trust Center | Privacy, Security, Compliance &amp; Transparency",
+      "duplicate_final": true,
+      "eligible": false
+    },
+    {
+      "rank": "532",
+      "domain": "inmobi.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.inmobi.com/company/careers/",
+      "depth": 1,
+      "parent_url": "https://www.inmobi.com/",
+      "attempt": 16,
+      "timestamp": "2026-11-12T21:12:26.493960+00:00",
+      "final_url": "https://www.inmobi.com/company/careers",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 80195,
+      "truncated": false,
+      "body_sha256": "19346bb0ce2685a8cbaa6d5936fbb49d96bc9b1b7fc94ec6168393193b37b29d",
+      "redirect_chain": [
+        {
+          "url": "https://www.inmobi.com/company/careers/",
+          "status": 308,
+          "location": "/company/careers",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": []
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Careers at InMobi | Join Our Global Team",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "532",
+      "domain": "inmobi.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.inmobi.com/company/leadership/naveen-tewari",
+      "depth": 2,
+      "parent_url": "https://www.inmobi.com/company/leadership",
+      "attempt": 17,
+      "timestamp": "2026-11-12T21:12:27.231205+00:00",
+      "final_url": "https://www.inmobi.com/company/leadership/naveen-tewari",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 56280,
+      "truncated": false,
+      "body_sha256": "f30c7e2c768e34edd3da4b116d2e0c93d49a97a83ffa9dea91e932ae0ab3cad0",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Naveen Tewari | Founder & Chief Executive Officer | InMobi",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "532",
+      "domain": "inmobi.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.inmobi.com/company/leadership/NaveenTewari",
+      "depth": 3,
+      "parent_url": "https://www.inmobi.com/company/leadership/naveen-tewari",
+      "attempt": 18,
+      "timestamp": "2026-11-12T21:12:28.038178+00:00",
+      "final_url": "https://www.inmobi.com/company/leadership/naveen-tewari",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 56281,
+      "truncated": false,
+      "body_sha256": "0cbd325492e2fef6281a9243e417a5ad3655d443d9e1dd95782810242f4fd434",
+      "redirect_chain": [
+        {
+          "url": "https://www.inmobi.com/company/leadership/NaveenTewari",
+          "status": 308,
+          "location": "/company/leadership/naveen-tewari",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": []
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Naveen Tewari | Founder & Chief Executive Officer | InMobi",
+      "duplicate_final": true,
+      "eligible": false
+    },
+    {
+      "rank": "532",
+      "domain": "inmobi.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.inmobi.com/company/leadership/abhay-singhal",
+      "depth": 2,
+      "parent_url": "https://www.inmobi.com/company/leadership",
+      "attempt": 19,
+      "timestamp": "2026-11-12T21:12:28.858484+00:00",
+      "final_url": "https://www.inmobi.com/company/leadership/abhay-singhal",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 55854,
+      "truncated": false,
+      "body_sha256": "b4a6e2b4bf56d64b1715f15ac76776a0bc27e851f169a0052e1064faebf543e2",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Abhay Singhal | InMobi Leadership Team",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "532",
+      "domain": "inmobi.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.inmobi.com/company/leadership/abhaysinghal",
+      "depth": 3,
+      "parent_url": "https://www.inmobi.com/company/leadership/abhay-singhal",
+      "attempt": 20,
+      "timestamp": "2026-11-12T21:12:29.544327+00:00",
+      "final_url": "https://www.inmobi.com/company/leadership/abhay-singhal",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 55854,
+      "truncated": false,
+      "body_sha256": "a7988b93f16adc8c7a2e291cecfb882d0884bd25120be7cae5f0e7f764c89879",
+      "redirect_chain": [
+        {
+          "url": "https://www.inmobi.com/company/leadership/abhaysinghal",
+          "status": 308,
+          "location": "/company/leadership/abhay-singhal",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": []
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Abhay Singhal | InMobi Leadership Team",
+      "duplicate_final": true,
+      "eligible": false
+    },
+    {
+      "rank": "532",
+      "domain": "inmobi.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.inmobi.com/company/leadership/mohit-saxena",
+      "depth": 2,
+      "parent_url": "https://www.inmobi.com/company/leadership",
+      "attempt": 21,
+      "timestamp": "2026-11-12T21:12:30.159844+00:00",
+      "final_url": "https://www.inmobi.com/company/leadership/mohit-saxena",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 55488,
+      "truncated": false,
+      "body_sha256": "344fa0dd863cbed77192a0068f3f0702a9dfd283dd5d57caafeb8b2f4c66ac3d",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Mohit Saxena | Co-Founder & CTO | InMobi",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "532",
+      "domain": "inmobi.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.inmobi.com/company/leadership/piyush-shah",
+      "depth": 2,
+      "parent_url": "https://www.inmobi.com/company/leadership",
+      "attempt": 22,
+      "timestamp": "2026-11-12T21:12:30.635827+00:00",
+      "final_url": "https://www.inmobi.com/company/leadership/piyush-shah",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 56803,
+      "truncated": false,
+      "body_sha256": "f021bc0446d1dc70fe4ae11ca70ecbaf93c71975209045181466f13a4ae17956",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Piyush Shah | Co-Founder, InMobi & Glance",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "532",
+      "domain": "inmobi.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.inmobi.com/company/leadership/shahbuckler",
+      "depth": 3,
+      "parent_url": "https://www.inmobi.com/company/leadership/piyush-shah",
+      "attempt": 23,
+      "timestamp": "2026-11-12T21:12:31.573263+00:00",
+      "final_url": "https://www.inmobi.com/company/leadership",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 58718,
+      "truncated": false,
+      "body_sha256": "6402a198cac7a6759d015e4e04aa1f6df50c1b36d5c599363db6e4d13eb8bfc9",
+      "redirect_chain": [
+        {
+          "url": "https://www.inmobi.com/company/leadership/shahbuckler",
+          "status": 308,
+          "location": "/company/leadership",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": []
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "InMobi\u2019s Leadership Team and Board | InMobi",
+      "duplicate_final": true,
+      "eligible": false
+    },
+    {
+      "rank": "532",
+      "domain": "inmobi.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.inmobi.com/company/leadership/hema-namburi",
+      "depth": 2,
+      "parent_url": "https://www.inmobi.com/company/leadership",
+      "attempt": 24,
+      "timestamp": "2026-11-12T21:12:32.177162+00:00",
+      "final_url": "https://www.inmobi.com/company/leadership/hema-namburi",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 55901,
+      "truncated": false,
+      "body_sha256": "e516dff51cd079c640ed9526e353a2a569ad422ddee98bbda0f9dfee4ca3e639",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Hema Namburi | InMobi Leadership Team",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "532",
+      "domain": "inmobi.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.inmobi.com/company/leadership/amit-chauhan",
+      "depth": 2,
+      "parent_url": "https://www.inmobi.com/company/leadership",
+      "attempt": 25,
+      "timestamp": "2026-11-12T21:12:32.670304+00:00",
+      "final_url": "https://www.inmobi.com/company/leadership/amit-chauhan",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 55131,
+      "truncated": false,
+      "body_sha256": "c7529f3ae58e09314f461846a4ce3adb05b001259842f91675ff19c659718321",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Amit Chauhan | Chief Legal Officer | InMobi",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "532",
+      "domain": "inmobi.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.inmobi.com/company/leadership/shefali-rai",
+      "depth": 2,
+      "parent_url": "https://www.inmobi.com/company/leadership",
+      "attempt": 26,
+      "timestamp": "2026-11-12T21:12:33.158464+00:00",
+      "final_url": "https://www.inmobi.com/company/leadership/shefali-rai",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 55219,
+      "truncated": false,
+      "body_sha256": "67083314a934de65b11c3de2a62294459fc4f9cddd615bb5b91b2183986fa366",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Shefali Rai | SVP & CHRO | InMobi",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "532",
+      "domain": "inmobi.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.inmobi.com/company/leadership/dr-subi-chaturvedi",
+      "depth": 2,
+      "parent_url": "https://www.inmobi.com/company/leadership",
+      "attempt": 27,
+      "timestamp": "2026-11-12T21:12:33.728511+00:00",
+      "final_url": "https://www.inmobi.com/company/leadership/dr-subi-chaturvedi",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 57766,
+      "truncated": false,
+      "body_sha256": "616b9449b314860d889c0eb6631fd6b028e370da327530d8cb936cf0a744d5e2",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Dr. Subi Chaturvedi | SVP & Chief Corporate Affairs & Public Policy Officer | InMobi",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "532",
+      "domain": "inmobi.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.inmobi.com/company/leadership/kunal-nagpal",
+      "depth": 2,
+      "parent_url": "https://www.inmobi.com/company/leadership",
+      "attempt": 28,
+      "timestamp": "2026-11-12T21:12:34.235488+00:00",
+      "final_url": "https://www.inmobi.com/company/leadership/kunal-nagpal",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 55589,
+      "truncated": false,
+      "body_sha256": "fdde536f7936787cadb7db0d0d8037c1ba4e3e788f25a5a48c6088d877b4c453",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Kunal Nagpal | InMobi Leadership Team",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "532",
+      "domain": "inmobi.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.inmobi.com/company/leadership/mansi-jain",
+      "depth": 2,
+      "parent_url": "https://www.inmobi.com/company/leadership",
+      "attempt": 29,
+      "timestamp": "2026-11-12T21:12:34.727013+00:00",
+      "final_url": "https://www.inmobi.com/company/leadership/mansi-jain",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 56005,
+      "truncated": false,
+      "body_sha256": "f8a1d922ff075b466f2fbc6cec75d33cf45907fc9784eba1427d14875fd2cd7e",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Mansi Jain | Chief Operating Officer | Glance",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "532",
+      "domain": "inmobi.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.inmobi.com/company",
+      "depth": 2,
+      "parent_url": "https://www.inmobi.com/company/leadership",
+      "attempt": 30,
+      "timestamp": "2026-11-12T21:12:35.289126+00:00",
+      "final_url": "https://www.inmobi.com/company",
+      "status": 308,
+      "content_type": "",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 0,
+      "truncated": false,
+      "body_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "redirect_chain": [
+        {
+          "url": "https://www.inmobi.com/company",
+          "status": 308,
+          "location": "https://advertising.inmobi.com/company",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": []
+          }
+        }
+      ],
+      "error": "redirect_out_of_scope",
+      "html": false,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "532",
+      "domain": "inmobi.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.inmobi.com/company/contact/",
+      "depth": 2,
+      "parent_url": "https://www.inmobi.com/company/leadership",
+      "attempt": 31,
+      "timestamp": "2026-11-12T21:12:36.259818+00:00",
+      "final_url": "https://www.inmobi.com/company/contact",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 53512,
+      "truncated": false,
+      "body_sha256": "7d32922c87a7eac7ce2ffa922affec7c2cdaed5b1dd9b0f2341e1c35756d8ec4",
+      "redirect_chain": [
+        {
+          "url": "https://www.inmobi.com/company/contact/",
+          "status": 308,
+          "location": "/company/contact",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": []
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Contact InMobi | Connect With Our Global Team",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "532",
+      "domain": "inmobi.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.inmobi.com/company/careers",
+      "depth": 2,
+      "parent_url": "https://www.inmobi.com/company/careers",
+      "attempt": 32,
+      "timestamp": "2026-11-12T21:12:36.832265+00:00",
+      "final_url": "https://www.inmobi.com/company/careers",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 80195,
+      "truncated": false,
+      "body_sha256": "c22bad3a7b5caa587e4a61cd286bbf6a88536b84d0f3e5ff4ac4e9baae12223a",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Careers at InMobi | Join Our Global Team",
+      "duplicate_final": true,
+      "eligible": false
+    }
+  ],
+  "robots": [
+    {
+      "url": "https://inmobi.com/robots.txt",
+      "timestamp": "2026-11-12T21:12:14.208480+00:00",
+      "status": 200,
+      "decision": "parsed",
+      "final_url": "https://www.inmobi.com/robots.txt",
+      "redirect_chain": [
+        {
+          "url": "https://inmobi.com/robots.txt",
+          "status": 301,
+          "location": "https://www.inmobi.com/robots.txt"
+        }
+      ],
+      "body_sha256": "cb5c17b8a79312998e06fb5f135be7e75528b730f42e3fc8a27962852eff6ad9",
+      "body": "User-agent: *\nDisallow: \nHost: https://www.inmobi.com\nSitemap: https://www.inmobi.com/sitemap.xml\n"
+    },
+    {
+      "url": "https://www.inmobi.com/robots.txt",
+      "timestamp": "2026-11-12T21:12:14.661851+00:00",
+      "status": 200,
+      "decision": "parsed",
+      "final_url": "https://www.inmobi.com/robots.txt",
+      "redirect_chain": [],
+      "body_sha256": "cb5c17b8a79312998e06fb5f135be7e75528b730f42e3fc8a27962852eff6ad9",
+      "body": "User-agent: *\nDisallow: \nHost: https://www.inmobi.com\nSitemap: https://www.inmobi.com/sitemap.xml\n"
+    }
+  ],
+  "eligible_pages": 22,
+  "canonical_origin": [
+    "https",
+    "www.inmobi.com",
+    443
+  ],
+  "stop_reason": "frontier_exhausted",
+  "elapsed_seconds": 23.73
+}

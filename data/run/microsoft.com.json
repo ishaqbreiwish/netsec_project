@@ -1,0 +1,2140 @@
+{
+  "site": {
+    "rank": "11",
+    "domain": "microsoft.com",
+    "stratum": "1-100"
+  },
+  "rows": [
+    {
+      "rank": "11",
+      "domain": "microsoft.com",
+      "stratum": "1-100",
+      "requested_url": "https://microsoft.com/",
+      "depth": 0,
+      "parent_url": "",
+      "attempt": 1,
+      "timestamp": "2026-11-12T21:11:29.717716+00:00",
+      "final_url": "https://www.microsoft.com/",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 201253,
+      "truncated": false,
+      "body_sha256": "5965b2c5472aaca1cd66ea5b0d07a971b961fee72fc27eb1f6c760042084b21b",
+      "redirect_chain": [
+        {
+          "url": "https://microsoft.com/",
+          "status": 301,
+          "location": "https://www.microsoft.com/",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Your request has been blocked. This could be\r\n                        due to several reasons.",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "11",
+      "domain": "microsoft.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.microsoft.com/microsoft-365",
+      "depth": 1,
+      "parent_url": "https://www.microsoft.com/",
+      "attempt": 2,
+      "timestamp": "2026-11-12T21:11:33.740713+00:00",
+      "final_url": "https://www.microsoft.com/en-us/microsoft-365",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 201253,
+      "truncated": false,
+      "body_sha256": "5965b2c5472aaca1cd66ea5b0d07a971b961fee72fc27eb1f6c760042084b21b",
+      "redirect_chain": [
+        {
+          "url": "https://www.microsoft.com/microsoft-365",
+          "status": 302,
+          "location": "https://www.microsoft.com/en-us/microsoft-365",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000; includeSubDomains"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Your request has been blocked. This could be\r\n                        due to several reasons.",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "11",
+      "domain": "microsoft.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.microsoft.com/en-us/microsoft-teams/group-chat-software",
+      "depth": 1,
+      "parent_url": "https://www.microsoft.com/",
+      "attempt": 3,
+      "timestamp": "2026-11-12T21:11:33.896031+00:00",
+      "final_url": "https://www.microsoft.com/en-us/microsoft-teams/group-chat-software",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 201253,
+      "truncated": false,
+      "body_sha256": "5965b2c5472aaca1cd66ea5b0d07a971b961fee72fc27eb1f6c760042084b21b",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Your request has been blocked. This could be\r\n                        due to several reasons.",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "11",
+      "domain": "microsoft.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.microsoft.com/edge",
+      "depth": 1,
+      "parent_url": "https://www.microsoft.com/",
+      "attempt": 4,
+      "timestamp": "2026-11-12T21:11:34.430404+00:00",
+      "final_url": "https://www.microsoft.com/edge",
+      "status": 302,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains"
+        ]
+      },
+      "body_bytes": 0,
+      "truncated": false,
+      "body_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "redirect_chain": [
+        {
+          "url": "https://www.microsoft.com/edge",
+          "status": 302,
+          "location": "https://explore.microsoft.com/edge/",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000; includeSubDomains"
+            ]
+          }
+        }
+      ],
+      "error": "redirect_out_of_scope",
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "11",
+      "domain": "microsoft.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.microsoft.com/licensing/default",
+      "depth": 1,
+      "parent_url": "https://www.microsoft.com/",
+      "attempt": 5,
+      "timestamp": "2026-11-12T21:11:40.320846+00:00",
+      "final_url": "https://www.microsoft.com/en-us/licensing",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains"
+        ]
+      },
+      "body_bytes": 308827,
+      "truncated": false,
+      "body_sha256": "1351e1af969dfbd5b377a6398592625344363cd41ebd670100d25fa285472f46",
+      "redirect_chain": [
+        {
+          "url": "https://www.microsoft.com/licensing/default",
+          "status": 302,
+          "location": "https://www.microsoft.com/en-us/licensing/default",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000; includeSubDomains"
+            ]
+          }
+        },
+        {
+          "url": "https://www.microsoft.com/en-us/licensing/default",
+          "status": 301,
+          "location": "https://www.microsoft.com/en-us/licensing",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000; includeSubDomains"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Home | Microsoft Licensing ResourcesYour Privacy Choices Opt-Out IconYour Privacy Choices Opt-Out Icon",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "11",
+      "domain": "microsoft.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.microsoft.com/Licensing/product-licensing/azure",
+      "depth": 2,
+      "parent_url": "https://www.microsoft.com/en-us/licensing",
+      "attempt": 6,
+      "timestamp": "2026-11-12T21:11:45.940730+00:00",
+      "final_url": "https://www.microsoft.com/en-us/Licensing/product-licensing/azure",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains"
+        ]
+      },
+      "body_bytes": 149364,
+      "truncated": false,
+      "body_sha256": "f885cec791a1ae25b7cdb4f32d4d06274d43c2cb0eafaaf97bf631ea01684f1a",
+      "redirect_chain": [
+        {
+          "url": "https://www.microsoft.com/Licensing/product-licensing/azure",
+          "status": 302,
+          "location": "https://www.microsoft.com/en-us/Licensing/product-licensing/azure",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000; includeSubDomains"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Microsoft Azure | Microsoft Licensing ResourcesYour Privacy Choices Opt-Out IconYour Privacy Choices Opt-Out Icon",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "11",
+      "domain": "microsoft.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.microsoft.com/solution-providers/home",
+      "depth": 2,
+      "parent_url": "https://www.microsoft.com/en-us/licensing",
+      "attempt": 7,
+      "timestamp": "2026-11-12T21:11:50.519248+00:00",
+      "final_url": "https://www.microsoft.com/en-us/solution-providers/home",
+      "status": 302,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains"
+        ]
+      },
+      "body_bytes": 0,
+      "truncated": false,
+      "body_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "redirect_chain": [
+        {
+          "url": "https://www.microsoft.com/solution-providers/home",
+          "status": 301,
+          "location": "https://www.microsoft.com/en-us/solution-providers/home",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000; includeSubDomains"
+            ]
+          }
+        },
+        {
+          "url": "https://www.microsoft.com/en-us/solution-providers/home",
+          "status": 302,
+          "location": "https://marketplace.microsoft.com/en-us/marketplace/partner-dir",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000; includeSubDomains"
+            ]
+          }
+        }
+      ],
+      "error": "redirect_out_of_scope",
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "11",
+      "domain": "microsoft.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.microsoft.com/education/students",
+      "depth": 2,
+      "parent_url": "https://www.microsoft.com/en-us/licensing",
+      "attempt": 8,
+      "timestamp": "2026-11-12T21:11:54.902094+00:00",
+      "final_url": "https://www.microsoft.com/en-us/education/students",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains"
+        ]
+      },
+      "body_bytes": 158165,
+      "truncated": false,
+      "body_sha256": "4c290ba87962d68bc20920883929e487f335399e208e283b7ccd27195775d22c",
+      "redirect_chain": [
+        {
+          "url": "https://www.microsoft.com/education/students",
+          "status": 302,
+          "location": "https://www.microsoft.com/en-us/education/students",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000; includeSubDomains"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Free Technology & Software for Students (Microsoft Office, Microsoft 365, Word, Excel) | Microsoft Education\u202fYour Privacy Choices Opt-Out IconYour Privacy Choices Opt-Out Icon",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "11",
+      "domain": "microsoft.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.microsoft.com/surface/devices/surface-pro",
+      "depth": 2,
+      "parent_url": "https://www.microsoft.com/en-us/licensing",
+      "attempt": 9,
+      "timestamp": "2026-11-12T21:11:57.471780+00:00",
+      "final_url": "https://www.microsoft.com/en-us/surface/devices/surface-pro",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains"
+        ]
+      },
+      "body_bytes": 1266297,
+      "truncated": false,
+      "body_sha256": "8faebc3e6a5608fb1d1c68beabf2f11673de10458a58506c52c32fe0eb9b0541",
+      "redirect_chain": [
+        {
+          "url": "https://www.microsoft.com/surface/devices/surface-pro",
+          "status": 301,
+          "location": "https://www.microsoft.com/en-us/surface/devices/surface-pro",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000; includeSubDomains"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Surface Pro 12th Edition (12\", 13\") 2-in-1 laptop tablet | Microsoft SurfaceYour Privacy Choices Opt-Out IconYour Privacy Choices Opt-Out Icon",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "11",
+      "domain": "microsoft.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.microsoft.com/store/b/surface-repair-parts",
+      "depth": 3,
+      "parent_url": "https://www.microsoft.com/en-us/surface/devices/surface-pro",
+      "attempt": 10,
+      "timestamp": "2026-11-12T21:11:59.230390+00:00",
+      "final_url": "https://www.microsoft.com/en-us/store/b/surface-repair-parts",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains"
+        ]
+      },
+      "body_bytes": 348014,
+      "truncated": false,
+      "body_sha256": "150d8d5a329207fa1976857389f8444d9946df8768bec7b6245b1e1b4d455a58",
+      "redirect_chain": [
+        {
+          "url": "https://www.microsoft.com/store/b/surface-repair-parts",
+          "status": 302,
+          "location": "https://www.microsoft.com/en-us/store/b/surface-repair-parts",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000; includeSubDomains"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Microsoft Surface Repair & Replacement Parts - Microsoft StoreYour Privacy Choices Opt-Out IconYour Privacy Choices Opt-Out Icon",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "11",
+      "domain": "microsoft.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.microsoft.com/net/",
+      "depth": 1,
+      "parent_url": "https://www.microsoft.com/",
+      "attempt": 11,
+      "timestamp": "2026-11-12T21:12:09.276086+00:00",
+      "final_url": "https://www.microsoft.com/net/",
+      "status": 301,
+      "content_type": "",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains"
+        ]
+      },
+      "body_bytes": 0,
+      "truncated": false,
+      "body_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "redirect_chain": [
+        {
+          "url": "https://www.microsoft.com/net/",
+          "status": 301,
+          "location": "https://dotnet.microsoft.com/",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000; includeSubDomains"
+            ]
+          }
+        }
+      ],
+      "error": "redirect_out_of_scope",
+      "html": false,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "11",
+      "domain": "microsoft.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.microsoft.com/about",
+      "depth": 2,
+      "parent_url": "https://www.microsoft.com/en-us/licensing",
+      "attempt": 12,
+      "timestamp": "2026-11-12T21:12:13.743598+00:00",
+      "final_url": "https://www.microsoft.com/en-us/about",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains"
+        ]
+      },
+      "body_bytes": 215331,
+      "truncated": false,
+      "body_sha256": "272f17c834688e3f59c6119575b9ae3109cc317a3244b4b339a3d8a264206b17",
+      "redirect_chain": [
+        {
+          "url": "https://www.microsoft.com/about",
+          "status": 302,
+          "location": "https://www.microsoft.com/en-us/about",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000; includeSubDomains"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Our Mission and Values | About MicrosoftYour Privacy Choices Opt-Out IconYour Privacy Choices Opt-Out Icon",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "11",
+      "domain": "microsoft.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.microsoft.com/ai",
+      "depth": 3,
+      "parent_url": "https://www.microsoft.com/en-us/about",
+      "attempt": 13,
+      "timestamp": "2026-11-12T21:12:17.795068+00:00",
+      "final_url": "https://www.microsoft.com/en-us/ai",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains"
+        ]
+      },
+      "body_bytes": 594040,
+      "truncated": false,
+      "body_sha256": "975748fab6a444607081594c72ce8351f29d82b6c1170dc32077f91240678166",
+      "redirect_chain": [
+        {
+          "url": "https://www.microsoft.com/ai",
+          "status": 302,
+          "location": "https://www.microsoft.com/en-us/ai",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000; includeSubDomains"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Microsoft AI - Business Solutions and ToolsYour Privacy Choices Opt-Out IconYour Privacy Choices Opt-Out Icon",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "11",
+      "domain": "microsoft.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.microsoft.com/en/customers/story/26765-brown-university-health-microsoft-365-copilot",
+      "depth": 4,
+      "parent_url": "https://www.microsoft.com/en-us/ai",
+      "attempt": 14,
+      "timestamp": "2026-11-12T21:12:20.232348+00:00",
+      "final_url": "https://www.microsoft.com/en/customers/story/26765-brown-university-health-microsoft-365-copilot",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains"
+        ]
+      },
+      "body_bytes": 240572,
+      "truncated": false,
+      "body_sha256": "1915ee5e6554c83854cabc76e34f688e42ddee08cd1b028d513702cb60b5b8b9",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Brown Health scales Microsoft Dragon Copilot and AI agents to ease care delivery | Microsoft Customer StoriesYour Privacy Choices Opt-Out IconYour Privacy Choices Opt-Out Icon",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "11",
+      "domain": "microsoft.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.microsoft.com/customers",
+      "depth": 5,
+      "parent_url": "https://www.microsoft.com/en/customers/story/26765-brown-university-health-microsoft-365-copilot",
+      "attempt": 15,
+      "timestamp": "2026-11-12T21:12:24.668167+00:00",
+      "final_url": "https://www.microsoft.com/en-us/customers",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains"
+        ]
+      },
+      "body_bytes": 323212,
+      "truncated": false,
+      "body_sha256": "ffed8236960d12621c450e34485c732de81ae769be73601af847bd566cd98629",
+      "redirect_chain": [
+        {
+          "url": "https://www.microsoft.com/customers",
+          "status": 302,
+          "location": "https://www.microsoft.com/en-us/customers",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000; includeSubDomains"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Customer Success Stories | Microsoft Customer StoriesYour Privacy Choices Opt-Out IconYour Privacy Choices Opt-Out Icon",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "11",
+      "domain": "microsoft.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.microsoft.com/security",
+      "depth": 5,
+      "parent_url": "https://www.microsoft.com/en/customers/story/26765-brown-university-health-microsoft-365-copilot",
+      "attempt": 16,
+      "timestamp": "2026-11-12T21:12:30.366161+00:00",
+      "final_url": "https://www.microsoft.com/en-us/security",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains"
+        ]
+      },
+      "body_bytes": 313936,
+      "truncated": false,
+      "body_sha256": "11536e83eaa64c05d6e7d949f8f198a3bf486fe9d0d873aa75ef9c57b67a053e",
+      "redirect_chain": [
+        {
+          "url": "https://www.microsoft.com/security",
+          "status": 302,
+          "location": "https://www.microsoft.com/en-us/security",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000; includeSubDomains"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Cloud Security Solutions | Microsoft SecurityYour Privacy Choices Opt-Out IconYour Privacy Choices Opt-Out Icon",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "11",
+      "domain": "microsoft.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.microsoft.com/microsoft-cloud",
+      "depth": 3,
+      "parent_url": "https://www.microsoft.com/en-us/about",
+      "attempt": 17,
+      "timestamp": "2026-11-12T21:12:39.294543+00:00",
+      "final_url": "https://www.microsoft.com/en-us/ai",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains"
+        ]
+      },
+      "body_bytes": 594040,
+      "truncated": false,
+      "body_sha256": "664cab21cd61a48d1c9e1d2a7b47c1f73d459dd77a0a1d8e3b5b535cf2dbb3e3",
+      "redirect_chain": [
+        {
+          "url": "https://www.microsoft.com/microsoft-cloud",
+          "status": 302,
+          "location": "https://www.microsoft.com/en-us/microsoft-cloud",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000; includeSubDomains"
+            ]
+          }
+        },
+        {
+          "url": "https://www.microsoft.com/en-us/microsoft-cloud",
+          "status": 301,
+          "location": "https://www.microsoft.com/en-us/ai",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000; includeSubDomains"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Microsoft AI - Business Solutions and ToolsYour Privacy Choices Opt-Out IconYour Privacy Choices Opt-Out Icon",
+      "duplicate_final": true,
+      "eligible": false
+    },
+    {
+      "rank": "11",
+      "domain": "microsoft.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.microsoft.com/microsoft-teams/group-chat-software",
+      "depth": 5,
+      "parent_url": "https://www.microsoft.com/en/customers/story/26765-brown-university-health-microsoft-365-copilot",
+      "attempt": 18,
+      "timestamp": "2026-11-12T21:12:43.787867+00:00",
+      "final_url": "https://www.microsoft.com/en-us/microsoft-teams/group-chat-software",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 201253,
+      "truncated": false,
+      "body_sha256": "5965b2c5472aaca1cd66ea5b0d07a971b961fee72fc27eb1f6c760042084b21b",
+      "redirect_chain": [
+        {
+          "url": "https://www.microsoft.com/microsoft-teams/group-chat-software",
+          "status": 302,
+          "location": "https://www.microsoft.com/en-us/microsoft-teams/group-chat-software",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000; includeSubDomains"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Your request has been blocked. This could be\r\n                        due to several reasons.",
+      "duplicate_final": true,
+      "eligible": false
+    },
+    {
+      "rank": "11",
+      "domain": "microsoft.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.microsoft.com/microsoft-products-and-apps",
+      "depth": 3,
+      "parent_url": "https://www.microsoft.com/en-us/about",
+      "attempt": 19,
+      "timestamp": "2026-11-12T21:12:48.754389+00:00",
+      "final_url": "https://www.microsoft.com/en-us/microsoft-products-and-apps/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains"
+        ]
+      },
+      "body_bytes": 365154,
+      "truncated": false,
+      "body_sha256": "2a4a2715bd350c125cb9027006f596750821fc8c72c086c7828531a77a18fdc3",
+      "redirect_chain": [
+        {
+          "url": "https://www.microsoft.com/microsoft-products-and-apps",
+          "status": 301,
+          "location": "https://www.microsoft.com/en-us/redir/microsoft-products-and-apps/",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000; includeSubDomains"
+            ]
+          }
+        },
+        {
+          "url": "https://www.microsoft.com/en-us/redir/microsoft-products-and-apps/",
+          "status": 301,
+          "location": "https://www.microsoft.com/en-us/microsoft-products-and-apps/",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000; includeSubDomains"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Explore Microsoft apps, products, and devices \u2013 AI apps, cloud security, and more | Microsoft Your Privacy Choices Opt-Out IconYour Privacy Choices Opt-Out Icon",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "11",
+      "domain": "microsoft.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.microsoft.com/windows",
+      "depth": 4,
+      "parent_url": "https://www.microsoft.com/en-us/microsoft-products-and-apps/",
+      "attempt": 20,
+      "timestamp": "2026-11-12T21:12:51.342459+00:00",
+      "final_url": "https://www.microsoft.com/en-us/windows/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains"
+        ]
+      },
+      "body_bytes": 724085,
+      "truncated": false,
+      "body_sha256": "78c5e23b875d5e59f637be8021af1cfe67484664fcf9f693d375a6692c5df246",
+      "redirect_chain": [
+        {
+          "url": "https://www.microsoft.com/windows",
+          "status": 301,
+          "location": "https://www.microsoft.com/en-us/windows/",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000; includeSubDomains"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Experience the Windows difference with Windows 11 OS, Laptops, PCs & Apps | Microsoft WindowsYour Privacy Choices Opt-Out IconYour Privacy Choices Opt-Out Icon",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "11",
+      "domain": "microsoft.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.microsoft.com/d/surface-laptop-go-3/8p0wwgj6c6l2",
+      "depth": 4,
+      "parent_url": "https://www.microsoft.com/en-us/microsoft-products-and-apps/",
+      "attempt": 21,
+      "timestamp": "2026-11-12T21:12:55.086758+00:00",
+      "error": "timeout: The read operation timed out",
+      "eligible": false
+    },
+    {
+      "rank": "11",
+      "domain": "microsoft.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.microsoft.com/microsoft-365-copilot/pricing/individuals",
+      "depth": 4,
+      "parent_url": "https://www.microsoft.com/en-us/microsoft-products-and-apps/",
+      "attempt": 22,
+      "timestamp": "2026-11-12T21:13:20.844069+00:00",
+      "final_url": "https://www.microsoft.com/en-us/copilot/pricing/individuals",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains"
+        ]
+      },
+      "body_bytes": 496551,
+      "truncated": false,
+      "body_sha256": "5fe192fe752aa21bac984e0c15423c8c67ceb0e8172353f6c494bcdaf902ecb8",
+      "redirect_chain": [
+        {
+          "url": "https://www.microsoft.com/microsoft-365-copilot/pricing/individuals",
+          "status": 302,
+          "location": "https://www.microsoft.com/en-us/microsoft-365-copilot/pricing/individuals",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000; includeSubDomains"
+            ]
+          }
+        },
+        {
+          "url": "https://www.microsoft.com/en-us/microsoft-365-copilot/pricing/individuals",
+          "status": 301,
+          "location": "https://www.microsoft.com/en-us/copilot/pricing/individuals",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000; includeSubDomains"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Copilot Pricing Plans for Individuals | Microsoft CopilotYour Privacy Choices Opt-Out IconYour Privacy Choices Opt-Out Icon",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "11",
+      "domain": "microsoft.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.microsoft.com/mixed-reality/windows-mixed-reality",
+      "depth": 5,
+      "parent_url": "https://www.microsoft.com/en/customers/story/26765-brown-university-health-microsoft-365-copilot",
+      "attempt": 23,
+      "timestamp": "2026-11-12T21:13:23.419244+00:00",
+      "final_url": "https://www.microsoft.com/mixed-reality/windows-mixed-reality",
+      "status": 301,
+      "content_type": "",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains"
+        ]
+      },
+      "body_bytes": 0,
+      "truncated": false,
+      "body_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "redirect_chain": [
+        {
+          "url": "https://www.microsoft.com/mixed-reality/windows-mixed-reality",
+          "status": 301,
+          "location": "https://learn.microsoft.com/windows/mixed-reality/enthusiast-guide",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000; includeSubDomains"
+            ]
+          }
+        }
+      ],
+      "error": "redirect_out_of_scope",
+      "html": false,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "11",
+      "domain": "microsoft.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.microsoft.com/investor",
+      "depth": 3,
+      "parent_url": "https://www.microsoft.com/en-us/about",
+      "attempt": 24,
+      "timestamp": "2026-11-12T21:13:25.159516+00:00",
+      "final_url": "https://www.microsoft.com/en-us/investor/default",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains"
+        ]
+      },
+      "body_bytes": 312235,
+      "truncated": false,
+      "body_sha256": "68409575d5975f75ff9e0ce16725d9be97dc77e2ba0a4d57c5eaa21b0de4a1da",
+      "redirect_chain": [
+        {
+          "url": "https://www.microsoft.com/investor",
+          "status": 301,
+          "location": "https://www.microsoft.com/en-us/investor",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000; includeSubDomains"
+            ]
+          }
+        },
+        {
+          "url": "https://www.microsoft.com/en-us/investor",
+          "status": 301,
+          "location": "https://www.microsoft.com/en-us/investor/default",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000; includeSubDomains"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Home pageYour Privacy Choices Opt-Out IconYour Privacy Choices Opt-Out Icon",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "11",
+      "domain": "microsoft.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.microsoft.com/accessibility/",
+      "depth": 4,
+      "parent_url": "https://www.microsoft.com/en-us/microsoft-products-and-apps/",
+      "attempt": 25,
+      "timestamp": "2026-11-12T21:13:28.205028+00:00",
+      "final_url": "https://www.microsoft.com/en-us/accessibility",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains"
+        ]
+      },
+      "body_bytes": 215753,
+      "truncated": false,
+      "body_sha256": "7de9da8c133ec796957b14985699cf4ffd9ad4ca8636a3336e9f1fdc0a915fdd",
+      "redirect_chain": [
+        {
+          "url": "https://www.microsoft.com/accessibility/",
+          "status": 302,
+          "location": "https://www.microsoft.com/en-us/accessibility",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000; includeSubDomains"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Accessibility Technology & Tools | Microsoft AccessibilityYour Privacy Choices Opt-Out IconYour Privacy Choices Opt-Out Icon",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "11",
+      "domain": "microsoft.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.microsoft.com/hololens",
+      "depth": 5,
+      "parent_url": "https://www.microsoft.com/en/customers/story/26765-brown-university-health-microsoft-365-copilot",
+      "attempt": 26,
+      "timestamp": "2026-11-12T21:13:30.411177+00:00",
+      "final_url": "https://www.microsoft.com/hololens",
+      "status": 301,
+      "content_type": "",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains"
+        ]
+      },
+      "body_bytes": 0,
+      "truncated": false,
+      "body_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "redirect_chain": [
+        {
+          "url": "https://www.microsoft.com/hololens",
+          "status": 301,
+          "location": "https://learn.microsoft.com/hololens/",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000; includeSubDomains"
+            ]
+          }
+        }
+      ],
+      "error": "redirect_out_of_scope",
+      "html": false,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "11",
+      "domain": "microsoft.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.microsoft.com/cloud-platform/windows-server",
+      "depth": 1,
+      "parent_url": "https://www.microsoft.com/",
+      "attempt": 27,
+      "timestamp": "2026-11-12T21:13:36.005880+00:00",
+      "final_url": "https://www.microsoft.com/en-us/windows-server",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains"
+        ]
+      },
+      "body_bytes": 212862,
+      "truncated": false,
+      "body_sha256": "f83c92cbda0351af16608079336614619483255b537a405c8b42e00d372b57b5",
+      "redirect_chain": [
+        {
+          "url": "https://www.microsoft.com/cloud-platform/windows-server",
+          "status": 301,
+          "location": "https://www.microsoft.com/en-us/cloud-platform/windows-server",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000; includeSubDomains"
+            ]
+          }
+        },
+        {
+          "url": "https://www.microsoft.com/en-us/cloud-platform/windows-server",
+          "status": 301,
+          "location": "https://www.microsoft.com/en-us/windows-server",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000; includeSubDomains"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Windows Server Operating System | MicrosoftYour Privacy Choices Opt-Out IconYour Privacy Choices Opt-Out Icon",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "11",
+      "domain": "microsoft.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.microsoft.com/microsoft-loop",
+      "depth": 4,
+      "parent_url": "https://www.microsoft.com/en-us/microsoft-products-and-apps/",
+      "attempt": 28,
+      "timestamp": "2026-11-12T21:13:40.626519+00:00",
+      "final_url": "https://www.microsoft.com/en-us/microsoft-loop",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains"
+        ]
+      },
+      "body_bytes": 180308,
+      "truncated": false,
+      "body_sha256": "a9f2f410790cfcced8d445cfa9994c1439b56cfa09e739769e9f4ba1aa0b6911",
+      "redirect_chain": [
+        {
+          "url": "https://www.microsoft.com/microsoft-loop",
+          "status": 302,
+          "location": "https://www.microsoft.com/en-us/microsoft-loop",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000; includeSubDomains"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Microsoft Loop: Collaborative App | Microsoft 365Your Privacy Choices Opt-Out IconYour Privacy Choices Opt-Out Icon",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "11",
+      "domain": "microsoft.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.microsoft.com/microsoft-viva",
+      "depth": 5,
+      "parent_url": "https://www.microsoft.com/en/customers/story/26765-brown-university-health-microsoft-365-copilot",
+      "attempt": 29,
+      "timestamp": "2026-11-12T21:13:44.357267+00:00",
+      "final_url": "https://www.microsoft.com/en-us/microsoft-viva",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains"
+        ]
+      },
+      "body_bytes": 215098,
+      "truncated": false,
+      "body_sha256": "8ba969d3e889242a9e7a3a5769eca681c2f3e4893e26c8c7693c35568e75ebd6",
+      "redirect_chain": [
+        {
+          "url": "https://www.microsoft.com/microsoft-viva",
+          "status": 302,
+          "location": "https://www.microsoft.com/en-us/microsoft-viva",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000; includeSubDomains"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Employee Experience and Engagement | Microsoft VivaYour Privacy Choices Opt-Out IconYour Privacy Choices Opt-Out Icon",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "11",
+      "domain": "microsoft.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.microsoft.com/rewards",
+      "depth": 1,
+      "parent_url": "https://www.microsoft.com/",
+      "attempt": 30,
+      "timestamp": "2026-11-12T21:13:45.614681+00:00",
+      "final_url": "https://www.microsoft.com/rewards",
+      "status": 301,
+      "content_type": "",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains"
+        ]
+      },
+      "body_bytes": 0,
+      "truncated": false,
+      "body_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "redirect_chain": [
+        {
+          "url": "https://www.microsoft.com/rewards",
+          "status": 301,
+          "location": "https://rewards.bing.com/about",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000; includeSubDomains"
+            ]
+          }
+        }
+      ],
+      "error": "redirect_out_of_scope",
+      "html": false,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "11",
+      "domain": "microsoft.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.microsoft.com/swiftkey",
+      "depth": 4,
+      "parent_url": "https://www.microsoft.com/en-us/microsoft-products-and-apps/",
+      "attempt": 31,
+      "timestamp": "2026-11-12T21:13:50.770578+00:00",
+      "final_url": "https://www.microsoft.com/en-us/swiftkey",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains"
+        ]
+      },
+      "body_bytes": 185632,
+      "truncated": false,
+      "body_sha256": "afde39650a8bd11f31664de27fefb7b1b23209dc67b8c0d560dc9db7e9f69078",
+      "redirect_chain": [
+        {
+          "url": "https://www.microsoft.com/swiftkey",
+          "status": 302,
+          "location": "https://www.microsoft.com/en-us/swiftkey",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000; includeSubDomains"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Microsoft SwiftKeyYour Privacy Choices Opt-Out IconYour Privacy Choices Opt-Out Icon",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "11",
+      "domain": "microsoft.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.microsoft.com/industry/automotive",
+      "depth": 5,
+      "parent_url": "https://www.microsoft.com/en/customers/story/26765-brown-university-health-microsoft-365-copilot",
+      "attempt": 32,
+      "timestamp": "2026-11-12T21:13:59.505079+00:00",
+      "final_url": "https://www.microsoft.com/en-us/ai/mobility/automotive",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains"
+        ]
+      },
+      "body_bytes": 256090,
+      "truncated": false,
+      "body_sha256": "e55d4847632ba26a4288f4151c05bd5622483040c3d8c6b5e4940b1787e29ee4",
+      "redirect_chain": [
+        {
+          "url": "https://www.microsoft.com/industry/automotive",
+          "status": 302,
+          "location": "https://www.microsoft.com/en-us/industry/automotive",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000; includeSubDomains"
+            ]
+          }
+        },
+        {
+          "url": "https://www.microsoft.com/en-us/industry/automotive",
+          "status": 301,
+          "location": "https://www.microsoft.com/en-us/industry/mobility/automotive",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000; includeSubDomains"
+            ]
+          }
+        },
+        {
+          "url": "https://www.microsoft.com/en-us/industry/mobility/automotive",
+          "status": 301,
+          "location": "https://www.microsoft.com/en-us/ai/mobility/automotive",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000; includeSubDomains"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Automotive, mobility, and transportation solutions | Microsoft AIYour Privacy Choices Opt-Out IconYour Privacy Choices Opt-Out Icon",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "11",
+      "domain": "microsoft.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.microsoft.com/trademarks",
+      "depth": 1,
+      "parent_url": "https://www.microsoft.com/",
+      "attempt": 33,
+      "timestamp": "2026-11-12T21:14:04.281270+00:00",
+      "final_url": "https://www.microsoft.com/en-us/legal/intellectualproperty/trademarks",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains"
+        ]
+      },
+      "body_bytes": 228460,
+      "truncated": false,
+      "body_sha256": "c6bae2cbb1810a8d7283d32dfeb0d5dbf03528071528d6de3817ba3bf4c434ac",
+      "redirect_chain": [
+        {
+          "url": "https://www.microsoft.com/trademarks",
+          "status": 301,
+          "location": "https://www.microsoft.com/en-us/legal/intellectualproperty/trademarks",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000; includeSubDomains"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Trademark and Brand Guidelines | Microsoft LegalYour Privacy Choices Opt-Out IconYour Privacy Choices Opt-Out Icon",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "11",
+      "domain": "microsoft.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.microsoft.com/legal/intellectualproperty",
+      "depth": 2,
+      "parent_url": "https://www.microsoft.com/en-us/legal/intellectualproperty/trademarks",
+      "attempt": 34,
+      "timestamp": "2026-11-12T21:14:08.623838+00:00",
+      "final_url": "https://www.microsoft.com/en-us/legal/intellectualproperty",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains"
+        ]
+      },
+      "body_bytes": 174452,
+      "truncated": false,
+      "body_sha256": "118817789c31498b4f29a097d0334d899e0baf155a249deae43149769608e36b",
+      "redirect_chain": [
+        {
+          "url": "https://www.microsoft.com/legal/intellectualproperty",
+          "status": 302,
+          "location": "https://www.microsoft.com/en-us/legal/intellectualproperty",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000; includeSubDomains"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Intellectual Property & Open Innovation | Microsoft LegalYour Privacy Choices Opt-Out IconYour Privacy Choices Opt-Out Icon",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "11",
+      "domain": "microsoft.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.microsoft.com/events",
+      "depth": 5,
+      "parent_url": "https://www.microsoft.com/en/customers/story/26765-brown-university-health-microsoft-365-copilot",
+      "attempt": 35,
+      "timestamp": "2026-11-12T21:14:13.897338+00:00",
+      "final_url": "https://www.microsoft.com/en-us/events",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains"
+        ]
+      },
+      "body_bytes": 350056,
+      "truncated": false,
+      "body_sha256": "bb6eaf9ec27c294900a6453d0a1625ea8c2ec249d7ea5c280e55206a7a5c5de8",
+      "redirect_chain": [
+        {
+          "url": "https://www.microsoft.com/events",
+          "status": 302,
+          "location": "https://www.microsoft.com/en-us/events",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000; includeSubDomains"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Microsoft Events, Webinars, and ConferencesYour Privacy Choices Opt-Out IconYour Privacy Choices Opt-Out Icon",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "11",
+      "domain": "microsoft.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.microsoft.com/research/",
+      "depth": 5,
+      "parent_url": "https://www.microsoft.com/en/customers/story/26765-brown-university-health-microsoft-365-copilot",
+      "attempt": 36,
+      "timestamp": "2026-11-12T21:14:20.200672+00:00",
+      "final_url": "https://www.microsoft.com/en-us/research/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains"
+        ]
+      },
+      "body_bytes": 224806,
+      "truncated": false,
+      "body_sha256": "456d82fa13227606d4832ef46523e571a1b1c24b665da42e22c515edb6c94c3e",
+      "redirect_chain": [
+        {
+          "url": "https://www.microsoft.com/research/",
+          "status": 301,
+          "location": "https://www.microsoft.com/en-us/research/",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000; includeSubDomains"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Microsoft Research \u2013 Emerging Technology, Computer, & Software ResearchYour Privacy Choices Opt-Out IconYour Privacy Choices Opt-Out Icon",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "11",
+      "domain": "microsoft.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.microsoft.com/en-au/p/surface-book-3/8XBW9G3Z71F1",
+      "depth": 5,
+      "parent_url": "https://www.microsoft.com/en/customers/story/26765-brown-university-health-microsoft-365-copilot",
+      "attempt": 37,
+      "timestamp": "2026-11-12T21:14:22.732708+00:00",
+      "error": "timeout: The read operation timed out",
+      "eligible": false
+    },
+    {
+      "rank": "11",
+      "domain": "microsoft.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.microsoft.com/software-download/windows11",
+      "depth": 5,
+      "parent_url": "https://www.microsoft.com/en-us/windows/",
+      "attempt": 38,
+      "timestamp": "2026-11-12T21:14:35.385778+00:00",
+      "final_url": "https://www.microsoft.com/en-us/software-download/windows11",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains"
+        ]
+      },
+      "body_bytes": 162465,
+      "truncated": false,
+      "body_sha256": "dc1b0c358b326432f9bee7d675c8cccccf207fc32c22798eb94faf66a11f229f",
+      "redirect_chain": [
+        {
+          "url": "https://www.microsoft.com/software-download/windows11",
+          "status": 302,
+          "location": "https://www.microsoft.com/en-us/software-download/windows11",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000; includeSubDomains"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Download Windows 11Your Privacy Choices Opt-Out IconYour Privacy Choices Opt-Out Icon",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "11",
+      "domain": "microsoft.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.microsoft.com/corporate-responsibility/trusted-technology-group",
+      "depth": 5,
+      "parent_url": "https://www.microsoft.com/en-us/accessibility",
+      "attempt": 39,
+      "timestamp": "2026-11-12T21:14:41.997319+00:00",
+      "final_url": "https://www.microsoft.com/en-us/corporate-responsibility/trusted-technology-group",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains"
+        ]
+      },
+      "body_bytes": 169959,
+      "truncated": false,
+      "body_sha256": "41896a57b8a942ba1a5b11deec023277a933f7a26ebf13fab41e1854e35e4b5e",
+      "redirect_chain": [
+        {
+          "url": "https://www.microsoft.com/corporate-responsibility/trusted-technology-group",
+          "status": 301,
+          "location": "https://www.microsoft.com/en-us/corporate-responsibility/trusted-technology-group",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000; includeSubDomains"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Trusted Technology Group | MicrosoftYour Privacy Choices Opt-Out IconYour Privacy Choices Opt-Out Icon",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "11",
+      "domain": "microsoft.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.microsoft.com/en-us/Licensing/product-licensing/azure",
+      "depth": 3,
+      "parent_url": "https://www.microsoft.com/en-us/Licensing/product-licensing/azure",
+      "attempt": 40,
+      "timestamp": "2026-11-12T21:14:43.229277+00:00",
+      "final_url": "https://www.microsoft.com/en-us/Licensing/product-licensing/azure",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains"
+        ]
+      },
+      "body_bytes": 149364,
+      "truncated": false,
+      "body_sha256": "97e77d9c7edd97d77d0371bfeb84eb703e27a693e3ba9d05a9605829a51b0b64",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Microsoft Azure | Microsoft Licensing ResourcesYour Privacy Choices Opt-Out IconYour Privacy Choices Opt-Out Icon",
+      "duplicate_final": true,
+      "eligible": false
+    },
+    {
+      "rank": "11",
+      "domain": "microsoft.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.microsoft.com/Licensing/product-licensing/dynamics365",
+      "depth": 2,
+      "parent_url": "https://www.microsoft.com/en-us/licensing",
+      "attempt": 41,
+      "timestamp": "2026-11-12T21:14:48.822450+00:00",
+      "final_url": "https://www.microsoft.com/en-us/Licensing/product-licensing/dynamics365",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains"
+        ]
+      },
+      "body_bytes": 164064,
+      "truncated": false,
+      "body_sha256": "75e6107ca1388312ff4431101c94a5db6e32a7ee67646a2074cf9a312c3275cd",
+      "redirect_chain": [
+        {
+          "url": "https://www.microsoft.com/Licensing/product-licensing/dynamics365",
+          "status": 302,
+          "location": "https://www.microsoft.com/en-us/Licensing/product-licensing/dynamics365",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000; includeSubDomains"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Microsoft Dynamics 365 | Microsoft Licensing ResourcesYour Privacy Choices Opt-Out IconYour Privacy Choices Opt-Out Icon",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "11",
+      "domain": "microsoft.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.microsoft.com/surface",
+      "depth": 3,
+      "parent_url": "https://www.microsoft.com/en-us/surface/devices/surface-pro",
+      "attempt": 42,
+      "timestamp": "2026-11-12T21:14:53.684978+00:00",
+      "final_url": "https://www.microsoft.com/en-us/surface",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains"
+        ]
+      },
+      "body_bytes": 753129,
+      "truncated": false,
+      "body_sha256": "0b40e95f54f3e610a54abb9bb79a713f89db85ab342846fa1815bf8afd729b10",
+      "redirect_chain": [
+        {
+          "url": "https://www.microsoft.com/surface",
+          "status": 301,
+          "location": "https://www.microsoft.com/en-us/surface",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000; includeSubDomains"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Microsoft Surface: Laptops, Tablets & Computers | Microsoft SurfaceYour Privacy Choices Opt-Out IconYour Privacy Choices Opt-Out Icon",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "11",
+      "domain": "microsoft.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.microsoft.com/licensing/product-licensing/office",
+      "depth": 2,
+      "parent_url": "https://www.microsoft.com/en-us/licensing",
+      "attempt": 43,
+      "timestamp": "2026-11-12T21:14:58.271121+00:00",
+      "final_url": "https://www.microsoft.com/en-us/licensing/product-licensing/office",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains"
+        ]
+      },
+      "body_bytes": 144493,
+      "truncated": false,
+      "body_sha256": "ad6f84cb151e9057a6854908f3d52554fb18cdff2cb042185588976ddc61bce5",
+      "redirect_chain": [
+        {
+          "url": "https://www.microsoft.com/licensing/product-licensing/office",
+          "status": 302,
+          "location": "https://www.microsoft.com/en-us/licensing/product-licensing/office",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000; includeSubDomains"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Microsoft Office | Microsoft Volume LicensingYour Privacy Choices Opt-Out IconYour Privacy Choices Opt-Out Icon",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "11",
+      "domain": "microsoft.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.microsoft.com/microsoft-365/try",
+      "depth": 3,
+      "parent_url": "https://www.microsoft.com/en-us/surface/devices/surface-pro",
+      "attempt": 44,
+      "timestamp": "2026-11-12T21:15:03.564144+00:00",
+      "final_url": "https://www.microsoft.com/en-us/microsoft-365/try",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains"
+        ]
+      },
+      "body_bytes": 224987,
+      "truncated": false,
+      "body_sha256": "e20b194ecfe2d0e499a670195ed081d843ca02bc74d8b727164c9fa01cb3b379",
+      "redirect_chain": [
+        {
+          "url": "https://www.microsoft.com/microsoft-365/try",
+          "status": 302,
+          "location": "https://www.microsoft.com/en-us/microsoft-365/try",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000; includeSubDomains"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Free Trial - Try a Microsoft 365 Subscription for a month - Microsoft StoreYour Privacy Choices Opt-Out IconYour Privacy Choices Opt-Out Icon",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "11",
+      "domain": "microsoft.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.microsoft.com/en-US/microsoft-365/locale",
+      "depth": 4,
+      "parent_url": "https://www.microsoft.com/en-us/microsoft-365/try",
+      "attempt": 45,
+      "timestamp": "2026-11-12T21:15:06.316007+00:00",
+      "final_url": "https://www.microsoft.com/en-US/microsoft-365/locale",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains"
+        ]
+      },
+      "body_bytes": 148437,
+      "truncated": false,
+      "body_sha256": "0055bd6dbb8165f25c9adb1c3697cd8cce378786f3ae5589e435e3308dfe1344",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Microsoft 365 - choose your localeYour Privacy Choices Opt-Out IconYour Privacy Choices Opt-Out Icon",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "11",
+      "domain": "microsoft.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.microsoft.com/cs-cz/microsoft-365/",
+      "depth": 5,
+      "parent_url": "https://www.microsoft.com/en-US/microsoft-365/locale",
+      "attempt": 46,
+      "timestamp": "2026-11-12T21:15:10.519192+00:00",
+      "final_url": "https://www.microsoft.com/cs-cz/microsoft-365/",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 201253,
+      "truncated": false,
+      "body_sha256": "5965b2c5472aaca1cd66ea5b0d07a971b961fee72fc27eb1f6c760042084b21b",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Your request has been blocked. This could be\r\n                        due to several reasons.",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "11",
+      "domain": "microsoft.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.microsoft.com/da-dk/microsoft-365/",
+      "depth": 5,
+      "parent_url": "https://www.microsoft.com/en-US/microsoft-365/locale",
+      "attempt": 47,
+      "timestamp": "2026-11-12T21:15:11.409546+00:00",
+      "final_url": "https://www.microsoft.com/da-dk/microsoft-365/",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 201253,
+      "truncated": false,
+      "body_sha256": "5965b2c5472aaca1cd66ea5b0d07a971b961fee72fc27eb1f6c760042084b21b",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Your request has been blocked. This could be\r\n                        due to several reasons.",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "11",
+      "domain": "microsoft.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.microsoft.com/de-de/microsoft-365/",
+      "depth": 5,
+      "parent_url": "https://www.microsoft.com/en-US/microsoft-365/locale",
+      "attempt": 48,
+      "timestamp": "2026-11-12T21:15:11.645029+00:00",
+      "final_url": "https://www.microsoft.com/de-de/microsoft-365/",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 201253,
+      "truncated": false,
+      "body_sha256": "5965b2c5472aaca1cd66ea5b0d07a971b961fee72fc27eb1f6c760042084b21b",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Your request has been blocked. This could be\r\n                        due to several reasons.",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "11",
+      "domain": "microsoft.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.microsoft.com/de-at/microsoft-365/",
+      "depth": 5,
+      "parent_url": "https://www.microsoft.com/en-US/microsoft-365/locale",
+      "attempt": 49,
+      "timestamp": "2026-11-12T21:15:12.199192+00:00",
+      "final_url": "https://www.microsoft.com/de-at/microsoft-365/",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 201253,
+      "truncated": false,
+      "body_sha256": "5965b2c5472aaca1cd66ea5b0d07a971b961fee72fc27eb1f6c760042084b21b",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Your request has been blocked. This could be\r\n                        due to several reasons.",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "11",
+      "domain": "microsoft.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.microsoft.com/de-ch/microsoft-365/",
+      "depth": 5,
+      "parent_url": "https://www.microsoft.com/en-US/microsoft-365/locale",
+      "attempt": 50,
+      "timestamp": "2026-11-12T21:15:12.770308+00:00",
+      "final_url": "https://www.microsoft.com/de-ch/microsoft-365/",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 201253,
+      "truncated": false,
+      "body_sha256": "5965b2c5472aaca1cd66ea5b0d07a971b961fee72fc27eb1f6c760042084b21b",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Your request has been blocked. This could be\r\n                        due to several reasons.",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "11",
+      "domain": "microsoft.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.microsoft.com/et-ee/microsoft-365/",
+      "depth": 5,
+      "parent_url": "https://www.microsoft.com/en-US/microsoft-365/locale",
+      "attempt": 51,
+      "timestamp": "2026-11-12T21:15:13.801677+00:00",
+      "final_url": "https://www.microsoft.com/et-ee/microsoft-365/",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 201253,
+      "truncated": false,
+      "body_sha256": "5965b2c5472aaca1cd66ea5b0d07a971b961fee72fc27eb1f6c760042084b21b",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Your request has been blocked. This could be\r\n                        due to several reasons.",
+      "duplicate_final": false,
+      "eligible": true
+    }
+  ],
+  "robots": [
+    {
+      "url": "https://microsoft.com/robots.txt",
+      "timestamp": "2026-11-12T21:11:29.235008+00:00",
+      "status": 200,
+      "decision": "parsed",
+      "final_url": "https://www.microsoft.com/robots.txt",
+      "redirect_chain": [
+        {
+          "url": "https://microsoft.com/robots.txt",
+          "status": 301,
+          "location": "https://www.microsoft.com/robots.txt"
+        }
+      ],
+      "body_sha256": "79a2a24e3e2c00deaba2fc1922b9113f5508e74133911eadea4ebb00b5de9768",
+      "body": "# Robots.txt file for www.microsoft.com v2.11\r\n\r\nUser-agent: *\r\nDisallow: /*?*ep_*\r\nDisallow: /*&ep_*\r\nDisallow: /store/XboxComMsCom3PAdsOptOutCookieSync.html\r\nDisallow: /store/XboxComMsComCartMuidSync.html\r\nDisallow: /*/store/locations/store-locations-sitemap.xml\r\nDisallow: /en-us/windows/si/matrix.html\r\nDisallow: /en-us/windows/si/matrix.html\r\nDisallow: /*/security/search-results.aspx?\r\nDisallow: /*/music/*/search/\r\nDisallow: /*/store/buynow?\r\nDisallow: /*/store/cart\r\nDisallow: /store/buy/cartcount\r\nDisallow: /*/search/\r\nDisallow: /*/music/*/Search/\r\nDisallow: /*/Search/\r\nDisallow: /*/newsearch/\r\nDisallow: *action=catalogsearch&\r\nDisallow: /*/store/d/groove-music-pass/cfq7ttc0k5dq/0001\r\nDisallow: /*/store/best-rated/*?*&*&*\r\nDisallow: /*/store/best-selling/*?*&*&*\r\nDisallow: /*/store/coming-soon/*?*&*&*\r\nDisallow: /*/store/deals/*?*&*&*\r\nDisallow: /*/store/game-demos/*?*&*&*\r\nDisallow: /*/store/game-previews/*?*&*&*\r\nDisallow: /*/store/most-played/*?*&*&*\r\nDisallow: /*/store/most-popular/*?*&*&*\r\nDisallow: /*/store/new/*?*&*&*\r\nDisallow: /*/store/new-and-rising/*?*&*&*\r\nDisallow: /*/store/top-free/*?*&*&*\r\nDisallow: /*/store/top-paid/*?*&*&*\r\nDisallow: /*/store/collections/helpmechoosepc?*&*&*\r\nDisallow: /*/store/collections/helpmechoosepc/?*&*&*\r\nDisallow: /*/store/movies-and-tv/*?*&*&*\r\nDisallow: /cascadeauth/microsoft-365/account/silentauth\r\nDisallow: /*/microsoft-365/site-search\r\nDisallow: /news/search\r\nDisallow: /video/search\r\nDisallow: */qa-folder\r\nAllow: /*/store/*/search/\r\nAllow: /*/store/*/layout/\r\nAllow: /*/store/music/groove-music-pass/*\r\nAllow: *action=catalogsearch&catalog_mode=grid&page=2$\r\nAllow: *action=catalogsearch&catalog_mode=grid&page=3$\r\nAllow: *action=catalogsearch&catalog_mode=grid&page=4$\r\nAllow: *action=catalogsearch&catalog_mode=grid&page=5$\r\nAllow: *action=catalogsearch&catalog_mode=grid&page=6$\r\nAllow: *action=catalogsearch&catalog_mode=grid&page=7$\r\nAllow: *action=catalogsearch&catalog_mode=grid&page=8$\r\nAllow: *action=catalogsearch&catalog_mode=list&page=2$\r\nAllow: *action=catalogsearch&catalog_mode=list&page=3$\r\nAllow: *action=catalogsearch&catalog_mode=list&page=4$\r\nAllow: *action=catalogsearch&catalog_mode=list&page=5$\r\nAllow: *action=catalogsearch&catalog_mode=list&page=6$\r\nAllow: *action=catalogsearch&catalog_mode=list&page=7$\r\nAllow: *action=catalogsearch&catalog_mode=list&page=8$\r\nDisallow: *action=accessorysearch&product=*&*\r\nAllow: *action=accessorysearch&product=*$\r\nDisallow: *action=accessorysearch&\r\nAllow: *action=accessorysearch&page=2$\r\nAllow: *action=accessorysearch&page=3$\r\nAllow: *action=accessorysearch&page=4$\r\nAllow: *action=accessorysearch&page=5$\r\nAllow: *action=accessorysearch&page=6$\r\nAllow: *action=accessorysearch&page=7$\r\nAllow: *action=accessorysearch&page=8$\r\nDisallow: *action=productcompareaction&\r\nDisallow: *action=productLinkAction&\r\nDisallow: *action=overlay&\r\nDisallow: *action=quickSearch&\r\nDisallow: *action=writeReview\r\nDisallow: *rep=hc\r\nDisallow: *fe=true\r\nDisallow: *?intc=\r\nDisallow: *&solved=\r\nDisallow: /music/*/wal/\r\nDisallow: */wal/\r\nDisallow: */layout/\r\nDisallow: */base-en/\r\nDisallow: *action=siteSearch\r\nDisallow: *action=productSupportSearch\r\nDisallow: *=imgmanager\r\nDisallow: */unsubscribe/\r\nDisallow: *ActivityUID=\r\nDisallow: /feeds/TechNet/fr-fr/screenshot/screenshot%20surface.jpg\r\nDisallow: /imaginecup/*\r\nDisallow: /*/download/confirmation.aspx?\r\nDisallow: /*HpOptOut=true$\r\nDisallow: /*TOCLinksForCrawlers*\r\nDisallow: /*mac/help.mspx?\r\nDisallow: /*mactopia/help.mspx?\r\nDisallow: */mediaapi/\r\nDisallow: /blacklisted*\r\nDisallow: /canada/Library/mnp/2/aspx/\r\nDisallow: /communities/bin.aspx?\r\nDisallow: /communities/blogs/PortalResults.mspx?\r\nDisallow: /communities/eventdetails.mspx?\r\nDisallow: /communities/rss.aspx*\r\nDisallow: /*/download/confirmation.aspx?\r\nDisallow: /*/download/registration-suggested.aspx?\r\nDisallow: /*/download/results.aspx?\r\nDisallow: /*/download/Browse.aspx?\r\nDisallow: /*/download/browse.aspx?\r\nDisallow: /*/download/info.aspx?\r\nDisallow: /*/download/thankyou.aspx\r\nDisallow: /*/download/thankyou.aspx?\r\nDisallow: /france/formation/centres/planning.asp?\r\nDisallow: /france/ie/default.asp?\r\nDisallow: /france/mnp_utility.mspx?\r\nDisallow: /genuine/\r\nDisallow: /Germany/kleinunternehmen/euga/detail.mspx?\r\nDisallow: /Germany/kleinunternehmen/euga/results.mspx?\r\nDisallow: /germany/library/images/mnp/\r\nDisallow: /germany/video/de/de/related*\r\nDisallow: /hpc/*/supported-applications.aspx?\r\nDisallow: /ie/ie40/\r\nDisallow: /info/customerror.htm*\r\nDisallow: /info/smart404.asp*\r\nDisallow: /intlkb/\r\nDisallow: /isapi/\r\nDisallow: /Japan/DirectX/default.asp?\r\nDisallow: /japan/directx/default.asp?\r\nDisallow: /japan/enable/textview.asp?\r\nDisallow: /japan/products/library/search.asp?\r\nDisallow: /japan/showcase/print/default.aspx?\r\nDisallow: /japan/terminology/query.asp?\r\nDisallow: /*mnp_utility.mspx?\r\nDisallow: /rus/licensing/Unilateral.aspx/*\r\nDisallow: /spain/empresas/\r\nDisallow: /spain/medianaempresa/\r\nDisallow: /windows/compatibility/windows-vista/\r\nDisallow: /windows/compatibility/windows-7/\r\nDisallow: /windows/compatibility/windows-7/*\r\nDisallow: /windows/404.aspx?*\r\nDisallow: /windows/campaign/meet-start.aspx\r\nDisallow: /windows/campaign/meet-apps.aspx\r\nDisallow: /windows/campaign/features-built-in-apps.aspx\r\nDisallow: /ru-ru/events/platforma/materials/default.aspx?speaker*\r\nDisallow: /de-de/corporate/rechtliche-hinweise/impressum_de.aspx\r\nDisallow: /en/microsoft-365\r\nDisallow: /en/microsoft-365/\r\nAllow: /en/microsoft-365/word\r\nAllow: /en/microsoft-365/outlook/web-email-login-for-outlook\r\nAllow: /en/microsoft-365/free-office-online-for-the-web\r\nAllow: /en/microsoft-365/planner/microsoft-planner\r\nAllow: /en/microsoft-365/yammer/yammer-overview\r\nAllow: /en/microsoft-365/publisher\r\nAllow: /en/microsoft-365/products-apps-services\r\nAllow: /en/microsoft-365/onenote/digital-note-taking-app\r\nAllow: /en/microsoft-365/powerpoint\r\nAllow: /en/microsoft-365/excel\r\nAllow: /en/microsoft-365/microsoft-office\r\nAllow: /en/microsoft-365/business/microsoft-365-administration\r\nAllow: /en/microsoft-365-copilot/microsoft-copilot-studio\r\nAllow: /en/microsoft-365/project/project-management-software\r\nAllow: /en/microsoft-365/project/microsoft-project-enterprise-plans-and-pricing\r\nAllow: /en/microsoft-365/onedrive/online-cloud-storage\r\nAllow: /en/microsoft-365/business\r\nAllow: /en/microsoft-365/clipchamp\r\nAllow: /en/microsoft-viva/engage\r\nDisallow: /en/microsoft-365/\r\nDisallow: /es/microsoft-365\r\nDisallow: /es/microsoft-365/\r\nDisallow: /fr/microsoft-365\r\nDisallow: /fr/microsoft-365/\r\nDisallow: /en/security\r\nDisallow: /en/security/\r\nDisallow: /es/security\r\nDisallow: /es/security/\r\nDisallow: /fr/security\r\nDisallow: /fr/security/\r\nDisallow: /en/microsoft-teams\r\nDisallow: /en/microsoft-teams/\r\nDisallow: /es/microsoft-teams\r\nDisallow: /es/microsoft-teams/\r\nDisallow: /fr/microsoft-teams\r\nDisallow: /fr/microsoft-teams/\r\nDisallow: /en/microsoft-viva\r\nDisallow: /en/microsoft-viva/\r\nDisallow: /es/microsoft-viva\r\nDisallow: /es/microsoft-viva/\r\nDisallow: /fr/microsoft-viva\r\nDisallow: /fr/microsoft-viva/\r\nDisallow: */isv/*?\r\nDisallow: /wp-admin/post.php \r\nAllow: /wp-admin/admin-ajax.php \r\nAllow: /wp-content/uploads/ \r\nDisallow: /blog/feed/ \r\nDisallow: /wp-login.php \r\nDisallow: /xmlrpc.php \r\nDisallow: /*?p= \r\nDisallow: /*?*p=* \r\nDisallow: /cdn-cgi/* \r\nDisallow: /page/*/?s= \r\nDisallow: /login/ \r\nDisallow: /*/embed/ \r\nDisallow: /cgi-bin/ \r\nAllow: /?display=wide \r\nDisallow: /readme.html \r\nDisallow: /*noItems= \r\nDisallow: /?s=* \r\nDisallow: /?sort-by=*\r\n\r\nSitemap: https://www.microsoft.com/store/sitemap-index.xml\r\nSitemap: https://www.microsoft.com/en-us/surface/surface.index.xml\r\nSitemap: https://www.microsoft.com/en-us/windows/windows-index.xml\r\nSitemap: https://www.microsoft.com/sitemaps/ai/sitemapindex.xml\r\nSitemap: https://www.microsoft.com/sitemaps/dynamics-365/sitemapindex.xml\r\nSitemap: https://www.microsoft.com/sitemaps/isv/sitemapindex.xml\r\nSitemap: https://www.microsoft.com/sitemaps/microsoft-365/sitemapindex.xml\r\nSitemap: https://www.microsoft.com/sitemaps/microsoft-copilot/sitemapindex.xml\r\nSitemap: https://www.microsoft.com/sitemaps/microsoft-fabric/sitemapindex.xml\r\nSitemap: https://www.microsoft.com/sitemaps/microsoft-teams/sitemapindex.xml\r\nSitemap: https://www.microsoft.com/sitemaps/power-platform/sitemapindex.xml\r\nSitemap: https://www.microsoft.com/sitemaps/microsoft-viva/sitemapindex.xml\r\nSitemap: https://www.microsoft.com/sitemaps/security/sitemapindex.xml\r\nSitemap: https://www.microsoft.com/sitemaps/trust-center/sitemapindex.xml\r\nSitemap: https://www.microsoft.com/sitemaps/windows-365/sitemapindex.xml\r\nSitemap: https://www.microsoft.com/sitemaps/customers/sitemapindex.xml\r\nSitemap: https://www.microsoft.com/sitemaps/education/sitemapindex.xml\r\nSitemap: https://www.microsoft.com/sitemaps/industry/sitemapindex.xml\r\nSitemap: https://www.microsoft.com/sitemaps/microsoft-cloud/sitemapindex.xml\r\nSitemap: https://www.microsoft.com/sitemaps/sustainability/sitemapindex.xml\r\nSitemap: https://www.microsoft.com/en-us/microsoft-365-life-hacks/sitemap.xml\r\nSitemap: https://www.microsoft.com/windows/business/sitemap.xml"
+    },
+    {
+      "url": "https://www.microsoft.com/robots.txt",
+      "timestamp": "2026-11-12T21:11:29.717624+00:00",
+      "status": 200,
+      "decision": "parsed",
+      "final_url": "https://www.microsoft.com/robots.txt",
+      "redirect_chain": [],
+      "body_sha256": "79a2a24e3e2c00deaba2fc1922b9113f5508e74133911eadea4ebb00b5de9768",
+      "body": "# Robots.txt file for www.microsoft.com v2.11\r\n\r\nUser-agent: *\r\nDisallow: /*?*ep_*\r\nDisallow: /*&ep_*\r\nDisallow: /store/XboxComMsCom3PAdsOptOutCookieSync.html\r\nDisallow: /store/XboxComMsComCartMuidSync.html\r\nDisallow: /*/store/locations/store-locations-sitemap.xml\r\nDisallow: /en-us/windows/si/matrix.html\r\nDisallow: /en-us/windows/si/matrix.html\r\nDisallow: /*/security/search-results.aspx?\r\nDisallow: /*/music/*/search/\r\nDisallow: /*/store/buynow?\r\nDisallow: /*/store/cart\r\nDisallow: /store/buy/cartcount\r\nDisallow: /*/search/\r\nDisallow: /*/music/*/Search/\r\nDisallow: /*/Search/\r\nDisallow: /*/newsearch/\r\nDisallow: *action=catalogsearch&\r\nDisallow: /*/store/d/groove-music-pass/cfq7ttc0k5dq/0001\r\nDisallow: /*/store/best-rated/*?*&*&*\r\nDisallow: /*/store/best-selling/*?*&*&*\r\nDisallow: /*/store/coming-soon/*?*&*&*\r\nDisallow: /*/store/deals/*?*&*&*\r\nDisallow: /*/store/game-demos/*?*&*&*\r\nDisallow: /*/store/game-previews/*?*&*&*\r\nDisallow: /*/store/most-played/*?*&*&*\r\nDisallow: /*/store/most-popular/*?*&*&*\r\nDisallow: /*/store/new/*?*&*&*\r\nDisallow: /*/store/new-and-rising/*?*&*&*\r\nDisallow: /*/store/top-free/*?*&*&*\r\nDisallow: /*/store/top-paid/*?*&*&*\r\nDisallow: /*/store/collections/helpmechoosepc?*&*&*\r\nDisallow: /*/store/collections/helpmechoosepc/?*&*&*\r\nDisallow: /*/store/movies-and-tv/*?*&*&*\r\nDisallow: /cascadeauth/microsoft-365/account/silentauth\r\nDisallow: /*/microsoft-365/site-search\r\nDisallow: /news/search\r\nDisallow: /video/search\r\nDisallow: */qa-folder\r\nAllow: /*/store/*/search/\r\nAllow: /*/store/*/layout/\r\nAllow: /*/store/music/groove-music-pass/*\r\nAllow: *action=catalogsearch&catalog_mode=grid&page=2$\r\nAllow: *action=catalogsearch&catalog_mode=grid&page=3$\r\nAllow: *action=catalogsearch&catalog_mode=grid&page=4$\r\nAllow: *action=catalogsearch&catalog_mode=grid&page=5$\r\nAllow: *action=catalogsearch&catalog_mode=grid&page=6$\r\nAllow: *action=catalogsearch&catalog_mode=grid&page=7$\r\nAllow: *action=catalogsearch&catalog_mode=grid&page=8$\r\nAllow: *action=catalogsearch&catalog_mode=list&page=2$\r\nAllow: *action=catalogsearch&catalog_mode=list&page=3$\r\nAllow: *action=catalogsearch&catalog_mode=list&page=4$\r\nAllow: *action=catalogsearch&catalog_mode=list&page=5$\r\nAllow: *action=catalogsearch&catalog_mode=list&page=6$\r\nAllow: *action=catalogsearch&catalog_mode=list&page=7$\r\nAllow: *action=catalogsearch&catalog_mode=list&page=8$\r\nDisallow: *action=accessorysearch&product=*&*\r\nAllow: *action=accessorysearch&product=*$\r\nDisallow: *action=accessorysearch&\r\nAllow: *action=accessorysearch&page=2$\r\nAllow: *action=accessorysearch&page=3$\r\nAllow: *action=accessorysearch&page=4$\r\nAllow: *action=accessorysearch&page=5$\r\nAllow: *action=accessorysearch&page=6$\r\nAllow: *action=accessorysearch&page=7$\r\nAllow: *action=accessorysearch&page=8$\r\nDisallow: *action=productcompareaction&\r\nDisallow: *action=productLinkAction&\r\nDisallow: *action=overlay&\r\nDisallow: *action=quickSearch&\r\nDisallow: *action=writeReview\r\nDisallow: *rep=hc\r\nDisallow: *fe=true\r\nDisallow: *?intc=\r\nDisallow: *&solved=\r\nDisallow: /music/*/wal/\r\nDisallow: */wal/\r\nDisallow: */layout/\r\nDisallow: */base-en/\r\nDisallow: *action=siteSearch\r\nDisallow: *action=productSupportSearch\r\nDisallow: *=imgmanager\r\nDisallow: */unsubscribe/\r\nDisallow: *ActivityUID=\r\nDisallow: /feeds/TechNet/fr-fr/screenshot/screenshot%20surface.jpg\r\nDisallow: /imaginecup/*\r\nDisallow: /*/download/confirmation.aspx?\r\nDisallow: /*HpOptOut=true$\r\nDisallow: /*TOCLinksForCrawlers*\r\nDisallow: /*mac/help.mspx?\r\nDisallow: /*mactopia/help.mspx?\r\nDisallow: */mediaapi/\r\nDisallow: /blacklisted*\r\nDisallow: /canada/Library/mnp/2/aspx/\r\nDisallow: /communities/bin.aspx?\r\nDisallow: /communities/blogs/PortalResults.mspx?\r\nDisallow: /communities/eventdetails.mspx?\r\nDisallow: /communities/rss.aspx*\r\nDisallow: /*/download/confirmation.aspx?\r\nDisallow: /*/download/registration-suggested.aspx?\r\nDisallow: /*/download/results.aspx?\r\nDisallow: /*/download/Browse.aspx?\r\nDisallow: /*/download/browse.aspx?\r\nDisallow: /*/download/info.aspx?\r\nDisallow: /*/download/thankyou.aspx\r\nDisallow: /*/download/thankyou.aspx?\r\nDisallow: /france/formation/centres/planning.asp?\r\nDisallow: /france/ie/default.asp?\r\nDisallow: /france/mnp_utility.mspx?\r\nDisallow: /genuine/\r\nDisallow: /Germany/kleinunternehmen/euga/detail.mspx?\r\nDisallow: /Germany/kleinunternehmen/euga/results.mspx?\r\nDisallow: /germany/library/images/mnp/\r\nDisallow: /germany/video/de/de/related*\r\nDisallow: /hpc/*/supported-applications.aspx?\r\nDisallow: /ie/ie40/\r\nDisallow: /info/customerror.htm*\r\nDisallow: /info/smart404.asp*\r\nDisallow: /intlkb/\r\nDisallow: /isapi/\r\nDisallow: /Japan/DirectX/default.asp?\r\nDisallow: /japan/directx/default.asp?\r\nDisallow: /japan/enable/textview.asp?\r\nDisallow: /japan/products/library/search.asp?\r\nDisallow: /japan/showcase/print/default.aspx?\r\nDisallow: /japan/terminology/query.asp?\r\nDisallow: /*mnp_utility.mspx?\r\nDisallow: /rus/licensing/Unilateral.aspx/*\r\nDisallow: /spain/empresas/\r\nDisallow: /spain/medianaempresa/\r\nDisallow: /windows/compatibility/windows-vista/\r\nDisallow: /windows/compatibility/windows-7/\r\nDisallow: /windows/compatibility/windows-7/*\r\nDisallow: /windows/404.aspx?*\r\nDisallow: /windows/campaign/meet-start.aspx\r\nDisallow: /windows/campaign/meet-apps.aspx\r\nDisallow: /windows/campaign/features-built-in-apps.aspx\r\nDisallow: /ru-ru/events/platforma/materials/default.aspx?speaker*\r\nDisallow: /de-de/corporate/rechtliche-hinweise/impressum_de.aspx\r\nDisallow: /en/microsoft-365\r\nDisallow: /en/microsoft-365/\r\nAllow: /en/microsoft-365/word\r\nAllow: /en/microsoft-365/outlook/web-email-login-for-outlook\r\nAllow: /en/microsoft-365/free-office-online-for-the-web\r\nAllow: /en/microsoft-365/planner/microsoft-planner\r\nAllow: /en/microsoft-365/yammer/yammer-overview\r\nAllow: /en/microsoft-365/publisher\r\nAllow: /en/microsoft-365/products-apps-services\r\nAllow: /en/microsoft-365/onenote/digital-note-taking-app\r\nAllow: /en/microsoft-365/powerpoint\r\nAllow: /en/microsoft-365/excel\r\nAllow: /en/microsoft-365/microsoft-office\r\nAllow: /en/microsoft-365/business/microsoft-365-administration\r\nAllow: /en/microsoft-365-copilot/microsoft-copilot-studio\r\nAllow: /en/microsoft-365/project/project-management-software\r\nAllow: /en/microsoft-365/project/microsoft-project-enterprise-plans-and-pricing\r\nAllow: /en/microsoft-365/onedrive/online-cloud-storage\r\nAllow: /en/microsoft-365/business\r\nAllow: /en/microsoft-365/clipchamp\r\nAllow: /en/microsoft-viva/engage\r\nDisallow: /en/microsoft-365/\r\nDisallow: /es/microsoft-365\r\nDisallow: /es/microsoft-365/\r\nDisallow: /fr/microsoft-365\r\nDisallow: /fr/microsoft-365/\r\nDisallow: /en/security\r\nDisallow: /en/security/\r\nDisallow: /es/security\r\nDisallow: /es/security/\r\nDisallow: /fr/security\r\nDisallow: /fr/security/\r\nDisallow: /en/microsoft-teams\r\nDisallow: /en/microsoft-teams/\r\nDisallow: /es/microsoft-teams\r\nDisallow: /es/microsoft-teams/\r\nDisallow: /fr/microsoft-teams\r\nDisallow: /fr/microsoft-teams/\r\nDisallow: /en/microsoft-viva\r\nDisallow: /en/microsoft-viva/\r\nDisallow: /es/microsoft-viva\r\nDisallow: /es/microsoft-viva/\r\nDisallow: /fr/microsoft-viva\r\nDisallow: /fr/microsoft-viva/\r\nDisallow: */isv/*?\r\nDisallow: /wp-admin/post.php \r\nAllow: /wp-admin/admin-ajax.php \r\nAllow: /wp-content/uploads/ \r\nDisallow: /blog/feed/ \r\nDisallow: /wp-login.php \r\nDisallow: /xmlrpc.php \r\nDisallow: /*?p= \r\nDisallow: /*?*p=* \r\nDisallow: /cdn-cgi/* \r\nDisallow: /page/*/?s= \r\nDisallow: /login/ \r\nDisallow: /*/embed/ \r\nDisallow: /cgi-bin/ \r\nAllow: /?display=wide \r\nDisallow: /readme.html \r\nDisallow: /*noItems= \r\nDisallow: /?s=* \r\nDisallow: /?sort-by=*\r\n\r\nSitemap: https://www.microsoft.com/store/sitemap-index.xml\r\nSitemap: https://www.microsoft.com/en-us/surface/surface.index.xml\r\nSitemap: https://www.microsoft.com/en-us/windows/windows-index.xml\r\nSitemap: https://www.microsoft.com/sitemaps/ai/sitemapindex.xml\r\nSitemap: https://www.microsoft.com/sitemaps/dynamics-365/sitemapindex.xml\r\nSitemap: https://www.microsoft.com/sitemaps/isv/sitemapindex.xml\r\nSitemap: https://www.microsoft.com/sitemaps/microsoft-365/sitemapindex.xml\r\nSitemap: https://www.microsoft.com/sitemaps/microsoft-copilot/sitemapindex.xml\r\nSitemap: https://www.microsoft.com/sitemaps/microsoft-fabric/sitemapindex.xml\r\nSitemap: https://www.microsoft.com/sitemaps/microsoft-teams/sitemapindex.xml\r\nSitemap: https://www.microsoft.com/sitemaps/power-platform/sitemapindex.xml\r\nSitemap: https://www.microsoft.com/sitemaps/microsoft-viva/sitemapindex.xml\r\nSitemap: https://www.microsoft.com/sitemaps/security/sitemapindex.xml\r\nSitemap: https://www.microsoft.com/sitemaps/trust-center/sitemapindex.xml\r\nSitemap: https://www.microsoft.com/sitemaps/windows-365/sitemapindex.xml\r\nSitemap: https://www.microsoft.com/sitemaps/customers/sitemapindex.xml\r\nSitemap: https://www.microsoft.com/sitemaps/education/sitemapindex.xml\r\nSitemap: https://www.microsoft.com/sitemaps/industry/sitemapindex.xml\r\nSitemap: https://www.microsoft.com/sitemaps/microsoft-cloud/sitemapindex.xml\r\nSitemap: https://www.microsoft.com/sitemaps/sustainability/sitemapindex.xml\r\nSitemap: https://www.microsoft.com/en-us/microsoft-365-life-hacks/sitemap.xml\r\nSitemap: https://www.microsoft.com/windows/business/sitemap.xml"
+    }
+  ],
+  "eligible_pages": 40,
+  "canonical_origin": [
+    "https",
+    "www.microsoft.com",
+    443
+  ],
+  "stop_reason": "page_budget",
+  "elapsed_seconds": 225.72
+}

@@ -1,0 +1,1795 @@
+{
+  "site": {
+    "rank": "3325",
+    "domain": "cisa.gov",
+    "stratum": "1001-10000"
+  },
+  "rows": [
+    {
+      "rank": "3325",
+      "domain": "cisa.gov",
+      "stratum": "1001-10000",
+      "requested_url": "https://cisa.gov/",
+      "depth": 0,
+      "parent_url": "",
+      "attempt": 1,
+      "timestamp": "2026-11-12T21:13:38.003501+00:00",
+      "final_url": "https://www.cisa.gov/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "default-src *.cisa.gov; script-src *.cisa.gov 'unsafe-inline' 'unsafe-eval' www.googletagmanager.com cse.google.com cdn.jsdelivr.net www.google.com www.youtube.com dap.digitalgov.gov cdnjs.cloudflare.com siteimproveanalytics.com *.adtrafficquality.google gov1.siteintercept.qualtrics.com *.gov1.siteintercept.qualtrics.com clients1.google.com; style-src 'unsafe-inline' *.cisa.gov fonts.googleapis.com www.google.com cdnjs.cloudflare.com; img-src *.cisa.gov data: www.google.com clients1.google.com www.googletagmanager.com *.siteimproveanalytics.io *.adtrafficquality.google gov1.siteintercept.qualtrics.com; frame-src *.cisa.gov *.dhs.gov www.youtube.com *.adtrafficquality.google syndicatedsearch.goog; font-src *.cisa.gov fonts.gstatic.com; connect-src *.cisa.gov www.google-analytics.com www.googletagmanager.com *.adtrafficquality.google gov1.sr.qualtrics.com gov1.siteintercept.qualtrics.com www.google.com analytics.google.com stats.g.doubleclick.net syndicatedsearch.goog gov1.qualtrics.com; report-uri /report-csp-violation"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000 ; includeSubDomains"
+        ]
+      },
+      "body_bytes": 71642,
+      "truncated": false,
+      "body_sha256": "ba773cd00816a7fb3dce00cf4289bf3dd03fc5d4399ffd56c99b8393b81a2209",
+      "redirect_chain": [
+        {
+          "url": "https://cisa.gov/",
+          "status": 301,
+          "location": "https://www.cisa.gov/",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000 ; includeSubDomains"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Home Page | CISALock",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "3325",
+      "domain": "cisa.gov",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.cisa.gov/staying-secure-large-scale-events",
+      "depth": 1,
+      "parent_url": "https://www.cisa.gov/",
+      "attempt": 2,
+      "timestamp": "2026-11-12T21:13:38.323363+00:00",
+      "final_url": "https://www.cisa.gov/staying-secure-large-scale-events",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "default-src *.cisa.gov; script-src *.cisa.gov 'unsafe-inline' 'unsafe-eval' www.googletagmanager.com cse.google.com cdn.jsdelivr.net www.google.com www.youtube.com dap.digitalgov.gov cdnjs.cloudflare.com siteimproveanalytics.com *.adtrafficquality.google gov1.siteintercept.qualtrics.com *.gov1.siteintercept.qualtrics.com clients1.google.com; style-src 'unsafe-inline' *.cisa.gov fonts.googleapis.com www.google.com cdnjs.cloudflare.com; img-src *.cisa.gov data: www.google.com clients1.google.com www.googletagmanager.com *.siteimproveanalytics.io *.adtrafficquality.google gov1.siteintercept.qualtrics.com; frame-src *.cisa.gov *.dhs.gov www.youtube.com *.adtrafficquality.google syndicatedsearch.goog; font-src *.cisa.gov fonts.gstatic.com; connect-src *.cisa.gov www.google-analytics.com www.googletagmanager.com *.adtrafficquality.google gov1.sr.qualtrics.com gov1.siteintercept.qualtrics.com www.google.com analytics.google.com stats.g.doubleclick.net syndicatedsearch.goog gov1.qualtrics.com; report-uri /report-csp-violation"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000 ; includeSubDomains"
+        ]
+      },
+      "body_bytes": 78269,
+      "truncated": false,
+      "body_sha256": "af24fb9665d787f9ae2340417b358bffe25b516eedecfe469a4041535e3050c4",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Staying Secure at Large-Scale Events | CISALock",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "3325",
+      "domain": "cisa.gov",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.cisa.gov/news-events/news/cisa-offers-vital-resources-venues-prepare-key-2026-events",
+      "depth": 2,
+      "parent_url": "https://www.cisa.gov/staying-secure-large-scale-events",
+      "attempt": 3,
+      "timestamp": "2026-11-12T21:13:38.861815+00:00",
+      "final_url": "https://www.cisa.gov/news-events/news/cisa-offers-vital-resources-venues-prepare-key-2026-events",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "default-src *.cisa.gov; script-src *.cisa.gov 'unsafe-inline' 'unsafe-eval' www.googletagmanager.com cse.google.com cdn.jsdelivr.net www.google.com www.youtube.com dap.digitalgov.gov cdnjs.cloudflare.com siteimproveanalytics.com *.adtrafficquality.google gov1.siteintercept.qualtrics.com *.gov1.siteintercept.qualtrics.com clients1.google.com; style-src 'unsafe-inline' *.cisa.gov fonts.googleapis.com www.google.com cdnjs.cloudflare.com; img-src *.cisa.gov data: www.google.com clients1.google.com www.googletagmanager.com *.siteimproveanalytics.io *.adtrafficquality.google gov1.siteintercept.qualtrics.com; frame-src *.cisa.gov *.dhs.gov www.youtube.com *.adtrafficquality.google syndicatedsearch.goog; font-src *.cisa.gov fonts.gstatic.com; connect-src *.cisa.gov www.google-analytics.com www.googletagmanager.com *.adtrafficquality.google gov1.sr.qualtrics.com gov1.siteintercept.qualtrics.com www.google.com analytics.google.com stats.g.doubleclick.net syndicatedsearch.goog gov1.qualtrics.com; report-uri /report-csp-violation"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000 ; includeSubDomains"
+        ]
+      },
+      "body_bytes": 63696,
+      "truncated": false,
+      "body_sha256": "ff41b536e375a02474b7204c1a72af8bf0ba1d7467e7a317e12a0b3571265a4e",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "CISA Offers Vital Resources as Venues Prepare for Key 2026 Events | CISALock",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "3325",
+      "domain": "cisa.gov",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.cisa.gov/topics/physical-security/bombing-prevention",
+      "depth": 3,
+      "parent_url": "https://www.cisa.gov/news-events/news/cisa-offers-vital-resources-venues-prepare-key-2026-events",
+      "attempt": 4,
+      "timestamp": "2026-11-12T21:13:39.620307+00:00",
+      "final_url": "https://www.cisa.gov/topics/physical-security/bombing-prevention",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "default-src *.cisa.gov; script-src *.cisa.gov 'unsafe-inline' 'unsafe-eval' www.googletagmanager.com cse.google.com cdn.jsdelivr.net www.google.com www.youtube.com dap.digitalgov.gov cdnjs.cloudflare.com siteimproveanalytics.com *.adtrafficquality.google gov1.siteintercept.qualtrics.com *.gov1.siteintercept.qualtrics.com clients1.google.com; style-src 'unsafe-inline' *.cisa.gov fonts.googleapis.com www.google.com cdnjs.cloudflare.com; img-src *.cisa.gov data: www.google.com clients1.google.com www.googletagmanager.com *.siteimproveanalytics.io *.adtrafficquality.google gov1.siteintercept.qualtrics.com; frame-src *.cisa.gov *.dhs.gov www.youtube.com *.adtrafficquality.google syndicatedsearch.goog; font-src *.cisa.gov fonts.gstatic.com; connect-src *.cisa.gov www.google-analytics.com www.googletagmanager.com *.adtrafficquality.google gov1.sr.qualtrics.com gov1.siteintercept.qualtrics.com www.google.com analytics.google.com stats.g.doubleclick.net syndicatedsearch.goog gov1.qualtrics.com; report-uri /report-csp-violation"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000 ; includeSubDomains"
+        ]
+      },
+      "body_bytes": 59463,
+      "truncated": false,
+      "body_sha256": "1f518c9e916c776f5139c4dfe5afd36fd2145e3931937c8a9b559e3f2dd3eddf",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Bombing Prevention | Cybersecurity and Infrastructure Security Agency CISALock",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "3325",
+      "domain": "cisa.gov",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.cisa.gov/about/divisions-offices/infrastructure-security-division/office-bombing-prevention-obp",
+      "depth": 4,
+      "parent_url": "https://www.cisa.gov/topics/physical-security/bombing-prevention",
+      "attempt": 5,
+      "timestamp": "2026-11-12T21:13:39.835610+00:00",
+      "final_url": "https://www.cisa.gov/about/divisions-offices/infrastructure-security-division/office-bombing-prevention-obp",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "default-src *.cisa.gov; script-src *.cisa.gov 'unsafe-inline' 'unsafe-eval' www.googletagmanager.com cse.google.com cdn.jsdelivr.net www.google.com www.youtube.com dap.digitalgov.gov cdnjs.cloudflare.com siteimproveanalytics.com *.adtrafficquality.google gov1.siteintercept.qualtrics.com *.gov1.siteintercept.qualtrics.com clients1.google.com; style-src 'unsafe-inline' *.cisa.gov fonts.googleapis.com www.google.com cdnjs.cloudflare.com; img-src *.cisa.gov data: www.google.com clients1.google.com www.googletagmanager.com *.siteimproveanalytics.io *.adtrafficquality.google gov1.siteintercept.qualtrics.com; frame-src *.cisa.gov *.dhs.gov www.youtube.com *.adtrafficquality.google syndicatedsearch.goog; font-src *.cisa.gov fonts.gstatic.com; connect-src *.cisa.gov www.google-analytics.com www.googletagmanager.com *.adtrafficquality.google gov1.sr.qualtrics.com gov1.siteintercept.qualtrics.com www.google.com analytics.google.com stats.g.doubleclick.net syndicatedsearch.goog gov1.qualtrics.com; report-uri /report-csp-violation"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000 ; includeSubDomains"
+        ]
+      },
+      "body_bytes": 59190,
+      "truncated": false,
+      "body_sha256": "c3afae512baa4b4c11be3b8326abcfdd37ee34e9763b82481d889a4117125dab",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Office for Bombing Prevention | CISALock",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "3325",
+      "domain": "cisa.gov",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.cisa.gov/resources/national-c-ied-policy",
+      "depth": 5,
+      "parent_url": "https://www.cisa.gov/about/divisions-offices/infrastructure-security-division/office-bombing-prevention-obp",
+      "attempt": 6,
+      "timestamp": "2026-11-12T21:13:40.933684+00:00",
+      "final_url": "https://www.cisa.gov/resources-tools/resources/national-c-ied-policy",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "default-src *.cisa.gov; script-src *.cisa.gov 'unsafe-inline' 'unsafe-eval' www.googletagmanager.com cse.google.com cdn.jsdelivr.net www.google.com www.youtube.com dap.digitalgov.gov cdnjs.cloudflare.com siteimproveanalytics.com *.adtrafficquality.google gov1.siteintercept.qualtrics.com *.gov1.siteintercept.qualtrics.com clients1.google.com; style-src 'unsafe-inline' *.cisa.gov fonts.googleapis.com www.google.com cdnjs.cloudflare.com; img-src *.cisa.gov data: www.google.com clients1.google.com www.googletagmanager.com *.siteimproveanalytics.io *.adtrafficquality.google gov1.siteintercept.qualtrics.com; frame-src *.cisa.gov *.dhs.gov www.youtube.com *.adtrafficquality.google syndicatedsearch.goog; font-src *.cisa.gov fonts.gstatic.com; connect-src *.cisa.gov www.google-analytics.com www.googletagmanager.com *.adtrafficquality.google gov1.sr.qualtrics.com gov1.siteintercept.qualtrics.com www.google.com analytics.google.com stats.g.doubleclick.net syndicatedsearch.goog gov1.qualtrics.com; report-uri /report-csp-violation"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000 ; includeSubDomains"
+        ]
+      },
+      "body_bytes": 62261,
+      "truncated": false,
+      "body_sha256": "13681211bc470875981d7627a73049761b03955037797e91911b71c02b112e21",
+      "redirect_chain": [
+        {
+          "url": "https://www.cisa.gov/resources/national-c-ied-policy",
+          "status": 301,
+          "location": "/resources-tools/resources/national-c-ied-policy",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [
+              "default-src *.cisa.gov; script-src *.cisa.gov 'unsafe-inline' 'unsafe-eval' www.googletagmanager.com cse.google.com cdn.jsdelivr.net www.google.com www.youtube.com dap.digitalgov.gov cdnjs.cloudflare.com siteimproveanalytics.com *.adtrafficquality.google gov1.siteintercept.qualtrics.com *.gov1.siteintercept.qualtrics.com clients1.google.com; style-src 'unsafe-inline' *.cisa.gov fonts.googleapis.com www.google.com cdnjs.cloudflare.com; img-src *.cisa.gov data: www.google.com clients1.google.com www.googletagmanager.com *.siteimproveanalytics.io *.adtrafficquality.google gov1.siteintercept.qualtrics.com; frame-src *.cisa.gov *.dhs.gov www.youtube.com *.adtrafficquality.google syndicatedsearch.goog; font-src *.cisa.gov fonts.gstatic.com; connect-src *.cisa.gov www.google-analytics.com www.googletagmanager.com *.adtrafficquality.google gov1.sr.qualtrics.com gov1.siteintercept.qualtrics.com www.google.com analytics.google.com stats.g.doubleclick.net syndicatedsearch.goog gov1.qualtrics.com; report-uri /report-csp-violation"
+            ],
+            "strict-transport-security": [
+              "max-age=31536000 ; includeSubDomains"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "National C-IED Policy | CISALock",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "3325",
+      "domain": "cisa.gov",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.cisa.gov/resources-tools/resources/free-cybersecurity-services-and-tools",
+      "depth": 1,
+      "parent_url": "https://www.cisa.gov/",
+      "attempt": 7,
+      "timestamp": "2026-11-12T21:13:43.398814+00:00",
+      "final_url": "https://www.cisa.gov/resources-tools/resources/no-cost-cybersecurity-services-and-tools",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "default-src *.cisa.gov; script-src *.cisa.gov 'unsafe-inline' 'unsafe-eval' www.googletagmanager.com cse.google.com cdn.jsdelivr.net www.google.com www.youtube.com dap.digitalgov.gov cdnjs.cloudflare.com siteimproveanalytics.com *.adtrafficquality.google gov1.siteintercept.qualtrics.com *.gov1.siteintercept.qualtrics.com clients1.google.com; style-src 'unsafe-inline' *.cisa.gov fonts.googleapis.com www.google.com cdnjs.cloudflare.com; img-src *.cisa.gov data: www.google.com clients1.google.com www.googletagmanager.com *.siteimproveanalytics.io *.adtrafficquality.google gov1.siteintercept.qualtrics.com; frame-src *.cisa.gov *.dhs.gov www.youtube.com *.adtrafficquality.google syndicatedsearch.goog; font-src *.cisa.gov fonts.gstatic.com; connect-src *.cisa.gov www.google-analytics.com www.googletagmanager.com *.adtrafficquality.google gov1.sr.qualtrics.com gov1.siteintercept.qualtrics.com www.google.com analytics.google.com stats.g.doubleclick.net syndicatedsearch.goog gov1.qualtrics.com; report-uri /report-csp-violation"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000 ; includeSubDomains"
+        ]
+      },
+      "body_bytes": 57876,
+      "truncated": false,
+      "body_sha256": "de44e7884c527674afc2188e34b80fa7850381205c22ae7c4336c8a5df02365f",
+      "redirect_chain": [
+        {
+          "url": "https://www.cisa.gov/resources-tools/resources/free-cybersecurity-services-and-tools",
+          "status": 301,
+          "location": "/resources-tools/resources/no-cost-cybersecurity-services-and-tools",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [
+              "default-src *.cisa.gov; script-src *.cisa.gov 'unsafe-inline' 'unsafe-eval' www.googletagmanager.com cse.google.com cdn.jsdelivr.net www.google.com www.youtube.com dap.digitalgov.gov cdnjs.cloudflare.com siteimproveanalytics.com *.adtrafficquality.google gov1.siteintercept.qualtrics.com *.gov1.siteintercept.qualtrics.com clients1.google.com; style-src 'unsafe-inline' *.cisa.gov fonts.googleapis.com www.google.com cdnjs.cloudflare.com; img-src *.cisa.gov data: www.google.com clients1.google.com www.googletagmanager.com *.siteimproveanalytics.io *.adtrafficquality.google gov1.siteintercept.qualtrics.com; frame-src *.cisa.gov *.dhs.gov www.youtube.com *.adtrafficquality.google syndicatedsearch.goog; font-src *.cisa.gov fonts.gstatic.com; connect-src *.cisa.gov www.google-analytics.com www.googletagmanager.com *.adtrafficquality.google gov1.sr.qualtrics.com gov1.siteintercept.qualtrics.com www.google.com analytics.google.com stats.g.doubleclick.net syndicatedsearch.goog gov1.qualtrics.com; report-uri /report-csp-violation"
+            ],
+            "strict-transport-security": [
+              "max-age=31536000 ; includeSubDomains"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "No-Cost Cybersecurity Services & Tools | CISALock",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "3325",
+      "domain": "cisa.gov",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.cisa.gov/%69%6E%64%65%78.%70%68%70/news-events/news/securing-american-experience",
+      "depth": 2,
+      "parent_url": "https://www.cisa.gov/staying-secure-large-scale-events",
+      "attempt": 8,
+      "timestamp": "2026-11-12T21:13:43.943292+00:00",
+      "final_url": "https://www.cisa.gov/%69%6E%64%65%78.%70%68%70/news-events/news/securing-american-experience",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "default-src *.cisa.gov; script-src *.cisa.gov 'unsafe-inline' 'unsafe-eval' www.googletagmanager.com cse.google.com cdn.jsdelivr.net www.google.com www.youtube.com dap.digitalgov.gov cdnjs.cloudflare.com siteimproveanalytics.com *.adtrafficquality.google gov1.siteintercept.qualtrics.com *.gov1.siteintercept.qualtrics.com clients1.google.com; style-src 'unsafe-inline' *.cisa.gov fonts.googleapis.com www.google.com cdnjs.cloudflare.com; img-src *.cisa.gov data: www.google.com clients1.google.com www.googletagmanager.com *.siteimproveanalytics.io *.adtrafficquality.google gov1.siteintercept.qualtrics.com; frame-src *.cisa.gov *.dhs.gov www.youtube.com *.adtrafficquality.google syndicatedsearch.goog; font-src *.cisa.gov fonts.gstatic.com; connect-src *.cisa.gov www.google-analytics.com www.googletagmanager.com *.adtrafficquality.google gov1.sr.qualtrics.com gov1.siteintercept.qualtrics.com www.google.com analytics.google.com stats.g.doubleclick.net syndicatedsearch.goog gov1.qualtrics.com; report-uri /report-csp-violation"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000 ; includeSubDomains"
+        ]
+      },
+      "body_bytes": 58494,
+      "truncated": false,
+      "body_sha256": "f6684c69f5c877307cdd9141dcc8586ad82496d0c46b93c4fd86d16f66db8d58",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Securing the American Experience | CISALock",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "3325",
+      "domain": "cisa.gov",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.cisa.gov/bomb-threats",
+      "depth": 4,
+      "parent_url": "https://www.cisa.gov/topics/physical-security/bombing-prevention",
+      "attempt": 9,
+      "timestamp": "2026-11-12T21:13:45.518916+00:00",
+      "final_url": "https://www.cisa.gov/topics/physical-security/bombing-prevention/bomb-threats",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "default-src *.cisa.gov; script-src *.cisa.gov 'unsafe-inline' 'unsafe-eval' www.googletagmanager.com cse.google.com cdn.jsdelivr.net www.google.com www.youtube.com dap.digitalgov.gov cdnjs.cloudflare.com siteimproveanalytics.com *.adtrafficquality.google gov1.siteintercept.qualtrics.com *.gov1.siteintercept.qualtrics.com clients1.google.com; style-src 'unsafe-inline' *.cisa.gov fonts.googleapis.com www.google.com cdnjs.cloudflare.com; img-src *.cisa.gov data: www.google.com clients1.google.com www.googletagmanager.com *.siteimproveanalytics.io *.adtrafficquality.google gov1.siteintercept.qualtrics.com; frame-src *.cisa.gov *.dhs.gov www.youtube.com *.adtrafficquality.google syndicatedsearch.goog; font-src *.cisa.gov fonts.gstatic.com; connect-src *.cisa.gov www.google-analytics.com www.googletagmanager.com *.adtrafficquality.google gov1.sr.qualtrics.com gov1.siteintercept.qualtrics.com www.google.com analytics.google.com stats.g.doubleclick.net syndicatedsearch.goog gov1.qualtrics.com; report-uri /report-csp-violation"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000 ; includeSubDomains"
+        ]
+      },
+      "body_bytes": 79123,
+      "truncated": false,
+      "body_sha256": "8e9ac313beaf4bcfaa464f3e8c89bf49a8aca0eaed5194ce0f8ed328db19a517",
+      "redirect_chain": [
+        {
+          "url": "https://www.cisa.gov/bomb-threats",
+          "status": 301,
+          "location": "/topics/physical-security/bombing-prevention/bomb-threats",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [
+              "default-src *.cisa.gov; script-src *.cisa.gov 'unsafe-inline' 'unsafe-eval' www.googletagmanager.com cse.google.com cdn.jsdelivr.net www.google.com www.youtube.com dap.digitalgov.gov cdnjs.cloudflare.com siteimproveanalytics.com *.adtrafficquality.google gov1.siteintercept.qualtrics.com *.gov1.siteintercept.qualtrics.com clients1.google.com; style-src 'unsafe-inline' *.cisa.gov fonts.googleapis.com www.google.com cdnjs.cloudflare.com; img-src *.cisa.gov data: www.google.com clients1.google.com www.googletagmanager.com *.siteimproveanalytics.io *.adtrafficquality.google gov1.siteintercept.qualtrics.com; frame-src *.cisa.gov *.dhs.gov www.youtube.com *.adtrafficquality.google syndicatedsearch.goog; font-src *.cisa.gov fonts.gstatic.com; connect-src *.cisa.gov www.google-analytics.com www.googletagmanager.com *.adtrafficquality.google gov1.sr.qualtrics.com gov1.siteintercept.qualtrics.com www.google.com analytics.google.com stats.g.doubleclick.net syndicatedsearch.goog gov1.qualtrics.com; report-uri /report-csp-violation"
+            ],
+            "strict-transport-security": [
+              "max-age=31536000 ; includeSubDomains"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Bomb Threats | CISALock",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "3325",
+      "domain": "cisa.gov",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.cisa.gov/security-advisors",
+      "depth": 5,
+      "parent_url": "https://www.cisa.gov/about/divisions-offices/infrastructure-security-division/office-bombing-prevention-obp",
+      "attempt": 10,
+      "timestamp": "2026-11-12T21:13:46.567124+00:00",
+      "final_url": "https://www.cisa.gov/about/regions/security-advisors",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "default-src *.cisa.gov; script-src *.cisa.gov 'unsafe-inline' 'unsafe-eval' www.googletagmanager.com cse.google.com cdn.jsdelivr.net www.google.com www.youtube.com dap.digitalgov.gov cdnjs.cloudflare.com siteimproveanalytics.com *.adtrafficquality.google gov1.siteintercept.qualtrics.com *.gov1.siteintercept.qualtrics.com clients1.google.com; style-src 'unsafe-inline' *.cisa.gov fonts.googleapis.com www.google.com cdnjs.cloudflare.com; img-src *.cisa.gov data: www.google.com clients1.google.com www.googletagmanager.com *.siteimproveanalytics.io *.adtrafficquality.google gov1.siteintercept.qualtrics.com; frame-src *.cisa.gov *.dhs.gov www.youtube.com *.adtrafficquality.google syndicatedsearch.goog; font-src *.cisa.gov fonts.gstatic.com; connect-src *.cisa.gov www.google-analytics.com www.googletagmanager.com *.adtrafficquality.google gov1.sr.qualtrics.com gov1.siteintercept.qualtrics.com www.google.com analytics.google.com stats.g.doubleclick.net syndicatedsearch.goog gov1.qualtrics.com; report-uri /report-csp-violation"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000 ; includeSubDomains"
+        ]
+      },
+      "body_bytes": 51935,
+      "truncated": false,
+      "body_sha256": "7311be91ff32971f395f1280ea4e6cc74885917b4c871e84d1c7e65dcaf66151",
+      "redirect_chain": [
+        {
+          "url": "https://www.cisa.gov/security-advisors",
+          "status": 301,
+          "location": "/about/regions/security-advisors",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [
+              "default-src *.cisa.gov; script-src *.cisa.gov 'unsafe-inline' 'unsafe-eval' www.googletagmanager.com cse.google.com cdn.jsdelivr.net www.google.com www.youtube.com dap.digitalgov.gov cdnjs.cloudflare.com siteimproveanalytics.com *.adtrafficquality.google gov1.siteintercept.qualtrics.com *.gov1.siteintercept.qualtrics.com clients1.google.com; style-src 'unsafe-inline' *.cisa.gov fonts.googleapis.com www.google.com cdnjs.cloudflare.com; img-src *.cisa.gov data: www.google.com clients1.google.com www.googletagmanager.com *.siteimproveanalytics.io *.adtrafficquality.google gov1.siteintercept.qualtrics.com; frame-src *.cisa.gov *.dhs.gov www.youtube.com *.adtrafficquality.google syndicatedsearch.goog; font-src *.cisa.gov fonts.gstatic.com; connect-src *.cisa.gov www.google-analytics.com www.googletagmanager.com *.adtrafficquality.google gov1.sr.qualtrics.com gov1.siteintercept.qualtrics.com www.google.com analytics.google.com stats.g.doubleclick.net syndicatedsearch.goog gov1.qualtrics.com; report-uri /report-csp-violation"
+            ],
+            "strict-transport-security": [
+              "max-age=31536000 ; includeSubDomains"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Security Advisors | CISALock",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "3325",
+      "domain": "cisa.gov",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.cisa.gov/cybersecurity-awareness-month",
+      "depth": 1,
+      "parent_url": "https://www.cisa.gov/",
+      "attempt": 11,
+      "timestamp": "2026-11-12T21:13:47.104691+00:00",
+      "final_url": "https://www.cisa.gov/cybersecurity-awareness-month",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "default-src *.cisa.gov; script-src *.cisa.gov 'unsafe-inline' 'unsafe-eval' www.googletagmanager.com cse.google.com cdn.jsdelivr.net www.google.com www.youtube.com dap.digitalgov.gov cdnjs.cloudflare.com siteimproveanalytics.com *.adtrafficquality.google gov1.siteintercept.qualtrics.com *.gov1.siteintercept.qualtrics.com clients1.google.com; style-src 'unsafe-inline' *.cisa.gov fonts.googleapis.com www.google.com cdnjs.cloudflare.com; img-src *.cisa.gov data: www.google.com clients1.google.com www.googletagmanager.com *.siteimproveanalytics.io *.adtrafficquality.google gov1.siteintercept.qualtrics.com; frame-src *.cisa.gov *.dhs.gov www.youtube.com *.adtrafficquality.google syndicatedsearch.goog; font-src *.cisa.gov fonts.gstatic.com; connect-src *.cisa.gov www.google-analytics.com www.googletagmanager.com *.adtrafficquality.google gov1.sr.qualtrics.com gov1.siteintercept.qualtrics.com www.google.com analytics.google.com stats.g.doubleclick.net syndicatedsearch.goog gov1.qualtrics.com; report-uri /report-csp-violation"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000 ; includeSubDomains"
+        ]
+      },
+      "body_bytes": 64591,
+      "truncated": false,
+      "body_sha256": "ca4fc1b8c25326a77de55e47365a9aa4793c45d95b1328b81c478746260fce8b",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Cybersecurity Awareness Month | CISALock",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "3325",
+      "domain": "cisa.gov",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.cisa.gov/obp",
+      "depth": 2,
+      "parent_url": "https://www.cisa.gov/staying-secure-large-scale-events",
+      "attempt": 12,
+      "timestamp": "2026-11-12T21:13:48.138856+00:00",
+      "final_url": "https://www.cisa.gov/topics/physical-security/bombing-prevention",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "default-src *.cisa.gov; script-src *.cisa.gov 'unsafe-inline' 'unsafe-eval' www.googletagmanager.com cse.google.com cdn.jsdelivr.net www.google.com www.youtube.com dap.digitalgov.gov cdnjs.cloudflare.com siteimproveanalytics.com *.adtrafficquality.google gov1.siteintercept.qualtrics.com *.gov1.siteintercept.qualtrics.com clients1.google.com; style-src 'unsafe-inline' *.cisa.gov fonts.googleapis.com www.google.com cdnjs.cloudflare.com; img-src *.cisa.gov data: www.google.com clients1.google.com www.googletagmanager.com *.siteimproveanalytics.io *.adtrafficquality.google gov1.siteintercept.qualtrics.com; frame-src *.cisa.gov *.dhs.gov www.youtube.com *.adtrafficquality.google syndicatedsearch.goog; font-src *.cisa.gov fonts.gstatic.com; connect-src *.cisa.gov www.google-analytics.com www.googletagmanager.com *.adtrafficquality.google gov1.sr.qualtrics.com gov1.siteintercept.qualtrics.com www.google.com analytics.google.com stats.g.doubleclick.net syndicatedsearch.goog gov1.qualtrics.com; report-uri /report-csp-violation"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000 ; includeSubDomains"
+        ]
+      },
+      "body_bytes": 59463,
+      "truncated": false,
+      "body_sha256": "1f518c9e916c776f5139c4dfe5afd36fd2145e3931937c8a9b559e3f2dd3eddf",
+      "redirect_chain": [
+        {
+          "url": "https://www.cisa.gov/obp",
+          "status": 301,
+          "location": "/topics/physical-security/bombing-prevention",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [
+              "default-src *.cisa.gov; script-src *.cisa.gov 'unsafe-inline' 'unsafe-eval' www.googletagmanager.com cse.google.com cdn.jsdelivr.net www.google.com www.youtube.com dap.digitalgov.gov cdnjs.cloudflare.com siteimproveanalytics.com *.adtrafficquality.google gov1.siteintercept.qualtrics.com *.gov1.siteintercept.qualtrics.com clients1.google.com; style-src 'unsafe-inline' *.cisa.gov fonts.googleapis.com www.google.com cdnjs.cloudflare.com; img-src *.cisa.gov data: www.google.com clients1.google.com www.googletagmanager.com *.siteimproveanalytics.io *.adtrafficquality.google gov1.siteintercept.qualtrics.com; frame-src *.cisa.gov *.dhs.gov www.youtube.com *.adtrafficquality.google syndicatedsearch.goog; font-src *.cisa.gov fonts.gstatic.com; connect-src *.cisa.gov www.google-analytics.com www.googletagmanager.com *.adtrafficquality.google gov1.sr.qualtrics.com gov1.siteintercept.qualtrics.com www.google.com analytics.google.com stats.g.doubleclick.net syndicatedsearch.goog gov1.qualtrics.com; report-uri /report-csp-violation"
+            ],
+            "strict-transport-security": [
+              "max-age=31536000 ; includeSubDomains"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Bombing Prevention | Cybersecurity and Infrastructure Security Agency CISALock",
+      "duplicate_final": true,
+      "eligible": false
+    },
+    {
+      "rank": "3325",
+      "domain": "cisa.gov",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.cisa.gov/suspicious-activity-and-items",
+      "depth": 4,
+      "parent_url": "https://www.cisa.gov/topics/physical-security/bombing-prevention",
+      "attempt": 13,
+      "timestamp": "2026-11-12T21:13:49.119539+00:00",
+      "final_url": "https://www.cisa.gov/topics/physical-security/bombing-prevention/suspicious-activity-and-items",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "default-src *.cisa.gov; script-src *.cisa.gov 'unsafe-inline' 'unsafe-eval' www.googletagmanager.com cse.google.com cdn.jsdelivr.net www.google.com www.youtube.com dap.digitalgov.gov cdnjs.cloudflare.com siteimproveanalytics.com *.adtrafficquality.google gov1.siteintercept.qualtrics.com *.gov1.siteintercept.qualtrics.com clients1.google.com; style-src 'unsafe-inline' *.cisa.gov fonts.googleapis.com www.google.com cdnjs.cloudflare.com; img-src *.cisa.gov data: www.google.com clients1.google.com www.googletagmanager.com *.siteimproveanalytics.io *.adtrafficquality.google gov1.siteintercept.qualtrics.com; frame-src *.cisa.gov *.dhs.gov www.youtube.com *.adtrafficquality.google syndicatedsearch.goog; font-src *.cisa.gov fonts.gstatic.com; connect-src *.cisa.gov www.google-analytics.com www.googletagmanager.com *.adtrafficquality.google gov1.sr.qualtrics.com gov1.siteintercept.qualtrics.com www.google.com analytics.google.com stats.g.doubleclick.net syndicatedsearch.goog gov1.qualtrics.com; report-uri /report-csp-violation"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000 ; includeSubDomains"
+        ]
+      },
+      "body_bytes": 80951,
+      "truncated": false,
+      "body_sha256": "e09a9623f509d4475bce26e1be6a6f1c3790cd3d1cb67c60d223f931b254d874",
+      "redirect_chain": [
+        {
+          "url": "https://www.cisa.gov/suspicious-activity-and-items",
+          "status": 301,
+          "location": "/topics/physical-security/bombing-prevention/suspicious-activity-and-items",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [
+              "default-src *.cisa.gov; script-src *.cisa.gov 'unsafe-inline' 'unsafe-eval' www.googletagmanager.com cse.google.com cdn.jsdelivr.net www.google.com www.youtube.com dap.digitalgov.gov cdnjs.cloudflare.com siteimproveanalytics.com *.adtrafficquality.google gov1.siteintercept.qualtrics.com *.gov1.siteintercept.qualtrics.com clients1.google.com; style-src 'unsafe-inline' *.cisa.gov fonts.googleapis.com www.google.com cdnjs.cloudflare.com; img-src *.cisa.gov data: www.google.com clients1.google.com www.googletagmanager.com *.siteimproveanalytics.io *.adtrafficquality.google gov1.siteintercept.qualtrics.com; frame-src *.cisa.gov *.dhs.gov www.youtube.com *.adtrafficquality.google syndicatedsearch.goog; font-src *.cisa.gov fonts.gstatic.com; connect-src *.cisa.gov www.google-analytics.com www.googletagmanager.com *.adtrafficquality.google gov1.sr.qualtrics.com gov1.siteintercept.qualtrics.com www.google.com analytics.google.com stats.g.doubleclick.net syndicatedsearch.goog gov1.qualtrics.com; report-uri /report-csp-violation"
+            ],
+            "strict-transport-security": [
+              "max-age=31536000 ; includeSubDomains"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Suspicious Activity and Items | CISALock",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "3325",
+      "domain": "cisa.gov",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.cisa.gov/all-bomb-threat-products",
+      "depth": 5,
+      "parent_url": "https://www.cisa.gov/topics/physical-security/bombing-prevention/bomb-threats",
+      "attempt": 14,
+      "timestamp": "2026-11-12T21:13:50.292366+00:00",
+      "final_url": "https://www.cisa.gov/topics/physical-security/bombing-prevention/bomb-threats/all-bomb-threat-products",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "default-src *.cisa.gov; script-src *.cisa.gov 'unsafe-inline' 'unsafe-eval' www.googletagmanager.com cse.google.com cdn.jsdelivr.net www.google.com www.youtube.com dap.digitalgov.gov cdnjs.cloudflare.com siteimproveanalytics.com *.adtrafficquality.google gov1.siteintercept.qualtrics.com *.gov1.siteintercept.qualtrics.com clients1.google.com; style-src 'unsafe-inline' *.cisa.gov fonts.googleapis.com www.google.com cdnjs.cloudflare.com; img-src *.cisa.gov data: www.google.com clients1.google.com www.googletagmanager.com *.siteimproveanalytics.io *.adtrafficquality.google gov1.siteintercept.qualtrics.com; frame-src *.cisa.gov *.dhs.gov www.youtube.com *.adtrafficquality.google syndicatedsearch.goog; font-src *.cisa.gov fonts.gstatic.com; connect-src *.cisa.gov www.google-analytics.com www.googletagmanager.com *.adtrafficquality.google gov1.sr.qualtrics.com gov1.siteintercept.qualtrics.com www.google.com analytics.google.com stats.g.doubleclick.net syndicatedsearch.goog gov1.qualtrics.com; report-uri /report-csp-violation"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000 ; includeSubDomains"
+        ]
+      },
+      "body_bytes": 67900,
+      "truncated": false,
+      "body_sha256": "03eba4d56896dd4f7f11eb2ce7361137470e81a5297ff4c558e990eb9762a4ed",
+      "redirect_chain": [
+        {
+          "url": "https://www.cisa.gov/all-bomb-threat-products",
+          "status": 301,
+          "location": "/topics/physical-security/bombing-prevention/bomb-threats/all-bomb-threat-products",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [
+              "default-src *.cisa.gov; script-src *.cisa.gov 'unsafe-inline' 'unsafe-eval' www.googletagmanager.com cse.google.com cdn.jsdelivr.net www.google.com www.youtube.com dap.digitalgov.gov cdnjs.cloudflare.com siteimproveanalytics.com *.adtrafficquality.google gov1.siteintercept.qualtrics.com *.gov1.siteintercept.qualtrics.com clients1.google.com; style-src 'unsafe-inline' *.cisa.gov fonts.googleapis.com www.google.com cdnjs.cloudflare.com; img-src *.cisa.gov data: www.google.com clients1.google.com www.googletagmanager.com *.siteimproveanalytics.io *.adtrafficquality.google gov1.siteintercept.qualtrics.com; frame-src *.cisa.gov *.dhs.gov www.youtube.com *.adtrafficquality.google syndicatedsearch.goog; font-src *.cisa.gov fonts.gstatic.com; connect-src *.cisa.gov www.google-analytics.com www.googletagmanager.com *.adtrafficquality.google gov1.sr.qualtrics.com gov1.siteintercept.qualtrics.com www.google.com analytics.google.com stats.g.doubleclick.net syndicatedsearch.goog gov1.qualtrics.com; report-uri /report-csp-violation"
+            ],
+            "strict-transport-security": [
+              "max-age=31536000 ; includeSubDomains"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Bomb Threat Products | CISALock",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "3325",
+      "domain": "cisa.gov",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.cisa.gov/kev",
+      "depth": 1,
+      "parent_url": "https://www.cisa.gov/",
+      "attempt": 15,
+      "timestamp": "2026-11-12T21:13:51.280504+00:00",
+      "final_url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "default-src *.cisa.gov; script-src *.cisa.gov 'unsafe-inline' 'unsafe-eval' www.googletagmanager.com cse.google.com cdn.jsdelivr.net www.google.com www.youtube.com dap.digitalgov.gov cdnjs.cloudflare.com siteimproveanalytics.com *.adtrafficquality.google gov1.siteintercept.qualtrics.com *.gov1.siteintercept.qualtrics.com clients1.google.com; style-src 'unsafe-inline' *.cisa.gov fonts.googleapis.com www.google.com cdnjs.cloudflare.com; img-src *.cisa.gov data: www.google.com clients1.google.com www.googletagmanager.com *.siteimproveanalytics.io *.adtrafficquality.google gov1.siteintercept.qualtrics.com; frame-src *.cisa.gov *.dhs.gov www.youtube.com *.adtrafficquality.google syndicatedsearch.goog; font-src *.cisa.gov fonts.gstatic.com; connect-src *.cisa.gov www.google-analytics.com www.googletagmanager.com *.adtrafficquality.google gov1.sr.qualtrics.com gov1.siteintercept.qualtrics.com www.google.com analytics.google.com stats.g.doubleclick.net syndicatedsearch.goog gov1.qualtrics.com; report-uri /report-csp-violation"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000 ; includeSubDomains"
+        ]
+      },
+      "body_bytes": 290698,
+      "truncated": false,
+      "body_sha256": "587ce52ef73bb150cc18df39b6720e53bad9b2af3022497bdde6c7b2f237cc71",
+      "redirect_chain": [
+        {
+          "url": "https://www.cisa.gov/kev",
+          "status": 301,
+          "location": "/known-exploited-vulnerabilities-catalog",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [
+              "default-src *.cisa.gov; script-src *.cisa.gov 'unsafe-inline' 'unsafe-eval' www.googletagmanager.com cse.google.com cdn.jsdelivr.net www.google.com www.youtube.com dap.digitalgov.gov cdnjs.cloudflare.com siteimproveanalytics.com *.adtrafficquality.google gov1.siteintercept.qualtrics.com *.gov1.siteintercept.qualtrics.com clients1.google.com; style-src 'unsafe-inline' *.cisa.gov fonts.googleapis.com www.google.com cdnjs.cloudflare.com; img-src *.cisa.gov data: www.google.com clients1.google.com www.googletagmanager.com *.siteimproveanalytics.io *.adtrafficquality.google gov1.siteintercept.qualtrics.com; frame-src *.cisa.gov *.dhs.gov www.youtube.com *.adtrafficquality.google syndicatedsearch.goog; font-src *.cisa.gov fonts.gstatic.com; connect-src *.cisa.gov www.google-analytics.com www.googletagmanager.com *.adtrafficquality.google gov1.sr.qualtrics.com gov1.siteintercept.qualtrics.com www.google.com analytics.google.com stats.g.doubleclick.net syndicatedsearch.goog gov1.qualtrics.com; report-uri /report-csp-violation"
+            ],
+            "strict-transport-security": [
+              "max-age=31536000 ; includeSubDomains"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Known Exploited Vulnerabilities Catalog | CISALock",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "3325",
+      "domain": "cisa.gov",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.cisa.gov/audiences/small-and-medium-businesses/secure-your-business/teach-employees-avoid-phishing",
+      "depth": 2,
+      "parent_url": "https://www.cisa.gov/staying-secure-large-scale-events",
+      "attempt": 16,
+      "timestamp": "2026-11-12T21:13:51.851447+00:00",
+      "final_url": "https://www.cisa.gov/audiences/small-and-medium-businesses/secure-your-business/teach-employees-avoid-phishing",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "default-src *.cisa.gov; script-src *.cisa.gov 'unsafe-inline' 'unsafe-eval' www.googletagmanager.com cse.google.com cdn.jsdelivr.net www.google.com www.youtube.com dap.digitalgov.gov cdnjs.cloudflare.com siteimproveanalytics.com *.adtrafficquality.google gov1.siteintercept.qualtrics.com *.gov1.siteintercept.qualtrics.com clients1.google.com; style-src 'unsafe-inline' *.cisa.gov fonts.googleapis.com www.google.com cdnjs.cloudflare.com; img-src *.cisa.gov data: www.google.com clients1.google.com www.googletagmanager.com *.siteimproveanalytics.io *.adtrafficquality.google gov1.siteintercept.qualtrics.com; frame-src *.cisa.gov *.dhs.gov www.youtube.com *.adtrafficquality.google syndicatedsearch.goog; font-src *.cisa.gov fonts.gstatic.com; connect-src *.cisa.gov www.google-analytics.com www.googletagmanager.com *.adtrafficquality.google gov1.sr.qualtrics.com gov1.siteintercept.qualtrics.com www.google.com analytics.google.com stats.g.doubleclick.net syndicatedsearch.goog gov1.qualtrics.com; report-uri /report-csp-violation"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000 ; includeSubDomains"
+        ]
+      },
+      "body_bytes": 60833,
+      "truncated": false,
+      "body_sha256": "0924d6ee6e8ab0cf8863be3c53de7f26063f1c8e603b619ae8f57fe9a8459995",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Teach Employees to Avoid Phishing | CISALock",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "3325",
+      "domain": "cisa.gov",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.cisa.gov/small-and-medium-sized-business-resources",
+      "depth": 3,
+      "parent_url": "https://www.cisa.gov/audiences/small-and-medium-businesses/secure-your-business/teach-employees-avoid-phishing",
+      "attempt": 17,
+      "timestamp": "2026-11-12T21:13:52.733032+00:00",
+      "final_url": "https://www.cisa.gov/audiences/small-and-medium-businesses/secure-your-business/smb-resources",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "default-src *.cisa.gov; script-src *.cisa.gov 'unsafe-inline' 'unsafe-eval' www.googletagmanager.com cse.google.com cdn.jsdelivr.net www.google.com www.youtube.com dap.digitalgov.gov cdnjs.cloudflare.com siteimproveanalytics.com *.adtrafficquality.google gov1.siteintercept.qualtrics.com *.gov1.siteintercept.qualtrics.com clients1.google.com; style-src 'unsafe-inline' *.cisa.gov fonts.googleapis.com www.google.com cdnjs.cloudflare.com; img-src *.cisa.gov data: www.google.com clients1.google.com www.googletagmanager.com *.siteimproveanalytics.io *.adtrafficquality.google gov1.siteintercept.qualtrics.com; frame-src *.cisa.gov *.dhs.gov www.youtube.com *.adtrafficquality.google syndicatedsearch.goog; font-src *.cisa.gov fonts.gstatic.com; connect-src *.cisa.gov www.google-analytics.com www.googletagmanager.com *.adtrafficquality.google gov1.sr.qualtrics.com gov1.siteintercept.qualtrics.com www.google.com analytics.google.com stats.g.doubleclick.net syndicatedsearch.goog gov1.qualtrics.com; report-uri /report-csp-violation"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000 ; includeSubDomains"
+        ]
+      },
+      "body_bytes": 65161,
+      "truncated": false,
+      "body_sha256": "8628e974bdbbbf9dfa3c086d291c19bd27a2369babd9ac7222df1c24304f2efa",
+      "redirect_chain": [
+        {
+          "url": "https://www.cisa.gov/small-and-medium-sized-business-resources",
+          "status": 301,
+          "location": "/audiences/small-and-medium-businesses/secure-your-business/smb-resources",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [
+              "default-src *.cisa.gov; script-src *.cisa.gov 'unsafe-inline' 'unsafe-eval' www.googletagmanager.com cse.google.com cdn.jsdelivr.net www.google.com www.youtube.com dap.digitalgov.gov cdnjs.cloudflare.com siteimproveanalytics.com *.adtrafficquality.google gov1.siteintercept.qualtrics.com *.gov1.siteintercept.qualtrics.com clients1.google.com; style-src 'unsafe-inline' *.cisa.gov fonts.googleapis.com www.google.com cdnjs.cloudflare.com; img-src *.cisa.gov data: www.google.com clients1.google.com www.googletagmanager.com *.siteimproveanalytics.io *.adtrafficquality.google gov1.siteintercept.qualtrics.com; frame-src *.cisa.gov *.dhs.gov www.youtube.com *.adtrafficquality.google syndicatedsearch.goog; font-src *.cisa.gov fonts.gstatic.com; connect-src *.cisa.gov www.google-analytics.com www.googletagmanager.com *.adtrafficquality.google gov1.sr.qualtrics.com gov1.siteintercept.qualtrics.com www.google.com analytics.google.com stats.g.doubleclick.net syndicatedsearch.goog gov1.qualtrics.com; report-uri /report-csp-violation"
+            ],
+            "strict-transport-security": [
+              "max-age=31536000 ; includeSubDomains"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Small and Medium-Sized Business Resources | CISALock",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "3325",
+      "domain": "cisa.gov",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.cisa.gov/secure-our-world/require-strong-passwords",
+      "depth": 3,
+      "parent_url": "https://www.cisa.gov/audiences/small-and-medium-businesses/secure-your-business/teach-employees-avoid-phishing",
+      "attempt": 18,
+      "timestamp": "2026-11-12T21:13:53.795895+00:00",
+      "final_url": "https://www.cisa.gov/audiences/small-and-medium-businesses/secure-your-business/require-strong-passwords",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "default-src *.cisa.gov; script-src *.cisa.gov 'unsafe-inline' 'unsafe-eval' www.googletagmanager.com cse.google.com cdn.jsdelivr.net www.google.com www.youtube.com dap.digitalgov.gov cdnjs.cloudflare.com siteimproveanalytics.com *.adtrafficquality.google gov1.siteintercept.qualtrics.com *.gov1.siteintercept.qualtrics.com clients1.google.com; style-src 'unsafe-inline' *.cisa.gov fonts.googleapis.com www.google.com cdnjs.cloudflare.com; img-src *.cisa.gov data: www.google.com clients1.google.com www.googletagmanager.com *.siteimproveanalytics.io *.adtrafficquality.google gov1.siteintercept.qualtrics.com; frame-src *.cisa.gov *.dhs.gov www.youtube.com *.adtrafficquality.google syndicatedsearch.goog; font-src *.cisa.gov fonts.gstatic.com; connect-src *.cisa.gov www.google-analytics.com www.googletagmanager.com *.adtrafficquality.google gov1.sr.qualtrics.com gov1.siteintercept.qualtrics.com www.google.com analytics.google.com stats.g.doubleclick.net syndicatedsearch.goog gov1.qualtrics.com; report-uri /report-csp-violation"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000 ; includeSubDomains"
+        ]
+      },
+      "body_bytes": 59272,
+      "truncated": false,
+      "body_sha256": "c04c4126bb09dfaf08a63668e25a7ad171c6df85e21983fa98bd2d7ba78c2ca4",
+      "redirect_chain": [
+        {
+          "url": "https://www.cisa.gov/secure-our-world/require-strong-passwords",
+          "status": 301,
+          "location": "/audiences/small-and-medium-businesses/secure-your-business/require-strong-passwords",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [
+              "default-src *.cisa.gov; script-src *.cisa.gov 'unsafe-inline' 'unsafe-eval' www.googletagmanager.com cse.google.com cdn.jsdelivr.net www.google.com www.youtube.com dap.digitalgov.gov cdnjs.cloudflare.com siteimproveanalytics.com *.adtrafficquality.google gov1.siteintercept.qualtrics.com *.gov1.siteintercept.qualtrics.com clients1.google.com; style-src 'unsafe-inline' *.cisa.gov fonts.googleapis.com www.google.com cdnjs.cloudflare.com; img-src *.cisa.gov data: www.google.com clients1.google.com www.googletagmanager.com *.siteimproveanalytics.io *.adtrafficquality.google gov1.siteintercept.qualtrics.com; frame-src *.cisa.gov *.dhs.gov www.youtube.com *.adtrafficquality.google syndicatedsearch.goog; font-src *.cisa.gov fonts.gstatic.com; connect-src *.cisa.gov www.google-analytics.com www.googletagmanager.com *.adtrafficquality.google gov1.sr.qualtrics.com gov1.siteintercept.qualtrics.com www.google.com analytics.google.com stats.g.doubleclick.net syndicatedsearch.goog gov1.qualtrics.com; report-uri /report-csp-violation"
+            ],
+            "strict-transport-security": [
+              "max-age=31536000 ; includeSubDomains"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Require Strong Passwords | CISALock",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "3325",
+      "domain": "cisa.gov",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.cisa.gov/ied-awareness",
+      "depth": 4,
+      "parent_url": "https://www.cisa.gov/topics/physical-security/bombing-prevention",
+      "attempt": 19,
+      "timestamp": "2026-11-12T21:13:54.820770+00:00",
+      "final_url": "https://www.cisa.gov/topics/physical-security/bombing-prevention/ied-awareness",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "default-src *.cisa.gov; script-src *.cisa.gov 'unsafe-inline' 'unsafe-eval' www.googletagmanager.com cse.google.com cdn.jsdelivr.net www.google.com www.youtube.com dap.digitalgov.gov cdnjs.cloudflare.com siteimproveanalytics.com *.adtrafficquality.google gov1.siteintercept.qualtrics.com *.gov1.siteintercept.qualtrics.com clients1.google.com; style-src 'unsafe-inline' *.cisa.gov fonts.googleapis.com www.google.com cdnjs.cloudflare.com; img-src *.cisa.gov data: www.google.com clients1.google.com www.googletagmanager.com *.siteimproveanalytics.io *.adtrafficquality.google gov1.siteintercept.qualtrics.com; frame-src *.cisa.gov *.dhs.gov www.youtube.com *.adtrafficquality.google syndicatedsearch.goog; font-src *.cisa.gov fonts.gstatic.com; connect-src *.cisa.gov www.google-analytics.com www.googletagmanager.com *.adtrafficquality.google gov1.sr.qualtrics.com gov1.siteintercept.qualtrics.com www.google.com analytics.google.com stats.g.doubleclick.net syndicatedsearch.goog gov1.qualtrics.com; report-uri /report-csp-violation"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000 ; includeSubDomains"
+        ]
+      },
+      "body_bytes": 73508,
+      "truncated": false,
+      "body_sha256": "138dc5932ac9b6806e4524d1122c0dedd8b0438dbad4fa3e5f33444e145c949b",
+      "redirect_chain": [
+        {
+          "url": "https://www.cisa.gov/ied-awareness",
+          "status": 301,
+          "location": "/topics/physical-security/bombing-prevention/ied-awareness",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [
+              "default-src *.cisa.gov; script-src *.cisa.gov 'unsafe-inline' 'unsafe-eval' www.googletagmanager.com cse.google.com cdn.jsdelivr.net www.google.com www.youtube.com dap.digitalgov.gov cdnjs.cloudflare.com siteimproveanalytics.com *.adtrafficquality.google gov1.siteintercept.qualtrics.com *.gov1.siteintercept.qualtrics.com clients1.google.com; style-src 'unsafe-inline' *.cisa.gov fonts.googleapis.com www.google.com cdnjs.cloudflare.com; img-src *.cisa.gov data: www.google.com clients1.google.com www.googletagmanager.com *.siteimproveanalytics.io *.adtrafficquality.google gov1.siteintercept.qualtrics.com; frame-src *.cisa.gov *.dhs.gov www.youtube.com *.adtrafficquality.google syndicatedsearch.goog; font-src *.cisa.gov fonts.gstatic.com; connect-src *.cisa.gov www.google-analytics.com www.googletagmanager.com *.adtrafficquality.google gov1.sr.qualtrics.com gov1.siteintercept.qualtrics.com www.google.com analytics.google.com stats.g.doubleclick.net syndicatedsearch.goog gov1.qualtrics.com; report-uri /report-csp-violation"
+            ],
+            "strict-transport-security": [
+              "max-age=31536000 ; includeSubDomains"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "IED Awareness | CISALock",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "3325",
+      "domain": "cisa.gov",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.cisa.gov/all-suspicious-activity-and-items-training",
+      "depth": 5,
+      "parent_url": "https://www.cisa.gov/topics/physical-security/bombing-prevention/suspicious-activity-and-items",
+      "attempt": 20,
+      "timestamp": "2026-11-12T21:13:55.845756+00:00",
+      "final_url": "https://www.cisa.gov/topics/physical-security/bombing-prevention/suspicious-activity-and-items/all-suspicious-activity-and-items-training",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "default-src *.cisa.gov; script-src *.cisa.gov 'unsafe-inline' 'unsafe-eval' www.googletagmanager.com cse.google.com cdn.jsdelivr.net www.google.com www.youtube.com dap.digitalgov.gov cdnjs.cloudflare.com siteimproveanalytics.com *.adtrafficquality.google gov1.siteintercept.qualtrics.com *.gov1.siteintercept.qualtrics.com clients1.google.com; style-src 'unsafe-inline' *.cisa.gov fonts.googleapis.com www.google.com cdnjs.cloudflare.com; img-src *.cisa.gov data: www.google.com clients1.google.com www.googletagmanager.com *.siteimproveanalytics.io *.adtrafficquality.google gov1.siteintercept.qualtrics.com; frame-src *.cisa.gov *.dhs.gov www.youtube.com *.adtrafficquality.google syndicatedsearch.goog; font-src *.cisa.gov fonts.gstatic.com; connect-src *.cisa.gov www.google-analytics.com www.googletagmanager.com *.adtrafficquality.google gov1.sr.qualtrics.com gov1.siteintercept.qualtrics.com www.google.com analytics.google.com stats.g.doubleclick.net syndicatedsearch.goog gov1.qualtrics.com; report-uri /report-csp-violation"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000 ; includeSubDomains"
+        ]
+      },
+      "body_bytes": 59524,
+      "truncated": false,
+      "body_sha256": "b95ab767c5b9974994ab12be2c04fe869d89f42a0ed156fa4b60324596c9a659",
+      "redirect_chain": [
+        {
+          "url": "https://www.cisa.gov/all-suspicious-activity-and-items-training",
+          "status": 301,
+          "location": "/topics/physical-security/bombing-prevention/suspicious-activity-and-items/all-suspicious-activity-and-items-training",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [
+              "default-src *.cisa.gov; script-src *.cisa.gov 'unsafe-inline' 'unsafe-eval' www.googletagmanager.com cse.google.com cdn.jsdelivr.net www.google.com www.youtube.com dap.digitalgov.gov cdnjs.cloudflare.com siteimproveanalytics.com *.adtrafficquality.google gov1.siteintercept.qualtrics.com *.gov1.siteintercept.qualtrics.com clients1.google.com; style-src 'unsafe-inline' *.cisa.gov fonts.googleapis.com www.google.com cdnjs.cloudflare.com; img-src *.cisa.gov data: www.google.com clients1.google.com www.googletagmanager.com *.siteimproveanalytics.io *.adtrafficquality.google gov1.siteintercept.qualtrics.com; frame-src *.cisa.gov *.dhs.gov www.youtube.com *.adtrafficquality.google syndicatedsearch.goog; font-src *.cisa.gov fonts.gstatic.com; connect-src *.cisa.gov www.google-analytics.com www.googletagmanager.com *.adtrafficquality.google gov1.sr.qualtrics.com gov1.siteintercept.qualtrics.com www.google.com analytics.google.com stats.g.doubleclick.net syndicatedsearch.goog gov1.qualtrics.com; report-uri /report-csp-violation"
+            ],
+            "strict-transport-security": [
+              "max-age=31536000 ; includeSubDomains"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "All Suspicious Activity and Items Training | CISALock",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "3325",
+      "domain": "cisa.gov",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.cisa.gov/report",
+      "depth": 1,
+      "parent_url": "https://www.cisa.gov/",
+      "attempt": 21,
+      "timestamp": "2026-11-12T21:13:57.101390+00:00",
+      "final_url": "https://www.cisa.gov/report",
+      "status": 301,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "default-src *.cisa.gov; script-src *.cisa.gov 'unsafe-inline' 'unsafe-eval' www.googletagmanager.com cse.google.com cdn.jsdelivr.net www.google.com www.youtube.com dap.digitalgov.gov cdnjs.cloudflare.com siteimproveanalytics.com *.adtrafficquality.google gov1.siteintercept.qualtrics.com *.gov1.siteintercept.qualtrics.com clients1.google.com; style-src 'unsafe-inline' *.cisa.gov fonts.googleapis.com www.google.com cdnjs.cloudflare.com; img-src *.cisa.gov data: www.google.com clients1.google.com www.googletagmanager.com *.siteimproveanalytics.io *.adtrafficquality.google gov1.siteintercept.qualtrics.com; frame-src *.cisa.gov *.dhs.gov www.youtube.com *.adtrafficquality.google syndicatedsearch.goog; font-src *.cisa.gov fonts.gstatic.com; connect-src *.cisa.gov www.google-analytics.com www.googletagmanager.com *.adtrafficquality.google gov1.sr.qualtrics.com gov1.siteintercept.qualtrics.com www.google.com analytics.google.com stats.g.doubleclick.net syndicatedsearch.goog gov1.qualtrics.com; report-uri /report-csp-violation"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000 ; includeSubDomains"
+        ]
+      },
+      "body_bytes": 0,
+      "truncated": false,
+      "body_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "redirect_chain": [
+        {
+          "url": "https://www.cisa.gov/report",
+          "status": 301,
+          "location": "https://myservices.cisa.gov/irf",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [
+              "default-src *.cisa.gov; script-src *.cisa.gov 'unsafe-inline' 'unsafe-eval' www.googletagmanager.com cse.google.com cdn.jsdelivr.net www.google.com www.youtube.com dap.digitalgov.gov cdnjs.cloudflare.com siteimproveanalytics.com *.adtrafficquality.google gov1.siteintercept.qualtrics.com *.gov1.siteintercept.qualtrics.com clients1.google.com; style-src 'unsafe-inline' *.cisa.gov fonts.googleapis.com www.google.com cdnjs.cloudflare.com; img-src *.cisa.gov data: www.google.com clients1.google.com www.googletagmanager.com *.siteimproveanalytics.io *.adtrafficquality.google gov1.siteintercept.qualtrics.com; frame-src *.cisa.gov *.dhs.gov www.youtube.com *.adtrafficquality.google syndicatedsearch.goog; font-src *.cisa.gov fonts.gstatic.com; connect-src *.cisa.gov www.google-analytics.com www.googletagmanager.com *.adtrafficquality.google gov1.sr.qualtrics.com gov1.siteintercept.qualtrics.com www.google.com analytics.google.com stats.g.doubleclick.net syndicatedsearch.goog gov1.qualtrics.com; report-uri /report-csp-violation"
+            ],
+            "strict-transport-security": [
+              "max-age=31536000 ; includeSubDomains"
+            ]
+          }
+        }
+      ],
+      "error": "redirect_out_of_scope",
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "3325",
+      "domain": "cisa.gov",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.cisa.gov/forms/no-cost-cybersecurity-services",
+      "depth": 2,
+      "parent_url": "https://www.cisa.gov/resources-tools/resources/no-cost-cybersecurity-services-and-tools",
+      "attempt": 22,
+      "timestamp": "2026-11-12T21:13:57.169279+00:00",
+      "final_url": "https://www.cisa.gov/forms/no-cost-cybersecurity-services",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "default-src *.cisa.gov; script-src *.cisa.gov 'unsafe-inline' 'unsafe-eval' www.googletagmanager.com cse.google.com cdn.jsdelivr.net www.google.com www.youtube.com dap.digitalgov.gov cdnjs.cloudflare.com siteimproveanalytics.com *.adtrafficquality.google gov1.siteintercept.qualtrics.com *.gov1.siteintercept.qualtrics.com clients1.google.com; style-src 'unsafe-inline' *.cisa.gov fonts.googleapis.com www.google.com cdnjs.cloudflare.com; img-src *.cisa.gov data: www.google.com clients1.google.com www.googletagmanager.com *.siteimproveanalytics.io *.adtrafficquality.google gov1.siteintercept.qualtrics.com; frame-src *.cisa.gov *.dhs.gov www.youtube.com *.adtrafficquality.google syndicatedsearch.goog; font-src *.cisa.gov fonts.gstatic.com; connect-src *.cisa.gov www.google-analytics.com www.googletagmanager.com *.adtrafficquality.google gov1.sr.qualtrics.com gov1.siteintercept.qualtrics.com www.google.com analytics.google.com stats.g.doubleclick.net syndicatedsearch.goog gov1.qualtrics.com; report-uri /report-csp-violation"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000 ; includeSubDomains"
+        ]
+      },
+      "body_bytes": 67513,
+      "truncated": false,
+      "body_sha256": "c304e84ce0ee2c04ff9f8fd263a1ec874ffa16883b8bb835c7817547293554bb",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "No-Cost Cybersecurity Services and Tools Submission Form | CISALock",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "3325",
+      "domain": "cisa.gov",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.cisa.gov/protective-measures",
+      "depth": 4,
+      "parent_url": "https://www.cisa.gov/topics/physical-security/bombing-prevention",
+      "attempt": 23,
+      "timestamp": "2026-11-12T21:13:58.178470+00:00",
+      "final_url": "https://www.cisa.gov/topics/physical-security/bombing-prevention/protective-measures",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "default-src *.cisa.gov; script-src *.cisa.gov 'unsafe-inline' 'unsafe-eval' www.googletagmanager.com cse.google.com cdn.jsdelivr.net www.google.com www.youtube.com dap.digitalgov.gov cdnjs.cloudflare.com siteimproveanalytics.com *.adtrafficquality.google gov1.siteintercept.qualtrics.com *.gov1.siteintercept.qualtrics.com clients1.google.com; style-src 'unsafe-inline' *.cisa.gov fonts.googleapis.com www.google.com cdnjs.cloudflare.com; img-src *.cisa.gov data: www.google.com clients1.google.com www.googletagmanager.com *.siteimproveanalytics.io *.adtrafficquality.google gov1.siteintercept.qualtrics.com; frame-src *.cisa.gov *.dhs.gov www.youtube.com *.adtrafficquality.google syndicatedsearch.goog; font-src *.cisa.gov fonts.gstatic.com; connect-src *.cisa.gov www.google-analytics.com www.googletagmanager.com *.adtrafficquality.google gov1.sr.qualtrics.com gov1.siteintercept.qualtrics.com www.google.com analytics.google.com stats.g.doubleclick.net syndicatedsearch.goog gov1.qualtrics.com; report-uri /report-csp-violation"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000 ; includeSubDomains"
+        ]
+      },
+      "body_bytes": 74148,
+      "truncated": false,
+      "body_sha256": "30188ac1f235de08b54eb9ad06d3d52be0efc9bb375fc309d1526604f3ce0d78",
+      "redirect_chain": [
+        {
+          "url": "https://www.cisa.gov/protective-measures",
+          "status": 301,
+          "location": "/topics/physical-security/bombing-prevention/protective-measures",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [
+              "default-src *.cisa.gov; script-src *.cisa.gov 'unsafe-inline' 'unsafe-eval' www.googletagmanager.com cse.google.com cdn.jsdelivr.net www.google.com www.youtube.com dap.digitalgov.gov cdnjs.cloudflare.com siteimproveanalytics.com *.adtrafficquality.google gov1.siteintercept.qualtrics.com *.gov1.siteintercept.qualtrics.com clients1.google.com; style-src 'unsafe-inline' *.cisa.gov fonts.googleapis.com www.google.com cdnjs.cloudflare.com; img-src *.cisa.gov data: www.google.com clients1.google.com www.googletagmanager.com *.siteimproveanalytics.io *.adtrafficquality.google gov1.siteintercept.qualtrics.com; frame-src *.cisa.gov *.dhs.gov www.youtube.com *.adtrafficquality.google syndicatedsearch.goog; font-src *.cisa.gov fonts.gstatic.com; connect-src *.cisa.gov www.google-analytics.com www.googletagmanager.com *.adtrafficquality.google gov1.sr.qualtrics.com gov1.siteintercept.qualtrics.com www.google.com analytics.google.com stats.g.doubleclick.net syndicatedsearch.goog gov1.qualtrics.com; report-uri /report-csp-violation"
+            ],
+            "strict-transport-security": [
+              "max-age=31536000 ; includeSubDomains"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Protective Measures | CISALock",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "3325",
+      "domain": "cisa.gov",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.cisa.gov/all-suspicious-activity-and-items-products",
+      "depth": 5,
+      "parent_url": "https://www.cisa.gov/topics/physical-security/bombing-prevention/suspicious-activity-and-items",
+      "attempt": 24,
+      "timestamp": "2026-11-12T21:13:59.336368+00:00",
+      "final_url": "https://www.cisa.gov/topics/physical-security/bombing-prevention/suspicious-activity-and-items/all-suspicious-activity-and-items-products",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "default-src *.cisa.gov; script-src *.cisa.gov 'unsafe-inline' 'unsafe-eval' www.googletagmanager.com cse.google.com cdn.jsdelivr.net www.google.com www.youtube.com dap.digitalgov.gov cdnjs.cloudflare.com siteimproveanalytics.com *.adtrafficquality.google gov1.siteintercept.qualtrics.com *.gov1.siteintercept.qualtrics.com clients1.google.com; style-src 'unsafe-inline' *.cisa.gov fonts.googleapis.com www.google.com cdnjs.cloudflare.com; img-src *.cisa.gov data: www.google.com clients1.google.com www.googletagmanager.com *.siteimproveanalytics.io *.adtrafficquality.google gov1.siteintercept.qualtrics.com; frame-src *.cisa.gov *.dhs.gov www.youtube.com *.adtrafficquality.google syndicatedsearch.goog; font-src *.cisa.gov fonts.gstatic.com; connect-src *.cisa.gov www.google-analytics.com www.googletagmanager.com *.adtrafficquality.google gov1.sr.qualtrics.com gov1.siteintercept.qualtrics.com www.google.com analytics.google.com stats.g.doubleclick.net syndicatedsearch.goog gov1.qualtrics.com; report-uri /report-csp-violation"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000 ; includeSubDomains"
+        ]
+      },
+      "body_bytes": 68458,
+      "truncated": false,
+      "body_sha256": "3120ff218e0fd2034b05bec4ea9e1ccc6ce79f81f6bdaf161469787bc7a1bd48",
+      "redirect_chain": [
+        {
+          "url": "https://www.cisa.gov/all-suspicious-activity-and-items-products",
+          "status": 301,
+          "location": "/topics/physical-security/bombing-prevention/suspicious-activity-and-items/all-suspicious-activity-and-items-products",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [
+              "default-src *.cisa.gov; script-src *.cisa.gov 'unsafe-inline' 'unsafe-eval' www.googletagmanager.com cse.google.com cdn.jsdelivr.net www.google.com www.youtube.com dap.digitalgov.gov cdnjs.cloudflare.com siteimproveanalytics.com *.adtrafficquality.google gov1.siteintercept.qualtrics.com *.gov1.siteintercept.qualtrics.com clients1.google.com; style-src 'unsafe-inline' *.cisa.gov fonts.googleapis.com www.google.com cdnjs.cloudflare.com; img-src *.cisa.gov data: www.google.com clients1.google.com www.googletagmanager.com *.siteimproveanalytics.io *.adtrafficquality.google gov1.siteintercept.qualtrics.com; frame-src *.cisa.gov *.dhs.gov www.youtube.com *.adtrafficquality.google syndicatedsearch.goog; font-src *.cisa.gov fonts.gstatic.com; connect-src *.cisa.gov www.google-analytics.com www.googletagmanager.com *.adtrafficquality.google gov1.sr.qualtrics.com gov1.siteintercept.qualtrics.com www.google.com analytics.google.com stats.g.doubleclick.net syndicatedsearch.goog gov1.qualtrics.com; report-uri /report-csp-violation"
+            ],
+            "strict-transport-security": [
+              "max-age=31536000 ; includeSubDomains"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Suspicious Activity and Items Products | CISALock",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "3325",
+      "domain": "cisa.gov",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.cisa.gov/spotlight",
+      "depth": 1,
+      "parent_url": "https://www.cisa.gov/",
+      "attempt": 25,
+      "timestamp": "2026-11-12T21:14:01.141086+00:00",
+      "final_url": "https://www.cisa.gov/spotlight",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "default-src *.cisa.gov; script-src *.cisa.gov 'unsafe-inline' 'unsafe-eval' www.googletagmanager.com cse.google.com cdn.jsdelivr.net www.google.com www.youtube.com dap.digitalgov.gov cdnjs.cloudflare.com siteimproveanalytics.com *.adtrafficquality.google gov1.siteintercept.qualtrics.com *.gov1.siteintercept.qualtrics.com clients1.google.com; style-src 'unsafe-inline' *.cisa.gov fonts.googleapis.com www.google.com cdnjs.cloudflare.com; img-src *.cisa.gov data: www.google.com clients1.google.com www.googletagmanager.com *.siteimproveanalytics.io *.adtrafficquality.google gov1.siteintercept.qualtrics.com; frame-src *.cisa.gov *.dhs.gov www.youtube.com *.adtrafficquality.google syndicatedsearch.goog; font-src *.cisa.gov fonts.gstatic.com; connect-src *.cisa.gov www.google-analytics.com www.googletagmanager.com *.adtrafficquality.google gov1.sr.qualtrics.com gov1.siteintercept.qualtrics.com www.google.com analytics.google.com stats.g.doubleclick.net syndicatedsearch.goog gov1.qualtrics.com; report-uri /report-csp-violation"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000 ; includeSubDomains"
+        ]
+      },
+      "body_bytes": 59327,
+      "truncated": false,
+      "body_sha256": "a17da1c7c832ed1435a79b070f1ea7fbf1d5e5ab266d760139d4a4ca31ab88c5",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Spotlight On | CISALock",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "3325",
+      "domain": "cisa.gov",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.cisa.gov/cyber-hygiene-services",
+      "depth": 2,
+      "parent_url": "https://www.cisa.gov/resources-tools/resources/no-cost-cybersecurity-services-and-tools",
+      "attempt": 26,
+      "timestamp": "2026-11-12T21:14:01.272293+00:00",
+      "final_url": "https://www.cisa.gov/cyber-hygiene-services",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "default-src *.cisa.gov; script-src *.cisa.gov 'unsafe-inline' 'unsafe-eval' www.googletagmanager.com cse.google.com cdn.jsdelivr.net www.google.com www.youtube.com dap.digitalgov.gov cdnjs.cloudflare.com siteimproveanalytics.com *.adtrafficquality.google gov1.siteintercept.qualtrics.com *.gov1.siteintercept.qualtrics.com clients1.google.com; style-src 'unsafe-inline' *.cisa.gov fonts.googleapis.com www.google.com cdnjs.cloudflare.com; img-src *.cisa.gov data: www.google.com clients1.google.com www.googletagmanager.com *.siteimproveanalytics.io *.adtrafficquality.google gov1.siteintercept.qualtrics.com; frame-src *.cisa.gov *.dhs.gov www.youtube.com *.adtrafficquality.google syndicatedsearch.goog; font-src *.cisa.gov fonts.gstatic.com; connect-src *.cisa.gov www.google-analytics.com www.googletagmanager.com *.adtrafficquality.google gov1.sr.qualtrics.com gov1.siteintercept.qualtrics.com www.google.com analytics.google.com stats.g.doubleclick.net syndicatedsearch.goog gov1.qualtrics.com; report-uri /report-csp-violation"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000 ; includeSubDomains"
+        ]
+      },
+      "body_bytes": 53567,
+      "truncated": false,
+      "body_sha256": "a5813424d9932d4a63ca5b3163e413edb404dc8330281d6f9902d76b0fce44a5",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Cyber Hygiene Services | CISALock",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "3325",
+      "domain": "cisa.gov",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.cisa.gov/planning-and-preparedness",
+      "depth": 4,
+      "parent_url": "https://www.cisa.gov/topics/physical-security/bombing-prevention",
+      "attempt": 27,
+      "timestamp": "2026-11-12T21:14:02.393640+00:00",
+      "final_url": "https://www.cisa.gov/topics/physical-security/bombing-prevention/planning-and-preparedness",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "default-src *.cisa.gov; script-src *.cisa.gov 'unsafe-inline' 'unsafe-eval' www.googletagmanager.com cse.google.com cdn.jsdelivr.net www.google.com www.youtube.com dap.digitalgov.gov cdnjs.cloudflare.com siteimproveanalytics.com *.adtrafficquality.google gov1.siteintercept.qualtrics.com *.gov1.siteintercept.qualtrics.com clients1.google.com; style-src 'unsafe-inline' *.cisa.gov fonts.googleapis.com www.google.com cdnjs.cloudflare.com; img-src *.cisa.gov data: www.google.com clients1.google.com www.googletagmanager.com *.siteimproveanalytics.io *.adtrafficquality.google gov1.siteintercept.qualtrics.com; frame-src *.cisa.gov *.dhs.gov www.youtube.com *.adtrafficquality.google syndicatedsearch.goog; font-src *.cisa.gov fonts.gstatic.com; connect-src *.cisa.gov www.google-analytics.com www.googletagmanager.com *.adtrafficquality.google gov1.sr.qualtrics.com gov1.siteintercept.qualtrics.com www.google.com analytics.google.com stats.g.doubleclick.net syndicatedsearch.goog gov1.qualtrics.com; report-uri /report-csp-violation"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000 ; includeSubDomains"
+        ]
+      },
+      "body_bytes": 72394,
+      "truncated": false,
+      "body_sha256": "0cc4cdb888da39276b68b20fdab0fde1d63fef15954c5795ee9332ce3bd1bc5b",
+      "redirect_chain": [
+        {
+          "url": "https://www.cisa.gov/planning-and-preparedness",
+          "status": 301,
+          "location": "/topics/physical-security/bombing-prevention/planning-and-preparedness",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [
+              "default-src *.cisa.gov; script-src *.cisa.gov 'unsafe-inline' 'unsafe-eval' www.googletagmanager.com cse.google.com cdn.jsdelivr.net www.google.com www.youtube.com dap.digitalgov.gov cdnjs.cloudflare.com siteimproveanalytics.com *.adtrafficquality.google gov1.siteintercept.qualtrics.com *.gov1.siteintercept.qualtrics.com clients1.google.com; style-src 'unsafe-inline' *.cisa.gov fonts.googleapis.com www.google.com cdnjs.cloudflare.com; img-src *.cisa.gov data: www.google.com clients1.google.com www.googletagmanager.com *.siteimproveanalytics.io *.adtrafficquality.google gov1.siteintercept.qualtrics.com; frame-src *.cisa.gov *.dhs.gov www.youtube.com *.adtrafficquality.google syndicatedsearch.goog; font-src *.cisa.gov fonts.gstatic.com; connect-src *.cisa.gov www.google-analytics.com www.googletagmanager.com *.adtrafficquality.google gov1.sr.qualtrics.com gov1.siteintercept.qualtrics.com www.google.com analytics.google.com stats.g.doubleclick.net syndicatedsearch.goog gov1.qualtrics.com; report-uri /report-csp-violation"
+            ],
+            "strict-transport-security": [
+              "max-age=31536000 ; includeSubDomains"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Planning and Preparedness | CISALock",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "3325",
+      "domain": "cisa.gov",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.cisa.gov/all-ied-awareness-products",
+      "depth": 5,
+      "parent_url": "https://www.cisa.gov/topics/physical-security/bombing-prevention/ied-awareness",
+      "attempt": 28,
+      "timestamp": "2026-11-12T21:14:05.617580+00:00",
+      "final_url": "https://www.cisa.gov/topics/physical-security/bombing-prevention/ied-awareness/all-ied-awareness-products",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "default-src *.cisa.gov; script-src *.cisa.gov 'unsafe-inline' 'unsafe-eval' www.googletagmanager.com cse.google.com cdn.jsdelivr.net www.google.com www.youtube.com dap.digitalgov.gov cdnjs.cloudflare.com siteimproveanalytics.com *.adtrafficquality.google gov1.siteintercept.qualtrics.com *.gov1.siteintercept.qualtrics.com clients1.google.com; style-src 'unsafe-inline' *.cisa.gov fonts.googleapis.com www.google.com cdnjs.cloudflare.com; img-src *.cisa.gov data: www.google.com clients1.google.com www.googletagmanager.com *.siteimproveanalytics.io *.adtrafficquality.google gov1.siteintercept.qualtrics.com; frame-src *.cisa.gov *.dhs.gov www.youtube.com *.adtrafficquality.google syndicatedsearch.goog; font-src *.cisa.gov fonts.gstatic.com; connect-src *.cisa.gov www.google-analytics.com www.googletagmanager.com *.adtrafficquality.google gov1.sr.qualtrics.com gov1.siteintercept.qualtrics.com www.google.com analytics.google.com stats.g.doubleclick.net syndicatedsearch.goog gov1.qualtrics.com; report-uri /report-csp-violation"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000 ; includeSubDomains"
+        ]
+      },
+      "body_bytes": 60858,
+      "truncated": false,
+      "body_sha256": "366b5dbd1caf5e40ac383c9edca949c367b014f81cbc888e05b22ee13ca249fc",
+      "redirect_chain": [
+        {
+          "url": "https://www.cisa.gov/all-ied-awareness-products",
+          "status": 301,
+          "location": "/topics/physical-security/bombing-prevention/ied-awareness/all-ied-awareness-products",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [
+              "default-src *.cisa.gov; script-src *.cisa.gov 'unsafe-inline' 'unsafe-eval' www.googletagmanager.com cse.google.com cdn.jsdelivr.net www.google.com www.youtube.com dap.digitalgov.gov cdnjs.cloudflare.com siteimproveanalytics.com *.adtrafficquality.google gov1.siteintercept.qualtrics.com *.gov1.siteintercept.qualtrics.com clients1.google.com; style-src 'unsafe-inline' *.cisa.gov fonts.googleapis.com www.google.com cdnjs.cloudflare.com; img-src *.cisa.gov data: www.google.com clients1.google.com www.googletagmanager.com *.siteimproveanalytics.io *.adtrafficquality.google gov1.siteintercept.qualtrics.com; frame-src *.cisa.gov *.dhs.gov www.youtube.com *.adtrafficquality.google syndicatedsearch.goog; font-src *.cisa.gov fonts.gstatic.com; connect-src *.cisa.gov www.google-analytics.com www.googletagmanager.com *.adtrafficquality.google gov1.sr.qualtrics.com gov1.siteintercept.qualtrics.com www.google.com analytics.google.com stats.g.doubleclick.net syndicatedsearch.goog gov1.qualtrics.com; report-uri /report-csp-violation"
+            ],
+            "strict-transport-security": [
+              "max-age=31536000 ; includeSubDomains"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "IED Awareness Products | CISALock",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "3325",
+      "domain": "cisa.gov",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.cisa.gov/cisa-live",
+      "depth": 1,
+      "parent_url": "https://www.cisa.gov/",
+      "attempt": 29,
+      "timestamp": "2026-11-12T21:14:06.361425+00:00",
+      "final_url": "https://www.cisa.gov/cisa-live",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "default-src *.cisa.gov; script-src *.cisa.gov 'unsafe-inline' 'unsafe-eval' www.googletagmanager.com cse.google.com cdn.jsdelivr.net www.google.com www.youtube.com dap.digitalgov.gov cdnjs.cloudflare.com siteimproveanalytics.com *.adtrafficquality.google gov1.siteintercept.qualtrics.com *.gov1.siteintercept.qualtrics.com clients1.google.com; style-src 'unsafe-inline' *.cisa.gov fonts.googleapis.com www.google.com cdnjs.cloudflare.com; img-src *.cisa.gov data: www.google.com clients1.google.com www.googletagmanager.com *.siteimproveanalytics.io *.adtrafficquality.google gov1.siteintercept.qualtrics.com; frame-src *.cisa.gov *.dhs.gov www.youtube.com *.adtrafficquality.google syndicatedsearch.goog; font-src *.cisa.gov fonts.gstatic.com; connect-src *.cisa.gov www.google-analytics.com www.googletagmanager.com *.adtrafficquality.google gov1.sr.qualtrics.com gov1.siteintercept.qualtrics.com www.google.com analytics.google.com stats.g.doubleclick.net syndicatedsearch.goog gov1.qualtrics.com; report-uri /report-csp-violation"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000 ; includeSubDomains"
+        ]
+      },
+      "body_bytes": 53836,
+      "truncated": false,
+      "body_sha256": "45190293f912a39932eb32293342b02bdb9874ff7f9cd786a284465d04b7c907",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "CISA Live! | CISALock",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "3325",
+      "domain": "cisa.gov",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.cisa.gov/cross-sector-cybersecurity-performance-goals",
+      "depth": 2,
+      "parent_url": "https://www.cisa.gov/resources-tools/resources/no-cost-cybersecurity-services-and-tools",
+      "attempt": 30,
+      "timestamp": "2026-11-12T21:14:06.544594+00:00",
+      "final_url": "https://www.cisa.gov/cross-sector-cybersecurity-performance-goals",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "default-src *.cisa.gov; script-src *.cisa.gov 'unsafe-inline' 'unsafe-eval' www.googletagmanager.com cse.google.com cdn.jsdelivr.net www.google.com www.youtube.com dap.digitalgov.gov cdnjs.cloudflare.com siteimproveanalytics.com *.adtrafficquality.google gov1.siteintercept.qualtrics.com *.gov1.siteintercept.qualtrics.com clients1.google.com; style-src 'unsafe-inline' *.cisa.gov fonts.googleapis.com www.google.com cdnjs.cloudflare.com; img-src *.cisa.gov data: www.google.com clients1.google.com www.googletagmanager.com *.siteimproveanalytics.io *.adtrafficquality.google gov1.siteintercept.qualtrics.com; frame-src *.cisa.gov *.dhs.gov www.youtube.com *.adtrafficquality.google syndicatedsearch.goog; font-src *.cisa.gov fonts.gstatic.com; connect-src *.cisa.gov www.google-analytics.com www.googletagmanager.com *.adtrafficquality.google gov1.sr.qualtrics.com gov1.siteintercept.qualtrics.com www.google.com analytics.google.com stats.g.doubleclick.net syndicatedsearch.goog gov1.qualtrics.com; report-uri /report-csp-violation"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000 ; includeSubDomains"
+        ]
+      },
+      "body_bytes": 71915,
+      "truncated": false,
+      "body_sha256": "d3b9eea9df1c03c6eb7e7fb54d535093996c27654b0e672b8ca376c38c80f53c",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Cross-Sector Cybersecurity Performance Goals | CISALock",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "3325",
+      "domain": "cisa.gov",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.cisa.gov/cybersecurity-performance-goals-2-0-cpg-2-0",
+      "depth": 3,
+      "parent_url": "https://www.cisa.gov/cross-sector-cybersecurity-performance-goals",
+      "attempt": 31,
+      "timestamp": "2026-11-12T21:14:06.999987+00:00",
+      "final_url": "https://www.cisa.gov/cybersecurity-performance-goals-2-0-cpg-2-0",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "default-src *.cisa.gov; script-src *.cisa.gov 'unsafe-inline' 'unsafe-eval' www.googletagmanager.com cse.google.com cdn.jsdelivr.net www.google.com www.youtube.com dap.digitalgov.gov cdnjs.cloudflare.com siteimproveanalytics.com *.adtrafficquality.google gov1.siteintercept.qualtrics.com *.gov1.siteintercept.qualtrics.com clients1.google.com; style-src 'unsafe-inline' *.cisa.gov fonts.googleapis.com www.google.com cdnjs.cloudflare.com; img-src *.cisa.gov data: www.google.com clients1.google.com www.googletagmanager.com *.siteimproveanalytics.io *.adtrafficquality.google gov1.siteintercept.qualtrics.com; frame-src *.cisa.gov *.dhs.gov www.youtube.com *.adtrafficquality.google syndicatedsearch.goog; font-src *.cisa.gov fonts.gstatic.com; connect-src *.cisa.gov www.google-analytics.com www.googletagmanager.com *.adtrafficquality.google gov1.sr.qualtrics.com gov1.siteintercept.qualtrics.com www.google.com analytics.google.com stats.g.doubleclick.net syndicatedsearch.goog gov1.qualtrics.com; report-uri /report-csp-violation"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000 ; includeSubDomains"
+        ]
+      },
+      "body_bytes": 99508,
+      "truncated": false,
+      "body_sha256": "15d11fc5d50e1f0224939cac57c2af555e278e74cf1f152b7661b1b980e09378",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Cybersecurity Performance Goals 2.0 (CPG 2.0) | CISALock",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "3325",
+      "domain": "cisa.gov",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.cisa.gov/downloading-and-installing-cset",
+      "depth": 3,
+      "parent_url": "https://www.cisa.gov/cross-sector-cybersecurity-performance-goals",
+      "attempt": 32,
+      "timestamp": "2026-11-12T21:14:08.032039+00:00",
+      "final_url": "https://www.cisa.gov/downloading-and-installing-csetr",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "default-src *.cisa.gov; script-src *.cisa.gov 'unsafe-inline' 'unsafe-eval' www.googletagmanager.com cse.google.com cdn.jsdelivr.net www.google.com www.youtube.com dap.digitalgov.gov cdnjs.cloudflare.com siteimproveanalytics.com *.adtrafficquality.google gov1.siteintercept.qualtrics.com *.gov1.siteintercept.qualtrics.com clients1.google.com; style-src 'unsafe-inline' *.cisa.gov fonts.googleapis.com www.google.com cdnjs.cloudflare.com; img-src *.cisa.gov data: www.google.com clients1.google.com www.googletagmanager.com *.siteimproveanalytics.io *.adtrafficquality.google gov1.siteintercept.qualtrics.com; frame-src *.cisa.gov *.dhs.gov www.youtube.com *.adtrafficquality.google syndicatedsearch.goog; font-src *.cisa.gov fonts.gstatic.com; connect-src *.cisa.gov www.google-analytics.com www.googletagmanager.com *.adtrafficquality.google gov1.sr.qualtrics.com gov1.siteintercept.qualtrics.com www.google.com analytics.google.com stats.g.doubleclick.net syndicatedsearch.goog gov1.qualtrics.com; report-uri /report-csp-violation"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000 ; includeSubDomains"
+        ]
+      },
+      "body_bytes": 47438,
+      "truncated": false,
+      "body_sha256": "c7292bf5796e99496ace1a325582a19fdf077cd4ab667cdf4bbfcf20f425ac8c",
+      "redirect_chain": [
+        {
+          "url": "https://www.cisa.gov/downloading-and-installing-cset",
+          "status": 301,
+          "location": "/downloading-and-installing-csetr",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [
+              "default-src *.cisa.gov; script-src *.cisa.gov 'unsafe-inline' 'unsafe-eval' www.googletagmanager.com cse.google.com cdn.jsdelivr.net www.google.com www.youtube.com dap.digitalgov.gov cdnjs.cloudflare.com siteimproveanalytics.com *.adtrafficquality.google gov1.siteintercept.qualtrics.com *.gov1.siteintercept.qualtrics.com clients1.google.com; style-src 'unsafe-inline' *.cisa.gov fonts.googleapis.com www.google.com cdnjs.cloudflare.com; img-src *.cisa.gov data: www.google.com clients1.google.com www.googletagmanager.com *.siteimproveanalytics.io *.adtrafficquality.google gov1.siteintercept.qualtrics.com; frame-src *.cisa.gov *.dhs.gov www.youtube.com *.adtrafficquality.google syndicatedsearch.goog; font-src *.cisa.gov fonts.gstatic.com; connect-src *.cisa.gov www.google-analytics.com www.googletagmanager.com *.adtrafficquality.google gov1.sr.qualtrics.com gov1.siteintercept.qualtrics.com www.google.com analytics.google.com stats.g.doubleclick.net syndicatedsearch.goog gov1.qualtrics.com; report-uri /report-csp-violation"
+            ],
+            "strict-transport-security": [
+              "max-age=31536000 ; includeSubDomains"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Downloading and Installing CSET\u00ae | CISALock",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "3325",
+      "domain": "cisa.gov",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.cisa.gov/safecom/encryption",
+      "depth": 4,
+      "parent_url": "https://www.cisa.gov/audiences/small-and-medium-businesses/secure-your-business/smb-resources",
+      "attempt": 33,
+      "timestamp": "2026-11-12T21:14:08.553583+00:00",
+      "final_url": "https://www.cisa.gov/safecom/encryption",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "default-src *.cisa.gov; script-src *.cisa.gov 'unsafe-inline' 'unsafe-eval' www.googletagmanager.com cse.google.com cdn.jsdelivr.net www.google.com www.youtube.com dap.digitalgov.gov cdnjs.cloudflare.com siteimproveanalytics.com *.adtrafficquality.google gov1.siteintercept.qualtrics.com *.gov1.siteintercept.qualtrics.com clients1.google.com; style-src 'unsafe-inline' *.cisa.gov fonts.googleapis.com www.google.com cdnjs.cloudflare.com; img-src *.cisa.gov data: www.google.com clients1.google.com www.googletagmanager.com *.siteimproveanalytics.io *.adtrafficquality.google gov1.siteintercept.qualtrics.com; frame-src *.cisa.gov *.dhs.gov www.youtube.com *.adtrafficquality.google syndicatedsearch.goog; font-src *.cisa.gov fonts.gstatic.com; connect-src *.cisa.gov www.google-analytics.com www.googletagmanager.com *.adtrafficquality.google gov1.sr.qualtrics.com gov1.siteintercept.qualtrics.com www.google.com analytics.google.com stats.g.doubleclick.net syndicatedsearch.goog gov1.qualtrics.com; report-uri /report-csp-violation"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000 ; includeSubDomains"
+        ]
+      },
+      "body_bytes": 61682,
+      "truncated": false,
+      "body_sha256": "ee24f81489b8a49f3b5a860e786a87c2df1b355802e2d51c92fcb2669f169dd9",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Encryption | CISALock",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "3325",
+      "domain": "cisa.gov",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.cisa.gov/all-protective-measures-products",
+      "depth": 5,
+      "parent_url": "https://www.cisa.gov/topics/physical-security/bombing-prevention/protective-measures",
+      "attempt": 34,
+      "timestamp": "2026-11-12T21:14:10.816020+00:00",
+      "final_url": "https://www.cisa.gov/topics/physical-security/bombing-prevention/protective-measures/all-protective-measures-products",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "default-src *.cisa.gov; script-src *.cisa.gov 'unsafe-inline' 'unsafe-eval' www.googletagmanager.com cse.google.com cdn.jsdelivr.net www.google.com www.youtube.com dap.digitalgov.gov cdnjs.cloudflare.com siteimproveanalytics.com *.adtrafficquality.google gov1.siteintercept.qualtrics.com *.gov1.siteintercept.qualtrics.com clients1.google.com; style-src 'unsafe-inline' *.cisa.gov fonts.googleapis.com www.google.com cdnjs.cloudflare.com; img-src *.cisa.gov data: www.google.com clients1.google.com www.googletagmanager.com *.siteimproveanalytics.io *.adtrafficquality.google gov1.siteintercept.qualtrics.com; frame-src *.cisa.gov *.dhs.gov www.youtube.com *.adtrafficquality.google syndicatedsearch.goog; font-src *.cisa.gov fonts.gstatic.com; connect-src *.cisa.gov www.google-analytics.com www.googletagmanager.com *.adtrafficquality.google gov1.sr.qualtrics.com gov1.siteintercept.qualtrics.com www.google.com analytics.google.com stats.g.doubleclick.net syndicatedsearch.goog gov1.qualtrics.com; report-uri /report-csp-violation"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000 ; includeSubDomains"
+        ]
+      },
+      "body_bytes": 54290,
+      "truncated": false,
+      "body_sha256": "40750853b880e39b23260d4ca749bb22906bc4c6bcf0406aa85fc1d8de031967",
+      "redirect_chain": [
+        {
+          "url": "https://www.cisa.gov/all-protective-measures-products",
+          "status": 301,
+          "location": "/topics/physical-security/bombing-prevention/protective-measures/all-protective-measures-products",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [
+              "default-src *.cisa.gov; script-src *.cisa.gov 'unsafe-inline' 'unsafe-eval' www.googletagmanager.com cse.google.com cdn.jsdelivr.net www.google.com www.youtube.com dap.digitalgov.gov cdnjs.cloudflare.com siteimproveanalytics.com *.adtrafficquality.google gov1.siteintercept.qualtrics.com *.gov1.siteintercept.qualtrics.com clients1.google.com; style-src 'unsafe-inline' *.cisa.gov fonts.googleapis.com www.google.com cdnjs.cloudflare.com; img-src *.cisa.gov data: www.google.com clients1.google.com www.googletagmanager.com *.siteimproveanalytics.io *.adtrafficquality.google gov1.siteintercept.qualtrics.com; frame-src *.cisa.gov *.dhs.gov www.youtube.com *.adtrafficquality.google syndicatedsearch.goog; font-src *.cisa.gov fonts.gstatic.com; connect-src *.cisa.gov www.google-analytics.com www.googletagmanager.com *.adtrafficquality.google gov1.sr.qualtrics.com gov1.siteintercept.qualtrics.com www.google.com analytics.google.com stats.g.doubleclick.net syndicatedsearch.goog gov1.qualtrics.com; report-uri /report-csp-violation"
+            ],
+            "strict-transport-security": [
+              "max-age=31536000 ; includeSubDomains"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Protective Measures Products | CISALock",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "3325",
+      "domain": "cisa.gov",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.cisa.gov/careers",
+      "depth": 1,
+      "parent_url": "https://www.cisa.gov/",
+      "attempt": 35,
+      "timestamp": "2026-11-12T21:14:11.952489+00:00",
+      "final_url": "https://www.cisa.gov/careers",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "default-src *.cisa.gov; script-src *.cisa.gov 'unsafe-inline' 'unsafe-eval' www.googletagmanager.com cse.google.com cdn.jsdelivr.net www.google.com www.youtube.com dap.digitalgov.gov cdnjs.cloudflare.com siteimproveanalytics.com *.adtrafficquality.google gov1.siteintercept.qualtrics.com *.gov1.siteintercept.qualtrics.com clients1.google.com; style-src 'unsafe-inline' *.cisa.gov fonts.googleapis.com www.google.com cdnjs.cloudflare.com; img-src *.cisa.gov data: www.google.com clients1.google.com www.googletagmanager.com *.siteimproveanalytics.io *.adtrafficquality.google gov1.siteintercept.qualtrics.com; frame-src *.cisa.gov *.dhs.gov www.youtube.com *.adtrafficquality.google syndicatedsearch.goog; font-src *.cisa.gov fonts.gstatic.com; connect-src *.cisa.gov www.google-analytics.com www.googletagmanager.com *.adtrafficquality.google gov1.sr.qualtrics.com gov1.siteintercept.qualtrics.com www.google.com analytics.google.com stats.g.doubleclick.net syndicatedsearch.goog gov1.qualtrics.com; report-uri /report-csp-violation"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000 ; includeSubDomains"
+        ]
+      },
+      "body_bytes": 74213,
+      "truncated": false,
+      "body_sha256": "dae4100e42a739db301b7a393b1bd6a8fdc8050ea01eae894eac1a368a6a6f51",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Careers at CISA | CISALock",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "3325",
+      "domain": "cisa.gov",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.cisa.gov/node/18693",
+      "depth": 2,
+      "parent_url": "https://www.cisa.gov/cybersecurity-awareness-month",
+      "attempt": 36,
+      "timestamp": "2026-11-12T21:14:12.940431+00:00",
+      "final_url": "https://www.cisa.gov/audiences/small-and-medium-businesses/secure-your-business",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "default-src *.cisa.gov; script-src *.cisa.gov 'unsafe-inline' 'unsafe-eval' www.googletagmanager.com cse.google.com cdn.jsdelivr.net www.google.com www.youtube.com dap.digitalgov.gov cdnjs.cloudflare.com siteimproveanalytics.com *.adtrafficquality.google gov1.siteintercept.qualtrics.com *.gov1.siteintercept.qualtrics.com clients1.google.com; style-src 'unsafe-inline' *.cisa.gov fonts.googleapis.com www.google.com cdnjs.cloudflare.com; img-src *.cisa.gov data: www.google.com clients1.google.com www.googletagmanager.com *.siteimproveanalytics.io *.adtrafficquality.google gov1.siteintercept.qualtrics.com; frame-src *.cisa.gov *.dhs.gov www.youtube.com *.adtrafficquality.google syndicatedsearch.goog; font-src *.cisa.gov fonts.gstatic.com; connect-src *.cisa.gov www.google-analytics.com www.googletagmanager.com *.adtrafficquality.google gov1.sr.qualtrics.com gov1.siteintercept.qualtrics.com www.google.com analytics.google.com stats.g.doubleclick.net syndicatedsearch.goog gov1.qualtrics.com; report-uri /report-csp-violation"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000 ; includeSubDomains"
+        ]
+      },
+      "body_bytes": 66442,
+      "truncated": false,
+      "body_sha256": "1abe45e9ca962062957bec2c56f1b4a6c9a3faaceb74646a814d4133637d452b",
+      "redirect_chain": [
+        {
+          "url": "https://www.cisa.gov/node/18693",
+          "status": 301,
+          "location": "https://www.cisa.gov/audiences/small-and-medium-businesses/secure-your-business",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [
+              "default-src *.cisa.gov; script-src *.cisa.gov 'unsafe-inline' 'unsafe-eval' www.googletagmanager.com cse.google.com cdn.jsdelivr.net www.google.com www.youtube.com dap.digitalgov.gov cdnjs.cloudflare.com siteimproveanalytics.com *.adtrafficquality.google gov1.siteintercept.qualtrics.com *.gov1.siteintercept.qualtrics.com clients1.google.com; style-src 'unsafe-inline' *.cisa.gov fonts.googleapis.com www.google.com cdnjs.cloudflare.com; img-src *.cisa.gov data: www.google.com clients1.google.com www.googletagmanager.com *.siteimproveanalytics.io *.adtrafficquality.google gov1.siteintercept.qualtrics.com; frame-src *.cisa.gov *.dhs.gov www.youtube.com *.adtrafficquality.google syndicatedsearch.goog; font-src *.cisa.gov fonts.gstatic.com; connect-src *.cisa.gov www.google-analytics.com www.googletagmanager.com *.adtrafficquality.google gov1.sr.qualtrics.com gov1.siteintercept.qualtrics.com www.google.com analytics.google.com stats.g.doubleclick.net syndicatedsearch.goog gov1.qualtrics.com; report-uri /report-csp-violation"
+            ],
+            "strict-transport-security": [
+              "max-age=31536000 ; includeSubDomains"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Secure Your Business | CISALock",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "3325",
+      "domain": "cisa.gov",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.cisa.gov/shields-up",
+      "depth": 4,
+      "parent_url": "https://www.cisa.gov/audiences/small-and-medium-businesses/secure-your-business/smb-resources",
+      "attempt": 37,
+      "timestamp": "2026-11-12T21:14:13.764120+00:00",
+      "final_url": "https://www.cisa.gov/topics/cyber-threats-and-advisories/nation-state-cyber-actors",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "default-src *.cisa.gov; script-src *.cisa.gov 'unsafe-inline' 'unsafe-eval' www.googletagmanager.com cse.google.com cdn.jsdelivr.net www.google.com www.youtube.com dap.digitalgov.gov cdnjs.cloudflare.com siteimproveanalytics.com *.adtrafficquality.google gov1.siteintercept.qualtrics.com *.gov1.siteintercept.qualtrics.com clients1.google.com; style-src 'unsafe-inline' *.cisa.gov fonts.googleapis.com www.google.com cdnjs.cloudflare.com; img-src *.cisa.gov data: www.google.com clients1.google.com www.googletagmanager.com *.siteimproveanalytics.io *.adtrafficquality.google gov1.siteintercept.qualtrics.com; frame-src *.cisa.gov *.dhs.gov www.youtube.com *.adtrafficquality.google syndicatedsearch.goog; font-src *.cisa.gov fonts.gstatic.com; connect-src *.cisa.gov www.google-analytics.com www.googletagmanager.com *.adtrafficquality.google gov1.sr.qualtrics.com gov1.siteintercept.qualtrics.com www.google.com analytics.google.com stats.g.doubleclick.net syndicatedsearch.goog gov1.qualtrics.com; report-uri /report-csp-violation"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000 ; includeSubDomains"
+        ]
+      },
+      "body_bytes": 73859,
+      "truncated": false,
+      "body_sha256": "801e9352ded9dfd784129acb3796e17579c56032043ab8228f58211b991aafd5",
+      "redirect_chain": [
+        {
+          "url": "https://www.cisa.gov/shields-up",
+          "status": 301,
+          "location": "https://www.cisa.gov/topics/cyber-threats-and-advisories/nation-state-cyber-actors",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [
+              "default-src *.cisa.gov; script-src *.cisa.gov 'unsafe-inline' 'unsafe-eval' www.googletagmanager.com cse.google.com cdn.jsdelivr.net www.google.com www.youtube.com dap.digitalgov.gov cdnjs.cloudflare.com siteimproveanalytics.com *.adtrafficquality.google gov1.siteintercept.qualtrics.com *.gov1.siteintercept.qualtrics.com clients1.google.com; style-src 'unsafe-inline' *.cisa.gov fonts.googleapis.com www.google.com cdnjs.cloudflare.com; img-src *.cisa.gov data: www.google.com clients1.google.com www.googletagmanager.com *.siteimproveanalytics.io *.adtrafficquality.google gov1.siteintercept.qualtrics.com; frame-src *.cisa.gov *.dhs.gov www.youtube.com *.adtrafficquality.google syndicatedsearch.goog; font-src *.cisa.gov fonts.gstatic.com; connect-src *.cisa.gov www.google-analytics.com www.googletagmanager.com *.adtrafficquality.google gov1.sr.qualtrics.com gov1.siteintercept.qualtrics.com www.google.com analytics.google.com stats.g.doubleclick.net syndicatedsearch.goog gov1.qualtrics.com; report-uri /report-csp-violation"
+            ],
+            "strict-transport-security": [
+              "max-age=31536000 ; includeSubDomains"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Nation-State Threats | Cybersecurity and Infrastructure Security Agency CISALock",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "3325",
+      "domain": "cisa.gov",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.cisa.gov/all-planning-and-preparedness-products",
+      "depth": 5,
+      "parent_url": "https://www.cisa.gov/topics/physical-security/bombing-prevention/planning-and-preparedness",
+      "attempt": 38,
+      "timestamp": "2026-11-12T21:14:14.996542+00:00",
+      "final_url": "https://www.cisa.gov/topics/physical-security/bombing-prevention/planning-and-preparedness/all-planning-and-preparedness-products",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "default-src *.cisa.gov; script-src *.cisa.gov 'unsafe-inline' 'unsafe-eval' www.googletagmanager.com cse.google.com cdn.jsdelivr.net www.google.com www.youtube.com dap.digitalgov.gov cdnjs.cloudflare.com siteimproveanalytics.com *.adtrafficquality.google gov1.siteintercept.qualtrics.com *.gov1.siteintercept.qualtrics.com clients1.google.com; style-src 'unsafe-inline' *.cisa.gov fonts.googleapis.com www.google.com cdnjs.cloudflare.com; img-src *.cisa.gov data: www.google.com clients1.google.com www.googletagmanager.com *.siteimproveanalytics.io *.adtrafficquality.google gov1.siteintercept.qualtrics.com; frame-src *.cisa.gov *.dhs.gov www.youtube.com *.adtrafficquality.google syndicatedsearch.goog; font-src *.cisa.gov fonts.gstatic.com; connect-src *.cisa.gov www.google-analytics.com www.googletagmanager.com *.adtrafficquality.google gov1.sr.qualtrics.com gov1.siteintercept.qualtrics.com www.google.com analytics.google.com stats.g.doubleclick.net syndicatedsearch.goog gov1.qualtrics.com; report-uri /report-csp-violation"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000 ; includeSubDomains"
+        ]
+      },
+      "body_bytes": 60572,
+      "truncated": false,
+      "body_sha256": "48d35448e9f72aab8853637723472757632fcb3413073112f8c1056ed89f09ab",
+      "redirect_chain": [
+        {
+          "url": "https://www.cisa.gov/all-planning-and-preparedness-products",
+          "status": 301,
+          "location": "/topics/physical-security/bombing-prevention/planning-and-preparedness/all-planning-and-preparedness-products",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [
+              "default-src *.cisa.gov; script-src *.cisa.gov 'unsafe-inline' 'unsafe-eval' www.googletagmanager.com cse.google.com cdn.jsdelivr.net www.google.com www.youtube.com dap.digitalgov.gov cdnjs.cloudflare.com siteimproveanalytics.com *.adtrafficquality.google gov1.siteintercept.qualtrics.com *.gov1.siteintercept.qualtrics.com clients1.google.com; style-src 'unsafe-inline' *.cisa.gov fonts.googleapis.com www.google.com cdnjs.cloudflare.com; img-src *.cisa.gov data: www.google.com clients1.google.com www.googletagmanager.com *.siteimproveanalytics.io *.adtrafficquality.google gov1.siteintercept.qualtrics.com; frame-src *.cisa.gov *.dhs.gov www.youtube.com *.adtrafficquality.google syndicatedsearch.goog; font-src *.cisa.gov fonts.gstatic.com; connect-src *.cisa.gov www.google-analytics.com www.googletagmanager.com *.adtrafficquality.google gov1.sr.qualtrics.com gov1.siteintercept.qualtrics.com www.google.com analytics.google.com stats.g.doubleclick.net syndicatedsearch.goog gov1.qualtrics.com; report-uri /report-csp-violation"
+            ],
+            "strict-transport-security": [
+              "max-age=31536000 ; includeSubDomains"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Planning and Preparedness Products | CISALock",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "3325",
+      "domain": "cisa.gov",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.cisa.gov/site-links",
+      "depth": 1,
+      "parent_url": "https://www.cisa.gov/",
+      "attempt": 39,
+      "timestamp": "2026-11-12T21:14:16.134571+00:00",
+      "final_url": "https://www.cisa.gov/site-links",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "default-src *.cisa.gov; script-src *.cisa.gov 'unsafe-inline' 'unsafe-eval' www.googletagmanager.com cse.google.com cdn.jsdelivr.net www.google.com www.youtube.com dap.digitalgov.gov cdnjs.cloudflare.com siteimproveanalytics.com *.adtrafficquality.google gov1.siteintercept.qualtrics.com *.gov1.siteintercept.qualtrics.com clients1.google.com; style-src 'unsafe-inline' *.cisa.gov fonts.googleapis.com www.google.com cdnjs.cloudflare.com; img-src *.cisa.gov data: www.google.com clients1.google.com www.googletagmanager.com *.siteimproveanalytics.io *.adtrafficquality.google gov1.siteintercept.qualtrics.com; frame-src *.cisa.gov *.dhs.gov www.youtube.com *.adtrafficquality.google syndicatedsearch.goog; font-src *.cisa.gov fonts.gstatic.com; connect-src *.cisa.gov www.google-analytics.com www.googletagmanager.com *.adtrafficquality.google gov1.sr.qualtrics.com gov1.siteintercept.qualtrics.com www.google.com analytics.google.com stats.g.doubleclick.net syndicatedsearch.goog gov1.qualtrics.com; report-uri /report-csp-violation"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000 ; includeSubDomains"
+        ]
+      },
+      "body_bytes": 59266,
+      "truncated": false,
+      "body_sha256": "d67fbd917acb93b576cf8935731f3457529f35af7030c1f7b582b344f5f8c699",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Site Links | CISALock",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "3325",
+      "domain": "cisa.gov",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+      "depth": 2,
+      "parent_url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+      "attempt": 40,
+      "timestamp": "2026-11-12T21:14:16.512107+00:00",
+      "final_url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "default-src *.cisa.gov; script-src *.cisa.gov 'unsafe-inline' 'unsafe-eval' www.googletagmanager.com cse.google.com cdn.jsdelivr.net www.google.com www.youtube.com dap.digitalgov.gov cdnjs.cloudflare.com siteimproveanalytics.com *.adtrafficquality.google gov1.siteintercept.qualtrics.com *.gov1.siteintercept.qualtrics.com clients1.google.com; style-src 'unsafe-inline' *.cisa.gov fonts.googleapis.com www.google.com cdnjs.cloudflare.com; img-src *.cisa.gov data: www.google.com clients1.google.com www.googletagmanager.com *.siteimproveanalytics.io *.adtrafficquality.google gov1.siteintercept.qualtrics.com; frame-src *.cisa.gov *.dhs.gov www.youtube.com *.adtrafficquality.google syndicatedsearch.goog; font-src *.cisa.gov fonts.gstatic.com; connect-src *.cisa.gov www.google-analytics.com www.googletagmanager.com *.adtrafficquality.google gov1.sr.qualtrics.com gov1.siteintercept.qualtrics.com www.google.com analytics.google.com stats.g.doubleclick.net syndicatedsearch.goog gov1.qualtrics.com; report-uri /report-csp-violation"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000 ; includeSubDomains"
+        ]
+      },
+      "body_bytes": 290698,
+      "truncated": false,
+      "body_sha256": "587ce52ef73bb150cc18df39b6720e53bad9b2af3022497bdde6c7b2f237cc71",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Known Exploited Vulnerabilities Catalog | CISALock",
+      "duplicate_final": true,
+      "eligible": false
+    },
+    {
+      "rank": "3325",
+      "domain": "cisa.gov",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.cisa.gov/use-logging-business-systems",
+      "depth": 4,
+      "parent_url": "https://www.cisa.gov/audiences/small-and-medium-businesses/secure-your-business/smb-resources",
+      "attempt": 41,
+      "timestamp": "2026-11-12T21:14:17.347044+00:00",
+      "final_url": "https://www.cisa.gov/audiences/small-and-medium-businesses/secure-your-business/use-logging-on-business-systems",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "default-src *.cisa.gov; script-src *.cisa.gov 'unsafe-inline' 'unsafe-eval' www.googletagmanager.com cse.google.com cdn.jsdelivr.net www.google.com www.youtube.com dap.digitalgov.gov cdnjs.cloudflare.com siteimproveanalytics.com *.adtrafficquality.google gov1.siteintercept.qualtrics.com *.gov1.siteintercept.qualtrics.com clients1.google.com; style-src 'unsafe-inline' *.cisa.gov fonts.googleapis.com www.google.com cdnjs.cloudflare.com; img-src *.cisa.gov data: www.google.com clients1.google.com www.googletagmanager.com *.siteimproveanalytics.io *.adtrafficquality.google gov1.siteintercept.qualtrics.com; frame-src *.cisa.gov *.dhs.gov www.youtube.com *.adtrafficquality.google syndicatedsearch.goog; font-src *.cisa.gov fonts.gstatic.com; connect-src *.cisa.gov www.google-analytics.com www.googletagmanager.com *.adtrafficquality.google gov1.sr.qualtrics.com gov1.siteintercept.qualtrics.com www.google.com analytics.google.com stats.g.doubleclick.net syndicatedsearch.goog gov1.qualtrics.com; report-uri /report-csp-violation"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000 ; includeSubDomains"
+        ]
+      },
+      "body_bytes": 61878,
+      "truncated": false,
+      "body_sha256": "5148507d33c67fdbbe461a7f53b0a5d74c366b7bf5a2fb48fd094aaac33aefa4",
+      "redirect_chain": [
+        {
+          "url": "https://www.cisa.gov/use-logging-business-systems",
+          "status": 301,
+          "location": "/audiences/small-and-medium-businesses/secure-your-business/use-logging-on-business-systems",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [
+              "default-src *.cisa.gov; script-src *.cisa.gov 'unsafe-inline' 'unsafe-eval' www.googletagmanager.com cse.google.com cdn.jsdelivr.net www.google.com www.youtube.com dap.digitalgov.gov cdnjs.cloudflare.com siteimproveanalytics.com *.adtrafficquality.google gov1.siteintercept.qualtrics.com *.gov1.siteintercept.qualtrics.com clients1.google.com; style-src 'unsafe-inline' *.cisa.gov fonts.googleapis.com www.google.com cdnjs.cloudflare.com; img-src *.cisa.gov data: www.google.com clients1.google.com www.googletagmanager.com *.siteimproveanalytics.io *.adtrafficquality.google gov1.siteintercept.qualtrics.com; frame-src *.cisa.gov *.dhs.gov www.youtube.com *.adtrafficquality.google syndicatedsearch.goog; font-src *.cisa.gov fonts.gstatic.com; connect-src *.cisa.gov www.google-analytics.com www.googletagmanager.com *.adtrafficquality.google gov1.sr.qualtrics.com gov1.siteintercept.qualtrics.com www.google.com analytics.google.com stats.g.doubleclick.net syndicatedsearch.goog gov1.qualtrics.com; report-uri /report-csp-violation"
+            ],
+            "strict-transport-security": [
+              "max-age=31536000 ; includeSubDomains"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Use Logging on Business Systems | CISALock",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "3325",
+      "domain": "cisa.gov",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.cisa.gov/secure-tomorrow-series-toolkit",
+      "depth": 5,
+      "parent_url": "https://www.cisa.gov/topics/cyber-threats-and-advisories/nation-state-cyber-actors",
+      "attempt": 42,
+      "timestamp": "2026-11-12T21:14:18.424405+00:00",
+      "final_url": "https://www.cisa.gov/topics/risk-management/secure-tomorrow-series/toolkit",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "default-src *.cisa.gov; script-src *.cisa.gov 'unsafe-inline' 'unsafe-eval' www.googletagmanager.com cse.google.com cdn.jsdelivr.net www.google.com www.youtube.com dap.digitalgov.gov cdnjs.cloudflare.com siteimproveanalytics.com *.adtrafficquality.google gov1.siteintercept.qualtrics.com *.gov1.siteintercept.qualtrics.com clients1.google.com; style-src 'unsafe-inline' *.cisa.gov fonts.googleapis.com www.google.com cdnjs.cloudflare.com; img-src *.cisa.gov data: www.google.com clients1.google.com www.googletagmanager.com *.siteimproveanalytics.io *.adtrafficquality.google gov1.siteintercept.qualtrics.com; frame-src *.cisa.gov *.dhs.gov www.youtube.com *.adtrafficquality.google syndicatedsearch.goog; font-src *.cisa.gov fonts.gstatic.com; connect-src *.cisa.gov www.google-analytics.com www.googletagmanager.com *.adtrafficquality.google gov1.sr.qualtrics.com gov1.siteintercept.qualtrics.com www.google.com analytics.google.com stats.g.doubleclick.net syndicatedsearch.goog gov1.qualtrics.com; report-uri /report-csp-violation"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000 ; includeSubDomains"
+        ]
+      },
+      "body_bytes": 63834,
+      "truncated": false,
+      "body_sha256": "6bf7ca0a8f14f7da160a51c198b9771165e607145069a58bf8c03f5b0a1453fc",
+      "redirect_chain": [
+        {
+          "url": "https://www.cisa.gov/secure-tomorrow-series-toolkit",
+          "status": 301,
+          "location": "/topics/risk-management/secure-tomorrow-series/toolkit",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [
+              "default-src *.cisa.gov; script-src *.cisa.gov 'unsafe-inline' 'unsafe-eval' www.googletagmanager.com cse.google.com cdn.jsdelivr.net www.google.com www.youtube.com dap.digitalgov.gov cdnjs.cloudflare.com siteimproveanalytics.com *.adtrafficquality.google gov1.siteintercept.qualtrics.com *.gov1.siteintercept.qualtrics.com clients1.google.com; style-src 'unsafe-inline' *.cisa.gov fonts.googleapis.com www.google.com cdnjs.cloudflare.com; img-src *.cisa.gov data: www.google.com clients1.google.com www.googletagmanager.com *.siteimproveanalytics.io *.adtrafficquality.google gov1.siteintercept.qualtrics.com; frame-src *.cisa.gov *.dhs.gov www.youtube.com *.adtrafficquality.google syndicatedsearch.goog; font-src *.cisa.gov fonts.gstatic.com; connect-src *.cisa.gov www.google-analytics.com www.googletagmanager.com *.adtrafficquality.google gov1.sr.qualtrics.com gov1.siteintercept.qualtrics.com www.google.com analytics.google.com stats.g.doubleclick.net syndicatedsearch.goog gov1.qualtrics.com; report-uri /report-csp-violation"
+            ],
+            "strict-transport-security": [
+              "max-age=31536000 ; includeSubDomains"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Secure Tomorrow Series Toolkit | CISALock",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "3325",
+      "domain": "cisa.gov",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.cisa.gov/cisa-github",
+      "depth": 1,
+      "parent_url": "https://www.cisa.gov/",
+      "attempt": 43,
+      "timestamp": "2026-11-12T21:14:20.123928+00:00",
+      "final_url": "https://www.cisa.gov/cisa-github",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "default-src *.cisa.gov; script-src *.cisa.gov 'unsafe-inline' 'unsafe-eval' www.googletagmanager.com cse.google.com cdn.jsdelivr.net www.google.com www.youtube.com dap.digitalgov.gov cdnjs.cloudflare.com siteimproveanalytics.com *.adtrafficquality.google gov1.siteintercept.qualtrics.com *.gov1.siteintercept.qualtrics.com clients1.google.com; style-src 'unsafe-inline' *.cisa.gov fonts.googleapis.com www.google.com cdnjs.cloudflare.com; img-src *.cisa.gov data: www.google.com clients1.google.com www.googletagmanager.com *.siteimproveanalytics.io *.adtrafficquality.google gov1.siteintercept.qualtrics.com; frame-src *.cisa.gov *.dhs.gov www.youtube.com *.adtrafficquality.google syndicatedsearch.goog; font-src *.cisa.gov fonts.gstatic.com; connect-src *.cisa.gov www.google-analytics.com www.googletagmanager.com *.adtrafficquality.google gov1.sr.qualtrics.com gov1.siteintercept.qualtrics.com www.google.com analytics.google.com stats.g.doubleclick.net syndicatedsearch.goog gov1.qualtrics.com; report-uri /report-csp-violation"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000 ; includeSubDomains"
+        ]
+      },
+      "body_bytes": 50357,
+      "truncated": false,
+      "body_sha256": "16ab14066c421075f4240d029988738a8d7ed0b7df8248ee21564b6989c6a9d8",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "CISA GitHub | CISALock",
+      "duplicate_final": false,
+      "eligible": true
+    }
+  ],
+  "robots": [
+    {
+      "url": "https://cisa.gov/robots.txt",
+      "timestamp": "2026-11-12T21:13:37.300515+00:00",
+      "status": 200,
+      "decision": "parsed",
+      "final_url": "https://www.cisa.gov/robots.txt",
+      "redirect_chain": [
+        {
+          "url": "https://cisa.gov/robots.txt",
+          "status": 301,
+          "location": "https://www.cisa.gov/robots.txt"
+        }
+      ],
+      "body_sha256": "6a476baa135f1070ab218181af50ae957a07a7d29607f9dc78c1579fa266198a",
+      "body": "#\n# robots.txt\n#\n# This file is to prevent the crawling and indexing of certain parts\n# of your site by web crawlers and spiders run by sites like Yahoo!\n# and Google. By telling these \"robots\" where not to go on your site,\n# you save bandwidth and server resources.\n#\n# This file will be ignored unless it is at the root of your host:\n# Used:    http://example.com/robots.txt\n# Ignored: http://example.com/site/robots.txt\n#\n# For more information about the robots.txt standard, see:\n# http://www.robotstxt.org/robotstxt.html\n\nUser-agent: *\n# CSS, JS, Images\nAllow: /core/*.css$\nAllow: /core/*.css?\nAllow: /core/*.js$\nAllow: /core/*.js?\nAllow: /core/*.avif\nAllow: /core/*.gif\nAllow: /core/*.jpg\nAllow: /core/*.jpeg\nAllow: /core/*.png\nAllow: /core/*.svg\nAllow: /core/*.webp\nAllow: /profiles/*.css$\nAllow: /profiles/*.css?\nAllow: /profiles/*.js$\nAllow: /profiles/*.js?\nAllow: /profiles/*.avif\nAllow: /profiles/*.gif\nAllow: /profiles/*.jpg\nAllow: /profiles/*.jpeg\nAllow: /profiles/*.png\nAllow: /profiles/*.svg\nAllow: /profiles/*.webp\n# Directories\nDisallow: /core/\nDisallow: /profiles/\n# Files\nDisallow: /README.md\nDisallow: /composer/Metapackage/README.txt\nDisallow: /composer/Plugin/ProjectMessage/README.md\nDisallow: /composer/Plugin/Scaffold/README.md\nDisallow: /composer/Plugin/VendorHardening/README.txt\nDisallow: /composer/Template/README.txt\nDisallow: /modules/README.txt\nDisallow: /sites/README.txt\nDisallow: /themes/README.txt\n# Paths (clean URLs)\nDisallow: /admin/\nDisallow: /comment/reply/\nDisallow: /filter/tips\nDisallow: /node/add/\nDisallow: /search/\nDisallow: /search?\nDisallow: /user/register\nDisallow: /user/password\nDisallow: /user/login\nDisallow: /user/logout\nDisallow: /media/oembed\nDisallow: /*/media/oembed\n# Paths (no clean URLs)\nDisallow: /index.php/admin/\nDisallow: /index.php/comment/reply/\nDisallow: /index.php/filter/tips\nDisallow: /index.php/node/add/\nDisallow: /index.php/search/\nDisallow: /index.php/search?\nDisallow: /index.php/user/password\nDisallow: /index.php/user/register\nDisallow: /index.php/user/login\nDisallow: /index.php/user/logout\nDisallow: /index.php/media/oembed\nDisallow: /index.php/*/media/oembed\n\nUser-agent: PetalBot\nDisallow: /"
+    },
+    {
+      "url": "https://www.cisa.gov/robots.txt",
+      "timestamp": "2026-11-12T21:13:38.003385+00:00",
+      "status": 200,
+      "decision": "parsed",
+      "final_url": "https://www.cisa.gov/robots.txt",
+      "redirect_chain": [],
+      "body_sha256": "6a476baa135f1070ab218181af50ae957a07a7d29607f9dc78c1579fa266198a",
+      "body": "#\n# robots.txt\n#\n# This file is to prevent the crawling and indexing of certain parts\n# of your site by web crawlers and spiders run by sites like Yahoo!\n# and Google. By telling these \"robots\" where not to go on your site,\n# you save bandwidth and server resources.\n#\n# This file will be ignored unless it is at the root of your host:\n# Used:    http://example.com/robots.txt\n# Ignored: http://example.com/site/robots.txt\n#\n# For more information about the robots.txt standard, see:\n# http://www.robotstxt.org/robotstxt.html\n\nUser-agent: *\n# CSS, JS, Images\nAllow: /core/*.css$\nAllow: /core/*.css?\nAllow: /core/*.js$\nAllow: /core/*.js?\nAllow: /core/*.avif\nAllow: /core/*.gif\nAllow: /core/*.jpg\nAllow: /core/*.jpeg\nAllow: /core/*.png\nAllow: /core/*.svg\nAllow: /core/*.webp\nAllow: /profiles/*.css$\nAllow: /profiles/*.css?\nAllow: /profiles/*.js$\nAllow: /profiles/*.js?\nAllow: /profiles/*.avif\nAllow: /profiles/*.gif\nAllow: /profiles/*.jpg\nAllow: /profiles/*.jpeg\nAllow: /profiles/*.png\nAllow: /profiles/*.svg\nAllow: /profiles/*.webp\n# Directories\nDisallow: /core/\nDisallow: /profiles/\n# Files\nDisallow: /README.md\nDisallow: /composer/Metapackage/README.txt\nDisallow: /composer/Plugin/ProjectMessage/README.md\nDisallow: /composer/Plugin/Scaffold/README.md\nDisallow: /composer/Plugin/VendorHardening/README.txt\nDisallow: /composer/Template/README.txt\nDisallow: /modules/README.txt\nDisallow: /sites/README.txt\nDisallow: /themes/README.txt\n# Paths (clean URLs)\nDisallow: /admin/\nDisallow: /comment/reply/\nDisallow: /filter/tips\nDisallow: /node/add/\nDisallow: /search/\nDisallow: /search?\nDisallow: /user/register\nDisallow: /user/password\nDisallow: /user/login\nDisallow: /user/logout\nDisallow: /media/oembed\nDisallow: /*/media/oembed\n# Paths (no clean URLs)\nDisallow: /index.php/admin/\nDisallow: /index.php/comment/reply/\nDisallow: /index.php/filter/tips\nDisallow: /index.php/node/add/\nDisallow: /index.php/search/\nDisallow: /index.php/search?\nDisallow: /index.php/user/password\nDisallow: /index.php/user/register\nDisallow: /index.php/user/login\nDisallow: /index.php/user/logout\nDisallow: /index.php/media/oembed\nDisallow: /index.php/*/media/oembed\n\nUser-agent: PetalBot\nDisallow: /"
+    }
+  ],
+  "eligible_pages": 40,
+  "canonical_origin": [
+    "https",
+    "www.cisa.gov",
+    443
+  ],
+  "stop_reason": "page_budget",
+  "elapsed_seconds": 43.57
+}

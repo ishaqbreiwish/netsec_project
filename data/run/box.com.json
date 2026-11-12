@@ -1,0 +1,2616 @@
+{
+  "site": {
+    "rank": "642",
+    "domain": "box.com",
+    "stratum": "101-1000"
+  },
+  "rows": [
+    {
+      "rank": "642",
+      "domain": "box.com",
+      "stratum": "101-1000",
+      "requested_url": "https://box.com/",
+      "depth": 0,
+      "parent_url": "",
+      "attempt": 1,
+      "timestamp": "2026-11-12T21:12:23.250523+00:00",
+      "final_url": "https://www.box.com/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src * 'self' blob: data: 'unsafe-inline'; font-src 'self' data: fonts.googleapis.com fonts.gstatic.com"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=2592000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 513395,
+      "truncated": false,
+      "body_sha256": "b3dd9d01474cc90fd03d887ff00f8c59ccdfa3ef6d983856245d170d4dd6b7e3",
+      "redirect_chain": [
+        {
+          "url": "https://box.com/",
+          "status": 301,
+          "location": "https://www.box.com/",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": []
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Box | AI-Powered Content Management, Workflow & CollaborationWhite arrow rightIcon Play Blue 20x20Icon Play Blue 20x20Icon Play Blue 20x20Icon Play Blue 20x20Icon Play Blue 20x20Icon Play Blue 20x20Icon Play Blue 20x20White arrow rightIcon Paper whiteIcon File DocumentIcon Paper whiteIcon File Docum",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "642",
+      "domain": "box.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.box.com/architect",
+      "depth": 1,
+      "parent_url": "https://www.box.com/",
+      "attempt": 2,
+      "timestamp": "2026-11-12T21:12:23.817525+00:00",
+      "final_url": "https://www.box.com/architect",
+      "status": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'none'; script-src 'nonce-eUkyWVhZDlT1FMATVGXOAJ' 'unsafe-eval' https://challenges.cloudflare.com; script-src-attr 'none'; style-src 'unsafe-inline'; img-src 'self' https://challenges.cloudflare.com; connect-src 'self' https://challenges.cloudflare.com; frame-src 'self' https://challenges.cloudflare.com blob:; child-src 'self' https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=2592000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 5631,
+      "truncated": false,
+      "body_sha256": "2490235412c52f6a6d80cf5e667f738f85ed00cf57fd533ab8707fe7c937dfc7",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "642",
+      "domain": "box.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.box.com/ai/contextretrieval",
+      "depth": 1,
+      "parent_url": "https://www.box.com/",
+      "attempt": 3,
+      "timestamp": "2026-11-12T21:12:24.212659+00:00",
+      "final_url": "https://www.box.com/ai/contextretrieval",
+      "status": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'none'; script-src 'nonce-uBVSfddwtn6IDb81wiq5VR' 'unsafe-eval' https://challenges.cloudflare.com; script-src-attr 'none'; style-src 'unsafe-inline'; img-src 'self' https://challenges.cloudflare.com; connect-src 'self' https://challenges.cloudflare.com; frame-src 'self' https://challenges.cloudflare.com blob:; child-src 'self' https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=2592000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 5683,
+      "truncated": false,
+      "body_sha256": "6858d9faf16861a4123878ca58defabb4f786ff59ce0de8c6710125426a845ed",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "642",
+      "domain": "box.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.box.com/home",
+      "depth": 1,
+      "parent_url": "https://www.box.com/",
+      "attempt": 4,
+      "timestamp": "2026-11-12T21:12:24.804633+00:00",
+      "final_url": "https://www.box.com/home",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src * 'self' blob: data: 'unsafe-inline'; font-src 'self' data: fonts.googleapis.com fonts.gstatic.com"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=2592000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 513483,
+      "truncated": false,
+      "body_sha256": "0f8cf7808d166a5cde6b12e866e68862e82929d3be8b6929d7b1f078f3dee005",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Box | AI-Powered Content Management, Workflow & CollaborationWhite arrow rightIcon Play Blue 20x20Icon Play Blue 20x20Icon Play Blue 20x20Icon Play Blue 20x20Icon Play Blue 20x20Icon Play Blue 20x20Icon Play Blue 20x20White arrow rightIcon Paper whiteIcon File DocumentIcon Paper whiteIcon File Docum",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "642",
+      "domain": "box.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.box.com/overview",
+      "depth": 1,
+      "parent_url": "https://www.box.com/",
+      "attempt": 5,
+      "timestamp": "2026-11-12T21:12:25.369717+00:00",
+      "final_url": "https://www.box.com/overview",
+      "status": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'none'; script-src 'nonce-ykJRyeRZhuxzs0HA0sPtcj' 'unsafe-eval' https://challenges.cloudflare.com; script-src-attr 'none'; style-src 'unsafe-inline'; img-src 'self' https://challenges.cloudflare.com; connect-src 'self' https://challenges.cloudflare.com; frame-src 'self' https://challenges.cloudflare.com blob:; child-src 'self' https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=2592000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 5628,
+      "truncated": false,
+      "body_sha256": "a525a83326bf64a09247a409b61a3c312512a586b54173fa45a0202ffeeaf1cd",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "642",
+      "domain": "box.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.box.com/security-compliance",
+      "depth": 1,
+      "parent_url": "https://www.box.com/",
+      "attempt": 6,
+      "timestamp": "2026-11-12T21:12:25.783828+00:00",
+      "final_url": "https://www.box.com/security-compliance",
+      "status": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'none'; script-src 'nonce-lIKHhmZxnNqDXI4hqxnTEL' 'unsafe-eval' https://challenges.cloudflare.com; script-src-attr 'none'; style-src 'unsafe-inline'; img-src 'self' https://challenges.cloudflare.com; connect-src 'self' https://challenges.cloudflare.com; frame-src 'self' https://challenges.cloudflare.com blob:; child-src 'self' https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=2592000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 5683,
+      "truncated": false,
+      "body_sha256": "b5a64adc89e9ac0c54cce2d340ae35f9f1e6511a6bfc04f9a72638fc9852c2e1",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "642",
+      "domain": "box.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.box.com/collaboration",
+      "depth": 1,
+      "parent_url": "https://www.box.com/",
+      "attempt": 7,
+      "timestamp": "2026-11-12T21:12:26.278097+00:00",
+      "final_url": "https://www.box.com/collaboration",
+      "status": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'none'; script-src 'nonce-wUlLyqA4uId7yVTzK6KHMa' 'unsafe-eval' https://challenges.cloudflare.com; script-src-attr 'none'; style-src 'unsafe-inline'; img-src 'self' https://challenges.cloudflare.com; connect-src 'self' https://challenges.cloudflare.com; frame-src 'self' https://challenges.cloudflare.com blob:; child-src 'self' https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=2592000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 5665,
+      "truncated": false,
+      "body_sha256": "cbdae827d2bc826cc1de750a2c062eb7b3c91d75f6c6debb55f7363251193610",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "642",
+      "domain": "box.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.box.com/automate",
+      "depth": 1,
+      "parent_url": "https://www.box.com/",
+      "attempt": 8,
+      "timestamp": "2026-11-12T21:12:26.853658+00:00",
+      "final_url": "https://www.box.com/automate",
+      "status": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'none'; script-src 'nonce-kjiQTJ1bMBOXWJz9VVyq5H' 'unsafe-eval' https://challenges.cloudflare.com; script-src-attr 'none'; style-src 'unsafe-inline'; img-src 'self' https://challenges.cloudflare.com; connect-src 'self' https://challenges.cloudflare.com; frame-src 'self' https://challenges.cloudflare.com blob:; child-src 'self' https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=2592000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 5628,
+      "truncated": false,
+      "body_sha256": "3102af00b9c252a7a14303b574d04cf57920e454dae1c02b6a9c9eaa2d6ebaca",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "642",
+      "domain": "box.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.box.com/apps",
+      "depth": 1,
+      "parent_url": "https://www.box.com/",
+      "attempt": 9,
+      "timestamp": "2026-11-12T21:12:27.340705+00:00",
+      "final_url": "https://www.box.com/apps",
+      "status": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'none'; script-src 'nonce-QcCCByrHr5SaYqHaBo836t' 'unsafe-eval' https://challenges.cloudflare.com; script-src-attr 'none'; style-src 'unsafe-inline'; img-src 'self' https://challenges.cloudflare.com; connect-src 'self' https://challenges.cloudflare.com; frame-src 'self' https://challenges.cloudflare.com blob:; child-src 'self' https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=2592000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 5616,
+      "truncated": false,
+      "body_sha256": "ef91f3dfd1624721e9d7f9ee5cf75a8103b085d1a2cbdf4bb9a7e419f364192a",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "642",
+      "domain": "box.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.box.com/hubs",
+      "depth": 1,
+      "parent_url": "https://www.box.com/",
+      "attempt": 10,
+      "timestamp": "2026-11-12T21:12:27.863562+00:00",
+      "final_url": "https://www.box.com/hubs",
+      "status": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'none'; script-src 'nonce-FAHrC1wlnU0SHWi9i18ahR' 'unsafe-eval' https://challenges.cloudflare.com; script-src-attr 'none'; style-src 'unsafe-inline'; img-src 'self' https://challenges.cloudflare.com; connect-src 'self' https://challenges.cloudflare.com; frame-src 'self' https://challenges.cloudflare.com blob:; child-src 'self' https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=2592000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 5616,
+      "truncated": false,
+      "body_sha256": "8ee413cb7be4eaed17588dd3431a626044ffade6c70bd6dc4dc5167a3c31f470",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "642",
+      "domain": "box.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.box.com/agents",
+      "depth": 1,
+      "parent_url": "https://www.box.com/",
+      "attempt": 11,
+      "timestamp": "2026-11-12T21:12:28.410085+00:00",
+      "final_url": "https://www.box.com/agents",
+      "status": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'none'; script-src 'nonce-h0uqotfPGADlJlUPx2a8Np' 'unsafe-eval' https://challenges.cloudflare.com; script-src-attr 'none'; style-src 'unsafe-inline'; img-src 'self' https://challenges.cloudflare.com; connect-src 'self' https://challenges.cloudflare.com; frame-src 'self' https://challenges.cloudflare.com blob:; child-src 'self' https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=2592000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 5622,
+      "truncated": false,
+      "body_sha256": "e4376c9bfac16a43a2cf888f34f1641f77d90260f40e77f10fcaee8ee415068b",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "642",
+      "domain": "box.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.box.com/extract",
+      "depth": 1,
+      "parent_url": "https://www.box.com/",
+      "attempt": 12,
+      "timestamp": "2026-11-12T21:12:28.927586+00:00",
+      "final_url": "https://www.box.com/extract",
+      "status": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'none'; script-src 'nonce-RxmT9vubUjRpFKgdwKSnJn' 'unsafe-eval' https://challenges.cloudflare.com; script-src-attr 'none'; style-src 'unsafe-inline'; img-src 'self' https://challenges.cloudflare.com; connect-src 'self' https://challenges.cloudflare.com; frame-src 'self' https://challenges.cloudflare.com blob:; child-src 'self' https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=2592000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 5625,
+      "truncated": false,
+      "body_sha256": "30de85964c975e9afc0b3263dc87a11f66d208da3d0db2890887d928fa8e7d4d",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "642",
+      "domain": "box.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.box.com/esignature",
+      "depth": 1,
+      "parent_url": "https://www.box.com/",
+      "attempt": 13,
+      "timestamp": "2026-11-12T21:12:29.374834+00:00",
+      "final_url": "https://www.box.com/esignature",
+      "status": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'none'; script-src 'nonce-sDq9RYJwEpBltzCTEvTQ77' 'unsafe-eval' https://challenges.cloudflare.com; script-src-attr 'none'; style-src 'unsafe-inline'; img-src 'self' https://challenges.cloudflare.com; connect-src 'self' https://challenges.cloudflare.com; frame-src 'self' https://challenges.cloudflare.com blob:; child-src 'self' https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=2592000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 5634,
+      "truncated": false,
+      "body_sha256": "4a34ca6cd1ee0ab20b79db187d7d7f506fcf87b0fce4e464bd359553dd2c75e4",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "642",
+      "domain": "box.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.box.com/integrations",
+      "depth": 1,
+      "parent_url": "https://www.box.com/",
+      "attempt": 14,
+      "timestamp": "2026-11-12T21:12:29.966269+00:00",
+      "final_url": "https://www.box.com/integrations",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src * 'self' blob: data: 'unsafe-inline'; font-src 'self' data: fonts.googleapis.com fonts.gstatic.com"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=2592000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 462352,
+      "truncated": false,
+      "body_sha256": "5f6cf00d2cd16b679a080ce77dc47a2aa25a13b77425b82870e3aa1a0aec00e7",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Box Integrations | Connect Intelligent Content Across 1,500+ Apps SecurelyIcon Play Blue 20x20",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "642",
+      "domain": "box.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.box.com/partners/salesforce",
+      "depth": 2,
+      "parent_url": "https://www.box.com/integrations",
+      "attempt": 15,
+      "timestamp": "2026-11-12T21:12:30.501599+00:00",
+      "final_url": "https://www.box.com/partners/salesforce",
+      "status": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'none'; script-src 'nonce-2F6WezD3aC62WPntZFeNwa' 'unsafe-eval' https://challenges.cloudflare.com; script-src-attr 'none'; style-src 'unsafe-inline'; img-src 'self' https://challenges.cloudflare.com; connect-src 'self' https://challenges.cloudflare.com; frame-src 'self' https://challenges.cloudflare.com blob:; child-src 'self' https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=2592000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 5683,
+      "truncated": false,
+      "body_sha256": "37b383d8a7d79f55135747b1550b6f985f580788fffb12cd5a572c426e5db7af",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "642",
+      "domain": "box.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.box.com/platform",
+      "depth": 1,
+      "parent_url": "https://www.box.com/",
+      "attempt": 16,
+      "timestamp": "2026-11-12T21:12:30.944534+00:00",
+      "final_url": "https://www.box.com/platform",
+      "status": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'none'; script-src 'nonce-ojOkVqvgWTwEwdVSKgAKMc' 'unsafe-eval' https://challenges.cloudflare.com; script-src-attr 'none'; style-src 'unsafe-inline'; img-src 'self' https://challenges.cloudflare.com; connect-src 'self' https://challenges.cloudflare.com; frame-src 'self' https://challenges.cloudflare.com blob:; child-src 'self' https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=2592000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 5628,
+      "truncated": false,
+      "body_sha256": "2438c58b9814a00810089943456a71a2f1327c6c0cc57288c097fd5169770150",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "642",
+      "domain": "box.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.box.com/products-and-features",
+      "depth": 1,
+      "parent_url": "https://www.box.com/",
+      "attempt": 17,
+      "timestamp": "2026-11-12T21:12:31.266753+00:00",
+      "final_url": "https://www.box.com/products-and-features",
+      "status": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'none'; script-src 'nonce-HAoui4kLgVvheeODRcR9Nt' 'unsafe-eval' https://challenges.cloudflare.com; script-src-attr 'none'; style-src 'unsafe-inline'; img-src 'self' https://challenges.cloudflare.com; connect-src 'self' https://challenges.cloudflare.com; frame-src 'self' https://challenges.cloudflare.com blob:; child-src 'self' https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=2592000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 5689,
+      "truncated": false,
+      "body_sha256": "e1346216410501be192d505b02ca8830d867cfcd5f3e6c2b62fe068fedf00994",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "642",
+      "domain": "box.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.box.com/agentsecurity",
+      "depth": 1,
+      "parent_url": "https://www.box.com/",
+      "attempt": 18,
+      "timestamp": "2026-11-12T21:12:31.943657+00:00",
+      "final_url": "https://www.box.com/agentsecurity",
+      "status": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'none'; script-src 'nonce-09UMLIbpWt1VApxS5plV86' 'unsafe-eval' https://challenges.cloudflare.com; script-src-attr 'none'; style-src 'unsafe-inline'; img-src 'self' https://challenges.cloudflare.com; connect-src 'self' https://challenges.cloudflare.com; frame-src 'self' https://challenges.cloudflare.com blob:; child-src 'self' https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=2592000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 5665,
+      "truncated": false,
+      "body_sha256": "319c174c91c98a29ffd4cf5ec715e35a6c50d406a8bb923db486d492fe3ef633",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "642",
+      "domain": "box.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.box.com/zones",
+      "depth": 1,
+      "parent_url": "https://www.box.com/",
+      "attempt": 19,
+      "timestamp": "2026-11-12T21:12:32.279241+00:00",
+      "final_url": "https://www.box.com/zones",
+      "status": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'none'; script-src 'nonce-nG8YKexvKLj91yGhOAsDDy' 'unsafe-eval' https://challenges.cloudflare.com; script-src-attr 'none'; style-src 'unsafe-inline'; img-src 'self' https://challenges.cloudflare.com; connect-src 'self' https://challenges.cloudflare.com; frame-src 'self' https://challenges.cloudflare.com blob:; child-src 'self' https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=2592000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 5619,
+      "truncated": false,
+      "body_sha256": "52b6bba6b1e7971fd471fdd311e5b3572881c8ca404acf887d014f855434da26",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "642",
+      "domain": "box.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.box.com/industries/banking",
+      "depth": 1,
+      "parent_url": "https://www.box.com/",
+      "attempt": 20,
+      "timestamp": "2026-11-12T21:12:32.783238+00:00",
+      "final_url": "https://www.box.com/industries/banking",
+      "status": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'none'; script-src 'nonce-LHMZMbFd847KqjaqDjmlY1' 'unsafe-eval' https://challenges.cloudflare.com; script-src-attr 'none'; style-src 'unsafe-inline'; img-src 'self' https://challenges.cloudflare.com; connect-src 'self' https://challenges.cloudflare.com; frame-src 'self' https://challenges.cloudflare.com blob:; child-src 'self' https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=2592000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 5680,
+      "truncated": false,
+      "body_sha256": "a519b805e4155620415eff82c75bdd568106474191fa5fe038edea53c0175a63",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "642",
+      "domain": "box.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.box.com/small-business",
+      "depth": 1,
+      "parent_url": "https://www.box.com/",
+      "attempt": 21,
+      "timestamp": "2026-11-12T21:12:33.284234+00:00",
+      "final_url": "https://www.box.com/small-business",
+      "status": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'none'; script-src 'nonce-8qc9jVoNGfMZYKBkariOE1' 'unsafe-eval' https://challenges.cloudflare.com; script-src-attr 'none'; style-src 'unsafe-inline'; img-src 'self' https://challenges.cloudflare.com; connect-src 'self' https://challenges.cloudflare.com; frame-src 'self' https://challenges.cloudflare.com blob:; child-src 'self' https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=2592000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 5668,
+      "truncated": false,
+      "body_sha256": "d37d80f37cc3434fc3b844a84112f8cf2180009b677d61823fdaff38f4533df7",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "642",
+      "domain": "box.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.box.com/customer-success/box-consulting",
+      "depth": 1,
+      "parent_url": "https://www.box.com/",
+      "attempt": 22,
+      "timestamp": "2026-11-12T21:12:33.801483+00:00",
+      "final_url": "https://www.box.com/customer-success/box-consulting",
+      "status": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'none'; script-src 'nonce-NXMRamtzZHbXJq1HzCHd4t' 'unsafe-eval' https://challenges.cloudflare.com; script-src-attr 'none'; style-src 'unsafe-inline'; img-src 'self' https://challenges.cloudflare.com; connect-src 'self' https://challenges.cloudflare.com; frame-src 'self' https://challenges.cloudflare.com blob:; child-src 'self' https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=2592000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 5740,
+      "truncated": false,
+      "body_sha256": "8205919b0bde67d0224077e644e337dfb34604cd48264c6ad10eb09bd4ff32b4",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "642",
+      "domain": "box.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.box.com/mcp-server",
+      "depth": 1,
+      "parent_url": "https://www.box.com/",
+      "attempt": 23,
+      "timestamp": "2026-11-12T21:12:34.283108+00:00",
+      "final_url": "https://www.box.com/mcp-server",
+      "status": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'none'; script-src 'nonce-FALNhPH90V431785myqMhs' 'unsafe-eval' https://challenges.cloudflare.com; script-src-attr 'none'; style-src 'unsafe-inline'; img-src 'self' https://challenges.cloudflare.com; connect-src 'self' https://challenges.cloudflare.com; frame-src 'self' https://challenges.cloudflare.com blob:; child-src 'self' https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=2592000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 5634,
+      "truncated": false,
+      "body_sha256": "bf8dc3a7e679637468155ccfae20379cb7698e726c46529f2ceec835775076d1",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "642",
+      "domain": "box.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.box.com/pricing/developer",
+      "depth": 1,
+      "parent_url": "https://www.box.com/",
+      "attempt": 24,
+      "timestamp": "2026-11-12T21:12:34.785844+00:00",
+      "final_url": "https://www.box.com/pricing/developer",
+      "status": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'none'; script-src 'nonce-bImStIH3ZBvgadSeq7Cvt3' 'unsafe-eval' https://challenges.cloudflare.com; script-src-attr 'none'; style-src 'unsafe-inline'; img-src 'self' https://challenges.cloudflare.com; connect-src 'self' https://challenges.cloudflare.com; frame-src 'self' https://challenges.cloudflare.com blob:; child-src 'self' https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=2592000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 5677,
+      "truncated": false,
+      "body_sha256": "6f369c845fc1b25cd583d5e2c29ae5aff06c5865e2139a43bbba0f0d6ace56e5",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "642",
+      "domain": "box.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.box.com/resources/downloads",
+      "depth": 1,
+      "parent_url": "https://www.box.com/",
+      "attempt": 25,
+      "timestamp": "2026-11-12T21:12:35.354037+00:00",
+      "final_url": "https://www.box.com/resources/downloads",
+      "status": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'none'; script-src 'nonce-eTd9XDhiYRW3hC2XukYAdn' 'unsafe-eval' https://challenges.cloudflare.com; script-src-attr 'none'; style-src 'unsafe-inline'; img-src 'self' https://challenges.cloudflare.com; connect-src 'self' https://challenges.cloudflare.com; frame-src 'self' https://challenges.cloudflare.com blob:; child-src 'self' https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=2592000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 5708,
+      "truncated": false,
+      "body_sha256": "d57e8b8aed8b67265c8d4215505fdfe8bc4b3190250094b465c26ff5fa724656",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "642",
+      "domain": "box.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.box.com/customers",
+      "depth": 1,
+      "parent_url": "https://www.box.com/",
+      "attempt": 26,
+      "timestamp": "2026-11-12T21:12:35.836956+00:00",
+      "final_url": "https://www.box.com/customers",
+      "status": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'none'; script-src 'nonce-GduWOFZaoDXDegb9yT2WfE' 'unsafe-eval' https://challenges.cloudflare.com; script-src-attr 'none'; style-src 'unsafe-inline'; img-src 'self' https://challenges.cloudflare.com; connect-src 'self' https://challenges.cloudflare.com; frame-src 'self' https://challenges.cloudflare.com blob:; child-src 'self' https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=2592000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 5631,
+      "truncated": false,
+      "body_sha256": "7c369d00e4350291cc5908ac9b9bbdb65761a5df667961a84f74db27ae5168b1",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "642",
+      "domain": "box.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.box.com/trust",
+      "depth": 1,
+      "parent_url": "https://www.box.com/",
+      "attempt": 27,
+      "timestamp": "2026-11-12T21:12:36.327656+00:00",
+      "final_url": "https://www.box.com/trust",
+      "status": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'none'; script-src 'nonce-QpB6T3LuTuJ5vWFbLBJc87' 'unsafe-eval' https://challenges.cloudflare.com; script-src-attr 'none'; style-src 'unsafe-inline'; img-src 'self' https://challenges.cloudflare.com; connect-src 'self' https://challenges.cloudflare.com; frame-src 'self' https://challenges.cloudflare.com blob:; child-src 'self' https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=2592000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 5619,
+      "truncated": false,
+      "body_sha256": "c91aa7319495ed5ffe79d5e37972f9a4c9f04874116a50f62dcf636b75c5f6dd",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "642",
+      "domain": "box.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.box.com/events/live-demos",
+      "depth": 1,
+      "parent_url": "https://www.box.com/",
+      "attempt": 28,
+      "timestamp": "2026-11-12T21:12:36.819387+00:00",
+      "final_url": "https://www.box.com/events/live-demos",
+      "status": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'none'; script-src 'nonce-RX5GQiFONalyHLhchJ3yLr' 'unsafe-eval' https://challenges.cloudflare.com; script-src-attr 'none'; style-src 'unsafe-inline'; img-src 'self' https://challenges.cloudflare.com; connect-src 'self' https://challenges.cloudflare.com; frame-src 'self' https://challenges.cloudflare.com blob:; child-src 'self' https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=2592000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 5677,
+      "truncated": false,
+      "body_sha256": "c1ced8a77a156f36361e5f0a5582d7743a32ca0756e2d724c9479430f09439af",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "642",
+      "domain": "box.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.box.com/about-us/contact-us",
+      "depth": 1,
+      "parent_url": "https://www.box.com/",
+      "attempt": 29,
+      "timestamp": "2026-11-12T21:12:37.334215+00:00",
+      "final_url": "https://www.box.com/about-us/contact-us",
+      "status": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'none'; script-src 'nonce-mOiYZQ6GzIAIpV0GDaGqkO' 'unsafe-eval' https://challenges.cloudflare.com; script-src-attr 'none'; style-src 'unsafe-inline'; img-src 'self' https://challenges.cloudflare.com; connect-src 'self' https://challenges.cloudflare.com; frame-src 'self' https://challenges.cloudflare.com blob:; child-src 'self' https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=2592000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 5683,
+      "truncated": false,
+      "body_sha256": "02be84b2bd6603bd08c1ddf96ce93b88d6a8b17fe8be3892ab71de30200f0888",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "642",
+      "domain": "box.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.box.com/quote",
+      "depth": 1,
+      "parent_url": "https://www.box.com/",
+      "attempt": 30,
+      "timestamp": "2026-11-12T21:12:37.807365+00:00",
+      "final_url": "https://www.box.com/quote",
+      "status": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'none'; script-src 'nonce-SRs017Ga2NvbxxioCzDOOX' 'unsafe-eval' https://challenges.cloudflare.com; script-src-attr 'none'; style-src 'unsafe-inline'; img-src 'self' https://challenges.cloudflare.com; connect-src 'self' https://challenges.cloudflare.com; frame-src 'self' https://challenges.cloudflare.com blob:; child-src 'self' https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=2592000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 5619,
+      "truncated": false,
+      "body_sha256": "78f022d16009a73c62511d23243da40708298b278dc393d49c873fecd87c385f",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "642",
+      "domain": "box.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.box.com/shield",
+      "depth": 1,
+      "parent_url": "https://www.box.com/",
+      "attempt": 31,
+      "timestamp": "2026-11-12T21:12:38.372884+00:00",
+      "final_url": "https://www.box.com/shield",
+      "status": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'none'; script-src 'nonce-P1QER14CdnwSkF7b040Qc9' 'unsafe-eval' https://challenges.cloudflare.com; script-src-attr 'none'; style-src 'unsafe-inline'; img-src 'self' https://challenges.cloudflare.com; connect-src 'self' https://challenges.cloudflare.com; frame-src 'self' https://challenges.cloudflare.com blob:; child-src 'self' https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=2592000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 5622,
+      "truncated": false,
+      "body_sha256": "42eff3f5cd2c9e535ca644d83336754530f7d91de51fb36b531e84b41e1a8ce1",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "642",
+      "domain": "box.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.box.com/smartercontent",
+      "depth": 1,
+      "parent_url": "https://www.box.com/",
+      "attempt": 32,
+      "timestamp": "2026-11-12T21:12:38.861047+00:00",
+      "final_url": "https://www.box.com/smartercontent",
+      "status": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'none'; script-src 'nonce-GTr25dwqkoDL1yOpTu7EwI' 'unsafe-eval' https://challenges.cloudflare.com; script-src-attr 'none'; style-src 'unsafe-inline'; img-src 'self' https://challenges.cloudflare.com; connect-src 'self' https://challenges.cloudflare.com; frame-src 'self' https://challenges.cloudflare.com blob:; child-src 'self' https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=2592000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 5668,
+      "truncated": false,
+      "body_sha256": "d7b5700f853782e6bda742334212e57b4ba2eb52b8ecb0078ef5d5b36553d86b",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "642",
+      "domain": "box.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.box.com/legal",
+      "depth": 1,
+      "parent_url": "https://www.box.com/",
+      "attempt": 33,
+      "timestamp": "2026-11-12T21:12:39.428433+00:00",
+      "final_url": "https://www.box.com/legal",
+      "status": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'none'; script-src 'nonce-QbLeZGcBEz2BA2FZam3d5S' 'unsafe-eval' https://challenges.cloudflare.com; script-src-attr 'none'; style-src 'unsafe-inline'; img-src 'self' https://challenges.cloudflare.com; connect-src 'self' https://challenges.cloudflare.com; frame-src 'self' https://challenges.cloudflare.com blob:; child-src 'self' https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=2592000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 5619,
+      "truncated": false,
+      "body_sha256": "da3a91ad9f9d6625f41e9bbffaa4a95ec512bcc4c65e65b9aaf5fdf4201dbe47",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "642",
+      "domain": "box.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.box.com/cloud-storage",
+      "depth": 1,
+      "parent_url": "https://www.box.com/",
+      "attempt": 34,
+      "timestamp": "2026-11-12T21:12:39.931324+00:00",
+      "final_url": "https://www.box.com/cloud-storage",
+      "status": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'none'; script-src 'nonce-vgDk0B5qh5fddldPDAtvcm' 'unsafe-eval' https://challenges.cloudflare.com; script-src-attr 'none'; style-src 'unsafe-inline'; img-src 'self' https://challenges.cloudflare.com; connect-src 'self' https://challenges.cloudflare.com; frame-src 'self' https://challenges.cloudflare.com blob:; child-src 'self' https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=2592000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 5665,
+      "truncated": false,
+      "body_sha256": "a27fc48aa3bb955c76277050ead843bcfcb9267393d19ac944a06da3a9fe487a",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "642",
+      "domain": "box.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.box.com/mobility",
+      "depth": 1,
+      "parent_url": "https://www.box.com/",
+      "attempt": 35,
+      "timestamp": "2026-11-12T21:12:40.468306+00:00",
+      "final_url": "https://www.box.com/mobility",
+      "status": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'none'; script-src 'nonce-4X7fN8lWAIpoy4Ijdd0SIe' 'unsafe-eval' https://challenges.cloudflare.com; script-src-attr 'none'; style-src 'unsafe-inline'; img-src 'self' https://challenges.cloudflare.com; connect-src 'self' https://challenges.cloudflare.com; frame-src 'self' https://challenges.cloudflare.com blob:; child-src 'self' https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=2592000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 5628,
+      "truncated": false,
+      "body_sha256": "209a6f09194c34eeeceb2a0e83908aed2745dffa7843977127c407381640d4ac",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "642",
+      "domain": "box.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.box.com/content-management/enterprise",
+      "depth": 1,
+      "parent_url": "https://www.box.com/",
+      "attempt": 36,
+      "timestamp": "2026-11-12T21:12:41.014006+00:00",
+      "final_url": "https://www.box.com/content-management/enterprise",
+      "status": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'none'; script-src 'nonce-ylLDVFKIX2EaWdiHbDfiYK' 'unsafe-eval' https://challenges.cloudflare.com; script-src-attr 'none'; style-src 'unsafe-inline'; img-src 'self' https://challenges.cloudflare.com; connect-src 'self' https://challenges.cloudflare.com; frame-src 'self' https://challenges.cloudflare.com blob:; child-src 'self' https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=2592000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 5734,
+      "truncated": false,
+      "body_sha256": "6abad99621f64c6050de28d49056a5ac81a8e9b630d0a45b374961746c8f9a72",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "642",
+      "domain": "box.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.box.com/file-sharing",
+      "depth": 1,
+      "parent_url": "https://www.box.com/",
+      "attempt": 37,
+      "timestamp": "2026-11-12T21:12:41.600426+00:00",
+      "final_url": "https://www.box.com/file-sharing",
+      "status": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'none'; script-src 'nonce-XYsUoOFNfDrIqfupBl6SES' 'unsafe-eval' https://challenges.cloudflare.com; script-src-attr 'none'; style-src 'unsafe-inline'; img-src 'self' https://challenges.cloudflare.com; connect-src 'self' https://challenges.cloudflare.com; frame-src 'self' https://challenges.cloudflare.com blob:; child-src 'self' https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=2592000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 5662,
+      "truncated": false,
+      "body_sha256": "1ad51a7caf1d38e0d76ceab5736bd4d61bd67185d69711a33783e4ac5f709635",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "642",
+      "domain": "box.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.box.com/file-transfer",
+      "depth": 1,
+      "parent_url": "https://www.box.com/",
+      "attempt": 38,
+      "timestamp": "2026-11-12T21:12:41.961313+00:00",
+      "final_url": "https://www.box.com/file-transfer",
+      "status": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'none'; script-src 'nonce-DlZ6yX0RqYe2NnCYNiEYyZ' 'unsafe-eval' https://challenges.cloudflare.com; script-src-attr 'none'; style-src 'unsafe-inline'; img-src 'self' https://challenges.cloudflare.com; connect-src 'self' https://challenges.cloudflare.com; frame-src 'self' https://challenges.cloudflare.com blob:; child-src 'self' https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=2592000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 5665,
+      "truncated": false,
+      "body_sha256": "5ddd3954d142f629596d831e6709c845a3ee2168706dcd4871c0220a6251fa40",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "642",
+      "domain": "box.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.box.com/cloud-backup",
+      "depth": 1,
+      "parent_url": "https://www.box.com/",
+      "attempt": 39,
+      "timestamp": "2026-11-12T21:12:42.579056+00:00",
+      "final_url": "https://www.box.com/cloud-backup",
+      "status": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'none'; script-src 'nonce-ZSVCAYO32QxipmdYbys4Gm' 'unsafe-eval' https://challenges.cloudflare.com; script-src-attr 'none'; style-src 'unsafe-inline'; img-src 'self' https://challenges.cloudflare.com; connect-src 'self' https://challenges.cloudflare.com; frame-src 'self' https://challenges.cloudflare.com blob:; child-src 'self' https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=2592000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 5662,
+      "truncated": false,
+      "body_sha256": "1e48214369428a301e876e0a4334df9d99dfcc3872ab967122a49623e13eddb7",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "642",
+      "domain": "box.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.box.com/cloud-content-management",
+      "depth": 1,
+      "parent_url": "https://www.box.com/",
+      "attempt": 40,
+      "timestamp": "2026-11-12T21:12:42.952168+00:00",
+      "final_url": "https://www.box.com/cloud-content-management",
+      "status": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'none'; script-src 'nonce-nhnERvhyboFvxX8UAogotO' 'unsafe-eval' https://challenges.cloudflare.com; script-src-attr 'none'; style-src 'unsafe-inline'; img-src 'self' https://challenges.cloudflare.com; connect-src 'self' https://challenges.cloudflare.com; frame-src 'self' https://challenges.cloudflare.com blob:; child-src 'self' https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=2592000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 5698,
+      "truncated": false,
+      "body_sha256": "eda161c15cbfe9ce52821f63f93961175b74ef1b0af5cecd52d191487f7c13bb",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "642",
+      "domain": "box.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.box.com/send-large-files-fast",
+      "depth": 1,
+      "parent_url": "https://www.box.com/",
+      "attempt": 41,
+      "timestamp": "2026-11-12T21:12:43.527384+00:00",
+      "final_url": "https://www.box.com/send-large-files-fast",
+      "status": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'none'; script-src 'nonce-d6l2EGTHjL9nzMxBwCQUI2' 'unsafe-eval' https://challenges.cloudflare.com; script-src-attr 'none'; style-src 'unsafe-inline'; img-src 'self' https://challenges.cloudflare.com; connect-src 'self' https://challenges.cloudflare.com; frame-src 'self' https://challenges.cloudflare.com blob:; child-src 'self' https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=2592000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 5689,
+      "truncated": false,
+      "body_sha256": "1e9e982bf03e0bade14060c321e2510098a7883e653cb16300f2045205a72fd6",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "642",
+      "domain": "box.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.box.com/privacyineurope",
+      "depth": 1,
+      "parent_url": "https://www.box.com/",
+      "attempt": 42,
+      "timestamp": "2026-11-12T21:12:43.839139+00:00",
+      "final_url": "https://www.box.com/privacyineurope",
+      "status": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'none'; script-src 'nonce-W8NuJQf8oPCPnsve0XwOBB' 'unsafe-eval' https://challenges.cloudflare.com; script-src-attr 'none'; style-src 'unsafe-inline'; img-src 'self' https://challenges.cloudflare.com; connect-src 'self' https://challenges.cloudflare.com; frame-src 'self' https://challenges.cloudflare.com blob:; child-src 'self' https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=2592000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 5671,
+      "truncated": false,
+      "body_sha256": "3061683f52e20f57739deffcd327dd9d8e37c1bbb1e10984030f5715280174b2",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "642",
+      "domain": "box.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.box.com/gxp",
+      "depth": 1,
+      "parent_url": "https://www.box.com/",
+      "attempt": 43,
+      "timestamp": "2026-11-12T21:12:44.570874+00:00",
+      "final_url": "https://www.box.com/gxp",
+      "status": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'none'; script-src 'nonce-F6WEz2KnOBKrYNkmcTjBjt' 'unsafe-eval' https://challenges.cloudflare.com; script-src-attr 'none'; style-src 'unsafe-inline'; img-src 'self' https://challenges.cloudflare.com; connect-src 'self' https://challenges.cloudflare.com; frame-src 'self' https://challenges.cloudflare.com blob:; child-src 'self' https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=2592000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 5613,
+      "truncated": false,
+      "body_sha256": "34e3809d8f8f123590dc6d27a629ec527306d217e1a289ae9c79e30c6d256876",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "642",
+      "domain": "box.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.box.com/en-gb/home",
+      "depth": 1,
+      "parent_url": "https://www.box.com/",
+      "attempt": 44,
+      "timestamp": "2026-11-12T21:12:44.866596+00:00",
+      "final_url": "https://www.box.com/en-gb/home",
+      "status": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'none'; script-src 'nonce-rPSNGU4AKPrISg2M3d96r5' 'unsafe-eval' https://challenges.cloudflare.com; script-src-attr 'none'; style-src 'unsafe-inline'; img-src 'self' https://challenges.cloudflare.com; connect-src 'self' https://challenges.cloudflare.com; frame-src 'self' https://challenges.cloudflare.com blob:; child-src 'self' https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=2592000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 5634,
+      "truncated": false,
+      "body_sha256": "33bfad6368933f43390518fb4856fa1eae0beb5563f57cffc84da8b8c57b3c48",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "642",
+      "domain": "box.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.box.com/en-in/home",
+      "depth": 1,
+      "parent_url": "https://www.box.com/",
+      "attempt": 45,
+      "timestamp": "2026-11-12T21:12:45.599844+00:00",
+      "final_url": "https://www.box.com/en-in/home",
+      "status": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'none'; script-src 'nonce-MuMxARVrbHWURU5072bvBt' 'unsafe-eval' https://challenges.cloudflare.com; script-src-attr 'none'; style-src 'unsafe-inline'; img-src 'self' https://challenges.cloudflare.com; connect-src 'self' https://challenges.cloudflare.com; frame-src 'self' https://challenges.cloudflare.com blob:; child-src 'self' https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=2592000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 5634,
+      "truncated": false,
+      "body_sha256": "e54c388a453dd54aa71d6c69d9effac985b09029a168a30b387fb77b9377df93",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "642",
+      "domain": "box.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.box.com/en-nl/home",
+      "depth": 1,
+      "parent_url": "https://www.box.com/",
+      "attempt": 46,
+      "timestamp": "2026-11-12T21:12:45.882429+00:00",
+      "final_url": "https://www.box.com/en-nl/home",
+      "status": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'none'; script-src 'nonce-jGJYkgHhHif0rYiwO57NsB' 'unsafe-eval' https://challenges.cloudflare.com; script-src-attr 'none'; style-src 'unsafe-inline'; img-src 'self' https://challenges.cloudflare.com; connect-src 'self' https://challenges.cloudflare.com; frame-src 'self' https://challenges.cloudflare.com blob:; child-src 'self' https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=2592000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 5634,
+      "truncated": false,
+      "body_sha256": "42b35a829d4604ee885a203ea2fa5a9d3a7d7db9ebb5b51c8ca4f40d3915549b",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "642",
+      "domain": "box.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.box.com/en-se/home",
+      "depth": 1,
+      "parent_url": "https://www.box.com/",
+      "attempt": 47,
+      "timestamp": "2026-11-12T21:12:46.393986+00:00",
+      "final_url": "https://www.box.com/en-se/home",
+      "status": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'none'; script-src 'nonce-qMy37DBYbg5Q0VTJ17q0cy' 'unsafe-eval' https://challenges.cloudflare.com; script-src-attr 'none'; style-src 'unsafe-inline'; img-src 'self' https://challenges.cloudflare.com; connect-src 'self' https://challenges.cloudflare.com; frame-src 'self' https://challenges.cloudflare.com blob:; child-src 'self' https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=2592000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 5634,
+      "truncated": false,
+      "body_sha256": "06e103f36d17f109df3413fcca177d87e392af96a1a7919db1c1b3aff1d25e5c",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "642",
+      "domain": "box.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.box.com/en-au/home",
+      "depth": 1,
+      "parent_url": "https://www.box.com/",
+      "attempt": 48,
+      "timestamp": "2026-11-12T21:12:46.876889+00:00",
+      "final_url": "https://www.box.com/en-au/home",
+      "status": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'none'; script-src 'nonce-De1615b9wMLRP7KVED4CjL' 'unsafe-eval' https://challenges.cloudflare.com; script-src-attr 'none'; style-src 'unsafe-inline'; img-src 'self' https://challenges.cloudflare.com; connect-src 'self' https://challenges.cloudflare.com; frame-src 'self' https://challenges.cloudflare.com blob:; child-src 'self' https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=2592000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 5634,
+      "truncated": false,
+      "body_sha256": "4fb65a0c7bd03e8e678f5022f538bb71221d026ba9d9a89e66cb59e06ca23024",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "642",
+      "domain": "box.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.box.com/en-ca/home",
+      "depth": 1,
+      "parent_url": "https://www.box.com/",
+      "attempt": 49,
+      "timestamp": "2026-11-12T21:12:47.392943+00:00",
+      "final_url": "https://www.box.com/en-ca/home",
+      "status": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'none'; script-src 'nonce-mbmtgu9TmW9yrgM11hRSd4' 'unsafe-eval' https://challenges.cloudflare.com; script-src-attr 'none'; style-src 'unsafe-inline'; img-src 'self' https://challenges.cloudflare.com; connect-src 'self' https://challenges.cloudflare.com; frame-src 'self' https://challenges.cloudflare.com blob:; child-src 'self' https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=2592000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 5634,
+      "truncated": false,
+      "body_sha256": "79b00388b6def4d861a7a60af57ddc93d7a455aa9eb4b5241e51431dd642ad02",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "642",
+      "domain": "box.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.box.com/en-sg/home",
+      "depth": 1,
+      "parent_url": "https://www.box.com/",
+      "attempt": 50,
+      "timestamp": "2026-11-12T21:12:47.910764+00:00",
+      "final_url": "https://www.box.com/en-sg/home",
+      "status": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'none'; script-src 'nonce-LzDpMBOVZn9Vy48K9iSN6S' 'unsafe-eval' https://challenges.cloudflare.com; script-src-attr 'none'; style-src 'unsafe-inline'; img-src 'self' https://challenges.cloudflare.com; connect-src 'self' https://challenges.cloudflare.com; frame-src 'self' https://challenges.cloudflare.com blob:; child-src 'self' https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=2592000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 5634,
+      "truncated": false,
+      "body_sha256": "09a283693a7a27664be8f7a7724cb65ca3bcba68cdeee4ed64c32b910a909054",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "642",
+      "domain": "box.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.box.com/fr-fr/home",
+      "depth": 1,
+      "parent_url": "https://www.box.com/",
+      "attempt": 51,
+      "timestamp": "2026-11-12T21:12:48.408154+00:00",
+      "final_url": "https://www.box.com/fr-fr/home",
+      "status": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'none'; script-src 'nonce-2mXmHzX5lWIo3QcyUSpns2' 'unsafe-eval' https://challenges.cloudflare.com; script-src-attr 'none'; style-src 'unsafe-inline'; img-src 'self' https://challenges.cloudflare.com; connect-src 'self' https://challenges.cloudflare.com; frame-src 'self' https://challenges.cloudflare.com blob:; child-src 'self' https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=2592000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 5634,
+      "truncated": false,
+      "body_sha256": "d6f010dd503710150d8077f9527c85e7a6df0e41a18453128616fd33d86540b8",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "642",
+      "domain": "box.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.box.com/de-de/home",
+      "depth": 1,
+      "parent_url": "https://www.box.com/",
+      "attempt": 52,
+      "timestamp": "2026-11-12T21:12:48.902297+00:00",
+      "final_url": "https://www.box.com/de-de/home",
+      "status": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'none'; script-src 'nonce-Xq4AFULgi4cQ2GsUSyPkO5' 'unsafe-eval' https://challenges.cloudflare.com; script-src-attr 'none'; style-src 'unsafe-inline'; img-src 'self' https://challenges.cloudflare.com; connect-src 'self' https://challenges.cloudflare.com; frame-src 'self' https://challenges.cloudflare.com blob:; child-src 'self' https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=2592000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 5634,
+      "truncated": false,
+      "body_sha256": "5807b94e02c511a8af054ff2de34e4c9b4cac50b69ee9193059543106b44f9d2",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "642",
+      "domain": "box.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.box.com/it-it/home",
+      "depth": 1,
+      "parent_url": "https://www.box.com/",
+      "attempt": 53,
+      "timestamp": "2026-11-12T21:12:49.446025+00:00",
+      "final_url": "https://www.box.com/it-it/home",
+      "status": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'none'; script-src 'nonce-9HX8dJQKihtYfvdMW3b7FG' 'unsafe-eval' https://challenges.cloudflare.com; script-src-attr 'none'; style-src 'unsafe-inline'; img-src 'self' https://challenges.cloudflare.com; connect-src 'self' https://challenges.cloudflare.com; frame-src 'self' https://challenges.cloudflare.com blob:; child-src 'self' https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=2592000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 5634,
+      "truncated": false,
+      "body_sha256": "2834b48201f6da9f4bbf57abf83c9bd2603daa705f994e6ee484575a14cda33d",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "642",
+      "domain": "box.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.box.com/ja-jp/home",
+      "depth": 1,
+      "parent_url": "https://www.box.com/",
+      "attempt": 54,
+      "timestamp": "2026-11-12T21:12:49.932910+00:00",
+      "final_url": "https://www.box.com/ja-jp/home",
+      "status": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'none'; script-src 'nonce-QprpmwAH3y3CKZPM3RL6p6' 'unsafe-eval' https://challenges.cloudflare.com; script-src-attr 'none'; style-src 'unsafe-inline'; img-src 'self' https://challenges.cloudflare.com; connect-src 'self' https://challenges.cloudflare.com; frame-src 'self' https://challenges.cloudflare.com blob:; child-src 'self' https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=2592000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 5634,
+      "truncated": false,
+      "body_sha256": "095ffaae3ee1bf6c3601663314193d17ac2989efe7155944fb9fdb75fc946ed7",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "642",
+      "domain": "box.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.box.com/ko-kr/home",
+      "depth": 1,
+      "parent_url": "https://www.box.com/",
+      "attempt": 55,
+      "timestamp": "2026-11-12T21:12:50.450406+00:00",
+      "final_url": "https://www.box.com/ko-kr/home",
+      "status": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'none'; script-src 'nonce-7lN09743f2OFYB2j4jUWrj' 'unsafe-eval' https://challenges.cloudflare.com; script-src-attr 'none'; style-src 'unsafe-inline'; img-src 'self' https://challenges.cloudflare.com; connect-src 'self' https://challenges.cloudflare.com; frame-src 'self' https://challenges.cloudflare.com blob:; child-src 'self' https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=2592000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 5634,
+      "truncated": false,
+      "body_sha256": "ad08cb806e71eeb1c0142348e1d7781fbd7c6635772a8d1da125490820266b6f",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "642",
+      "domain": "box.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.box.com/es-419/home",
+      "depth": 1,
+      "parent_url": "https://www.box.com/",
+      "attempt": 56,
+      "timestamp": "2026-11-12T21:12:50.973957+00:00",
+      "final_url": "https://www.box.com/es-419/home",
+      "status": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'none'; script-src 'nonce-go8asDyE68d8x4ufDCUfUB' 'unsafe-eval' https://challenges.cloudflare.com; script-src-attr 'none'; style-src 'unsafe-inline'; img-src 'self' https://challenges.cloudflare.com; connect-src 'self' https://challenges.cloudflare.com; frame-src 'self' https://challenges.cloudflare.com blob:; child-src 'self' https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=2592000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 5659,
+      "truncated": false,
+      "body_sha256": "aad74be26633a7597a155506ca82a9b5d984f5f9008f5bc04de0deb08486550a",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "642",
+      "domain": "box.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.box.com/partners/slack",
+      "depth": 2,
+      "parent_url": "https://www.box.com/integrations",
+      "attempt": 57,
+      "timestamp": "2026-11-12T21:12:51.482392+00:00",
+      "final_url": "https://www.box.com/partners/slack",
+      "status": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'none'; script-src 'nonce-IkxYga0vXydoh6pc08TUb8' 'unsafe-eval' https://challenges.cloudflare.com; script-src-attr 'none'; style-src 'unsafe-inline'; img-src 'self' https://challenges.cloudflare.com; connect-src 'self' https://challenges.cloudflare.com; frame-src 'self' https://challenges.cloudflare.com blob:; child-src 'self' https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=2592000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 5668,
+      "truncated": false,
+      "body_sha256": "39adb6837cfc7ea4ffd8dd103165e596f0225821d69ecfefe1fa33bdcefe567e",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "642",
+      "domain": "box.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.box.com/ai",
+      "depth": 1,
+      "parent_url": "https://www.box.com/",
+      "attempt": 58,
+      "timestamp": "2026-11-12T21:12:52.029531+00:00",
+      "final_url": "https://www.box.com/ai",
+      "status": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'none'; script-src 'nonce-P12sIAwCfc4HPptzSNw9Nb' 'unsafe-eval' https://challenges.cloudflare.com; script-src-attr 'none'; style-src 'unsafe-inline'; img-src 'self' https://challenges.cloudflare.com; connect-src 'self' https://challenges.cloudflare.com; frame-src 'self' https://challenges.cloudflare.com blob:; child-src 'self' https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=2592000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 5610,
+      "truncated": false,
+      "body_sha256": "1149846e81af671dd214732a1af2a708ac9be8fc214f5a73eaaec8bc2b5b8ea9",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "642",
+      "domain": "box.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.box.com/industries/government",
+      "depth": 1,
+      "parent_url": "https://www.box.com/",
+      "attempt": 59,
+      "timestamp": "2026-11-12T21:12:52.532819+00:00",
+      "final_url": "https://www.box.com/industries/government",
+      "status": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'none'; script-src 'nonce-0TIq0lSajGhOChLKO1URK0' 'unsafe-eval' https://challenges.cloudflare.com; script-src-attr 'none'; style-src 'unsafe-inline'; img-src 'self' https://challenges.cloudflare.com; connect-src 'self' https://challenges.cloudflare.com; frame-src 'self' https://challenges.cloudflare.com blob:; child-src 'self' https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=2592000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 5689,
+      "truncated": false,
+      "body_sha256": "bb75a4ba685565dd9ef3cc07ebb8310f4d8e016c364daa563008f8c0326e29f0",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "642",
+      "domain": "box.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.box.com/customer-success/migration",
+      "depth": 1,
+      "parent_url": "https://www.box.com/",
+      "attempt": 60,
+      "timestamp": "2026-11-12T21:12:53.126804+00:00",
+      "final_url": "https://www.box.com/customer-success/migration",
+      "status": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'none'; script-src 'nonce-pPOybVlW9GwnniArvHt4G6' 'unsafe-eval' https://challenges.cloudflare.com; script-src-attr 'none'; style-src 'unsafe-inline'; img-src 'self' https://challenges.cloudflare.com; connect-src 'self' https://challenges.cloudflare.com; frame-src 'self' https://challenges.cloudflare.com blob:; child-src 'self' https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=2592000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 5704,
+      "truncated": false,
+      "body_sha256": "0603ab92d5d4ba7a3fb25aeced28b3913e4c86285db53c8a231f7d3e9e3dfb88",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "642",
+      "domain": "box.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.box.com/resources",
+      "depth": 1,
+      "parent_url": "https://www.box.com/",
+      "attempt": 61,
+      "timestamp": "2026-11-12T21:12:53.593568+00:00",
+      "final_url": "https://www.box.com/resources",
+      "status": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'none'; script-src 'nonce-5rRkbIeKJGjV4gfhZNqIeR' 'unsafe-eval' https://challenges.cloudflare.com; script-src-attr 'none'; style-src 'unsafe-inline'; img-src 'self' https://challenges.cloudflare.com; connect-src 'self' https://challenges.cloudflare.com; frame-src 'self' https://challenges.cloudflare.com blob:; child-src 'self' https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=2592000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 5631,
+      "truncated": false,
+      "body_sha256": "dfe80ff44098e1080e579ff0906b22078e4a1f889dce3c68b917c5177ac7b368",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "642",
+      "domain": "box.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.box.com/events",
+      "depth": 1,
+      "parent_url": "https://www.box.com/",
+      "attempt": 62,
+      "timestamp": "2026-11-12T21:12:54.062530+00:00",
+      "final_url": "https://www.box.com/events",
+      "status": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'none'; script-src 'nonce-PNuDl30iB9NwUEaB7WCwFd' 'unsafe-eval' https://challenges.cloudflare.com; script-src-attr 'none'; style-src 'unsafe-inline'; img-src 'self' https://challenges.cloudflare.com; connect-src 'self' https://challenges.cloudflare.com; frame-src 'self' https://challenges.cloudflare.com blob:; child-src 'self' https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=2592000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 5622,
+      "truncated": false,
+      "body_sha256": "a244d327f929810752544ea57f1e8f84b32a2ecbd4e94e7a2f125856552c3d5b",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "642",
+      "domain": "box.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.box.com/pricing",
+      "depth": 1,
+      "parent_url": "https://www.box.com/",
+      "attempt": 63,
+      "timestamp": "2026-11-12T21:12:54.619961+00:00",
+      "final_url": "https://www.box.com/pricing",
+      "status": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'none'; script-src 'nonce-Kc2VTcc1p1QVLfciHWGCJW' 'unsafe-eval' https://challenges.cloudflare.com; script-src-attr 'none'; style-src 'unsafe-inline'; img-src 'self' https://challenges.cloudflare.com; connect-src 'self' https://challenges.cloudflare.com; frame-src 'self' https://challenges.cloudflare.com blob:; child-src 'self' https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=2592000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 5625,
+      "truncated": false,
+      "body_sha256": "ca805a30d7a3e941df84b514696cab9b901e69ca081b20da74ce70867fc45b9d",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "642",
+      "domain": "box.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.box.com/customers/broadcom",
+      "depth": 1,
+      "parent_url": "https://www.box.com/",
+      "attempt": 64,
+      "timestamp": "2026-11-12T21:12:55.313426+00:00",
+      "final_url": "https://www.box.com/customers/broadcom",
+      "status": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'none'; script-src 'nonce-74St1t6x5VeaYMCyZah4aj' 'unsafe-eval' https://challenges.cloudflare.com; script-src-attr 'none'; style-src 'unsafe-inline'; img-src 'self' https://challenges.cloudflare.com; connect-src 'self' https://challenges.cloudflare.com; frame-src 'self' https://challenges.cloudflare.com blob:; child-src 'self' https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=2592000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 5680,
+      "truncated": false,
+      "body_sha256": "b4ad0f6c2b3de6d7f3ff03f24f475c09a3f58758956acac31055f393d3ac3b4e",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "642",
+      "domain": "box.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.box.com/about-us",
+      "depth": 1,
+      "parent_url": "https://www.box.com/",
+      "attempt": 65,
+      "timestamp": "2026-11-12T21:12:55.629398+00:00",
+      "final_url": "https://www.box.com/about-us",
+      "status": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'none'; script-src 'nonce-zGDTXtsbTdSyzTsdJLR62A' 'unsafe-eval' https://challenges.cloudflare.com; script-src-attr 'none'; style-src 'unsafe-inline'; img-src 'self' https://challenges.cloudflare.com; connect-src 'self' https://challenges.cloudflare.com; frame-src 'self' https://challenges.cloudflare.com blob:; child-src 'self' https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=2592000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 5654,
+      "truncated": false,
+      "body_sha256": "d805fa9162b79be4e2cffcbe6e1edaa1da8b3deaab8696de4e3ab10632860cdb",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "642",
+      "domain": "box.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.box.com/collaboration/document-management",
+      "depth": 1,
+      "parent_url": "https://www.box.com/",
+      "attempt": 66,
+      "timestamp": "2026-11-12T21:12:56.170780+00:00",
+      "final_url": "https://www.box.com/collaboration/document-management",
+      "status": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'none'; script-src 'nonce-Pb8x9Wtu9QUXhg0RlF939y' 'unsafe-eval' https://challenges.cloudflare.com; script-src-attr 'none'; style-src 'unsafe-inline'; img-src 'self' https://challenges.cloudflare.com; connect-src 'self' https://challenges.cloudflare.com; frame-src 'self' https://challenges.cloudflare.com blob:; child-src 'self' https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=2592000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 5746,
+      "truncated": false,
+      "body_sha256": "90e2a4579728422b544d10bcde5dda54cfc56c1befc21862ae371c3b9fb652a9",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "642",
+      "domain": "box.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.box.com/legal/termsofservice",
+      "depth": 1,
+      "parent_url": "https://www.box.com/",
+      "attempt": 67,
+      "timestamp": "2026-11-12T21:12:56.581405+00:00",
+      "final_url": "https://www.box.com/legal/termsofservice",
+      "status": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'none'; script-src 'nonce-kJBH5g12wdhbT6lgAmoKsN' 'unsafe-eval' https://challenges.cloudflare.com; script-src-attr 'none'; style-src 'unsafe-inline'; img-src 'self' https://challenges.cloudflare.com; connect-src 'self' https://challenges.cloudflare.com; frame-src 'self' https://challenges.cloudflare.com blob:; child-src 'self' https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=2592000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 5686,
+      "truncated": false,
+      "body_sha256": "2480573e4c5de85a16b521b6af2b6986743991d3dd14210c0f237a2fcbdefeb2",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "642",
+      "domain": "box.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.box.com/partners/netsuite",
+      "depth": 2,
+      "parent_url": "https://www.box.com/integrations",
+      "attempt": 68,
+      "timestamp": "2026-11-12T21:12:57.219787+00:00",
+      "final_url": "https://www.box.com/partners/netsuite",
+      "status": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'none'; script-src 'nonce-flptfYH3EfWWViObwQW5B1' 'unsafe-eval' https://challenges.cloudflare.com; script-src-attr 'none'; style-src 'unsafe-inline'; img-src 'self' https://challenges.cloudflare.com; connect-src 'self' https://challenges.cloudflare.com; frame-src 'self' https://challenges.cloudflare.com blob:; child-src 'self' https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=2592000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 5677,
+      "truncated": false,
+      "body_sha256": "2b1887dd9064eca7515b1ffcede06a5566a496b13b0c93c85971c3f1eb061d6a",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "642",
+      "domain": "box.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.box.com/industries/education",
+      "depth": 1,
+      "parent_url": "https://www.box.com/",
+      "attempt": 69,
+      "timestamp": "2026-11-12T21:12:57.705585+00:00",
+      "final_url": "https://www.box.com/industries/education",
+      "status": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'none'; script-src 'nonce-c7DUd6Et3AlWCOcTABextm' 'unsafe-eval' https://challenges.cloudflare.com; script-src-attr 'none'; style-src 'unsafe-inline'; img-src 'self' https://challenges.cloudflare.com; connect-src 'self' https://challenges.cloudflare.com; frame-src 'self' https://challenges.cloudflare.com blob:; child-src 'self' https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=2592000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 5686,
+      "truncated": false,
+      "body_sha256": "43c69938be8d27fd570880cfe970b0cb3ab945d63d3fb9390e4ef965b62b0089",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "642",
+      "domain": "box.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.box.com/customer-success/support-services",
+      "depth": 1,
+      "parent_url": "https://www.box.com/",
+      "attempt": 70,
+      "timestamp": "2026-11-12T21:12:58.209127+00:00",
+      "final_url": "https://www.box.com/customer-success/support-services",
+      "status": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'none'; script-src 'nonce-poAsS0vzDb5R9hJmk2JFmb' 'unsafe-eval' https://challenges.cloudflare.com; script-src-attr 'none'; style-src 'unsafe-inline'; img-src 'self' https://challenges.cloudflare.com; connect-src 'self' https://challenges.cloudflare.com; frame-src 'self' https://challenges.cloudflare.com blob:; child-src 'self' https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=2592000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 5746,
+      "truncated": false,
+      "body_sha256": "4923e1c21c832450078ff8b32c6d5e6112600f45da3f139a43fb85e1adf93d46",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "642",
+      "domain": "box.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.box.com/resources/knowledge-center",
+      "depth": 1,
+      "parent_url": "https://www.box.com/",
+      "attempt": 71,
+      "timestamp": "2026-11-12T21:12:58.683324+00:00",
+      "final_url": "https://www.box.com/resources/knowledge-center",
+      "status": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'none'; script-src 'nonce-RONIfuIiZIunWdrYDBOb6X' 'unsafe-eval' https://challenges.cloudflare.com; script-src-attr 'none'; style-src 'unsafe-inline'; img-src 'self' https://challenges.cloudflare.com; connect-src 'self' https://challenges.cloudflare.com; frame-src 'self' https://challenges.cloudflare.com blob:; child-src 'self' https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=2592000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 5704,
+      "truncated": false,
+      "body_sha256": "c9ab1de20cf41cd3f11ed502ea671cbceae16ad84d2912e305bfc7f495a68432",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "642",
+      "domain": "box.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.box.com/about-us/leadership",
+      "depth": 1,
+      "parent_url": "https://www.box.com/",
+      "attempt": 72,
+      "timestamp": "2026-11-12T21:12:58.987802+00:00",
+      "final_url": "https://www.box.com/about-us/leadership",
+      "status": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'none'; script-src 'nonce-qBeI0TmNJcBqLYbtc7DLQD' 'unsafe-eval' https://challenges.cloudflare.com; script-src-attr 'none'; style-src 'unsafe-inline'; img-src 'self' https://challenges.cloudflare.com; connect-src 'self' https://challenges.cloudflare.com; frame-src 'self' https://challenges.cloudflare.com blob:; child-src 'self' https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=2592000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 5683,
+      "truncated": false,
+      "body_sha256": "5c9c17973b32b7018bfc3a9f69cbe341a6a9cce0973c0b1c7b21cac8f007cd60",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "642",
+      "domain": "box.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.box.com/collaboration/virtual-data-room",
+      "depth": 1,
+      "parent_url": "https://www.box.com/",
+      "attempt": 73,
+      "timestamp": "2026-11-12T21:12:59.818548+00:00",
+      "final_url": "https://www.box.com/collaboration/virtual-data-room",
+      "status": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'none'; script-src 'nonce-dj5ptVcHtRz66MiTROHGvm' 'unsafe-eval' https://challenges.cloudflare.com; script-src-attr 'none'; style-src 'unsafe-inline'; img-src 'self' https://challenges.cloudflare.com; connect-src 'self' https://challenges.cloudflare.com; frame-src 'self' https://challenges.cloudflare.com blob:; child-src 'self' https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=2592000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 5740,
+      "truncated": false,
+      "body_sha256": "64210a50030ca0e9a2b5ab639dd03d0469095049ff8a1c17d63e5bc680190cc5",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "642",
+      "domain": "box.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.box.com/ai/trust",
+      "depth": 1,
+      "parent_url": "https://www.box.com/",
+      "attempt": 74,
+      "timestamp": "2026-11-12T21:13:00.028042+00:00",
+      "final_url": "https://www.box.com/ai/trust",
+      "status": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'none'; script-src 'nonce-K7PuHTGAwmjyfTNA84Raeu' 'unsafe-eval' https://challenges.cloudflare.com; script-src-attr 'none'; style-src 'unsafe-inline'; img-src 'self' https://challenges.cloudflare.com; connect-src 'self' https://challenges.cloudflare.com; frame-src 'self' https://challenges.cloudflare.com blob:; child-src 'self' https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=2592000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 5628,
+      "truncated": false,
+      "body_sha256": "bdebadd067a2699a08ce2a094dfa1e9086348cf5b2c995ed1b7a73893eb040be",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "642",
+      "domain": "box.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.box.com/legal/privacypolicy",
+      "depth": 1,
+      "parent_url": "https://www.box.com/",
+      "attempt": 75,
+      "timestamp": "2026-11-12T21:13:00.571469+00:00",
+      "final_url": "https://www.box.com/legal/privacypolicy",
+      "status": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'none'; script-src 'nonce-KQ7Jxf2PMOg6zxvkLMFwY9' 'unsafe-eval' https://challenges.cloudflare.com; script-src-attr 'none'; style-src 'unsafe-inline'; img-src 'self' https://challenges.cloudflare.com; connect-src 'self' https://challenges.cloudflare.com; frame-src 'self' https://challenges.cloudflare.com blob:; child-src 'self' https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=2592000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 5708,
+      "truncated": false,
+      "body_sha256": "025f41c2ee4a48f6cb06c5a2b78b3f96a45db9aae048233e05f1571dbc63a5bd",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "642",
+      "domain": "box.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.box.com/industries/professional-services",
+      "depth": 1,
+      "parent_url": "https://www.box.com/",
+      "attempt": 76,
+      "timestamp": "2026-11-12T21:13:01.010916+00:00",
+      "final_url": "https://www.box.com/industries/professional-services",
+      "status": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'none'; script-src 'nonce-NXb9W8hsAS2Mxvxg6FILMs' 'unsafe-eval' https://challenges.cloudflare.com; script-src-attr 'none'; style-src 'unsafe-inline'; img-src 'self' https://challenges.cloudflare.com; connect-src 'self' https://challenges.cloudflare.com; frame-src 'self' https://challenges.cloudflare.com blob:; child-src 'self' https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=2592000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 5743,
+      "truncated": false,
+      "body_sha256": "f2791adb2d58427566f840ab887e8e6a31ee97c91cbec105efcb0656c78f5ca2",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "642",
+      "domain": "box.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.box.com/partners",
+      "depth": 1,
+      "parent_url": "https://www.box.com/",
+      "attempt": 77,
+      "timestamp": "2026-11-12T21:13:01.591128+00:00",
+      "final_url": "https://www.box.com/partners",
+      "status": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'none'; script-src 'nonce-PyGdpUBT9yG8DPkeBqvCZa' 'unsafe-eval' https://challenges.cloudflare.com; script-src-attr 'none'; style-src 'unsafe-inline'; img-src 'self' https://challenges.cloudflare.com; connect-src 'self' https://challenges.cloudflare.com; frame-src 'self' https://challenges.cloudflare.com blob:; child-src 'self' https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=2592000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 5628,
+      "truncated": false,
+      "body_sha256": "f0f273b99398b9246c9b332389b7b82d21f7f6960bbe0ec080b91829a983778b",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "642",
+      "domain": "box.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.box.com/resources/gartner-mq-doc-mgt",
+      "depth": 1,
+      "parent_url": "https://www.box.com/",
+      "attempt": 78,
+      "timestamp": "2026-11-12T21:13:02.034157+00:00",
+      "final_url": "https://www.box.com/resources/gartner-mq-doc-mgt",
+      "status": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'none'; script-src 'nonce-3KT8puZyLbJLp1gEAruWAY' 'unsafe-eval' https://challenges.cloudflare.com; script-src-attr 'none'; style-src 'unsafe-inline'; img-src 'self' https://challenges.cloudflare.com; connect-src 'self' https://challenges.cloudflare.com; frame-src 'self' https://challenges.cloudflare.com blob:; child-src 'self' https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=2592000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 5731,
+      "truncated": false,
+      "body_sha256": "f0ddf9ee0c5f2ed35e0dc5edf9eae9395aa7f4efb7a97908929743c4e431d54d",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "642",
+      "domain": "box.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.box.com/about-us/esg",
+      "depth": 1,
+      "parent_url": "https://www.box.com/",
+      "attempt": 79,
+      "timestamp": "2026-11-12T21:13:02.539895+00:00",
+      "final_url": "https://www.box.com/about-us/esg",
+      "status": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'none'; script-src 'nonce-Mq6Zsxp0pCSYItZVe0lbGk' 'unsafe-eval' https://challenges.cloudflare.com; script-src-attr 'none'; style-src 'unsafe-inline'; img-src 'self' https://challenges.cloudflare.com; connect-src 'self' https://challenges.cloudflare.com; frame-src 'self' https://challenges.cloudflare.com blob:; child-src 'self' https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=2592000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 5662,
+      "truncated": false,
+      "body_sha256": "6e345c4cf42bb102baf5744846d1f50dc4ab0baf73fd56ac3f49fd88faf3be39",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "642",
+      "domain": "box.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.box.com/legal/regionalnotice",
+      "depth": 1,
+      "parent_url": "https://www.box.com/",
+      "attempt": 80,
+      "timestamp": "2026-11-12T21:13:03.028938+00:00",
+      "final_url": "https://www.box.com/legal/regionalnotice",
+      "status": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'none'; script-src 'nonce-HGzX3SlnZ6k5M1mi56b71r' 'unsafe-eval' https://challenges.cloudflare.com; script-src-attr 'none'; style-src 'unsafe-inline'; img-src 'self' https://challenges.cloudflare.com; connect-src 'self' https://challenges.cloudflare.com; frame-src 'self' https://challenges.cloudflare.com blob:; child-src 'self' https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=2592000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 5686,
+      "truncated": false,
+      "body_sha256": "1e28cf481e4f77d31cc343f79f8c967fd034d65a2b50faa23f62bb8a68cfba4d",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    }
+  ],
+  "robots": [
+    {
+      "url": "https://box.com/robots.txt",
+      "timestamp": "2026-11-12T21:12:22.688257+00:00",
+      "status": 200,
+      "decision": "parsed",
+      "final_url": "https://www.box.com/robots.txt",
+      "redirect_chain": [
+        {
+          "url": "https://box.com/robots.txt",
+          "status": 301,
+          "location": "https://www.box.com/robots.txt"
+        }
+      ],
+      "body_sha256": "cb77a92c0a2fe2e45eb81e381bda7c843c0688e0066cd2274fb06a0644deffa9",
+      "body": "#\r\n# robots.txt\r\n#\r\n\r\n# For more information about the robots.txt standard, see:\r\n# http://www.robotstxt.org/robotstxt.html\r\n\r\nSitemap: https://www.box.com/sitemap.xml\r\n\r\nUser-agent: *\r\n# CSS, JS, Images\r\nAllow: /core/*.css$\r\nAllow: /core/*.css?\r\nAllow: /core/*.js$\r\nAllow: /core/*.js?\r\nAllow: /core/*.gif\r\nAllow: /core/*.jpg\r\nAllow: /core/*.jpeg\r\nAllow: /core/*.png\r\nAllow: /core/*.svg\r\nAllow: /profiles/*.css$\r\nAllow: /profiles/*.css?\r\nAllow: /profiles/*.js$\r\nAllow: /profiles/*.js?\r\nAllow: /profiles/*.gif\r\nAllow: /profiles/*.jpg\r\nAllow: /profiles/*.jpeg\r\nAllow: /profiles/*.png\r\nAllow: /profiles/*.svg\r\n# Directories\r\nDisallow: /core/\r\nDisallow: /profiles/\r\n# Files\r\nDisallow: /README.txt\r\nDisallow: /web.config\r\n# Paths (clean URLs)\r\nDisallow: /admin/\r\nDisallow: /comment/reply/\r\nDisallow: /filter/tips\r\nDisallow: /node/add/\r\nDisallow: /search/\r\nDisallow: /user/register/\r\nDisallow: /user/password/\r\nDisallow: /user/login/\r\nDisallow: /user/logout/\r\n# Paths (no clean URLs)\r\nDisallow: /index.php/admin/\r\nDisallow: /index.php/comment/reply/\r\nDisallow: /index.php/filter/tips\r\nDisallow: /index.php/node/add/\r\nDisallow: /index.php/search/\r\nDisallow: /index.php/user/password/\r\nDisallow: /index.php/user/register/\r\nDisallow: /index.php/user/login/\r\nDisallow: /index.php/user/logout/\r\n\r\n# Custom Box Rules\r\nDisallow: */node/\r\nDisallow: */taxonomy/term/\r\nDisallow: /shared/\r\nDisallow: /thankyou/\r\nDisallow: /forms/\r\nDisallow: /signup/collablink*\nSitemap: https://www.box.com/sitemap.xml"
+    },
+    {
+      "url": "https://www.box.com/robots.txt",
+      "timestamp": "2026-11-12T21:12:23.250496+00:00",
+      "status": 200,
+      "decision": "parsed",
+      "final_url": "https://www.box.com/robots.txt",
+      "redirect_chain": [],
+      "body_sha256": "cb77a92c0a2fe2e45eb81e381bda7c843c0688e0066cd2274fb06a0644deffa9",
+      "body": "#\r\n# robots.txt\r\n#\r\n\r\n# For more information about the robots.txt standard, see:\r\n# http://www.robotstxt.org/robotstxt.html\r\n\r\nSitemap: https://www.box.com/sitemap.xml\r\n\r\nUser-agent: *\r\n# CSS, JS, Images\r\nAllow: /core/*.css$\r\nAllow: /core/*.css?\r\nAllow: /core/*.js$\r\nAllow: /core/*.js?\r\nAllow: /core/*.gif\r\nAllow: /core/*.jpg\r\nAllow: /core/*.jpeg\r\nAllow: /core/*.png\r\nAllow: /core/*.svg\r\nAllow: /profiles/*.css$\r\nAllow: /profiles/*.css?\r\nAllow: /profiles/*.js$\r\nAllow: /profiles/*.js?\r\nAllow: /profiles/*.gif\r\nAllow: /profiles/*.jpg\r\nAllow: /profiles/*.jpeg\r\nAllow: /profiles/*.png\r\nAllow: /profiles/*.svg\r\n# Directories\r\nDisallow: /core/\r\nDisallow: /profiles/\r\n# Files\r\nDisallow: /README.txt\r\nDisallow: /web.config\r\n# Paths (clean URLs)\r\nDisallow: /admin/\r\nDisallow: /comment/reply/\r\nDisallow: /filter/tips\r\nDisallow: /node/add/\r\nDisallow: /search/\r\nDisallow: /user/register/\r\nDisallow: /user/password/\r\nDisallow: /user/login/\r\nDisallow: /user/logout/\r\n# Paths (no clean URLs)\r\nDisallow: /index.php/admin/\r\nDisallow: /index.php/comment/reply/\r\nDisallow: /index.php/filter/tips\r\nDisallow: /index.php/node/add/\r\nDisallow: /index.php/search/\r\nDisallow: /index.php/user/password/\r\nDisallow: /index.php/user/register/\r\nDisallow: /index.php/user/login/\r\nDisallow: /index.php/user/logout/\r\n\r\n# Custom Box Rules\r\nDisallow: */node/\r\nDisallow: */taxonomy/term/\r\nDisallow: /shared/\r\nDisallow: /thankyou/\r\nDisallow: /forms/\r\nDisallow: /signup/collablink*\nSitemap: https://www.box.com/sitemap.xml"
+    }
+  ],
+  "eligible_pages": 3,
+  "canonical_origin": [
+    "https",
+    "www.box.com",
+    443
+  ],
+  "stop_reason": "attempt_budget",
+  "elapsed_seconds": 41.31
+}

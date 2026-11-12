@@ -1,0 +1,427 @@
+{
+  "site": {
+    "rank": "167",
+    "domain": "gravatar.com",
+    "stratum": "101-1000"
+  },
+  "rows": [
+    {
+      "rank": "167",
+      "domain": "gravatar.com",
+      "stratum": "101-1000",
+      "requested_url": "https://gravatar.com/",
+      "depth": 0,
+      "parent_url": "",
+      "attempt": 1,
+      "timestamp": "2026-11-12T21:07:21.280357+00:00",
+      "final_url": "https://gravatar.com/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src gravatar.com *.gravatar.com; script-src gravatar.com *.gravatar.com *.wp.com *.google-analytics.com *.googletagmanager.com *.facebook.net apis.google.com/js/ 'nonce-a55a83fbf42c' 'nonce-3c229417a5be' telegram.org/js/; style-src 'self' gravatar.com *.gravatar.com *.wp.com fonts.googleapis.com 'nonce-3c229417a5be' 'nonce-e6c018ff09b5' 'sha256-NE3gBSsVG0IdyINKOXv7oHDjOD1hoJpOCZQDS8LzvUc=' 'sha256-biLFinpqYMtWHmXfkA1BPeCY0/fNt46SAZ+BBk5YUog=' 'sha256-ONA8DqqhBTsIrZzU3/jZyRdkNkkAGEU74EH252dbGS8=' 'sha256-uYx4ryugsGdahnaIId0IhtdPIgBkKBfNZg2/H0eWhqk=' 'sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=' 'sha256-xi7Iu5TcqJkb4mlu0FHpAYfWWCETn5kNH3GPA4Coh4M=' 'sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=' 'sha256-I2bAuuyP+veMzHANDAkLjot3kEjD5cuLWOznj5UrCYc=' 'sha256-Fw2RK+YpRih15zbXuAaoQAV98ZS+OLAX6wDQ2AkaEho=' 'sha256-t9/679CRyrVA6r3JGaAzcO+diam/7WLn6KXJHJuOzUI=' 'sha256-h0RPO0+/L+WC46JS6RvM6D3KN9C2LfMai6hxwzVFU2k=' 'sha256-YIktaUP7IBRwVksGEOmRykAcO2jHTw97BHns4OnHTIw=' 'sha256-MSTZvl0psO46WYZImeDzGMr7OqGRUy5RPDaeL19QpBk='; font-src data: gravatar.com *.gravatar.com *.wp.com fonts.gstatic.com; img-src data: https: blob:; media-src https://videos.files.wordpress.com/ s.gravatar.com blob:; frame-src gravatar.com *.gravatar.com automattic.crowdsignal.net widgets.wp.com td.doubleclick.net www.googletagmanager.com oauth.telegram.org; connect-src gravatar.com *.gravatar.com *.wp.com data: blob: *.google-analytics.com *.analytics.google.com analytics.google.com googleadservices.com www.googleadservices.com google.com https://public-api.wordpress.com/ *.pexels.com *.giphy.com *.google.com stats.g.doubleclick.net; object-src 'none'; base-uri 'self'; report-uri https://public-api.wordpress.com/csp/; worker-src 'self' blob:;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubdomains; preload"
+        ]
+      },
+      "body_bytes": 88238,
+      "truncated": false,
+      "body_sha256": "f1ddfe356389fb461e10e04bfbe32d87db509dc0aafd7ac97e07add68e90d3af",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Your Free Avatar, Profile, and Link In Bio | Gravatar",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "167",
+      "domain": "gravatar.com",
+      "stratum": "101-1000",
+      "requested_url": "https://gravatar.com/link-in-bio",
+      "depth": 1,
+      "parent_url": "https://gravatar.com/",
+      "attempt": 2,
+      "timestamp": "2026-11-12T21:07:21.900130+00:00",
+      "final_url": "https://gravatar.com/link-in-bio",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src gravatar.com *.gravatar.com; script-src gravatar.com *.gravatar.com *.wp.com *.google-analytics.com *.googletagmanager.com *.facebook.net apis.google.com/js/ 'nonce-976104a83b12' 'nonce-0a5e40e2d881' telegram.org/js/; style-src 'self' gravatar.com *.gravatar.com *.wp.com fonts.googleapis.com 'nonce-0a5e40e2d881' 'nonce-becf044d7152' 'sha256-NE3gBSsVG0IdyINKOXv7oHDjOD1hoJpOCZQDS8LzvUc=' 'sha256-biLFinpqYMtWHmXfkA1BPeCY0/fNt46SAZ+BBk5YUog=' 'sha256-ONA8DqqhBTsIrZzU3/jZyRdkNkkAGEU74EH252dbGS8=' 'sha256-uYx4ryugsGdahnaIId0IhtdPIgBkKBfNZg2/H0eWhqk=' 'sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=' 'sha256-xi7Iu5TcqJkb4mlu0FHpAYfWWCETn5kNH3GPA4Coh4M=' 'sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=' 'sha256-I2bAuuyP+veMzHANDAkLjot3kEjD5cuLWOznj5UrCYc=' 'sha256-Fw2RK+YpRih15zbXuAaoQAV98ZS+OLAX6wDQ2AkaEho=' 'sha256-t9/679CRyrVA6r3JGaAzcO+diam/7WLn6KXJHJuOzUI=' 'sha256-h0RPO0+/L+WC46JS6RvM6D3KN9C2LfMai6hxwzVFU2k=' 'sha256-YIktaUP7IBRwVksGEOmRykAcO2jHTw97BHns4OnHTIw=' 'sha256-MSTZvl0psO46WYZImeDzGMr7OqGRUy5RPDaeL19QpBk='; font-src data: gravatar.com *.gravatar.com *.wp.com fonts.gstatic.com; img-src data: https: blob:; media-src https://videos.files.wordpress.com/ s.gravatar.com blob:; frame-src gravatar.com *.gravatar.com automattic.crowdsignal.net widgets.wp.com td.doubleclick.net www.googletagmanager.com oauth.telegram.org; connect-src gravatar.com *.gravatar.com *.wp.com data: blob: *.google-analytics.com *.analytics.google.com analytics.google.com googleadservices.com www.googleadservices.com google.com https://public-api.wordpress.com/ *.pexels.com *.giphy.com *.google.com stats.g.doubleclick.net; object-src 'none'; base-uri 'self'; report-uri https://public-api.wordpress.com/csp/; worker-src 'self' blob:;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubdomains; preload"
+        ]
+      },
+      "body_bytes": 61401,
+      "truncated": false,
+      "body_sha256": "e104c379a7548a2c8937dfa0eb38a9482f1f304a4f3ccd08e195b60c0f1273ed",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "The Original Link-in-bio | Gravatar",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "167",
+      "domain": "gravatar.com",
+      "stratum": "101-1000",
+      "requested_url": "https://gravatar.com/connect",
+      "depth": 1,
+      "parent_url": "https://gravatar.com/",
+      "attempt": 3,
+      "timestamp": "2026-11-12T21:07:22.386141+00:00",
+      "final_url": "https://gravatar.com/connect",
+      "status": 302,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubdomains; preload"
+        ]
+      },
+      "body_bytes": 0,
+      "truncated": false,
+      "body_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "redirect_chain": [
+        {
+          "url": "https://gravatar.com/connect",
+          "status": 302,
+          "location": "https://public-api.wordpress.com/oauth2/authorize?client_id=1854&response_type=code&blog_id=0&state=445695ee54d98353a0b5b4dfd44f045c09f1360df2c20a290357c17b2251c700&redirect_uri=https%3A%2F%2Fgravatar.com%2Fconnect%2F%3Faction%3Drequest_access_token",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000; includeSubdomains; preload"
+            ]
+          }
+        }
+      ],
+      "error": "redirect_out_of_scope",
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "167",
+      "domain": "gravatar.com",
+      "stratum": "101-1000",
+      "requested_url": "https://gravatar.com/developers",
+      "depth": 1,
+      "parent_url": "https://gravatar.com/",
+      "attempt": 4,
+      "timestamp": "2026-11-12T21:07:23.783650+00:00",
+      "final_url": "https://gravatar.com/connect?redirect_to=%2Fdevelopers",
+      "status": 302,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubdomains; preload"
+        ]
+      },
+      "body_bytes": 0,
+      "truncated": false,
+      "body_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "redirect_chain": [
+        {
+          "url": "https://gravatar.com/developers",
+          "status": 302,
+          "location": "/connect/?redirect_to=%2Fdevelopers",
+          "headers": {
+            "content-security-policy": [
+              "default-src gravatar.com *.gravatar.com; script-src gravatar.com *.gravatar.com *.wp.com *.google-analytics.com *.googletagmanager.com *.facebook.net apis.google.com/js/ 'nonce-c24af5f620f2' 'nonce-bbaf73e34b99' telegram.org/js/; style-src 'self' gravatar.com *.gravatar.com *.wp.com fonts.googleapis.com 'nonce-bbaf73e34b99' 'nonce-baef82d989ba' 'sha256-NE3gBSsVG0IdyINKOXv7oHDjOD1hoJpOCZQDS8LzvUc=' 'sha256-biLFinpqYMtWHmXfkA1BPeCY0/fNt46SAZ+BBk5YUog=' 'sha256-ONA8DqqhBTsIrZzU3/jZyRdkNkkAGEU74EH252dbGS8=' 'sha256-uYx4ryugsGdahnaIId0IhtdPIgBkKBfNZg2/H0eWhqk=' 'sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=' 'sha256-xi7Iu5TcqJkb4mlu0FHpAYfWWCETn5kNH3GPA4Coh4M=' 'sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=' 'sha256-I2bAuuyP+veMzHANDAkLjot3kEjD5cuLWOznj5UrCYc=' 'sha256-Fw2RK+YpRih15zbXuAaoQAV98ZS+OLAX6wDQ2AkaEho=' 'sha256-t9/679CRyrVA6r3JGaAzcO+diam/7WLn6KXJHJuOzUI=' 'sha256-h0RPO0+/L+WC46JS6RvM6D3KN9C2LfMai6hxwzVFU2k=' 'sha256-YIktaUP7IBRwVksGEOmRykAcO2jHTw97BHns4OnHTIw=' 'sha256-MSTZvl0psO46WYZImeDzGMr7OqGRUy5RPDaeL19QpBk='; font-src data: gravatar.com *.gravatar.com *.wp.com fonts.gstatic.com; img-src data: https: blob:; media-src https://videos.files.wordpress.com/ s.gravatar.com blob:; frame-src gravatar.com *.gravatar.com automattic.crowdsignal.net widgets.wp.com td.doubleclick.net www.googletagmanager.com oauth.telegram.org; connect-src gravatar.com *.gravatar.com *.wp.com data: blob: *.google-analytics.com *.analytics.google.com analytics.google.com googleadservices.com www.googleadservices.com google.com https://public-api.wordpress.com/ *.pexels.com *.giphy.com *.google.com stats.g.doubleclick.net; object-src 'none'; base-uri 'self'; report-uri https://public-api.wordpress.com/csp/; worker-src 'self' blob:;"
+            ],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000; includeSubdomains; preload"
+            ]
+          }
+        },
+        {
+          "url": "https://gravatar.com/connect/?redirect_to=%2Fdevelopers",
+          "status": 301,
+          "location": "https://gravatar.com/connect?redirect_to=%2Fdevelopers",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000; includeSubdomains; preload"
+            ]
+          }
+        },
+        {
+          "url": "https://gravatar.com/connect?redirect_to=%2Fdevelopers",
+          "status": 302,
+          "location": "https://public-api.wordpress.com/oauth2/authorize?client_id=1854&response_type=code&blog_id=0&state=3972431c19bc6fe23e1f474ed62b1ce38e8d92303c76c0cee295a45677f95d21&redirect_uri=https%3A%2F%2Fgravatar.com%2Fconnect%2F%3Fredirect_to%3D%252Fdevelopers%26action%3Drequest_access_token",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000; includeSubdomains; preload"
+            ]
+          }
+        }
+      ],
+      "error": "redirect_out_of_scope",
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "167",
+      "domain": "gravatar.com",
+      "stratum": "101-1000",
+      "requested_url": "https://gravatar.com/profile",
+      "depth": 1,
+      "parent_url": "https://gravatar.com/",
+      "attempt": 5,
+      "timestamp": "2026-11-12T21:07:25.345559+00:00",
+      "final_url": "https://gravatar.com/connect?redirect_to=%2Fprofile",
+      "status": 302,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubdomains; preload"
+        ]
+      },
+      "body_bytes": 0,
+      "truncated": false,
+      "body_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "redirect_chain": [
+        {
+          "url": "https://gravatar.com/profile",
+          "status": 302,
+          "location": "/connect/?redirect_to=%2Fprofile",
+          "headers": {
+            "content-security-policy": [
+              "default-src gravatar.com *.gravatar.com; script-src gravatar.com *.gravatar.com *.wp.com *.google-analytics.com *.googletagmanager.com *.facebook.net apis.google.com/js/ 'nonce-9e0d0ac21329' 'nonce-d669ad59f267' telegram.org/js/; style-src 'self' gravatar.com *.gravatar.com *.wp.com fonts.googleapis.com 'nonce-d669ad59f267' 'nonce-4db2d59105f8' 'sha256-NE3gBSsVG0IdyINKOXv7oHDjOD1hoJpOCZQDS8LzvUc=' 'sha256-biLFinpqYMtWHmXfkA1BPeCY0/fNt46SAZ+BBk5YUog=' 'sha256-ONA8DqqhBTsIrZzU3/jZyRdkNkkAGEU74EH252dbGS8=' 'sha256-uYx4ryugsGdahnaIId0IhtdPIgBkKBfNZg2/H0eWhqk=' 'sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=' 'sha256-xi7Iu5TcqJkb4mlu0FHpAYfWWCETn5kNH3GPA4Coh4M=' 'sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=' 'sha256-I2bAuuyP+veMzHANDAkLjot3kEjD5cuLWOznj5UrCYc=' 'sha256-Fw2RK+YpRih15zbXuAaoQAV98ZS+OLAX6wDQ2AkaEho=' 'sha256-t9/679CRyrVA6r3JGaAzcO+diam/7WLn6KXJHJuOzUI=' 'sha256-h0RPO0+/L+WC46JS6RvM6D3KN9C2LfMai6hxwzVFU2k=' 'sha256-YIktaUP7IBRwVksGEOmRykAcO2jHTw97BHns4OnHTIw=' 'sha256-MSTZvl0psO46WYZImeDzGMr7OqGRUy5RPDaeL19QpBk='; font-src data: gravatar.com *.gravatar.com *.wp.com fonts.gstatic.com; img-src data: https: blob:; media-src https://videos.files.wordpress.com/ s.gravatar.com blob:; frame-src gravatar.com *.gravatar.com automattic.crowdsignal.net widgets.wp.com td.doubleclick.net www.googletagmanager.com oauth.telegram.org; connect-src gravatar.com *.gravatar.com *.wp.com data: blob: *.google-analytics.com *.analytics.google.com analytics.google.com googleadservices.com www.googleadservices.com google.com https://public-api.wordpress.com/ *.pexels.com *.giphy.com *.google.com stats.g.doubleclick.net; object-src 'none'; base-uri 'self'; report-uri https://public-api.wordpress.com/csp/; worker-src 'self' blob:;"
+            ],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000; includeSubdomains; preload"
+            ]
+          }
+        },
+        {
+          "url": "https://gravatar.com/connect/?redirect_to=%2Fprofile",
+          "status": 301,
+          "location": "https://gravatar.com/connect?redirect_to=%2Fprofile",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000; includeSubdomains; preload"
+            ]
+          }
+        },
+        {
+          "url": "https://gravatar.com/connect?redirect_to=%2Fprofile",
+          "status": 302,
+          "location": "https://public-api.wordpress.com/oauth2/authorize?client_id=1854&response_type=code&blog_id=0&state=cebc42c57a75f73306f22255d4a5873a4720b2228e1fc421041169d20bfd98fd&redirect_uri=https%3A%2F%2Fgravatar.com%2Fconnect%2F%3Fredirect_to%3D%252Fprofile%26action%3Drequest_access_token",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000; includeSubdomains; preload"
+            ]
+          }
+        }
+      ],
+      "error": "redirect_out_of_scope",
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "167",
+      "domain": "gravatar.com",
+      "stratum": "101-1000",
+      "requested_url": "https://gravatar.com/site/translations",
+      "depth": 1,
+      "parent_url": "https://gravatar.com/",
+      "attempt": 6,
+      "timestamp": "2026-11-12T21:07:25.871261+00:00",
+      "final_url": "https://gravatar.com/site/translations",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src gravatar.com *.gravatar.com; script-src gravatar.com *.gravatar.com *.wp.com *.google-analytics.com *.googletagmanager.com *.facebook.net apis.google.com/js/ 'nonce-438779f7dd3d' 'nonce-0fd7d885404c' telegram.org/js/; style-src 'self' gravatar.com *.gravatar.com *.wp.com fonts.googleapis.com 'nonce-0fd7d885404c' 'nonce-c65137f49a62' 'sha256-NE3gBSsVG0IdyINKOXv7oHDjOD1hoJpOCZQDS8LzvUc=' 'sha256-biLFinpqYMtWHmXfkA1BPeCY0/fNt46SAZ+BBk5YUog=' 'sha256-ONA8DqqhBTsIrZzU3/jZyRdkNkkAGEU74EH252dbGS8=' 'sha256-uYx4ryugsGdahnaIId0IhtdPIgBkKBfNZg2/H0eWhqk=' 'sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=' 'sha256-xi7Iu5TcqJkb4mlu0FHpAYfWWCETn5kNH3GPA4Coh4M=' 'sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=' 'sha256-I2bAuuyP+veMzHANDAkLjot3kEjD5cuLWOznj5UrCYc=' 'sha256-Fw2RK+YpRih15zbXuAaoQAV98ZS+OLAX6wDQ2AkaEho=' 'sha256-t9/679CRyrVA6r3JGaAzcO+diam/7WLn6KXJHJuOzUI=' 'sha256-h0RPO0+/L+WC46JS6RvM6D3KN9C2LfMai6hxwzVFU2k=' 'sha256-YIktaUP7IBRwVksGEOmRykAcO2jHTw97BHns4OnHTIw=' 'sha256-MSTZvl0psO46WYZImeDzGMr7OqGRUy5RPDaeL19QpBk='; font-src data: gravatar.com *.gravatar.com *.wp.com fonts.gstatic.com; img-src data: https: blob:; media-src https://videos.files.wordpress.com/ s.gravatar.com blob:; frame-src gravatar.com *.gravatar.com automattic.crowdsignal.net widgets.wp.com td.doubleclick.net www.googletagmanager.com oauth.telegram.org; connect-src gravatar.com *.gravatar.com *.wp.com data: blob: *.google-analytics.com *.analytics.google.com analytics.google.com googleadservices.com www.googleadservices.com google.com https://public-api.wordpress.com/ *.pexels.com *.giphy.com *.google.com stats.g.doubleclick.net; object-src 'none'; base-uri 'self'; report-uri https://public-api.wordpress.com/csp/; worker-src 'self' blob:;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubdomains; preload"
+        ]
+      },
+      "body_bytes": 58828,
+      "truncated": false,
+      "body_sha256": "fcff32e6c6d921d21c97b7c2b897c43f4fe54a2a20b7e8744d3d4f1a25e9c63f",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Gravatar - Globally Recognized Avatars",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "167",
+      "domain": "gravatar.com",
+      "stratum": "101-1000",
+      "requested_url": "https://gravatar.com/custom-domains",
+      "depth": 1,
+      "parent_url": "https://gravatar.com/",
+      "attempt": 7,
+      "timestamp": "2026-11-12T21:07:26.433098+00:00",
+      "final_url": "https://gravatar.com/custom-domains",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src gravatar.com *.gravatar.com; script-src gravatar.com *.gravatar.com *.wp.com *.google-analytics.com *.googletagmanager.com *.facebook.net apis.google.com/js/ 'nonce-3b4224d50a20' 'nonce-24dfedd412c9' telegram.org/js/; style-src 'self' gravatar.com *.gravatar.com *.wp.com fonts.googleapis.com 'nonce-24dfedd412c9' 'nonce-9663c38416f5' 'sha256-NE3gBSsVG0IdyINKOXv7oHDjOD1hoJpOCZQDS8LzvUc=' 'sha256-biLFinpqYMtWHmXfkA1BPeCY0/fNt46SAZ+BBk5YUog=' 'sha256-ONA8DqqhBTsIrZzU3/jZyRdkNkkAGEU74EH252dbGS8=' 'sha256-uYx4ryugsGdahnaIId0IhtdPIgBkKBfNZg2/H0eWhqk=' 'sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=' 'sha256-xi7Iu5TcqJkb4mlu0FHpAYfWWCETn5kNH3GPA4Coh4M=' 'sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=' 'sha256-I2bAuuyP+veMzHANDAkLjot3kEjD5cuLWOznj5UrCYc=' 'sha256-Fw2RK+YpRih15zbXuAaoQAV98ZS+OLAX6wDQ2AkaEho=' 'sha256-t9/679CRyrVA6r3JGaAzcO+diam/7WLn6KXJHJuOzUI=' 'sha256-h0RPO0+/L+WC46JS6RvM6D3KN9C2LfMai6hxwzVFU2k=' 'sha256-YIktaUP7IBRwVksGEOmRykAcO2jHTw97BHns4OnHTIw=' 'sha256-MSTZvl0psO46WYZImeDzGMr7OqGRUy5RPDaeL19QpBk='; font-src data: gravatar.com *.gravatar.com *.wp.com fonts.gstatic.com; img-src data: https: blob:; media-src https://videos.files.wordpress.com/ s.gravatar.com blob:; frame-src gravatar.com *.gravatar.com automattic.crowdsignal.net widgets.wp.com td.doubleclick.net www.googletagmanager.com oauth.telegram.org; connect-src gravatar.com *.gravatar.com *.wp.com data: blob: *.google-analytics.com *.analytics.google.com analytics.google.com googleadservices.com www.googleadservices.com google.com https://public-api.wordpress.com/ *.pexels.com *.giphy.com *.google.com stats.g.doubleclick.net; object-src 'none'; base-uri 'self'; report-uri https://public-api.wordpress.com/csp/; worker-src 'self' blob:;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubdomains; preload"
+        ]
+      },
+      "body_bytes": 71101,
+      "truncated": false,
+      "body_sha256": "1bb7224e87c8ba3e22bb27f77d6564df313f608aa2016e0ee2acb62ad92191e0",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Own Your Name With A Custom Domain | Gravatar",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "167",
+      "domain": "gravatar.com",
+      "stratum": "101-1000",
+      "requested_url": "https://gravatar.com/plugin",
+      "depth": 1,
+      "parent_url": "https://gravatar.com/",
+      "attempt": 8,
+      "timestamp": "2026-11-12T21:07:26.963086+00:00",
+      "final_url": "https://gravatar.com/plugin",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src gravatar.com *.gravatar.com; script-src gravatar.com *.gravatar.com *.wp.com *.google-analytics.com *.googletagmanager.com *.facebook.net apis.google.com/js/ 'nonce-26e9da828070' 'nonce-6964f4e5c2d7' telegram.org/js/; style-src 'self' gravatar.com *.gravatar.com *.wp.com fonts.googleapis.com 'nonce-6964f4e5c2d7' 'nonce-869ec9e861fb' 'sha256-NE3gBSsVG0IdyINKOXv7oHDjOD1hoJpOCZQDS8LzvUc=' 'sha256-biLFinpqYMtWHmXfkA1BPeCY0/fNt46SAZ+BBk5YUog=' 'sha256-ONA8DqqhBTsIrZzU3/jZyRdkNkkAGEU74EH252dbGS8=' 'sha256-uYx4ryugsGdahnaIId0IhtdPIgBkKBfNZg2/H0eWhqk=' 'sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=' 'sha256-xi7Iu5TcqJkb4mlu0FHpAYfWWCETn5kNH3GPA4Coh4M=' 'sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=' 'sha256-I2bAuuyP+veMzHANDAkLjot3kEjD5cuLWOznj5UrCYc=' 'sha256-Fw2RK+YpRih15zbXuAaoQAV98ZS+OLAX6wDQ2AkaEho=' 'sha256-t9/679CRyrVA6r3JGaAzcO+diam/7WLn6KXJHJuOzUI=' 'sha256-h0RPO0+/L+WC46JS6RvM6D3KN9C2LfMai6hxwzVFU2k=' 'sha256-YIktaUP7IBRwVksGEOmRykAcO2jHTw97BHns4OnHTIw=' 'sha256-MSTZvl0psO46WYZImeDzGMr7OqGRUy5RPDaeL19QpBk='; font-src data: gravatar.com *.gravatar.com *.wp.com fonts.gstatic.com; img-src data: https: blob:; media-src https://videos.files.wordpress.com/ s.gravatar.com blob:; frame-src gravatar.com *.gravatar.com automattic.crowdsignal.net widgets.wp.com td.doubleclick.net www.googletagmanager.com oauth.telegram.org; connect-src gravatar.com *.gravatar.com *.wp.com data: blob: *.google-analytics.com *.analytics.google.com analytics.google.com googleadservices.com www.googleadservices.com google.com https://public-api.wordpress.com/ *.pexels.com *.giphy.com *.google.com stats.g.doubleclick.net; object-src 'none'; base-uri 'self'; report-uri https://public-api.wordpress.com/csp/; worker-src 'self' blob:;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubdomains; preload"
+        ]
+      },
+      "body_bytes": 74632,
+      "truncated": false,
+      "body_sha256": "cf43ae26228ea05c6636c3029cbf26510a1d4497af92a5b6b22a4a0aadf43ba2",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Engaging Avatars & Profiles for WordPress | Gravatar",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "167",
+      "domain": "gravatar.com",
+      "stratum": "101-1000",
+      "requested_url": "https://gravatar.com/connect/",
+      "depth": 1,
+      "parent_url": "https://gravatar.com/",
+      "attempt": 9,
+      "timestamp": "2026-11-12T21:07:27.877261+00:00",
+      "final_url": "https://gravatar.com/connect",
+      "status": 302,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubdomains; preload"
+        ]
+      },
+      "body_bytes": 0,
+      "truncated": false,
+      "body_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "redirect_chain": [
+        {
+          "url": "https://gravatar.com/connect/",
+          "status": 301,
+          "location": "https://gravatar.com/connect",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000; includeSubdomains; preload"
+            ]
+          }
+        },
+        {
+          "url": "https://gravatar.com/connect",
+          "status": 302,
+          "location": "https://public-api.wordpress.com/oauth2/authorize?client_id=1854&response_type=code&blog_id=0&state=a7ffeada96affca82f99efb851c82463c14f034b14ce22cf6338c8b68dae4d18&redirect_uri=https%3A%2F%2Fgravatar.com%2Fconnect%2F%3Faction%3Drequest_access_token",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000; includeSubdomains; preload"
+            ]
+          }
+        }
+      ],
+      "error": "redirect_out_of_scope",
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    }
+  ],
+  "robots": [
+    {
+      "url": "https://gravatar.com/robots.txt",
+      "timestamp": "2026-11-12T21:07:21.280307+00:00",
+      "status": 200,
+      "decision": "parsed",
+      "body_sha256": "75e9d90f44e5644b58fb6ec2361a61d48214863bd10d37b7fd6595b9b2f1bf48",
+      "body": "User-Agent: *\nDisallow: /*.json\nDisallow: /*.xml\nDisallow: /*.php\nDisallow: /*.vcf\nDisallow: /*.qr\nDisallow: /*.card\nDisallow: /accounts/activate/*\nDisallow: /accounts/force-by-email/*\nDisallow: /account/\nAllow: /sitemap.xml\nAllow: /sitemap-*.xml\n\n# Do not allow indexing most API endpoints.\nDisallow: /v1/\nDisallow: /v2/\nDisallow: /v3/\nAllow: /v3/openapi\n\nUser-agent: GPTBot\nAllow: /v3/openapi\nAllow: /*.md\nDisallow: /\n\nUser-agent: CCBot\nAllow: /v3/openapi\nAllow: /*.md\nDisallow: /\n\nUser-agent: SentiBot\nAllow: /v3/openapi\nAllow: /*.md\nDisallow: /\n\nUser-agent: sentibot\nAllow: /v3/openapi\nAllow: /*.md\nDisallow: /\n\nUser-agent: Google-Extended\nAllow: /v3/openapi\nAllow: /*.md\nDisallow: /\n\nUser-agent: FacebookBot\nAllow: /v3/openapi\nAllow: /*.md\nDisallow: /\n\nUser-agent: omgili\nAllow: /v3/openapi\nAllow: /*.md\nDisallow: /\n\nUser-agent: omgilibot\nAllow: /v3/openapi\nAllow: /*.md\nDisallow: /\n\nUser-agent: Amazonbot\nAllow: /v3/openapi\nAllow: /*.md\nDisallow: /\n\nUser-agent: Bytespider\nAllow: /v3/openapi\nAllow: /*.md\nDisallow: /"
+    }
+  ],
+  "eligible_pages": 5,
+  "canonical_origin": [
+    "https",
+    "gravatar.com",
+    443
+  ],
+  "stop_reason": "frontier_exhausted",
+  "elapsed_seconds": 7.29
+}

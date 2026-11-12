@@ -1,0 +1,97 @@
+{
+  "site": {
+    "rank": "6004",
+    "domain": "igvita.com",
+    "stratum": "1001-10000"
+  },
+  "rows": [
+    {
+      "rank": "6004",
+      "domain": "igvita.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://igvita.com/",
+      "depth": 0,
+      "parent_url": "",
+      "attempt": 1,
+      "timestamp": "2026-11-12T21:13:56.205987+00:00",
+      "final_url": "https://www.igvita.com/",
+      "status": 301,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains"
+        ]
+      },
+      "body_bytes": 0,
+      "truncated": false,
+      "body_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "redirect_chain": [
+        {
+          "url": "https://igvita.com/",
+          "status": 301,
+          "location": "https://www.igvita.com/",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000; includeSubDomains"
+            ]
+          }
+        },
+        {
+          "url": "https://www.igvita.com/",
+          "status": 301,
+          "location": "https://ilya.grigorik.com/",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000; includeSubDomains"
+            ]
+          }
+        }
+      ],
+      "error": "redirect_out_of_scope",
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    }
+  ],
+  "robots": [
+    {
+      "url": "https://igvita.com/robots.txt",
+      "timestamp": "2026-11-12T21:13:55.452095+00:00",
+      "status": 200,
+      "decision": "parsed",
+      "final_url": "https://www.igvita.com/robots.txt",
+      "redirect_chain": [
+        {
+          "url": "https://igvita.com/robots.txt",
+          "status": 301,
+          "location": "https://www.igvita.com/robots.txt"
+        }
+      ],
+      "body_sha256": "332035d2461aa803f7646f3dab9ed02058bb6c7c59e769dec59e1a9adfb21b63",
+      "body": "# www.robotstxt.org/\r\n# www.google.com/support/webmasters/bin/answer.py?hl=en&answer=156449\r\n\r\nUser-agent: *"
+    },
+    {
+      "url": "https://www.igvita.com/robots.txt",
+      "timestamp": "2026-11-12T21:13:56.205959+00:00",
+      "status": 200,
+      "decision": "parsed",
+      "final_url": "https://www.igvita.com/robots.txt",
+      "redirect_chain": [],
+      "body_sha256": "332035d2461aa803f7646f3dab9ed02058bb6c7c59e769dec59e1a9adfb21b63",
+      "body": "# www.robotstxt.org/\r\n# www.google.com/support/webmasters/bin/answer.py?hl=en&answer=156449\r\n\r\nUser-agent: *"
+    }
+  ],
+  "eligible_pages": 0,
+  "canonical_origin": null,
+  "stop_reason": "frontier_exhausted",
+  "elapsed_seconds": 2.36
+}

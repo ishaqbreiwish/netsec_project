@@ -1,0 +1,97 @@
+{
+  "site": {
+    "rank": "389",
+    "domain": "dns.google",
+    "stratum": "101-1000"
+  },
+  "rows": [
+    {
+      "rank": "389",
+      "domain": "dns.google",
+      "stratum": "101-1000",
+      "requested_url": "https://dns.google/",
+      "depth": 0,
+      "parent_url": "",
+      "attempt": 1,
+      "timestamp": "2026-11-12T21:12:11.067244+00:00",
+      "final_url": "https://dns.google/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "object-src 'none';base-uri 'self';script-src 'nonce-6sLne8LAJ0xmMLj5ODAoRw' 'strict-dynamic' 'report-sample' 'unsafe-eval' 'unsafe-inline' https: http:;report-uri https://csp.withgoogle.com/csp/honest_dns/1_0;frame-ancestors 'none'"
+        ],
+        "content-security-policy-report-only": [
+          "script-src 'none'; form-action 'none'; frame-src 'none'; report-uri https://csp.withgoogle.com/csp/scaffolding/ntdsgswbsc:55:0"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 1381,
+      "truncated": false,
+      "body_sha256": "d653445d1f97f13513364545cedab068c4429982ed515321a37f42f1f1194562",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Google Public DNS",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "389",
+      "domain": "dns.google",
+      "stratum": "101-1000",
+      "requested_url": "https://dns.google/cache",
+      "depth": 1,
+      "parent_url": "https://dns.google/",
+      "attempt": 2,
+      "timestamp": "2026-11-12T21:12:11.560622+00:00",
+      "final_url": "https://dns.google/cache",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "object-src 'none';base-uri 'self';script-src 'nonce-L_2Kfv_er52vy-NUhLswGA' 'strict-dynamic' 'report-sample' 'unsafe-eval' 'unsafe-inline' https: http:;report-uri https://csp.withgoogle.com/csp/honest_dns/1_0;frame-ancestors https://developers.google.com/"
+        ],
+        "content-security-policy-report-only": [
+          "script-src 'none'; form-action 'none'; frame-src 'none'; report-uri https://csp.withgoogle.com/csp/scaffolding/ntdsgswbsc:56:0"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 2684,
+      "truncated": false,
+      "body_sha256": "8e88939e877b60cbf27b3bb184ebb8a9ccbbaee4e0d11becd3d281ab7c9e2118",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Flush Cache - Google Public DNS",
+      "duplicate_final": false,
+      "eligible": true
+    }
+  ],
+  "robots": [
+    {
+      "url": "https://dns.google/robots.txt",
+      "timestamp": "2026-11-12T21:12:11.067229+00:00",
+      "status": 404,
+      "decision": "not_found",
+      "final_url": "https://dns.google/robots.txt",
+      "redirect_chain": [],
+      "body_sha256": "6adee83a3eba87d30fdca3997d27097697f2767805f222a0f78c3f04392004d2",
+      "body": "<!DOCTYPE html>\n<html lang=en>\n  <meta charset=utf-8>\n  <meta name=viewport content=\"initial-scale=1, minimum-scale=1, width=device-width\">\n  <title>Error 404 (Not Found)!!1</title>\n  <style>\n    *{margin:0;padding:0}html,code{font:15px/22px arial,sans-serif}html{background:#fff;color:#222;padding:15px}body{margin:7% auto 0;max-width:390px;min-height:180px;padding:30px 0 15px}* > body{background:url(//www.google.com/images/errors/robot.png) 100% 5px no-repeat;padding-right:205px}p{margin:11px 0 22px;overflow:hidden}ins{color:#777;text-decoration:none}a img{border:0}@media screen and (max-width:772px){body{background:none;margin-top:0;max-width:none;padding-right:0}}#logo{background:url(//www.google.com/images/branding/googlelogo/1x/googlelogo_color_150x54dp.png) no-repeat;margin-left:-5px}@media only screen and (min-resolution:192dpi){#logo{background:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) no-repeat 0% 0%/100% 100%;-moz-border-image:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) 0}}@media only screen and (-webkit-min-device-pixel-ratio:2){#logo{background:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) no-repeat;-webkit-background-size:100% 100%}}#logo{display:inline-block;height:54px;width:150px}\n  </style>\n  <a href=//www.google.com/><span id=logo aria-label=Google></span></a>\n  <p><b>404.</b> <ins>That\u2019s an error.</ins>\n  <p>The requested URL <code>/robots.txt</code> was not found on this server.  <ins>That\u2019s all we know.</ins>\n"
+    }
+  ],
+  "eligible_pages": 2,
+  "canonical_origin": [
+    "https",
+    "dns.google",
+    443
+  ],
+  "stop_reason": "frontier_exhausted",
+  "elapsed_seconds": 1.14
+}

@@ -1,0 +1,63 @@
+{
+  "site": {
+    "rank": "59",
+    "domain": "zoom.us",
+    "stratum": "1-100"
+  },
+  "rows": [
+    {
+      "rank": "59",
+      "domain": "zoom.us",
+      "stratum": "1-100",
+      "requested_url": "https://zoom.us/",
+      "depth": 0,
+      "parent_url": "",
+      "attempt": 1,
+      "timestamp": "2026-11-12T21:07:20.458283+00:00",
+      "final_url": "https://zoom.us/",
+      "status": 301,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 0,
+      "truncated": false,
+      "body_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "redirect_chain": [
+        {
+          "url": "https://zoom.us/",
+          "status": 301,
+          "location": "https://www.zoom.com/",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": []
+          }
+        }
+      ],
+      "error": "redirect_out_of_scope",
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    }
+  ],
+  "robots": [
+    {
+      "url": "https://zoom.us/robots.txt",
+      "timestamp": "2026-11-12T21:07:20.458233+00:00",
+      "status": 200,
+      "decision": "parsed",
+      "body_sha256": "b3ed9f53f38c480b046b4d5a648aa7a879c6720957301506dc282b32fb2f5593",
+      "body": "User-Agent: *\nDisallow: /download/*/Zoom_launcher.exe\nDisallow: /download/*/zoomusLauncher.zip\nDisallow: /docs/image/new/brand/outdated/\nDisallow: /docs/doc/2-Page-All-Products.pdf\nDisallow: /docs/doc/zoom-apps-security-privacy-faq.pdf\nDisallow: /docs/doc/zoom-apps-data-management.pdf\nDisallow: /wc/*\nDisallow: /web/*\nDisallow: /share*\nDisallow: /support*\nDisallow: /j/*\nDisallow: /z/*\nDisallow: /s/*\nDisallow: /u/*\nDisallow: /w/*\nDisallow: /e/*\nDisallow: /account*\nDisallow: /start*\nDisallow: /postattendee*\nDisallow: /rec/*\nDisallow: /register*\nDisallow: /webinar/register/*\nDisallow: /webinar/registerevent/*\nDisallow: /meeting/register/*\nDisallow: /*oauth_signin\nDisallow: /my/*\nDisallow: /download2*\nDisallow: /*?\n\nUser-agent: Googlebot\nAllow: /join\n\nUser-agent: LinkedInBot\nAllow: /webinar/register/*\nAllow: /webinar/registerevent/*\nAllow: /meeting/register/*\n\nUser-agent: facebookexternalhit\nAllow: /webinar/register/*\nAllow: /webinar/registerevent/*\nAllow: /meeting/register/*\n\nUser-agent: Twitterbot\nAllow: /webinar/register/*\nAllow: /webinar/registerevent/*\nAllow: /meeting/register/*\n\nUser-agent: PinterestBot\nAllow: /webinar/register/*\nAllow: /webinar/registerevent/*\nAllow: /meeting/register/*\n\nUser-agent: InstagramBot\nAllow: /webinar/register/*\nAllow: /webinar/registerevent/*\nAllow: /meeting/register/*\n\nUser-agent: Slackbot\nAllow: /webinar/register/*\nAllow: /webinar/registerevent/*\nAllow: /meeting/register/*\n\nUser-agent: WhatsApp\nAllow: /webinar/register/*\nAllow: /webinar/registerevent/*\nAllow: /meeting/register/*\n\nUser-agent: redditbot\nAllow: /webinar/register/*\nAllow: /webinar/registerevent/*\nAllow: /meeting/register/*\n\nUser-agent: Tumblr\nAllow: /webinar/register/*\nAllow: /webinar/registerevent/*\nAllow: /meeting/register/*\n\nUser-agent: TikTokBot\nAllow: /webinar/register/*\nAllow: /webinar/registerevent/*\nAllow: /meeting/register/*\n\nUser-agent: Snapchat\nAllow: /webinar/register/*\nAllow: /webinar/registerevent/*\nAllow: /meeting/register/*\n\nSitemap: https://zoom.us/sitemap.xml"
+    }
+  ],
+  "eligible_pages": 0,
+  "canonical_origin": null,
+  "stop_reason": "frontier_exhausted",
+  "elapsed_seconds": 0.64
+}

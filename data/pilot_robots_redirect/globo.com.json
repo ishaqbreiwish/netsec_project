@@ -1,0 +1,42 @@
+{
+  "site": {
+    "rank": "388",
+    "domain": "globo.com",
+    "stratum": "101-1000"
+  },
+  "rows": [
+    {
+      "rank": "388",
+      "domain": "globo.com",
+      "stratum": "101-1000",
+      "requested_url": "https://globo.com/",
+      "depth": 0,
+      "parent_url": "",
+      "attempt": 1,
+      "timestamp": "2026-11-12T21:07:22.255721+00:00",
+      "error": "robots_denied",
+      "final_url": "https://globo.com/",
+      "redirect_chain": [],
+      "html": false,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    }
+  ],
+  "robots": [
+    {
+      "url": "https://globo.com/robots.txt",
+      "timestamp": "2026-11-12T21:07:22.974650+00:00",
+      "status": 301,
+      "decision": "conservative_block_status_301",
+      "body_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "body": ""
+    }
+  ],
+  "eligible_pages": 0,
+  "canonical_origin": null,
+  "stop_reason": "frontier_exhausted",
+  "elapsed_seconds": 0.72
+}

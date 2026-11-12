@@ -1,0 +1,44 @@
+{
+  "site": {
+    "rank": "651",
+    "domain": "iso.org",
+    "stratum": "101-1000"
+  },
+  "rows": [
+    {
+      "rank": "651",
+      "domain": "iso.org",
+      "stratum": "101-1000",
+      "requested_url": "https://iso.org/",
+      "depth": 0,
+      "parent_url": "",
+      "attempt": 1,
+      "timestamp": "2026-11-12T21:12:22.265754+00:00",
+      "error": "robots_denied",
+      "final_url": "https://iso.org/",
+      "redirect_chain": [],
+      "html": false,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    }
+  ],
+  "robots": [
+    {
+      "url": "https://iso.org/robots.txt",
+      "timestamp": "2026-11-12T21:12:22.604113+00:00",
+      "status": 403,
+      "decision": "conservative_block_status_403",
+      "final_url": "https://iso.org/robots.txt",
+      "redirect_chain": [],
+      "body_sha256": "93735bb6d22d9b8607b13f5c3617ef6e14f0632e0c1d464720c4e81680947cc8",
+      "body": "<!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\"><meta name=\"robots\" content=\"noindex,nofollow\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><meta http-equiv=\"content-security-policy\" content=\"default-src &#39;none&#39;; script-src &#39;nonce-2Ld1mZRXLeXxjdfOgghgl1&#39; &#39;unsafe-eval&#39; https://challenges.cloudflare.com; script-src-attr &#39;none&#39;; style-src &#39;unsafe-inline&#39;; img-src &#39;self&#39; https://challenges.cloudflare.com; connect-src &#39;self&#39; https://challenges.cloudflare.com; frame-src &#39;self&#39; https://challenges.cloudflare.com blob:; child-src &#39;self&#39; https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri &#39;self&#39;\"><style>*{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131;font-family:system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,\"Noto Sans\",sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\"}body{display:flex;flex-direction:column;height:100vh;min-height:100vh}.main-content{margin:8rem auto;padding-left:1.5rem;max-width:60rem}@media (width <= 720px){.main-content{margin-top:4rem}}#challenge-error-text{background-image:url(\"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0IyMEYwMyIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjQjIwRjAzIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+\");background-repeat:no-repeat;background-size:contain;padding-left:34px}</style><meta http-equiv=\"refresh\" content=\"360\"></head><body><div class=\"main-wrapper\" role=\"main\"><div class=\"main-content\"><noscript><div class=\"h2\"><span id=\"challenge-error-text\">Enable JavaScript and cookies to continue</span></div></noscript></div></div><script nonce=\"2Ld1mZRXLeXxjdfOgghgl1\">(function(){window._cf_chl_opt = {cFPWv: 'g',cH: 'NW5cC7ofRulGiTlKK7ydtT25BwGBScUMguIWmF4wPI4-1794517942-1.2.1.1-APWL6UEE_oi_kn1jN29eu2W.Z7uHvKzCwriw__nY6pL1B9KdzT75jfU2bmQ36YYn',cITimeS: '1794517942',cN: '2Ld1mZRXLeXxjdfOgghgl1',cRay: 'a59888d50dce82b1',cTplC:0,cTplO:0,cTplV:5,cType: 'managed',cUPMDTk:\"/robots.txt?__cf_chl_tk=TVdIh1n9PIhg2ARlzvL73kp_zVNQjtO67payN5kO_Og-1794517942-1.0.1.1-z7bdV_CE8NOn479anC1GvXBJIKQK6TINQ1MPHcNRVJw\",cvId: '3',cZone: 'iso.org',fa:\"/robots.txt?__cf_chl_f_tk=TVdIh1n9PIhg2ARlzvL73kp_zVNQjtO67payN5kO_Og-1794517942-1.0.1.1-z7bdV_CE8NOn479anC1GvXBJIKQK6TINQ1MPHcNRVJw\",md: '7lizupvJBibhEONy83w25lBI5kfrY9h87ZVZSBbs0co-1794517942-1.2.1.1-K0nYYPTsGvCjMmjFBuGxNDt8rtjT9StrO0IT9qAGoFqwmnaGXHtdaNf9OVSP5atTvF36a7hRa_2kzvNEK1gUeVnuBOhYSB.LIJ8mqxC2kUeoLVWOdIcjdI37_R7A62yHbdp_2NpLZL0ADupZTdR31bPINti4hK1TWDIfhYsGGKpUjQwr3fgp.YKd8.1_Q5fkV8VF4faUEea3yoxYteWj7.DU0ypt4buHNzneQmxu10bhHtAPElxO4atH.ayYqVFaXPtn6NuK4HUitUn4D.RzCzJBZRjW1lcdi6c96Sr6qlF9KF3nRZFDrU59EKjtbtBczfxJ.0OgBQwU.hCPc8yDINqNBEZtDkFHbG23V94VdP2iSgIA5wOGS57jLlsmTJOkECUj.pBu_kA0.4u92lh94JDkPGeO31RKwwqWCA2MF5gIlRrPRk8N7Peylrtg9HzeTdXwveYpjV21tinuIR8CtD0jdZS96vHs.eLO6ot8AJ9sAQX8LzfwgTgPi.v8Q0nLCRQAdRsG7nLmRqM6Tm9FTejeRsqaFyFwfSBz5xiEBB27M5BIfCFcX6eW7TJx476BdVrvkfQKBANaoZPwexr3Zkd2FALtveTPPiQgM9WsjZG5u4qWwjPng3116cUriM9SLzR77PJxqGlVfx2Np1EryXtpXbc0iCwJ9MM1qwg78p5TXfulCZ4MYpMV39Qi14dZCt6ucht2X1ICnhoaECDMYLF8zyWPPGm7z8hTgBpAQKQAUcTJe_sBU6D7vE0V.ifuIpIuBqBuT2i1VQtejtrubOsDFWTbrHD9GFETF_ZC82BEMilFlwk7ohejIwQUGPc_BzyqHvzaLsmdAaAQUZmziDcqJmu8BWK6puPyBYATEz9JyTVKsOEb7VbIrjh71hmiFGbbdnrtssDZ7oHRBvsGvKspWl012tLHdfdCrIXq50fP1mTqzcAC.eVWa7KlmUg5O3aqRKGdY01NnBhtFDx51lFuiz0RxeM.fVgK5wqbysf10d2NE2ESBIDXeMnAdh0.SVP3jWuPGVmEzENhahyYNNhlxFhzed_FzPuZ4heCxonF3wGBfqArB94xteLXgVqeh4G.MND67ZsX7.pHGwMqQoHI6VfPSlRjMyb_SAosaYGpgI3wlIvBhkXq7BceXD69nJem4T.T1sBuXz6nmb.dGH7LHATXMWKuKJJfZ31csVDpppeUR.JtNDymNXDKi62OtDq9awcV.Oy8raUlHW4B0_Tibf80l9_XKLo2Ub3LF3OJdth5U2BNK7BRyVeL35Vt.Bbg9KdS25zs6F5dEXiZNu2UDiF7Sg4NQ67XaLH6Dns',mdrd: 'bHFthg.5xcHcSXTpavvimuoFSnzeyjgGCTgfJiacEJ0-1794517942-1.2.1.1-qDHH2eNFzGASgluowC4nkit9yWfwiDap.Gxr3_96mLolzPpK7wlhd9fdkE6cjzDTfgmXtEptgQZyfWPIb9qCt6MagVUatGNKukwNzz_ZLRUrc51Lu_5cfFDtgQEosmtHrFnmMVx8Gd6g7QCRVcXDQhE4JcQ78fAtabXfIc2IqmE_74gNeKLMvH4XCJtdG50aANuD3rOsB7zLml4_Yu.1_7ogaJAs7YrV6mI8ptUFHryB0w_vi2qI5TWbTXZ.M0_ScvoBuSnJCze2ZLiHqeBzSJIr58v7Qr7J8b77GAPnXtOgEgiz3ff9ncaKH_Yp3bPKgYsLKU4oICwhJ3wSzs13Jw',};var a = document.createElement('script');a.nonce = '2Ld1mZRXLeXxjdfOgghgl1';a.src = '/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=a59888d50dce82b1';window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, location.href.length - window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;if (window.history && window.history.replaceState) {var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;history.replaceState(null, null,\"/robots.txt?__cf_chl_rt_tk=TVdIh1n9PIhg2ARlzvL73kp_zVNQjtO67payN5kO_Og-1794517942-1.0.1.1-z7bdV_CE8NOn479anC1GvXBJIKQK6TINQ1MPHcNRVJw\"+ window._cf_chl_opt.cOgUHash);a.onload = function() {history.replaceState(null, null, ogU);}}document.getElementsByTagName('head')[0].appendChild(a);}());</script></body></html>"
+    }
+  ],
+  "eligible_pages": 0,
+  "canonical_origin": null,
+  "stop_reason": "frontier_exhausted",
+  "elapsed_seconds": 0.34
+}

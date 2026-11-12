@@ -1,0 +1,1660 @@
+{
+  "site": {
+    "rank": "8999",
+    "domain": "gegen-hartz.de",
+    "stratum": "1001-10000"
+  },
+  "rows": [
+    {
+      "rank": "8999",
+      "domain": "gegen-hartz.de",
+      "stratum": "1001-10000",
+      "requested_url": "https://gegen-hartz.de/",
+      "depth": 0,
+      "parent_url": "",
+      "attempt": 1,
+      "timestamp": "2026-11-12T21:14:40.252162+00:00",
+      "final_url": "https://www.gegen-hartz.de/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 385851,
+      "truncated": false,
+      "body_sha256": "c2ffa1c567859402abde3b74862976a3c873ec41810533f090be63204f1ab515",
+      "redirect_chain": [
+        {
+          "url": "https://gegen-hartz.de/",
+          "status": 301,
+          "location": "https://www.gegen-hartz.de/",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": []
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Gegen Hartz IV - B\u00fcrgergeld Ratgeber und Hartz 4 Tipps",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "8999",
+      "domain": "gegen-hartz.de",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.gegen-hartz.de/hartz-4-ratgeber",
+      "depth": 1,
+      "parent_url": "https://www.gegen-hartz.de/",
+      "attempt": 2,
+      "timestamp": "2026-11-12T21:14:41.585506+00:00",
+      "final_url": "https://www.gegen-hartz.de/hartz-4-ratgeber",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 218131,
+      "truncated": false,
+      "body_sha256": "7031d289a8cb0f5b32d8d8fa3cba7470a34dd96070c30cd84427bd5e55ef1c15",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "B\u00fcrgergeld-Ratgeber 2025 - Alles zum Thema B\u00fcrgergeld",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "8999",
+      "domain": "gegen-hartz.de",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.gegen-hartz.de/author/volker-blasek",
+      "depth": 2,
+      "parent_url": "https://www.gegen-hartz.de/hartz-4-ratgeber",
+      "attempt": 3,
+      "timestamp": "2026-11-12T21:14:42.770359+00:00",
+      "final_url": "https://www.gegen-hartz.de/author/volker-blasek",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 194895,
+      "truncated": false,
+      "body_sha256": "581770396d6ec28e3baa3554d277b60bbc5f67b8b86b681e971e402d40eecbb0",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Volker Blasek",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "8999",
+      "domain": "gegen-hartz.de",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.gegen-hartz.de/news/neue-duesseldorfer-tabelle-fuer-2023",
+      "depth": 3,
+      "parent_url": "https://www.gegen-hartz.de/author/volker-blasek",
+      "attempt": 4,
+      "timestamp": "2026-11-12T21:14:43.879370+00:00",
+      "final_url": "https://www.gegen-hartz.de/news/neue-duesseldorfer-tabelle-fuer-2023",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 223503,
+      "truncated": false,
+      "body_sha256": "034a6bc66587aa7850cd92ce85a6ff4c94b1e316a14855ba6e78b587265c2a6c",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Neue D\u00fcsseldorfer Tabelle f\u00fcr 2023",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "8999",
+      "domain": "gegen-hartz.de",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.gegen-hartz.de/unterhaltsvorschuss-bei-hartz-iv",
+      "depth": 4,
+      "parent_url": "https://www.gegen-hartz.de/news/neue-duesseldorfer-tabelle-fuer-2023",
+      "attempt": 5,
+      "timestamp": "2026-11-12T21:14:45.401240+00:00",
+      "final_url": "https://www.gegen-hartz.de/unterhaltsvorschuss-bei-hartz-iv",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 189607,
+      "truncated": false,
+      "body_sha256": "9e9a6036865a8cc63810c53ea4f6237b39523e800d05bd29d1d243c2b093e3e1",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Unterhaltsvorschuss bei Hartz IV",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "8999",
+      "domain": "gegen-hartz.de",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.gegen-hartz.de/erreichbarkeit-im-buergergeld-und-die-folgen-uebersicht",
+      "depth": 1,
+      "parent_url": "https://www.gegen-hartz.de/",
+      "attempt": 6,
+      "timestamp": "2026-11-12T21:14:46.711766+00:00",
+      "final_url": "https://www.gegen-hartz.de/erreichbarkeit-im-buergergeld-und-die-folgen-uebersicht",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 189022,
+      "truncated": false,
+      "body_sha256": "18dd1b0240d1e4c9cd453a47d1d510223e12b411a68f16eeaf60993de475c79b",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Erreichbarkeit im B\u00fcrgergeld - \u00dcbersicht",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "8999",
+      "domain": "gegen-hartz.de",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.gegen-hartz.de/anrechnung-des-ueberbrueckungsgeldes-bei-hartz-iv",
+      "depth": 2,
+      "parent_url": "https://www.gegen-hartz.de/hartz-4-ratgeber",
+      "attempt": 7,
+      "timestamp": "2026-11-12T21:14:48.625346+00:00",
+      "final_url": "https://www.gegen-hartz.de/urteile/anrechnung-des-ueberbrueckungsgeldes-bei-hartz-iv",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 204575,
+      "truncated": false,
+      "body_sha256": "d5dedcb158b6bdfc1f333e7db3ee6343ee2796b5b706dc054a042b0781f1f29a",
+      "redirect_chain": [
+        {
+          "url": "https://www.gegen-hartz.de/anrechnung-des-ueberbrueckungsgeldes-bei-hartz-iv",
+          "status": 301,
+          "location": "https://www.gegen-hartz.de/urteile/anrechnung-des-ueberbrueckungsgeldes-bei-hartz-iv",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=63072000; includeSubDomains; preload"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Anrechnung des \u00dcberbr\u00fcckungsgeldes beim B\u00fcrgergeld",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "8999",
+      "domain": "gegen-hartz.de",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.gegen-hartz.de/urteile/anrechnung-des-ueberbrueckungsgeldes-bei-hartz-iv",
+      "depth": 3,
+      "parent_url": "https://www.gegen-hartz.de/urteile/anrechnung-des-ueberbrueckungsgeldes-bei-hartz-iv",
+      "attempt": 8,
+      "timestamp": "2026-11-12T21:14:49.862120+00:00",
+      "final_url": "https://www.gegen-hartz.de/urteile/anrechnung-des-ueberbrueckungsgeldes-bei-hartz-iv",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 204575,
+      "truncated": false,
+      "body_sha256": "d5dedcb158b6bdfc1f333e7db3ee6343ee2796b5b706dc054a042b0781f1f29a",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Anrechnung des \u00dcberbr\u00fcckungsgeldes beim B\u00fcrgergeld",
+      "duplicate_final": true,
+      "eligible": false
+    },
+    {
+      "rank": "8999",
+      "domain": "gegen-hartz.de",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.gegen-hartz.de/erreichbarkeit-im-buergergeld-wer-muss-ueberhaupt-erreichbar-sein",
+      "depth": 1,
+      "parent_url": "https://www.gegen-hartz.de/",
+      "attempt": 9,
+      "timestamp": "2026-11-12T21:14:51.032798+00:00",
+      "final_url": "https://www.gegen-hartz.de/erreichbarkeit-im-buergergeld-wer-muss-ueberhaupt-erreichbar-sein",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 185241,
+      "truncated": false,
+      "body_sha256": "e70fab7749705ca9ad00b07b30fc5eb29881e19423386e8b50461dccb0ddf847",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Erreichbarkeit im B\u00fcrgergeld - Wer muss \u00fcberhaupt erreichbar sein?",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "8999",
+      "domain": "gegen-hartz.de",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.gegen-hartz.de/jobsuche",
+      "depth": 2,
+      "parent_url": "https://www.gegen-hartz.de/hartz-4-ratgeber",
+      "attempt": 10,
+      "timestamp": "2026-11-12T21:14:52.987423+00:00",
+      "final_url": "https://www.gegen-hartz.de/wie-bewerbe-ich-mich",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 194303,
+      "truncated": false,
+      "body_sha256": "810bcfe494fb2a517c9a43795a2c16f13184b8c580bbdb8bd4ef659457299e4b",
+      "redirect_chain": [
+        {
+          "url": "https://www.gegen-hartz.de/jobsuche",
+          "status": 301,
+          "location": "https://www.gegen-hartz.de/wie-bewerbe-ich-mich",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=63072000; includeSubDomains; preload"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Wie bewerbe ich mich? | So geht es richtig \u25ba Tipps und Tricks",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "8999",
+      "domain": "gegen-hartz.de",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.gegen-hartz.de/grundsicherung-im-alter-und-bei-erwerbsminderung",
+      "depth": 3,
+      "parent_url": "https://www.gegen-hartz.de/urteile/anrechnung-des-ueberbrueckungsgeldes-bei-hartz-iv",
+      "attempt": 11,
+      "timestamp": "2026-11-12T21:14:54.910556+00:00",
+      "final_url": "https://www.gegen-hartz.de/grundsicherung-im-alter-und-bei-erwerbsminderung-anspruch",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 202180,
+      "truncated": false,
+      "body_sha256": "a8e74b44747debf2889af4cdbed516b1920e1f98dfbe17b1bd26d26e3c3575fe",
+      "redirect_chain": [
+        {
+          "url": "https://www.gegen-hartz.de/grundsicherung-im-alter-und-bei-erwerbsminderung",
+          "status": 301,
+          "location": "/grundsicherung-im-alter-und-bei-erwerbsminderung-anspruch",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=63072000; includeSubDomains; preload"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Grundsicherung im Alter und bei Erwerbsminderung - Anspruch und H\u00f6he",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "8999",
+      "domain": "gegen-hartz.de",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.gegen-hartz.de/erreichbarkeit-im-buergergeld-auch-per-post-telefon-oder-email",
+      "depth": 1,
+      "parent_url": "https://www.gegen-hartz.de/",
+      "attempt": 12,
+      "timestamp": "2026-11-12T21:14:56.168271+00:00",
+      "final_url": "https://www.gegen-hartz.de/erreichbarkeit-im-buergergeld-auch-per-post-telefon-oder-email",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 191372,
+      "truncated": false,
+      "body_sha256": "22acbbeecd05c3704738eb249d1863cbd5bd827089473a1a2db8ad009c3d4468",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Erreichbarkeit im B\u00fcrgergeld - auch per Post, Telefon oder Email?",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "8999",
+      "domain": "gegen-hartz.de",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.gegen-hartz.de/erreichbarkeit-im-buergergeld-aufenthalt-im-naeheren-bereich",
+      "depth": 1,
+      "parent_url": "https://www.gegen-hartz.de/",
+      "attempt": 13,
+      "timestamp": "2026-11-12T21:14:57.303717+00:00",
+      "final_url": "https://www.gegen-hartz.de/erreichbarkeit-im-buergergeld-aufenthalt-im-naeheren-bereich",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 188629,
+      "truncated": false,
+      "body_sha256": "4f3bd1bf7f96f7e8dfa3f8ed62b007e4b4726dcc4dd029113e17eadf5dbf010a",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Erreichbarkeit im B\u00fcrgergeld \u2013 Aufenthalt im n\u00e4heren Bereich",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "8999",
+      "domain": "gegen-hartz.de",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.gegen-hartz.de/buergergeld-zustimmung-bei-abwesenheit-aus-wichtigem-grund",
+      "depth": 1,
+      "parent_url": "https://www.gegen-hartz.de/",
+      "attempt": 14,
+      "timestamp": "2026-11-12T21:14:58.459296+00:00",
+      "final_url": "https://www.gegen-hartz.de/buergergeld-zustimmung-bei-abwesenheit-aus-wichtigem-grund",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 193986,
+      "truncated": false,
+      "body_sha256": "e8eeefce919b28ae3979e21163d1490fe8509239113bb8b170274a8fb4315338",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "B\u00fcrgergeld: Zustimmung bei Abwesenheit aus wichtigem Grund",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "8999",
+      "domain": "gegen-hartz.de",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.gegen-hartz.de/buergergeld-abwesenheit-aus-beruflichem-grund",
+      "depth": 1,
+      "parent_url": "https://www.gegen-hartz.de/",
+      "attempt": 15,
+      "timestamp": "2026-11-12T21:14:59.615490+00:00",
+      "final_url": "https://www.gegen-hartz.de/buergergeld-abwesenheit-aus-beruflichem-grund",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 189034,
+      "truncated": false,
+      "body_sha256": "23d5897980effc4cd281d8d85d4ee7d9289be7981acefef76a09828fb7dc25e9",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "B\u00fcrgergeld - Abwesenheit aus beruflichem Grund",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "8999",
+      "domain": "gegen-hartz.de",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.gegen-hartz.de/buergergeld-nichterreichbarkeit-aus-wichtigem-grund",
+      "depth": 1,
+      "parent_url": "https://www.gegen-hartz.de/",
+      "attempt": 16,
+      "timestamp": "2026-11-12T21:15:00.980255+00:00",
+      "final_url": "https://www.gegen-hartz.de/buergergeld-nichterreichbarkeit-aus-wichtigem-grund",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 198302,
+      "truncated": false,
+      "body_sha256": "8a14d0902cbac9105a265f3e20170d5274c2e0e30271a71002d213592027bfdc",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "B\u00fcrgergeld - Nichterreichbarkeit aus wichtigem Grund",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "8999",
+      "domain": "gegen-hartz.de",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.gegen-hartz.de/buergergeld-nichterreichbarkeit-ohne-wichtigen-grund-urlaub",
+      "depth": 1,
+      "parent_url": "https://www.gegen-hartz.de/",
+      "attempt": 17,
+      "timestamp": "2026-11-12T21:15:02.121904+00:00",
+      "final_url": "https://www.gegen-hartz.de/buergergeld-nichterreichbarkeit-ohne-wichtigen-grund-urlaub",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 196657,
+      "truncated": false,
+      "body_sha256": "0d57e508dd362e6d4e7741a97c94ef0bce60261547f442ce565b73178b782cef",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "B\u00fcrgergeld - Nichterreichbarkeit ohne wichtigen Grund (Urlaub)",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "8999",
+      "domain": "gegen-hartz.de",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.gegen-hartz.de/buergergeld-folgen-von-nichterreichbarkeit",
+      "depth": 1,
+      "parent_url": "https://www.gegen-hartz.de/",
+      "attempt": 18,
+      "timestamp": "2026-11-12T21:15:03.298033+00:00",
+      "final_url": "https://www.gegen-hartz.de/buergergeld-folgen-von-nichterreichbarkeit",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 187168,
+      "truncated": false,
+      "body_sha256": "d080ff4087c6cbbce534378d0780312c27811ce763ecce93bee2da16f75b9c4f",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "B\u00fcrgergeld - Folgen von Nichterreichbarkeit",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "8999",
+      "domain": "gegen-hartz.de",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.gegen-hartz.de/grundsicherungsgeld-2026-anspruch-antrag-mehrbedarf-und-hoehe",
+      "depth": 1,
+      "parent_url": "https://www.gegen-hartz.de/",
+      "attempt": 19,
+      "timestamp": "2026-11-12T21:15:04.542153+00:00",
+      "final_url": "https://www.gegen-hartz.de/grundsicherungsgeld-2026-anspruch-antrag-mehrbedarf-und-hoehe",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 237383,
+      "truncated": false,
+      "body_sha256": "c6897f2fc36343e24a53581ea61ff204da02ba0a4da842e1fa908c21c11f9bb5",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Grundsicherungsgeld 2026 - Anspruch, Antrag, Mehrbedarf und H\u00f6he",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "8999",
+      "domain": "gegen-hartz.de",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.gegen-hartz.de/buergergeld-auszahlung-alle-auszahlungstermine-2026",
+      "depth": 1,
+      "parent_url": "https://www.gegen-hartz.de/",
+      "attempt": 20,
+      "timestamp": "2026-11-12T21:15:05.911496+00:00",
+      "final_url": "https://www.gegen-hartz.de/buergergeld-auszahlung-alle-auszahlungstermine-2026",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 194700,
+      "truncated": false,
+      "body_sha256": "8cf510adec490b0fdfddf4296ace07663cca2774ac5c45638ccf99a666edb757",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "B\u00fcrgergeld-Auszahlung: Alle Auszahlungstermine 2026",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "8999",
+      "domain": "gegen-hartz.de",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.gegen-hartz.de/was-ist-das-buergergeld-und-was-war-hartz-iv",
+      "depth": 1,
+      "parent_url": "https://www.gegen-hartz.de/",
+      "attempt": 21,
+      "timestamp": "2026-11-12T21:15:07.831774+00:00",
+      "final_url": "https://www.gegen-hartz.de/was-ist-das-buergergeld-und-was-war-hartz-iv",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 201290,
+      "truncated": false,
+      "body_sha256": "9164cb5c10e81f6a2393ea1bb1b89045773a10becb58ee00098ba16eb1ff81ba",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "B\u00fcrgergeld 2025 - Aktuelle Informationen und \u00dcbersicht",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "8999",
+      "domain": "gegen-hartz.de",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.gegen-hartz.de/mehrbedarf-hartz-iv",
+      "depth": 2,
+      "parent_url": "https://www.gegen-hartz.de/was-ist-das-buergergeld-und-was-war-hartz-iv",
+      "attempt": 22,
+      "timestamp": "2026-11-12T21:15:09.962212+00:00",
+      "final_url": "https://www.gegen-hartz.de/mehrbedarf-buergergeld-anspruch-hoehe",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 208509,
+      "truncated": false,
+      "body_sha256": "108f04a9ea79af3721bd3ffde6f287eff661d84aeb842cc04d23ca10183db1f1",
+      "redirect_chain": [
+        {
+          "url": "https://www.gegen-hartz.de/mehrbedarf-hartz-iv",
+          "status": 301,
+          "location": "/mehrbedarf-buergergeld-anspruch-hoehe",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=63072000; includeSubDomains; preload"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Mehrbedarf im B\u00fcrgergeld - Anspruch und H\u00f6he vom Jobcenter",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "8999",
+      "domain": "gegen-hartz.de",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.gegen-hartz.de/hartz-iv-mehrbedarf-fuer-erwerbsfaehige-behinderte",
+      "depth": 3,
+      "parent_url": "https://www.gegen-hartz.de/mehrbedarf-buergergeld-anspruch-hoehe",
+      "attempt": 23,
+      "timestamp": "2026-11-12T21:15:12.468922+00:00",
+      "final_url": "https://www.gegen-hartz.de/buergergeld-mehrbedarf-fuer-erwerbsfaehige-behinderte",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 186984,
+      "truncated": false,
+      "body_sha256": "96a2c6c35dbd0e57a870d8740326aa4504521772fa77b98d71d346725a8fe48a",
+      "redirect_chain": [
+        {
+          "url": "https://www.gegen-hartz.de/hartz-iv-mehrbedarf-fuer-erwerbsfaehige-behinderte",
+          "status": 301,
+          "location": "/buergergeld-mehrbedarf-fuer-erwerbsfaehige-behinderte",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=63072000; includeSubDomains; preload"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "B\u00fcrgergeld und Behinderung. Bei Teilnahme an Ma\u00dfnahme 35 % Mehrbedarf",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "8999",
+      "domain": "gegen-hartz.de",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.gegen-hartz.de/schwangerschaft-bei-hartz-iv",
+      "depth": 2,
+      "parent_url": "https://www.gegen-hartz.de/was-ist-das-buergergeld-und-was-war-hartz-iv",
+      "attempt": 24,
+      "timestamp": "2026-11-12T21:15:14.485216+00:00",
+      "final_url": "https://www.gegen-hartz.de/schwangerschaft-beim-buergergeld",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 192326,
+      "truncated": false,
+      "body_sha256": "4c362bd8abd1312f63c241804245fef1d8aa17a02cf9dc4b3f22745c211d2e3b",
+      "redirect_chain": [
+        {
+          "url": "https://www.gegen-hartz.de/schwangerschaft-bei-hartz-iv",
+          "status": 301,
+          "location": "https://www.gegen-hartz.de/schwangerschaft-beim-buergergeld",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=63072000; includeSubDomains; preload"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Schwangerschaft und B\u00fcrgergeld | Mehrbedarf und Anspruch",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "8999",
+      "domain": "gegen-hartz.de",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.gegen-hartz.de/elterngeld",
+      "depth": 3,
+      "parent_url": "https://www.gegen-hartz.de/schwangerschaft-beim-buergergeld",
+      "attempt": 25,
+      "timestamp": "2026-11-12T21:15:16.579757+00:00",
+      "final_url": "https://www.gegen-hartz.de/elterngeld-buergergeld-anspruch-hoehe",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 203560,
+      "truncated": false,
+      "body_sha256": "afdf7914d48a474824b01e5fa7d71f6f7eec8ce90dfa7199c86287f27265e03e",
+      "redirect_chain": [
+        {
+          "url": "https://www.gegen-hartz.de/elterngeld",
+          "status": 301,
+          "location": "https://www.gegen-hartz.de/elterngeld-buergergeld-anspruch-hoehe",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=63072000; includeSubDomains; preload"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Elterngeld und B\u00fcrgergeld - Anspruch und H\u00f6he",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "8999",
+      "domain": "gegen-hartz.de",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.gegen-hartz.de/hartz-iv-mehrbedarf-fuer-kostenaufwaendige-ernaehrung",
+      "depth": 2,
+      "parent_url": "https://www.gegen-hartz.de/was-ist-das-buergergeld-und-was-war-hartz-iv",
+      "attempt": 26,
+      "timestamp": "2026-11-12T21:15:18.415116+00:00",
+      "final_url": "https://www.gegen-hartz.de/buergergeld-mehrbedarf-fuer-kostenaufwaendige-ernaehrung-vom-jobcenter",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 207410,
+      "truncated": false,
+      "body_sha256": "bc9bab7f3a766d979eadfc517911169a3ac8b7c38df972debe34ed4a2a2104e3",
+      "redirect_chain": [
+        {
+          "url": "https://www.gegen-hartz.de/hartz-iv-mehrbedarf-fuer-kostenaufwaendige-ernaehrung",
+          "status": 301,
+          "location": "https://www.gegen-hartz.de/buergergeld-mehrbedarf-fuer-kostenaufwaendige-ernaehrung-vom-jobcenter",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=63072000; includeSubDomains; preload"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "B\u00fcrgergeld-Mehrbedarf f\u00fcr Ern\u00e4hrung vom Jobcenter",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "8999",
+      "domain": "gegen-hartz.de",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.gegen-hartz.de/warmwasser-und-energiekosten-hartz-iv",
+      "depth": 2,
+      "parent_url": "https://www.gegen-hartz.de/was-ist-das-buergergeld-und-was-war-hartz-iv",
+      "attempt": 27,
+      "timestamp": "2026-11-12T21:15:20.332540+00:00",
+      "final_url": "https://www.gegen-hartz.de/buergergeld-mehrbedarf-fuer-warmwasser",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 196487,
+      "truncated": false,
+      "body_sha256": "6694b950f5d2c390734e81d0c1c62f164351da0e2f89949cfc04adc2ebab16f6",
+      "redirect_chain": [
+        {
+          "url": "https://www.gegen-hartz.de/warmwasser-und-energiekosten-hartz-iv",
+          "status": 301,
+          "location": "https://www.gegen-hartz.de/buergergeld-mehrbedarf-fuer-warmwasser",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=63072000; includeSubDomains; preload"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "B\u00fcrgergeld-Mehrbedarf f\u00fcr Warmwasser - Anspruch und H\u00f6he",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "8999",
+      "domain": "gegen-hartz.de",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.gegen-hartz.de/erwerbsminderungsrente-auszahlung-auszahlungstermine-2026-im-ueberblick",
+      "depth": 1,
+      "parent_url": "https://www.gegen-hartz.de/",
+      "attempt": 28,
+      "timestamp": "2026-11-12T21:15:21.432293+00:00",
+      "final_url": "https://www.gegen-hartz.de/erwerbsminderungsrente-auszahlung-auszahlungstermine-2026-im-ueberblick",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 193778,
+      "truncated": false,
+      "body_sha256": "d78d6b2bb55f45930800b92a37c5be14581e44b4a6df6faef26c77e985e70bc9",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Erwerbsminderungsrente Auszahlung: Auszahlungstermine 2026 im \u00dcberblick",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "8999",
+      "domain": "gegen-hartz.de",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.gegen-hartz.de/verjaehrung-so-lange-duerfen-jobcenter-buergergeld-zurueck-fordern",
+      "depth": 1,
+      "parent_url": "https://www.gegen-hartz.de/",
+      "attempt": 29,
+      "timestamp": "2026-11-12T21:15:22.584754+00:00",
+      "final_url": "https://www.gegen-hartz.de/verjaehrung-so-lange-duerfen-jobcenter-buergergeld-zurueck-fordern",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 205095,
+      "truncated": false,
+      "body_sha256": "ee03621f478484ca442551ae39cac23244a4a574da92ebe9d35a1d2557c54a11",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "B\u00fcrgergeld: So lange d\u00fcrfen Jobcenter Leistungen zur\u00fcckfordern",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "8999",
+      "domain": "gegen-hartz.de",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.gegen-hartz.de/kindergeld-und-buergergeld-anrechnung-anspruch-und-auszahlungstermine",
+      "depth": 2,
+      "parent_url": "https://www.gegen-hartz.de/verjaehrung-so-lange-duerfen-jobcenter-buergergeld-zurueck-fordern",
+      "attempt": 30,
+      "timestamp": "2026-11-12T21:15:24.072652+00:00",
+      "final_url": "https://www.gegen-hartz.de/kindergeld-und-buergergeld-anrechnung-anspruch-und-auszahlungstermine",
+      "status": 404,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 139697,
+      "truncated": false,
+      "body_sha256": "cd6afd6bb760dc512acbf5337383d81c67e7297a6a9cc85df1df281ddbd10be6",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "8999",
+      "domain": "gegen-hartz.de",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.gegen-hartz.de/buergergeld-rechner",
+      "depth": 1,
+      "parent_url": "https://www.gegen-hartz.de/",
+      "attempt": 31,
+      "timestamp": "2026-11-12T21:15:25.501283+00:00",
+      "final_url": "https://www.gegen-hartz.de/buergergeld-rechner",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 216239,
+      "truncated": false,
+      "body_sha256": "d584245706b6fa5cde7066c20bddf18ead6073170820a19ab5e3ecf0980dd50b",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "B\u00fcrgergeld-Rechner 2025 - Anspruch kostenlos online berechnen",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "8999",
+      "domain": "gegen-hartz.de",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.gegen-hartz.de/antrag-stellen/buergergeld-antrag-stellen-alle-antraege-formulare-und-ratgeber",
+      "depth": 1,
+      "parent_url": "https://www.gegen-hartz.de/",
+      "attempt": 32,
+      "timestamp": "2026-11-12T21:15:26.799247+00:00",
+      "final_url": "https://www.gegen-hartz.de/antrag-stellen/buergergeld-antrag-stellen-alle-antraege-formulare-und-ratgeber",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 203311,
+      "truncated": false,
+      "body_sha256": "8d9490d0c571685996f816ebd3ebde4f23e3e34dff83fd6aeb82fa2064023596",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "B\u00fcrgergeld-Antrag stellen: Alle Antr\u00e4ge, Formulare und Ratgeber",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "8999",
+      "domain": "gegen-hartz.de",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.gegen-hartz.de/hartz-iv-uebersicht",
+      "depth": 1,
+      "parent_url": "https://www.gegen-hartz.de/",
+      "attempt": 33,
+      "timestamp": "2026-11-12T21:15:29.379927+00:00",
+      "final_url": "https://www.gegen-hartz.de/was-ist-das-buergergeld-und-was-war-hartz-iv",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 201290,
+      "truncated": false,
+      "body_sha256": "9164cb5c10e81f6a2393ea1bb1b89045773a10becb58ee00098ba16eb1ff81ba",
+      "redirect_chain": [
+        {
+          "url": "https://www.gegen-hartz.de/hartz-iv-uebersicht",
+          "status": 301,
+          "location": "https://www.gegen-hartz.de/was-ist-hartz-iv",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=63072000; includeSubDomains; preload"
+            ]
+          }
+        },
+        {
+          "url": "https://www.gegen-hartz.de/was-ist-hartz-iv",
+          "status": 301,
+          "location": "https://www.gegen-hartz.de/was-ist-das-buergergeld-und-was-war-hartz-iv",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=63072000; includeSubDomains; preload"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "B\u00fcrgergeld 2025 - Aktuelle Informationen und \u00dcbersicht",
+      "duplicate_final": true,
+      "eligible": false
+    },
+    {
+      "rank": "8999",
+      "domain": "gegen-hartz.de",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.gegen-hartz.de/bedarfsgemeinschaft-im-buergergeld-algii",
+      "depth": 1,
+      "parent_url": "https://www.gegen-hartz.de/",
+      "attempt": 34,
+      "timestamp": "2026-11-12T21:15:30.551154+00:00",
+      "final_url": "https://www.gegen-hartz.de/bedarfsgemeinschaft-im-buergergeld-algii",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 201741,
+      "truncated": false,
+      "body_sha256": "9ffcfd3b382f1240bfa82d1ac85f0e0f1c90b84f4c91a5943b89d81161298015",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Bedarfsgemeinschaft im B\u00fcrgergeld - Darauf sollte geachtet werden",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "8999",
+      "domain": "gegen-hartz.de",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.gegen-hartz.de/buergergeld-regelsatz-regelbedarf-mehrbedarfe-mietkosten",
+      "depth": 1,
+      "parent_url": "https://www.gegen-hartz.de/",
+      "attempt": 35,
+      "timestamp": "2026-11-12T21:15:31.809196+00:00",
+      "final_url": "https://www.gegen-hartz.de/buergergeld-regelsatz-regelbedarf-mehrbedarfe-mietkosten",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 217463,
+      "truncated": false,
+      "body_sha256": "f4f510995cfb659b50f253d6d058f2a489678543ae20854847bc13057ffaa9d5",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "B\u00fcrgergeld-Regelsatz 2025 - Regelbedarf, Mehrbedarfe und Mietkosten",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "8999",
+      "domain": "gegen-hartz.de",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.gegen-hartz.de/miete-hartz-iv-wohnung-bei-hartz-iv",
+      "depth": 2,
+      "parent_url": "https://www.gegen-hartz.de/buergergeld-regelsatz-regelbedarf-mehrbedarfe-mietkosten",
+      "attempt": 36,
+      "timestamp": "2026-11-12T21:15:33.712561+00:00",
+      "final_url": "https://www.gegen-hartz.de/miete-buergergeld-wie-hoch-duerfen-die-wohnkosten-sein",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 192308,
+      "truncated": false,
+      "body_sha256": "825960f096788df8ed16be20fddb792b8d2ace81036af2b54cc1fd3ee84e55bb",
+      "redirect_chain": [
+        {
+          "url": "https://www.gegen-hartz.de/miete-hartz-iv-wohnung-bei-hartz-iv",
+          "status": 301,
+          "location": "https://www.gegen-hartz.de/miete-buergergeld-wie-hoch-duerfen-die-wohnkosten-sein",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=63072000; includeSubDomains; preload"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Miete und B\u00fcrgergeld: So hoch d\u00fcrfen die Mietkosten sein",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "8999",
+      "domain": "gegen-hartz.de",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.gegen-hartz.de/umzug-bei-hartz-iv-alg-ii",
+      "depth": 2,
+      "parent_url": "https://www.gegen-hartz.de/buergergeld-regelsatz-regelbedarf-mehrbedarfe-mietkosten",
+      "attempt": 37,
+      "timestamp": "2026-11-12T21:15:35.692548+00:00",
+      "final_url": "https://www.gegen-hartz.de/umzugskosten-umzug-und-buergergeld-das-zahlt-das-jobcenter",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 199856,
+      "truncated": false,
+      "body_sha256": "1b51688550dba23aab184e779e55668d40332d98995f58a24f70a2178a826b7a",
+      "redirect_chain": [
+        {
+          "url": "https://www.gegen-hartz.de/umzug-bei-hartz-iv-alg-ii",
+          "status": 301,
+          "location": "https://www.gegen-hartz.de/umzugskosten-umzug-und-buergergeld-das-zahlt-das-jobcenter",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=63072000; includeSubDomains; preload"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Umzugskosten: Umzug und B\u00fcrgergeld - Das zahlt das Jobcenter",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "8999",
+      "domain": "gegen-hartz.de",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.gegen-hartz.de/hartz-iv-renovierungskosten-erstatten-lassen",
+      "depth": 3,
+      "parent_url": "https://www.gegen-hartz.de/umzugskosten-umzug-und-buergergeld-das-zahlt-das-jobcenter",
+      "attempt": 38,
+      "timestamp": "2026-11-12T21:15:38.089444+00:00",
+      "final_url": "https://www.gegen-hartz.de/buergergeld-renovierungskosten-vom-jobcenter-erstatten-lassen",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 203049,
+      "truncated": false,
+      "body_sha256": "3cc2b4ad5a2da9d8e831da9dceb7f81d215e00dc6f0a14ba9611cf9d15a2005c",
+      "redirect_chain": [
+        {
+          "url": "https://www.gegen-hartz.de/hartz-iv-renovierungskosten-erstatten-lassen",
+          "status": 301,
+          "location": "https://www.gegen-hartz.de/buergergeld-renovierungskosten-vom-jobcenter-erstatten-lassen",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=63072000; includeSubDomains; preload"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "B\u00fcrgergeld: Renovierungskosten vom Jobcenter erstatten lassen",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "8999",
+      "domain": "gegen-hartz.de",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.gegen-hartz.de/buergergeld-unter-25-anspruch-regelungen",
+      "depth": 1,
+      "parent_url": "https://www.gegen-hartz.de/",
+      "attempt": 39,
+      "timestamp": "2026-11-12T21:15:39.672247+00:00",
+      "final_url": "https://www.gegen-hartz.de/buergergeld-unter-25-anspruch-regelungen",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 192986,
+      "truncated": false,
+      "body_sha256": "c5aae3e6e2645090c557ee181a121872e96f18a9908798efe7b39cf0242c094b",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "B\u00fcrgergeld unter 25 Jahre - Anspruch und Regelungen",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "8999",
+      "domain": "gegen-hartz.de",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.gegen-hartz.de/bedarfsgemeinschaft-alg-ii",
+      "depth": 2,
+      "parent_url": "https://www.gegen-hartz.de/buergergeld-unter-25-anspruch-regelungen",
+      "attempt": 40,
+      "timestamp": "2026-11-12T21:15:41.748062+00:00",
+      "final_url": "https://www.gegen-hartz.de/bedarfsgemeinschaft-im-buergergeld-algii",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 201741,
+      "truncated": false,
+      "body_sha256": "9ffcfd3b382f1240bfa82d1ac85f0e0f1c90b84f4c91a5943b89d81161298015",
+      "redirect_chain": [
+        {
+          "url": "https://www.gegen-hartz.de/bedarfsgemeinschaft-alg-ii",
+          "status": 301,
+          "location": "/bedarfsgemeinschaft-im-buergergeld-algii",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=63072000; includeSubDomains; preload"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Bedarfsgemeinschaft im B\u00fcrgergeld - Darauf sollte geachtet werden",
+      "duplicate_final": true,
+      "eligible": false
+    },
+    {
+      "rank": "8999",
+      "domain": "gegen-hartz.de",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.gegen-hartz.de/grundsicherung-im-alter-und-bei-erwerbsminderung-anspruch",
+      "depth": 1,
+      "parent_url": "https://www.gegen-hartz.de/",
+      "attempt": 41,
+      "timestamp": "2026-11-12T21:15:43.061539+00:00",
+      "final_url": "https://www.gegen-hartz.de/grundsicherung-im-alter-und-bei-erwerbsminderung-anspruch",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 202180,
+      "truncated": false,
+      "body_sha256": "a8e74b44747debf2889af4cdbed516b1920e1f98dfbe17b1bd26d26e3c3575fe",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Grundsicherung im Alter und bei Erwerbsminderung - Anspruch und H\u00f6he",
+      "duplicate_final": true,
+      "eligible": false
+    },
+    {
+      "rank": "8999",
+      "domain": "gegen-hartz.de",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.gegen-hartz.de/buergergeld-vorschuss-vom-jobcenter",
+      "depth": 1,
+      "parent_url": "https://www.gegen-hartz.de/",
+      "attempt": 42,
+      "timestamp": "2026-11-12T21:15:44.175469+00:00",
+      "final_url": "https://www.gegen-hartz.de/buergergeld-vorschuss-vom-jobcenter",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 190762,
+      "truncated": false,
+      "body_sha256": "a9fe29ba8574a7ba15d3d35e6042cc840a4e99b503328ee036296a0c8b0ca0aa",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "B\u00fcrgergeld-Vorschuss vom Jobcenter",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "8999",
+      "domain": "gegen-hartz.de",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.gegen-hartz.de/mehrbedarf-buergergeld-anspruch-hoehe",
+      "depth": 1,
+      "parent_url": "https://www.gegen-hartz.de/",
+      "attempt": 43,
+      "timestamp": "2026-11-12T21:15:45.435066+00:00",
+      "final_url": "https://www.gegen-hartz.de/mehrbedarf-buergergeld-anspruch-hoehe",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 208509,
+      "truncated": false,
+      "body_sha256": "108f04a9ea79af3721bd3ffde6f287eff661d84aeb842cc04d23ca10183db1f1",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Mehrbedarf im B\u00fcrgergeld - Anspruch und H\u00f6he vom Jobcenter",
+      "duplicate_final": true,
+      "eligible": false
+    },
+    {
+      "rank": "8999",
+      "domain": "gegen-hartz.de",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.gegen-hartz.de/buergergeld-mehrbedarf-fuer-erwerbsfaehige-behinderte",
+      "depth": 1,
+      "parent_url": "https://www.gegen-hartz.de/",
+      "attempt": 44,
+      "timestamp": "2026-11-12T21:15:46.687229+00:00",
+      "final_url": "https://www.gegen-hartz.de/buergergeld-mehrbedarf-fuer-erwerbsfaehige-behinderte",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 186984,
+      "truncated": false,
+      "body_sha256": "96a2c6c35dbd0e57a870d8740326aa4504521772fa77b98d71d346725a8fe48a",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "B\u00fcrgergeld und Behinderung. Bei Teilnahme an Ma\u00dfnahme 35 % Mehrbedarf",
+      "duplicate_final": true,
+      "eligible": false
+    },
+    {
+      "rank": "8999",
+      "domain": "gegen-hartz.de",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.gegen-hartz.de/buergergeld-mehrbedarf-als-haertefall-anspruch-und-vorraussetzungen",
+      "depth": 1,
+      "parent_url": "https://www.gegen-hartz.de/",
+      "attempt": 45,
+      "timestamp": "2026-11-12T21:15:47.846917+00:00",
+      "final_url": "https://www.gegen-hartz.de/buergergeld-mehrbedarf-als-haertefall-anspruch-und-vorraussetzungen",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 203074,
+      "truncated": false,
+      "body_sha256": "5f772b29afbcc3d258244d41aa6ec8a2309e3012b238329cdc0b11d3d4ce3a3e",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "B\u00fcrgergeld Mehrbedarf als H\u00e4rtefall - Anspruch und Vorraussetzungen",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "8999",
+      "domain": "gegen-hartz.de",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.gegen-hartz.de/sanktionen-und-strafen-im-buergergeld",
+      "depth": 1,
+      "parent_url": "https://www.gegen-hartz.de/",
+      "attempt": 46,
+      "timestamp": "2026-11-12T21:15:49.202021+00:00",
+      "final_url": "https://www.gegen-hartz.de/sanktionen-und-strafen-im-buergergeld",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 217936,
+      "truncated": false,
+      "body_sha256": "213431bc7ca8022fb364f264ea71931fcec193cf8337101b5449b68fc9287b42",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Sanktionen und Strafen im B\u00fcrgergeld",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "8999",
+      "domain": "gegen-hartz.de",
+      "stratum": "1001-10000",
+      "requested_url": "https://www.gegen-hartz.de/eingliederungsvereinbarung",
+      "depth": 2,
+      "parent_url": "https://www.gegen-hartz.de/sanktionen-und-strafen-im-buergergeld",
+      "attempt": 47,
+      "timestamp": "2026-11-12T21:15:50.527402+00:00",
+      "final_url": "https://www.gegen-hartz.de/eingliederungsvereinbarung",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 183831,
+      "truncated": false,
+      "body_sha256": "e55fc1a71ff5375e529464d2579d676523ded22eb13f40521ca684afc05b7634",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "\u25b7 Eingliederungsvereinbarung | gegen-hartz.de",
+      "duplicate_final": false,
+      "eligible": true
+    }
+  ],
+  "robots": [
+    {
+      "url": "https://gegen-hartz.de/robots.txt",
+      "timestamp": "2026-11-12T21:14:39.048946+00:00",
+      "status": 200,
+      "decision": "parsed",
+      "final_url": "https://www.gegen-hartz.de/robots.txt",
+      "redirect_chain": [
+        {
+          "url": "https://gegen-hartz.de/robots.txt",
+          "status": 301,
+          "location": "https://www.gegen-hartz.de/robots.txt"
+        }
+      ],
+      "body_sha256": "bf022d8ba1e0cd433ebc43641df96561f557491c73623b9b9e64e326d6d5b786",
+      "body": "# robots.txt zu http://www.gegen-hartz.de/\n\nUser-agent: *\nDisallow:\nSitemap: https://gegen-hartz.de/sitemap_index.xml"
+    },
+    {
+      "url": "https://www.gegen-hartz.de/robots.txt",
+      "timestamp": "2026-11-12T21:14:40.252142+00:00",
+      "status": 200,
+      "decision": "parsed",
+      "final_url": "https://www.gegen-hartz.de/robots.txt",
+      "redirect_chain": [],
+      "body_sha256": "bf022d8ba1e0cd433ebc43641df96561f557491c73623b9b9e64e326d6d5b786",
+      "body": "# robots.txt zu http://www.gegen-hartz.de/\n\nUser-agent: *\nDisallow:\nSitemap: https://gegen-hartz.de/sitemap_index.xml"
+    }
+  ],
+  "eligible_pages": 40,
+  "canonical_origin": [
+    "https",
+    "www.gegen-hartz.de",
+    443
+  ],
+  "stop_reason": "page_budget",
+  "elapsed_seconds": 73.7
+}

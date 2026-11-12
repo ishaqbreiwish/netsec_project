@@ -1,0 +1,50 @@
+{
+  "site": {
+    "rank": "43",
+    "domain": "netflix.com",
+    "stratum": "1-100"
+  },
+  "rows": [
+    {
+      "rank": "43",
+      "domain": "netflix.com",
+      "stratum": "1-100",
+      "requested_url": "https://netflix.com/",
+      "depth": 0,
+      "parent_url": "",
+      "attempt": 1,
+      "timestamp": "2026-11-12T21:11:29.158615+00:00",
+      "error": "robots_denied",
+      "final_url": "https://netflix.com/",
+      "redirect_chain": [],
+      "html": false,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    }
+  ],
+  "robots": [
+    {
+      "url": "https://netflix.com/robots.txt",
+      "timestamp": "2026-11-12T21:11:29.679327+00:00",
+      "status": 200,
+      "decision": "parsed",
+      "final_url": "https://www.netflix.com/robots.txt",
+      "redirect_chain": [
+        {
+          "url": "https://netflix.com/robots.txt",
+          "status": 301,
+          "location": "https://www.netflix.com/robots.txt"
+        }
+      ],
+      "body_sha256": "1e14fa0284e9757b52b48dde38b390effae68afdd72447088e72f18f49b1aa09",
+      "body": "User-agent: *\nDisallow: /\n\nUser-agent: googlebot\nUser-agent: Googlebot-Video\nUser-agent: Applebot\nUser-agent: bingbot\nUser-agent: Baiduspider\nUser-agent: Baiduspider-mobile\nUser-agent: Baiduspider-video\nUser-agent: Baiduspider-image\nUser-agent: NaverBot\nUser-agent: Y!J-WSC\nUser-agent: YJ-WSC\nUser-agent: Yeti\nUser-agent: Yandex\nUser-agent: YandexBot\nUser-agent: YandexMobileBot\nUser-agent: YandexVideo\nUser-agent: YandexWebmaster\nUser-agent: YandexSitelinks\nUser-agent: SeznamBot\nUser-agent: facebookexternalhit\nUser-agent: GPTBot\nUser-agent: ChatGPT-User\nUser-agent: OAI-SearchBot\nUser-agent: Google-Extended\nUser-agent: ClaudeBot\nUser-agent: Claude-User\nUser-agent: Claude-SearchBot\nUser-agent: PerplexityBot\nAllow: /\n\nDisallow: /accountstatus\nDisallow: /AccountStatus\nDisallow: /aui/inbound\nDisallow: /authenticate\nDisallow: /autologin\nDisallow: /clearcookies\nDisallow: /companies\nDisallow: /editpayment\nDisallow: /emailunsubscribe\nDisallow: /error\nDisallow: /eula\nDisallow: /geooverride\nDisallow: /help\nDisallow: /imagelibrary\nDisallow: /learnmorelayer\nDisallow: /learnmorelayertv\nDisallow: /login\nDisallow: /loginhelp\nDisallow: /loginhelp/lookup\nDisallow: /loginhelpsucess\nDisallow: /LoginHelp\nDisallow: /password\nDisallow: /logout\nDisallow: /Logout\nDisallow: /mcd\nDisallow: /modernizr\nDisallow: /n/\nDisallow: /notamember\nDisallow: /notfound\nDisallow: /notices\nDisallow: /nrdapp\nDisallow: /optout\nDisallow: /overviewblockseeother\nDisallow: /popup/codewhatisthis\nDisallow: /popupdetails\nDisallow: /PopupDetails\nDisallow: /popupprivacypolicy\nDisallow: /privacypolicychanges\nDisallow: /registration\nDisallow: /rememberme\nDisallow: /signout\nDisallow: /signurl\nDisallow: /subscriptioncancel\nDisallow: /tastesurvey\nDisallow: /termsofusechanges\nDisallow: /tvsignup\nDisallow: /upcomingevents\nDisallow: /verifyidentity\nDisallow: /whysecure\n\nDisallow: /arabic\nDisallow: /Arabic\nDisallow: /chinese\nDisallow: /Chinese\nDisallow: /korean\nDisallow: /Korean\n\nDisallow: /airtel\nDisallow: /anan\nDisallow: /bouyguestelecom\nDisallow: /britishairways\nDisallow: /brutus\nDisallow: /comhem\nDisallow: /courts\nDisallow: /csl\nDisallow: /elisa\nDisallow: /entertain\nDisallow: /FireTV\nDisallow: /firetv\nDisallow: /freemonth\nDisallow: /kpn\nDisallow: /lg\nDisallow: /maxis\nDisallow: /Maxis\nDisallow: /meo\nDisallow: /Meo\nDisallow: /orangefrance\nDisallow: /Panasonic\nDisallow: /panasonic\nDisallow: /playstation\nDisallow: /proximus\nDisallow: /qantas\nDisallow: /samsung\nDisallow: /Sony\nDisallow: /sony\nDisallow: /talktalk\nDisallow: /tdc\nDisallow: /telenor\nDisallow: /telfort\nDisallow: /tim\nDisallow: /virginaustralia\nDisallow: /vodafone\nDisallow: /vodafonedemobilelaunch\nDisallow: /xboxone\nDisallow: /xfinity\nDisallow: /xs4all\nDisallow: /ziggo\n\nDisallow: /accountaccess\nDisallow: /AccountAccess\nDisallow: /BillingActivity\nDisallow: /browse\nDisallow: /browse/*\nAllow: /browse/genre/*\nDisallow: /CancelPlan\nDisallow: /ChangePlan\nDisallow: /changeplan\nDisallow: /deviceManagement\nDisallow: /DoNotTest\nDisallow: /EditProfiles\nDisallow: /email\nDisallow: /EmailPreferences\nDisallow: /entrytrap\nDisallow: /HdToggle\nDisallow: /LanguagePreferences\nDisallow: /ManageDevices\nDisallow: /ManageProfiles\nDisallow: /MoviesYouveSeen\nDisallow: /NewWatchInstantlyRSS\nDisallow: /NewWatchInstantlyRSS/*\nDisallow: /payment\nDisallow: /Payment\nDisallow: /phonenumber\nDisallow: /pin\nDisallow: /profiles\nDisallow: /profiles/*\nDisallow: /ProfilesGate\nDisallow: /search\nDisallow: /search/*\nDisallow: /viewingactivity\nDisallow: /WiViewingActivity\nDisallow: /yourAccount\nDisallow: /youraccount\nDisallow: /YourAccount\nDisallow: /YourAccountPayment\n\nUser-agent: AdsBot-Google\nUser-agent: Twitterbot\nUser-agent: Adidxbot\nAllow: /\n\nUser-agent: Yahoo Pipes 1.0\nUser-agent: Facebot\nDisallow: /\nAllow: /tudum\n\nSitemap: https://www.netflix.com/sitemap/index\n"
+    }
+  ],
+  "eligible_pages": 0,
+  "canonical_origin": null,
+  "stop_reason": "frontier_exhausted",
+  "elapsed_seconds": 0.52
+}

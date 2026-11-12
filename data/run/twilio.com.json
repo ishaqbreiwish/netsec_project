@@ -1,0 +1,1379 @@
+{
+  "site": {
+    "rank": "981",
+    "domain": "twilio.com",
+    "stratum": "101-1000"
+  },
+  "rows": [
+    {
+      "rank": "981",
+      "domain": "twilio.com",
+      "stratum": "101-1000",
+      "requested_url": "https://twilio.com/",
+      "depth": 0,
+      "parent_url": "",
+      "attempt": 1,
+      "timestamp": "2026-11-12T21:13:07.110087+00:00",
+      "final_url": "https://www.twilio.com/en-us",
+      "status": 200,
+      "content_type": "text/html;charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31557600"
+        ]
+      },
+      "body_bytes": 684130,
+      "truncated": false,
+      "body_sha256": "368ee1dd014843cca18dce380e02431527ed5cc6c65241784f6844e78756c59b",
+      "redirect_chain": [
+        {
+          "url": "https://twilio.com/",
+          "status": 301,
+          "location": "https://www.twilio.com:443/",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": []
+          }
+        },
+        {
+          "url": "https://www.twilio.com/",
+          "status": 301,
+          "location": "https://www.twilio.com/en-us",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31557600"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Conversational AI and APIs for SMS, Email, Voice | TwilioAn icon of a down chevronAn icon of a checkmarkAn icon of a down chevronAn icon of a down chevronTwilio logoAn icon of a down chevronAn icon of a right chevronAn icon of a right chevronAn icon of a plus symbolAn icon of a minus symbolTwilio Co",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "981",
+      "domain": "twilio.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.twilio.com/en-us",
+      "depth": 1,
+      "parent_url": "https://www.twilio.com/en-us",
+      "attempt": 2,
+      "timestamp": "2026-11-12T21:13:07.802833+00:00",
+      "final_url": "https://www.twilio.com/en-us",
+      "status": 200,
+      "content_type": "text/html;charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31557600"
+        ]
+      },
+      "body_bytes": 684130,
+      "truncated": false,
+      "body_sha256": "368ee1dd014843cca18dce380e02431527ed5cc6c65241784f6844e78756c59b",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Conversational AI and APIs for SMS, Email, Voice | TwilioAn icon of a down chevronAn icon of a checkmarkAn icon of a down chevronAn icon of a down chevronTwilio logoAn icon of a down chevronAn icon of a right chevronAn icon of a right chevronAn icon of a plus symbolAn icon of a minus symbolTwilio Co",
+      "duplicate_final": true,
+      "eligible": false
+    },
+    {
+      "rank": "981",
+      "domain": "twilio.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.twilio.com/fr-fr",
+      "depth": 1,
+      "parent_url": "https://www.twilio.com/en-us",
+      "attempt": 3,
+      "timestamp": "2026-11-12T21:13:08.234846+00:00",
+      "final_url": "https://www.twilio.com/fr-fr",
+      "status": 200,
+      "content_type": "text/html;charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31557600"
+        ]
+      },
+      "body_bytes": 708875,
+      "truncated": false,
+      "body_sha256": "8802af5fc05d239df0f60a3f63588927fc2df6b8a58882118c99d10c270d632f",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "IA conversationnelle et API d\u00e9di\u00e9es aux canaux SMS, e-mail et voix | TwilioAn icon of a down chevronAn icon of a checkmarkAn icon of a down chevronAn icon of a down chevronTwilio logoAn icon of a down chevronAn icon of a right chevronAn icon of a right chevronAn icon of a plus symbolAn icon of a min",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "981",
+      "domain": "twilio.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.twilio.com/de-de",
+      "depth": 1,
+      "parent_url": "https://www.twilio.com/en-us",
+      "attempt": 4,
+      "timestamp": "2026-11-12T21:13:09.808022+00:00",
+      "final_url": "https://www.twilio.com/de-de",
+      "status": 200,
+      "content_type": "text/html;charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31557600"
+        ]
+      },
+      "body_bytes": 705456,
+      "truncated": false,
+      "body_sha256": "0830789052fd8d1df50e1dd724070eac6f31ca6ec8ecd585c4911ddc70e044ac",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Dialogorientierte KI und APIs f\u00fcr SMS, E-Mail und Sprachdienste | TwilioAn icon of a down chevronAn icon of a checkmarkAn icon of a down chevronAn icon of a down chevronTwilio logoAn icon of a down chevronAn icon of a right chevronAn icon of a right chevronAn icon of a plus symbolAn icon of a minus ",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "981",
+      "domain": "twilio.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.twilio.com/ja-jp",
+      "depth": 1,
+      "parent_url": "https://www.twilio.com/en-us",
+      "attempt": 5,
+      "timestamp": "2026-11-12T21:13:09.997830+00:00",
+      "final_url": "https://www.twilio.com/ja-jp",
+      "status": 200,
+      "content_type": "text/html;charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31557600"
+        ]
+      },
+      "body_bytes": 710233,
+      "truncated": false,
+      "body_sha256": "296484048c67061a1afa5d4384b2b274ced8a4ec08ca160466d97294650b258f",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "\u5bfe\u8a71\u578bAI\u3001\u304a\u3088\u3073SMS\u3001\u30e1\u30fc\u30eb\u3001\u97f3\u58f0\u5411\u3051API | TwilioAn icon of a down chevronAn icon of a checkmarkAn icon of a down chevronAn icon of a down chevronTwilio logoAn icon of a down chevronAn icon of a right chevronAn icon of a right chevronAn icon of a plus symbolAn icon of a minus symbolTwilio Conversation memory iconAn",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "981",
+      "domain": "twilio.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.twilio.com/pt-br",
+      "depth": 1,
+      "parent_url": "https://www.twilio.com/en-us",
+      "attempt": 6,
+      "timestamp": "2026-11-12T21:13:10.466818+00:00",
+      "final_url": "https://www.twilio.com/pt-br",
+      "status": 200,
+      "content_type": "text/html;charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31557600"
+        ]
+      },
+      "body_bytes": 710609,
+      "truncated": false,
+      "body_sha256": "651382275c930ebc85a89d0e05912b5b7d01a806e56bcb772ebe94141465c711",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "IA conversacional e APIs para SMS, e-mail e voz | TwilioAn icon of a down chevronAn icon of a checkmarkAn icon of a down chevronAn icon of a down chevronTwilio logoAn icon of a down chevronAn icon of a right chevronAn icon of a right chevronAn icon of a plus symbolAn icon of a minus symbolTwilio Con",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "981",
+      "domain": "twilio.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.twilio.com/es-mx",
+      "depth": 1,
+      "parent_url": "https://www.twilio.com/en-us",
+      "attempt": 7,
+      "timestamp": "2026-11-12T21:13:11.020759+00:00",
+      "final_url": "https://www.twilio.com/es-mx",
+      "status": 200,
+      "content_type": "text/html;charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31557600"
+        ]
+      },
+      "body_bytes": 714373,
+      "truncated": false,
+      "body_sha256": "0e2398f048fa4de1671a0ae41a1faed2d5c20dc519241dfdadf423b2c30fd9d5",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "IA conversacional y API para SMS, correo electr\u00f3nico y voz | TwilioAn icon of a down chevronAn icon of a checkmarkAn icon of a down chevronAn icon of a checkmarkAn icon of a down chevronAn icon of a down chevronTwilio logoAn icon of a down chevronAn icon of a right chevronAn icon of a right chevronA",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "981",
+      "domain": "twilio.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.twilio.com/docs",
+      "depth": 1,
+      "parent_url": "https://www.twilio.com/en-us",
+      "attempt": 8,
+      "timestamp": "2026-11-12T21:13:11.549101+00:00",
+      "final_url": "https://www.twilio.com/docs",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 229007,
+      "truncated": false,
+      "body_sha256": "92f2d93d9acbdbb09c05d75f7db080453da909d30dbf2097e94ad126c84e6014",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Docs: API Reference, Tutorials, and Integration | TwilioGo to the Twilio Docs home pageTwilio Essentials DocumentationTwilio Developer ToolsTwilio Developer ResourcesHelp CenterTwilio Conversation MemoryTwilio Conversation OrchestratorTwilio Conversation IntelligenceTwilio Conversation RelayTwilio M",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "981",
+      "domain": "twilio.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.twilio.com/code-exchange",
+      "depth": 1,
+      "parent_url": "https://www.twilio.com/en-us",
+      "attempt": 9,
+      "timestamp": "2026-11-12T21:13:11.955455+00:00",
+      "final_url": "https://www.twilio.com/code-exchange",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 215922,
+      "truncated": false,
+      "body_sha256": "4a349aa32fd6d9ecded164c2d2ef7aeaa27ae352b5f7f29c0957d276957ed87e",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Code Exchange | TwilioGo to the Twilio Code Exchange home pageTwilio Developer ResourcesTwilio LogoMenu iconSalesHelp(link takes you to an external page)(link takes you to an external page)",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "981",
+      "domain": "twilio.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.twilio.com/try-twilio",
+      "depth": 1,
+      "parent_url": "https://www.twilio.com/en-us",
+      "attempt": 10,
+      "timestamp": "2026-11-12T21:13:12.433886+00:00",
+      "final_url": "https://www.twilio.com/try-twilio",
+      "status": 307,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://*.twilio.com https://www.twilio.com;report-uri https://www.twilio.com/console/api/cspr"
+        ],
+        "content-security-policy-report-only": [
+          "frame-ancestors 'self' https://console.twilio.com;report-uri https://www.twilio.com/console/api/cspr"
+        ],
+        "strict-transport-security": [
+          "max-age=63072000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 0,
+      "truncated": false,
+      "body_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "redirect_chain": [
+        {
+          "url": "https://www.twilio.com/try-twilio",
+          "status": 307,
+          "location": "https://login.twilio.com/authorize?redirect_uri=https://auth.twilio.com/auth0/callback&client_id=bmiI3FXfsJljPI7S0TyiwfzwKRlLAkVw&twilio_request_sid=RQ0aa4fc450de54ec392c9cbe01e0ffae7&audience=https%3A%2F%2Fapi.twilio.com&screen_hint=signup&ext-country-code=US&scope=openid%20email%20offline_access&response_type=code&state=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJVQVMiLCJpYXQiOjE3OTQ1MTc5OTIsImV4cCI6MTc5NDUxOTc5Miwib25lX2NvbnNvbGUiOnRydWUsInR3aWxpb19yZXF1ZXN0X3NpZCI6IlJRMGFhNGZjNDUwZGU1NGVjMzkyYzljYmUwMWUwZmZhZTciLCJjYWxsX2NvbnRleHQiOiJzaWdudXAiLCJpcF9hZGRyZXNzIjoiMTI4LjYxLjE2MC4yNiIsInNpZ251cCI6dHJ1ZSwibm9uY2UiOiJiT19tVTZUbWEzSnhtaXhwa1pfOTlnIiwiY2FsbF9zb3VyY2UiOiJ0d2lsaW8ifQ.cZh4oNBeIQUTbY5thwJpP_O0vEP1t8n_2tSZIrZM_qk&code_challenge_method=S256&nonce=bO_mU6Tma3JxmixpkZ_99g&prompt=login&code_challenge=xwvKGMONBnz93eUOdTDijKNl3TSw68WwvoSe1_s6cVQ",
+          "headers": {
+            "content-security-policy": [
+              "frame-ancestors 'self' https://*.twilio.com https://www.twilio.com;report-uri https://www.twilio.com/console/api/cspr"
+            ],
+            "content-security-policy-report-only": [
+              "frame-ancestors 'self' https://console.twilio.com;report-uri https://www.twilio.com/console/api/cspr"
+            ],
+            "strict-transport-security": [
+              "max-age=63072000; includeSubDomains; preload"
+            ]
+          }
+        }
+      ],
+      "error": "redirect_out_of_scope",
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "981",
+      "domain": "twilio.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.twilio.com/fr-fr/customer-engagement-platform",
+      "depth": 2,
+      "parent_url": "https://www.twilio.com/fr-fr",
+      "attempt": 11,
+      "timestamp": "2026-11-12T21:13:13.006602+00:00",
+      "final_url": "https://www.twilio.com/fr-fr/customer-engagement-platform",
+      "status": 200,
+      "content_type": "text/html;charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31557600"
+        ]
+      },
+      "body_bytes": 642099,
+      "truncated": false,
+      "body_sha256": "138a7bda9a6ab7aa1cbafe9b1e1416802f1580fddce544b780b9fb027a0ee251",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Plateforme d\u2019engagement client | TwilioAn icon of a down chevronAn icon of a checkmarkAn icon of a down chevronAn icon of a down chevronTwilio logoAn icon of a down chevronAn icon of a right chevronAn icon of a right chevronAn icon of a plus symbolAn icon of a minus symbolTwilio Conversation memory ",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "981",
+      "domain": "twilio.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.twilio.com/de-de/customer-engagement-platform",
+      "depth": 2,
+      "parent_url": "https://www.twilio.com/de-de",
+      "attempt": 12,
+      "timestamp": "2026-11-12T21:13:14.766637+00:00",
+      "final_url": "https://www.twilio.com/de-de/customer-engagement-platform",
+      "status": 200,
+      "content_type": "text/html;charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31557600"
+        ]
+      },
+      "body_bytes": 641675,
+      "truncated": false,
+      "body_sha256": "c27d77ff51e823f0fe09f7a5ff7afe155a8de3aedb186338ecf07db6d6a1478e",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Customer-Engagement-Plattform | TwilioAn icon of a down chevronAn icon of a checkmarkAn icon of a down chevronAn icon of a down chevronTwilio logoAn icon of a down chevronAn icon of a right chevronAn icon of a right chevronAn icon of a plus symbolAn icon of a minus symbolTwilio Conversation memory i",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "981",
+      "domain": "twilio.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.twilio.com/ja-jp/solutions/product-leaders",
+      "depth": 2,
+      "parent_url": "https://www.twilio.com/ja-jp",
+      "attempt": 13,
+      "timestamp": "2026-11-12T21:13:16.351777+00:00",
+      "final_url": "https://www.twilio.com/ja-jp/solutions/product-leaders",
+      "status": 200,
+      "content_type": "text/html;charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31557600"
+        ]
+      },
+      "body_bytes": 694067,
+      "truncated": false,
+      "body_sha256": "61b746d69e5434863ff4931871e6e69a44771e239f75741954f3ea53ceaa0dfb",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "\u88fd\u54c1\u30ea\u30fc\u30c0\u30fc\u306e\u30bd\u30ea\u30e5\u30fc\u30b7\u30e7\u30f3 | TwilioAn icon of a down chevronAn icon of a checkmarkAn icon of a down chevronAn icon of a down chevronTwilio logoAn icon of a down chevronAn icon of a right chevronAn icon of a right chevronAn icon of a plus symbolAn icon of a minus symbolTwilio Conversation memory iconAn icon of a",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "981",
+      "domain": "twilio.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.twilio.com/en-us/use-cases/alerts-and-notifications-v2",
+      "depth": 3,
+      "parent_url": "https://www.twilio.com/ja-jp/solutions/product-leaders",
+      "attempt": 14,
+      "timestamp": "2026-11-12T21:13:17.376087+00:00",
+      "final_url": "https://www.twilio.com/en-us/use-cases/alerts-and-notifications-v2",
+      "status": 200,
+      "content_type": "text/html;charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31557600"
+        ]
+      },
+      "body_bytes": 676821,
+      "truncated": false,
+      "body_sha256": "d9ab349bda203a325fe0e52750a3c47857575d7776f0be5f15cbec1741bab554",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Alerts and notifications: Texts and emails | TwilioAn icon of a down chevronAn icon of a down chevronTwilio logoAn icon of a down chevronAn icon of a right chevronAn icon of a right chevronAn icon of a plus symbolAn icon of a minus symbolTwilio Conversation memory iconAn icon of a right chevronTwili",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "981",
+      "domain": "twilio.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.twilio.com/docs/messaging/quickstart",
+      "depth": 4,
+      "parent_url": "https://www.twilio.com/en-us/use-cases/alerts-and-notifications-v2",
+      "attempt": 15,
+      "timestamp": "2026-11-12T21:13:17.915764+00:00",
+      "final_url": "https://www.twilio.com/docs/messaging/quickstart",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 1218707,
+      "truncated": false,
+      "body_sha256": "008badf7908251d6f59b607a8bbffd3c946da5d8246512b00560d8a6bbbe2d83",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "SMS developer quickstart | TwilioGo to the Twilio Docs home pageTwilio RCS DocumentationTwilio WhatsApp Business Platform DocumentationTwilio RCS DocumentationTwilio General Usage DocumentationTwilio WhatsApp Business Platform DocumentationTwilio RCS DocumentationTwilio Content DocumentationAddition",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "981",
+      "domain": "twilio.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.twilio.com/pt-br/customer-engagement-platform",
+      "depth": 2,
+      "parent_url": "https://www.twilio.com/pt-br",
+      "attempt": 16,
+      "timestamp": "2026-11-12T21:13:18.876543+00:00",
+      "final_url": "https://www.twilio.com/pt-br/customer-engagement-platform",
+      "status": 200,
+      "content_type": "text/html;charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31557600"
+        ]
+      },
+      "body_bytes": 644286,
+      "truncated": false,
+      "body_sha256": "c444ebd62a179e1c9d2381912fa837a02af55632530e44c8e6468fc4894900bf",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Plataforma de Engajamento com o Cliente | TwilioAn icon of a down chevronAn icon of a checkmarkAn icon of a down chevronAn icon of a down chevronTwilio logoAn icon of a down chevronAn icon of a right chevronAn icon of a right chevronAn icon of a plus symbolAn icon of a minus symbolTwilio Conversatio",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "981",
+      "domain": "twilio.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.twilio.com/es-mx/customer-engagement-platform",
+      "depth": 2,
+      "parent_url": "https://www.twilio.com/es-mx",
+      "attempt": 17,
+      "timestamp": "2026-11-12T21:13:19.434185+00:00",
+      "final_url": "https://www.twilio.com/es-mx/customer-engagement-platform",
+      "status": 200,
+      "content_type": "text/html;charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31557600"
+        ]
+      },
+      "body_bytes": 647752,
+      "truncated": false,
+      "body_sha256": "189d96bf90ecb6895942e26b3f309008a2dafb3f314e3346f016bd0bba666e2c",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Plataforma de interacci\u00f3n con el cliente | TwilioAn icon of a down chevronAn icon of a checkmarkAn icon of a down chevronAn icon of a checkmarkAn icon of a down chevronAn icon of a down chevronTwilio logoAn icon of a down chevronAn icon of a right chevronAn icon of a right chevronAn icon of a plus s",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "981",
+      "domain": "twilio.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.twilio.com/",
+      "depth": 2,
+      "parent_url": "https://www.twilio.com/code-exchange",
+      "attempt": 18,
+      "timestamp": "2026-11-12T21:13:20.218492+00:00",
+      "final_url": "https://www.twilio.com/en-us",
+      "status": 200,
+      "content_type": "text/html;charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31557600"
+        ]
+      },
+      "body_bytes": 684130,
+      "truncated": false,
+      "body_sha256": "368ee1dd014843cca18dce380e02431527ed5cc6c65241784f6844e78756c59b",
+      "redirect_chain": [
+        {
+          "url": "https://www.twilio.com/",
+          "status": 301,
+          "location": "https://www.twilio.com/en-us",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31557600"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Conversational AI and APIs for SMS, Email, Voice | TwilioAn icon of a down chevronAn icon of a checkmarkAn icon of a down chevronAn icon of a down chevronTwilio logoAn icon of a down chevronAn icon of a right chevronAn icon of a right chevronAn icon of a plus symbolAn icon of a minus symbolTwilio Co",
+      "duplicate_final": true,
+      "eligible": false
+    },
+    {
+      "rank": "981",
+      "domain": "twilio.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.twilio.com/docs/messaging/quickstart/no-code-sms-studio-quickstart",
+      "depth": 5,
+      "parent_url": "https://www.twilio.com/docs/messaging/quickstart",
+      "attempt": 19,
+      "timestamp": "2026-11-12T21:13:20.577310+00:00",
+      "final_url": "https://www.twilio.com/docs/messaging/quickstart/no-code-sms-studio-quickstart",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 326081,
+      "truncated": false,
+      "body_sha256": "66d2b75a02f5b98935bc2436f41ce89627a3f75e92da5dea5c26daf135b2926f",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "No-code SMS quickstart with Twilio Studio | TwilioGo to the Twilio Docs home pageTwilio RCS DocumentationTwilio WhatsApp Business Platform DocumentationTwilio RCS DocumentationTwilio General Usage DocumentationTwilio WhatsApp Business Platform DocumentationTwilio RCS DocumentationTwilio Content Docu",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "981",
+      "domain": "twilio.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.twilio.com/ja-jp/products/connections/warehouses",
+      "depth": 3,
+      "parent_url": "https://www.twilio.com/ja-jp/solutions/product-leaders",
+      "attempt": 20,
+      "timestamp": "2026-11-12T21:13:21.295295+00:00",
+      "final_url": "https://www.twilio.com/ja-jp/products/connections/warehouses",
+      "status": 200,
+      "content_type": "text/html;charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31557600"
+        ]
+      },
+      "body_bytes": 667075,
+      "truncated": false,
+      "body_sha256": "bd4fdc2ba103ab293dc2adc0210f8bf6a7f1e07a90be410dfde633e2e7b65486",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "\u9867\u5ba2\u30c7\u30fc\u30bf\u3092\u30a6\u30a7\u30a2\u30cf\u30a6\u30b9\u306b\u540c\u671f | TwilioAn icon of a down chevronAn icon of a checkmarkAn icon of a down chevronAn icon of a down chevronTwilio logoAn icon of a down chevronAn icon of a right chevronAn icon of a right chevronAn icon of a plus symbolAn icon of a minus symbolTwilio Conversation memory iconAn icon of ",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "981",
+      "domain": "twilio.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.twilio.com/en-us/help/owl-sales",
+      "depth": 4,
+      "parent_url": "https://www.twilio.com/en-us/use-cases/alerts-and-notifications-v2",
+      "attempt": 21,
+      "timestamp": "2026-11-12T21:13:22.489454+00:00",
+      "final_url": "https://www.twilio.com/en-us/help/owl-sales",
+      "status": 200,
+      "content_type": "text/html;charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31557600"
+        ]
+      },
+      "body_bytes": 602964,
+      "truncated": false,
+      "body_sha256": "a56c5f70c5fa9b591576ae93049b48f9f689d84281995f70a020d3d78edeab78",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Talk to Sales | TwilioAn icon of a down chevronAn icon of a down chevronTwilio logoAn icon of a down chevronAn icon of a right chevronAn icon of a right chevronAn icon of a plus symbolAn icon of a minus symbolTwilio Conversation memory iconAn icon of a right chevronTwilio Conversation orchestrator i",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "981",
+      "domain": "twilio.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.twilio.com/fr-fr/products/conversational-ai",
+      "depth": 2,
+      "parent_url": "https://www.twilio.com/fr-fr",
+      "attempt": 22,
+      "timestamp": "2026-11-12T21:13:23.464089+00:00",
+      "final_url": "https://www.twilio.com/fr-fr/products/conversational-ai",
+      "status": 200,
+      "content_type": "text/html;charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31557600"
+        ]
+      },
+      "body_bytes": 697558,
+      "truncated": false,
+      "body_sha256": "f4c6e7360d94132aa18061d2158c3385c9faa84195116c1741dcdcc0b4c0c31c",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Twilio Conversations - Le moteur de l\u2019IA conversationnelle | TwilioAn icon of a down chevronAn icon of a checkmarkAn icon of a down chevronAn icon of a down chevronTwilio logoAn icon of a down chevronAn icon of a right chevronAn icon of a right chevronAn icon of a plus symbolAn icon of a minus symbo",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "981",
+      "domain": "twilio.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.twilio.com/de-de/products/conversational-ai",
+      "depth": 2,
+      "parent_url": "https://www.twilio.com/de-de",
+      "attempt": 23,
+      "timestamp": "2026-11-12T21:13:24.989658+00:00",
+      "final_url": "https://www.twilio.com/de-de/products/conversational-ai",
+      "status": 200,
+      "content_type": "text/html;charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31557600"
+        ]
+      },
+      "body_bytes": 695700,
+      "truncated": false,
+      "body_sha256": "2130388562ff89101e62f8ec1aaee1bd9f5db24d9d8e81f0a2dcb3f604e7c4f6",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Twilio Conversations \u2013 die Engine f\u00fcr dialogorientierte KI | TwilioAn icon of a down chevronAn icon of a checkmarkAn icon of a down chevronAn icon of a down chevronTwilio logoAn icon of a down chevronAn icon of a right chevronAn icon of a right chevronAn icon of a plus symbolAn icon of a minus symbo",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "981",
+      "domain": "twilio.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.twilio.com/pt-br/products/conversational-ai",
+      "depth": 2,
+      "parent_url": "https://www.twilio.com/pt-br",
+      "attempt": 24,
+      "timestamp": "2026-11-12T21:13:26.044352+00:00",
+      "final_url": "https://www.twilio.com/pt-br/products/conversational-ai",
+      "status": 200,
+      "content_type": "text/html;charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31557600"
+        ]
+      },
+      "body_bytes": 674558,
+      "truncated": false,
+      "body_sha256": "75280a17391b97234b883cd6b856fe7ecd98cc97e923dee8b96b688be52fb345",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Twilio Conversations \u2013 O mecanismo para IA conversacional | TwilioAn icon of a down chevronAn icon of a checkmarkAn icon of a down chevronAn icon of a down chevronTwilio logoAn icon of a down chevronAn icon of a right chevronAn icon of a right chevronAn icon of a plus symbolAn icon of a minus symbol",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "981",
+      "domain": "twilio.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.twilio.com/es-mx/products/conversational-ai",
+      "depth": 2,
+      "parent_url": "https://www.twilio.com/es-mx",
+      "attempt": 25,
+      "timestamp": "2026-11-12T21:13:27.196335+00:00",
+      "final_url": "https://www.twilio.com/es-mx/products/conversational-ai",
+      "status": 200,
+      "content_type": "text/html;charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31557600"
+        ]
+      },
+      "body_bytes": 678615,
+      "truncated": false,
+      "body_sha256": "d4bfeb00b02567c92b1755177c8978bc1ee5d192e1fae8eae6d4238a47b003db",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Twilio Conversations: el motor de la IA conversacional | TwilioAn icon of a down chevronAn icon of a checkmarkAn icon of a down chevronAn icon of a checkmarkAn icon of a down chevronAn icon of a down chevronTwilio logoAn icon of a down chevronAn icon of a right chevronAn icon of a right chevronAn ic",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "981",
+      "domain": "twilio.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.twilio.com/docs/rcs/onboarding",
+      "depth": 5,
+      "parent_url": "https://www.twilio.com/docs/messaging/quickstart",
+      "attempt": 26,
+      "timestamp": "2026-11-12T21:13:28.701281+00:00",
+      "final_url": "https://www.twilio.com/docs/rcs/onboarding",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 482446,
+      "truncated": false,
+      "body_sha256": "5375d101c2959e98cc58692cc78e2a4b5b4f7064eae777de2dabd41f6feffd21",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Get started with branded RCS messaging | TwilioGo to the Twilio Docs home pageTwilio Verify DocumentationHelp CenterPositive FeedbackNegative Feedbacklimitations page anchorPositive FeedbackNegative Feedbackprerequisites page anchorPositive FeedbackNegative Feedback(link takes you to an external pag",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "981",
+      "domain": "twilio.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.twilio.com/en-us/products/privacy-portal",
+      "depth": 3,
+      "parent_url": "https://www.twilio.com/ja-jp/solutions/product-leaders",
+      "attempt": 27,
+      "timestamp": "2026-11-12T21:13:28.888942+00:00",
+      "final_url": "https://www.twilio.com/en-us/products/privacy-portal",
+      "status": 200,
+      "content_type": "text/html;charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31557600"
+        ]
+      },
+      "body_bytes": 719442,
+      "truncated": false,
+      "body_sha256": "f9180a6af9fa613d644f4b70dd22583ed10eab4d8d525a9327574bb44e611842",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Privacy Portal | TwilioAn icon of a down chevronAn icon of a checkmarkAn icon of a down chevronAn icon of a down chevronTwilio logoAn icon of a down chevronAn icon of a right chevronAn icon of a right chevronAn icon of a plus symbolAn icon of a minus symbolTwilio Conversation memory iconAn icon of a",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "981",
+      "domain": "twilio.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.twilio.com/ja-jp/products/connections/functions",
+      "depth": 4,
+      "parent_url": "https://www.twilio.com/ja-jp/products/connections/warehouses",
+      "attempt": 28,
+      "timestamp": "2026-11-12T21:13:29.424731+00:00",
+      "final_url": "https://www.twilio.com/ja-jp/products/connections/functions",
+      "status": 200,
+      "content_type": "text/html;charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31557600"
+        ]
+      },
+      "body_bytes": 634087,
+      "truncated": false,
+      "body_sha256": "404ba316c36bf3a0ea213f3ada7ceef7694943e7ea148e348906af63bca384f5",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Segment Functions\u3067\u30ab\u30b9\u30bf\u30e0\u30c7\u30fc\u30bf\u30ed\u30b8\u30c3\u30af\u3092\u69cb\u7bc9\u3001\u30c7\u30d7\u30ed\u30a4\u3001\u5b9f\u884c | TwilioAn icon of a down chevronAn icon of a checkmarkAn icon of a down chevronAn icon of a down chevronTwilio logoAn icon of a down chevronAn icon of a right chevronAn icon of a right chevronAn icon of a plus symbolAn icon of a minus symbolTwilio Conversati",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "981",
+      "domain": "twilio.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.twilio.com/es-mx/products/connections/functions",
+      "depth": 5,
+      "parent_url": "https://www.twilio.com/ja-jp/products/connections/functions",
+      "attempt": 29,
+      "timestamp": "2026-11-12T21:13:30.760020+00:00",
+      "final_url": "https://www.twilio.com/es-mx/products/connections/functions",
+      "status": 200,
+      "content_type": "text/html;charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31557600"
+        ]
+      },
+      "body_bytes": 637660,
+      "truncated": false,
+      "body_sha256": "298894ace755067177723746001d41536943f94a4a5045437a53e4b989813cf4",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Crea, implementa y ejecuta la l\u00f3gica de datos personalizados con Segment Functions | TwilioAn icon of a down chevronAn icon of a checkmarkAn icon of a down chevronAn icon of a checkmarkAn icon of a down chevronAn icon of a down chevronTwilio logoAn icon of a down chevronAn icon of a right chevronAn ",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "981",
+      "domain": "twilio.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.twilio.com/fr-fr/products/privacy-portal",
+      "depth": 4,
+      "parent_url": "https://www.twilio.com/en-us/products/privacy-portal",
+      "attempt": 30,
+      "timestamp": "2026-11-12T21:13:31.827347+00:00",
+      "final_url": "https://www.twilio.com/fr-fr/products/privacy-portal",
+      "status": 200,
+      "content_type": "text/html;charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31557600"
+        ]
+      },
+      "body_bytes": 682906,
+      "truncated": false,
+      "body_sha256": "bed3ab367250aa74344ab9622248abe8aad4003361b120f9b50b4144a32c0673",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Privacy Portal | TwilioAn icon of a down chevronAn icon of a checkmarkAn icon of a down chevronAn icon of a down chevronTwilio logoAn icon of a down chevronAn icon of a right chevronAn icon of a right chevronAn icon of a plus symbolAn icon of a minus symbolTwilio Conversation memory iconAn icon of a",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "981",
+      "domain": "twilio.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.twilio.com/de-de/products/connections/functions",
+      "depth": 5,
+      "parent_url": "https://www.twilio.com/ja-jp/products/connections/functions",
+      "attempt": 31,
+      "timestamp": "2026-11-12T21:13:32.039575+00:00",
+      "final_url": "https://www.twilio.com/de-de/products/connections/functions",
+      "status": 200,
+      "content_type": "text/html;charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31557600"
+        ]
+      },
+      "body_bytes": 631786,
+      "truncated": false,
+      "body_sha256": "deacb71d4c65a44e4bb0e9b92fcb74c352f1e2d18c33d1a93365e96055dcca78",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Benutzerdefinierte Datenlogik mit Segment Functions erstellen, bereitstellen und ausf\u00fchren | TwilioAn icon of a down chevronAn icon of a checkmarkAn icon of a down chevronAn icon of a down chevronTwilio logoAn icon of a down chevronAn icon of a right chevronAn icon of a right chevronAn icon of a plu",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "981",
+      "domain": "twilio.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.twilio.com/pt-br/products/privacy-portal",
+      "depth": 4,
+      "parent_url": "https://www.twilio.com/en-us/products/privacy-portal",
+      "attempt": 32,
+      "timestamp": "2026-11-12T21:13:33.447158+00:00",
+      "final_url": "https://www.twilio.com/pt-br/products/privacy-portal",
+      "status": 200,
+      "content_type": "text/html;charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31557600"
+        ]
+      },
+      "body_bytes": 683978,
+      "truncated": false,
+      "body_sha256": "ff9b2564cf4a4c3d72c9e201acfdb9a0436f8dc072a31d5eab4ae3b3badf1b77",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Privacy Portal | TwilioAn icon of a down chevronAn icon of a checkmarkAn icon of a down chevronAn icon of a down chevronTwilio logoAn icon of a down chevronAn icon of a right chevronAn icon of a right chevronAn icon of a plus symbolAn icon of a minus symbolTwilio Conversation memory iconAn icon of a",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "981",
+      "domain": "twilio.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.twilio.com/ja-jp/professional-services",
+      "depth": 3,
+      "parent_url": "https://www.twilio.com/ja-jp/solutions/product-leaders",
+      "attempt": 33,
+      "timestamp": "2026-11-12T21:13:34.952045+00:00",
+      "final_url": "https://www.twilio.com/ja-jp/professional-services",
+      "status": 200,
+      "content_type": "text/html;charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31557600"
+        ]
+      },
+      "body_bytes": 661045,
+      "truncated": false,
+      "body_sha256": "7ee2250ea4e68a36cbc4eabce13f8ff8b7404b767fd082a8be09c2f1d481ef65",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "\u30a8\u30ad\u30b9\u30d1\u30fc\u30c8\u306b\u3088\u308b\u30ac\u30a4\u30c0\u30f3\u30b9\u3067\u4fe1\u983c\u6027\u306e\u9ad8\u3044Twilio\u30bd\u30ea\u30e5\u30fc\u30b7\u30e7\u30f3\u306e\u69cb\u7bc9 | TwilioAn icon of a down chevronAn icon of a checkmarkAn icon of a down chevronAn icon of a down chevronTwilio logoAn icon of a down chevronAn icon of a right chevronAn icon of a right chevronAn icon of a plus symbolAn icon of a minus symbolTwilio Conversation ",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "981",
+      "domain": "twilio.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.twilio.com/docs/conversations/solution-blueprints/conversational-agent",
+      "depth": 3,
+      "parent_url": "https://www.twilio.com/fr-fr/products/conversational-ai",
+      "attempt": 34,
+      "timestamp": "2026-11-12T21:13:36.060913+00:00",
+      "final_url": "https://www.twilio.com/docs/conversations/solution-blueprints/conversational-agent",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 179702,
+      "truncated": false,
+      "body_sha256": "20275cb93d9d3118064667e606043dc8e25f2bbe8d13b3b4e7efcbce1fd9f86f",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Conversational agents solution blueprint | TwilioGo to the Twilio Docs home pageHelp CenterPositive FeedbackNegative Feedbackwhat-you-can-build page anchorPositive FeedbackNegative Feedbacktwilio-components page anchorPositive FeedbackNegative Feedbackhow-it-works page anchorPositive FeedbackNegativ",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "981",
+      "domain": "twilio.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.twilio.com/en-us/blog/engagement-suite",
+      "depth": 5,
+      "parent_url": "https://www.twilio.com/docs/messaging/quickstart",
+      "attempt": 35,
+      "timestamp": "2026-11-12T21:13:36.218717+00:00",
+      "final_url": "https://www.twilio.com/en-us/blog/engagement-suite",
+      "status": 200,
+      "content_type": "text/html;charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31557600"
+        ]
+      },
+      "body_bytes": 626153,
+      "truncated": false,
+      "body_sha256": "3286278e7096dbeacde5cb6b4a936298274d4f9909b89c888d855ca8b038e1a0",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Introducing Engagement Suite from Twilio Messaging | TwilioAn icon of a down chevronAn icon of a checkmarkAn icon of a down chevronAn icon of a down chevronTwilio logoAn icon of a down chevronAn icon of a right chevronAn icon of a right chevronAn icon of a plus symbolAn icon of a minus symbolTwilio ",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "981",
+      "domain": "twilio.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.twilio.com/de-de/products/privacy-portal",
+      "depth": 4,
+      "parent_url": "https://www.twilio.com/en-us/products/privacy-portal",
+      "attempt": 36,
+      "timestamp": "2026-11-12T21:13:37.086713+00:00",
+      "final_url": "https://www.twilio.com/de-de/products/privacy-portal",
+      "status": 200,
+      "content_type": "text/html;charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31557600"
+        ]
+      },
+      "body_bytes": 681849,
+      "truncated": false,
+      "body_sha256": "fee11ee9cae71117698fe99dec9130b98ff395003847e938ae5c96a0957fe5ae",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Datenschutzportal | TwilioAn icon of a down chevronAn icon of a checkmarkAn icon of a down chevronAn icon of a down chevronTwilio logoAn icon of a down chevronAn icon of a right chevronAn icon of a right chevronAn icon of a plus symbolAn icon of a minus symbolTwilio Conversation memory iconAn icon o",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "981",
+      "domain": "twilio.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.twilio.com/fr-fr/products/connections/functions",
+      "depth": 5,
+      "parent_url": "https://www.twilio.com/ja-jp/products/connections/functions",
+      "attempt": 37,
+      "timestamp": "2026-11-12T21:13:38.211599+00:00",
+      "final_url": "https://www.twilio.com/fr-fr/products/connections/functions",
+      "status": 200,
+      "content_type": "text/html;charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31557600"
+        ]
+      },
+      "body_bytes": 631918,
+      "truncated": false,
+      "body_sha256": "08de8490c468de0314644127b75ce0b21d7d02af76879f6b711d3562046821d8",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Cr\u00e9ez, d\u00e9ployez et ex\u00e9cutez une logique de donn\u00e9es personnalis\u00e9e avec Segment Functions | TwilioAn icon of a down chevronAn icon of a checkmarkAn icon of a down chevronAn icon of a down chevronTwilio logoAn icon of a down chevronAn icon of a right chevronAn icon of a right chevronAn icon of a plus s",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "981",
+      "domain": "twilio.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.twilio.com/es-mx/products/privacy-portal",
+      "depth": 4,
+      "parent_url": "https://www.twilio.com/en-us/products/privacy-portal",
+      "attempt": 38,
+      "timestamp": "2026-11-12T21:13:39.167280+00:00",
+      "final_url": "https://www.twilio.com/es-mx/products/privacy-portal",
+      "status": 200,
+      "content_type": "text/html;charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31557600"
+        ]
+      },
+      "body_bytes": 687978,
+      "truncated": false,
+      "body_sha256": "69958427a02dfb171cea56b099a507b4fedecad36de0e3e051ca40b43401ed6c",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Portal de Privacidad | TwilioAn icon of a down chevronAn icon of a checkmarkAn icon of a down chevronAn icon of a checkmarkAn icon of a down chevronAn icon of a down chevronTwilio logoAn icon of a down chevronAn icon of a right chevronAn icon of a right chevronAn icon of a plus symbolAn icon of a mi",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "981",
+      "domain": "twilio.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.twilio.com/pt-br/products/connections/functions",
+      "depth": 5,
+      "parent_url": "https://www.twilio.com/ja-jp/products/connections/functions",
+      "attempt": 39,
+      "timestamp": "2026-11-12T21:13:40.532621+00:00",
+      "final_url": "https://www.twilio.com/pt-br/products/connections/functions",
+      "status": 200,
+      "content_type": "text/html;charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31557600"
+        ]
+      },
+      "body_bytes": 634366,
+      "truncated": false,
+      "body_sha256": "00c3255e09cf6f934a623f8a281b75d4961bce9b614cfa143f63ce5e167afb61",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Crie, implemente e execute l\u00f3gica de dados personalizada com o Segment Functions | TwilioAn icon of a down chevronAn icon of a checkmarkAn icon of a down chevronAn icon of a down chevronTwilio logoAn icon of a down chevronAn icon of a right chevronAn icon of a right chevronAn icon of a plus symbolAn",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "981",
+      "domain": "twilio.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.twilio.com/ja-jp/products/conversational-ai",
+      "depth": 3,
+      "parent_url": "https://www.twilio.com/fr-fr/products/conversational-ai",
+      "attempt": 40,
+      "timestamp": "2026-11-12T21:13:41.723088+00:00",
+      "final_url": "https://www.twilio.com/ja-jp/products/conversational-ai",
+      "status": 200,
+      "content_type": "text/html;charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31557600"
+        ]
+      },
+      "body_bytes": 677878,
+      "truncated": false,
+      "body_sha256": "19c15f87e2fecb737c0660bd500c4640f9b61662410299bda545a1d1212a160e",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Twilio Conversations - \u5bfe\u8a71\u578bAI\u3092\u99c6\u52d5\u3059\u308b\u5f37\u529b\u306a\u30a8\u30f3\u30b8\u30f3 | TwilioAn icon of a down chevronAn icon of a checkmarkAn icon of a down chevronAn icon of a down chevronTwilio logoAn icon of a down chevronAn icon of a right chevronAn icon of a right chevronAn icon of a plus symbolAn icon of a minus symbolTwilio Conversati",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "981",
+      "domain": "twilio.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.twilio.com/docs/conversations/solution-blueprints/human-agent-augmentation",
+      "depth": 3,
+      "parent_url": "https://www.twilio.com/fr-fr/products/conversational-ai",
+      "attempt": 41,
+      "timestamp": "2026-11-12T21:13:42.039317+00:00",
+      "final_url": "https://www.twilio.com/docs/conversations/solution-blueprints/human-agent-augmentation",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 306991,
+      "truncated": false,
+      "body_sha256": "0913153c2573363bdeed4b8def4f2687112e074d7d11e02d39896d459f2c3ec4",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Human agent augmentation solution blueprint | TwilioGo to the Twilio Docs home pageHelp CenterPositive FeedbackNegative Feedbackwhat-you-can-build page anchorPositive FeedbackNegative Feedbackwrap-up-agent-assist page anchorPositive FeedbackNegative Feedbackreal-time-agent-assist page anchorPositive",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "981",
+      "domain": "twilio.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.twilio.com/en-us/blog/developers/tutorials/integrations/ai-twilio-agent-connect-amazon-bedrock-agentcore",
+      "depth": 3,
+      "parent_url": "https://www.twilio.com/fr-fr/products/conversational-ai",
+      "attempt": 42,
+      "timestamp": "2026-11-12T21:13:42.399685+00:00",
+      "final_url": "https://www.twilio.com/en-us/blog/developers/tutorials/integrations/ai-twilio-agent-connect-amazon-bedrock-agentcore",
+      "status": 200,
+      "content_type": "text/html;charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31557600"
+        ]
+      },
+      "body_bytes": 671953,
+      "truncated": false,
+      "body_sha256": "95985d2853304c0de92db8c8ee6db751568ba8f9523468f9f5e7f1dd43ecb078",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Build an Omni-Channel AI Agent with Twilio Agent Connect and Amazon Bedrock AgentCore | TwilioAn icon of a down chevronAn icon of a down chevronTwilio logoAn icon of a down chevronAn icon of a right chevronAn icon of a right chevronAn icon of a plus symbolAn icon of a minus symbolTwilio Conversation",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "981",
+      "domain": "twilio.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.twilio.com/fr-fr/products/connections/reverse-etl",
+      "depth": 5,
+      "parent_url": "https://www.twilio.com/fr-fr/products/privacy-portal",
+      "attempt": 43,
+      "timestamp": "2026-11-12T21:13:42.901502+00:00",
+      "final_url": "https://www.twilio.com/fr-fr/products/connections/reverse-etl",
+      "status": 200,
+      "content_type": "text/html;charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31557600"
+        ]
+      },
+      "body_bytes": 659939,
+      "truncated": false,
+      "body_sha256": "cc2eb80eceb4cedaea99777fee70d398c9cb606a4fef6792cd26beadaba230ec",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Reverse ETL\u00a0: activez les donn\u00e9es de votre Data Warehouse | TwilioAn icon of a down chevronAn icon of a checkmarkAn icon of a down chevronAn icon of a down chevronTwilio logoAn icon of a down chevronAn icon of a right chevronAn icon of a right chevronAn icon of a plus symbolAn icon of a minus symbol",
+      "duplicate_final": false,
+      "eligible": true
+    }
+  ],
+  "robots": [
+    {
+      "url": "https://twilio.com/robots.txt",
+      "timestamp": "2026-11-12T21:13:06.169258+00:00",
+      "status": 200,
+      "decision": "parsed",
+      "final_url": "https://www.twilio.com/robots.txt",
+      "redirect_chain": [
+        {
+          "url": "https://twilio.com/robots.txt",
+          "status": 301,
+          "location": "https://www.twilio.com/robots.txt"
+        }
+      ],
+      "body_sha256": "8a61d4ade19db83d41254c1a0b46f012c604985193e9aceb127a90be39407525",
+      "body": "User-agent: *\n\n#Twilio AI Agent Permissions\nContent-Signal: ai-train=no, search=yes, ai-input=yes\n\nDisallow: /resources/\nDisallow: /azure\nDisallow: /search\nDisallow: /help/search\n\n# 'Allow' - nonstandard REP Directive\nAllow: /docs/libraries/reference/twilio-php/index.html\nAllow: /docs/libraries/reference/twilio-node/index.html\nAllow: /docs/libraries/reference/twilio-java/index.html\nAllow: /docs/libraries/reference/twilio-ruby/index.html\nAllow: /docs/libraries/reference/twilio-python/index.html\nAllow: /docs/libraries/reference/twilio-csharp/index.html\n\nDisallow: /docs/libraries/reference/twilio-php/\nDisallow: /docs/libraries/reference/twilio-node/\nDisallow: /docs/libraries/reference/twilio-java/\nDisallow: /docs/libraries/reference/twilio-ruby/\nDisallow: /docs/libraries/reference/twilio-python/\nDisallow: /docs/libraries/reference/twilio-csharp/\nDisallow: /docs/admin/\nDisallow: /en-us/test\nDisallow: /en-us/personalized-solutions\n\nUser-agent: Swiftbot\nCrawl-delay: 1"
+    },
+    {
+      "url": "https://www.twilio.com/robots.txt",
+      "timestamp": "2026-11-12T21:13:06.685864+00:00",
+      "status": 200,
+      "decision": "parsed",
+      "final_url": "https://www.twilio.com/robots.txt",
+      "redirect_chain": [],
+      "body_sha256": "8a61d4ade19db83d41254c1a0b46f012c604985193e9aceb127a90be39407525",
+      "body": "User-agent: *\n\n#Twilio AI Agent Permissions\nContent-Signal: ai-train=no, search=yes, ai-input=yes\n\nDisallow: /resources/\nDisallow: /azure\nDisallow: /search\nDisallow: /help/search\n\n# 'Allow' - nonstandard REP Directive\nAllow: /docs/libraries/reference/twilio-php/index.html\nAllow: /docs/libraries/reference/twilio-node/index.html\nAllow: /docs/libraries/reference/twilio-java/index.html\nAllow: /docs/libraries/reference/twilio-ruby/index.html\nAllow: /docs/libraries/reference/twilio-python/index.html\nAllow: /docs/libraries/reference/twilio-csharp/index.html\n\nDisallow: /docs/libraries/reference/twilio-php/\nDisallow: /docs/libraries/reference/twilio-node/\nDisallow: /docs/libraries/reference/twilio-java/\nDisallow: /docs/libraries/reference/twilio-ruby/\nDisallow: /docs/libraries/reference/twilio-python/\nDisallow: /docs/libraries/reference/twilio-csharp/\nDisallow: /docs/admin/\nDisallow: /en-us/test\nDisallow: /en-us/personalized-solutions\n\nUser-agent: Swiftbot\nCrawl-delay: 1"
+    }
+  ],
+  "eligible_pages": 40,
+  "canonical_origin": [
+    "https",
+    "www.twilio.com",
+    443
+  ],
+  "stop_reason": "page_budget",
+  "elapsed_seconds": 38.78
+}

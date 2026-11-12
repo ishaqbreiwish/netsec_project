@@ -1,0 +1,57 @@
+{
+  "site": {
+    "rank": "835",
+    "domain": "px-cloud.net",
+    "stratum": "101-1000"
+  },
+  "rows": [
+    {
+      "rank": "835",
+      "domain": "px-cloud.net",
+      "stratum": "101-1000",
+      "requested_url": "https://px-cloud.net/",
+      "depth": 0,
+      "parent_url": "",
+      "attempt": 1,
+      "timestamp": "2026-11-12T21:13:03.616447+00:00",
+      "final_url": "https://px-cloud.net/",
+      "status": 404,
+      "content_type": "text/plain; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 18,
+      "truncated": false,
+      "body_sha256": "8d13e9e92cc81a38caae9b13d3786422782132e1a746ac73cae921e5df6da3be",
+      "redirect_chain": [],
+      "html": false,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    }
+  ],
+  "robots": [
+    {
+      "url": "https://px-cloud.net/robots.txt",
+      "timestamp": "2026-11-12T21:13:03.616431+00:00",
+      "status": 404,
+      "decision": "not_found",
+      "final_url": "https://px-cloud.net/robots.txt",
+      "redirect_chain": [],
+      "body_sha256": "8d13e9e92cc81a38caae9b13d3786422782132e1a746ac73cae921e5df6da3be",
+      "body": "404 Page not found"
+    }
+  ],
+  "eligible_pages": 0,
+  "canonical_origin": [
+    "https",
+    "px-cloud.net",
+    443
+  ],
+  "stop_reason": "frontier_exhausted",
+  "elapsed_seconds": 0.6
+}

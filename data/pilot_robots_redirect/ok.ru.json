@@ -1,0 +1,1477 @@
+{
+  "site": {
+    "rank": "348",
+    "domain": "ok.ru",
+    "stratum": "101-1000"
+  },
+  "rows": [
+    {
+      "rank": "348",
+      "domain": "ok.ru",
+      "stratum": "101-1000",
+      "requested_url": "https://ok.ru/",
+      "depth": 0,
+      "parent_url": "",
+      "attempt": 1,
+      "timestamp": "2026-11-12T21:07:22.849653+00:00",
+      "final_url": "https://ok.ru/",
+      "status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src data: 'self' 'unsafe-inline' 'unsafe-eval' ok.ru *.ok.ru odnoklassniki.ru *.odnoklassniki.ru okcdn.ru https://*.okcdn.ru mycdn.me https://*.mycdn.me https://st-ok.cdn-vk.ru https://st-ok-pts.cdn-vk.ru wss://ad.mail.ru *.mail.ru *.imgsmail.ru *.mradx.net *.googleapis.com https://api-maps.yandex.ru yastatic.net yandex.st https://cdn.consentmanager.net https://football.sportmail.ru *.yandex.ru static.dzeninfra.ru connect.ok.ru https://connect.ok.ru *.odkl.ru https://*.odkl.ru blob:;  script-src 'unsafe-inline' 'unsafe-eval' *.mail.ru https://*.mail.ru *.imgsmail.ru *.mradx.net ok.ru *.ok.ru odnoklassniki.ru *.odnoklassniki.ru okcdn.ru https://*.okcdn.ru https://st-ok.cdn-vk.ru https://st-ok-pts.cdn-vk.ru mycdn.me https://*.mycdn.me mc.yandex.ru an.yandex.ru yastatic.net yandex.st *.google-analytics.com api-maps.yandex.ru https://api-maps.yandex.ru *.googleapis.com www.youtube.com https://www.youtube.com *.ytimg.com https://*.ytimg.com *.adlooxtracking.com *.adlooxtracking.ru *.weborama.fr *.weborama-tech.ru https://enterprise.api-maps.yandex.ru https://*.consentmanager.net https://football.sportmail.ru *.googletagmanager.com yandex.ru static.dzeninfra.ru *.odkl.ru https://*.odkl.ru appleid.cdn-apple.com;  worker-src blob: 'self';  connect-src * wss: blob: data:;  font-src * data: blob:; frame-src * blob: 'self';  img-src * data: blob: about:;  media-src * data: blob:;  object-src *;  report-uri /csp/report;"
+        ],
+        "content-security-policy-report-only": [
+          "default-src data: blob: about: 'self' 'unsafe-inline' 'unsafe-eval' https: wss:; report-uri /csp/report?always;"
+        ],
+        "strict-transport-security": [
+          "max-age=63072000;includeSubdomains;preload"
+        ]
+      },
+      "body_bytes": 292563,
+      "truncated": false,
+      "body_sha256": "624e9fdefaaf25cad0d832a6c36b724690f057f27402c0734c9ee2985f12d76c",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "\u0421\u043e\u0446\u0438\u0430\u043b\u044c\u043d\u0430\u044f \u0441\u0435\u0442\u044c \u041e\u0434\u043d\u043e\u043a\u043b\u0430\u0441\u0441\u043d\u0438\u043a\u0438. \u041e\u0431\u0449\u0435\u043d\u0438\u0435 \u0441 \u0434\u0440\u0443\u0437\u044c\u044f\u043c\u0438 \u0432 \u041e\u041a. \u0412\u0430\u0448\u0435 \u043c\u0435\u0441\u0442\u043e \u0432\u0441\u0442\u0440\u0435\u0447\u0438 \u0441 \u043e\u0434\u043d\u043e\u043a\u043b\u0430\u0441\u0441\u043d\u0438\u043a\u0430\u043c\u0438",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "348",
+      "domain": "ok.ru",
+      "stratum": "101-1000",
+      "requested_url": "https://ok.ru/discovery",
+      "depth": 1,
+      "parent_url": "https://ok.ru/",
+      "attempt": 2,
+      "timestamp": "2026-11-12T21:07:24.170234+00:00",
+      "final_url": "https://ok.ru/discovery",
+      "status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src data: 'self' 'unsafe-inline' 'unsafe-eval' ok.ru *.ok.ru odnoklassniki.ru *.odnoklassniki.ru okcdn.ru https://*.okcdn.ru mycdn.me https://*.mycdn.me https://st-ok.cdn-vk.ru https://st-ok-pts.cdn-vk.ru wss://ad.mail.ru *.mail.ru *.imgsmail.ru *.mradx.net *.googleapis.com https://api-maps.yandex.ru yastatic.net yandex.st https://cdn.consentmanager.net https://football.sportmail.ru *.yandex.ru static.dzeninfra.ru connect.ok.ru https://connect.ok.ru *.odkl.ru https://*.odkl.ru blob:;  script-src 'unsafe-inline' 'unsafe-eval' *.mail.ru https://*.mail.ru *.imgsmail.ru *.mradx.net ok.ru *.ok.ru odnoklassniki.ru *.odnoklassniki.ru okcdn.ru https://*.okcdn.ru https://st-ok.cdn-vk.ru https://st-ok-pts.cdn-vk.ru mycdn.me https://*.mycdn.me mc.yandex.ru an.yandex.ru yastatic.net yandex.st *.google-analytics.com api-maps.yandex.ru https://api-maps.yandex.ru *.googleapis.com www.youtube.com https://www.youtube.com *.ytimg.com https://*.ytimg.com *.adlooxtracking.com *.adlooxtracking.ru *.weborama.fr *.weborama-tech.ru https://enterprise.api-maps.yandex.ru https://*.consentmanager.net https://football.sportmail.ru *.googletagmanager.com yandex.ru static.dzeninfra.ru *.odkl.ru https://*.odkl.ru appleid.cdn-apple.com;  worker-src blob: 'self';  connect-src * wss: blob: data:;  font-src * data: blob:; frame-src * blob: 'self';  img-src * data: blob: about:;  media-src * data: blob:;  object-src *;  report-uri /csp/report;"
+        ],
+        "content-security-policy-report-only": [
+          "default-src data: blob: about: 'self' 'unsafe-inline' 'unsafe-eval' https: wss:; report-uri /csp/report?always;"
+        ],
+        "strict-transport-security": [
+          "max-age=63072000;includeSubdomains;preload"
+        ]
+      },
+      "body_bytes": 337130,
+      "truncated": false,
+      "body_sha256": "e8ab3ef5357931645c2d34e065576700ace0234146bb971c342a746f0a01b6b9",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "\u0420\u0435\u043a\u043e\u043c\u0435\u043d\u0434\u0430\u0446\u0438\u0438 \u0432 \u041e\u041a \u2014 \u0438\u043d\u0442\u0435\u0440\u0435\u0441\u043d\u044b\u0435 \u0441\u0442\u0430\u0442\u044c\u0438, \u0432\u0438\u0434\u0435\u043e \u0438 \u0433\u0440\u0443\u043f\u043f\u044b \u043f\u043e \u0432\u0430\u0448\u0438\u043c \u0438\u043d\u0442\u0435\u0440\u0435\u0441\u0430\u043c \u043d\u0430 ok.ru",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "348",
+      "domain": "ok.ru",
+      "stratum": "101-1000",
+      "requested_url": "https://ok.ru/themes/politics",
+      "depth": 2,
+      "parent_url": "https://ok.ru/discovery",
+      "attempt": 3,
+      "timestamp": "2026-11-12T21:07:25.744135+00:00",
+      "final_url": "https://ok.ru/themes/politics",
+      "status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src data: 'self' 'unsafe-inline' 'unsafe-eval' ok.ru *.ok.ru odnoklassniki.ru *.odnoklassniki.ru okcdn.ru https://*.okcdn.ru mycdn.me https://*.mycdn.me https://st-ok.cdn-vk.ru https://st-ok-pts.cdn-vk.ru wss://ad.mail.ru *.mail.ru *.imgsmail.ru *.mradx.net *.googleapis.com https://api-maps.yandex.ru yastatic.net yandex.st https://cdn.consentmanager.net https://football.sportmail.ru *.yandex.ru static.dzeninfra.ru connect.ok.ru https://connect.ok.ru *.odkl.ru https://*.odkl.ru blob:;  script-src 'unsafe-inline' 'unsafe-eval' *.mail.ru https://*.mail.ru *.imgsmail.ru *.mradx.net ok.ru *.ok.ru odnoklassniki.ru *.odnoklassniki.ru okcdn.ru https://*.okcdn.ru https://st-ok.cdn-vk.ru https://st-ok-pts.cdn-vk.ru mycdn.me https://*.mycdn.me mc.yandex.ru an.yandex.ru yastatic.net yandex.st *.google-analytics.com api-maps.yandex.ru https://api-maps.yandex.ru *.googleapis.com www.youtube.com https://www.youtube.com *.ytimg.com https://*.ytimg.com *.adlooxtracking.com *.adlooxtracking.ru *.weborama.fr *.weborama-tech.ru https://enterprise.api-maps.yandex.ru https://*.consentmanager.net https://football.sportmail.ru *.googletagmanager.com yandex.ru static.dzeninfra.ru *.odkl.ru https://*.odkl.ru appleid.cdn-apple.com;  worker-src blob: 'self';  connect-src * wss: blob: data:;  font-src * data: blob:; frame-src * blob: 'self';  img-src * data: blob: about:;  media-src * data: blob:;  object-src *;  report-uri /csp/report;"
+        ],
+        "content-security-policy-report-only": [
+          "default-src data: blob: about: 'self' 'unsafe-inline' 'unsafe-eval' https: wss:; report-uri /csp/report?always;"
+        ],
+        "strict-transport-security": [
+          "max-age=63072000;includeSubdomains;preload"
+        ]
+      },
+      "body_bytes": 962966,
+      "truncated": false,
+      "body_sha256": "a51973de8eaa78f28a0fcc4bbe0a980d63847b656e4fd073c6d531c7b4e62dd0",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "\u041e\u0431\u0441\u0443\u0436\u0434\u0435\u043d\u0438\u0435 \u043f\u043e\u043b\u0438\u0442\u0438\u043a\u0438: \u0432\u0441\u0435 \u0442\u043e\u0447\u043a\u0438 \u0437\u0440\u0435\u043d\u0438\u044f \u0438 \u0433\u043b\u0430\u0432\u043d\u044b\u0435 \u0441\u043e\u0431\u044b\u0442\u0438\u044f \u043d\u0430 ok.ru",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "348",
+      "domain": "ok.ru",
+      "stratum": "101-1000",
+      "requested_url": "https://ok.ru/group/62453738176717/topic/158913827695565",
+      "depth": 3,
+      "parent_url": "https://ok.ru/themes/politics",
+      "attempt": 4,
+      "timestamp": "2026-11-12T21:07:30.996271+00:00",
+      "final_url": "https://ok.ru/group/62453738176717/topic/158913827695565",
+      "status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src data: 'self' 'unsafe-inline' 'unsafe-eval' ok.ru *.ok.ru odnoklassniki.ru *.odnoklassniki.ru okcdn.ru https://*.okcdn.ru mycdn.me https://*.mycdn.me https://st-ok.cdn-vk.ru https://st-ok-pts.cdn-vk.ru wss://ad.mail.ru *.mail.ru *.imgsmail.ru *.mradx.net *.googleapis.com https://api-maps.yandex.ru yastatic.net yandex.st https://cdn.consentmanager.net https://football.sportmail.ru *.yandex.ru static.dzeninfra.ru connect.ok.ru https://connect.ok.ru *.odkl.ru https://*.odkl.ru blob:;  script-src 'unsafe-inline' 'unsafe-eval' *.mail.ru https://*.mail.ru *.imgsmail.ru *.mradx.net ok.ru *.ok.ru odnoklassniki.ru *.odnoklassniki.ru okcdn.ru https://*.okcdn.ru https://st-ok.cdn-vk.ru https://st-ok-pts.cdn-vk.ru mycdn.me https://*.mycdn.me mc.yandex.ru an.yandex.ru yastatic.net yandex.st *.google-analytics.com api-maps.yandex.ru https://api-maps.yandex.ru *.googleapis.com www.youtube.com https://www.youtube.com *.ytimg.com https://*.ytimg.com *.adlooxtracking.com *.adlooxtracking.ru *.weborama.fr *.weborama-tech.ru https://enterprise.api-maps.yandex.ru https://*.consentmanager.net https://football.sportmail.ru *.googletagmanager.com yandex.ru static.dzeninfra.ru *.odkl.ru https://*.odkl.ru appleid.cdn-apple.com;  worker-src blob: 'self';  connect-src * wss: blob: data:;  font-src * data: blob:; frame-src * blob: 'self';  img-src * data: blob: about:;  media-src * data: blob:;  object-src *;  report-uri /csp/report;"
+        ],
+        "content-security-policy-report-only": [
+          "default-src data: blob: about: 'self' 'unsafe-inline' 'unsafe-eval' https: wss:; report-uri /csp/report?always;"
+        ],
+        "strict-transport-security": [
+          "max-age=63072000;includeSubdomains;preload"
+        ]
+      },
+      "body_bytes": 282651,
+      "truncated": false,
+      "body_sha256": "01f8e3e951f8501b789abd2f426ecc4776d327279592578dc63aff9e98d3575b",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "\u0412 \u041c\u043e\u0441\u043a\u0432\u0435 \u043f\u0440\u043e\u0448\u043b\u0438 \u043f\u0435\u0440\u0435\u0433\u043e\u0432\u043e\u0440\u044b \u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440\u0430 \u041f\u0443\u0442\u0438\u043d\u0430 \u0441\u043e \u0421\u0442\u0438\u0432\u043e\u043c \u0423\u0438\u0442\u043a\u043e\u0444\u0444\u043e\u043c \u0438 \u0414\u0436\u0430\u0440\u0435\u0434\u043e\u043c \u041a\u0443\u0448\u043d\u0435\u0440\u043e\u043c. | \u0418\u043d\u0442\u0435\u0440\u0435\u0441\u043d\u044b\u0439 \u043a\u043e\u043d\u0442\u0435\u043d\u0442 \u0432 \u0433\u0440\u0443\u043f\u043f\u0435 \u0421\u041e\u041b\u041e\u0412\u042c\u0401\u0412 LIVE \u0432 \u041e\u041a (\u041e\u0434\u043d\u043e\u043a\u043b\u0430\u0441\u0441\u043d\u0438\u043a\u0438)",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "348",
+      "domain": "ok.ru",
+      "stratum": "101-1000",
+      "requested_url": "https://ok.ru/solovievlive/members",
+      "depth": 4,
+      "parent_url": "https://ok.ru/group/62453738176717/topic/158913827695565",
+      "attempt": 5,
+      "timestamp": "2026-11-12T21:07:32.413399+00:00",
+      "final_url": "https://ok.ru/solovievlive/members",
+      "status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src data: 'self' 'unsafe-inline' 'unsafe-eval' ok.ru *.ok.ru odnoklassniki.ru *.odnoklassniki.ru okcdn.ru https://*.okcdn.ru mycdn.me https://*.mycdn.me https://st-ok.cdn-vk.ru https://st-ok-pts.cdn-vk.ru wss://ad.mail.ru *.mail.ru *.imgsmail.ru *.mradx.net *.googleapis.com https://api-maps.yandex.ru yastatic.net yandex.st https://cdn.consentmanager.net https://football.sportmail.ru *.yandex.ru static.dzeninfra.ru connect.ok.ru https://connect.ok.ru *.odkl.ru https://*.odkl.ru blob:;  script-src 'unsafe-inline' 'unsafe-eval' *.mail.ru https://*.mail.ru *.imgsmail.ru *.mradx.net ok.ru *.ok.ru odnoklassniki.ru *.odnoklassniki.ru okcdn.ru https://*.okcdn.ru https://st-ok.cdn-vk.ru https://st-ok-pts.cdn-vk.ru mycdn.me https://*.mycdn.me mc.yandex.ru an.yandex.ru yastatic.net yandex.st *.google-analytics.com api-maps.yandex.ru https://api-maps.yandex.ru *.googleapis.com www.youtube.com https://www.youtube.com *.ytimg.com https://*.ytimg.com *.adlooxtracking.com *.adlooxtracking.ru *.weborama.fr *.weborama-tech.ru https://enterprise.api-maps.yandex.ru https://*.consentmanager.net https://football.sportmail.ru *.googletagmanager.com yandex.ru static.dzeninfra.ru *.odkl.ru https://*.odkl.ru appleid.cdn-apple.com;  worker-src blob: 'self';  connect-src * wss: blob: data:;  font-src * data: blob:; frame-src * blob: 'self';  img-src * data: blob: about:;  media-src * data: blob:;  object-src *;  report-uri /csp/report;"
+        ],
+        "content-security-policy-report-only": [
+          "default-src data: blob: about: 'self' 'unsafe-inline' 'unsafe-eval' https: wss:; report-uri /csp/report?always;"
+        ],
+        "strict-transport-security": [
+          "max-age=63072000;includeSubdomains;preload"
+        ]
+      },
+      "body_bytes": 468316,
+      "truncated": false,
+      "body_sha256": "fca805ec01eec2ac1eb564c34cfbbcaf986f3c4018ea70ad0aabb7af2683903c",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "\u0421\u041e\u041b\u041e\u0412\u042c\u0401\u0412 LIVE \u2014 \u0423\u0447\u0430\u0441\u0442\u043d\u0438\u043a\u0438 | OK.RU",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "348",
+      "domain": "ok.ru",
+      "stratum": "101-1000",
+      "requested_url": "https://ok.ru/cookiepolicy",
+      "depth": 1,
+      "parent_url": "https://ok.ru/",
+      "attempt": 6,
+      "timestamp": "2026-11-12T21:07:34.414880+00:00",
+      "final_url": "https://ok.ru/cookiepolicy",
+      "status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src data: 'self' 'unsafe-inline' 'unsafe-eval' ok.ru *.ok.ru odnoklassniki.ru *.odnoklassniki.ru okcdn.ru https://*.okcdn.ru mycdn.me https://*.mycdn.me https://st-ok.cdn-vk.ru https://st-ok-pts.cdn-vk.ru wss://ad.mail.ru *.mail.ru *.imgsmail.ru *.mradx.net *.googleapis.com https://api-maps.yandex.ru yastatic.net yandex.st https://cdn.consentmanager.net https://football.sportmail.ru *.yandex.ru static.dzeninfra.ru connect.ok.ru https://connect.ok.ru *.odkl.ru https://*.odkl.ru blob:;  script-src 'unsafe-inline' 'unsafe-eval' *.mail.ru https://*.mail.ru *.imgsmail.ru *.mradx.net ok.ru *.ok.ru odnoklassniki.ru *.odnoklassniki.ru okcdn.ru https://*.okcdn.ru https://st-ok.cdn-vk.ru https://st-ok-pts.cdn-vk.ru mycdn.me https://*.mycdn.me mc.yandex.ru an.yandex.ru yastatic.net yandex.st *.google-analytics.com api-maps.yandex.ru https://api-maps.yandex.ru *.googleapis.com www.youtube.com https://www.youtube.com *.ytimg.com https://*.ytimg.com *.adlooxtracking.com *.adlooxtracking.ru *.weborama.fr *.weborama-tech.ru https://enterprise.api-maps.yandex.ru https://*.consentmanager.net https://football.sportmail.ru *.googletagmanager.com yandex.ru static.dzeninfra.ru *.odkl.ru https://*.odkl.ru appleid.cdn-apple.com;  worker-src blob: 'self';  connect-src * wss: blob: data:;  font-src * data: blob:; frame-src * blob: 'self';  img-src * data: blob: about:;  media-src * data: blob:;  object-src *;  report-uri /csp/report;"
+        ],
+        "content-security-policy-report-only": [
+          "default-src data: blob: about: 'self' 'unsafe-inline' 'unsafe-eval' https: wss:; report-uri /csp/report?always;"
+        ],
+        "strict-transport-security": [
+          "max-age=63072000;includeSubdomains;preload"
+        ]
+      },
+      "body_bytes": 203011,
+      "truncated": false,
+      "body_sha256": "4877a586a96089d9b85daa5c894b7657d0818d21c5f9265bec2e654407ecb914",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "\u041e\u0434\u043d\u043e\u043a\u043b\u0430\u0441\u0441\u043d\u0438\u043a\u0438",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "348",
+      "domain": "ok.ru",
+      "stratum": "101-1000",
+      "requested_url": "https://ok.ru/lifenews",
+      "depth": 3,
+      "parent_url": "https://ok.ru/themes/politics",
+      "attempt": 7,
+      "timestamp": "2026-11-12T21:07:39.645008+00:00",
+      "final_url": "https://ok.ru/lifenews",
+      "status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src data: 'self' 'unsafe-inline' 'unsafe-eval' ok.ru *.ok.ru odnoklassniki.ru *.odnoklassniki.ru okcdn.ru https://*.okcdn.ru mycdn.me https://*.mycdn.me https://st-ok.cdn-vk.ru https://st-ok-pts.cdn-vk.ru wss://ad.mail.ru *.mail.ru *.imgsmail.ru *.mradx.net *.googleapis.com https://api-maps.yandex.ru yastatic.net yandex.st https://cdn.consentmanager.net https://football.sportmail.ru *.yandex.ru static.dzeninfra.ru connect.ok.ru https://connect.ok.ru *.odkl.ru https://*.odkl.ru blob:;  script-src 'unsafe-inline' 'unsafe-eval' *.mail.ru https://*.mail.ru *.imgsmail.ru *.mradx.net ok.ru *.ok.ru odnoklassniki.ru *.odnoklassniki.ru okcdn.ru https://*.okcdn.ru https://st-ok.cdn-vk.ru https://st-ok-pts.cdn-vk.ru mycdn.me https://*.mycdn.me mc.yandex.ru an.yandex.ru yastatic.net yandex.st *.google-analytics.com api-maps.yandex.ru https://api-maps.yandex.ru *.googleapis.com www.youtube.com https://www.youtube.com *.ytimg.com https://*.ytimg.com *.adlooxtracking.com *.adlooxtracking.ru *.weborama.fr *.weborama-tech.ru https://enterprise.api-maps.yandex.ru https://*.consentmanager.net https://football.sportmail.ru *.googletagmanager.com yandex.ru static.dzeninfra.ru *.odkl.ru https://*.odkl.ru appleid.cdn-apple.com;  worker-src blob: 'self';  connect-src * wss: blob: data:;  font-src * data: blob:; frame-src * blob: 'self';  img-src * data: blob: about:;  media-src * data: blob:;  object-src *;  report-uri /csp/report;"
+        ],
+        "content-security-policy-report-only": [
+          "default-src data: blob: about: 'self' 'unsafe-inline' 'unsafe-eval' https: wss:; report-uri /csp/report?always;"
+        ],
+        "strict-transport-security": [
+          "max-age=63072000;includeSubdomains;preload"
+        ]
+      },
+      "body_bytes": 602924,
+      "truncated": false,
+      "body_sha256": "2878c63393dfad0021af040a2cc6a1c0943299e96077de122372beafddb1da72",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "LIFE.ru | \u0413\u0440\u0443\u043f\u043f\u0430 \u043d\u0430 OK.ru | \u0412\u0441\u0442\u0443\u043f\u0430\u0439, \u0447\u0438\u0442\u0430\u0439, \u043e\u0431\u0449\u0430\u0439\u0441\u044f \u0432 \u041e\u0434\u043d\u043e\u043a\u043b\u0430\u0441\u0441\u043d\u0438\u043a\u0430\u0445!",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "348",
+      "domain": "ok.ru",
+      "stratum": "101-1000",
+      "requested_url": "https://ok.ru/null",
+      "depth": 1,
+      "parent_url": "https://ok.ru/",
+      "attempt": 8,
+      "timestamp": "2026-11-12T21:07:41.231159+00:00",
+      "final_url": "https://ok.ru/null",
+      "status": 404,
+      "content_type": "",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 36054,
+      "truncated": false,
+      "body_sha256": "6d79105acaec212075d0688c1a1360b9f8c83a6bc06d89d5abd77222673c4449",
+      "redirect_chain": [],
+      "html": false,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "348",
+      "domain": "ok.ru",
+      "stratum": "101-1000",
+      "requested_url": "https://ok.ru/dzen/article/avXDe7LU2Bb_K-mL",
+      "depth": 3,
+      "parent_url": "https://ok.ru/themes/politics",
+      "attempt": 9,
+      "timestamp": "2026-11-12T21:07:41.996681+00:00",
+      "final_url": "https://ok.ru/dzen/article/avXDe7LU2Bb_K-mL",
+      "status": 404,
+      "content_type": "",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 36054,
+      "truncated": false,
+      "body_sha256": "198847b0f63df6b563c85221680616c9ce0f2550782e2dfdfb493d89b79f0cdf",
+      "redirect_chain": [],
+      "html": false,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "348",
+      "domain": "ok.ru",
+      "stratum": "101-1000",
+      "requested_url": "https://ok.ru/video",
+      "depth": 1,
+      "parent_url": "https://ok.ru/",
+      "attempt": 10,
+      "timestamp": "2026-11-12T21:07:42.788993+00:00",
+      "final_url": "https://ok.ru/video",
+      "status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src data: 'self' 'unsafe-inline' 'unsafe-eval' ok.ru *.ok.ru odnoklassniki.ru *.odnoklassniki.ru okcdn.ru https://*.okcdn.ru mycdn.me https://*.mycdn.me https://st-ok.cdn-vk.ru https://st-ok-pts.cdn-vk.ru wss://ad.mail.ru *.mail.ru *.imgsmail.ru *.mradx.net *.googleapis.com https://api-maps.yandex.ru yastatic.net yandex.st https://cdn.consentmanager.net https://football.sportmail.ru *.yandex.ru static.dzeninfra.ru connect.ok.ru https://connect.ok.ru *.odkl.ru https://*.odkl.ru blob:;  script-src 'unsafe-inline' 'unsafe-eval' *.mail.ru https://*.mail.ru *.imgsmail.ru *.mradx.net ok.ru *.ok.ru odnoklassniki.ru *.odnoklassniki.ru okcdn.ru https://*.okcdn.ru https://st-ok.cdn-vk.ru https://st-ok-pts.cdn-vk.ru mycdn.me https://*.mycdn.me mc.yandex.ru an.yandex.ru yastatic.net yandex.st *.google-analytics.com api-maps.yandex.ru https://api-maps.yandex.ru *.googleapis.com www.youtube.com https://www.youtube.com *.ytimg.com https://*.ytimg.com *.adlooxtracking.com *.adlooxtracking.ru *.weborama.fr *.weborama-tech.ru https://enterprise.api-maps.yandex.ru https://*.consentmanager.net https://football.sportmail.ru *.googletagmanager.com yandex.ru static.dzeninfra.ru *.odkl.ru https://*.odkl.ru appleid.cdn-apple.com;  worker-src blob: 'self';  connect-src * wss: blob: data:;  font-src * data: blob:; frame-src * blob: 'self';  img-src * data: blob: about:;  media-src * data: blob:;  object-src *;  report-uri /csp/report;"
+        ],
+        "content-security-policy-report-only": [
+          "default-src data: blob: about: 'self' 'unsafe-inline' 'unsafe-eval' https: wss:; report-uri /csp/report?always;"
+        ],
+        "strict-transport-security": [
+          "max-age=63072000;includeSubdomains;preload"
+        ]
+      },
+      "body_bytes": 490027,
+      "truncated": false,
+      "body_sha256": "7ee805bb37613ce5ea3d1701bbe16da19cb7c6f08f1c1408384a80fe5fedead6",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "\u0421\u043e\u0446\u0438\u0430\u043b\u044c\u043d\u0430\u044f \u0441\u0435\u0442\u044c \u041e\u0434\u043d\u043e\u043a\u043b\u0430\u0441\u0441\u043d\u0438\u043a\u0438. \u041e\u0431\u0449\u0435\u043d\u0438\u0435 \u0441 \u0434\u0440\u0443\u0437\u044c\u044f\u043c\u0438 \u0432 \u041e\u041a. \u0412\u0430\u0448\u0435 \u043c\u0435\u0441\u0442\u043e \u0432\u0441\u0442\u0440\u0435\u0447\u0438 \u0441 \u043e\u0434\u043d\u043e\u043a\u043b\u0430\u0441\u0441\u043d\u0438\u043a\u0430\u043c\u0438",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "348",
+      "domain": "ok.ru",
+      "stratum": "101-1000",
+      "requested_url": "https://ok.ru/olegtsarov",
+      "depth": 3,
+      "parent_url": "https://ok.ru/themes/politics",
+      "attempt": 11,
+      "timestamp": "2026-11-12T21:07:44.261519+00:00",
+      "final_url": "https://ok.ru/olegtsarov",
+      "status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src data: 'self' 'unsafe-inline' 'unsafe-eval' ok.ru *.ok.ru odnoklassniki.ru *.odnoklassniki.ru okcdn.ru https://*.okcdn.ru mycdn.me https://*.mycdn.me https://st-ok.cdn-vk.ru https://st-ok-pts.cdn-vk.ru wss://ad.mail.ru *.mail.ru *.imgsmail.ru *.mradx.net *.googleapis.com https://api-maps.yandex.ru yastatic.net yandex.st https://cdn.consentmanager.net https://football.sportmail.ru *.yandex.ru static.dzeninfra.ru connect.ok.ru https://connect.ok.ru *.odkl.ru https://*.odkl.ru blob:;  script-src 'unsafe-inline' 'unsafe-eval' *.mail.ru https://*.mail.ru *.imgsmail.ru *.mradx.net ok.ru *.ok.ru odnoklassniki.ru *.odnoklassniki.ru okcdn.ru https://*.okcdn.ru https://st-ok.cdn-vk.ru https://st-ok-pts.cdn-vk.ru mycdn.me https://*.mycdn.me mc.yandex.ru an.yandex.ru yastatic.net yandex.st *.google-analytics.com api-maps.yandex.ru https://api-maps.yandex.ru *.googleapis.com www.youtube.com https://www.youtube.com *.ytimg.com https://*.ytimg.com *.adlooxtracking.com *.adlooxtracking.ru *.weborama.fr *.weborama-tech.ru https://enterprise.api-maps.yandex.ru https://*.consentmanager.net https://football.sportmail.ru *.googletagmanager.com yandex.ru static.dzeninfra.ru *.odkl.ru https://*.odkl.ru appleid.cdn-apple.com;  worker-src blob: 'self';  connect-src * wss: blob: data:;  font-src * data: blob:; frame-src * blob: 'self';  img-src * data: blob: about:;  media-src * data: blob:;  object-src *;  report-uri /csp/report;"
+        ],
+        "content-security-policy-report-only": [
+          "default-src data: blob: about: 'self' 'unsafe-inline' 'unsafe-eval' https: wss:; report-uri /csp/report?always;"
+        ],
+        "strict-transport-security": [
+          "max-age=63072000;includeSubdomains;preload"
+        ]
+      },
+      "body_bytes": 529159,
+      "truncated": false,
+      "body_sha256": "a302685d2f8a194c1d95220d75fd9895c72dc1f7a74f95f31bf89f347c4a4921",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "\u041e\u043b\u0435\u0433 \u0426\u0430\u0440\u0451\u0432: \"\u0412\u043c\u0435\u0441\u0442\u0435 - \u043c\u044b \u0441\u0438\u043b\u0430!\" | \u0413\u0440\u0443\u043f\u043f\u0430 \u043d\u0430 OK.ru | \u0412\u0441\u0442\u0443\u043f\u0430\u0439, \u0447\u0438\u0442\u0430\u0439, \u043e\u0431\u0449\u0430\u0439\u0441\u044f \u0432 \u041e\u0434\u043d\u043e\u043a\u043b\u0430\u0441\u0441\u043d\u0438\u043a\u0430\u0445!",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "348",
+      "domain": "ok.ru",
+      "stratum": "101-1000",
+      "requested_url": "https://ok.ru/groups",
+      "depth": 1,
+      "parent_url": "https://ok.ru/",
+      "attempt": 12,
+      "timestamp": "2026-11-12T21:07:46.349126+00:00",
+      "final_url": "https://ok.ru/groups",
+      "status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src data: 'self' 'unsafe-inline' 'unsafe-eval' ok.ru *.ok.ru odnoklassniki.ru *.odnoklassniki.ru okcdn.ru https://*.okcdn.ru mycdn.me https://*.mycdn.me https://st-ok.cdn-vk.ru https://st-ok-pts.cdn-vk.ru wss://ad.mail.ru *.mail.ru *.imgsmail.ru *.mradx.net *.googleapis.com https://api-maps.yandex.ru yastatic.net yandex.st https://cdn.consentmanager.net https://football.sportmail.ru *.yandex.ru static.dzeninfra.ru connect.ok.ru https://connect.ok.ru *.odkl.ru https://*.odkl.ru blob:;  script-src 'unsafe-inline' 'unsafe-eval' *.mail.ru https://*.mail.ru *.imgsmail.ru *.mradx.net ok.ru *.ok.ru odnoklassniki.ru *.odnoklassniki.ru okcdn.ru https://*.okcdn.ru https://st-ok.cdn-vk.ru https://st-ok-pts.cdn-vk.ru mycdn.me https://*.mycdn.me mc.yandex.ru an.yandex.ru yastatic.net yandex.st *.google-analytics.com api-maps.yandex.ru https://api-maps.yandex.ru *.googleapis.com www.youtube.com https://www.youtube.com *.ytimg.com https://*.ytimg.com *.adlooxtracking.com *.adlooxtracking.ru *.weborama.fr *.weborama-tech.ru https://enterprise.api-maps.yandex.ru https://*.consentmanager.net https://football.sportmail.ru *.googletagmanager.com yandex.ru static.dzeninfra.ru *.odkl.ru https://*.odkl.ru appleid.cdn-apple.com;  worker-src blob: 'self';  connect-src * wss: blob: data:;  font-src * data: blob:; frame-src * blob: 'self';  img-src * data: blob: about:;  media-src * data: blob:;  object-src *;  report-uri /csp/report;"
+        ],
+        "content-security-policy-report-only": [
+          "default-src data: blob: about: 'self' 'unsafe-inline' 'unsafe-eval' https: wss:; report-uri /csp/report?always;"
+        ],
+        "strict-transport-security": [
+          "max-age=63072000;includeSubdomains;preload"
+        ]
+      },
+      "body_bytes": 339787,
+      "truncated": false,
+      "body_sha256": "1eb227fb05604f35a649a3fff3c24b7d8ac8c18f3d85113a362c6e680393a90c",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "\u0413\u0440\u0443\u043f\u043f\u044b \u0432 \u041e\u0434\u043d\u043e\u043a\u043b\u0430\u0441\u0441\u043d\u0438\u043a\u0430\u0445, \u043d\u0430\u0439\u0434\u0438 \u043b\u0443\u0447\u0448\u0438\u0435 \u0433\u0440\u0443\u043f\u043f\u044b \u043f\u043e \u0438\u043d\u0442\u0435\u0440\u0435\u0441\u0430\u043c \u0432 \u041e\u041a. \u041e\u0431\u0449\u0435\u043d\u0438\u0435 \u0441 \u0434\u0440\u0443\u0437\u044c\u044f\u043c\u0438 \u0432 \u0433\u0440\u0443\u043f\u043f\u0430\u0445 \u0432 \u041e\u041a.",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "348",
+      "domain": "ok.ru",
+      "stratum": "101-1000",
+      "requested_url": "https://ok.ru/bbcrussian",
+      "depth": 2,
+      "parent_url": "https://ok.ru/groups",
+      "attempt": 13,
+      "timestamp": "2026-11-12T21:07:48.355342+00:00",
+      "final_url": "https://ok.ru/bbcrussian",
+      "status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src data: 'self' 'unsafe-inline' 'unsafe-eval' ok.ru *.ok.ru odnoklassniki.ru *.odnoklassniki.ru okcdn.ru https://*.okcdn.ru mycdn.me https://*.mycdn.me https://st-ok.cdn-vk.ru https://st-ok-pts.cdn-vk.ru wss://ad.mail.ru *.mail.ru *.imgsmail.ru *.mradx.net *.googleapis.com https://api-maps.yandex.ru yastatic.net yandex.st https://cdn.consentmanager.net https://football.sportmail.ru *.yandex.ru static.dzeninfra.ru connect.ok.ru https://connect.ok.ru *.odkl.ru https://*.odkl.ru blob:;  script-src 'unsafe-inline' 'unsafe-eval' *.mail.ru https://*.mail.ru *.imgsmail.ru *.mradx.net ok.ru *.ok.ru odnoklassniki.ru *.odnoklassniki.ru okcdn.ru https://*.okcdn.ru https://st-ok.cdn-vk.ru https://st-ok-pts.cdn-vk.ru mycdn.me https://*.mycdn.me mc.yandex.ru an.yandex.ru yastatic.net yandex.st *.google-analytics.com api-maps.yandex.ru https://api-maps.yandex.ru *.googleapis.com www.youtube.com https://www.youtube.com *.ytimg.com https://*.ytimg.com *.adlooxtracking.com *.adlooxtracking.ru *.weborama.fr *.weborama-tech.ru https://enterprise.api-maps.yandex.ru https://*.consentmanager.net https://football.sportmail.ru *.googletagmanager.com yandex.ru static.dzeninfra.ru *.odkl.ru https://*.odkl.ru appleid.cdn-apple.com;  worker-src blob: 'self';  connect-src * wss: blob: data:;  font-src * data: blob:; frame-src * blob: 'self';  img-src * data: blob: about:;  media-src * data: blob:;  object-src *;  report-uri /csp/report;"
+        ],
+        "content-security-policy-report-only": [
+          "default-src data: blob: about: 'self' 'unsafe-inline' 'unsafe-eval' https: wss:; report-uri /csp/report?always;"
+        ],
+        "strict-transport-security": [
+          "max-age=63072000;includeSubdomains;preload"
+        ]
+      },
+      "body_bytes": 578052,
+      "truncated": false,
+      "body_sha256": "f8c4aac35939460ae7db9b297c7c48936670321c9efdb0f3988faa5526c7e60b",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "BBC News Russian - \u0420\u0443\u0441\u0441\u043a\u0430\u044f \u0441\u043b\u0443\u0436\u0431\u0430 \u0411\u0438-\u0431\u0438-\u0441\u0438 \u041d\u044c\u044e\u0437 | \u0413\u0440\u0443\u043f\u043f\u0430 \u043d\u0430 OK.ru | \u0412\u0441\u0442\u0443\u043f\u0430\u0439, \u0447\u0438\u0442\u0430\u0439, \u043e\u0431\u0449\u0430\u0439\u0441\u044f \u0432 \u041e\u0434\u043d\u043e\u043a\u043b\u0430\u0441\u0441\u043d\u0438\u043a\u0430\u0445!",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "348",
+      "domain": "ok.ru",
+      "stratum": "101-1000",
+      "requested_url": "https://ok.ru/tamtam.official",
+      "depth": 2,
+      "parent_url": "https://ok.ru/groups",
+      "attempt": 14,
+      "timestamp": "2026-11-12T21:07:53.559239+00:00",
+      "final_url": "https://ok.ru/tamtam.official",
+      "status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src data: 'self' 'unsafe-inline' 'unsafe-eval' ok.ru *.ok.ru odnoklassniki.ru *.odnoklassniki.ru okcdn.ru https://*.okcdn.ru mycdn.me https://*.mycdn.me https://st-ok.cdn-vk.ru https://st-ok-pts.cdn-vk.ru wss://ad.mail.ru *.mail.ru *.imgsmail.ru *.mradx.net *.googleapis.com https://api-maps.yandex.ru yastatic.net yandex.st https://cdn.consentmanager.net https://football.sportmail.ru *.yandex.ru static.dzeninfra.ru connect.ok.ru https://connect.ok.ru *.odkl.ru https://*.odkl.ru blob:;  script-src 'unsafe-inline' 'unsafe-eval' *.mail.ru https://*.mail.ru *.imgsmail.ru *.mradx.net ok.ru *.ok.ru odnoklassniki.ru *.odnoklassniki.ru okcdn.ru https://*.okcdn.ru https://st-ok.cdn-vk.ru https://st-ok-pts.cdn-vk.ru mycdn.me https://*.mycdn.me mc.yandex.ru an.yandex.ru yastatic.net yandex.st *.google-analytics.com api-maps.yandex.ru https://api-maps.yandex.ru *.googleapis.com www.youtube.com https://www.youtube.com *.ytimg.com https://*.ytimg.com *.adlooxtracking.com *.adlooxtracking.ru *.weborama.fr *.weborama-tech.ru https://enterprise.api-maps.yandex.ru https://*.consentmanager.net https://football.sportmail.ru *.googletagmanager.com yandex.ru static.dzeninfra.ru *.odkl.ru https://*.odkl.ru appleid.cdn-apple.com;  worker-src blob: 'self';  connect-src * wss: blob: data:;  font-src * data: blob:; frame-src * blob: 'self';  img-src * data: blob: about:;  media-src * data: blob:;  object-src *;  report-uri /csp/report;"
+        ],
+        "content-security-policy-report-only": [
+          "default-src data: blob: about: 'self' 'unsafe-inline' 'unsafe-eval' https: wss:; report-uri /csp/report?always;"
+        ],
+        "strict-transport-security": [
+          "max-age=63072000;includeSubdomains;preload"
+        ]
+      },
+      "body_bytes": 490383,
+      "truncated": false,
+      "body_sha256": "39c1ce1949a45b56668610a21f57966d6834bdc2f99de36731ae7fdf37867f07",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "\u0422\u0430\u043c\u0422\u0430\u043c | \u0413\u0440\u0443\u043f\u043f\u0430 \u043d\u0430 OK.ru | \u0412\u0441\u0442\u0443\u043f\u0430\u0439, \u0447\u0438\u0442\u0430\u0439, \u043e\u0431\u0449\u0430\u0439\u0441\u044f \u0432 \u041e\u0434\u043d\u043e\u043a\u043b\u0430\u0441\u0441\u043d\u0438\u043a\u0430\u0445!",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "348",
+      "domain": "ok.ru",
+      "stratum": "101-1000",
+      "requested_url": "https://ok.ru/oklive",
+      "depth": 2,
+      "parent_url": "https://ok.ru/groups",
+      "attempt": 15,
+      "timestamp": "2026-11-12T21:07:55.269728+00:00",
+      "final_url": "https://ok.ru/oklive",
+      "status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src data: 'self' 'unsafe-inline' 'unsafe-eval' ok.ru *.ok.ru odnoklassniki.ru *.odnoklassniki.ru okcdn.ru https://*.okcdn.ru mycdn.me https://*.mycdn.me https://st-ok.cdn-vk.ru https://st-ok-pts.cdn-vk.ru wss://ad.mail.ru *.mail.ru *.imgsmail.ru *.mradx.net *.googleapis.com https://api-maps.yandex.ru yastatic.net yandex.st https://cdn.consentmanager.net https://football.sportmail.ru *.yandex.ru static.dzeninfra.ru connect.ok.ru https://connect.ok.ru *.odkl.ru https://*.odkl.ru blob:;  script-src 'unsafe-inline' 'unsafe-eval' *.mail.ru https://*.mail.ru *.imgsmail.ru *.mradx.net ok.ru *.ok.ru odnoklassniki.ru *.odnoklassniki.ru okcdn.ru https://*.okcdn.ru https://st-ok.cdn-vk.ru https://st-ok-pts.cdn-vk.ru mycdn.me https://*.mycdn.me mc.yandex.ru an.yandex.ru yastatic.net yandex.st *.google-analytics.com api-maps.yandex.ru https://api-maps.yandex.ru *.googleapis.com www.youtube.com https://www.youtube.com *.ytimg.com https://*.ytimg.com *.adlooxtracking.com *.adlooxtracking.ru *.weborama.fr *.weborama-tech.ru https://enterprise.api-maps.yandex.ru https://*.consentmanager.net https://football.sportmail.ru *.googletagmanager.com yandex.ru static.dzeninfra.ru *.odkl.ru https://*.odkl.ru appleid.cdn-apple.com;  worker-src blob: 'self';  connect-src * wss: blob: data:;  font-src * data: blob:; frame-src * blob: 'self';  img-src * data: blob: about:;  media-src * data: blob:;  object-src *;  report-uri /csp/report;"
+        ],
+        "content-security-policy-report-only": [
+          "default-src data: blob: about: 'self' 'unsafe-inline' 'unsafe-eval' https: wss:; report-uri /csp/report?always;"
+        ],
+        "strict-transport-security": [
+          "max-age=63072000;includeSubdomains;preload"
+        ]
+      },
+      "body_bytes": 577539,
+      "truncated": false,
+      "body_sha256": "1292098e4a87c7fae80fd301ce70d0fc6c8b2fa57ec2d3fe5e32e25f0d378ac2",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "\u041e\u0434\u043d\u043e\u043a\u043b\u0430\u0441\u0441\u043d\u0438\u043a\u0438. OK Live | \u0413\u0440\u0443\u043f\u043f\u0430 \u043d\u0430 OK.ru | \u0412\u0441\u0442\u0443\u043f\u0430\u0439, \u0447\u0438\u0442\u0430\u0439, \u043e\u0431\u0449\u0430\u0439\u0441\u044f \u0432 \u041e\u0434\u043d\u043e\u043a\u043b\u0430\u0441\u0441\u043d\u0438\u043a\u0430\u0445!",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "348",
+      "domain": "ok.ru",
+      "stratum": "101-1000",
+      "requested_url": "https://ok.ru/practicals",
+      "depth": 2,
+      "parent_url": "https://ok.ru/groups",
+      "attempt": 16,
+      "timestamp": "2026-11-12T21:07:58.126431+00:00",
+      "final_url": "https://ok.ru/practicals",
+      "status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src data: 'self' 'unsafe-inline' 'unsafe-eval' ok.ru *.ok.ru odnoklassniki.ru *.odnoklassniki.ru okcdn.ru https://*.okcdn.ru mycdn.me https://*.mycdn.me https://st-ok.cdn-vk.ru https://st-ok-pts.cdn-vk.ru wss://ad.mail.ru *.mail.ru *.imgsmail.ru *.mradx.net *.googleapis.com https://api-maps.yandex.ru yastatic.net yandex.st https://cdn.consentmanager.net https://football.sportmail.ru *.yandex.ru static.dzeninfra.ru connect.ok.ru https://connect.ok.ru *.odkl.ru https://*.odkl.ru blob:;  script-src 'unsafe-inline' 'unsafe-eval' *.mail.ru https://*.mail.ru *.imgsmail.ru *.mradx.net ok.ru *.ok.ru odnoklassniki.ru *.odnoklassniki.ru okcdn.ru https://*.okcdn.ru https://st-ok.cdn-vk.ru https://st-ok-pts.cdn-vk.ru mycdn.me https://*.mycdn.me mc.yandex.ru an.yandex.ru yastatic.net yandex.st *.google-analytics.com api-maps.yandex.ru https://api-maps.yandex.ru *.googleapis.com www.youtube.com https://www.youtube.com *.ytimg.com https://*.ytimg.com *.adlooxtracking.com *.adlooxtracking.ru *.weborama.fr *.weborama-tech.ru https://enterprise.api-maps.yandex.ru https://*.consentmanager.net https://football.sportmail.ru *.googletagmanager.com yandex.ru static.dzeninfra.ru *.odkl.ru https://*.odkl.ru appleid.cdn-apple.com;  worker-src blob: 'self';  connect-src * wss: blob: data:;  font-src * data: blob:; frame-src * blob: 'self';  img-src * data: blob: about:;  media-src * data: blob:;  object-src *;  report-uri /csp/report;"
+        ],
+        "content-security-policy-report-only": [
+          "default-src data: blob: about: 'self' 'unsafe-inline' 'unsafe-eval' https: wss:; report-uri /csp/report?always;"
+        ],
+        "strict-transport-security": [
+          "max-age=63072000;includeSubdomains;preload"
+        ]
+      },
+      "body_bytes": 521089,
+      "truncated": false,
+      "body_sha256": "d557da777c6cd823140e67786582984b03ca2cf2531be40a683cd4e6979bb35a",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Practical Shooting - \u041f\u0440\u0430\u043a\u0442\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u0421\u0442\u0440\u0435\u043b\u044c\u0431\u0430 | \u0413\u0440\u0443\u043f\u043f\u0430 \u043d\u0430 OK.ru | \u0412\u0441\u0442\u0443\u043f\u0430\u0439, \u0447\u0438\u0442\u0430\u0439, \u043e\u0431\u0449\u0430\u0439\u0441\u044f \u0432 \u041e\u0434\u043d\u043e\u043a\u043b\u0430\u0441\u0441\u043d\u0438\u043a\u0430\u0445!",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "348",
+      "domain": "ok.ru",
+      "stratum": "101-1000",
+      "requested_url": "https://ok.ru/rg.ru",
+      "depth": 3,
+      "parent_url": "https://ok.ru/themes/politics",
+      "attempt": 17,
+      "timestamp": "2026-11-12T21:08:00.225534+00:00",
+      "final_url": "https://ok.ru/rg.ru",
+      "status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src data: 'self' 'unsafe-inline' 'unsafe-eval' ok.ru *.ok.ru odnoklassniki.ru *.odnoklassniki.ru okcdn.ru https://*.okcdn.ru mycdn.me https://*.mycdn.me https://st-ok.cdn-vk.ru https://st-ok-pts.cdn-vk.ru wss://ad.mail.ru *.mail.ru *.imgsmail.ru *.mradx.net *.googleapis.com https://api-maps.yandex.ru yastatic.net yandex.st https://cdn.consentmanager.net https://football.sportmail.ru *.yandex.ru static.dzeninfra.ru connect.ok.ru https://connect.ok.ru *.odkl.ru https://*.odkl.ru blob:;  script-src 'unsafe-inline' 'unsafe-eval' *.mail.ru https://*.mail.ru *.imgsmail.ru *.mradx.net ok.ru *.ok.ru odnoklassniki.ru *.odnoklassniki.ru okcdn.ru https://*.okcdn.ru https://st-ok.cdn-vk.ru https://st-ok-pts.cdn-vk.ru mycdn.me https://*.mycdn.me mc.yandex.ru an.yandex.ru yastatic.net yandex.st *.google-analytics.com api-maps.yandex.ru https://api-maps.yandex.ru *.googleapis.com www.youtube.com https://www.youtube.com *.ytimg.com https://*.ytimg.com *.adlooxtracking.com *.adlooxtracking.ru *.weborama.fr *.weborama-tech.ru https://enterprise.api-maps.yandex.ru https://*.consentmanager.net https://football.sportmail.ru *.googletagmanager.com yandex.ru static.dzeninfra.ru *.odkl.ru https://*.odkl.ru appleid.cdn-apple.com;  worker-src blob: 'self';  connect-src * wss: blob: data:;  font-src * data: blob:; frame-src * blob: 'self';  img-src * data: blob: about:;  media-src * data: blob:;  object-src *;  report-uri /csp/report;"
+        ],
+        "content-security-policy-report-only": [
+          "default-src data: blob: about: 'self' 'unsafe-inline' 'unsafe-eval' https: wss:; report-uri /csp/report?always;"
+        ],
+        "strict-transport-security": [
+          "max-age=63072000;includeSubdomains;preload"
+        ]
+      },
+      "body_bytes": 595587,
+      "truncated": false,
+      "body_sha256": "3088184927f599a71af17e873740d0009b4c4ff9c37af123cd20aeb2c690485d",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0413\u0430\u0437\u0435\u0442\u0430 | \u0413\u0440\u0443\u043f\u043f\u0430 \u043d\u0430 OK.ru | \u0412\u0441\u0442\u0443\u043f\u0430\u0439, \u0447\u0438\u0442\u0430\u0439, \u043e\u0431\u0449\u0430\u0439\u0441\u044f \u0432 \u041e\u0434\u043d\u043e\u043a\u043b\u0430\u0441\u0441\u043d\u0438\u043a\u0430\u0445!",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "348",
+      "domain": "ok.ru",
+      "stratum": "101-1000",
+      "requested_url": "https://ok.ru/search/profiles",
+      "depth": 1,
+      "parent_url": "https://ok.ru/",
+      "attempt": 18,
+      "timestamp": "2026-11-12T21:08:01.943632+00:00",
+      "final_url": "https://ok.ru/search/profiles",
+      "status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src data: 'self' 'unsafe-inline' 'unsafe-eval' ok.ru *.ok.ru odnoklassniki.ru *.odnoklassniki.ru okcdn.ru https://*.okcdn.ru mycdn.me https://*.mycdn.me https://st-ok.cdn-vk.ru https://st-ok-pts.cdn-vk.ru wss://ad.mail.ru *.mail.ru *.imgsmail.ru *.mradx.net *.googleapis.com https://api-maps.yandex.ru yastatic.net yandex.st https://cdn.consentmanager.net https://football.sportmail.ru *.yandex.ru static.dzeninfra.ru connect.ok.ru https://connect.ok.ru *.odkl.ru https://*.odkl.ru blob:;  script-src 'unsafe-inline' 'unsafe-eval' *.mail.ru https://*.mail.ru *.imgsmail.ru *.mradx.net ok.ru *.ok.ru odnoklassniki.ru *.odnoklassniki.ru okcdn.ru https://*.okcdn.ru https://st-ok.cdn-vk.ru https://st-ok-pts.cdn-vk.ru mycdn.me https://*.mycdn.me mc.yandex.ru an.yandex.ru yastatic.net yandex.st *.google-analytics.com api-maps.yandex.ru https://api-maps.yandex.ru *.googleapis.com www.youtube.com https://www.youtube.com *.ytimg.com https://*.ytimg.com *.adlooxtracking.com *.adlooxtracking.ru *.weborama.fr *.weborama-tech.ru https://enterprise.api-maps.yandex.ru https://*.consentmanager.net https://football.sportmail.ru *.googletagmanager.com yandex.ru static.dzeninfra.ru *.odkl.ru https://*.odkl.ru appleid.cdn-apple.com;  worker-src blob: 'self';  connect-src * wss: blob: data:;  font-src * data: blob:; frame-src * blob: 'self';  img-src * data: blob: about:;  media-src * data: blob:;  object-src *;  report-uri /csp/report;"
+        ],
+        "content-security-policy-report-only": [
+          "default-src data: blob: about: 'self' 'unsafe-inline' 'unsafe-eval' https: wss:; report-uri /csp/report?always;"
+        ],
+        "strict-transport-security": [
+          "max-age=63072000;includeSubdomains;preload"
+        ]
+      },
+      "body_bytes": 589128,
+      "truncated": false,
+      "body_sha256": "d7926cf9dbfc3dfd3dbaf26851800064d5629f740ce73ddfa73e468ea1e193bb",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "\u0412 \u041e\u041a \u0432\u044b \u043c\u043e\u0436\u0435\u0442\u0435 \u043d\u0430\u0439\u0442\u0438 \u0441\u0432\u043e\u0438\u0445 \u0437\u043d\u0430\u043a\u043e\u043c\u044b\u0445, \u0432\u0432\u0435\u0434\u0438\u0442\u0435 \u0438\u043c\u044f \u0438 \u0444\u0430\u043c\u0438\u043b\u0438\u044e, \u0432\u044b\u0431\u0435\u0440\u0438\u0442\u0435 \u0433\u043e\u0440\u043e\u0434 \u043f\u0440\u043e\u0436\u0438\u0432\u0430\u043d\u0438\u044f, \u0432\u043e\u0437\u0440\u0430\u0441\u0442 \u0438 \u043c\u043d\u043e\u0433\u043e\u0435 \u0434\u0440\u0443\u0433\u043e\u0435. \u0412\u0430\u0448\u0438 \u0434\u0440\u0443\u0437\u044c\u044f \u0432 \u041e\u0434\u043d\u043e\u043a\u043b\u0430\u0441\u0441\u043d\u0438\u043a\u0430\u0445. | OK.RU",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "348",
+      "domain": "ok.ru",
+      "stratum": "101-1000",
+      "requested_url": "https://ok.ru/gamenews",
+      "depth": 2,
+      "parent_url": "https://ok.ru/groups",
+      "attempt": 19,
+      "timestamp": "2026-11-12T21:08:04.540050+00:00",
+      "final_url": "https://ok.ru/gamenews",
+      "status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src data: 'self' 'unsafe-inline' 'unsafe-eval' ok.ru *.ok.ru odnoklassniki.ru *.odnoklassniki.ru okcdn.ru https://*.okcdn.ru mycdn.me https://*.mycdn.me https://st-ok.cdn-vk.ru https://st-ok-pts.cdn-vk.ru wss://ad.mail.ru *.mail.ru *.imgsmail.ru *.mradx.net *.googleapis.com https://api-maps.yandex.ru yastatic.net yandex.st https://cdn.consentmanager.net https://football.sportmail.ru *.yandex.ru static.dzeninfra.ru connect.ok.ru https://connect.ok.ru *.odkl.ru https://*.odkl.ru blob:;  script-src 'unsafe-inline' 'unsafe-eval' *.mail.ru https://*.mail.ru *.imgsmail.ru *.mradx.net ok.ru *.ok.ru odnoklassniki.ru *.odnoklassniki.ru okcdn.ru https://*.okcdn.ru https://st-ok.cdn-vk.ru https://st-ok-pts.cdn-vk.ru mycdn.me https://*.mycdn.me mc.yandex.ru an.yandex.ru yastatic.net yandex.st *.google-analytics.com api-maps.yandex.ru https://api-maps.yandex.ru *.googleapis.com www.youtube.com https://www.youtube.com *.ytimg.com https://*.ytimg.com *.adlooxtracking.com *.adlooxtracking.ru *.weborama.fr *.weborama-tech.ru https://enterprise.api-maps.yandex.ru https://*.consentmanager.net https://football.sportmail.ru *.googletagmanager.com yandex.ru static.dzeninfra.ru *.odkl.ru https://*.odkl.ru appleid.cdn-apple.com;  worker-src blob: 'self';  connect-src * wss: blob: data:;  font-src * data: blob:; frame-src * blob: 'self';  img-src * data: blob: about:;  media-src * data: blob:;  object-src *;  report-uri /csp/report;"
+        ],
+        "content-security-policy-report-only": [
+          "default-src data: blob: about: 'self' 'unsafe-inline' 'unsafe-eval' https: wss:; report-uri /csp/report?always;"
+        ],
+        "strict-transport-security": [
+          "max-age=63072000;includeSubdomains;preload"
+        ]
+      },
+      "body_bytes": 517717,
+      "truncated": false,
+      "body_sha256": "32cf7ffeaff1ab391b2b89095b647e19c960fdf3188b9ec065628ad90c9b6a11",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "\u0418\u0433\u0440\u043e\u0432\u044b\u0435 \u043d\u043e\u0432\u043e\u0441\u0442\u0438, \u043d\u043e\u0432\u0438\u043d\u043a\u0438 \u0438 \u043b\u0443\u0447\u0448\u0438\u0435 \u0438\u0433\u0440\u044b | \u0413\u0440\u0443\u043f\u043f\u0430 \u043d\u0430 OK.ru | \u0412\u0441\u0442\u0443\u043f\u0430\u0439, \u0447\u0438\u0442\u0430\u0439, \u043e\u0431\u0449\u0430\u0439\u0441\u044f \u0432 \u041e\u0434\u043d\u043e\u043a\u043b\u0430\u0441\u0441\u043d\u0438\u043a\u0430\u0445!",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "348",
+      "domain": "ok.ru",
+      "stratum": "101-1000",
+      "requested_url": "https://ok.ru/ukrainaru",
+      "depth": 3,
+      "parent_url": "https://ok.ru/themes/politics",
+      "attempt": 20,
+      "timestamp": "2026-11-12T21:08:06.071422+00:00",
+      "final_url": "https://ok.ru/ukrainaru",
+      "status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src data: 'self' 'unsafe-inline' 'unsafe-eval' ok.ru *.ok.ru odnoklassniki.ru *.odnoklassniki.ru okcdn.ru https://*.okcdn.ru mycdn.me https://*.mycdn.me https://st-ok.cdn-vk.ru https://st-ok-pts.cdn-vk.ru wss://ad.mail.ru *.mail.ru *.imgsmail.ru *.mradx.net *.googleapis.com https://api-maps.yandex.ru yastatic.net yandex.st https://cdn.consentmanager.net https://football.sportmail.ru *.yandex.ru static.dzeninfra.ru connect.ok.ru https://connect.ok.ru *.odkl.ru https://*.odkl.ru blob:;  script-src 'unsafe-inline' 'unsafe-eval' *.mail.ru https://*.mail.ru *.imgsmail.ru *.mradx.net ok.ru *.ok.ru odnoklassniki.ru *.odnoklassniki.ru okcdn.ru https://*.okcdn.ru https://st-ok.cdn-vk.ru https://st-ok-pts.cdn-vk.ru mycdn.me https://*.mycdn.me mc.yandex.ru an.yandex.ru yastatic.net yandex.st *.google-analytics.com api-maps.yandex.ru https://api-maps.yandex.ru *.googleapis.com www.youtube.com https://www.youtube.com *.ytimg.com https://*.ytimg.com *.adlooxtracking.com *.adlooxtracking.ru *.weborama.fr *.weborama-tech.ru https://enterprise.api-maps.yandex.ru https://*.consentmanager.net https://football.sportmail.ru *.googletagmanager.com yandex.ru static.dzeninfra.ru *.odkl.ru https://*.odkl.ru appleid.cdn-apple.com;  worker-src blob: 'self';  connect-src * wss: blob: data:;  font-src * data: blob:; frame-src * blob: 'self';  img-src * data: blob: about:;  media-src * data: blob:;  object-src *;  report-uri /csp/report;"
+        ],
+        "content-security-policy-report-only": [
+          "default-src data: blob: about: 'self' 'unsafe-inline' 'unsafe-eval' https: wss:; report-uri /csp/report?always;"
+        ],
+        "strict-transport-security": [
+          "max-age=63072000;includeSubdomains;preload"
+        ]
+      },
+      "body_bytes": 540362,
+      "truncated": false,
+      "body_sha256": "9e5f9764b4aec3e8e15121049d3b28d7a15394ff8562e45aa8710b31e2d47694",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "\u0423\u043a\u0440\u0430\u0438\u043d\u0430.\u0440\u0443 | \u0413\u0440\u0443\u043f\u043f\u0430 \u043d\u0430 OK.ru | \u0412\u0441\u0442\u0443\u043f\u0430\u0439, \u0447\u0438\u0442\u0430\u0439, \u043e\u0431\u0449\u0430\u0439\u0441\u044f \u0432 \u041e\u0434\u043d\u043e\u043a\u043b\u0430\u0441\u0441\u043d\u0438\u043a\u0430\u0445!",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "348",
+      "domain": "ok.ru",
+      "stratum": "101-1000",
+      "requested_url": "https://ok.ru/games",
+      "depth": 1,
+      "parent_url": "https://ok.ru/",
+      "attempt": 21,
+      "timestamp": "2026-11-12T21:08:07.558138+00:00",
+      "final_url": "https://ok.ru/games",
+      "status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src data: 'self' 'unsafe-inline' 'unsafe-eval' ok.ru *.ok.ru odnoklassniki.ru *.odnoklassniki.ru okcdn.ru https://*.okcdn.ru mycdn.me https://*.mycdn.me https://st-ok.cdn-vk.ru https://st-ok-pts.cdn-vk.ru wss://ad.mail.ru *.mail.ru *.imgsmail.ru *.mradx.net *.googleapis.com https://api-maps.yandex.ru yastatic.net yandex.st https://cdn.consentmanager.net https://football.sportmail.ru *.yandex.ru static.dzeninfra.ru connect.ok.ru https://connect.ok.ru *.odkl.ru https://*.odkl.ru blob:;  script-src 'unsafe-inline' 'unsafe-eval' *.mail.ru https://*.mail.ru *.imgsmail.ru *.mradx.net ok.ru *.ok.ru odnoklassniki.ru *.odnoklassniki.ru okcdn.ru https://*.okcdn.ru https://st-ok.cdn-vk.ru https://st-ok-pts.cdn-vk.ru mycdn.me https://*.mycdn.me mc.yandex.ru an.yandex.ru yastatic.net yandex.st *.google-analytics.com api-maps.yandex.ru https://api-maps.yandex.ru *.googleapis.com www.youtube.com https://www.youtube.com *.ytimg.com https://*.ytimg.com *.adlooxtracking.com *.adlooxtracking.ru *.weborama.fr *.weborama-tech.ru https://enterprise.api-maps.yandex.ru https://*.consentmanager.net https://football.sportmail.ru *.googletagmanager.com yandex.ru static.dzeninfra.ru *.odkl.ru https://*.odkl.ru appleid.cdn-apple.com;  worker-src blob: 'self';  connect-src * wss: blob: data:;  font-src * data: blob:; frame-src * blob: 'self';  img-src * data: blob: about:;  media-src * data: blob:;  object-src *;  report-uri /csp/report;"
+        ],
+        "content-security-policy-report-only": [
+          "default-src data: blob: about: 'self' 'unsafe-inline' 'unsafe-eval' https: wss:; report-uri /csp/report?always;"
+        ],
+        "strict-transport-security": [
+          "max-age=63072000;includeSubdomains;preload"
+        ]
+      },
+      "body_bytes": 2000001,
+      "truncated": true,
+      "body_sha256": "dadb940ac1251e1074d16a58f5ff1e69551a6658472ed4dacd02494d89d9609a",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "348",
+      "domain": "ok.ru",
+      "stratum": "101-1000",
+      "requested_url": "https://ok.ru/neskemvstr",
+      "depth": 2,
+      "parent_url": "https://ok.ru/groups",
+      "attempt": 22,
+      "timestamp": "2026-11-12T21:08:13.565801+00:00",
+      "final_url": "https://ok.ru/neskemvstr",
+      "status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src data: 'self' 'unsafe-inline' 'unsafe-eval' ok.ru *.ok.ru odnoklassniki.ru *.odnoklassniki.ru okcdn.ru https://*.okcdn.ru mycdn.me https://*.mycdn.me https://st-ok.cdn-vk.ru https://st-ok-pts.cdn-vk.ru wss://ad.mail.ru *.mail.ru *.imgsmail.ru *.mradx.net *.googleapis.com https://api-maps.yandex.ru yastatic.net yandex.st https://cdn.consentmanager.net https://football.sportmail.ru *.yandex.ru static.dzeninfra.ru connect.ok.ru https://connect.ok.ru *.odkl.ru https://*.odkl.ru blob:;  script-src 'unsafe-inline' 'unsafe-eval' *.mail.ru https://*.mail.ru *.imgsmail.ru *.mradx.net ok.ru *.ok.ru odnoklassniki.ru *.odnoklassniki.ru okcdn.ru https://*.okcdn.ru https://st-ok.cdn-vk.ru https://st-ok-pts.cdn-vk.ru mycdn.me https://*.mycdn.me mc.yandex.ru an.yandex.ru yastatic.net yandex.st *.google-analytics.com api-maps.yandex.ru https://api-maps.yandex.ru *.googleapis.com www.youtube.com https://www.youtube.com *.ytimg.com https://*.ytimg.com *.adlooxtracking.com *.adlooxtracking.ru *.weborama.fr *.weborama-tech.ru https://enterprise.api-maps.yandex.ru https://*.consentmanager.net https://football.sportmail.ru *.googletagmanager.com yandex.ru static.dzeninfra.ru *.odkl.ru https://*.odkl.ru appleid.cdn-apple.com;  worker-src blob: 'self';  connect-src * wss: blob: data:;  font-src * data: blob:; frame-src * blob: 'self';  img-src * data: blob: about:;  media-src * data: blob:;  object-src *;  report-uri /csp/report;"
+        ],
+        "content-security-policy-report-only": [
+          "default-src data: blob: about: 'self' 'unsafe-inline' 'unsafe-eval' https: wss:; report-uri /csp/report?always;"
+        ],
+        "strict-transport-security": [
+          "max-age=63072000;includeSubdomains;preload"
+        ]
+      },
+      "body_bytes": 355066,
+      "truncated": false,
+      "body_sha256": "ebfb8e1219b8f2b9aa7eb1d6da6fdc562f15ee033ee9730e1b432eaa92cc2403",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "\u0421\u043e\u0432\u0435\u0442\u044b \u0434\u043e\u043c\u043e\u0445\u043e\u0437\u044f\u0439\u043a\u0430\u043c | \u0413\u0440\u0443\u043f\u043f\u0430 \u043d\u0430 OK.ru | \u0412\u0441\u0442\u0443\u043f\u0430\u0439, \u0447\u0438\u0442\u0430\u0439, \u043e\u0431\u0449\u0430\u0439\u0441\u044f \u0432 \u041e\u0434\u043d\u043e\u043a\u043b\u0430\u0441\u0441\u043d\u0438\u043a\u0430\u0445!",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "348",
+      "domain": "ok.ru",
+      "stratum": "101-1000",
+      "requested_url": "https://ok.ru/temalebedev",
+      "depth": 3,
+      "parent_url": "https://ok.ru/themes/politics",
+      "attempt": 23,
+      "timestamp": "2026-11-12T21:08:15.080103+00:00",
+      "final_url": "https://ok.ru/temalebedev",
+      "status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src data: 'self' 'unsafe-inline' 'unsafe-eval' ok.ru *.ok.ru odnoklassniki.ru *.odnoklassniki.ru okcdn.ru https://*.okcdn.ru mycdn.me https://*.mycdn.me https://st-ok.cdn-vk.ru https://st-ok-pts.cdn-vk.ru wss://ad.mail.ru *.mail.ru *.imgsmail.ru *.mradx.net *.googleapis.com https://api-maps.yandex.ru yastatic.net yandex.st https://cdn.consentmanager.net https://football.sportmail.ru *.yandex.ru static.dzeninfra.ru connect.ok.ru https://connect.ok.ru *.odkl.ru https://*.odkl.ru blob:;  script-src 'unsafe-inline' 'unsafe-eval' *.mail.ru https://*.mail.ru *.imgsmail.ru *.mradx.net ok.ru *.ok.ru odnoklassniki.ru *.odnoklassniki.ru okcdn.ru https://*.okcdn.ru https://st-ok.cdn-vk.ru https://st-ok-pts.cdn-vk.ru mycdn.me https://*.mycdn.me mc.yandex.ru an.yandex.ru yastatic.net yandex.st *.google-analytics.com api-maps.yandex.ru https://api-maps.yandex.ru *.googleapis.com www.youtube.com https://www.youtube.com *.ytimg.com https://*.ytimg.com *.adlooxtracking.com *.adlooxtracking.ru *.weborama.fr *.weborama-tech.ru https://enterprise.api-maps.yandex.ru https://*.consentmanager.net https://football.sportmail.ru *.googletagmanager.com yandex.ru static.dzeninfra.ru *.odkl.ru https://*.odkl.ru appleid.cdn-apple.com;  worker-src blob: 'self';  connect-src * wss: blob: data:;  font-src * data: blob:; frame-src * blob: 'self';  img-src * data: blob: about:;  media-src * data: blob:;  object-src *;  report-uri /csp/report;"
+        ],
+        "content-security-policy-report-only": [
+          "default-src data: blob: about: 'self' 'unsafe-inline' 'unsafe-eval' https: wss:; report-uri /csp/report?always;"
+        ],
+        "strict-transport-security": [
+          "max-age=63072000;includeSubdomains;preload"
+        ]
+      },
+      "body_bytes": 587111,
+      "truncated": false,
+      "body_sha256": "0198db6e3122caf17bdca94c47247b136b2dc3bbb7c27eacd9fa920994409bdf",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "\u0410\u0440\u0442\u0435\u043c\u0438\u0439 \u041b\u0435\u0431\u0435\u0434\u0435\u0432 | \u0413\u0440\u0443\u043f\u043f\u0430 \u043d\u0430 OK.ru | \u0412\u0441\u0442\u0443\u043f\u0430\u0439, \u0447\u0438\u0442\u0430\u0439, \u043e\u0431\u0449\u0430\u0439\u0441\u044f \u0432 \u041e\u0434\u043d\u043e\u043a\u043b\u0430\u0441\u0441\u043d\u0438\u043a\u0430\u0445!",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "348",
+      "domain": "ok.ru",
+      "stratum": "101-1000",
+      "requested_url": "https://ok.ru/gifts/catalog/all",
+      "depth": 1,
+      "parent_url": "https://ok.ru/",
+      "attempt": 24,
+      "timestamp": "2026-11-12T21:08:17.530487+00:00",
+      "final_url": "https://ok.ru/gifts/catalog/all",
+      "status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src data: 'self' 'unsafe-inline' 'unsafe-eval' ok.ru *.ok.ru odnoklassniki.ru *.odnoklassniki.ru okcdn.ru https://*.okcdn.ru mycdn.me https://*.mycdn.me https://st-ok.cdn-vk.ru https://st-ok-pts.cdn-vk.ru wss://ad.mail.ru *.mail.ru *.imgsmail.ru *.mradx.net *.googleapis.com https://api-maps.yandex.ru yastatic.net yandex.st https://cdn.consentmanager.net https://football.sportmail.ru *.yandex.ru static.dzeninfra.ru connect.ok.ru https://connect.ok.ru *.odkl.ru https://*.odkl.ru blob:;  script-src 'unsafe-inline' 'unsafe-eval' *.mail.ru https://*.mail.ru *.imgsmail.ru *.mradx.net ok.ru *.ok.ru odnoklassniki.ru *.odnoklassniki.ru okcdn.ru https://*.okcdn.ru https://st-ok.cdn-vk.ru https://st-ok-pts.cdn-vk.ru mycdn.me https://*.mycdn.me mc.yandex.ru an.yandex.ru yastatic.net yandex.st *.google-analytics.com api-maps.yandex.ru https://api-maps.yandex.ru *.googleapis.com www.youtube.com https://www.youtube.com *.ytimg.com https://*.ytimg.com *.adlooxtracking.com *.adlooxtracking.ru *.weborama.fr *.weborama-tech.ru https://enterprise.api-maps.yandex.ru https://*.consentmanager.net https://football.sportmail.ru *.googletagmanager.com yandex.ru static.dzeninfra.ru *.odkl.ru https://*.odkl.ru appleid.cdn-apple.com;  worker-src blob: 'self';  connect-src * wss: blob: data:;  font-src * data: blob:; frame-src * blob: 'self';  img-src * data: blob: about:;  media-src * data: blob:;  object-src *;  report-uri /csp/report;"
+        ],
+        "content-security-policy-report-only": [
+          "default-src data: blob: about: 'self' 'unsafe-inline' 'unsafe-eval' https: wss:; report-uri /csp/report?always;"
+        ],
+        "strict-transport-security": [
+          "max-age=63072000;includeSubdomains;preload"
+        ]
+      },
+      "body_bytes": 268286,
+      "truncated": false,
+      "body_sha256": "aa498d2c524590b79f6112f133db733a2db4f705c7904893d6bc6aa3de63c7ec",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "\u041e\u0442\u043a\u0440\u044b\u0442\u043a\u0438 \u043e\u043d\u043b\u0430\u0439\u043d \u2013 \u043a\u0440\u0430\u0441\u0438\u0432\u044b\u0435 \u043f\u043e\u0437\u0434\u0440\u0430\u0432\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0435 \u043e\u0442\u043a\u0440\u044b\u0442\u043a\u0438 \u043c\u043e\u0436\u043d\u043e \u0441\u043a\u0430\u0447\u0430\u0442\u044c \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u043e \u0432 \u041e\u041a (\u041e\u0434\u043d\u043e\u043a\u043b\u0430\u0441\u0441\u043d\u0438\u043a\u0438)",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "348",
+      "domain": "ok.ru",
+      "stratum": "101-1000",
+      "requested_url": "https://ok.ru/smehugar",
+      "depth": 2,
+      "parent_url": "https://ok.ru/groups",
+      "attempt": 25,
+      "timestamp": "2026-11-12T21:08:19.523985+00:00",
+      "final_url": "https://ok.ru/smehugar",
+      "status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src data: 'self' 'unsafe-inline' 'unsafe-eval' ok.ru *.ok.ru odnoklassniki.ru *.odnoklassniki.ru okcdn.ru https://*.okcdn.ru mycdn.me https://*.mycdn.me https://st-ok.cdn-vk.ru https://st-ok-pts.cdn-vk.ru wss://ad.mail.ru *.mail.ru *.imgsmail.ru *.mradx.net *.googleapis.com https://api-maps.yandex.ru yastatic.net yandex.st https://cdn.consentmanager.net https://football.sportmail.ru *.yandex.ru static.dzeninfra.ru connect.ok.ru https://connect.ok.ru *.odkl.ru https://*.odkl.ru blob:;  script-src 'unsafe-inline' 'unsafe-eval' *.mail.ru https://*.mail.ru *.imgsmail.ru *.mradx.net ok.ru *.ok.ru odnoklassniki.ru *.odnoklassniki.ru okcdn.ru https://*.okcdn.ru https://st-ok.cdn-vk.ru https://st-ok-pts.cdn-vk.ru mycdn.me https://*.mycdn.me mc.yandex.ru an.yandex.ru yastatic.net yandex.st *.google-analytics.com api-maps.yandex.ru https://api-maps.yandex.ru *.googleapis.com www.youtube.com https://www.youtube.com *.ytimg.com https://*.ytimg.com *.adlooxtracking.com *.adlooxtracking.ru *.weborama.fr *.weborama-tech.ru https://enterprise.api-maps.yandex.ru https://*.consentmanager.net https://football.sportmail.ru *.googletagmanager.com yandex.ru static.dzeninfra.ru *.odkl.ru https://*.odkl.ru appleid.cdn-apple.com;  worker-src blob: 'self';  connect-src * wss: blob: data:;  font-src * data: blob:; frame-src * blob: 'self';  img-src * data: blob: about:;  media-src * data: blob:;  object-src *;  report-uri /csp/report;"
+        ],
+        "content-security-policy-report-only": [
+          "default-src data: blob: about: 'self' 'unsafe-inline' 'unsafe-eval' https: wss:; report-uri /csp/report?always;"
+        ],
+        "strict-transport-security": [
+          "max-age=63072000;includeSubdomains;preload"
+        ]
+      },
+      "body_bytes": 497490,
+      "truncated": false,
+      "body_sha256": "0fb2eff1b94aa21b7432e3e882d9ff03b7136e8cf3005c21353f47b0cf620942",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "\ud83d\ude02 \u0421\u043c\u0435\u0445, \u043a\u0443\u0442\u0451\u0436 \u0438 \u0443\u0433\u0430\u0440! [\u0426\u0438\u043d\u0438\u0447\u043d\u044b\u0439 \u044e\u043c\u043e\u0440 \u0438 \u043f\u0440\u0438\u043a\u043e\u043b\u044b] | \u0413\u0440\u0443\u043f\u043f\u0430 \u043d\u0430 OK.ru | \u0412\u0441\u0442\u0443\u043f\u0430\u0439, \u0447\u0438\u0442\u0430\u0439, \u043e\u0431\u0449\u0430\u0439\u0441\u044f \u0432 \u041e\u0434\u043d\u043e\u043a\u043b\u0430\u0441\u0441\u043d\u0438\u043a\u0430\u0445!",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "348",
+      "domain": "ok.ru",
+      "stratum": "101-1000",
+      "requested_url": "https://ok.ru/ria",
+      "depth": 3,
+      "parent_url": "https://ok.ru/themes/politics",
+      "attempt": 26,
+      "timestamp": "2026-11-12T21:08:21.621183+00:00",
+      "final_url": "https://ok.ru/ria",
+      "status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src data: 'self' 'unsafe-inline' 'unsafe-eval' ok.ru *.ok.ru odnoklassniki.ru *.odnoklassniki.ru okcdn.ru https://*.okcdn.ru mycdn.me https://*.mycdn.me https://st-ok.cdn-vk.ru https://st-ok-pts.cdn-vk.ru wss://ad.mail.ru *.mail.ru *.imgsmail.ru *.mradx.net *.googleapis.com https://api-maps.yandex.ru yastatic.net yandex.st https://cdn.consentmanager.net https://football.sportmail.ru *.yandex.ru static.dzeninfra.ru connect.ok.ru https://connect.ok.ru *.odkl.ru https://*.odkl.ru blob:;  script-src 'unsafe-inline' 'unsafe-eval' *.mail.ru https://*.mail.ru *.imgsmail.ru *.mradx.net ok.ru *.ok.ru odnoklassniki.ru *.odnoklassniki.ru okcdn.ru https://*.okcdn.ru https://st-ok.cdn-vk.ru https://st-ok-pts.cdn-vk.ru mycdn.me https://*.mycdn.me mc.yandex.ru an.yandex.ru yastatic.net yandex.st *.google-analytics.com api-maps.yandex.ru https://api-maps.yandex.ru *.googleapis.com www.youtube.com https://www.youtube.com *.ytimg.com https://*.ytimg.com *.adlooxtracking.com *.adlooxtracking.ru *.weborama.fr *.weborama-tech.ru https://enterprise.api-maps.yandex.ru https://*.consentmanager.net https://football.sportmail.ru *.googletagmanager.com yandex.ru static.dzeninfra.ru *.odkl.ru https://*.odkl.ru appleid.cdn-apple.com;  worker-src blob: 'self';  connect-src * wss: blob: data:;  font-src * data: blob:; frame-src * blob: 'self';  img-src * data: blob: about:;  media-src * data: blob:;  object-src *;  report-uri /csp/report;"
+        ],
+        "content-security-policy-report-only": [
+          "default-src data: blob: about: 'self' 'unsafe-inline' 'unsafe-eval' https: wss:; report-uri /csp/report?always;"
+        ],
+        "strict-transport-security": [
+          "max-age=63072000;includeSubdomains;preload"
+        ]
+      },
+      "body_bytes": 571138,
+      "truncated": false,
+      "body_sha256": "b063a8a5b4cc46accdfa87869b8138a2a1fbfbe3569009b6c003a498a7f91b42",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "\u0420\u0418\u0410 \u041d\u043e\u0432\u043e\u0441\u0442\u0438 | \u0413\u0440\u0443\u043f\u043f\u0430 \u043d\u0430 OK.ru | \u0412\u0441\u0442\u0443\u043f\u0430\u0439, \u0447\u0438\u0442\u0430\u0439, \u043e\u0431\u0449\u0430\u0439\u0441\u044f \u0432 \u041e\u0434\u043d\u043e\u043a\u043b\u0430\u0441\u0441\u043d\u0438\u043a\u0430\u0445!",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "348",
+      "domain": "ok.ru",
+      "stratum": "101-1000",
+      "requested_url": "https://ok.ru/pozdravleniya",
+      "depth": 1,
+      "parent_url": "https://ok.ru/",
+      "attempt": 27,
+      "timestamp": "2026-11-12T21:08:23.185149+00:00",
+      "final_url": "https://ok.ru/pozdravleniya",
+      "status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src data: 'self' 'unsafe-inline' 'unsafe-eval' ok.ru *.ok.ru odnoklassniki.ru *.odnoklassniki.ru okcdn.ru https://*.okcdn.ru mycdn.me https://*.mycdn.me https://st-ok.cdn-vk.ru https://st-ok-pts.cdn-vk.ru wss://ad.mail.ru *.mail.ru *.imgsmail.ru *.mradx.net *.googleapis.com https://api-maps.yandex.ru yastatic.net yandex.st https://cdn.consentmanager.net https://football.sportmail.ru *.yandex.ru static.dzeninfra.ru connect.ok.ru https://connect.ok.ru *.odkl.ru https://*.odkl.ru blob:;  script-src 'unsafe-inline' 'unsafe-eval' *.mail.ru https://*.mail.ru *.imgsmail.ru *.mradx.net ok.ru *.ok.ru odnoklassniki.ru *.odnoklassniki.ru okcdn.ru https://*.okcdn.ru https://st-ok.cdn-vk.ru https://st-ok-pts.cdn-vk.ru mycdn.me https://*.mycdn.me mc.yandex.ru an.yandex.ru yastatic.net yandex.st *.google-analytics.com api-maps.yandex.ru https://api-maps.yandex.ru *.googleapis.com www.youtube.com https://www.youtube.com *.ytimg.com https://*.ytimg.com *.adlooxtracking.com *.adlooxtracking.ru *.weborama.fr *.weborama-tech.ru https://enterprise.api-maps.yandex.ru https://*.consentmanager.net https://football.sportmail.ru *.googletagmanager.com yandex.ru static.dzeninfra.ru *.odkl.ru https://*.odkl.ru appleid.cdn-apple.com;  worker-src blob: 'self';  connect-src * wss: blob: data:;  font-src * data: blob:; frame-src * blob: 'self';  img-src * data: blob: about:;  media-src * data: blob:;  object-src *;  report-uri /csp/report;"
+        ],
+        "content-security-policy-report-only": [
+          "default-src data: blob: about: 'self' 'unsafe-inline' 'unsafe-eval' https: wss:; report-uri /csp/report?always;"
+        ],
+        "strict-transport-security": [
+          "max-age=63072000;includeSubdomains;preload"
+        ]
+      },
+      "body_bytes": 374048,
+      "truncated": false,
+      "body_sha256": "2bd54058ecc07bcf3280cb5aebd17881f539aa738a2a09552fec4c003db0987a",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "\u041f\u043e\u0437\u0434\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u044f \u043d\u0430 \u0432\u0441\u0435 \u0441\u043b\u0443\u0447\u0430\u0438 \u0436\u0438\u0437\u043d\u0438 \u2013 \u043a\u0440\u0430\u0441\u0438\u0432\u044b\u0435, \u0442\u0440\u043e\u0433\u0430\u0442\u0435\u043b\u044c\u043d\u044b\u0435 \u0438 \u043e\u0440\u0438\u0433\u0438\u043d\u0430\u043b\u044c\u043d\u044b\u0435 \u043f\u043e\u0436\u0435\u043b\u0430\u043d\u0438\u044f \u0432 \u041e\u041a (\u041e\u0434\u043d\u043e\u043a\u043b\u0430\u0441\u0441\u043d\u0438\u043a\u0438)",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "348",
+      "domain": "ok.ru",
+      "stratum": "101-1000",
+      "requested_url": "https://ok.ru/burnt.tires",
+      "depth": 2,
+      "parent_url": "https://ok.ru/groups",
+      "attempt": 28,
+      "timestamp": "2026-11-12T21:08:24.849356+00:00",
+      "final_url": "https://ok.ru/burnt.tires",
+      "status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src data: 'self' 'unsafe-inline' 'unsafe-eval' ok.ru *.ok.ru odnoklassniki.ru *.odnoklassniki.ru okcdn.ru https://*.okcdn.ru mycdn.me https://*.mycdn.me https://st-ok.cdn-vk.ru https://st-ok-pts.cdn-vk.ru wss://ad.mail.ru *.mail.ru *.imgsmail.ru *.mradx.net *.googleapis.com https://api-maps.yandex.ru yastatic.net yandex.st https://cdn.consentmanager.net https://football.sportmail.ru *.yandex.ru static.dzeninfra.ru connect.ok.ru https://connect.ok.ru *.odkl.ru https://*.odkl.ru blob:;  script-src 'unsafe-inline' 'unsafe-eval' *.mail.ru https://*.mail.ru *.imgsmail.ru *.mradx.net ok.ru *.ok.ru odnoklassniki.ru *.odnoklassniki.ru okcdn.ru https://*.okcdn.ru https://st-ok.cdn-vk.ru https://st-ok-pts.cdn-vk.ru mycdn.me https://*.mycdn.me mc.yandex.ru an.yandex.ru yastatic.net yandex.st *.google-analytics.com api-maps.yandex.ru https://api-maps.yandex.ru *.googleapis.com www.youtube.com https://www.youtube.com *.ytimg.com https://*.ytimg.com *.adlooxtracking.com *.adlooxtracking.ru *.weborama.fr *.weborama-tech.ru https://enterprise.api-maps.yandex.ru https://*.consentmanager.net https://football.sportmail.ru *.googletagmanager.com yandex.ru static.dzeninfra.ru *.odkl.ru https://*.odkl.ru appleid.cdn-apple.com;  worker-src blob: 'self';  connect-src * wss: blob: data:;  font-src * data: blob:; frame-src * blob: 'self';  img-src * data: blob: about:;  media-src * data: blob:;  object-src *;  report-uri /csp/report;"
+        ],
+        "content-security-policy-report-only": [
+          "default-src data: blob: about: 'self' 'unsafe-inline' 'unsafe-eval' https: wss:; report-uri /csp/report?always;"
+        ],
+        "strict-transport-security": [
+          "max-age=63072000;includeSubdomains;preload"
+        ]
+      },
+      "body_bytes": 477127,
+      "truncated": false,
+      "body_sha256": "21a148f40b3f98aef553a29358765df88c590a1a67beaa50a4f75efae01a5ab4",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "\u0416\u0436\u0451\u043d\u0430\u044f \u0440\u0435\u0437\u0438\u043d\u0430 | \u0413\u0440\u0443\u043f\u043f\u0430 \u043d\u0430 OK.ru | \u0412\u0441\u0442\u0443\u043f\u0430\u0439, \u0447\u0438\u0442\u0430\u0439, \u043e\u0431\u0449\u0430\u0439\u0441\u044f \u0432 \u041e\u0434\u043d\u043e\u043a\u043b\u0430\u0441\u0441\u043d\u0438\u043a\u0430\u0445!",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "348",
+      "domain": "ok.ru",
+      "stratum": "101-1000",
+      "requested_url": "https://ok.ru/rtrussian",
+      "depth": 3,
+      "parent_url": "https://ok.ru/themes/politics",
+      "attempt": 29,
+      "timestamp": "2026-11-12T21:08:26.343811+00:00",
+      "final_url": "https://ok.ru/rtrussian",
+      "status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src data: 'self' 'unsafe-inline' 'unsafe-eval' ok.ru *.ok.ru odnoklassniki.ru *.odnoklassniki.ru okcdn.ru https://*.okcdn.ru mycdn.me https://*.mycdn.me https://st-ok.cdn-vk.ru https://st-ok-pts.cdn-vk.ru wss://ad.mail.ru *.mail.ru *.imgsmail.ru *.mradx.net *.googleapis.com https://api-maps.yandex.ru yastatic.net yandex.st https://cdn.consentmanager.net https://football.sportmail.ru *.yandex.ru static.dzeninfra.ru connect.ok.ru https://connect.ok.ru *.odkl.ru https://*.odkl.ru blob:;  script-src 'unsafe-inline' 'unsafe-eval' *.mail.ru https://*.mail.ru *.imgsmail.ru *.mradx.net ok.ru *.ok.ru odnoklassniki.ru *.odnoklassniki.ru okcdn.ru https://*.okcdn.ru https://st-ok.cdn-vk.ru https://st-ok-pts.cdn-vk.ru mycdn.me https://*.mycdn.me mc.yandex.ru an.yandex.ru yastatic.net yandex.st *.google-analytics.com api-maps.yandex.ru https://api-maps.yandex.ru *.googleapis.com www.youtube.com https://www.youtube.com *.ytimg.com https://*.ytimg.com *.adlooxtracking.com *.adlooxtracking.ru *.weborama.fr *.weborama-tech.ru https://enterprise.api-maps.yandex.ru https://*.consentmanager.net https://football.sportmail.ru *.googletagmanager.com yandex.ru static.dzeninfra.ru *.odkl.ru https://*.odkl.ru appleid.cdn-apple.com;  worker-src blob: 'self';  connect-src * wss: blob: data:;  font-src * data: blob:; frame-src * blob: 'self';  img-src * data: blob: about:;  media-src * data: blob:;  object-src *;  report-uri /csp/report;"
+        ],
+        "content-security-policy-report-only": [
+          "default-src data: blob: about: 'self' 'unsafe-inline' 'unsafe-eval' https: wss:; report-uri /csp/report?always;"
+        ],
+        "strict-transport-security": [
+          "max-age=63072000;includeSubdomains;preload"
+        ]
+      },
+      "body_bytes": 512146,
+      "truncated": false,
+      "body_sha256": "e59e3ecc219d08c524956578174160041554712fe714665a6b94344c087b01f0",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "RT \u043d\u0430 \u0440\u0443\u0441\u0441\u043a\u043e\u043c | \u0413\u0440\u0443\u043f\u043f\u0430 \u043d\u0430 OK.ru | \u0412\u0441\u0442\u0443\u043f\u0430\u0439, \u0447\u0438\u0442\u0430\u0439, \u043e\u0431\u0449\u0430\u0439\u0441\u044f \u0432 \u041e\u0434\u043d\u043e\u043a\u043b\u0430\u0441\u0441\u043d\u0438\u043a\u0430\u0445!",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "348",
+      "domain": "ok.ru",
+      "stratum": "101-1000",
+      "requested_url": "https://ok.ru/rtterms",
+      "depth": 1,
+      "parent_url": "https://ok.ru/",
+      "attempt": 30,
+      "timestamp": "2026-11-12T21:08:28.137953+00:00",
+      "final_url": "https://ok.ru/rtterms",
+      "status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src data: 'self' 'unsafe-inline' 'unsafe-eval' ok.ru *.ok.ru odnoklassniki.ru *.odnoklassniki.ru okcdn.ru https://*.okcdn.ru mycdn.me https://*.mycdn.me https://st-ok.cdn-vk.ru https://st-ok-pts.cdn-vk.ru wss://ad.mail.ru *.mail.ru *.imgsmail.ru *.mradx.net *.googleapis.com https://api-maps.yandex.ru yastatic.net yandex.st https://cdn.consentmanager.net https://football.sportmail.ru *.yandex.ru static.dzeninfra.ru connect.ok.ru https://connect.ok.ru *.odkl.ru https://*.odkl.ru blob:;  script-src 'unsafe-inline' 'unsafe-eval' *.mail.ru https://*.mail.ru *.imgsmail.ru *.mradx.net ok.ru *.ok.ru odnoklassniki.ru *.odnoklassniki.ru okcdn.ru https://*.okcdn.ru https://st-ok.cdn-vk.ru https://st-ok-pts.cdn-vk.ru mycdn.me https://*.mycdn.me mc.yandex.ru an.yandex.ru yastatic.net yandex.st *.google-analytics.com api-maps.yandex.ru https://api-maps.yandex.ru *.googleapis.com www.youtube.com https://www.youtube.com *.ytimg.com https://*.ytimg.com *.adlooxtracking.com *.adlooxtracking.ru *.weborama.fr *.weborama-tech.ru https://enterprise.api-maps.yandex.ru https://*.consentmanager.net https://football.sportmail.ru *.googletagmanager.com yandex.ru static.dzeninfra.ru *.odkl.ru https://*.odkl.ru appleid.cdn-apple.com;  worker-src blob: 'self';  connect-src * wss: blob: data:;  font-src * data: blob:; frame-src * blob: 'self';  img-src * data: blob: about:;  media-src * data: blob:;  object-src *;  report-uri /csp/report;"
+        ],
+        "content-security-policy-report-only": [
+          "default-src data: blob: about: 'self' 'unsafe-inline' 'unsafe-eval' https: wss:; report-uri /csp/report?always;"
+        ],
+        "strict-transport-security": [
+          "max-age=63072000;includeSubdomains;preload"
+        ]
+      },
+      "body_bytes": 240650,
+      "truncated": false,
+      "body_sha256": "465c58114dd31052cfafdd0709ea680cef713cbb46fbe8bc0a6e194d8a7555d9",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "\u041e\u0434\u043d\u043e\u043a\u043b\u0430\u0441\u0441\u043d\u0438\u043a\u0438",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "348",
+      "domain": "ok.ru",
+      "stratum": "101-1000",
+      "requested_url": "https://ok.ru/linuxdlyavas",
+      "depth": 2,
+      "parent_url": "https://ok.ru/groups",
+      "attempt": 31,
+      "timestamp": "2026-11-12T21:08:29.430251+00:00",
+      "final_url": "https://ok.ru/linuxdlyavas",
+      "status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src data: 'self' 'unsafe-inline' 'unsafe-eval' ok.ru *.ok.ru odnoklassniki.ru *.odnoklassniki.ru okcdn.ru https://*.okcdn.ru mycdn.me https://*.mycdn.me https://st-ok.cdn-vk.ru https://st-ok-pts.cdn-vk.ru wss://ad.mail.ru *.mail.ru *.imgsmail.ru *.mradx.net *.googleapis.com https://api-maps.yandex.ru yastatic.net yandex.st https://cdn.consentmanager.net https://football.sportmail.ru *.yandex.ru static.dzeninfra.ru connect.ok.ru https://connect.ok.ru *.odkl.ru https://*.odkl.ru blob:;  script-src 'unsafe-inline' 'unsafe-eval' *.mail.ru https://*.mail.ru *.imgsmail.ru *.mradx.net ok.ru *.ok.ru odnoklassniki.ru *.odnoklassniki.ru okcdn.ru https://*.okcdn.ru https://st-ok.cdn-vk.ru https://st-ok-pts.cdn-vk.ru mycdn.me https://*.mycdn.me mc.yandex.ru an.yandex.ru yastatic.net yandex.st *.google-analytics.com api-maps.yandex.ru https://api-maps.yandex.ru *.googleapis.com www.youtube.com https://www.youtube.com *.ytimg.com https://*.ytimg.com *.adlooxtracking.com *.adlooxtracking.ru *.weborama.fr *.weborama-tech.ru https://enterprise.api-maps.yandex.ru https://*.consentmanager.net https://football.sportmail.ru *.googletagmanager.com yandex.ru static.dzeninfra.ru *.odkl.ru https://*.odkl.ru appleid.cdn-apple.com;  worker-src blob: 'self';  connect-src * wss: blob: data:;  font-src * data: blob:; frame-src * blob: 'self';  img-src * data: blob: about:;  media-src * data: blob:;  object-src *;  report-uri /csp/report;"
+        ],
+        "content-security-policy-report-only": [
+          "default-src data: blob: about: 'self' 'unsafe-inline' 'unsafe-eval' https: wss:; report-uri /csp/report?always;"
+        ],
+        "strict-transport-security": [
+          "max-age=63072000;includeSubdomains;preload"
+        ]
+      },
+      "body_bytes": 568423,
+      "truncated": false,
+      "body_sha256": "f828e968b693c04f8c28548d174b07e33923ac6af9b0ccd612a371aa0b358ae5",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Linux \u0434\u043b\u044f \u0432\u0441\u0435\u0445 | \u0413\u0440\u0443\u043f\u043f\u0430 \u043d\u0430 OK.ru | \u0412\u0441\u0442\u0443\u043f\u0430\u0439, \u0447\u0438\u0442\u0430\u0439, \u043e\u0431\u0449\u0430\u0439\u0441\u044f \u0432 \u041e\u0434\u043d\u043e\u043a\u043b\u0430\u0441\u0441\u043d\u0438\u043a\u0430\u0445!",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "348",
+      "domain": "ok.ru",
+      "stratum": "101-1000",
+      "requested_url": "https://ok.ru/rbc",
+      "depth": 3,
+      "parent_url": "https://ok.ru/themes/politics",
+      "attempt": 32,
+      "timestamp": "2026-11-12T21:08:31.300527+00:00",
+      "final_url": "https://ok.ru/rbc",
+      "status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src data: 'self' 'unsafe-inline' 'unsafe-eval' ok.ru *.ok.ru odnoklassniki.ru *.odnoklassniki.ru okcdn.ru https://*.okcdn.ru mycdn.me https://*.mycdn.me https://st-ok.cdn-vk.ru https://st-ok-pts.cdn-vk.ru wss://ad.mail.ru *.mail.ru *.imgsmail.ru *.mradx.net *.googleapis.com https://api-maps.yandex.ru yastatic.net yandex.st https://cdn.consentmanager.net https://football.sportmail.ru *.yandex.ru static.dzeninfra.ru connect.ok.ru https://connect.ok.ru *.odkl.ru https://*.odkl.ru blob:;  script-src 'unsafe-inline' 'unsafe-eval' *.mail.ru https://*.mail.ru *.imgsmail.ru *.mradx.net ok.ru *.ok.ru odnoklassniki.ru *.odnoklassniki.ru okcdn.ru https://*.okcdn.ru https://st-ok.cdn-vk.ru https://st-ok-pts.cdn-vk.ru mycdn.me https://*.mycdn.me mc.yandex.ru an.yandex.ru yastatic.net yandex.st *.google-analytics.com api-maps.yandex.ru https://api-maps.yandex.ru *.googleapis.com www.youtube.com https://www.youtube.com *.ytimg.com https://*.ytimg.com *.adlooxtracking.com *.adlooxtracking.ru *.weborama.fr *.weborama-tech.ru https://enterprise.api-maps.yandex.ru https://*.consentmanager.net https://football.sportmail.ru *.googletagmanager.com yandex.ru static.dzeninfra.ru *.odkl.ru https://*.odkl.ru appleid.cdn-apple.com;  worker-src blob: 'self';  connect-src * wss: blob: data:;  font-src * data: blob:; frame-src * blob: 'self';  img-src * data: blob: about:;  media-src * data: blob:;  object-src *;  report-uri /csp/report;"
+        ],
+        "content-security-policy-report-only": [
+          "default-src data: blob: about: 'self' 'unsafe-inline' 'unsafe-eval' https: wss:; report-uri /csp/report?always;"
+        ],
+        "strict-transport-security": [
+          "max-age=63072000;includeSubdomains;preload"
+        ]
+      },
+      "body_bytes": 568407,
+      "truncated": false,
+      "body_sha256": "540ddb6a41dbddbc9b4f5f70c521d3ca585cb4182a1e36f542653169580b3995",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "\u041d\u043e\u0432\u043e\u0441\u0442\u0438 \u0420\u0411\u041a | \u0413\u0440\u0443\u043f\u043f\u0430 \u043d\u0430 OK.ru | \u0412\u0441\u0442\u0443\u043f\u0430\u0439, \u0447\u0438\u0442\u0430\u0439, \u043e\u0431\u0449\u0430\u0439\u0441\u044f \u0432 \u041e\u0434\u043d\u043e\u043a\u043b\u0430\u0441\u0441\u043d\u0438\u043a\u0430\u0445!",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "348",
+      "domain": "ok.ru",
+      "stratum": "101-1000",
+      "requested_url": "https://ok.ru/live/group/51670727852273",
+      "depth": 4,
+      "parent_url": "https://ok.ru/rbc",
+      "attempt": 33,
+      "timestamp": "2026-11-12T21:08:33.247756+00:00",
+      "final_url": "https://ok.ru/live/group/51670727852273",
+      "status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src data: 'self' 'unsafe-inline' 'unsafe-eval' ok.ru *.ok.ru odnoklassniki.ru *.odnoklassniki.ru okcdn.ru https://*.okcdn.ru mycdn.me https://*.mycdn.me https://st-ok.cdn-vk.ru https://st-ok-pts.cdn-vk.ru wss://ad.mail.ru *.mail.ru *.imgsmail.ru *.mradx.net *.googleapis.com https://api-maps.yandex.ru yastatic.net yandex.st https://cdn.consentmanager.net https://football.sportmail.ru *.yandex.ru static.dzeninfra.ru connect.ok.ru https://connect.ok.ru *.odkl.ru https://*.odkl.ru blob:;  script-src 'unsafe-inline' 'unsafe-eval' *.mail.ru https://*.mail.ru *.imgsmail.ru *.mradx.net ok.ru *.ok.ru odnoklassniki.ru *.odnoklassniki.ru okcdn.ru https://*.okcdn.ru https://st-ok.cdn-vk.ru https://st-ok-pts.cdn-vk.ru mycdn.me https://*.mycdn.me mc.yandex.ru an.yandex.ru yastatic.net yandex.st *.google-analytics.com api-maps.yandex.ru https://api-maps.yandex.ru *.googleapis.com www.youtube.com https://www.youtube.com *.ytimg.com https://*.ytimg.com *.adlooxtracking.com *.adlooxtracking.ru *.weborama.fr *.weborama-tech.ru https://enterprise.api-maps.yandex.ru https://*.consentmanager.net https://football.sportmail.ru *.googletagmanager.com yandex.ru static.dzeninfra.ru *.odkl.ru https://*.odkl.ru appleid.cdn-apple.com;  worker-src blob: 'self';  connect-src * wss: blob: data:;  font-src * data: blob:; frame-src * blob: 'self';  img-src * data: blob: about:;  media-src * data: blob:;  object-src *;  report-uri /csp/report;"
+        ],
+        "content-security-policy-report-only": [
+          "default-src data: blob: about: 'self' 'unsafe-inline' 'unsafe-eval' https: wss:; report-uri /csp/report?always;"
+        ],
+        "strict-transport-security": [
+          "max-age=63072000;includeSubdomains;preload"
+        ]
+      },
+      "body_bytes": 451876,
+      "truncated": false,
+      "body_sha256": "f1949a0f518ed58bb713cae66260ae5733fe62b35c9fb2ab42d63c6743f8e216",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "\u041d\u043e\u0432\u043e\u0441\u0442\u0438 \u0420\u0411\u041a \u2014 \u041f\u0440\u044f\u043c\u043e\u0439 \u044d\u0444\u0438\u0440 | OK.RU",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "348",
+      "domain": "ok.ru",
+      "stratum": "101-1000",
+      "requested_url": "https://ok.ru/help",
+      "depth": 1,
+      "parent_url": "https://ok.ru/",
+      "attempt": 34,
+      "timestamp": "2026-11-12T21:08:34.835122+00:00",
+      "final_url": "https://ok.ru/help",
+      "status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src data: 'self' 'unsafe-inline' 'unsafe-eval' ok.ru *.ok.ru odnoklassniki.ru *.odnoklassniki.ru okcdn.ru https://*.okcdn.ru mycdn.me https://*.mycdn.me https://st-ok.cdn-vk.ru https://st-ok-pts.cdn-vk.ru wss://ad.mail.ru *.mail.ru *.imgsmail.ru *.mradx.net *.googleapis.com https://api-maps.yandex.ru yastatic.net yandex.st https://cdn.consentmanager.net https://football.sportmail.ru *.yandex.ru static.dzeninfra.ru connect.ok.ru https://connect.ok.ru *.odkl.ru https://*.odkl.ru blob:;  script-src 'unsafe-inline' 'unsafe-eval' *.mail.ru https://*.mail.ru *.imgsmail.ru *.mradx.net ok.ru *.ok.ru odnoklassniki.ru *.odnoklassniki.ru okcdn.ru https://*.okcdn.ru https://st-ok.cdn-vk.ru https://st-ok-pts.cdn-vk.ru mycdn.me https://*.mycdn.me mc.yandex.ru an.yandex.ru yastatic.net yandex.st *.google-analytics.com api-maps.yandex.ru https://api-maps.yandex.ru *.googleapis.com www.youtube.com https://www.youtube.com *.ytimg.com https://*.ytimg.com *.adlooxtracking.com *.adlooxtracking.ru *.weborama.fr *.weborama-tech.ru https://enterprise.api-maps.yandex.ru https://*.consentmanager.net https://football.sportmail.ru *.googletagmanager.com yandex.ru static.dzeninfra.ru *.odkl.ru https://*.odkl.ru appleid.cdn-apple.com;  worker-src blob: 'self';  connect-src * wss: blob: data:;  font-src * data: blob:; frame-src * blob: 'self';  img-src * data: blob: about:;  media-src * data: blob:;  object-src *;  report-uri /csp/report;"
+        ],
+        "content-security-policy-report-only": [
+          "default-src data: blob: about: 'self' 'unsafe-inline' 'unsafe-eval' https: wss:; report-uri /csp/report?always;"
+        ],
+        "strict-transport-security": [
+          "max-age=63072000;includeSubdomains;preload"
+        ]
+      },
+      "body_bytes": 475700,
+      "truncated": false,
+      "body_sha256": "ba208c5825daa83de440974aca1b085163dd9b79bd743f1a066f74a2a6e58d1e",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "\u041f\u043e\u043c\u043e\u0449\u044c \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044f\u043c \u041e\u041a | FAQ \u0432\u043e\u043f\u0440\u043e\u0441-\u043e\u0442\u0432\u0435\u0442 \u043f\u043e \u041e\u0434\u043d\u043e\u043a\u043b\u0430\u0441\u0441\u043d\u0438\u043a\u0430\u043c",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "348",
+      "domain": "ok.ru",
+      "stratum": "101-1000",
+      "requested_url": "https://ok.ru/group59989404352757",
+      "depth": 2,
+      "parent_url": "https://ok.ru/groups",
+      "attempt": 35,
+      "timestamp": "2026-11-12T21:08:36.423541+00:00",
+      "final_url": "https://ok.ru/group59989404352757",
+      "status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src data: 'self' 'unsafe-inline' 'unsafe-eval' ok.ru *.ok.ru odnoklassniki.ru *.odnoklassniki.ru okcdn.ru https://*.okcdn.ru mycdn.me https://*.mycdn.me https://st-ok.cdn-vk.ru https://st-ok-pts.cdn-vk.ru wss://ad.mail.ru *.mail.ru *.imgsmail.ru *.mradx.net *.googleapis.com https://api-maps.yandex.ru yastatic.net yandex.st https://cdn.consentmanager.net https://football.sportmail.ru *.yandex.ru static.dzeninfra.ru connect.ok.ru https://connect.ok.ru *.odkl.ru https://*.odkl.ru blob:;  script-src 'unsafe-inline' 'unsafe-eval' *.mail.ru https://*.mail.ru *.imgsmail.ru *.mradx.net ok.ru *.ok.ru odnoklassniki.ru *.odnoklassniki.ru okcdn.ru https://*.okcdn.ru https://st-ok.cdn-vk.ru https://st-ok-pts.cdn-vk.ru mycdn.me https://*.mycdn.me mc.yandex.ru an.yandex.ru yastatic.net yandex.st *.google-analytics.com api-maps.yandex.ru https://api-maps.yandex.ru *.googleapis.com www.youtube.com https://www.youtube.com *.ytimg.com https://*.ytimg.com *.adlooxtracking.com *.adlooxtracking.ru *.weborama.fr *.weborama-tech.ru https://enterprise.api-maps.yandex.ru https://*.consentmanager.net https://football.sportmail.ru *.googletagmanager.com yandex.ru static.dzeninfra.ru *.odkl.ru https://*.odkl.ru appleid.cdn-apple.com;  worker-src blob: 'self';  connect-src * wss: blob: data:;  font-src * data: blob:; frame-src * blob: 'self';  img-src * data: blob: about:;  media-src * data: blob:;  object-src *;  report-uri /csp/report;"
+        ],
+        "content-security-policy-report-only": [
+          "default-src data: blob: about: 'self' 'unsafe-inline' 'unsafe-eval' https: wss:; report-uri /csp/report?always;"
+        ],
+        "strict-transport-security": [
+          "max-age=63072000;includeSubdomains;preload"
+        ]
+      },
+      "body_bytes": 315988,
+      "truncated": false,
+      "body_sha256": "abcbbacb0d4ad0fc322ec6d276a0e394e4fb1f5195c01217ed1c3db07ce546b5",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "\"\u0420\u044b\u0431\u0430\u043b\u043a\u0430 \u041e\u0445\u043e\u0442\u0430 \u0422\u0438\u0445\u0430\u044f \u043e\u0445\u043e\u0442\u0430 | \u0413\u0440\u0443\u043f\u043f\u0430 \u043d\u0430 OK.ru | \u0412\u0441\u0442\u0443\u043f\u0430\u0439, \u0447\u0438\u0442\u0430\u0439, \u043e\u0431\u0449\u0430\u0439\u0441\u044f \u0432 \u041e\u0434\u043d\u043e\u043a\u043b\u0430\u0441\u0441\u043d\u0438\u043a\u0430\u0445!",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "348",
+      "domain": "ok.ru",
+      "stratum": "101-1000",
+      "requested_url": "https://ok.ru/vesti",
+      "depth": 3,
+      "parent_url": "https://ok.ru/themes/politics",
+      "attempt": 36,
+      "timestamp": "2026-11-12T21:08:37.837265+00:00",
+      "final_url": "https://ok.ru/vesti",
+      "status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src data: 'self' 'unsafe-inline' 'unsafe-eval' ok.ru *.ok.ru odnoklassniki.ru *.odnoklassniki.ru okcdn.ru https://*.okcdn.ru mycdn.me https://*.mycdn.me https://st-ok.cdn-vk.ru https://st-ok-pts.cdn-vk.ru wss://ad.mail.ru *.mail.ru *.imgsmail.ru *.mradx.net *.googleapis.com https://api-maps.yandex.ru yastatic.net yandex.st https://cdn.consentmanager.net https://football.sportmail.ru *.yandex.ru static.dzeninfra.ru connect.ok.ru https://connect.ok.ru *.odkl.ru https://*.odkl.ru blob:;  script-src 'unsafe-inline' 'unsafe-eval' *.mail.ru https://*.mail.ru *.imgsmail.ru *.mradx.net ok.ru *.ok.ru odnoklassniki.ru *.odnoklassniki.ru okcdn.ru https://*.okcdn.ru https://st-ok.cdn-vk.ru https://st-ok-pts.cdn-vk.ru mycdn.me https://*.mycdn.me mc.yandex.ru an.yandex.ru yastatic.net yandex.st *.google-analytics.com api-maps.yandex.ru https://api-maps.yandex.ru *.googleapis.com www.youtube.com https://www.youtube.com *.ytimg.com https://*.ytimg.com *.adlooxtracking.com *.adlooxtracking.ru *.weborama.fr *.weborama-tech.ru https://enterprise.api-maps.yandex.ru https://*.consentmanager.net https://football.sportmail.ru *.googletagmanager.com yandex.ru static.dzeninfra.ru *.odkl.ru https://*.odkl.ru appleid.cdn-apple.com;  worker-src blob: 'self';  connect-src * wss: blob: data:;  font-src * data: blob:; frame-src * blob: 'self';  img-src * data: blob: about:;  media-src * data: blob:;  object-src *;  report-uri /csp/report;"
+        ],
+        "content-security-policy-report-only": [
+          "default-src data: blob: about: 'self' 'unsafe-inline' 'unsafe-eval' https: wss:; report-uri /csp/report?always;"
+        ],
+        "strict-transport-security": [
+          "max-age=63072000;includeSubdomains;preload"
+        ]
+      },
+      "body_bytes": 602920,
+      "truncated": false,
+      "body_sha256": "97ed6c991d7b3fbe73f22831d3a2a1e68951d95a948ead2f04bcf634ae7ce61d",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "\u0412\u0415\u0421\u0422\u0418 | \u0413\u0440\u0443\u043f\u043f\u0430 \u043d\u0430 OK.ru | \u0412\u0441\u0442\u0443\u043f\u0430\u0439, \u0447\u0438\u0442\u0430\u0439, \u043e\u0431\u0449\u0430\u0439\u0441\u044f \u0432 \u041e\u0434\u043d\u043e\u043a\u043b\u0430\u0441\u0441\u043d\u0438\u043a\u0430\u0445!",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "348",
+      "domain": "ok.ru",
+      "stratum": "101-1000",
+      "requested_url": "https://ok.ru/smotrim/topic/155593528981558",
+      "depth": 4,
+      "parent_url": "https://ok.ru/vesti",
+      "attempt": 37,
+      "timestamp": "2026-11-12T21:08:40.336015+00:00",
+      "final_url": "https://ok.ru/smotrim/topic/155593528981558",
+      "status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src data: 'self' 'unsafe-inline' 'unsafe-eval' ok.ru *.ok.ru odnoklassniki.ru *.odnoklassniki.ru okcdn.ru https://*.okcdn.ru mycdn.me https://*.mycdn.me https://st-ok.cdn-vk.ru https://st-ok-pts.cdn-vk.ru wss://ad.mail.ru *.mail.ru *.imgsmail.ru *.mradx.net *.googleapis.com https://api-maps.yandex.ru yastatic.net yandex.st https://cdn.consentmanager.net https://football.sportmail.ru *.yandex.ru static.dzeninfra.ru connect.ok.ru https://connect.ok.ru *.odkl.ru https://*.odkl.ru blob:;  script-src 'unsafe-inline' 'unsafe-eval' *.mail.ru https://*.mail.ru *.imgsmail.ru *.mradx.net ok.ru *.ok.ru odnoklassniki.ru *.odnoklassniki.ru okcdn.ru https://*.okcdn.ru https://st-ok.cdn-vk.ru https://st-ok-pts.cdn-vk.ru mycdn.me https://*.mycdn.me mc.yandex.ru an.yandex.ru yastatic.net yandex.st *.google-analytics.com api-maps.yandex.ru https://api-maps.yandex.ru *.googleapis.com www.youtube.com https://www.youtube.com *.ytimg.com https://*.ytimg.com *.adlooxtracking.com *.adlooxtracking.ru *.weborama.fr *.weborama-tech.ru https://enterprise.api-maps.yandex.ru https://*.consentmanager.net https://football.sportmail.ru *.googletagmanager.com yandex.ru static.dzeninfra.ru *.odkl.ru https://*.odkl.ru appleid.cdn-apple.com;  worker-src blob: 'self';  connect-src * wss: blob: data:;  font-src * data: blob:; frame-src * blob: 'self';  img-src * data: blob: about:;  media-src * data: blob:;  object-src *;  report-uri /csp/report;"
+        ],
+        "content-security-policy-report-only": [
+          "default-src data: blob: about: 'self' 'unsafe-inline' 'unsafe-eval' https: wss:; report-uri /csp/report?always;"
+        ],
+        "strict-transport-security": [
+          "max-age=63072000;includeSubdomains;preload"
+        ]
+      },
+      "body_bytes": 403846,
+      "truncated": false,
+      "body_sha256": "e24853dfb594b7fc33e10e7f71bd83336a1c4ba0db037bdf54c87fd3282717f9",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0435 \u043d\u0430\u0448\u0435 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \"\u0421\u043c\u043e\u0442\u0440\u0438\u043c\" \u0438 \u0431\u0443\u0434\u044c\u0442\u0435 \u0432 \u043a\u0443\u0440\u0441\u0435 \u0432\u0441\u0435\u0445 \u043d\u043e\u0432\u043e\u0441\u0442\u0435\u0439!\u00a0... | \u0418\u043d\u0442\u0435\u0440\u0435\u0441\u043d\u044b\u0439 \u043a\u043e\u043d\u0442\u0435\u043d\u0442 \u0432 \u0433\u0440\u0443\u043f\u043f\u0435 \u0421\u041c\u041e\u0422\u0420\u0418\u041c",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "348",
+      "domain": "ok.ru",
+      "stratum": "101-1000",
+      "requested_url": "https://ok.ru/profile/582978387039",
+      "depth": 5,
+      "parent_url": "https://ok.ru/smotrim/topic/155593528981558",
+      "attempt": 38,
+      "timestamp": "2026-11-12T21:08:42.294801+00:00",
+      "final_url": "https://ok.ru/profile/582978387039",
+      "status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src data: 'self' 'unsafe-inline' 'unsafe-eval' ok.ru *.ok.ru odnoklassniki.ru *.odnoklassniki.ru okcdn.ru https://*.okcdn.ru mycdn.me https://*.mycdn.me https://st-ok.cdn-vk.ru https://st-ok-pts.cdn-vk.ru wss://ad.mail.ru *.mail.ru *.imgsmail.ru *.mradx.net *.googleapis.com https://api-maps.yandex.ru yastatic.net yandex.st https://cdn.consentmanager.net https://football.sportmail.ru *.yandex.ru static.dzeninfra.ru connect.ok.ru https://connect.ok.ru *.odkl.ru https://*.odkl.ru blob:;  script-src 'unsafe-inline' 'unsafe-eval' *.mail.ru https://*.mail.ru *.imgsmail.ru *.mradx.net ok.ru *.ok.ru odnoklassniki.ru *.odnoklassniki.ru okcdn.ru https://*.okcdn.ru https://st-ok.cdn-vk.ru https://st-ok-pts.cdn-vk.ru mycdn.me https://*.mycdn.me mc.yandex.ru an.yandex.ru yastatic.net yandex.st *.google-analytics.com api-maps.yandex.ru https://api-maps.yandex.ru *.googleapis.com www.youtube.com https://www.youtube.com *.ytimg.com https://*.ytimg.com *.adlooxtracking.com *.adlooxtracking.ru *.weborama.fr *.weborama-tech.ru https://enterprise.api-maps.yandex.ru https://*.consentmanager.net https://football.sportmail.ru *.googletagmanager.com yandex.ru static.dzeninfra.ru *.odkl.ru https://*.odkl.ru appleid.cdn-apple.com;  worker-src blob: 'self';  connect-src * wss: blob: data:;  font-src * data: blob:; frame-src * blob: 'self';  img-src * data: blob: about:;  media-src * data: blob:;  object-src *;  report-uri /csp/report;"
+        ],
+        "content-security-policy-report-only": [
+          "default-src data: blob: about: 'self' 'unsafe-inline' 'unsafe-eval' https: wss:; report-uri /csp/report?always;"
+        ],
+        "strict-transport-security": [
+          "max-age=63072000;includeSubdomains;preload"
+        ]
+      },
+      "body_bytes": 337933,
+      "truncated": false,
+      "body_sha256": "3bb167acab58b7ac7b38de20100610a370d564c911b3568d75f867811d359320",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "\u0415\u043a\u0430\u0442\u0435\u0440\u0438\u043d\u0430 \u0411\u0438\u0440\u044e\u043a\u043e\u0432\u0430 | OK.RU",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "348",
+      "domain": "ok.ru",
+      "stratum": "101-1000",
+      "requested_url": "https://ok.ru/donnvitoo.corleone",
+      "depth": 5,
+      "parent_url": "https://ok.ru/smotrim/topic/155593528981558",
+      "attempt": 39,
+      "timestamp": "2026-11-12T21:08:43.583848+00:00",
+      "final_url": "https://ok.ru/donnvitoo.corleone",
+      "status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src data: 'self' 'unsafe-inline' 'unsafe-eval' ok.ru *.ok.ru odnoklassniki.ru *.odnoklassniki.ru okcdn.ru https://*.okcdn.ru mycdn.me https://*.mycdn.me https://st-ok.cdn-vk.ru https://st-ok-pts.cdn-vk.ru wss://ad.mail.ru *.mail.ru *.imgsmail.ru *.mradx.net *.googleapis.com https://api-maps.yandex.ru yastatic.net yandex.st https://cdn.consentmanager.net https://football.sportmail.ru *.yandex.ru static.dzeninfra.ru connect.ok.ru https://connect.ok.ru *.odkl.ru https://*.odkl.ru blob:;  script-src 'unsafe-inline' 'unsafe-eval' *.mail.ru https://*.mail.ru *.imgsmail.ru *.mradx.net ok.ru *.ok.ru odnoklassniki.ru *.odnoklassniki.ru okcdn.ru https://*.okcdn.ru https://st-ok.cdn-vk.ru https://st-ok-pts.cdn-vk.ru mycdn.me https://*.mycdn.me mc.yandex.ru an.yandex.ru yastatic.net yandex.st *.google-analytics.com api-maps.yandex.ru https://api-maps.yandex.ru *.googleapis.com www.youtube.com https://www.youtube.com *.ytimg.com https://*.ytimg.com *.adlooxtracking.com *.adlooxtracking.ru *.weborama.fr *.weborama-tech.ru https://enterprise.api-maps.yandex.ru https://*.consentmanager.net https://football.sportmail.ru *.googletagmanager.com yandex.ru static.dzeninfra.ru *.odkl.ru https://*.odkl.ru appleid.cdn-apple.com;  worker-src blob: 'self';  connect-src * wss: blob: data:;  font-src * data: blob:; frame-src * blob: 'self';  img-src * data: blob: about:;  media-src * data: blob:;  object-src *;  report-uri /csp/report;"
+        ],
+        "content-security-policy-report-only": [
+          "default-src data: blob: about: 'self' 'unsafe-inline' 'unsafe-eval' https: wss:; report-uri /csp/report?always;"
+        ],
+        "strict-transport-security": [
+          "max-age=63072000;includeSubdomains;preload"
+        ]
+      },
+      "body_bytes": 494688,
+      "truncated": false,
+      "body_sha256": "26e9ce4d606d1df48e59982d56385026c131e80cb21905390b6eba5535a732b1",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "ll Frank USBosss \u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f | OK.RU",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "348",
+      "domain": "ok.ru",
+      "stratum": "101-1000",
+      "requested_url": "https://ok.ru/music/track/34563615122438",
+      "depth": 5,
+      "parent_url": "https://ok.ru/smotrim/topic/155593528981558",
+      "attempt": 40,
+      "timestamp": "2026-11-12T21:08:44.998403+00:00",
+      "final_url": "https://ok.ru/music/track/34563615122438",
+      "status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src data: 'self' 'unsafe-inline' 'unsafe-eval' ok.ru *.ok.ru odnoklassniki.ru *.odnoklassniki.ru okcdn.ru https://*.okcdn.ru mycdn.me https://*.mycdn.me https://st-ok.cdn-vk.ru https://st-ok-pts.cdn-vk.ru wss://ad.mail.ru *.mail.ru *.imgsmail.ru *.mradx.net *.googleapis.com https://api-maps.yandex.ru yastatic.net yandex.st https://cdn.consentmanager.net https://football.sportmail.ru *.yandex.ru static.dzeninfra.ru connect.ok.ru https://connect.ok.ru *.odkl.ru https://*.odkl.ru blob:;  script-src 'unsafe-inline' 'unsafe-eval' *.mail.ru https://*.mail.ru *.imgsmail.ru *.mradx.net ok.ru *.ok.ru odnoklassniki.ru *.odnoklassniki.ru okcdn.ru https://*.okcdn.ru https://st-ok.cdn-vk.ru https://st-ok-pts.cdn-vk.ru mycdn.me https://*.mycdn.me mc.yandex.ru an.yandex.ru yastatic.net yandex.st *.google-analytics.com api-maps.yandex.ru https://api-maps.yandex.ru *.googleapis.com www.youtube.com https://www.youtube.com *.ytimg.com https://*.ytimg.com *.adlooxtracking.com *.adlooxtracking.ru *.weborama.fr *.weborama-tech.ru https://enterprise.api-maps.yandex.ru https://*.consentmanager.net https://football.sportmail.ru *.googletagmanager.com yandex.ru static.dzeninfra.ru *.odkl.ru https://*.odkl.ru appleid.cdn-apple.com;  worker-src blob: 'self';  connect-src * wss: blob: data:;  font-src * data: blob:; frame-src * blob: 'self';  img-src * data: blob: about:;  media-src * data: blob:;  object-src *;  report-uri /csp/report;"
+        ],
+        "content-security-policy-report-only": [
+          "default-src data: blob: about: 'self' 'unsafe-inline' 'unsafe-eval' https: wss:; report-uri /csp/report?always;"
+        ],
+        "strict-transport-security": [
+          "max-age=63072000;includeSubdomains;preload"
+        ]
+      },
+      "body_bytes": 312127,
+      "truncated": false,
+      "body_sha256": "0b865aa48e76298c331d5b91cb3171164851d348da1644978e57af8c720fcf43",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "\u0421\u043b\u0443\u0448\u0430\u0442\u044c The Rapsody \u2013 Money Cash Cars (Various Mix) \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u043e \u043e\u043d\u043b\u0430\u0439\u043d mp3. \u041f\u0435\u0441\u043d\u0438 \u0438 \u043c\u0443\u0437\u044b\u043a\u0430\u043b\u044c\u043d\u044b\u0435 \u0442\u0440\u0435\u043a\u0438 \u0432 \u041e\u041a (\u041e\u0434\u043d\u043e\u043a\u043b\u0430\u0441\u0441\u043d\u0438\u043a\u0438)",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "348",
+      "domain": "ok.ru",
+      "stratum": "101-1000",
+      "requested_url": "https://ok.ru/ok",
+      "depth": 1,
+      "parent_url": "https://ok.ru/",
+      "attempt": 41,
+      "timestamp": "2026-11-12T21:08:46.645411+00:00",
+      "final_url": "https://ok.ru/ok",
+      "status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src data: 'self' 'unsafe-inline' 'unsafe-eval' ok.ru *.ok.ru odnoklassniki.ru *.odnoklassniki.ru okcdn.ru https://*.okcdn.ru mycdn.me https://*.mycdn.me https://st-ok.cdn-vk.ru https://st-ok-pts.cdn-vk.ru wss://ad.mail.ru *.mail.ru *.imgsmail.ru *.mradx.net *.googleapis.com https://api-maps.yandex.ru yastatic.net yandex.st https://cdn.consentmanager.net https://football.sportmail.ru *.yandex.ru static.dzeninfra.ru connect.ok.ru https://connect.ok.ru *.odkl.ru https://*.odkl.ru blob:;  script-src 'unsafe-inline' 'unsafe-eval' *.mail.ru https://*.mail.ru *.imgsmail.ru *.mradx.net ok.ru *.ok.ru odnoklassniki.ru *.odnoklassniki.ru okcdn.ru https://*.okcdn.ru https://st-ok.cdn-vk.ru https://st-ok-pts.cdn-vk.ru mycdn.me https://*.mycdn.me mc.yandex.ru an.yandex.ru yastatic.net yandex.st *.google-analytics.com api-maps.yandex.ru https://api-maps.yandex.ru *.googleapis.com www.youtube.com https://www.youtube.com *.ytimg.com https://*.ytimg.com *.adlooxtracking.com *.adlooxtracking.ru *.weborama.fr *.weborama-tech.ru https://enterprise.api-maps.yandex.ru https://*.consentmanager.net https://football.sportmail.ru *.googletagmanager.com yandex.ru static.dzeninfra.ru *.odkl.ru https://*.odkl.ru appleid.cdn-apple.com;  worker-src blob: 'self';  connect-src * wss: blob: data:;  font-src * data: blob:; frame-src * blob: 'self';  img-src * data: blob: about:;  media-src * data: blob:;  object-src *;  report-uri /csp/report;"
+        ],
+        "content-security-policy-report-only": [
+          "default-src data: blob: about: 'self' 'unsafe-inline' 'unsafe-eval' https: wss:; report-uri /csp/report?always;"
+        ],
+        "strict-transport-security": [
+          "max-age=63072000;includeSubdomains;preload"
+        ]
+      },
+      "body_bytes": 559177,
+      "truncated": false,
+      "body_sha256": "c8a2f80e1b1dcccf9f657121731f9bbba4eb4a04ad1952574f9b5c96a6767eea",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "\u0412\u0441\u0451 \u041e\u041a! | \u0413\u0440\u0443\u043f\u043f\u0430 \u043d\u0430 OK.ru | \u0412\u0441\u0442\u0443\u043f\u0430\u0439, \u0447\u0438\u0442\u0430\u0439, \u043e\u0431\u0449\u0430\u0439\u0441\u044f \u0432 \u041e\u0434\u043d\u043e\u043a\u043b\u0430\u0441\u0441\u043d\u0438\u043a\u0430\u0445!",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "348",
+      "domain": "ok.ru",
+      "stratum": "101-1000",
+      "requested_url": "https://ok.ru/yuriy.shatunov",
+      "depth": 2,
+      "parent_url": "https://ok.ru/search/profiles",
+      "attempt": 42,
+      "timestamp": "2026-11-12T21:08:48.997134+00:00",
+      "final_url": "https://ok.ru/yuriy.shatunov",
+      "status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src data: 'self' 'unsafe-inline' 'unsafe-eval' ok.ru *.ok.ru odnoklassniki.ru *.odnoklassniki.ru okcdn.ru https://*.okcdn.ru mycdn.me https://*.mycdn.me https://st-ok.cdn-vk.ru https://st-ok-pts.cdn-vk.ru wss://ad.mail.ru *.mail.ru *.imgsmail.ru *.mradx.net *.googleapis.com https://api-maps.yandex.ru yastatic.net yandex.st https://cdn.consentmanager.net https://football.sportmail.ru *.yandex.ru static.dzeninfra.ru connect.ok.ru https://connect.ok.ru *.odkl.ru https://*.odkl.ru blob:;  script-src 'unsafe-inline' 'unsafe-eval' *.mail.ru https://*.mail.ru *.imgsmail.ru *.mradx.net ok.ru *.ok.ru odnoklassniki.ru *.odnoklassniki.ru okcdn.ru https://*.okcdn.ru https://st-ok.cdn-vk.ru https://st-ok-pts.cdn-vk.ru mycdn.me https://*.mycdn.me mc.yandex.ru an.yandex.ru yastatic.net yandex.st *.google-analytics.com api-maps.yandex.ru https://api-maps.yandex.ru *.googleapis.com www.youtube.com https://www.youtube.com *.ytimg.com https://*.ytimg.com *.adlooxtracking.com *.adlooxtracking.ru *.weborama.fr *.weborama-tech.ru https://enterprise.api-maps.yandex.ru https://*.consentmanager.net https://football.sportmail.ru *.googletagmanager.com yandex.ru static.dzeninfra.ru *.odkl.ru https://*.odkl.ru appleid.cdn-apple.com;  worker-src blob: 'self';  connect-src * wss: blob: data:;  font-src * data: blob:; frame-src * blob: 'self';  img-src * data: blob: about:;  media-src * data: blob:;  object-src *;  report-uri /csp/report;"
+        ],
+        "content-security-policy-report-only": [
+          "default-src data: blob: about: 'self' 'unsafe-inline' 'unsafe-eval' https: wss:; report-uri /csp/report?always;"
+        ],
+        "strict-transport-security": [
+          "max-age=63072000;includeSubdomains;preload"
+        ]
+      },
+      "body_bytes": 393006,
+      "truncated": false,
+      "body_sha256": "a7fd1ac8644682629042dc729499625eec06534f9c944a710dd2d7a306dd06de",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "\u042e\u0440\u0438\u0439 \u0428\u0430\u0442\u0443\u043d\u043e\u0432 | OK.RU",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "348",
+      "domain": "ok.ru",
+      "stratum": "101-1000",
+      "requested_url": "https://ok.ru/rybar",
+      "depth": 3,
+      "parent_url": "https://ok.ru/themes/politics",
+      "attempt": 43,
+      "timestamp": "2026-11-12T21:08:51.081337+00:00",
+      "final_url": "https://ok.ru/rybar",
+      "status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src data: 'self' 'unsafe-inline' 'unsafe-eval' ok.ru *.ok.ru odnoklassniki.ru *.odnoklassniki.ru okcdn.ru https://*.okcdn.ru mycdn.me https://*.mycdn.me https://st-ok.cdn-vk.ru https://st-ok-pts.cdn-vk.ru wss://ad.mail.ru *.mail.ru *.imgsmail.ru *.mradx.net *.googleapis.com https://api-maps.yandex.ru yastatic.net yandex.st https://cdn.consentmanager.net https://football.sportmail.ru *.yandex.ru static.dzeninfra.ru connect.ok.ru https://connect.ok.ru *.odkl.ru https://*.odkl.ru blob:;  script-src 'unsafe-inline' 'unsafe-eval' *.mail.ru https://*.mail.ru *.imgsmail.ru *.mradx.net ok.ru *.ok.ru odnoklassniki.ru *.odnoklassniki.ru okcdn.ru https://*.okcdn.ru https://st-ok.cdn-vk.ru https://st-ok-pts.cdn-vk.ru mycdn.me https://*.mycdn.me mc.yandex.ru an.yandex.ru yastatic.net yandex.st *.google-analytics.com api-maps.yandex.ru https://api-maps.yandex.ru *.googleapis.com www.youtube.com https://www.youtube.com *.ytimg.com https://*.ytimg.com *.adlooxtracking.com *.adlooxtracking.ru *.weborama.fr *.weborama-tech.ru https://enterprise.api-maps.yandex.ru https://*.consentmanager.net https://football.sportmail.ru *.googletagmanager.com yandex.ru static.dzeninfra.ru *.odkl.ru https://*.odkl.ru appleid.cdn-apple.com;  worker-src blob: 'self';  connect-src * wss: blob: data:;  font-src * data: blob:; frame-src * blob: 'self';  img-src * data: blob: about:;  media-src * data: blob:;  object-src *;  report-uri /csp/report;"
+        ],
+        "content-security-policy-report-only": [
+          "default-src data: blob: about: 'self' 'unsafe-inline' 'unsafe-eval' https: wss:; report-uri /csp/report?always;"
+        ],
+        "strict-transport-security": [
+          "max-age=63072000;includeSubdomains;preload"
+        ]
+      },
+      "body_bytes": 505909,
+      "truncated": false,
+      "body_sha256": "3bdf34a6eb59a4be3bed5ceb54edd8ab3cba42984d061a65b4e73338418002ab",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "\u0420\u044b\u0431\u0430\u0440\u044c | \u0413\u0440\u0443\u043f\u043f\u0430 \u043d\u0430 OK.ru | \u0412\u0441\u0442\u0443\u043f\u0430\u0439, \u0447\u0438\u0442\u0430\u0439, \u043e\u0431\u0449\u0430\u0439\u0441\u044f \u0432 \u041e\u0434\u043d\u043e\u043a\u043b\u0430\u0441\u0441\u043d\u0438\u043a\u0430\u0445!",
+      "duplicate_final": false,
+      "eligible": true
+    }
+  ],
+  "robots": [
+    {
+      "url": "https://ok.ru/robots.txt",
+      "timestamp": "2026-11-12T21:07:22.849621+00:00",
+      "status": 200,
+      "decision": "parsed",
+      "body_sha256": "ada5daef7cc72dde989f46d492727bcb8d2d40b4a84be4ff6b529269a8a1c854",
+      "body": "User-agent: *\r\nDisallow: /cdk/*\r\nDisallow: *jsessionid*\r\nDisallow: *tkn/*\r\nDisallow: /mapi?*\r\nDisallow: /?ffsputnik=*\r\nDisallow: /?_erv=*\r\nDisallow: /?sputnik=*\r\nDisallow: /?cat=*\r\nDisallow: *st.redirect*\r\nDisallow: *cmd=logExternal*\r\nDisallow: *?fromTime=*\r\nDisallow: *?cmd*\r\nDisallow: /messages/join/\r\nDisallow: /?st.password=*\r\nDisallow: /joincall/*\r\nDisallow: /gifts/link/*\r\nDisallow: /qrCode/*\r\nDisallow: /groupcallembed/*\r\nDisallow: /dk?*\r\nDisallow: /discussions/*\r\nDisallow: /hobby-mailru\r\nDisallow: /*;jsessionid\r\nDisallow: /music/search/*\r\nDisallow: /search/content/.*\r\nDisallow: /search/profiles/.*\r\nDisallow: /games/.*\r\nDisallow: /vitrine/.*\r\nDisallow: /albums/.*\r\nDisallow: /.*\r\nDisallow: /hobby/*/post/ugc$\r\nDisallow: /stickers/set/*\r\nDisallow: /stickers$\r\nDisallow: /profile/*/hobby$\r\nDisallow: /group/*/hobby$\r\n\r\nClean-param: st.cmd\r\nClean-param: &st.layer.cmd\r\nClean-param: &st._forceSetHistory\r\nClean-param: &st._aid\r\nClean-param: &st.category\r\nClean-param: &st._surl\r\nClean-param: &st.error\r\nClean-param: &st.email\r\nClean-param: &st.refplace\r\nClean-param: &st.layer.cmd\r\nClean-param: &st.refplace\r\nClean-param: &__ref\r\nClean-param: &cmn\r\nClean-param: &autoplay\r\nClean-param: &bonus\r\nClean-param: &_cp_\r\nClean-param: &promo\r\nClean-param: &ad_id\r\nClean-param: &group_bonus\r\nClean-param: &imageId\r\nClean-param: &nochat\r\nClean-param: &promokey\r\nClean-param: &adv_id\r\nClean-param: &ref\r\nClean-param: &gid\r\nClean-param: &h_a\r\nClean-param: &gift\r\nClean-param: &silent\r\nClean-param: &shareBonusFromPlayerGuid\r\nClean-param: &_ref\r\nClean-param: &auto\r\nClean-param: &mute\r\nClean-param: &hd\r\nClean-param: &ad_level\r\nClean-param: &rel\r\nClean-param: &ya\r\nClean-param: &textId\r\nClean-param: &wmode\r\nClean-param: &title\r\nClean-param: &etext\r\nClean-param: &auto_play\r\nClean-param: &muted\r\nClean-param: &fromTime\r\nClean-param: &linknhung\r\nClean-param: &mad\r\nClean-param: &brandsafety\r\nClean-param: &embed\r\nClean-param: &hl\r\nClean-param: &mt_link_id\r\nClean-param: &tv\r\nClean-param: &showinfo\r\nClean-param: &refplace\r\nClean-param: &mt_creative\r\nClean-param: &mt_adset\r\nClean-param: &mt_click_id\r\nClean-param: &mt_network\r\nClean-param: &mt_campaign\r\nClean-param: &mt_sub1\r\nClean-param: &mt_sub2\r\nClean-param: &mt_sub3\r\nClean-param: &mt_sub4\r\nClean-param: &mt_sub5\r\nClean-param: &__dp\r\nClean-param: &ip\r\nClean-param: &_cl.id\r\nClean-param: &_clickLog\r\nClean-param: &_cl.list\r\nClean-param: &_cl.sID\r\nClean-param: &just-logged-in\r\nClean-param: &_sm_au_\r\nClean-param: &__ref\r\nClean-param: &cmn\r\nClean-param: &autoplay\r\nClean-param: &bonus\r\nClean-param: &_cp_\r\nClean-param: &promo\r\nClean-param: &ad_id\r\nClean-param: &group_bonus\r\nClean-param: &imageId\r\nClean-param: &nochat\r\nClean-param: &promokey\r\nClean-param: &adv_id\r\nClean-param: &ref\r\nClean-param: &gid\r\nClean-param: &h_a\r\nClean-param: &gift\r\nClean-param: &silent\r\nClean-param: &shareBonusFromPlayerGuid\r\nClean-param: &st.error\r\nClean-param: &st.email\r\nClean-param: &_ref\r\nClean-param: &auto\r\nClean-param: &mute\r\nClean-param: &hd\r\nClean-param: &ad_level\r\nClean-param: &rel\r\nClean-param: &ya\r\nClean-param: &textId\r\nClean-param: &wmode\r\nClean-param: &title\r\nClean-param: &etext\r\nClean-param: &auto_play\r\nClean-param: &muted\r\nClean-param: &fromTime\r\nClean-param: &linknhung\r\nClean-param: &mad\r\nClean-param: &brandsafety\r\nClean-param: &embed\r\nClean-param: &hl\r\nClean-param: &mt_link_id\r\nClean-param: &tv\r\nClean-param: &showinfo\r\nClean-param: &refplace\r\nClean-param: &mt_creative\r\nClean-param: &mt_adset\r\nClean-param: &mt_click_id\r\nClean-param: &mt_network\r\nClean-param: &mt_campaign\r\nClean-param: &mt_sub1\r\nClean-param: &mt_sub2\r\nClean-param: &mt_sub3\r\nClean-param: &mt_sub4\r\nClean-param: &mt_sub5\r\nClean-param: &__dp\r\nClean-param: &ip\r\nClean-param: &_cl.id\r\nClean-param: &_clickLog\r\nClean-param: &_cl.list\r\nClean-param: &_cl.sID\r\nClean-param: &just-logged-in\r\nClean-param: &_sm_au_\r\nClean-param: &__fd__\r\nClean-param: &dc_video_web_url\r\nClean-param: &__hrp\r\nClean-param: &__ca__chat\r\nClean-param: &_sm_byp\r\nClean-param: &1\r\nClean-param: &st.theme\r\nClean-param: &dc_video_name\r\nClean-param: &time\r\nClean-param: &scrlybrkr\r\nClean-param: &_om\r\nClean-param: &st.author\r\nClean-param: &st.hobbySlug\r\nClean-param: &st.question\r\nClean-param: &twoseven-iframe\r\nClean-param: &mibextid\r\nClean-param: &from\r\nClean-param: &sfnsn\r\nClean-param: &controls\r\nClean-param: &modestbranding\r\nClean-param: &page-ref\r\nClean-param: &mref\r\nClean-param: &start\r\nClean-param: &feature\r\nClean-param: &iv_load_policy\r\nClean-param: &loop\r\nClean-param: &token\r\nClean-param: &autopause\r\nClean-param: &white\r\nClean-param: &st.layer.lg.ff\r\nClean-param: &st.layer.lg.fidm\r\nClean-param: &st.layer.lg.ftid\r\nClean-param: &st.layer.lg.fp\r\nClean-param: &st.layer.lg.flt\r\nClean-param: &st.friendId\r\nClean-param: &st.filterGroupId\r\nClean-param: &subject\r\nClean-param: &quot\r\nClean-param: &theme\r\nClean-param: &377\r\nClean-param: &5682\r\nClean-param: &2687\r\nClean-param: &127\r\nClean-param: &249\r\nClean-param: &spm\r\nClean-param: &1031\r\nClean-param: &112\r\nClean-param: &123\r\nClean-param: &1150\r\nClean-param: &131\r\nClean-param: &1415\r\nClean-param: &1492\r\nClean-param: &140\r\nClean-param: &1505\r\nClean-param: &1584\r\n\r\nSitemap: https://ok.ru/sitemap-index-game.xml.gz\r\nSitemap: https://ok.ru/sitemap-index-gift.xml.gz\r\nSitemap: https://ok.ru/sitemap-index-content-search.xml.gz\r\nSitemap: https://ok.ru/sitemap-index-help.xml.gz\r\nSitemap: https://ok.ru/sitemap-index-user-name.xml.gz\r\nSitemap: https://ok.ru/sitemap-index-vip-profile.xml.gz\r\nSitemap: https://ok.ru/sitemap-index-vip-group.xml.gz\r\nSitemap: https://ok.ru/sitemap-index-profile-web.xml.gz\r\nSitemap: https://ok.ru/sitemap-index-group-catalog.xml.gz\r\nSitemap: https://ok.ru/sitemap-index-group.xml.gz\r\nSitemap: https://ok.ru/sitemap-index-group-topic.xml.gz\r\nSitemap: https://ok.ru/sitemap-index-music-artist.xml.gz\r\nSitemap: https://ok.ru/sitemap-index-music-album.xml.gz\r\nSitemap: https://ok.ru/sitemap-index-hobby.xml.gz\r\nSitemap: https://ok.ru/sitemap-index-video.xml.gz\r\nSitemap: https://ok.ru/sitemap-index-congratulation.xml.gz\r\nSitemap: https://ok.ru/sitemap-index-collection-article.xml.gz"
+    }
+  ],
+  "eligible_pages": 40,
+  "canonical_origin": [
+    "https",
+    "ok.ru",
+    443
+  ],
+  "stop_reason": "page_budget",
+  "elapsed_seconds": 90.98
+}

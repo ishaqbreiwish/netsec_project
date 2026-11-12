@@ -1,0 +1,1428 @@
+{
+  "site": {
+    "rank": "902",
+    "domain": "instructure.com",
+    "stratum": "101-1000"
+  },
+  "rows": [
+    {
+      "rank": "902",
+      "domain": "instructure.com",
+      "stratum": "101-1000",
+      "requested_url": "https://instructure.com/",
+      "depth": 0,
+      "parent_url": "",
+      "attempt": 1,
+      "timestamp": "2026-11-12T21:13:05.671030+00:00",
+      "final_url": "https://www.instructure.com/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "report-uri /report-csp-violation"
+        ],
+        "strict-transport-security": [
+          "max-age=15768000"
+        ]
+      },
+      "body_bytes": 221142,
+      "truncated": false,
+      "body_sha256": "eff6694c04eaa9b528a3fdcc73177976c84c357f6163b44f6fe1c4097d9ee767",
+      "redirect_chain": [
+        {
+          "url": "https://instructure.com/",
+          "status": 301,
+          "location": "https://www.instructure.com/",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=300; includeSubDomains;"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Instructure: Leading EdTech for K\u201312, Higher Ed & Business",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "902",
+      "domain": "instructure.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.instructure.com/partners",
+      "depth": 1,
+      "parent_url": "https://www.instructure.com/",
+      "attempt": 2,
+      "timestamp": "2026-11-12T21:13:06.255749+00:00",
+      "final_url": "https://www.instructure.com/partners",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "report-uri /report-csp-violation"
+        ],
+        "strict-transport-security": [
+          "max-age=15768000"
+        ]
+      },
+      "body_bytes": 188214,
+      "truncated": false,
+      "body_sha256": "825a7b575885831bf745a22a97cde0c5fa4a559e40fe8f1ef791c53d2806221c",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Instructure Partners | Empowering EdTech Collaboration & ImpactAsset 1",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "902",
+      "domain": "instructure.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.instructure.com/support/canvas-support-faq",
+      "depth": 1,
+      "parent_url": "https://www.instructure.com/",
+      "attempt": 3,
+      "timestamp": "2026-11-12T21:13:06.750706+00:00",
+      "final_url": "https://www.instructure.com/support/canvas-support-faq",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "report-uri /report-csp-violation"
+        ],
+        "strict-transport-security": [
+          "max-age=15768000"
+        ]
+      },
+      "body_bytes": 130345,
+      "truncated": false,
+      "body_sha256": "e3f024ddb4f354108d7a0fc92b1e7ea354817b174a92bba3a3eeb6747fbf64f5",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Support FAQ | Canvas",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "902",
+      "domain": "instructure.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.instructure.com/resources/videos/exploring-canvas",
+      "depth": 1,
+      "parent_url": "https://www.instructure.com/",
+      "attempt": 4,
+      "timestamp": "2026-11-12T21:13:07.259965+00:00",
+      "final_url": "https://www.instructure.com/resources/videos/exploring-canvas",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "report-uri /report-csp-violation"
+        ],
+        "strict-transport-security": [
+          "max-age=15768000"
+        ]
+      },
+      "body_bytes": 119834,
+      "truncated": false,
+      "body_sha256": "dff7002feaad2aa3a1ca6a0b2d1c0d6c9706374a1457818a3aaba79f6828612e",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Exploring Canvas | Instructure",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "902",
+      "domain": "instructure.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.instructure.com/canvas/request-demo",
+      "depth": 2,
+      "parent_url": "https://www.instructure.com/resources/videos/exploring-canvas",
+      "attempt": 5,
+      "timestamp": "2026-11-12T21:13:07.955882+00:00",
+      "final_url": "https://www.instructure.com/canvas/request-demo",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "report-uri /report-csp-violation"
+        ],
+        "strict-transport-security": [
+          "max-age=15768000"
+        ]
+      },
+      "body_bytes": 153798,
+      "truncated": false,
+      "body_sha256": "66e51634e65d24d091cbae1f641548656cf647b7d18c2d68f30398659f77e248",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Request a Canvas Demo | Personalized LMS Tour by Instructure",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "902",
+      "domain": "instructure.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.instructure.com/policies/marketing-privacy",
+      "depth": 3,
+      "parent_url": "https://www.instructure.com/canvas/request-demo",
+      "attempt": 6,
+      "timestamp": "2026-11-12T21:13:08.343355+00:00",
+      "final_url": "https://www.instructure.com/policies/marketing-privacy",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "report-uri /report-csp-violation"
+        ],
+        "strict-transport-security": [
+          "max-age=15768000"
+        ]
+      },
+      "body_bytes": 128575,
+      "truncated": false,
+      "body_sha256": "4a8cff6621cce2ffc15ebcee08a9becf4ffe87eea771d55df9cfb1cc4dc71332",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Marketing Privacy | Policy",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "902",
+      "domain": "instructure.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.instructure.com/de/policies/marketing-privacy",
+      "depth": 4,
+      "parent_url": "https://www.instructure.com/policies/marketing-privacy",
+      "attempt": 7,
+      "timestamp": "2026-11-12T21:13:08.910788+00:00",
+      "final_url": "https://www.instructure.com/de/policies/marketing-privacy",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "report-uri /report-csp-violation"
+        ],
+        "strict-transport-security": [
+          "max-age=15768000"
+        ]
+      },
+      "body_bytes": 101922,
+      "truncated": false,
+      "body_sha256": "c96e84b9a74e9e69b701c39381d140f23a5a41a76730701c2ff715ecc68a5770",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Instructure Datenschutzrichtlinie Marketing",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "902",
+      "domain": "instructure.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.instructure.com/en-gb/canvas/privacy",
+      "depth": 5,
+      "parent_url": "https://www.instructure.com/de/policies/marketing-privacy",
+      "attempt": 8,
+      "timestamp": "2026-11-12T21:13:09.915794+00:00",
+      "final_url": "https://www.instructure.com/en-gb/privacy-security",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "report-uri /report-csp-violation"
+        ],
+        "strict-transport-security": [
+          "max-age=15768000"
+        ]
+      },
+      "body_bytes": 104876,
+      "truncated": false,
+      "body_sha256": "a145327cd30295ae483c0759c9d8800e41e3f6ea9d6a11b44be972c248caae4e",
+      "redirect_chain": [
+        {
+          "url": "https://www.instructure.com/en-gb/canvas/privacy",
+          "status": 301,
+          "location": "/en-gb/privacy-security",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [
+              "report-uri /report-csp-violation"
+            ],
+            "strict-transport-security": [
+              "max-age=15768000"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Privacy | EMEA | Instructure | Instructure",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "902",
+      "domain": "instructure.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.instructure.com/nl/policies/marketing-privacy",
+      "depth": 4,
+      "parent_url": "https://www.instructure.com/policies/marketing-privacy",
+      "attempt": 9,
+      "timestamp": "2026-11-12T21:13:10.795339+00:00",
+      "final_url": "https://www.instructure.com/nl/policies/marketing-privacy",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "report-uri /report-csp-violation"
+        ],
+        "strict-transport-security": [
+          "max-age=15768000"
+        ]
+      },
+      "body_bytes": 105004,
+      "truncated": false,
+      "body_sha256": "a711d3d46a46142b17f1bc50c5aca3e0f9228f6962045ba956b4c740ee2eac27",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Marketing Privacy | Beleid | Instructure",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "902",
+      "domain": "instructure.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.instructure.com/es-es/policies/marketing-privacy",
+      "depth": 5,
+      "parent_url": "https://www.instructure.com/de/policies/marketing-privacy",
+      "attempt": 10,
+      "timestamp": "2026-11-12T21:13:11.413295+00:00",
+      "final_url": "https://www.instructure.com/es/politica-de-privacidade-da-instructure",
+      "status": 404,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "report-uri /report-csp-violation"
+        ],
+        "strict-transport-security": [
+          "max-age=15768000"
+        ]
+      },
+      "body_bytes": 82825,
+      "truncated": false,
+      "body_sha256": "372b68646209ad47aff737a73985a8e40d54c1048bf273164eecf7ba57633ae4",
+      "redirect_chain": [
+        {
+          "url": "https://www.instructure.com/es-es/policies/marketing-privacy",
+          "status": 301,
+          "location": "https://www.instructure.com/es/politica-de-privacidade-da-instructure",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=300; includeSubDomains;"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "902",
+      "domain": "instructure.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.instructure.com/pt-br/politica-de-privacidade-da-instructure",
+      "depth": 4,
+      "parent_url": "https://www.instructure.com/policies/marketing-privacy",
+      "attempt": 11,
+      "timestamp": "2026-11-12T21:13:12.873439+00:00",
+      "final_url": "https://www.instructure.com/pt-br/politica-de-privacidade-da-instructure",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "report-uri /report-csp-violation"
+        ],
+        "strict-transport-security": [
+          "max-age=15768000"
+        ]
+      },
+      "body_bytes": 111256,
+      "truncated": false,
+      "body_sha256": "6c79f76cb37e379da26d58129029a19a8880b1d2a07b6293a0b08755d9409dbf",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Marketing Privacidade | Pol\u00edtica | Instructure",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "902",
+      "domain": "instructure.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.instructure.com/es",
+      "depth": 1,
+      "parent_url": "https://www.instructure.com/",
+      "attempt": 12,
+      "timestamp": "2026-11-12T21:13:13.169951+00:00",
+      "final_url": "https://www.instructure.com/es",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "report-uri /report-csp-violation"
+        ],
+        "strict-transport-security": [
+          "max-age=15768000"
+        ]
+      },
+      "body_bytes": 185340,
+      "truncated": false,
+      "body_sha256": "f56726962afd0521f6e1f551c8caf10daa95c5af3ebf98401cb46a89fd016115",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Instructure: EdTech l\u00edder para colegios, educaci\u00f3n superior y empresas",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "902",
+      "domain": "instructure.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.instructure.com/privacy-center",
+      "depth": 4,
+      "parent_url": "https://www.instructure.com/policies/marketing-privacy",
+      "attempt": 13,
+      "timestamp": "2026-11-12T21:13:13.608459+00:00",
+      "final_url": "https://www.instructure.com/privacy-center",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "report-uri /report-csp-violation"
+        ],
+        "strict-transport-security": [
+          "max-age=15768000"
+        ]
+      },
+      "body_bytes": 121788,
+      "truncated": false,
+      "body_sha256": "0c5c30779d825d8bd834b188d076fbb8b858fc0fcd4245be233d46cd66727db8",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Product Privacy Notice Center | Instructure | Instructure",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "902",
+      "domain": "instructure.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.instructure.com/products/canvas/security",
+      "depth": 5,
+      "parent_url": "https://www.instructure.com/privacy-center",
+      "attempt": 14,
+      "timestamp": "2026-11-12T21:13:16.712574+00:00",
+      "final_url": "https://www.instructure.com/trust-center",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "report-uri /report-csp-violation"
+        ],
+        "strict-transport-security": [
+          "max-age=15768000"
+        ]
+      },
+      "body_bytes": 126198,
+      "truncated": false,
+      "body_sha256": "131a7a0ceea2a3efc1f49ede9f42beab5b088daf3035c165a448af862922eeef",
+      "redirect_chain": [
+        {
+          "url": "https://www.instructure.com/products/canvas/security",
+          "status": 301,
+          "location": "/trust-center",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [
+              "report-uri /report-csp-violation"
+            ],
+            "strict-transport-security": [
+              "max-age=15768000"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Instructure Trust Center | Security | Instructure",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "902",
+      "domain": "instructure.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.instructure.com/en-au",
+      "depth": 1,
+      "parent_url": "https://www.instructure.com/",
+      "attempt": 15,
+      "timestamp": "2026-11-12T21:13:17.382325+00:00",
+      "final_url": "https://www.instructure.com/en-au",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "report-uri /report-csp-violation"
+        ],
+        "strict-transport-security": [
+          "max-age=15768000"
+        ]
+      },
+      "body_bytes": 199227,
+      "truncated": false,
+      "body_sha256": "0ed82bbd433bd8448c1a955aa4d689c78f98067b0f997b7dad54ef6706c8fcce",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Instructure: Leading EdTech for K-12, Higher Ed & Business",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "902",
+      "domain": "instructure.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.instructure.com/right-be-forgotten",
+      "depth": 4,
+      "parent_url": "https://www.instructure.com/policies/marketing-privacy",
+      "attempt": 16,
+      "timestamp": "2026-11-12T21:13:19.328955+00:00",
+      "final_url": "https://www.instructure.com/policies/right-to-be-forgotten",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "report-uri /report-csp-violation"
+        ],
+        "strict-transport-security": [
+          "max-age=15768000"
+        ]
+      },
+      "body_bytes": 114763,
+      "truncated": false,
+      "body_sha256": "cc3bcc22f759af83e1744f36e04045b5db1fc8c4ca7fac5e8f68790e2bbc12d5",
+      "redirect_chain": [
+        {
+          "url": "https://www.instructure.com/right-be-forgotten",
+          "status": 301,
+          "location": "/policies/right-to-be-forgotten",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [
+              "report-uri /report-csp-violation"
+            ],
+            "strict-transport-security": [
+              "max-age=15768000"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Right to Be Forgotten",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "902",
+      "domain": "instructure.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.instructure.com/it",
+      "depth": 1,
+      "parent_url": "https://www.instructure.com/",
+      "attempt": 17,
+      "timestamp": "2026-11-12T21:13:20.357084+00:00",
+      "final_url": "https://www.instructure.com/it",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "report-uri /report-csp-violation"
+        ],
+        "strict-transport-security": [
+          "max-age=15768000"
+        ]
+      },
+      "body_bytes": 115661,
+      "truncated": false,
+      "body_sha256": "10abe05b3bcb058fe42835289897f24ec0d60a62917ca858b05059773088ec2d",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Instructure: EdTech leader per scuole, universit\u00e0 e aziende",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "902",
+      "domain": "instructure.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.instructure.com/ja",
+      "depth": 1,
+      "parent_url": "https://www.instructure.com/",
+      "attempt": 18,
+      "timestamp": "2026-11-12T21:13:20.585072+00:00",
+      "final_url": "https://www.instructure.com/ja",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "report-uri /report-csp-violation"
+        ],
+        "strict-transport-security": [
+          "max-age=15768000"
+        ]
+      },
+      "body_bytes": 119633,
+      "truncated": false,
+      "body_sha256": "069aa0c75efb5560f9e369f416daf73896d44ad5ce6c110bbfe1a6e07fb300a9",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Canvas LMS | \u5b66\u7fd2\u7ba1\u7406\u30b7\u30b9\u30c6\u30e0 | Instructure",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "902",
+      "domain": "instructure.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.instructure.com/ko",
+      "depth": 1,
+      "parent_url": "https://www.instructure.com/",
+      "attempt": 19,
+      "timestamp": "2026-11-12T21:13:22.516288+00:00",
+      "final_url": "https://www.instructure.com/ko",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "report-uri /report-csp-violation"
+        ],
+        "strict-transport-security": [
+          "max-age=15768000"
+        ]
+      },
+      "body_bytes": 144549,
+      "truncated": false,
+      "body_sha256": "b351b748713514a3b60e947f2bb8e1f45333fdcb611872d53608c90b5b8540e4",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Instructure: Leading EdTech for K\u201312, Higher Ed & Business",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "902",
+      "domain": "instructure.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.instructure.com/why-instructure",
+      "depth": 1,
+      "parent_url": "https://www.instructure.com/",
+      "attempt": 20,
+      "timestamp": "2026-11-12T21:13:22.881065+00:00",
+      "final_url": "https://www.instructure.com/why-instructure",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "report-uri /report-csp-violation"
+        ],
+        "strict-transport-security": [
+          "max-age=15768000"
+        ]
+      },
+      "body_bytes": 163445,
+      "truncated": false,
+      "body_sha256": "d1faab8046772d44ba95139253fb4529172293cc7e0e4cb7f3b7a3b96129a19d",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Instructure: Your Trusted Partner in EdTech Innovation",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "902",
+      "domain": "instructure.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.instructure.com/community",
+      "depth": 1,
+      "parent_url": "https://www.instructure.com/",
+      "attempt": 21,
+      "timestamp": "2026-11-12T21:13:23.407228+00:00",
+      "final_url": "https://www.instructure.com/community",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "report-uri /report-csp-violation"
+        ],
+        "strict-transport-security": [
+          "max-age=15768000"
+        ]
+      },
+      "body_bytes": 130220,
+      "truncated": false,
+      "body_sha256": "735bc94bfb6849b288b06d619d61087ac374228dc7a609f46079122acb75fdf5",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Instructure Community: Connect, Learn & Collaborate with 2M+ Educators",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "902",
+      "domain": "instructure.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.instructure.com/about/ai-perspectives",
+      "depth": 1,
+      "parent_url": "https://www.instructure.com/",
+      "attempt": 22,
+      "timestamp": "2026-11-12T21:13:23.888827+00:00",
+      "final_url": "https://www.instructure.com/about/ai-perspectives",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "report-uri /report-csp-violation"
+        ],
+        "strict-transport-security": [
+          "max-age=15768000"
+        ]
+      },
+      "body_bytes": 123240,
+      "truncated": false,
+      "body_sha256": "7f36fdb50768bf32cf98df7059ab8e8181a95906c2022f7e266c90720d9777c3",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "AI Perspectives | Instructure",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "902",
+      "domain": "instructure.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.instructure.com/k12",
+      "depth": 1,
+      "parent_url": "https://www.instructure.com/",
+      "attempt": 23,
+      "timestamp": "2026-11-12T21:13:24.443949+00:00",
+      "final_url": "https://www.instructure.com/k12",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "report-uri /report-csp-violation"
+        ],
+        "strict-transport-security": [
+          "max-age=15768000"
+        ]
+      },
+      "body_bytes": 140865,
+      "truncated": false,
+      "body_sha256": "18165789f90763df65fdf41ccdcca1baa0679b45822702cb7bb0143a32844e02",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Canvas for K-12 Schools | Learning Management Solutions",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "902",
+      "domain": "instructure.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.instructure.com/solutions/learning-management/k12",
+      "depth": 1,
+      "parent_url": "https://www.instructure.com/",
+      "attempt": 24,
+      "timestamp": "2026-11-12T21:13:24.950749+00:00",
+      "final_url": "https://www.instructure.com/solutions/learning-management/k12",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "report-uri /report-csp-violation"
+        ],
+        "strict-transport-security": [
+          "max-age=15768000"
+        ]
+      },
+      "body_bytes": 157252,
+      "truncated": false,
+      "body_sha256": "df475ae6b60ae14bbbcad617e7b8f9592e0a8774cbbfc0fc367a152015462ee4",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Canvas LMS for K-12 | Simplify Teaching and Empower Every Learner",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "902",
+      "domain": "instructure.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.instructure.com/leadership-development",
+      "depth": 1,
+      "parent_url": "https://www.instructure.com/",
+      "attempt": 25,
+      "timestamp": "2026-11-12T21:13:25.522566+00:00",
+      "final_url": "https://www.instructure.com/leadership-development",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "report-uri /report-csp-violation"
+        ],
+        "strict-transport-security": [
+          "max-age=15768000"
+        ]
+      },
+      "body_bytes": 122675,
+      "truncated": false,
+      "body_sha256": "4c26351f32ce8a38af485cc851aec1c2d276ce39bb7a603764bff095ac2767d4",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Interactive learning sessions for educational leaders | Instructure",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "902",
+      "domain": "instructure.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.instructure.com/higher-education",
+      "depth": 1,
+      "parent_url": "https://www.instructure.com/",
+      "attempt": 26,
+      "timestamp": "2026-11-12T21:13:26.567738+00:00",
+      "final_url": "https://www.instructure.com/higher-education",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "report-uri /report-csp-violation"
+        ],
+        "strict-transport-security": [
+          "max-age=15768000"
+        ]
+      },
+      "body_bytes": 171754,
+      "truncated": false,
+      "body_sha256": "6d2409f077c8355b594703cf1d34f0c904e049ff5014a21b6420358a2edc2bbc",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Canvas LMS for Higher Ed: Engage Students Anytime, Anywhere | Instructure",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "902",
+      "domain": "instructure.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.instructure.com/business",
+      "depth": 1,
+      "parent_url": "https://www.instructure.com/",
+      "attempt": 27,
+      "timestamp": "2026-11-12T21:13:27.074858+00:00",
+      "final_url": "https://www.instructure.com/business",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "report-uri /report-csp-violation"
+        ],
+        "strict-transport-security": [
+          "max-age=15768000"
+        ]
+      },
+      "body_bytes": 186715,
+      "truncated": false,
+      "body_sha256": "18e6c42a235c6b547320894d0516e2ae7e056e8c5d7cc7571b7dab190a710e90",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Canvas LMS for Business and Government: Scalable Workforce Training",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "902",
+      "domain": "instructure.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.instructure.com/parchment/award/digital-badges",
+      "depth": 2,
+      "parent_url": "https://www.instructure.com/business",
+      "attempt": 28,
+      "timestamp": "2026-11-12T21:13:27.599685+00:00",
+      "final_url": "https://www.instructure.com/parchment/award/digital-badges",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "report-uri /report-csp-violation"
+        ],
+        "strict-transport-security": [
+          "max-age=15768000"
+        ]
+      },
+      "body_bytes": 130235,
+      "truncated": false,
+      "body_sha256": "e6ae4a99a67630ff71c12ace25ae0d3829063cf0c8858d54fb7bda165ae33068",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Parchment Digital Badges | Scalable, Career-Aligned Credentials | Instructure",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "902",
+      "domain": "instructure.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.instructure.com/mastery",
+      "depth": 1,
+      "parent_url": "https://www.instructure.com/",
+      "attempt": 29,
+      "timestamp": "2026-11-12T21:13:27.914758+00:00",
+      "final_url": "https://www.instructure.com/mastery",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "report-uri /report-csp-violation"
+        ],
+        "strict-transport-security": [
+          "max-age=15768000"
+        ]
+      },
+      "body_bytes": 172829,
+      "truncated": false,
+      "body_sha256": "e06ae695057890f159888f27cf002d35a6d10b1b97c45cee4d67c72e1b9b9f71",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Mastery: K\u201312 Assessment & Data Solution to Boost Student Outcomes",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "902",
+      "domain": "instructure.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.instructure.com/learnplatform",
+      "depth": 1,
+      "parent_url": "https://www.instructure.com/",
+      "attempt": 30,
+      "timestamp": "2026-11-12T21:13:28.298990+00:00",
+      "final_url": "https://www.instructure.com/learnplatform",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "report-uri /report-csp-violation"
+        ],
+        "strict-transport-security": [
+          "max-age=15768000"
+        ]
+      },
+      "body_bytes": 132026,
+      "truncated": false,
+      "body_sha256": "e16a9f1de6f82f5f44e921d5c9928bdb249d7b0ab87073a99dfbb888773170fc",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Evidence-Based Edtech Ecosystems | LearnPlatform",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "902",
+      "domain": "instructure.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.instructure.com/impact",
+      "depth": 1,
+      "parent_url": "https://www.instructure.com/",
+      "attempt": 31,
+      "timestamp": "2026-11-12T21:13:28.869204+00:00",
+      "final_url": "https://www.instructure.com/impact",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "report-uri /report-csp-violation"
+        ],
+        "strict-transport-security": [
+          "max-age=15768000"
+        ]
+      },
+      "body_bytes": 145162,
+      "truncated": false,
+      "body_sha256": "1104f85d8518fcd61a4cf83ff018504c4c83897be89377f56729cdc8c03f445f",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Impact by Instructure: Boost LMS Adoption & Edtech Engagement",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "902",
+      "domain": "instructure.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.instructure.com/igniteai",
+      "depth": 1,
+      "parent_url": "https://www.instructure.com/",
+      "attempt": 32,
+      "timestamp": "2026-11-12T21:13:29.330907+00:00",
+      "final_url": "https://www.instructure.com/igniteai",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "report-uri /report-csp-violation"
+        ],
+        "strict-transport-security": [
+          "max-age=15768000"
+        ]
+      },
+      "body_bytes": 157280,
+      "truncated": false,
+      "body_sha256": "9425977f77a55d5246209cdc4bee5deeb594f124359930cddbb7f854df8a960d",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "IgniteAI: Integrated, Transparent AI for Education Workflows",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "902",
+      "domain": "instructure.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.instructure.com/services",
+      "depth": 1,
+      "parent_url": "https://www.instructure.com/",
+      "attempt": 33,
+      "timestamp": "2026-11-12T21:13:29.934596+00:00",
+      "final_url": "https://www.instructure.com/services",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "report-uri /report-csp-violation"
+        ],
+        "strict-transport-security": [
+          "max-age=15768000"
+        ]
+      },
+      "body_bytes": 164040,
+      "truncated": false,
+      "body_sha256": "57ea2a42603969cd390fd2d5ff38ede49a282b277edec16d54bf5083c9657d08",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Instructure Services | Expert LMS Support & Training Solutions | Instructure",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "902",
+      "domain": "instructure.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.instructure.com/news",
+      "depth": 1,
+      "parent_url": "https://www.instructure.com/",
+      "attempt": 34,
+      "timestamp": "2026-11-12T21:13:30.468647+00:00",
+      "final_url": "https://www.instructure.com/news",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "report-uri /report-csp-violation"
+        ],
+        "strict-transport-security": [
+          "max-age=15768000"
+        ]
+      },
+      "body_bytes": 151693,
+      "truncated": false,
+      "body_sha256": "ca2b3aec0481b0f1651978c95c4dbb79de0eab446a15da5e5f84645359311ab5",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Latest News",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "902",
+      "domain": "instructure.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.instructure.com/press-release/instructure-completes-acquisition-parchment-worlds-largest-academic-credential",
+      "depth": 2,
+      "parent_url": "https://www.instructure.com/news",
+      "attempt": 35,
+      "timestamp": "2026-11-12T21:13:30.865721+00:00",
+      "final_url": "https://www.instructure.com/press-release/instructure-completes-acquisition-parchment-worlds-largest-academic-credential",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "report-uri /report-csp-violation"
+        ],
+        "strict-transport-security": [
+          "max-age=15768000"
+        ]
+      },
+      "body_bytes": 114106,
+      "truncated": false,
+      "body_sha256": "52b7804676b7114e376fcae89a589907f90544937f45d2d02152094462428cfb",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Instructure Completes Acquisition of Parchment, the World\u2019s Largest Academic Credential Management Platform and Network",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "902",
+      "domain": "instructure.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.instructure.com/events",
+      "depth": 1,
+      "parent_url": "https://www.instructure.com/",
+      "attempt": 36,
+      "timestamp": "2026-11-12T21:13:31.486504+00:00",
+      "final_url": "https://www.instructure.com/events",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "report-uri /report-csp-violation"
+        ],
+        "strict-transport-security": [
+          "max-age=15768000"
+        ]
+      },
+      "body_bytes": 133697,
+      "truncated": false,
+      "body_sha256": "7728c76b32bd6412c60be3ffe4dd7f07d628c1b9a160a2dc7eb08075206e0247",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Upcoming Events",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "902",
+      "domain": "instructure.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.instructure.com/request-demo",
+      "depth": 1,
+      "parent_url": "https://www.instructure.com/",
+      "attempt": 37,
+      "timestamp": "2026-11-12T21:13:31.939724+00:00",
+      "final_url": "https://www.instructure.com/request-demo",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "report-uri /report-csp-violation"
+        ],
+        "strict-transport-security": [
+          "max-age=15768000"
+        ]
+      },
+      "body_bytes": 152460,
+      "truncated": false,
+      "body_sha256": "e1782a922d5f8a25e0e4f059054dcc04cb6eea525934bf541d399ddb242ce7d9",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Instructure Demo: Personalized EdTech Tour for Your Institution | Instructure",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "902",
+      "domain": "instructure.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.instructure.com/privacy-security",
+      "depth": 1,
+      "parent_url": "https://www.instructure.com/",
+      "attempt": 38,
+      "timestamp": "2026-11-12T21:13:32.792461+00:00",
+      "final_url": "https://www.instructure.com/privacy-security",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "report-uri /report-csp-violation"
+        ],
+        "strict-transport-security": [
+          "max-age=15768000"
+        ]
+      },
+      "body_bytes": 122673,
+      "truncated": false,
+      "body_sha256": "98f23b0b0148635e6a995a1ac2c51c532907cbea5d62e3df55adc843d5087d87",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Privacy | Instructure",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "902",
+      "domain": "instructure.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.instructure.com/trust-center/legal",
+      "depth": 1,
+      "parent_url": "https://www.instructure.com/",
+      "attempt": 39,
+      "timestamp": "2026-11-12T21:13:34.030721+00:00",
+      "final_url": "https://www.instructure.com/trust-center/legal",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "report-uri /report-csp-violation"
+        ],
+        "strict-transport-security": [
+          "max-age=15768000"
+        ]
+      },
+      "body_bytes": 127306,
+      "truncated": false,
+      "body_sha256": "f70012aba2b0dfff6e07d94b0a27b495a80991a5545132ba790e36b1b6e63b4b",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Legal | Trust Center | Instructure",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "902",
+      "domain": "instructure.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.instructure.com/accessibility",
+      "depth": 1,
+      "parent_url": "https://www.instructure.com/",
+      "attempt": 40,
+      "timestamp": "2026-11-12T21:13:34.400797+00:00",
+      "final_url": "https://www.instructure.com/accessibility",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "report-uri /report-csp-violation"
+        ],
+        "strict-transport-security": [
+          "max-age=15768000"
+        ]
+      },
+      "body_bytes": 150233,
+      "truncated": false,
+      "body_sha256": "c3739b301e17db1ef5aaebc366c1e79674546e521500cf5a6a83fa7c7efaae0e",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Accessibility at Instructure | Inclusive & Equitable Learning",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "902",
+      "domain": "instructure.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.instructure.com/contact-us",
+      "depth": 1,
+      "parent_url": "https://www.instructure.com/",
+      "attempt": 41,
+      "timestamp": "2026-11-12T21:13:36.005520+00:00",
+      "final_url": "https://www.instructure.com/contact-us",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [
+          "report-uri /report-csp-violation"
+        ],
+        "strict-transport-security": [
+          "max-age=15768000"
+        ]
+      },
+      "body_bytes": 149983,
+      "truncated": false,
+      "body_sha256": "06dba7e834251242796f85a61fbac8d597d55d1e4b8e244315eceb54b118ca85",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Education Technology Solutions | Contact Us | Instructure",
+      "duplicate_final": false,
+      "eligible": true
+    }
+  ],
+  "robots": [
+    {
+      "url": "https://instructure.com/robots.txt",
+      "timestamp": "2026-11-12T21:13:05.130392+00:00",
+      "status": 200,
+      "decision": "parsed",
+      "final_url": "https://www.instructure.com/robots.txt",
+      "redirect_chain": [
+        {
+          "url": "https://instructure.com/robots.txt",
+          "status": 301,
+          "location": "https://www.instructure.com/robots.txt"
+        }
+      ],
+      "body_sha256": "5d469c0788693c396cea2268da23b44ecf1130fb3f50e5d8236565c552894754",
+      "body": "#\n# robots.txt\n#\n# This file is to prevent the crawling and indexing of certain parts\n# of your site by web crawlers and spiders run by sites like Yahoo!\n# and Google. By telling these \"robots\" where not to go on your site,\n# you save bandwidth and server resources.\n#\n# This file will be ignored unless it is at the root of your host:\n# Used:    http://example.com/robots.txt\n# Ignored: http://example.com/site/robots.txt\n#\n# For more information about the robots.txt standard, see:\n# http://www.robotstxt.org/robotstxt.html\n\nUser-agent: *\n# CSS, JS, Images\nAllow: /core/*.css$\nAllow: /core/*.css?\nAllow: /core/*.js$\nAllow: /core/*.js?\nAllow: /core/*.gif\nAllow: /core/*.jpg\nAllow: /core/*.jpeg\nAllow: /core/*.png\nAllow: /core/*.svg\nAllow: /profiles/*.css$\nAllow: /profiles/*.css?\nAllow: /profiles/*.js$\nAllow: /profiles/*.js?\nAllow: /profiles/*.gif\nAllow: /profiles/*.jpg\nAllow: /profiles/*.jpeg\nAllow: /profiles/*.png\nAllow: /profiles/*.svg\n# Directories\nDisallow: /core/\nDisallow: /profiles/\n# Files\nDisallow: /README.txt\nDisallow: /web.config\nDisallow: /sites/default/files/pdf/*.pdf\nDisallow: /media/*/edit\n# Specific Files\nDisallow: /sites/default/files/file/2022-03/Instructure%20Security%20%282022%29.pdf\n# Paths (clean URLs)\nDisallow: /admin/\nDisallow: /comment/reply/\nDisallow: /filter/tips\nDisallow: /node/add/\nDisallow: /search\nDisallow: /search/\nDisallow: /user/register/\nDisallow: /user/password/\nDisallow: /user/login/\nDisallow: /user/logout/\nDisallow: /listed-event/\nDisallow: /test/\nDisallow: /taxonomy/\nDisallow: /node/\nDisallow: /quote/\nDisallow: /node\nDisallow: /search-deprecated\nDisallow: /search-deprecated/\nDisallow: /in-the-news/\nDisallow: /media/oembed/\nDisallow: /media/oembed\n# Paths (no clean URLs)\nDisallow: /index.php/admin/\nDisallow: /index.php/comment/reply/\nDisallow: /index.php/filter/tips\nDisallow: /index.php/node/add/\nDisallow: /index.php/search\nDisallow: /index.php/search/\nDisallow: /index.php/user/password/\nDisallow: /index.php/user/register/\nDisallow: /index.php/user/login/\nDisallow: /index.php/user/logout/\n\nSitemap: https://www.instructure.com/sitemap.xml\n"
+    },
+    {
+      "url": "https://www.instructure.com/robots.txt",
+      "timestamp": "2026-11-12T21:13:05.671005+00:00",
+      "status": 200,
+      "decision": "parsed",
+      "final_url": "https://www.instructure.com/robots.txt",
+      "redirect_chain": [],
+      "body_sha256": "5d469c0788693c396cea2268da23b44ecf1130fb3f50e5d8236565c552894754",
+      "body": "#\n# robots.txt\n#\n# This file is to prevent the crawling and indexing of certain parts\n# of your site by web crawlers and spiders run by sites like Yahoo!\n# and Google. By telling these \"robots\" where not to go on your site,\n# you save bandwidth and server resources.\n#\n# This file will be ignored unless it is at the root of your host:\n# Used:    http://example.com/robots.txt\n# Ignored: http://example.com/site/robots.txt\n#\n# For more information about the robots.txt standard, see:\n# http://www.robotstxt.org/robotstxt.html\n\nUser-agent: *\n# CSS, JS, Images\nAllow: /core/*.css$\nAllow: /core/*.css?\nAllow: /core/*.js$\nAllow: /core/*.js?\nAllow: /core/*.gif\nAllow: /core/*.jpg\nAllow: /core/*.jpeg\nAllow: /core/*.png\nAllow: /core/*.svg\nAllow: /profiles/*.css$\nAllow: /profiles/*.css?\nAllow: /profiles/*.js$\nAllow: /profiles/*.js?\nAllow: /profiles/*.gif\nAllow: /profiles/*.jpg\nAllow: /profiles/*.jpeg\nAllow: /profiles/*.png\nAllow: /profiles/*.svg\n# Directories\nDisallow: /core/\nDisallow: /profiles/\n# Files\nDisallow: /README.txt\nDisallow: /web.config\nDisallow: /sites/default/files/pdf/*.pdf\nDisallow: /media/*/edit\n# Specific Files\nDisallow: /sites/default/files/file/2022-03/Instructure%20Security%20%282022%29.pdf\n# Paths (clean URLs)\nDisallow: /admin/\nDisallow: /comment/reply/\nDisallow: /filter/tips\nDisallow: /node/add/\nDisallow: /search\nDisallow: /search/\nDisallow: /user/register/\nDisallow: /user/password/\nDisallow: /user/login/\nDisallow: /user/logout/\nDisallow: /listed-event/\nDisallow: /test/\nDisallow: /taxonomy/\nDisallow: /node/\nDisallow: /quote/\nDisallow: /node\nDisallow: /search-deprecated\nDisallow: /search-deprecated/\nDisallow: /in-the-news/\nDisallow: /media/oembed/\nDisallow: /media/oembed\n# Paths (no clean URLs)\nDisallow: /index.php/admin/\nDisallow: /index.php/comment/reply/\nDisallow: /index.php/filter/tips\nDisallow: /index.php/node/add/\nDisallow: /index.php/search\nDisallow: /index.php/search/\nDisallow: /index.php/user/password/\nDisallow: /index.php/user/register/\nDisallow: /index.php/user/login/\nDisallow: /index.php/user/logout/\n\nSitemap: https://www.instructure.com/sitemap.xml\n"
+    }
+  ],
+  "eligible_pages": 40,
+  "canonical_origin": [
+    "https",
+    "www.instructure.com",
+    443
+  ],
+  "stop_reason": "page_budget",
+  "elapsed_seconds": 31.56
+}

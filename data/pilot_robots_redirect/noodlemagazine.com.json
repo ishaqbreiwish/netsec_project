@@ -1,0 +1,57 @@
+{
+  "site": {
+    "rank": "1318",
+    "domain": "noodlemagazine.com",
+    "stratum": "1001-10000"
+  },
+  "rows": [
+    {
+      "rank": "1318",
+      "domain": "noodlemagazine.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://noodlemagazine.com/",
+      "depth": 0,
+      "parent_url": "",
+      "attempt": 1,
+      "timestamp": "2026-11-12T21:07:35.518981+00:00",
+      "final_url": "https://noodlemagazine.com/",
+      "status": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'none'; script-src 'nonce-WuYZWTq9HD95haxp0PrPLI' 'unsafe-eval' https://challenges.cloudflare.com; script-src-attr 'none'; style-src 'unsafe-inline'; img-src 'self' https://challenges.cloudflare.com; connect-src 'self' https://challenges.cloudflare.com; frame-src 'self' https://challenges.cloudflare.com blob:; child-src 'self' https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": []
+      },
+      "body_bytes": 5611,
+      "truncated": false,
+      "body_sha256": "a7497b996af67be6ec51a9f86b1d2ad4ce5f9af6b295d2ed05f2d3a044ae37f5",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    }
+  ],
+  "robots": [
+    {
+      "url": "https://noodlemagazine.com/robots.txt",
+      "timestamp": "2026-11-12T21:07:35.518943+00:00",
+      "status": 200,
+      "decision": "parsed",
+      "body_sha256": "9caafc9ad73ace224737ab31ea326cbee00ddf6fb753eae7c15ebccea0f959ec",
+      "body": "User-agent: *\nDisallow: /?*\nDisallow: /playlist/*\nDisallow: /download/*\nDisallow: /contact\nDisallow: /removal\nDisallow: /privacy\nDisallow: /vtt/*\nDisallow: /hls/*\nDisallow: /v/*\nDisallow: /v$\n\n# Api layer\nDisallow: /api/stats"
+    }
+  ],
+  "eligible_pages": 0,
+  "canonical_origin": [
+    "https",
+    "noodlemagazine.com",
+    443
+  ],
+  "stop_reason": "frontier_exhausted",
+  "elapsed_seconds": 0.64
+}

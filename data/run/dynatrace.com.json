@@ -1,0 +1,1854 @@
+{
+  "site": {
+    "rank": "370",
+    "domain": "dynatrace.com",
+    "stratum": "101-1000"
+  },
+  "rows": [
+    {
+      "rank": "370",
+      "domain": "dynatrace.com",
+      "stratum": "101-1000",
+      "requested_url": "https://dynatrace.com/",
+      "depth": 0,
+      "parent_url": "",
+      "attempt": 1,
+      "timestamp": "2026-11-12T21:12:05.808707+00:00",
+      "final_url": "https://www.dynatrace.com/",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' *.dynatrace.org *.dynatrace.com *.dynatrace.cn"
+        ],
+        "content-security-policy-report-only": [
+          "default-src 'self'; script-src 'self' 'unsafe-inline' https://*.dynatrace.com https://*.cookielaw.org https://*.usersnap.com https://*.calibermind.com https://*.hotjar.com https://*.googletagmanager.com https://*.b0e8.com https://*.doubleclick.net https://*.bing.com https://*.licdn.com https://*.redditstatic.com https://*.6sc.co https://*.influ2.com https://*.zoominfo.com https://*.d41.co https://*.stackadapt.com https://*.marketo.net; style-src 'self' 'unsafe-inline' https://*.cookielaw.org https://cdnjs.cloudflare.com; img-src 'self' data: https://*.dynatrace.com https://dt-cdn.net https://*.cookielaw.org https://*.reddit.com https://*.google.com https://*.google.at https://*.linkedin.com https://*.bing.com https://*.6sc.co; font-src 'self' data:; connect-src 'self' https://*.dynatrace.com https://*.bc0a.com https://*.cookielaw.org https://*.calibermind.com https://*.hotjar.com https://*.hotjar.io wss://*.hotjar.com https://unpkg.com https://*.google-analytics.com https://*.google.com https://*.doubleclick.net https://*.bing.com https://*.linkedin.com https://*.reddit.com https://*.stackadapt.com https://*.6sc.co https://*.adnxs.com https://*.influ2.com https://*.d41.co https://*.mktoresp.com https://*.zoominfo.com; frame-src 'self' https://*.googletagmanager.com https://*.youtube.com https://*.youtube-nocookie.com https://*.doubleclick.net; frame-ancestors 'self' *.dynatrace.org *.dynatrace.com *.dynatrace.cn; worker-src 'self' blob:; object-src 'none'; base-uri 'self'; form-action 'self'"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains"
+        ]
+      },
+      "body_bytes": 149379,
+      "truncated": false,
+      "body_sha256": "2dd89288d89accf7bfd5055379f9079fec4ead217f2039cfbbed2f352e004cfa",
+      "redirect_chain": [
+        {
+          "url": "https://dynatrace.com/",
+          "status": 301,
+          "location": "https://www.dynatrace.com/",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": []
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Dynatrace | Observability built for the age of AI",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "370",
+      "domain": "dynatrace.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.dynatrace.com/perform/",
+      "depth": 1,
+      "parent_url": "https://www.dynatrace.com/",
+      "attempt": 2,
+      "timestamp": "2026-11-12T21:12:06.356257+00:00",
+      "final_url": "https://www.dynatrace.com/perform/",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' *.dynatrace.org *.dynatrace.com *.dynatrace.cn"
+        ],
+        "content-security-policy-report-only": [
+          "default-src 'self'; script-src 'self' 'unsafe-inline' https://*.dynatrace.com https://*.cookielaw.org https://*.usersnap.com https://*.calibermind.com https://*.hotjar.com https://*.googletagmanager.com https://*.b0e8.com https://*.doubleclick.net https://*.bing.com https://*.licdn.com https://*.redditstatic.com https://*.6sc.co https://*.influ2.com https://*.zoominfo.com https://*.d41.co https://*.stackadapt.com https://*.marketo.net; style-src 'self' 'unsafe-inline' https://*.cookielaw.org https://cdnjs.cloudflare.com; img-src 'self' data: https://*.dynatrace.com https://dt-cdn.net https://*.cookielaw.org https://*.reddit.com https://*.google.com https://*.google.at https://*.linkedin.com https://*.bing.com https://*.6sc.co; font-src 'self' data:; connect-src 'self' https://*.dynatrace.com https://*.bc0a.com https://*.cookielaw.org https://*.calibermind.com https://*.hotjar.com https://*.hotjar.io wss://*.hotjar.com https://unpkg.com https://*.google-analytics.com https://*.google.com https://*.doubleclick.net https://*.bing.com https://*.linkedin.com https://*.reddit.com https://*.stackadapt.com https://*.6sc.co https://*.adnxs.com https://*.influ2.com https://*.d41.co https://*.mktoresp.com https://*.zoominfo.com; frame-src 'self' https://*.googletagmanager.com https://*.youtube.com https://*.youtube-nocookie.com https://*.doubleclick.net; frame-ancestors 'self' *.dynatrace.org *.dynatrace.com *.dynatrace.cn; worker-src 'self' blob:; object-src 'none'; base-uri 'self'; form-action 'self'"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains"
+        ]
+      },
+      "body_bytes": 121541,
+      "truncated": false,
+      "body_sha256": "566a4170512f3c4e32f11ef9f2168b91fddcda3cf1ffe0581b6fdd3af3f924df",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Dynatrace Perform | Feb. 16\u201318, 2027",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "370",
+      "domain": "dynatrace.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.dynatrace.com/try-free/",
+      "depth": 1,
+      "parent_url": "https://www.dynatrace.com/",
+      "attempt": 3,
+      "timestamp": "2026-11-12T21:12:06.971159+00:00",
+      "final_url": "https://www.dynatrace.com/try-free/",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' *.dynatrace.org *.dynatrace.com *.dynatrace.cn"
+        ],
+        "content-security-policy-report-only": [
+          "default-src 'self'; script-src 'self' 'unsafe-inline' https://*.dynatrace.com https://*.cookielaw.org https://*.usersnap.com https://*.calibermind.com https://*.hotjar.com https://*.googletagmanager.com https://*.b0e8.com https://*.doubleclick.net https://*.bing.com https://*.licdn.com https://*.redditstatic.com https://*.6sc.co https://*.influ2.com https://*.zoominfo.com https://*.d41.co https://*.stackadapt.com https://*.marketo.net; style-src 'self' 'unsafe-inline' https://*.cookielaw.org https://cdnjs.cloudflare.com; img-src 'self' data: https://*.dynatrace.com https://dt-cdn.net https://*.cookielaw.org https://*.reddit.com https://*.google.com https://*.google.at https://*.linkedin.com https://*.bing.com https://*.6sc.co; font-src 'self' data:; connect-src 'self' https://*.dynatrace.com https://*.bc0a.com https://*.cookielaw.org https://*.calibermind.com https://*.hotjar.com https://*.hotjar.io wss://*.hotjar.com https://unpkg.com https://*.google-analytics.com https://*.google.com https://*.doubleclick.net https://*.bing.com https://*.linkedin.com https://*.reddit.com https://*.stackadapt.com https://*.6sc.co https://*.adnxs.com https://*.influ2.com https://*.d41.co https://*.mktoresp.com https://*.zoominfo.com; frame-src 'self' https://*.googletagmanager.com https://*.youtube.com https://*.youtube-nocookie.com https://*.doubleclick.net; frame-ancestors 'self' *.dynatrace.org *.dynatrace.com *.dynatrace.cn; worker-src 'self' blob:; object-src 'none'; base-uri 'self'; form-action 'self'"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains"
+        ]
+      },
+      "body_bytes": 47543,
+      "truncated": false,
+      "body_sha256": "8e5b0045dca061164aa8fc6704b6217e5ec4ce0b81df6247eb9411144fc8e0da",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Get started with Dynatrace",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "370",
+      "domain": "dynatrace.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.dynatrace.com/request-demo/",
+      "depth": 1,
+      "parent_url": "https://www.dynatrace.com/",
+      "attempt": 4,
+      "timestamp": "2026-11-12T21:12:07.361459+00:00",
+      "final_url": "https://www.dynatrace.com/request-demo/",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' *.dynatrace.org *.dynatrace.com *.dynatrace.cn"
+        ],
+        "content-security-policy-report-only": [
+          "default-src 'self'; script-src 'self' 'unsafe-inline' https://*.dynatrace.com https://*.cookielaw.org https://*.usersnap.com https://*.calibermind.com https://*.hotjar.com https://*.googletagmanager.com https://*.b0e8.com https://*.doubleclick.net https://*.bing.com https://*.licdn.com https://*.redditstatic.com https://*.6sc.co https://*.influ2.com https://*.zoominfo.com https://*.d41.co https://*.stackadapt.com https://*.marketo.net; style-src 'self' 'unsafe-inline' https://*.cookielaw.org https://cdnjs.cloudflare.com; img-src 'self' data: https://*.dynatrace.com https://dt-cdn.net https://*.cookielaw.org https://*.reddit.com https://*.google.com https://*.google.at https://*.linkedin.com https://*.bing.com https://*.6sc.co; font-src 'self' data:; connect-src 'self' https://*.dynatrace.com https://*.bc0a.com https://*.cookielaw.org https://*.calibermind.com https://*.hotjar.com https://*.hotjar.io wss://*.hotjar.com https://unpkg.com https://*.google-analytics.com https://*.google.com https://*.doubleclick.net https://*.bing.com https://*.linkedin.com https://*.reddit.com https://*.stackadapt.com https://*.6sc.co https://*.adnxs.com https://*.influ2.com https://*.d41.co https://*.mktoresp.com https://*.zoominfo.com; frame-src 'self' https://*.googletagmanager.com https://*.youtube.com https://*.youtube-nocookie.com https://*.doubleclick.net; frame-ancestors 'self' *.dynatrace.org *.dynatrace.com *.dynatrace.cn; worker-src 'self' blob:; object-src 'none'; base-uri 'self'; form-action 'self'"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains"
+        ]
+      },
+      "body_bytes": 70847,
+      "truncated": false,
+      "body_sha256": "f9737140959ab58cae4a927c4c657089d2079a4ef857862b8bdbb87df27ee0f0",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Get a Dynatrace Demo today",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "370",
+      "domain": "dynatrace.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.dynatrace.com/company/locations/",
+      "depth": 2,
+      "parent_url": "https://www.dynatrace.com/request-demo/",
+      "attempt": 5,
+      "timestamp": "2026-11-12T21:12:08.626117+00:00",
+      "error": "redirect_limit",
+      "final_url": "https://www.dynatrace.com/company/locations/",
+      "redirect_chain": [
+        {
+          "url": "https://www.dynatrace.com/company/locations/",
+          "status": 302,
+          "location": "/company/locations/",
+          "headers": {
+            "content-security-policy": [
+              "frame-ancestors 'self' *.dynatrace.org *.dynatrace.com *.dynatrace.cn"
+            ],
+            "content-security-policy-report-only": [
+              "default-src 'self'; script-src 'self' 'unsafe-inline' https://*.dynatrace.com https://*.cookielaw.org https://*.usersnap.com https://*.calibermind.com https://*.hotjar.com https://*.googletagmanager.com https://*.b0e8.com https://*.doubleclick.net https://*.bing.com https://*.licdn.com https://*.redditstatic.com https://*.6sc.co https://*.influ2.com https://*.zoominfo.com https://*.d41.co https://*.stackadapt.com https://*.marketo.net; style-src 'self' 'unsafe-inline' https://*.cookielaw.org https://cdnjs.cloudflare.com; img-src 'self' data: https://*.dynatrace.com https://dt-cdn.net https://*.cookielaw.org https://*.reddit.com https://*.google.com https://*.google.at https://*.linkedin.com https://*.bing.com https://*.6sc.co; font-src 'self' data:; connect-src 'self' https://*.dynatrace.com https://*.bc0a.com https://*.cookielaw.org https://*.calibermind.com https://*.hotjar.com https://*.hotjar.io wss://*.hotjar.com https://unpkg.com https://*.google-analytics.com https://*.google.com https://*.doubleclick.net https://*.bing.com https://*.linkedin.com https://*.reddit.com https://*.stackadapt.com https://*.6sc.co https://*.adnxs.com https://*.influ2.com https://*.d41.co https://*.mktoresp.com https://*.zoominfo.com; frame-src 'self' https://*.googletagmanager.com https://*.youtube.com https://*.youtube-nocookie.com https://*.doubleclick.net; frame-ancestors 'self' *.dynatrace.org *.dynatrace.com *.dynatrace.cn; worker-src 'self' blob:; object-src 'none'; base-uri 'self'; form-action 'self'"
+            ],
+            "strict-transport-security": [
+              "max-age=31536000; includeSubDomains"
+            ]
+          }
+        },
+        {
+          "url": "https://www.dynatrace.com/company/locations/",
+          "status": 302,
+          "location": "/company/locations/",
+          "headers": {
+            "content-security-policy": [
+              "frame-ancestors 'self' *.dynatrace.org *.dynatrace.com *.dynatrace.cn"
+            ],
+            "content-security-policy-report-only": [
+              "default-src 'self'; script-src 'self' 'unsafe-inline' https://*.dynatrace.com https://*.cookielaw.org https://*.usersnap.com https://*.calibermind.com https://*.hotjar.com https://*.googletagmanager.com https://*.b0e8.com https://*.doubleclick.net https://*.bing.com https://*.licdn.com https://*.redditstatic.com https://*.6sc.co https://*.influ2.com https://*.zoominfo.com https://*.d41.co https://*.stackadapt.com https://*.marketo.net; style-src 'self' 'unsafe-inline' https://*.cookielaw.org https://cdnjs.cloudflare.com; img-src 'self' data: https://*.dynatrace.com https://dt-cdn.net https://*.cookielaw.org https://*.reddit.com https://*.google.com https://*.google.at https://*.linkedin.com https://*.bing.com https://*.6sc.co; font-src 'self' data:; connect-src 'self' https://*.dynatrace.com https://*.bc0a.com https://*.cookielaw.org https://*.calibermind.com https://*.hotjar.com https://*.hotjar.io wss://*.hotjar.com https://unpkg.com https://*.google-analytics.com https://*.google.com https://*.doubleclick.net https://*.bing.com https://*.linkedin.com https://*.reddit.com https://*.stackadapt.com https://*.6sc.co https://*.adnxs.com https://*.influ2.com https://*.d41.co https://*.mktoresp.com https://*.zoominfo.com; frame-src 'self' https://*.googletagmanager.com https://*.youtube.com https://*.youtube-nocookie.com https://*.doubleclick.net; frame-ancestors 'self' *.dynatrace.org *.dynatrace.com *.dynatrace.cn; worker-src 'self' blob:; object-src 'none'; base-uri 'self'; form-action 'self'"
+            ],
+            "strict-transport-security": [
+              "max-age=31536000; includeSubDomains"
+            ]
+          }
+        },
+        {
+          "url": "https://www.dynatrace.com/company/locations/",
+          "status": 302,
+          "location": "/company/locations/",
+          "headers": {
+            "content-security-policy": [
+              "frame-ancestors 'self' *.dynatrace.org *.dynatrace.com *.dynatrace.cn"
+            ],
+            "content-security-policy-report-only": [
+              "default-src 'self'; script-src 'self' 'unsafe-inline' https://*.dynatrace.com https://*.cookielaw.org https://*.usersnap.com https://*.calibermind.com https://*.hotjar.com https://*.googletagmanager.com https://*.b0e8.com https://*.doubleclick.net https://*.bing.com https://*.licdn.com https://*.redditstatic.com https://*.6sc.co https://*.influ2.com https://*.zoominfo.com https://*.d41.co https://*.stackadapt.com https://*.marketo.net; style-src 'self' 'unsafe-inline' https://*.cookielaw.org https://cdnjs.cloudflare.com; img-src 'self' data: https://*.dynatrace.com https://dt-cdn.net https://*.cookielaw.org https://*.reddit.com https://*.google.com https://*.google.at https://*.linkedin.com https://*.bing.com https://*.6sc.co; font-src 'self' data:; connect-src 'self' https://*.dynatrace.com https://*.bc0a.com https://*.cookielaw.org https://*.calibermind.com https://*.hotjar.com https://*.hotjar.io wss://*.hotjar.com https://unpkg.com https://*.google-analytics.com https://*.google.com https://*.doubleclick.net https://*.bing.com https://*.linkedin.com https://*.reddit.com https://*.stackadapt.com https://*.6sc.co https://*.adnxs.com https://*.influ2.com https://*.d41.co https://*.mktoresp.com https://*.zoominfo.com; frame-src 'self' https://*.googletagmanager.com https://*.youtube.com https://*.youtube-nocookie.com https://*.doubleclick.net; frame-ancestors 'self' *.dynatrace.org *.dynatrace.com *.dynatrace.cn; worker-src 'self' blob:; object-src 'none'; base-uri 'self'; form-action 'self'"
+            ],
+            "strict-transport-security": [
+              "max-age=31536000; includeSubDomains"
+            ]
+          }
+        },
+        {
+          "url": "https://www.dynatrace.com/company/locations/",
+          "status": 302,
+          "location": "/company/locations/",
+          "headers": {
+            "content-security-policy": [
+              "frame-ancestors 'self' *.dynatrace.org *.dynatrace.com *.dynatrace.cn"
+            ],
+            "content-security-policy-report-only": [
+              "default-src 'self'; script-src 'self' 'unsafe-inline' https://*.dynatrace.com https://*.cookielaw.org https://*.usersnap.com https://*.calibermind.com https://*.hotjar.com https://*.googletagmanager.com https://*.b0e8.com https://*.doubleclick.net https://*.bing.com https://*.licdn.com https://*.redditstatic.com https://*.6sc.co https://*.influ2.com https://*.zoominfo.com https://*.d41.co https://*.stackadapt.com https://*.marketo.net; style-src 'self' 'unsafe-inline' https://*.cookielaw.org https://cdnjs.cloudflare.com; img-src 'self' data: https://*.dynatrace.com https://dt-cdn.net https://*.cookielaw.org https://*.reddit.com https://*.google.com https://*.google.at https://*.linkedin.com https://*.bing.com https://*.6sc.co; font-src 'self' data:; connect-src 'self' https://*.dynatrace.com https://*.bc0a.com https://*.cookielaw.org https://*.calibermind.com https://*.hotjar.com https://*.hotjar.io wss://*.hotjar.com https://unpkg.com https://*.google-analytics.com https://*.google.com https://*.doubleclick.net https://*.bing.com https://*.linkedin.com https://*.reddit.com https://*.stackadapt.com https://*.6sc.co https://*.adnxs.com https://*.influ2.com https://*.d41.co https://*.mktoresp.com https://*.zoominfo.com; frame-src 'self' https://*.googletagmanager.com https://*.youtube.com https://*.youtube-nocookie.com https://*.doubleclick.net; frame-ancestors 'self' *.dynatrace.org *.dynatrace.com *.dynatrace.cn; worker-src 'self' blob:; object-src 'none'; base-uri 'self'; form-action 'self'"
+            ],
+            "strict-transport-security": [
+              "max-age=31536000; includeSubDomains"
+            ]
+          }
+        },
+        {
+          "url": "https://www.dynatrace.com/company/locations/",
+          "status": 302,
+          "location": "/company/locations/",
+          "headers": {
+            "content-security-policy": [
+              "frame-ancestors 'self' *.dynatrace.org *.dynatrace.com *.dynatrace.cn"
+            ],
+            "content-security-policy-report-only": [
+              "default-src 'self'; script-src 'self' 'unsafe-inline' https://*.dynatrace.com https://*.cookielaw.org https://*.usersnap.com https://*.calibermind.com https://*.hotjar.com https://*.googletagmanager.com https://*.b0e8.com https://*.doubleclick.net https://*.bing.com https://*.licdn.com https://*.redditstatic.com https://*.6sc.co https://*.influ2.com https://*.zoominfo.com https://*.d41.co https://*.stackadapt.com https://*.marketo.net; style-src 'self' 'unsafe-inline' https://*.cookielaw.org https://cdnjs.cloudflare.com; img-src 'self' data: https://*.dynatrace.com https://dt-cdn.net https://*.cookielaw.org https://*.reddit.com https://*.google.com https://*.google.at https://*.linkedin.com https://*.bing.com https://*.6sc.co; font-src 'self' data:; connect-src 'self' https://*.dynatrace.com https://*.bc0a.com https://*.cookielaw.org https://*.calibermind.com https://*.hotjar.com https://*.hotjar.io wss://*.hotjar.com https://unpkg.com https://*.google-analytics.com https://*.google.com https://*.doubleclick.net https://*.bing.com https://*.linkedin.com https://*.reddit.com https://*.stackadapt.com https://*.6sc.co https://*.adnxs.com https://*.influ2.com https://*.d41.co https://*.mktoresp.com https://*.zoominfo.com; frame-src 'self' https://*.googletagmanager.com https://*.youtube.com https://*.youtube-nocookie.com https://*.doubleclick.net; frame-ancestors 'self' *.dynatrace.org *.dynatrace.com *.dynatrace.cn; worker-src 'self' blob:; object-src 'none'; base-uri 'self'; form-action 'self'"
+            ],
+            "strict-transport-security": [
+              "max-age=31536000; includeSubDomains"
+            ]
+          }
+        },
+        {
+          "url": "https://www.dynatrace.com/company/locations/",
+          "status": 302,
+          "location": "/company/locations/",
+          "headers": {
+            "content-security-policy": [
+              "frame-ancestors 'self' *.dynatrace.org *.dynatrace.com *.dynatrace.cn"
+            ],
+            "content-security-policy-report-only": [
+              "default-src 'self'; script-src 'self' 'unsafe-inline' https://*.dynatrace.com https://*.cookielaw.org https://*.usersnap.com https://*.calibermind.com https://*.hotjar.com https://*.googletagmanager.com https://*.b0e8.com https://*.doubleclick.net https://*.bing.com https://*.licdn.com https://*.redditstatic.com https://*.6sc.co https://*.influ2.com https://*.zoominfo.com https://*.d41.co https://*.stackadapt.com https://*.marketo.net; style-src 'self' 'unsafe-inline' https://*.cookielaw.org https://cdnjs.cloudflare.com; img-src 'self' data: https://*.dynatrace.com https://dt-cdn.net https://*.cookielaw.org https://*.reddit.com https://*.google.com https://*.google.at https://*.linkedin.com https://*.bing.com https://*.6sc.co; font-src 'self' data:; connect-src 'self' https://*.dynatrace.com https://*.bc0a.com https://*.cookielaw.org https://*.calibermind.com https://*.hotjar.com https://*.hotjar.io wss://*.hotjar.com https://unpkg.com https://*.google-analytics.com https://*.google.com https://*.doubleclick.net https://*.bing.com https://*.linkedin.com https://*.reddit.com https://*.stackadapt.com https://*.6sc.co https://*.adnxs.com https://*.influ2.com https://*.d41.co https://*.mktoresp.com https://*.zoominfo.com; frame-src 'self' https://*.googletagmanager.com https://*.youtube.com https://*.youtube-nocookie.com https://*.doubleclick.net; frame-ancestors 'self' *.dynatrace.org *.dynatrace.com *.dynatrace.cn; worker-src 'self' blob:; object-src 'none'; base-uri 'self'; form-action 'self'"
+            ],
+            "strict-transport-security": [
+              "max-age=31536000; includeSubDomains"
+            ]
+          }
+        },
+        {
+          "url": "https://www.dynatrace.com/company/locations/",
+          "status": 302,
+          "location": "/company/locations/",
+          "headers": {
+            "content-security-policy": [
+              "frame-ancestors 'self' *.dynatrace.org *.dynatrace.com *.dynatrace.cn"
+            ],
+            "content-security-policy-report-only": [
+              "default-src 'self'; script-src 'self' 'unsafe-inline' https://*.dynatrace.com https://*.cookielaw.org https://*.usersnap.com https://*.calibermind.com https://*.hotjar.com https://*.googletagmanager.com https://*.b0e8.com https://*.doubleclick.net https://*.bing.com https://*.licdn.com https://*.redditstatic.com https://*.6sc.co https://*.influ2.com https://*.zoominfo.com https://*.d41.co https://*.stackadapt.com https://*.marketo.net; style-src 'self' 'unsafe-inline' https://*.cookielaw.org https://cdnjs.cloudflare.com; img-src 'self' data: https://*.dynatrace.com https://dt-cdn.net https://*.cookielaw.org https://*.reddit.com https://*.google.com https://*.google.at https://*.linkedin.com https://*.bing.com https://*.6sc.co; font-src 'self' data:; connect-src 'self' https://*.dynatrace.com https://*.bc0a.com https://*.cookielaw.org https://*.calibermind.com https://*.hotjar.com https://*.hotjar.io wss://*.hotjar.com https://unpkg.com https://*.google-analytics.com https://*.google.com https://*.doubleclick.net https://*.bing.com https://*.linkedin.com https://*.reddit.com https://*.stackadapt.com https://*.6sc.co https://*.adnxs.com https://*.influ2.com https://*.d41.co https://*.mktoresp.com https://*.zoominfo.com; frame-src 'self' https://*.googletagmanager.com https://*.youtube.com https://*.youtube-nocookie.com https://*.doubleclick.net; frame-ancestors 'self' *.dynatrace.org *.dynatrace.com *.dynatrace.cn; worker-src 'self' blob:; object-src 'none'; base-uri 'self'; form-action 'self'"
+            ],
+            "strict-transport-security": [
+              "max-age=31536000; includeSubDomains"
+            ]
+          }
+        },
+        {
+          "url": "https://www.dynatrace.com/company/locations/",
+          "status": 302,
+          "location": "/company/locations/",
+          "headers": {
+            "content-security-policy": [
+              "frame-ancestors 'self' *.dynatrace.org *.dynatrace.com *.dynatrace.cn"
+            ],
+            "content-security-policy-report-only": [
+              "default-src 'self'; script-src 'self' 'unsafe-inline' https://*.dynatrace.com https://*.cookielaw.org https://*.usersnap.com https://*.calibermind.com https://*.hotjar.com https://*.googletagmanager.com https://*.b0e8.com https://*.doubleclick.net https://*.bing.com https://*.licdn.com https://*.redditstatic.com https://*.6sc.co https://*.influ2.com https://*.zoominfo.com https://*.d41.co https://*.stackadapt.com https://*.marketo.net; style-src 'self' 'unsafe-inline' https://*.cookielaw.org https://cdnjs.cloudflare.com; img-src 'self' data: https://*.dynatrace.com https://dt-cdn.net https://*.cookielaw.org https://*.reddit.com https://*.google.com https://*.google.at https://*.linkedin.com https://*.bing.com https://*.6sc.co; font-src 'self' data:; connect-src 'self' https://*.dynatrace.com https://*.bc0a.com https://*.cookielaw.org https://*.calibermind.com https://*.hotjar.com https://*.hotjar.io wss://*.hotjar.com https://unpkg.com https://*.google-analytics.com https://*.google.com https://*.doubleclick.net https://*.bing.com https://*.linkedin.com https://*.reddit.com https://*.stackadapt.com https://*.6sc.co https://*.adnxs.com https://*.influ2.com https://*.d41.co https://*.mktoresp.com https://*.zoominfo.com; frame-src 'self' https://*.googletagmanager.com https://*.youtube.com https://*.youtube-nocookie.com https://*.doubleclick.net; frame-ancestors 'self' *.dynatrace.org *.dynatrace.com *.dynatrace.cn; worker-src 'self' blob:; object-src 'none'; base-uri 'self'; form-action 'self'"
+            ],
+            "strict-transport-security": [
+              "max-age=31536000; includeSubDomains"
+            ]
+          }
+        },
+        {
+          "url": "https://www.dynatrace.com/company/locations/",
+          "status": 302,
+          "location": "/company/locations/",
+          "headers": {
+            "content-security-policy": [
+              "frame-ancestors 'self' *.dynatrace.org *.dynatrace.com *.dynatrace.cn"
+            ],
+            "content-security-policy-report-only": [
+              "default-src 'self'; script-src 'self' 'unsafe-inline' https://*.dynatrace.com https://*.cookielaw.org https://*.usersnap.com https://*.calibermind.com https://*.hotjar.com https://*.googletagmanager.com https://*.b0e8.com https://*.doubleclick.net https://*.bing.com https://*.licdn.com https://*.redditstatic.com https://*.6sc.co https://*.influ2.com https://*.zoominfo.com https://*.d41.co https://*.stackadapt.com https://*.marketo.net; style-src 'self' 'unsafe-inline' https://*.cookielaw.org https://cdnjs.cloudflare.com; img-src 'self' data: https://*.dynatrace.com https://dt-cdn.net https://*.cookielaw.org https://*.reddit.com https://*.google.com https://*.google.at https://*.linkedin.com https://*.bing.com https://*.6sc.co; font-src 'self' data:; connect-src 'self' https://*.dynatrace.com https://*.bc0a.com https://*.cookielaw.org https://*.calibermind.com https://*.hotjar.com https://*.hotjar.io wss://*.hotjar.com https://unpkg.com https://*.google-analytics.com https://*.google.com https://*.doubleclick.net https://*.bing.com https://*.linkedin.com https://*.reddit.com https://*.stackadapt.com https://*.6sc.co https://*.adnxs.com https://*.influ2.com https://*.d41.co https://*.mktoresp.com https://*.zoominfo.com; frame-src 'self' https://*.googletagmanager.com https://*.youtube.com https://*.youtube-nocookie.com https://*.doubleclick.net; frame-ancestors 'self' *.dynatrace.org *.dynatrace.com *.dynatrace.cn; worker-src 'self' blob:; object-src 'none'; base-uri 'self'; form-action 'self'"
+            ],
+            "strict-transport-security": [
+              "max-age=31536000; includeSubDomains"
+            ]
+          }
+        }
+      ],
+      "html": false,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "370",
+      "domain": "dynatrace.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.dynatrace.com/contact/",
+      "depth": 2,
+      "parent_url": "https://www.dynatrace.com/request-demo/",
+      "attempt": 6,
+      "timestamp": "2026-11-12T21:12:12.752927+00:00",
+      "final_url": "https://www.dynatrace.com/contact/",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' *.dynatrace.org *.dynatrace.com *.dynatrace.cn"
+        ],
+        "content-security-policy-report-only": [
+          "default-src 'self'; script-src 'self' 'unsafe-inline' https://*.dynatrace.com https://*.cookielaw.org https://*.usersnap.com https://*.calibermind.com https://*.hotjar.com https://*.googletagmanager.com https://*.b0e8.com https://*.doubleclick.net https://*.bing.com https://*.licdn.com https://*.redditstatic.com https://*.6sc.co https://*.influ2.com https://*.zoominfo.com https://*.d41.co https://*.stackadapt.com https://*.marketo.net; style-src 'self' 'unsafe-inline' https://*.cookielaw.org https://cdnjs.cloudflare.com; img-src 'self' data: https://*.dynatrace.com https://dt-cdn.net https://*.cookielaw.org https://*.reddit.com https://*.google.com https://*.google.at https://*.linkedin.com https://*.bing.com https://*.6sc.co; font-src 'self' data:; connect-src 'self' https://*.dynatrace.com https://*.bc0a.com https://*.cookielaw.org https://*.calibermind.com https://*.hotjar.com https://*.hotjar.io wss://*.hotjar.com https://unpkg.com https://*.google-analytics.com https://*.google.com https://*.doubleclick.net https://*.bing.com https://*.linkedin.com https://*.reddit.com https://*.stackadapt.com https://*.6sc.co https://*.adnxs.com https://*.influ2.com https://*.d41.co https://*.mktoresp.com https://*.zoominfo.com; frame-src 'self' https://*.googletagmanager.com https://*.youtube.com https://*.youtube-nocookie.com https://*.doubleclick.net; frame-ancestors 'self' *.dynatrace.org *.dynatrace.com *.dynatrace.cn; worker-src 'self' blob:; object-src 'none'; base-uri 'self'; form-action 'self'"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains"
+        ]
+      },
+      "body_bytes": 114580,
+      "truncated": false,
+      "body_sha256": "da267d828ada9056d12dcdd5fb7d2e4cced4995da382a68232badfba6d2ebb85",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Contact us",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "370",
+      "domain": "dynatrace.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.dynatrace.com/customers/",
+      "depth": 1,
+      "parent_url": "https://www.dynatrace.com/",
+      "attempt": 7,
+      "timestamp": "2026-11-12T21:12:14.179356+00:00",
+      "final_url": "https://www.dynatrace.com/customers/",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' *.dynatrace.org *.dynatrace.com *.dynatrace.cn"
+        ],
+        "content-security-policy-report-only": [
+          "default-src 'self'; script-src 'self' 'unsafe-inline' https://*.dynatrace.com https://*.cookielaw.org https://*.usersnap.com https://*.calibermind.com https://*.hotjar.com https://*.googletagmanager.com https://*.b0e8.com https://*.doubleclick.net https://*.bing.com https://*.licdn.com https://*.redditstatic.com https://*.6sc.co https://*.influ2.com https://*.zoominfo.com https://*.d41.co https://*.stackadapt.com https://*.marketo.net; style-src 'self' 'unsafe-inline' https://*.cookielaw.org https://cdnjs.cloudflare.com; img-src 'self' data: https://*.dynatrace.com https://dt-cdn.net https://*.cookielaw.org https://*.reddit.com https://*.google.com https://*.google.at https://*.linkedin.com https://*.bing.com https://*.6sc.co; font-src 'self' data:; connect-src 'self' https://*.dynatrace.com https://*.bc0a.com https://*.cookielaw.org https://*.calibermind.com https://*.hotjar.com https://*.hotjar.io wss://*.hotjar.com https://unpkg.com https://*.google-analytics.com https://*.google.com https://*.doubleclick.net https://*.bing.com https://*.linkedin.com https://*.reddit.com https://*.stackadapt.com https://*.6sc.co https://*.adnxs.com https://*.influ2.com https://*.d41.co https://*.mktoresp.com https://*.zoominfo.com; frame-src 'self' https://*.googletagmanager.com https://*.youtube.com https://*.youtube-nocookie.com https://*.doubleclick.net; frame-ancestors 'self' *.dynatrace.org *.dynatrace.com *.dynatrace.cn; worker-src 'self' blob:; object-src 'none'; base-uri 'self'; form-action 'self'"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains"
+        ]
+      },
+      "body_bytes": 49900,
+      "truncated": false,
+      "body_sha256": "7c5e70e975ffcdfbc50b88bf0816b7d52bb29382decb8bdf32614998860ac019",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Customer stories",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "370",
+      "domain": "dynatrace.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.dynatrace.com/platform/",
+      "depth": 1,
+      "parent_url": "https://www.dynatrace.com/",
+      "attempt": 8,
+      "timestamp": "2026-11-12T21:12:14.298630+00:00",
+      "final_url": "https://www.dynatrace.com/platform/",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' *.dynatrace.org *.dynatrace.com *.dynatrace.cn"
+        ],
+        "content-security-policy-report-only": [
+          "default-src 'self'; script-src 'self' 'unsafe-inline' https://*.dynatrace.com https://*.cookielaw.org https://*.usersnap.com https://*.calibermind.com https://*.hotjar.com https://*.googletagmanager.com https://*.b0e8.com https://*.doubleclick.net https://*.bing.com https://*.licdn.com https://*.redditstatic.com https://*.6sc.co https://*.influ2.com https://*.zoominfo.com https://*.d41.co https://*.stackadapt.com https://*.marketo.net; style-src 'self' 'unsafe-inline' https://*.cookielaw.org https://cdnjs.cloudflare.com; img-src 'self' data: https://*.dynatrace.com https://dt-cdn.net https://*.cookielaw.org https://*.reddit.com https://*.google.com https://*.google.at https://*.linkedin.com https://*.bing.com https://*.6sc.co; font-src 'self' data:; connect-src 'self' https://*.dynatrace.com https://*.bc0a.com https://*.cookielaw.org https://*.calibermind.com https://*.hotjar.com https://*.hotjar.io wss://*.hotjar.com https://unpkg.com https://*.google-analytics.com https://*.google.com https://*.doubleclick.net https://*.bing.com https://*.linkedin.com https://*.reddit.com https://*.stackadapt.com https://*.6sc.co https://*.adnxs.com https://*.influ2.com https://*.d41.co https://*.mktoresp.com https://*.zoominfo.com; frame-src 'self' https://*.googletagmanager.com https://*.youtube.com https://*.youtube-nocookie.com https://*.doubleclick.net; frame-ancestors 'self' *.dynatrace.org *.dynatrace.com *.dynatrace.cn; worker-src 'self' blob:; object-src 'none'; base-uri 'self'; form-action 'self'"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains"
+        ]
+      },
+      "body_bytes": 166697,
+      "truncated": false,
+      "body_sha256": "c62435b80a35c463fe79f12b004db3a84c5a2b990e293b9b4ecd58de6feda257",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Dynatrace observability platform",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "370",
+      "domain": "dynatrace.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.dynatrace.com/solutions/runtime-vulnerability-analytics/",
+      "depth": 2,
+      "parent_url": "https://www.dynatrace.com/platform/",
+      "attempt": 9,
+      "timestamp": "2026-11-12T21:12:15.237617+00:00",
+      "final_url": "https://www.dynatrace.com/solutions/runtime-vulnerability-analytics/",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' *.dynatrace.org *.dynatrace.com *.dynatrace.cn"
+        ],
+        "content-security-policy-report-only": [
+          "default-src 'self'; script-src 'self' 'unsafe-inline' https://*.dynatrace.com https://*.cookielaw.org https://*.usersnap.com https://*.calibermind.com https://*.hotjar.com https://*.googletagmanager.com https://*.b0e8.com https://*.doubleclick.net https://*.bing.com https://*.licdn.com https://*.redditstatic.com https://*.6sc.co https://*.influ2.com https://*.zoominfo.com https://*.d41.co https://*.stackadapt.com https://*.marketo.net; style-src 'self' 'unsafe-inline' https://*.cookielaw.org https://cdnjs.cloudflare.com; img-src 'self' data: https://*.dynatrace.com https://dt-cdn.net https://*.cookielaw.org https://*.reddit.com https://*.google.com https://*.google.at https://*.linkedin.com https://*.bing.com https://*.6sc.co; font-src 'self' data:; connect-src 'self' https://*.dynatrace.com https://*.bc0a.com https://*.cookielaw.org https://*.calibermind.com https://*.hotjar.com https://*.hotjar.io wss://*.hotjar.com https://unpkg.com https://*.google-analytics.com https://*.google.com https://*.doubleclick.net https://*.bing.com https://*.linkedin.com https://*.reddit.com https://*.stackadapt.com https://*.6sc.co https://*.adnxs.com https://*.influ2.com https://*.d41.co https://*.mktoresp.com https://*.zoominfo.com; frame-src 'self' https://*.googletagmanager.com https://*.youtube.com https://*.youtube-nocookie.com https://*.doubleclick.net; frame-ancestors 'self' *.dynatrace.org *.dynatrace.com *.dynatrace.cn; worker-src 'self' blob:; object-src 'none'; base-uri 'self'; form-action 'self'"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains"
+        ]
+      },
+      "body_bytes": 95235,
+      "truncated": false,
+      "body_sha256": "e3973f69d69f9911a08db228238518a4e2e0d86ca62770be4a8681011f3c24f1",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Runtime Vulnerability Analytics",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "370",
+      "domain": "dynatrace.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.dynatrace.com/hub/detail/tenable/",
+      "depth": 3,
+      "parent_url": "https://www.dynatrace.com/solutions/runtime-vulnerability-analytics/",
+      "attempt": 10,
+      "timestamp": "2026-11-12T21:12:16.279252+00:00",
+      "final_url": "https://www.dynatrace.com/hub/detail/tenable/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' *.dynatrace.org *.dynatrace.com *.dynatrace.cn"
+        ],
+        "content-security-policy-report-only": [
+          "default-src 'self'; script-src 'self' 'unsafe-inline' https://*.dynatrace.com https://*.cookielaw.org https://*.usersnap.com https://*.calibermind.com https://*.hotjar.com https://*.googletagmanager.com https://*.b0e8.com https://*.doubleclick.net https://*.bing.com https://*.licdn.com https://*.redditstatic.com https://*.6sc.co https://*.influ2.com https://*.zoominfo.com https://*.d41.co https://*.stackadapt.com https://*.marketo.net; style-src 'self' 'unsafe-inline' https://*.cookielaw.org https://cdnjs.cloudflare.com; img-src 'self' data: https://*.dynatrace.com https://dt-cdn.net https://*.cookielaw.org https://*.reddit.com https://*.google.com https://*.google.at https://*.linkedin.com https://*.bing.com https://*.6sc.co; font-src 'self' data:; connect-src 'self' https://*.dynatrace.com https://*.bc0a.com https://*.cookielaw.org https://*.calibermind.com https://*.hotjar.com https://*.hotjar.io wss://*.hotjar.com https://unpkg.com https://*.google-analytics.com https://*.google.com https://*.doubleclick.net https://*.bing.com https://*.linkedin.com https://*.reddit.com https://*.stackadapt.com https://*.6sc.co https://*.adnxs.com https://*.influ2.com https://*.d41.co https://*.mktoresp.com https://*.zoominfo.com; frame-src 'self' https://*.googletagmanager.com https://*.youtube.com https://*.youtube-nocookie.com https://*.doubleclick.net; frame-ancestors 'self' *.dynatrace.org *.dynatrace.com *.dynatrace.cn; worker-src 'self' blob:; object-src 'none'; base-uri 'self'; form-action 'self'"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains"
+        ]
+      },
+      "body_bytes": 168896,
+      "truncated": false,
+      "body_sha256": "ef01bf35d15e4d926f27bd7a528dfb7fb57f11c508e5da0e235d8f128062d2b7",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Tenable monitoring & observability | Dynatrace Hub",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "370",
+      "domain": "dynatrace.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.dynatrace.com/support/help/extend-dynatrace/extensions20/extension-lifecycle",
+      "depth": 4,
+      "parent_url": "https://www.dynatrace.com/hub/detail/tenable/",
+      "attempt": 11,
+      "timestamp": "2026-11-12T21:12:16.453006+00:00",
+      "final_url": "https://www.dynatrace.com/support/help/extend-dynatrace/extensions20/extension-lifecycle",
+      "status": 301,
+      "content_type": "",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' *.dynatrace.org *.dynatrace.com *.dynatrace.cn"
+        ],
+        "content-security-policy-report-only": [
+          "default-src 'self'; script-src 'self' 'unsafe-inline' https://*.dynatrace.com https://*.cookielaw.org https://*.usersnap.com https://*.calibermind.com https://*.hotjar.com https://*.googletagmanager.com https://*.b0e8.com https://*.doubleclick.net https://*.bing.com https://*.licdn.com https://*.redditstatic.com https://*.6sc.co https://*.influ2.com https://*.zoominfo.com https://*.d41.co https://*.stackadapt.com https://*.marketo.net; style-src 'self' 'unsafe-inline' https://*.cookielaw.org https://cdnjs.cloudflare.com; img-src 'self' data: https://*.dynatrace.com https://dt-cdn.net https://*.cookielaw.org https://*.reddit.com https://*.google.com https://*.google.at https://*.linkedin.com https://*.bing.com https://*.6sc.co; font-src 'self' data:; connect-src 'self' https://*.dynatrace.com https://*.bc0a.com https://*.cookielaw.org https://*.calibermind.com https://*.hotjar.com https://*.hotjar.io wss://*.hotjar.com https://unpkg.com https://*.google-analytics.com https://*.google.com https://*.doubleclick.net https://*.bing.com https://*.linkedin.com https://*.reddit.com https://*.stackadapt.com https://*.6sc.co https://*.adnxs.com https://*.influ2.com https://*.d41.co https://*.mktoresp.com https://*.zoominfo.com; frame-src 'self' https://*.googletagmanager.com https://*.youtube.com https://*.youtube-nocookie.com https://*.doubleclick.net; frame-ancestors 'self' *.dynatrace.org *.dynatrace.com *.dynatrace.cn; worker-src 'self' blob:; object-src 'none'; base-uri 'self'; form-action 'self'"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains"
+        ]
+      },
+      "body_bytes": 0,
+      "truncated": false,
+      "body_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "redirect_chain": [
+        {
+          "url": "https://www.dynatrace.com/support/help/extend-dynatrace/extensions20/extension-lifecycle",
+          "status": 301,
+          "location": "https://docs.dynatrace.com/docs/extend-dynatrace/extensions20/extension-lifecycle",
+          "headers": {
+            "content-security-policy": [
+              "frame-ancestors 'self' *.dynatrace.org *.dynatrace.com *.dynatrace.cn"
+            ],
+            "content-security-policy-report-only": [
+              "default-src 'self'; script-src 'self' 'unsafe-inline' https://*.dynatrace.com https://*.cookielaw.org https://*.usersnap.com https://*.calibermind.com https://*.hotjar.com https://*.googletagmanager.com https://*.b0e8.com https://*.doubleclick.net https://*.bing.com https://*.licdn.com https://*.redditstatic.com https://*.6sc.co https://*.influ2.com https://*.zoominfo.com https://*.d41.co https://*.stackadapt.com https://*.marketo.net; style-src 'self' 'unsafe-inline' https://*.cookielaw.org https://cdnjs.cloudflare.com; img-src 'self' data: https://*.dynatrace.com https://dt-cdn.net https://*.cookielaw.org https://*.reddit.com https://*.google.com https://*.google.at https://*.linkedin.com https://*.bing.com https://*.6sc.co; font-src 'self' data:; connect-src 'self' https://*.dynatrace.com https://*.bc0a.com https://*.cookielaw.org https://*.calibermind.com https://*.hotjar.com https://*.hotjar.io wss://*.hotjar.com https://unpkg.com https://*.google-analytics.com https://*.google.com https://*.doubleclick.net https://*.bing.com https://*.linkedin.com https://*.reddit.com https://*.stackadapt.com https://*.6sc.co https://*.adnxs.com https://*.influ2.com https://*.d41.co https://*.mktoresp.com https://*.zoominfo.com; frame-src 'self' https://*.googletagmanager.com https://*.youtube.com https://*.youtube-nocookie.com https://*.doubleclick.net; frame-ancestors 'self' *.dynatrace.org *.dynatrace.com *.dynatrace.cn; worker-src 'self' blob:; object-src 'none'; base-uri 'self'; form-action 'self'"
+            ],
+            "strict-transport-security": [
+              "max-age=31536000; includeSubDomains"
+            ]
+          }
+        }
+      ],
+      "error": "redirect_out_of_scope",
+      "html": false,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "370",
+      "domain": "dynatrace.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.dynatrace.com/news/blog/cve-2025-55182-react2shell-critical-vulnerability-what-it-is-and-what-to-do/",
+      "depth": 3,
+      "parent_url": "https://www.dynatrace.com/solutions/runtime-vulnerability-analytics/",
+      "attempt": 12,
+      "timestamp": "2026-11-12T21:12:16.876869+00:00",
+      "final_url": "https://www.dynatrace.com/news/blog/cve-2025-55182-react2shell-critical-vulnerability-what-it-is-and-what-to-do/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' *.dynatrace.org *.dynatrace.com *.dynatrace.cn"
+        ],
+        "content-security-policy-report-only": [
+          "default-src 'self'; script-src 'self' 'unsafe-inline' https://*.dynatrace.com https://*.cookielaw.org https://*.usersnap.com https://*.calibermind.com https://*.hotjar.com https://*.googletagmanager.com https://*.b0e8.com https://*.doubleclick.net https://*.bing.com https://*.licdn.com https://*.redditstatic.com https://*.6sc.co https://*.influ2.com https://*.zoominfo.com https://*.d41.co https://*.stackadapt.com https://*.marketo.net; style-src 'self' 'unsafe-inline' https://*.cookielaw.org https://cdnjs.cloudflare.com; img-src 'self' data: https://*.dynatrace.com https://dt-cdn.net https://*.cookielaw.org https://*.reddit.com https://*.google.com https://*.google.at https://*.linkedin.com https://*.bing.com https://*.6sc.co; font-src 'self' data:; connect-src 'self' https://*.dynatrace.com https://*.bc0a.com https://*.cookielaw.org https://*.calibermind.com https://*.hotjar.com https://*.hotjar.io wss://*.hotjar.com https://unpkg.com https://*.google-analytics.com https://*.google.com https://*.doubleclick.net https://*.bing.com https://*.linkedin.com https://*.reddit.com https://*.stackadapt.com https://*.6sc.co https://*.adnxs.com https://*.influ2.com https://*.d41.co https://*.mktoresp.com https://*.zoominfo.com; frame-src 'self' https://*.googletagmanager.com https://*.youtube.com https://*.youtube-nocookie.com https://*.doubleclick.net; frame-ancestors 'self' *.dynatrace.org *.dynatrace.com *.dynatrace.cn; worker-src 'self' blob:; object-src 'none'; base-uri 'self'; form-action 'self'"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains"
+        ]
+      },
+      "body_bytes": 113507,
+      "truncated": false,
+      "body_sha256": "0e0fbe23a6b9dadce7402c74e8772fabcf3fee34907bb62cfcd20a161811a442",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "React2Shell CVE-2025-55182: What it is and what to do",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "370",
+      "domain": "dynatrace.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.dynatrace.com/partners/partner-finder/",
+      "depth": 4,
+      "parent_url": "https://www.dynatrace.com/hub/detail/tenable/",
+      "attempt": 13,
+      "timestamp": "2026-11-12T21:12:18.349761+00:00",
+      "final_url": "https://www.dynatrace.com/partners/partner-finder/",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' *.dynatrace.org *.dynatrace.com *.dynatrace.cn"
+        ],
+        "content-security-policy-report-only": [
+          "default-src 'self'; script-src 'self' 'unsafe-inline' https://*.dynatrace.com https://*.cookielaw.org https://*.usersnap.com https://*.calibermind.com https://*.hotjar.com https://*.googletagmanager.com https://*.b0e8.com https://*.doubleclick.net https://*.bing.com https://*.licdn.com https://*.redditstatic.com https://*.6sc.co https://*.influ2.com https://*.zoominfo.com https://*.d41.co https://*.stackadapt.com https://*.marketo.net; style-src 'self' 'unsafe-inline' https://*.cookielaw.org https://cdnjs.cloudflare.com; img-src 'self' data: https://*.dynatrace.com https://dt-cdn.net https://*.cookielaw.org https://*.reddit.com https://*.google.com https://*.google.at https://*.linkedin.com https://*.bing.com https://*.6sc.co; font-src 'self' data:; connect-src 'self' https://*.dynatrace.com https://*.bc0a.com https://*.cookielaw.org https://*.calibermind.com https://*.hotjar.com https://*.hotjar.io wss://*.hotjar.com https://unpkg.com https://*.google-analytics.com https://*.google.com https://*.doubleclick.net https://*.bing.com https://*.linkedin.com https://*.reddit.com https://*.stackadapt.com https://*.6sc.co https://*.adnxs.com https://*.influ2.com https://*.d41.co https://*.mktoresp.com https://*.zoominfo.com; frame-src 'self' https://*.googletagmanager.com https://*.youtube.com https://*.youtube-nocookie.com https://*.doubleclick.net; frame-ancestors 'self' *.dynatrace.org *.dynatrace.com *.dynatrace.cn; worker-src 'self' blob:; object-src 'none'; base-uri 'self'; form-action 'self'"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains"
+        ]
+      },
+      "body_bytes": 50171,
+      "truncated": false,
+      "body_sha256": "0017141163c09bdb11a0a4115695e4e08e0134fabbf295bf607c8451994a1acd",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Dynatrace Partner finder",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "370",
+      "domain": "dynatrace.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.dynatrace.com/security-labs/",
+      "depth": 3,
+      "parent_url": "https://www.dynatrace.com/solutions/runtime-vulnerability-analytics/",
+      "attempt": 14,
+      "timestamp": "2026-11-12T21:12:18.429736+00:00",
+      "final_url": "https://www.dynatrace.com/security-labs/",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' *.dynatrace.org *.dynatrace.com *.dynatrace.cn"
+        ],
+        "content-security-policy-report-only": [
+          "default-src 'self'; script-src 'self' 'unsafe-inline' https://*.dynatrace.com https://*.cookielaw.org https://*.usersnap.com https://*.calibermind.com https://*.hotjar.com https://*.googletagmanager.com https://*.b0e8.com https://*.doubleclick.net https://*.bing.com https://*.licdn.com https://*.redditstatic.com https://*.6sc.co https://*.influ2.com https://*.zoominfo.com https://*.d41.co https://*.stackadapt.com https://*.marketo.net; style-src 'self' 'unsafe-inline' https://*.cookielaw.org https://cdnjs.cloudflare.com; img-src 'self' data: https://*.dynatrace.com https://dt-cdn.net https://*.cookielaw.org https://*.reddit.com https://*.google.com https://*.google.at https://*.linkedin.com https://*.bing.com https://*.6sc.co; font-src 'self' data:; connect-src 'self' https://*.dynatrace.com https://*.bc0a.com https://*.cookielaw.org https://*.calibermind.com https://*.hotjar.com https://*.hotjar.io wss://*.hotjar.com https://unpkg.com https://*.google-analytics.com https://*.google.com https://*.doubleclick.net https://*.bing.com https://*.linkedin.com https://*.reddit.com https://*.stackadapt.com https://*.6sc.co https://*.adnxs.com https://*.influ2.com https://*.d41.co https://*.mktoresp.com https://*.zoominfo.com; frame-src 'self' https://*.googletagmanager.com https://*.youtube.com https://*.youtube-nocookie.com https://*.doubleclick.net; frame-ancestors 'self' *.dynatrace.org *.dynatrace.com *.dynatrace.cn; worker-src 'self' blob:; object-src 'none'; base-uri 'self'; form-action 'self'"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains"
+        ]
+      },
+      "body_bytes": 109035,
+      "truncated": false,
+      "body_sha256": "6e6fded293a116c027136d398b6b0e7556e3bc3d17ee98fe579376224d10adba",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Dynatrace Security Labs",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "370",
+      "domain": "dynatrace.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.dynatrace.com/pricing/",
+      "depth": 1,
+      "parent_url": "https://www.dynatrace.com/",
+      "attempt": 15,
+      "timestamp": "2026-11-12T21:12:19.920393+00:00",
+      "final_url": "https://www.dynatrace.com/pricing/",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' *.dynatrace.org *.dynatrace.com *.dynatrace.cn"
+        ],
+        "content-security-policy-report-only": [
+          "default-src 'self'; script-src 'self' 'unsafe-inline' https://*.dynatrace.com https://*.cookielaw.org https://*.usersnap.com https://*.calibermind.com https://*.hotjar.com https://*.googletagmanager.com https://*.b0e8.com https://*.doubleclick.net https://*.bing.com https://*.licdn.com https://*.redditstatic.com https://*.6sc.co https://*.influ2.com https://*.zoominfo.com https://*.d41.co https://*.stackadapt.com https://*.marketo.net; style-src 'self' 'unsafe-inline' https://*.cookielaw.org https://cdnjs.cloudflare.com; img-src 'self' data: https://*.dynatrace.com https://dt-cdn.net https://*.cookielaw.org https://*.reddit.com https://*.google.com https://*.google.at https://*.linkedin.com https://*.bing.com https://*.6sc.co; font-src 'self' data:; connect-src 'self' https://*.dynatrace.com https://*.bc0a.com https://*.cookielaw.org https://*.calibermind.com https://*.hotjar.com https://*.hotjar.io wss://*.hotjar.com https://unpkg.com https://*.google-analytics.com https://*.google.com https://*.doubleclick.net https://*.bing.com https://*.linkedin.com https://*.reddit.com https://*.stackadapt.com https://*.6sc.co https://*.adnxs.com https://*.influ2.com https://*.d41.co https://*.mktoresp.com https://*.zoominfo.com; frame-src 'self' https://*.googletagmanager.com https://*.youtube.com https://*.youtube-nocookie.com https://*.doubleclick.net; frame-ancestors 'self' *.dynatrace.org *.dynatrace.com *.dynatrace.cn; worker-src 'self' blob:; object-src 'none'; base-uri 'self'; form-action 'self'"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains"
+        ]
+      },
+      "body_bytes": 154330,
+      "truncated": false,
+      "body_sha256": "ae0d88f493c4386f72467edd0f0d1768ebe362a6f9c4b9f4261c87b5f8eda9e8",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Dynatrace Pricing",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "370",
+      "domain": "dynatrace.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.dynatrace.com/perform-2026/highlights/",
+      "depth": 1,
+      "parent_url": "https://www.dynatrace.com/",
+      "attempt": 16,
+      "timestamp": "2026-11-12T21:12:20.120189+00:00",
+      "final_url": "https://www.dynatrace.com/perform-2026/highlights/",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' *.dynatrace.org *.dynatrace.com *.dynatrace.cn"
+        ],
+        "content-security-policy-report-only": [
+          "default-src 'self'; script-src 'self' 'unsafe-inline' https://*.dynatrace.com https://*.cookielaw.org https://*.usersnap.com https://*.calibermind.com https://*.hotjar.com https://*.googletagmanager.com https://*.b0e8.com https://*.doubleclick.net https://*.bing.com https://*.licdn.com https://*.redditstatic.com https://*.6sc.co https://*.influ2.com https://*.zoominfo.com https://*.d41.co https://*.stackadapt.com https://*.marketo.net; style-src 'self' 'unsafe-inline' https://*.cookielaw.org https://cdnjs.cloudflare.com; img-src 'self' data: https://*.dynatrace.com https://dt-cdn.net https://*.cookielaw.org https://*.reddit.com https://*.google.com https://*.google.at https://*.linkedin.com https://*.bing.com https://*.6sc.co; font-src 'self' data:; connect-src 'self' https://*.dynatrace.com https://*.bc0a.com https://*.cookielaw.org https://*.calibermind.com https://*.hotjar.com https://*.hotjar.io wss://*.hotjar.com https://unpkg.com https://*.google-analytics.com https://*.google.com https://*.doubleclick.net https://*.bing.com https://*.linkedin.com https://*.reddit.com https://*.stackadapt.com https://*.6sc.co https://*.adnxs.com https://*.influ2.com https://*.d41.co https://*.mktoresp.com https://*.zoominfo.com; frame-src 'self' https://*.googletagmanager.com https://*.youtube.com https://*.youtube-nocookie.com https://*.doubleclick.net; frame-ancestors 'self' *.dynatrace.org *.dynatrace.com *.dynatrace.cn; worker-src 'self' blob:; object-src 'none'; base-uri 'self'; form-action 'self'"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains"
+        ]
+      },
+      "body_bytes": 75334,
+      "truncated": false,
+      "body_sha256": "056dcda9189d7e293e871a4760c6275ae6db01ac5592ddc1c858ab7fdb09e3dc",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Perform 2026 Highlights",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "370",
+      "domain": "dynatrace.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.dynatrace.com/gartner-magic-quadrant-for-observability-platforms/",
+      "depth": 1,
+      "parent_url": "https://www.dynatrace.com/",
+      "attempt": 17,
+      "timestamp": "2026-11-12T21:12:21.466233+00:00",
+      "final_url": "https://www.dynatrace.com/gartner-magic-quadrant-for-observability-platforms/",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' *.dynatrace.org *.dynatrace.com *.dynatrace.cn"
+        ],
+        "content-security-policy-report-only": [
+          "default-src 'self'; script-src 'self' 'unsafe-inline' https://*.dynatrace.com https://*.cookielaw.org https://*.usersnap.com https://*.calibermind.com https://*.hotjar.com https://*.googletagmanager.com https://*.b0e8.com https://*.doubleclick.net https://*.bing.com https://*.licdn.com https://*.redditstatic.com https://*.6sc.co https://*.influ2.com https://*.zoominfo.com https://*.d41.co https://*.stackadapt.com https://*.marketo.net; style-src 'self' 'unsafe-inline' https://*.cookielaw.org https://cdnjs.cloudflare.com; img-src 'self' data: https://*.dynatrace.com https://dt-cdn.net https://*.cookielaw.org https://*.reddit.com https://*.google.com https://*.google.at https://*.linkedin.com https://*.bing.com https://*.6sc.co; font-src 'self' data:; connect-src 'self' https://*.dynatrace.com https://*.bc0a.com https://*.cookielaw.org https://*.calibermind.com https://*.hotjar.com https://*.hotjar.io wss://*.hotjar.com https://unpkg.com https://*.google-analytics.com https://*.google.com https://*.doubleclick.net https://*.bing.com https://*.linkedin.com https://*.reddit.com https://*.stackadapt.com https://*.6sc.co https://*.adnxs.com https://*.influ2.com https://*.d41.co https://*.mktoresp.com https://*.zoominfo.com; frame-src 'self' https://*.googletagmanager.com https://*.youtube.com https://*.youtube-nocookie.com https://*.doubleclick.net; frame-ancestors 'self' *.dynatrace.org *.dynatrace.com *.dynatrace.cn; worker-src 'self' blob:; object-src 'none'; base-uri 'self'; form-action 'self'"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains"
+        ]
+      },
+      "body_bytes": 74572,
+      "truncated": false,
+      "body_sha256": "518389d5bab5471344645fee1102e2acf8ec7d587d854bb7452726db6d79fb13",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "2026 Gartner\u00ae Magic Quadrant\u2122 for Observability Platforms",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "370",
+      "domain": "dynatrace.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.dynatrace.com/info/reports/forrester-aiops-wave-report/",
+      "depth": 1,
+      "parent_url": "https://www.dynatrace.com/",
+      "attempt": 18,
+      "timestamp": "2026-11-12T21:12:22.306407+00:00",
+      "final_url": "https://www.dynatrace.com/info/reports/forrester-aiops-wave-report/",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' *.dynatrace.org *.dynatrace.com *.dynatrace.cn"
+        ],
+        "content-security-policy-report-only": [
+          "default-src 'self'; script-src 'self' 'unsafe-inline' https://*.dynatrace.com https://*.cookielaw.org https://*.usersnap.com https://*.calibermind.com https://*.hotjar.com https://*.googletagmanager.com https://*.b0e8.com https://*.doubleclick.net https://*.bing.com https://*.licdn.com https://*.redditstatic.com https://*.6sc.co https://*.influ2.com https://*.zoominfo.com https://*.d41.co https://*.stackadapt.com https://*.marketo.net; style-src 'self' 'unsafe-inline' https://*.cookielaw.org https://cdnjs.cloudflare.com; img-src 'self' data: https://*.dynatrace.com https://dt-cdn.net https://*.cookielaw.org https://*.reddit.com https://*.google.com https://*.google.at https://*.linkedin.com https://*.bing.com https://*.6sc.co; font-src 'self' data:; connect-src 'self' https://*.dynatrace.com https://*.bc0a.com https://*.cookielaw.org https://*.calibermind.com https://*.hotjar.com https://*.hotjar.io wss://*.hotjar.com https://unpkg.com https://*.google-analytics.com https://*.google.com https://*.doubleclick.net https://*.bing.com https://*.linkedin.com https://*.reddit.com https://*.stackadapt.com https://*.6sc.co https://*.adnxs.com https://*.influ2.com https://*.d41.co https://*.mktoresp.com https://*.zoominfo.com; frame-src 'self' https://*.googletagmanager.com https://*.youtube.com https://*.youtube-nocookie.com https://*.doubleclick.net; frame-ancestors 'self' *.dynatrace.org *.dynatrace.com *.dynatrace.cn; worker-src 'self' blob:; object-src 'none'; base-uri 'self'; form-action 'self'"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains"
+        ]
+      },
+      "body_bytes": 73582,
+      "truncated": false,
+      "body_sha256": "bb8f45fc33b246813ad329cb0629c6dc2edcb32b51cf3ee7b34a88e9ac4d48e1",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Dynatrace named a Leader in The Forrester Wave\u2122: AIOps Platforms, Q4 2026",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "370",
+      "domain": "dynatrace.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.dynatrace.com/resources/the-state-of-sre-and-platform-engineering-17401248/",
+      "depth": 1,
+      "parent_url": "https://www.dynatrace.com/",
+      "attempt": 19,
+      "timestamp": "2026-11-12T21:12:22.598336+00:00",
+      "final_url": "https://www.dynatrace.com/resources/the-state-of-sre-and-platform-engineering-17401248/",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' *.dynatrace.org *.dynatrace.com *.dynatrace.cn"
+        ],
+        "content-security-policy-report-only": [
+          "default-src 'self'; script-src 'self' 'unsafe-inline' https://*.dynatrace.com https://*.cookielaw.org https://*.usersnap.com https://*.calibermind.com https://*.hotjar.com https://*.googletagmanager.com https://*.b0e8.com https://*.doubleclick.net https://*.bing.com https://*.licdn.com https://*.redditstatic.com https://*.6sc.co https://*.influ2.com https://*.zoominfo.com https://*.d41.co https://*.stackadapt.com https://*.marketo.net; style-src 'self' 'unsafe-inline' https://*.cookielaw.org https://cdnjs.cloudflare.com; img-src 'self' data: https://*.dynatrace.com https://dt-cdn.net https://*.cookielaw.org https://*.reddit.com https://*.google.com https://*.google.at https://*.linkedin.com https://*.bing.com https://*.6sc.co; font-src 'self' data:; connect-src 'self' https://*.dynatrace.com https://*.bc0a.com https://*.cookielaw.org https://*.calibermind.com https://*.hotjar.com https://*.hotjar.io wss://*.hotjar.com https://unpkg.com https://*.google-analytics.com https://*.google.com https://*.doubleclick.net https://*.bing.com https://*.linkedin.com https://*.reddit.com https://*.stackadapt.com https://*.6sc.co https://*.adnxs.com https://*.influ2.com https://*.d41.co https://*.mktoresp.com https://*.zoominfo.com; frame-src 'self' https://*.googletagmanager.com https://*.youtube.com https://*.youtube-nocookie.com https://*.doubleclick.net; frame-ancestors 'self' *.dynatrace.org *.dynatrace.com *.dynatrace.cn; worker-src 'self' blob:; object-src 'none'; base-uri 'self'; form-action 'self'"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains"
+        ]
+      },
+      "body_bytes": 60417,
+      "truncated": false,
+      "body_sha256": "d01ee9f1dde02b9a9f246215a0c6e68a2d988eb1938e24b7890c8206400a6a17",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "The State of SRE and Platform Engineering in 2026",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "370",
+      "domain": "dynatrace.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.dynatrace.com/solutions/application-security/",
+      "depth": 4,
+      "parent_url": "https://www.dynatrace.com/hub/detail/tenable/",
+      "attempt": 20,
+      "timestamp": "2026-11-12T21:12:23.743843+00:00",
+      "final_url": "https://www.dynatrace.com/solutions/runtime-vulnerability-analytics/",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' *.dynatrace.org *.dynatrace.com *.dynatrace.cn"
+        ],
+        "content-security-policy-report-only": [
+          "default-src 'self'; script-src 'self' 'unsafe-inline' https://*.dynatrace.com https://*.cookielaw.org https://*.usersnap.com https://*.calibermind.com https://*.hotjar.com https://*.googletagmanager.com https://*.b0e8.com https://*.doubleclick.net https://*.bing.com https://*.licdn.com https://*.redditstatic.com https://*.6sc.co https://*.influ2.com https://*.zoominfo.com https://*.d41.co https://*.stackadapt.com https://*.marketo.net; style-src 'self' 'unsafe-inline' https://*.cookielaw.org https://cdnjs.cloudflare.com; img-src 'self' data: https://*.dynatrace.com https://dt-cdn.net https://*.cookielaw.org https://*.reddit.com https://*.google.com https://*.google.at https://*.linkedin.com https://*.bing.com https://*.6sc.co; font-src 'self' data:; connect-src 'self' https://*.dynatrace.com https://*.bc0a.com https://*.cookielaw.org https://*.calibermind.com https://*.hotjar.com https://*.hotjar.io wss://*.hotjar.com https://unpkg.com https://*.google-analytics.com https://*.google.com https://*.doubleclick.net https://*.bing.com https://*.linkedin.com https://*.reddit.com https://*.stackadapt.com https://*.6sc.co https://*.adnxs.com https://*.influ2.com https://*.d41.co https://*.mktoresp.com https://*.zoominfo.com; frame-src 'self' https://*.googletagmanager.com https://*.youtube.com https://*.youtube-nocookie.com https://*.doubleclick.net; frame-ancestors 'self' *.dynatrace.org *.dynatrace.com *.dynatrace.cn; worker-src 'self' blob:; object-src 'none'; base-uri 'self'; form-action 'self'"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains"
+        ]
+      },
+      "body_bytes": 95235,
+      "truncated": false,
+      "body_sha256": "e3973f69d69f9911a08db228238518a4e2e0d86ca62770be4a8681011f3c24f1",
+      "redirect_chain": [
+        {
+          "url": "https://www.dynatrace.com/solutions/application-security/",
+          "status": 301,
+          "location": "/solutions/runtime-vulnerability-analytics/",
+          "headers": {
+            "content-security-policy": [
+              "frame-ancestors 'self' *.dynatrace.org *.dynatrace.com *.dynatrace.cn"
+            ],
+            "content-security-policy-report-only": [
+              "default-src 'self'; script-src 'self' 'unsafe-inline' https://*.dynatrace.com https://*.cookielaw.org https://*.usersnap.com https://*.calibermind.com https://*.hotjar.com https://*.googletagmanager.com https://*.b0e8.com https://*.doubleclick.net https://*.bing.com https://*.licdn.com https://*.redditstatic.com https://*.6sc.co https://*.influ2.com https://*.zoominfo.com https://*.d41.co https://*.stackadapt.com https://*.marketo.net; style-src 'self' 'unsafe-inline' https://*.cookielaw.org https://cdnjs.cloudflare.com; img-src 'self' data: https://*.dynatrace.com https://dt-cdn.net https://*.cookielaw.org https://*.reddit.com https://*.google.com https://*.google.at https://*.linkedin.com https://*.bing.com https://*.6sc.co; font-src 'self' data:; connect-src 'self' https://*.dynatrace.com https://*.bc0a.com https://*.cookielaw.org https://*.calibermind.com https://*.hotjar.com https://*.hotjar.io wss://*.hotjar.com https://unpkg.com https://*.google-analytics.com https://*.google.com https://*.doubleclick.net https://*.bing.com https://*.linkedin.com https://*.reddit.com https://*.stackadapt.com https://*.6sc.co https://*.adnxs.com https://*.influ2.com https://*.d41.co https://*.mktoresp.com https://*.zoominfo.com; frame-src 'self' https://*.googletagmanager.com https://*.youtube.com https://*.youtube-nocookie.com https://*.doubleclick.net; frame-ancestors 'self' *.dynatrace.org *.dynatrace.com *.dynatrace.cn; worker-src 'self' blob:; object-src 'none'; base-uri 'self'; form-action 'self'"
+            ],
+            "strict-transport-security": [
+              "max-age=31536000; includeSubDomains"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Runtime Vulnerability Analytics",
+      "duplicate_final": true,
+      "eligible": false
+    },
+    {
+      "rank": "370",
+      "domain": "dynatrace.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.dynatrace.com/perform/speakers/",
+      "depth": 2,
+      "parent_url": "https://www.dynatrace.com/perform/",
+      "attempt": 21,
+      "timestamp": "2026-11-12T21:12:24.255760+00:00",
+      "final_url": "https://www.dynatrace.com/perform/speakers/",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' *.dynatrace.org *.dynatrace.com *.dynatrace.cn"
+        ],
+        "content-security-policy-report-only": [
+          "default-src 'self'; script-src 'self' 'unsafe-inline' https://*.dynatrace.com https://*.cookielaw.org https://*.usersnap.com https://*.calibermind.com https://*.hotjar.com https://*.googletagmanager.com https://*.b0e8.com https://*.doubleclick.net https://*.bing.com https://*.licdn.com https://*.redditstatic.com https://*.6sc.co https://*.influ2.com https://*.zoominfo.com https://*.d41.co https://*.stackadapt.com https://*.marketo.net; style-src 'self' 'unsafe-inline' https://*.cookielaw.org https://cdnjs.cloudflare.com; img-src 'self' data: https://*.dynatrace.com https://dt-cdn.net https://*.cookielaw.org https://*.reddit.com https://*.google.com https://*.google.at https://*.linkedin.com https://*.bing.com https://*.6sc.co; font-src 'self' data:; connect-src 'self' https://*.dynatrace.com https://*.bc0a.com https://*.cookielaw.org https://*.calibermind.com https://*.hotjar.com https://*.hotjar.io wss://*.hotjar.com https://unpkg.com https://*.google-analytics.com https://*.google.com https://*.doubleclick.net https://*.bing.com https://*.linkedin.com https://*.reddit.com https://*.stackadapt.com https://*.6sc.co https://*.adnxs.com https://*.influ2.com https://*.d41.co https://*.mktoresp.com https://*.zoominfo.com; frame-src 'self' https://*.googletagmanager.com https://*.youtube.com https://*.youtube-nocookie.com https://*.doubleclick.net; frame-ancestors 'self' *.dynatrace.org *.dynatrace.com *.dynatrace.cn; worker-src 'self' blob:; object-src 'none'; base-uri 'self'; form-action 'self'"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains"
+        ]
+      },
+      "body_bytes": 116226,
+      "truncated": false,
+      "body_sha256": "4e37c487f24f37c827387dfe1a8a91e363e682fbcb40d1855198905dbe731f84",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Speakers | Dynatrace Perform",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "370",
+      "domain": "dynatrace.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.dynatrace.com/platform/automationengine/",
+      "depth": 3,
+      "parent_url": "https://www.dynatrace.com/solutions/runtime-vulnerability-analytics/",
+      "attempt": 22,
+      "timestamp": "2026-11-12T21:12:24.821608+00:00",
+      "final_url": "https://www.dynatrace.com/platform/automationengine/",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' *.dynatrace.org *.dynatrace.com *.dynatrace.cn"
+        ],
+        "content-security-policy-report-only": [
+          "default-src 'self'; script-src 'self' 'unsafe-inline' https://*.dynatrace.com https://*.cookielaw.org https://*.usersnap.com https://*.calibermind.com https://*.hotjar.com https://*.googletagmanager.com https://*.b0e8.com https://*.doubleclick.net https://*.bing.com https://*.licdn.com https://*.redditstatic.com https://*.6sc.co https://*.influ2.com https://*.zoominfo.com https://*.d41.co https://*.stackadapt.com https://*.marketo.net; style-src 'self' 'unsafe-inline' https://*.cookielaw.org https://cdnjs.cloudflare.com; img-src 'self' data: https://*.dynatrace.com https://dt-cdn.net https://*.cookielaw.org https://*.reddit.com https://*.google.com https://*.google.at https://*.linkedin.com https://*.bing.com https://*.6sc.co; font-src 'self' data:; connect-src 'self' https://*.dynatrace.com https://*.bc0a.com https://*.cookielaw.org https://*.calibermind.com https://*.hotjar.com https://*.hotjar.io wss://*.hotjar.com https://unpkg.com https://*.google-analytics.com https://*.google.com https://*.doubleclick.net https://*.bing.com https://*.linkedin.com https://*.reddit.com https://*.stackadapt.com https://*.6sc.co https://*.adnxs.com https://*.influ2.com https://*.d41.co https://*.mktoresp.com https://*.zoominfo.com; frame-src 'self' https://*.googletagmanager.com https://*.youtube.com https://*.youtube-nocookie.com https://*.doubleclick.net; frame-ancestors 'self' *.dynatrace.org *.dynatrace.com *.dynatrace.cn; worker-src 'self' blob:; object-src 'none'; base-uri 'self'; form-action 'self'"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains"
+        ]
+      },
+      "body_bytes": 100210,
+      "truncated": false,
+      "body_sha256": "95fbd1ea735d6d716fd9da081ebe6b34ed5c48aaac14ed9c2a6f6790a1c7d2ac",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "AutomationEngine",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "370",
+      "domain": "dynatrace.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.dynatrace.com/hub/detail/activegate/",
+      "depth": 4,
+      "parent_url": "https://www.dynatrace.com/hub/detail/tenable/",
+      "attempt": 23,
+      "timestamp": "2026-11-12T21:12:26.193800+00:00",
+      "final_url": "https://www.dynatrace.com/hub/detail/activegate/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' *.dynatrace.org *.dynatrace.com *.dynatrace.cn"
+        ],
+        "content-security-policy-report-only": [
+          "default-src 'self'; script-src 'self' 'unsafe-inline' https://*.dynatrace.com https://*.cookielaw.org https://*.usersnap.com https://*.calibermind.com https://*.hotjar.com https://*.googletagmanager.com https://*.b0e8.com https://*.doubleclick.net https://*.bing.com https://*.licdn.com https://*.redditstatic.com https://*.6sc.co https://*.influ2.com https://*.zoominfo.com https://*.d41.co https://*.stackadapt.com https://*.marketo.net; style-src 'self' 'unsafe-inline' https://*.cookielaw.org https://cdnjs.cloudflare.com; img-src 'self' data: https://*.dynatrace.com https://dt-cdn.net https://*.cookielaw.org https://*.reddit.com https://*.google.com https://*.google.at https://*.linkedin.com https://*.bing.com https://*.6sc.co; font-src 'self' data:; connect-src 'self' https://*.dynatrace.com https://*.bc0a.com https://*.cookielaw.org https://*.calibermind.com https://*.hotjar.com https://*.hotjar.io wss://*.hotjar.com https://unpkg.com https://*.google-analytics.com https://*.google.com https://*.doubleclick.net https://*.bing.com https://*.linkedin.com https://*.reddit.com https://*.stackadapt.com https://*.6sc.co https://*.adnxs.com https://*.influ2.com https://*.d41.co https://*.mktoresp.com https://*.zoominfo.com; frame-src 'self' https://*.googletagmanager.com https://*.youtube.com https://*.youtube-nocookie.com https://*.doubleclick.net; frame-ancestors 'self' *.dynatrace.org *.dynatrace.com *.dynatrace.cn; worker-src 'self' blob:; object-src 'none'; base-uri 'self'; form-action 'self'"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains"
+        ]
+      },
+      "body_bytes": 131502,
+      "truncated": false,
+      "body_sha256": "f63a8dbe05d2191e552e90730c7e879216de7aa6e3ca036762193d1af29838af",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "ActiveGate monitoring & observability | Dynatrace Hub",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "370",
+      "domain": "dynatrace.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.dynatrace.com/support/help/shortlink/activegate-requirements",
+      "depth": 5,
+      "parent_url": "https://www.dynatrace.com/hub/detail/activegate/",
+      "attempt": 24,
+      "timestamp": "2026-11-12T21:12:26.362662+00:00",
+      "final_url": "https://www.dynatrace.com/support/help/shortlink/activegate-requirements",
+      "status": 301,
+      "content_type": "",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' *.dynatrace.org *.dynatrace.com *.dynatrace.cn"
+        ],
+        "content-security-policy-report-only": [
+          "default-src 'self'; script-src 'self' 'unsafe-inline' https://*.dynatrace.com https://*.cookielaw.org https://*.usersnap.com https://*.calibermind.com https://*.hotjar.com https://*.googletagmanager.com https://*.b0e8.com https://*.doubleclick.net https://*.bing.com https://*.licdn.com https://*.redditstatic.com https://*.6sc.co https://*.influ2.com https://*.zoominfo.com https://*.d41.co https://*.stackadapt.com https://*.marketo.net; style-src 'self' 'unsafe-inline' https://*.cookielaw.org https://cdnjs.cloudflare.com; img-src 'self' data: https://*.dynatrace.com https://dt-cdn.net https://*.cookielaw.org https://*.reddit.com https://*.google.com https://*.google.at https://*.linkedin.com https://*.bing.com https://*.6sc.co; font-src 'self' data:; connect-src 'self' https://*.dynatrace.com https://*.bc0a.com https://*.cookielaw.org https://*.calibermind.com https://*.hotjar.com https://*.hotjar.io wss://*.hotjar.com https://unpkg.com https://*.google-analytics.com https://*.google.com https://*.doubleclick.net https://*.bing.com https://*.linkedin.com https://*.reddit.com https://*.stackadapt.com https://*.6sc.co https://*.adnxs.com https://*.influ2.com https://*.d41.co https://*.mktoresp.com https://*.zoominfo.com; frame-src 'self' https://*.googletagmanager.com https://*.youtube.com https://*.youtube-nocookie.com https://*.doubleclick.net; frame-ancestors 'self' *.dynatrace.org *.dynatrace.com *.dynatrace.cn; worker-src 'self' blob:; object-src 'none'; base-uri 'self'; form-action 'self'"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains"
+        ]
+      },
+      "body_bytes": 0,
+      "truncated": false,
+      "body_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "redirect_chain": [
+        {
+          "url": "https://www.dynatrace.com/support/help/shortlink/activegate-requirements",
+          "status": 301,
+          "location": "https://docs.dynatrace.com/docs/shortlink/activegate-requirements",
+          "headers": {
+            "content-security-policy": [
+              "frame-ancestors 'self' *.dynatrace.org *.dynatrace.com *.dynatrace.cn"
+            ],
+            "content-security-policy-report-only": [
+              "default-src 'self'; script-src 'self' 'unsafe-inline' https://*.dynatrace.com https://*.cookielaw.org https://*.usersnap.com https://*.calibermind.com https://*.hotjar.com https://*.googletagmanager.com https://*.b0e8.com https://*.doubleclick.net https://*.bing.com https://*.licdn.com https://*.redditstatic.com https://*.6sc.co https://*.influ2.com https://*.zoominfo.com https://*.d41.co https://*.stackadapt.com https://*.marketo.net; style-src 'self' 'unsafe-inline' https://*.cookielaw.org https://cdnjs.cloudflare.com; img-src 'self' data: https://*.dynatrace.com https://dt-cdn.net https://*.cookielaw.org https://*.reddit.com https://*.google.com https://*.google.at https://*.linkedin.com https://*.bing.com https://*.6sc.co; font-src 'self' data:; connect-src 'self' https://*.dynatrace.com https://*.bc0a.com https://*.cookielaw.org https://*.calibermind.com https://*.hotjar.com https://*.hotjar.io wss://*.hotjar.com https://unpkg.com https://*.google-analytics.com https://*.google.com https://*.doubleclick.net https://*.bing.com https://*.linkedin.com https://*.reddit.com https://*.stackadapt.com https://*.6sc.co https://*.adnxs.com https://*.influ2.com https://*.d41.co https://*.mktoresp.com https://*.zoominfo.com; frame-src 'self' https://*.googletagmanager.com https://*.youtube.com https://*.youtube-nocookie.com https://*.doubleclick.net; frame-ancestors 'self' *.dynatrace.org *.dynatrace.com *.dynatrace.cn; worker-src 'self' blob:; object-src 'none'; base-uri 'self'; form-action 'self'"
+            ],
+            "strict-transport-security": [
+              "max-age=31536000; includeSubDomains"
+            ]
+          }
+        }
+      ],
+      "error": "redirect_out_of_scope",
+      "html": false,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "370",
+      "domain": "dynatrace.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.dynatrace.com/company/trust-center/privacy/",
+      "depth": 2,
+      "parent_url": "https://www.dynatrace.com/request-demo/",
+      "attempt": 25,
+      "timestamp": "2026-11-12T21:12:26.822506+00:00",
+      "final_url": "https://www.dynatrace.com/company/trust-center/privacy/",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' *.dynatrace.org *.dynatrace.com *.dynatrace.cn"
+        ],
+        "content-security-policy-report-only": [
+          "default-src 'self'; script-src 'self' 'unsafe-inline' https://*.dynatrace.com https://*.cookielaw.org https://*.usersnap.com https://*.calibermind.com https://*.hotjar.com https://*.googletagmanager.com https://*.b0e8.com https://*.doubleclick.net https://*.bing.com https://*.licdn.com https://*.redditstatic.com https://*.6sc.co https://*.influ2.com https://*.zoominfo.com https://*.d41.co https://*.stackadapt.com https://*.marketo.net; style-src 'self' 'unsafe-inline' https://*.cookielaw.org https://cdnjs.cloudflare.com; img-src 'self' data: https://*.dynatrace.com https://dt-cdn.net https://*.cookielaw.org https://*.reddit.com https://*.google.com https://*.google.at https://*.linkedin.com https://*.bing.com https://*.6sc.co; font-src 'self' data:; connect-src 'self' https://*.dynatrace.com https://*.bc0a.com https://*.cookielaw.org https://*.calibermind.com https://*.hotjar.com https://*.hotjar.io wss://*.hotjar.com https://unpkg.com https://*.google-analytics.com https://*.google.com https://*.doubleclick.net https://*.bing.com https://*.linkedin.com https://*.reddit.com https://*.stackadapt.com https://*.6sc.co https://*.adnxs.com https://*.influ2.com https://*.d41.co https://*.mktoresp.com https://*.zoominfo.com; frame-src 'self' https://*.googletagmanager.com https://*.youtube.com https://*.youtube-nocookie.com https://*.doubleclick.net; frame-ancestors 'self' *.dynatrace.org *.dynatrace.com *.dynatrace.cn; worker-src 'self' blob:; object-src 'none'; base-uri 'self'; form-action 'self'"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains"
+        ]
+      },
+      "body_bytes": 110843,
+      "truncated": false,
+      "body_sha256": "045b22791412bae0060cd845f83822a4feb4641d4aa4076455640a6a49048549",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Dynatrace Privacy Notice",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "370",
+      "domain": "dynatrace.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.dynatrace.com/partners/",
+      "depth": 4,
+      "parent_url": "https://www.dynatrace.com/hub/detail/tenable/",
+      "attempt": 26,
+      "timestamp": "2026-11-12T21:12:27.328837+00:00",
+      "final_url": "https://www.dynatrace.com/partners/",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' *.dynatrace.org *.dynatrace.com *.dynatrace.cn"
+        ],
+        "content-security-policy-report-only": [
+          "default-src 'self'; script-src 'self' 'unsafe-inline' https://*.dynatrace.com https://*.cookielaw.org https://*.usersnap.com https://*.calibermind.com https://*.hotjar.com https://*.googletagmanager.com https://*.b0e8.com https://*.doubleclick.net https://*.bing.com https://*.licdn.com https://*.redditstatic.com https://*.6sc.co https://*.influ2.com https://*.zoominfo.com https://*.d41.co https://*.stackadapt.com https://*.marketo.net; style-src 'self' 'unsafe-inline' https://*.cookielaw.org https://cdnjs.cloudflare.com; img-src 'self' data: https://*.dynatrace.com https://dt-cdn.net https://*.cookielaw.org https://*.reddit.com https://*.google.com https://*.google.at https://*.linkedin.com https://*.bing.com https://*.6sc.co; font-src 'self' data:; connect-src 'self' https://*.dynatrace.com https://*.bc0a.com https://*.cookielaw.org https://*.calibermind.com https://*.hotjar.com https://*.hotjar.io wss://*.hotjar.com https://unpkg.com https://*.google-analytics.com https://*.google.com https://*.doubleclick.net https://*.bing.com https://*.linkedin.com https://*.reddit.com https://*.stackadapt.com https://*.6sc.co https://*.adnxs.com https://*.influ2.com https://*.d41.co https://*.mktoresp.com https://*.zoominfo.com; frame-src 'self' https://*.googletagmanager.com https://*.youtube.com https://*.youtube-nocookie.com https://*.doubleclick.net; frame-ancestors 'self' *.dynatrace.org *.dynatrace.com *.dynatrace.cn; worker-src 'self' blob:; object-src 'none'; base-uri 'self'; form-action 'self'"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains"
+        ]
+      },
+      "body_bytes": 124076,
+      "truncated": false,
+      "body_sha256": "35822e75d6cd1053521c6920449bb77e34c88e0102f32571ed1a2818e66862a8",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Partnership Program",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "370",
+      "domain": "dynatrace.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.dynatrace.com/pricing/dynatrace-platform-subscription/",
+      "depth": 2,
+      "parent_url": "https://www.dynatrace.com/pricing/",
+      "attempt": 27,
+      "timestamp": "2026-11-12T21:12:28.838440+00:00",
+      "final_url": "https://www.dynatrace.com/pricing/dynatrace-platform-subscription/",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' *.dynatrace.org *.dynatrace.com *.dynatrace.cn"
+        ],
+        "content-security-policy-report-only": [
+          "default-src 'self'; script-src 'self' 'unsafe-inline' https://*.dynatrace.com https://*.cookielaw.org https://*.usersnap.com https://*.calibermind.com https://*.hotjar.com https://*.googletagmanager.com https://*.b0e8.com https://*.doubleclick.net https://*.bing.com https://*.licdn.com https://*.redditstatic.com https://*.6sc.co https://*.influ2.com https://*.zoominfo.com https://*.d41.co https://*.stackadapt.com https://*.marketo.net; style-src 'self' 'unsafe-inline' https://*.cookielaw.org https://cdnjs.cloudflare.com; img-src 'self' data: https://*.dynatrace.com https://dt-cdn.net https://*.cookielaw.org https://*.reddit.com https://*.google.com https://*.google.at https://*.linkedin.com https://*.bing.com https://*.6sc.co; font-src 'self' data:; connect-src 'self' https://*.dynatrace.com https://*.bc0a.com https://*.cookielaw.org https://*.calibermind.com https://*.hotjar.com https://*.hotjar.io wss://*.hotjar.com https://unpkg.com https://*.google-analytics.com https://*.google.com https://*.doubleclick.net https://*.bing.com https://*.linkedin.com https://*.reddit.com https://*.stackadapt.com https://*.6sc.co https://*.adnxs.com https://*.influ2.com https://*.d41.co https://*.mktoresp.com https://*.zoominfo.com; frame-src 'self' https://*.googletagmanager.com https://*.youtube.com https://*.youtube-nocookie.com https://*.doubleclick.net; frame-ancestors 'self' *.dynatrace.org *.dynatrace.com *.dynatrace.cn; worker-src 'self' blob:; object-src 'none'; base-uri 'self'; form-action 'self'"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains"
+        ]
+      },
+      "body_bytes": 99655,
+      "truncated": false,
+      "body_sha256": "ab1f4f60d7449dca9a015f4077dd3bf6177c12f0da65523e9b4a16c9ce2a1c25",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Dynatrace Platform Subscription (DPS)",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "370",
+      "domain": "dynatrace.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.dynatrace.com/news/blog/author/jasper-juergensen/",
+      "depth": 4,
+      "parent_url": "https://www.dynatrace.com/news/blog/cve-2025-55182-react2shell-critical-vulnerability-what-it-is-and-what-to-do/",
+      "attempt": 28,
+      "timestamp": "2026-11-12T21:12:29.868516+00:00",
+      "final_url": "https://www.dynatrace.com/news/blog/author/jasper-juergensen/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' *.dynatrace.org *.dynatrace.com *.dynatrace.cn"
+        ],
+        "content-security-policy-report-only": [
+          "default-src 'self'; script-src 'self' 'unsafe-inline' https://*.dynatrace.com https://*.cookielaw.org https://*.usersnap.com https://*.calibermind.com https://*.hotjar.com https://*.googletagmanager.com https://*.b0e8.com https://*.doubleclick.net https://*.bing.com https://*.licdn.com https://*.redditstatic.com https://*.6sc.co https://*.influ2.com https://*.zoominfo.com https://*.d41.co https://*.stackadapt.com https://*.marketo.net; style-src 'self' 'unsafe-inline' https://*.cookielaw.org https://cdnjs.cloudflare.com; img-src 'self' data: https://*.dynatrace.com https://dt-cdn.net https://*.cookielaw.org https://*.reddit.com https://*.google.com https://*.google.at https://*.linkedin.com https://*.bing.com https://*.6sc.co; font-src 'self' data:; connect-src 'self' https://*.dynatrace.com https://*.bc0a.com https://*.cookielaw.org https://*.calibermind.com https://*.hotjar.com https://*.hotjar.io wss://*.hotjar.com https://unpkg.com https://*.google-analytics.com https://*.google.com https://*.doubleclick.net https://*.bing.com https://*.linkedin.com https://*.reddit.com https://*.stackadapt.com https://*.6sc.co https://*.adnxs.com https://*.influ2.com https://*.d41.co https://*.mktoresp.com https://*.zoominfo.com; frame-src 'self' https://*.googletagmanager.com https://*.youtube.com https://*.youtube-nocookie.com https://*.doubleclick.net; frame-ancestors 'self' *.dynatrace.org *.dynatrace.com *.dynatrace.cn; worker-src 'self' blob:; object-src 'none'; base-uri 'self'; form-action 'self'"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains"
+        ]
+      },
+      "body_bytes": 48092,
+      "truncated": false,
+      "body_sha256": "ea0eb6a314228601d6d7ae7d5c847f1740cba54948648cce140a6806704edbad",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Jasper Juergensen | Dynatrace blog",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "370",
+      "domain": "dynatrace.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.dynatrace.com/security-labs/resources/",
+      "depth": 4,
+      "parent_url": "https://www.dynatrace.com/security-labs/",
+      "attempt": 29,
+      "timestamp": "2026-11-12T21:12:30.383518+00:00",
+      "final_url": "https://www.dynatrace.com/security-labs/resources/",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' *.dynatrace.org *.dynatrace.com *.dynatrace.cn"
+        ],
+        "content-security-policy-report-only": [
+          "default-src 'self'; script-src 'self' 'unsafe-inline' https://*.dynatrace.com https://*.cookielaw.org https://*.usersnap.com https://*.calibermind.com https://*.hotjar.com https://*.googletagmanager.com https://*.b0e8.com https://*.doubleclick.net https://*.bing.com https://*.licdn.com https://*.redditstatic.com https://*.6sc.co https://*.influ2.com https://*.zoominfo.com https://*.d41.co https://*.stackadapt.com https://*.marketo.net; style-src 'self' 'unsafe-inline' https://*.cookielaw.org https://cdnjs.cloudflare.com; img-src 'self' data: https://*.dynatrace.com https://dt-cdn.net https://*.cookielaw.org https://*.reddit.com https://*.google.com https://*.google.at https://*.linkedin.com https://*.bing.com https://*.6sc.co; font-src 'self' data:; connect-src 'self' https://*.dynatrace.com https://*.bc0a.com https://*.cookielaw.org https://*.calibermind.com https://*.hotjar.com https://*.hotjar.io wss://*.hotjar.com https://unpkg.com https://*.google-analytics.com https://*.google.com https://*.doubleclick.net https://*.bing.com https://*.linkedin.com https://*.reddit.com https://*.stackadapt.com https://*.6sc.co https://*.adnxs.com https://*.influ2.com https://*.d41.co https://*.mktoresp.com https://*.zoominfo.com; frame-src 'self' https://*.googletagmanager.com https://*.youtube.com https://*.youtube-nocookie.com https://*.doubleclick.net; frame-ancestors 'self' *.dynatrace.org *.dynatrace.com *.dynatrace.cn; worker-src 'self' blob:; object-src 'none'; base-uri 'self'; form-action 'self'"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains"
+        ]
+      },
+      "body_bytes": 75244,
+      "truncated": false,
+      "body_sha256": "c491ee7590f81351085a0d1402f1f98461bcc2e28872a5ce949e7442858fa467",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Security Labs Resources",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "370",
+      "domain": "dynatrace.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.dynatrace.com/customers/raymond-james/",
+      "depth": 4,
+      "parent_url": "https://www.dynatrace.com/security-labs/",
+      "attempt": 30,
+      "timestamp": "2026-11-12T21:12:31.279926+00:00",
+      "final_url": "https://www.dynatrace.com/customers/raymond-james/",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' *.dynatrace.org *.dynatrace.com *.dynatrace.cn"
+        ],
+        "content-security-policy-report-only": [
+          "default-src 'self'; script-src 'self' 'unsafe-inline' https://*.dynatrace.com https://*.cookielaw.org https://*.usersnap.com https://*.calibermind.com https://*.hotjar.com https://*.googletagmanager.com https://*.b0e8.com https://*.doubleclick.net https://*.bing.com https://*.licdn.com https://*.redditstatic.com https://*.6sc.co https://*.influ2.com https://*.zoominfo.com https://*.d41.co https://*.stackadapt.com https://*.marketo.net; style-src 'self' 'unsafe-inline' https://*.cookielaw.org https://cdnjs.cloudflare.com; img-src 'self' data: https://*.dynatrace.com https://dt-cdn.net https://*.cookielaw.org https://*.reddit.com https://*.google.com https://*.google.at https://*.linkedin.com https://*.bing.com https://*.6sc.co; font-src 'self' data:; connect-src 'self' https://*.dynatrace.com https://*.bc0a.com https://*.cookielaw.org https://*.calibermind.com https://*.hotjar.com https://*.hotjar.io wss://*.hotjar.com https://unpkg.com https://*.google-analytics.com https://*.google.com https://*.doubleclick.net https://*.bing.com https://*.linkedin.com https://*.reddit.com https://*.stackadapt.com https://*.6sc.co https://*.adnxs.com https://*.influ2.com https://*.d41.co https://*.mktoresp.com https://*.zoominfo.com; frame-src 'self' https://*.googletagmanager.com https://*.youtube.com https://*.youtube-nocookie.com https://*.doubleclick.net; frame-ancestors 'self' *.dynatrace.org *.dynatrace.com *.dynatrace.cn; worker-src 'self' blob:; object-src 'none'; base-uri 'self'; form-action 'self'"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains"
+        ]
+      },
+      "body_bytes": 60101,
+      "truncated": false,
+      "body_sha256": "329ba0562a9721c0a24c4a8e6a3f053a9400ddbcacfd9843861b03f14f0734b7",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Raymond James customer story",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "370",
+      "domain": "dynatrace.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.dynatrace.com/",
+      "depth": 1,
+      "parent_url": "https://www.dynatrace.com/",
+      "attempt": 31,
+      "timestamp": "2026-11-12T21:12:32.220593+00:00",
+      "final_url": "https://www.dynatrace.com/",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' *.dynatrace.org *.dynatrace.com *.dynatrace.cn"
+        ],
+        "content-security-policy-report-only": [
+          "default-src 'self'; script-src 'self' 'unsafe-inline' https://*.dynatrace.com https://*.cookielaw.org https://*.usersnap.com https://*.calibermind.com https://*.hotjar.com https://*.googletagmanager.com https://*.b0e8.com https://*.doubleclick.net https://*.bing.com https://*.licdn.com https://*.redditstatic.com https://*.6sc.co https://*.influ2.com https://*.zoominfo.com https://*.d41.co https://*.stackadapt.com https://*.marketo.net; style-src 'self' 'unsafe-inline' https://*.cookielaw.org https://cdnjs.cloudflare.com; img-src 'self' data: https://*.dynatrace.com https://dt-cdn.net https://*.cookielaw.org https://*.reddit.com https://*.google.com https://*.google.at https://*.linkedin.com https://*.bing.com https://*.6sc.co; font-src 'self' data:; connect-src 'self' https://*.dynatrace.com https://*.bc0a.com https://*.cookielaw.org https://*.calibermind.com https://*.hotjar.com https://*.hotjar.io wss://*.hotjar.com https://unpkg.com https://*.google-analytics.com https://*.google.com https://*.doubleclick.net https://*.bing.com https://*.linkedin.com https://*.reddit.com https://*.stackadapt.com https://*.6sc.co https://*.adnxs.com https://*.influ2.com https://*.d41.co https://*.mktoresp.com https://*.zoominfo.com; frame-src 'self' https://*.googletagmanager.com https://*.youtube.com https://*.youtube-nocookie.com https://*.doubleclick.net; frame-ancestors 'self' *.dynatrace.org *.dynatrace.com *.dynatrace.cn; worker-src 'self' blob:; object-src 'none'; base-uri 'self'; form-action 'self'"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains"
+        ]
+      },
+      "body_bytes": 149379,
+      "truncated": false,
+      "body_sha256": "2dd89288d89accf7bfd5055379f9079fec4ead217f2039cfbbed2f352e004cfa",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Dynatrace | Observability built for the age of AI",
+      "duplicate_final": true,
+      "eligible": false
+    },
+    {
+      "rank": "370",
+      "domain": "dynatrace.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.dynatrace.com/partners/solution-partners/",
+      "depth": 5,
+      "parent_url": "https://www.dynatrace.com/partners/",
+      "attempt": 32,
+      "timestamp": "2026-11-12T21:12:32.991359+00:00",
+      "final_url": "https://www.dynatrace.com/partners/partner-finder/",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' *.dynatrace.org *.dynatrace.com *.dynatrace.cn"
+        ],
+        "content-security-policy-report-only": [
+          "default-src 'self'; script-src 'self' 'unsafe-inline' https://*.dynatrace.com https://*.cookielaw.org https://*.usersnap.com https://*.calibermind.com https://*.hotjar.com https://*.googletagmanager.com https://*.b0e8.com https://*.doubleclick.net https://*.bing.com https://*.licdn.com https://*.redditstatic.com https://*.6sc.co https://*.influ2.com https://*.zoominfo.com https://*.d41.co https://*.stackadapt.com https://*.marketo.net; style-src 'self' 'unsafe-inline' https://*.cookielaw.org https://cdnjs.cloudflare.com; img-src 'self' data: https://*.dynatrace.com https://dt-cdn.net https://*.cookielaw.org https://*.reddit.com https://*.google.com https://*.google.at https://*.linkedin.com https://*.bing.com https://*.6sc.co; font-src 'self' data:; connect-src 'self' https://*.dynatrace.com https://*.bc0a.com https://*.cookielaw.org https://*.calibermind.com https://*.hotjar.com https://*.hotjar.io wss://*.hotjar.com https://unpkg.com https://*.google-analytics.com https://*.google.com https://*.doubleclick.net https://*.bing.com https://*.linkedin.com https://*.reddit.com https://*.stackadapt.com https://*.6sc.co https://*.adnxs.com https://*.influ2.com https://*.d41.co https://*.mktoresp.com https://*.zoominfo.com; frame-src 'self' https://*.googletagmanager.com https://*.youtube.com https://*.youtube-nocookie.com https://*.doubleclick.net; frame-ancestors 'self' *.dynatrace.org *.dynatrace.com *.dynatrace.cn; worker-src 'self' blob:; object-src 'none'; base-uri 'self'; form-action 'self'"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains"
+        ]
+      },
+      "body_bytes": 50171,
+      "truncated": false,
+      "body_sha256": "0017141163c09bdb11a0a4115695e4e08e0134fabbf295bf607c8451994a1acd",
+      "redirect_chain": [
+        {
+          "url": "https://www.dynatrace.com/partners/solution-partners/",
+          "status": 301,
+          "location": "/partners/partner-finder/",
+          "headers": {
+            "content-security-policy": [
+              "frame-ancestors 'self' *.dynatrace.org *.dynatrace.com *.dynatrace.cn"
+            ],
+            "content-security-policy-report-only": [
+              "default-src 'self'; script-src 'self' 'unsafe-inline' https://*.dynatrace.com https://*.cookielaw.org https://*.usersnap.com https://*.calibermind.com https://*.hotjar.com https://*.googletagmanager.com https://*.b0e8.com https://*.doubleclick.net https://*.bing.com https://*.licdn.com https://*.redditstatic.com https://*.6sc.co https://*.influ2.com https://*.zoominfo.com https://*.d41.co https://*.stackadapt.com https://*.marketo.net; style-src 'self' 'unsafe-inline' https://*.cookielaw.org https://cdnjs.cloudflare.com; img-src 'self' data: https://*.dynatrace.com https://dt-cdn.net https://*.cookielaw.org https://*.reddit.com https://*.google.com https://*.google.at https://*.linkedin.com https://*.bing.com https://*.6sc.co; font-src 'self' data:; connect-src 'self' https://*.dynatrace.com https://*.bc0a.com https://*.cookielaw.org https://*.calibermind.com https://*.hotjar.com https://*.hotjar.io wss://*.hotjar.com https://unpkg.com https://*.google-analytics.com https://*.google.com https://*.doubleclick.net https://*.bing.com https://*.linkedin.com https://*.reddit.com https://*.stackadapt.com https://*.6sc.co https://*.adnxs.com https://*.influ2.com https://*.d41.co https://*.mktoresp.com https://*.zoominfo.com; frame-src 'self' https://*.googletagmanager.com https://*.youtube.com https://*.youtube-nocookie.com https://*.doubleclick.net; frame-ancestors 'self' *.dynatrace.org *.dynatrace.com *.dynatrace.cn; worker-src 'self' blob:; object-src 'none'; base-uri 'self'; form-action 'self'"
+            ],
+            "strict-transport-security": [
+              "max-age=31536000; includeSubDomains"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Dynatrace Partner finder",
+      "duplicate_final": true,
+      "eligible": false
+    },
+    {
+      "rank": "370",
+      "domain": "dynatrace.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.dynatrace.com/hub/detail/aws/",
+      "depth": 5,
+      "parent_url": "https://www.dynatrace.com/partners/",
+      "attempt": 33,
+      "timestamp": "2026-11-12T21:12:33.298575+00:00",
+      "final_url": "https://www.dynatrace.com/hub/detail/aws/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' *.dynatrace.org *.dynatrace.com *.dynatrace.cn"
+        ],
+        "content-security-policy-report-only": [
+          "default-src 'self'; script-src 'self' 'unsafe-inline' https://*.dynatrace.com https://*.cookielaw.org https://*.usersnap.com https://*.calibermind.com https://*.hotjar.com https://*.googletagmanager.com https://*.b0e8.com https://*.doubleclick.net https://*.bing.com https://*.licdn.com https://*.redditstatic.com https://*.6sc.co https://*.influ2.com https://*.zoominfo.com https://*.d41.co https://*.stackadapt.com https://*.marketo.net; style-src 'self' 'unsafe-inline' https://*.cookielaw.org https://cdnjs.cloudflare.com; img-src 'self' data: https://*.dynatrace.com https://dt-cdn.net https://*.cookielaw.org https://*.reddit.com https://*.google.com https://*.google.at https://*.linkedin.com https://*.bing.com https://*.6sc.co; font-src 'self' data:; connect-src 'self' https://*.dynatrace.com https://*.bc0a.com https://*.cookielaw.org https://*.calibermind.com https://*.hotjar.com https://*.hotjar.io wss://*.hotjar.com https://unpkg.com https://*.google-analytics.com https://*.google.com https://*.doubleclick.net https://*.bing.com https://*.linkedin.com https://*.reddit.com https://*.stackadapt.com https://*.6sc.co https://*.adnxs.com https://*.influ2.com https://*.d41.co https://*.mktoresp.com https://*.zoominfo.com; frame-src 'self' https://*.googletagmanager.com https://*.youtube.com https://*.youtube-nocookie.com https://*.doubleclick.net; frame-ancestors 'self' *.dynatrace.org *.dynatrace.com *.dynatrace.cn; worker-src 'self' blob:; object-src 'none'; base-uri 'self'; form-action 'self'"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains"
+        ]
+      },
+      "body_bytes": 138067,
+      "truncated": false,
+      "body_sha256": "6692115e509462defb126144e1376ec0dee6dd131ab8f9d999714ad1694f4175",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "AWS monitoring & observability | Dynatrace Hub",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "370",
+      "domain": "dynatrace.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.dynatrace.com/news/blog/author/",
+      "depth": 5,
+      "parent_url": "https://www.dynatrace.com/news/blog/author/jasper-juergensen/",
+      "attempt": 34,
+      "timestamp": "2026-11-12T21:12:34.668979+00:00",
+      "final_url": "https://www.dynatrace.com/news/author/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' *.dynatrace.org *.dynatrace.com *.dynatrace.cn"
+        ],
+        "content-security-policy-report-only": [
+          "default-src 'self'; script-src 'self' 'unsafe-inline' https://*.dynatrace.com https://*.cookielaw.org https://*.usersnap.com https://*.calibermind.com https://*.hotjar.com https://*.googletagmanager.com https://*.b0e8.com https://*.doubleclick.net https://*.bing.com https://*.licdn.com https://*.redditstatic.com https://*.6sc.co https://*.influ2.com https://*.zoominfo.com https://*.d41.co https://*.stackadapt.com https://*.marketo.net; style-src 'self' 'unsafe-inline' https://*.cookielaw.org https://cdnjs.cloudflare.com; img-src 'self' data: https://*.dynatrace.com https://dt-cdn.net https://*.cookielaw.org https://*.reddit.com https://*.google.com https://*.google.at https://*.linkedin.com https://*.bing.com https://*.6sc.co; font-src 'self' data:; connect-src 'self' https://*.dynatrace.com https://*.bc0a.com https://*.cookielaw.org https://*.calibermind.com https://*.hotjar.com https://*.hotjar.io wss://*.hotjar.com https://unpkg.com https://*.google-analytics.com https://*.google.com https://*.doubleclick.net https://*.bing.com https://*.linkedin.com https://*.reddit.com https://*.stackadapt.com https://*.6sc.co https://*.adnxs.com https://*.influ2.com https://*.d41.co https://*.mktoresp.com https://*.zoominfo.com; frame-src 'self' https://*.googletagmanager.com https://*.youtube.com https://*.youtube-nocookie.com https://*.doubleclick.net; frame-ancestors 'self' *.dynatrace.org *.dynatrace.com *.dynatrace.cn; worker-src 'self' blob:; object-src 'none'; base-uri 'self'; form-action 'self'"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains"
+        ]
+      },
+      "body_bytes": 847209,
+      "truncated": false,
+      "body_sha256": "acd059f2578b0fcc687d01f9de05470627286de176e40f4c1bf9cf5153848164",
+      "redirect_chain": [
+        {
+          "url": "https://www.dynatrace.com/news/blog/author/",
+          "status": 301,
+          "location": "https://www.dynatrace.com/news/author/",
+          "headers": {
+            "content-security-policy": [
+              "frame-ancestors 'self' *.dynatrace.org *.dynatrace.com *.dynatrace.cn"
+            ],
+            "content-security-policy-report-only": [
+              "default-src 'self'; script-src 'self' 'unsafe-inline' https://*.dynatrace.com https://*.cookielaw.org https://*.usersnap.com https://*.calibermind.com https://*.hotjar.com https://*.googletagmanager.com https://*.b0e8.com https://*.doubleclick.net https://*.bing.com https://*.licdn.com https://*.redditstatic.com https://*.6sc.co https://*.influ2.com https://*.zoominfo.com https://*.d41.co https://*.stackadapt.com https://*.marketo.net; style-src 'self' 'unsafe-inline' https://*.cookielaw.org https://cdnjs.cloudflare.com; img-src 'self' data: https://*.dynatrace.com https://dt-cdn.net https://*.cookielaw.org https://*.reddit.com https://*.google.com https://*.google.at https://*.linkedin.com https://*.bing.com https://*.6sc.co; font-src 'self' data:; connect-src 'self' https://*.dynatrace.com https://*.bc0a.com https://*.cookielaw.org https://*.calibermind.com https://*.hotjar.com https://*.hotjar.io wss://*.hotjar.com https://unpkg.com https://*.google-analytics.com https://*.google.com https://*.doubleclick.net https://*.bing.com https://*.linkedin.com https://*.reddit.com https://*.stackadapt.com https://*.6sc.co https://*.adnxs.com https://*.influ2.com https://*.d41.co https://*.mktoresp.com https://*.zoominfo.com; frame-src 'self' https://*.googletagmanager.com https://*.youtube.com https://*.youtube-nocookie.com https://*.doubleclick.net; frame-ancestors 'self' *.dynatrace.org *.dynatrace.com *.dynatrace.cn; worker-src 'self' blob:; object-src 'none'; base-uri 'self'; form-action 'self'"
+            ],
+            "strict-transport-security": [
+              "max-age=31536000; includeSubDomains"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Authors",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "370",
+      "domain": "dynatrace.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.dynatrace.com/solutions/kubernetes-security/",
+      "depth": 3,
+      "parent_url": "https://www.dynatrace.com/solutions/runtime-vulnerability-analytics/",
+      "attempt": 35,
+      "timestamp": "2026-11-12T21:12:38.602524+00:00",
+      "final_url": "https://www.dynatrace.com/solutions/kubernetes-security/",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' *.dynatrace.org *.dynatrace.com *.dynatrace.cn"
+        ],
+        "content-security-policy-report-only": [
+          "default-src 'self'; script-src 'self' 'unsafe-inline' https://*.dynatrace.com https://*.cookielaw.org https://*.usersnap.com https://*.calibermind.com https://*.hotjar.com https://*.googletagmanager.com https://*.b0e8.com https://*.doubleclick.net https://*.bing.com https://*.licdn.com https://*.redditstatic.com https://*.6sc.co https://*.influ2.com https://*.zoominfo.com https://*.d41.co https://*.stackadapt.com https://*.marketo.net; style-src 'self' 'unsafe-inline' https://*.cookielaw.org https://cdnjs.cloudflare.com; img-src 'self' data: https://*.dynatrace.com https://dt-cdn.net https://*.cookielaw.org https://*.reddit.com https://*.google.com https://*.google.at https://*.linkedin.com https://*.bing.com https://*.6sc.co; font-src 'self' data:; connect-src 'self' https://*.dynatrace.com https://*.bc0a.com https://*.cookielaw.org https://*.calibermind.com https://*.hotjar.com https://*.hotjar.io wss://*.hotjar.com https://unpkg.com https://*.google-analytics.com https://*.google.com https://*.doubleclick.net https://*.bing.com https://*.linkedin.com https://*.reddit.com https://*.stackadapt.com https://*.6sc.co https://*.adnxs.com https://*.influ2.com https://*.d41.co https://*.mktoresp.com https://*.zoominfo.com; frame-src 'self' https://*.googletagmanager.com https://*.youtube.com https://*.youtube-nocookie.com https://*.doubleclick.net; frame-ancestors 'self' *.dynatrace.org *.dynatrace.com *.dynatrace.cn; worker-src 'self' blob:; object-src 'none'; base-uri 'self'; form-action 'self'"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains"
+        ]
+      },
+      "body_bytes": 106301,
+      "truncated": false,
+      "body_sha256": "e2ede4ef835c1516551a9267966cfaa7d90d6ef04ba43eec9a05f21f8ac6dff9",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Kubernetes Security",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "370",
+      "domain": "dynatrace.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.dynatrace.com/technologies/kubernetes-monitoring/",
+      "depth": 4,
+      "parent_url": "https://www.dynatrace.com/solutions/kubernetes-security/",
+      "attempt": 36,
+      "timestamp": "2026-11-12T21:12:39.606018+00:00",
+      "final_url": "https://www.dynatrace.com/technologies/kubernetes-monitoring/",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' *.dynatrace.org *.dynatrace.com *.dynatrace.cn"
+        ],
+        "content-security-policy-report-only": [
+          "default-src 'self'; script-src 'self' 'unsafe-inline' https://*.dynatrace.com https://*.cookielaw.org https://*.usersnap.com https://*.calibermind.com https://*.hotjar.com https://*.googletagmanager.com https://*.b0e8.com https://*.doubleclick.net https://*.bing.com https://*.licdn.com https://*.redditstatic.com https://*.6sc.co https://*.influ2.com https://*.zoominfo.com https://*.d41.co https://*.stackadapt.com https://*.marketo.net; style-src 'self' 'unsafe-inline' https://*.cookielaw.org https://cdnjs.cloudflare.com; img-src 'self' data: https://*.dynatrace.com https://dt-cdn.net https://*.cookielaw.org https://*.reddit.com https://*.google.com https://*.google.at https://*.linkedin.com https://*.bing.com https://*.6sc.co; font-src 'self' data:; connect-src 'self' https://*.dynatrace.com https://*.bc0a.com https://*.cookielaw.org https://*.calibermind.com https://*.hotjar.com https://*.hotjar.io wss://*.hotjar.com https://unpkg.com https://*.google-analytics.com https://*.google.com https://*.doubleclick.net https://*.bing.com https://*.linkedin.com https://*.reddit.com https://*.stackadapt.com https://*.6sc.co https://*.adnxs.com https://*.influ2.com https://*.d41.co https://*.mktoresp.com https://*.zoominfo.com; frame-src 'self' https://*.googletagmanager.com https://*.youtube.com https://*.youtube-nocookie.com https://*.doubleclick.net; frame-ancestors 'self' *.dynatrace.org *.dynatrace.com *.dynatrace.cn; worker-src 'self' blob:; object-src 'none'; base-uri 'self'; form-action 'self'"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains"
+        ]
+      },
+      "body_bytes": 124703,
+      "truncated": false,
+      "body_sha256": "3d72fa0825de98d22556488c7c230c3bca65426bfb96b956920aa4af9d88e3c5",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Kubernetes monitoring | Kubernetes observability",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "370",
+      "domain": "dynatrace.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.dynatrace.com/resources/ebooks/kubernetes-in-the-wild/",
+      "depth": 5,
+      "parent_url": "https://www.dynatrace.com/technologies/kubernetes-monitoring/",
+      "attempt": 37,
+      "timestamp": "2026-11-12T21:12:40.681409+00:00",
+      "final_url": "https://www.dynatrace.com/resources/ebooks/kubernetes-in-the-wild/",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' *.dynatrace.org *.dynatrace.com *.dynatrace.cn"
+        ],
+        "content-security-policy-report-only": [
+          "default-src 'self'; script-src 'self' 'unsafe-inline' https://*.dynatrace.com https://*.cookielaw.org https://*.usersnap.com https://*.calibermind.com https://*.hotjar.com https://*.googletagmanager.com https://*.b0e8.com https://*.doubleclick.net https://*.bing.com https://*.licdn.com https://*.redditstatic.com https://*.6sc.co https://*.influ2.com https://*.zoominfo.com https://*.d41.co https://*.stackadapt.com https://*.marketo.net; style-src 'self' 'unsafe-inline' https://*.cookielaw.org https://cdnjs.cloudflare.com; img-src 'self' data: https://*.dynatrace.com https://dt-cdn.net https://*.cookielaw.org https://*.reddit.com https://*.google.com https://*.google.at https://*.linkedin.com https://*.bing.com https://*.6sc.co; font-src 'self' data:; connect-src 'self' https://*.dynatrace.com https://*.bc0a.com https://*.cookielaw.org https://*.calibermind.com https://*.hotjar.com https://*.hotjar.io wss://*.hotjar.com https://unpkg.com https://*.google-analytics.com https://*.google.com https://*.doubleclick.net https://*.bing.com https://*.linkedin.com https://*.reddit.com https://*.stackadapt.com https://*.6sc.co https://*.adnxs.com https://*.influ2.com https://*.d41.co https://*.mktoresp.com https://*.zoominfo.com; frame-src 'self' https://*.googletagmanager.com https://*.youtube.com https://*.youtube-nocookie.com https://*.doubleclick.net; frame-ancestors 'self' *.dynatrace.org *.dynatrace.com *.dynatrace.cn; worker-src 'self' blob:; object-src 'none'; base-uri 'self'; form-action 'self'"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains"
+        ]
+      },
+      "body_bytes": 100431,
+      "truncated": false,
+      "body_sha256": "375cc6679638839815c80a907be2098ca5f798871e9a8bf0e7780e3cd890aec3",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Kubernetes in the Wild report 2025",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "370",
+      "domain": "dynatrace.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.dynatrace.com/info/ebooks/kubernetes-platform-observability-best-practices-guide/",
+      "depth": 5,
+      "parent_url": "https://www.dynatrace.com/technologies/kubernetes-monitoring/",
+      "attempt": 38,
+      "timestamp": "2026-11-12T21:12:41.614443+00:00",
+      "final_url": "https://www.dynatrace.com/info/ebooks/kubernetes-platform-observability-best-practices-guide/",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' *.dynatrace.org *.dynatrace.com *.dynatrace.cn"
+        ],
+        "content-security-policy-report-only": [
+          "default-src 'self'; script-src 'self' 'unsafe-inline' https://*.dynatrace.com https://*.cookielaw.org https://*.usersnap.com https://*.calibermind.com https://*.hotjar.com https://*.googletagmanager.com https://*.b0e8.com https://*.doubleclick.net https://*.bing.com https://*.licdn.com https://*.redditstatic.com https://*.6sc.co https://*.influ2.com https://*.zoominfo.com https://*.d41.co https://*.stackadapt.com https://*.marketo.net; style-src 'self' 'unsafe-inline' https://*.cookielaw.org https://cdnjs.cloudflare.com; img-src 'self' data: https://*.dynatrace.com https://dt-cdn.net https://*.cookielaw.org https://*.reddit.com https://*.google.com https://*.google.at https://*.linkedin.com https://*.bing.com https://*.6sc.co; font-src 'self' data:; connect-src 'self' https://*.dynatrace.com https://*.bc0a.com https://*.cookielaw.org https://*.calibermind.com https://*.hotjar.com https://*.hotjar.io wss://*.hotjar.com https://unpkg.com https://*.google-analytics.com https://*.google.com https://*.doubleclick.net https://*.bing.com https://*.linkedin.com https://*.reddit.com https://*.stackadapt.com https://*.6sc.co https://*.adnxs.com https://*.influ2.com https://*.d41.co https://*.mktoresp.com https://*.zoominfo.com; frame-src 'self' https://*.googletagmanager.com https://*.youtube.com https://*.youtube-nocookie.com https://*.doubleclick.net; frame-ancestors 'self' *.dynatrace.org *.dynatrace.com *.dynatrace.cn; worker-src 'self' blob:; object-src 'none'; base-uri 'self'; form-action 'self'"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains"
+        ]
+      },
+      "body_bytes": 59447,
+      "truncated": false,
+      "body_sha256": "0542e8915c1037a123e7e99b229cfdd2f55ee7ca11bc4c4fde36323197b2ad85",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Kubernetes platform observability best practices guide",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "370",
+      "domain": "dynatrace.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.dynatrace.com/company/trust-center/customers/subscription-agreement/",
+      "depth": 3,
+      "parent_url": "https://www.dynatrace.com/company/trust-center/privacy/",
+      "attempt": 39,
+      "timestamp": "2026-11-12T21:12:42.444326+00:00",
+      "final_url": "https://www.dynatrace.com/company/trust-center/customers/subscription-agreement/",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' *.dynatrace.org *.dynatrace.com *.dynatrace.cn"
+        ],
+        "content-security-policy-report-only": [
+          "default-src 'self'; script-src 'self' 'unsafe-inline' https://*.dynatrace.com https://*.cookielaw.org https://*.usersnap.com https://*.calibermind.com https://*.hotjar.com https://*.googletagmanager.com https://*.b0e8.com https://*.doubleclick.net https://*.bing.com https://*.licdn.com https://*.redditstatic.com https://*.6sc.co https://*.influ2.com https://*.zoominfo.com https://*.d41.co https://*.stackadapt.com https://*.marketo.net; style-src 'self' 'unsafe-inline' https://*.cookielaw.org https://cdnjs.cloudflare.com; img-src 'self' data: https://*.dynatrace.com https://dt-cdn.net https://*.cookielaw.org https://*.reddit.com https://*.google.com https://*.google.at https://*.linkedin.com https://*.bing.com https://*.6sc.co; font-src 'self' data:; connect-src 'self' https://*.dynatrace.com https://*.bc0a.com https://*.cookielaw.org https://*.calibermind.com https://*.hotjar.com https://*.hotjar.io wss://*.hotjar.com https://unpkg.com https://*.google-analytics.com https://*.google.com https://*.doubleclick.net https://*.bing.com https://*.linkedin.com https://*.reddit.com https://*.stackadapt.com https://*.6sc.co https://*.adnxs.com https://*.influ2.com https://*.d41.co https://*.mktoresp.com https://*.zoominfo.com; frame-src 'self' https://*.googletagmanager.com https://*.youtube.com https://*.youtube-nocookie.com https://*.doubleclick.net; frame-ancestors 'self' *.dynatrace.org *.dynatrace.com *.dynatrace.cn; worker-src 'self' blob:; object-src 'none'; base-uri 'self'; form-action 'self'"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains"
+        ]
+      },
+      "body_bytes": 46075,
+      "truncated": false,
+      "body_sha256": "3f5e29fec99cafedcb82832df146eb231a5658cbdd41c9980325e7db1ebcdfcf",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Subscription Agreement",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "370",
+      "domain": "dynatrace.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.dynatrace.com/perform/expo/",
+      "depth": 2,
+      "parent_url": "https://www.dynatrace.com/perform/",
+      "attempt": 40,
+      "timestamp": "2026-11-12T21:12:43.488761+00:00",
+      "final_url": "https://www.dynatrace.com/perform/expo/",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' *.dynatrace.org *.dynatrace.com *.dynatrace.cn"
+        ],
+        "content-security-policy-report-only": [
+          "default-src 'self'; script-src 'self' 'unsafe-inline' https://*.dynatrace.com https://*.cookielaw.org https://*.usersnap.com https://*.calibermind.com https://*.hotjar.com https://*.googletagmanager.com https://*.b0e8.com https://*.doubleclick.net https://*.bing.com https://*.licdn.com https://*.redditstatic.com https://*.6sc.co https://*.influ2.com https://*.zoominfo.com https://*.d41.co https://*.stackadapt.com https://*.marketo.net; style-src 'self' 'unsafe-inline' https://*.cookielaw.org https://cdnjs.cloudflare.com; img-src 'self' data: https://*.dynatrace.com https://dt-cdn.net https://*.cookielaw.org https://*.reddit.com https://*.google.com https://*.google.at https://*.linkedin.com https://*.bing.com https://*.6sc.co; font-src 'self' data:; connect-src 'self' https://*.dynatrace.com https://*.bc0a.com https://*.cookielaw.org https://*.calibermind.com https://*.hotjar.com https://*.hotjar.io wss://*.hotjar.com https://unpkg.com https://*.google-analytics.com https://*.google.com https://*.doubleclick.net https://*.bing.com https://*.linkedin.com https://*.reddit.com https://*.stackadapt.com https://*.6sc.co https://*.adnxs.com https://*.influ2.com https://*.d41.co https://*.mktoresp.com https://*.zoominfo.com; frame-src 'self' https://*.googletagmanager.com https://*.youtube.com https://*.youtube-nocookie.com https://*.doubleclick.net; frame-ancestors 'self' *.dynatrace.org *.dynatrace.com *.dynatrace.cn; worker-src 'self' blob:; object-src 'none'; base-uri 'self'; form-action 'self'"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains"
+        ]
+      },
+      "body_bytes": 75326,
+      "truncated": false,
+      "body_sha256": "6fe989983daf09ff044590fe4e537ad71d5819c71d36e6ae0f2201eaee2e166f",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Expo | Dynatrace Perform",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "370",
+      "domain": "dynatrace.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.dynatrace.com/platform/aiops/",
+      "depth": 2,
+      "parent_url": "https://www.dynatrace.com/platform/",
+      "attempt": 41,
+      "timestamp": "2026-11-12T21:12:43.580559+00:00",
+      "final_url": "https://www.dynatrace.com/platform/aiops/",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' *.dynatrace.org *.dynatrace.com *.dynatrace.cn"
+        ],
+        "content-security-policy-report-only": [
+          "default-src 'self'; script-src 'self' 'unsafe-inline' https://*.dynatrace.com https://*.cookielaw.org https://*.usersnap.com https://*.calibermind.com https://*.hotjar.com https://*.googletagmanager.com https://*.b0e8.com https://*.doubleclick.net https://*.bing.com https://*.licdn.com https://*.redditstatic.com https://*.6sc.co https://*.influ2.com https://*.zoominfo.com https://*.d41.co https://*.stackadapt.com https://*.marketo.net; style-src 'self' 'unsafe-inline' https://*.cookielaw.org https://cdnjs.cloudflare.com; img-src 'self' data: https://*.dynatrace.com https://dt-cdn.net https://*.cookielaw.org https://*.reddit.com https://*.google.com https://*.google.at https://*.linkedin.com https://*.bing.com https://*.6sc.co; font-src 'self' data:; connect-src 'self' https://*.dynatrace.com https://*.bc0a.com https://*.cookielaw.org https://*.calibermind.com https://*.hotjar.com https://*.hotjar.io wss://*.hotjar.com https://unpkg.com https://*.google-analytics.com https://*.google.com https://*.doubleclick.net https://*.bing.com https://*.linkedin.com https://*.reddit.com https://*.stackadapt.com https://*.6sc.co https://*.adnxs.com https://*.influ2.com https://*.d41.co https://*.mktoresp.com https://*.zoominfo.com; frame-src 'self' https://*.googletagmanager.com https://*.youtube.com https://*.youtube-nocookie.com https://*.doubleclick.net; frame-ancestors 'self' *.dynatrace.org *.dynatrace.com *.dynatrace.cn; worker-src 'self' blob:; object-src 'none'; base-uri 'self'; form-action 'self'"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains"
+        ]
+      },
+      "body_bytes": 137272,
+      "truncated": false,
+      "body_sha256": "f0883b91b33b53673732922ab15f55bcfec113366a8ca7e99ee98200c80d3cd6",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "AIOps (AI for IT Operations)",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "370",
+      "domain": "dynatrace.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.dynatrace.com/customers/state-of-michigan/",
+      "depth": 3,
+      "parent_url": "https://www.dynatrace.com/platform/aiops/",
+      "attempt": 42,
+      "timestamp": "2026-11-12T21:12:45.069862+00:00",
+      "final_url": "https://www.dynatrace.com/customers/state-of-michigan/",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' *.dynatrace.org *.dynatrace.com *.dynatrace.cn"
+        ],
+        "content-security-policy-report-only": [
+          "default-src 'self'; script-src 'self' 'unsafe-inline' https://*.dynatrace.com https://*.cookielaw.org https://*.usersnap.com https://*.calibermind.com https://*.hotjar.com https://*.googletagmanager.com https://*.b0e8.com https://*.doubleclick.net https://*.bing.com https://*.licdn.com https://*.redditstatic.com https://*.6sc.co https://*.influ2.com https://*.zoominfo.com https://*.d41.co https://*.stackadapt.com https://*.marketo.net; style-src 'self' 'unsafe-inline' https://*.cookielaw.org https://cdnjs.cloudflare.com; img-src 'self' data: https://*.dynatrace.com https://dt-cdn.net https://*.cookielaw.org https://*.reddit.com https://*.google.com https://*.google.at https://*.linkedin.com https://*.bing.com https://*.6sc.co; font-src 'self' data:; connect-src 'self' https://*.dynatrace.com https://*.bc0a.com https://*.cookielaw.org https://*.calibermind.com https://*.hotjar.com https://*.hotjar.io wss://*.hotjar.com https://unpkg.com https://*.google-analytics.com https://*.google.com https://*.doubleclick.net https://*.bing.com https://*.linkedin.com https://*.reddit.com https://*.stackadapt.com https://*.6sc.co https://*.adnxs.com https://*.influ2.com https://*.d41.co https://*.mktoresp.com https://*.zoominfo.com; frame-src 'self' https://*.googletagmanager.com https://*.youtube.com https://*.youtube-nocookie.com https://*.doubleclick.net; frame-ancestors 'self' *.dynatrace.org *.dynatrace.com *.dynatrace.cn; worker-src 'self' blob:; object-src 'none'; base-uri 'self'; form-action 'self'"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains"
+        ]
+      },
+      "body_bytes": 62618,
+      "truncated": false,
+      "body_sha256": "cf82683d1a375f0e05bc382d0500f3921277c19e73183c6ab52ec727a2b62f50",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "State of Michigan customer story",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "370",
+      "domain": "dynatrace.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.dynatrace.com/info/reports/the-pulse-of-agentic-ai-in-2026/",
+      "depth": 3,
+      "parent_url": "https://www.dynatrace.com/platform/aiops/",
+      "attempt": 43,
+      "timestamp": "2026-11-12T21:12:45.197732+00:00",
+      "final_url": "https://www.dynatrace.com/info/reports/the-pulse-of-agentic-ai-in-2026/",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' *.dynatrace.org *.dynatrace.com *.dynatrace.cn"
+        ],
+        "content-security-policy-report-only": [
+          "default-src 'self'; script-src 'self' 'unsafe-inline' https://*.dynatrace.com https://*.cookielaw.org https://*.usersnap.com https://*.calibermind.com https://*.hotjar.com https://*.googletagmanager.com https://*.b0e8.com https://*.doubleclick.net https://*.bing.com https://*.licdn.com https://*.redditstatic.com https://*.6sc.co https://*.influ2.com https://*.zoominfo.com https://*.d41.co https://*.stackadapt.com https://*.marketo.net; style-src 'self' 'unsafe-inline' https://*.cookielaw.org https://cdnjs.cloudflare.com; img-src 'self' data: https://*.dynatrace.com https://dt-cdn.net https://*.cookielaw.org https://*.reddit.com https://*.google.com https://*.google.at https://*.linkedin.com https://*.bing.com https://*.6sc.co; font-src 'self' data:; connect-src 'self' https://*.dynatrace.com https://*.bc0a.com https://*.cookielaw.org https://*.calibermind.com https://*.hotjar.com https://*.hotjar.io wss://*.hotjar.com https://unpkg.com https://*.google-analytics.com https://*.google.com https://*.doubleclick.net https://*.bing.com https://*.linkedin.com https://*.reddit.com https://*.stackadapt.com https://*.6sc.co https://*.adnxs.com https://*.influ2.com https://*.d41.co https://*.mktoresp.com https://*.zoominfo.com; frame-src 'self' https://*.googletagmanager.com https://*.youtube.com https://*.youtube-nocookie.com https://*.doubleclick.net; frame-ancestors 'self' *.dynatrace.org *.dynatrace.com *.dynatrace.cn; worker-src 'self' blob:; object-src 'none'; base-uri 'self'; form-action 'self'"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains"
+        ]
+      },
+      "body_bytes": 59653,
+      "truncated": false,
+      "body_sha256": "2949b5087f3fcd0b98524e6296e090f108a4f323d3639890e40e85104fc6e71c",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "The pulse of Agentic AI in 2026",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "370",
+      "domain": "dynatrace.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.dynatrace.com/pricing/rate-card/",
+      "depth": 2,
+      "parent_url": "https://www.dynatrace.com/pricing/",
+      "attempt": 44,
+      "timestamp": "2026-11-12T21:12:46.397290+00:00",
+      "final_url": "https://www.dynatrace.com/pricing/rate-card/",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' *.dynatrace.org *.dynatrace.com *.dynatrace.cn"
+        ],
+        "content-security-policy-report-only": [
+          "default-src 'self'; script-src 'self' 'unsafe-inline' https://*.dynatrace.com https://*.cookielaw.org https://*.usersnap.com https://*.calibermind.com https://*.hotjar.com https://*.googletagmanager.com https://*.b0e8.com https://*.doubleclick.net https://*.bing.com https://*.licdn.com https://*.redditstatic.com https://*.6sc.co https://*.influ2.com https://*.zoominfo.com https://*.d41.co https://*.stackadapt.com https://*.marketo.net; style-src 'self' 'unsafe-inline' https://*.cookielaw.org https://cdnjs.cloudflare.com; img-src 'self' data: https://*.dynatrace.com https://dt-cdn.net https://*.cookielaw.org https://*.reddit.com https://*.google.com https://*.google.at https://*.linkedin.com https://*.bing.com https://*.6sc.co; font-src 'self' data:; connect-src 'self' https://*.dynatrace.com https://*.bc0a.com https://*.cookielaw.org https://*.calibermind.com https://*.hotjar.com https://*.hotjar.io wss://*.hotjar.com https://unpkg.com https://*.google-analytics.com https://*.google.com https://*.doubleclick.net https://*.bing.com https://*.linkedin.com https://*.reddit.com https://*.stackadapt.com https://*.6sc.co https://*.adnxs.com https://*.influ2.com https://*.d41.co https://*.mktoresp.com https://*.zoominfo.com; frame-src 'self' https://*.googletagmanager.com https://*.youtube.com https://*.youtube-nocookie.com https://*.doubleclick.net; frame-ancestors 'self' *.dynatrace.org *.dynatrace.com *.dynatrace.cn; worker-src 'self' blob:; object-src 'none'; base-uri 'self'; form-action 'self'"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains"
+        ]
+      },
+      "body_bytes": 86303,
+      "truncated": false,
+      "body_sha256": "9c0ab458124ab4c3b57a0095078681006cd3180792c68222b8829e2f18436e5c",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Dynatrace Pricing Rate Card",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "370",
+      "domain": "dynatrace.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.dynatrace.com/resources/ebooks/aiops-strategy/",
+      "depth": 3,
+      "parent_url": "https://www.dynatrace.com/platform/aiops/",
+      "attempt": 45,
+      "timestamp": "2026-11-12T21:12:47.714491+00:00",
+      "final_url": "https://www.dynatrace.com/resources/ebooks/aiops-strategy/",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' *.dynatrace.org *.dynatrace.com *.dynatrace.cn"
+        ],
+        "content-security-policy-report-only": [
+          "default-src 'self'; script-src 'self' 'unsafe-inline' https://*.dynatrace.com https://*.cookielaw.org https://*.usersnap.com https://*.calibermind.com https://*.hotjar.com https://*.googletagmanager.com https://*.b0e8.com https://*.doubleclick.net https://*.bing.com https://*.licdn.com https://*.redditstatic.com https://*.6sc.co https://*.influ2.com https://*.zoominfo.com https://*.d41.co https://*.stackadapt.com https://*.marketo.net; style-src 'self' 'unsafe-inline' https://*.cookielaw.org https://cdnjs.cloudflare.com; img-src 'self' data: https://*.dynatrace.com https://dt-cdn.net https://*.cookielaw.org https://*.reddit.com https://*.google.com https://*.google.at https://*.linkedin.com https://*.bing.com https://*.6sc.co; font-src 'self' data:; connect-src 'self' https://*.dynatrace.com https://*.bc0a.com https://*.cookielaw.org https://*.calibermind.com https://*.hotjar.com https://*.hotjar.io wss://*.hotjar.com https://unpkg.com https://*.google-analytics.com https://*.google.com https://*.doubleclick.net https://*.bing.com https://*.linkedin.com https://*.reddit.com https://*.stackadapt.com https://*.6sc.co https://*.adnxs.com https://*.influ2.com https://*.d41.co https://*.mktoresp.com https://*.zoominfo.com; frame-src 'self' https://*.googletagmanager.com https://*.youtube.com https://*.youtube-nocookie.com https://*.doubleclick.net; frame-ancestors 'self' *.dynatrace.org *.dynatrace.com *.dynatrace.cn; worker-src 'self' blob:; object-src 'none'; base-uri 'self'; form-action 'self'"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains"
+        ]
+      },
+      "body_bytes": 102501,
+      "truncated": false,
+      "body_sha256": "99dbc6a27034d4898922d1567d0fdfeef8dc293ad61ae770eaa303e4c444f3a3",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Developing an AIOps strategy - Free eBook",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "370",
+      "domain": "dynatrace.com",
+      "stratum": "101-1000",
+      "requested_url": "https://www.dynatrace.com/resource-center/report/2021-global-ciso-report",
+      "depth": 4,
+      "parent_url": "https://www.dynatrace.com/resources/ebooks/aiops-strategy/",
+      "attempt": 46,
+      "timestamp": "2026-11-12T21:12:48.824508+00:00",
+      "final_url": "https://www.dynatrace.com/info/reports/ciso-report-state-of-application-security/",
+      "status": 200,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' *.dynatrace.org *.dynatrace.com *.dynatrace.cn"
+        ],
+        "content-security-policy-report-only": [
+          "default-src 'self'; script-src 'self' 'unsafe-inline' https://*.dynatrace.com https://*.cookielaw.org https://*.usersnap.com https://*.calibermind.com https://*.hotjar.com https://*.googletagmanager.com https://*.b0e8.com https://*.doubleclick.net https://*.bing.com https://*.licdn.com https://*.redditstatic.com https://*.6sc.co https://*.influ2.com https://*.zoominfo.com https://*.d41.co https://*.stackadapt.com https://*.marketo.net; style-src 'self' 'unsafe-inline' https://*.cookielaw.org https://cdnjs.cloudflare.com; img-src 'self' data: https://*.dynatrace.com https://dt-cdn.net https://*.cookielaw.org https://*.reddit.com https://*.google.com https://*.google.at https://*.linkedin.com https://*.bing.com https://*.6sc.co; font-src 'self' data:; connect-src 'self' https://*.dynatrace.com https://*.bc0a.com https://*.cookielaw.org https://*.calibermind.com https://*.hotjar.com https://*.hotjar.io wss://*.hotjar.com https://unpkg.com https://*.google-analytics.com https://*.google.com https://*.doubleclick.net https://*.bing.com https://*.linkedin.com https://*.reddit.com https://*.stackadapt.com https://*.6sc.co https://*.adnxs.com https://*.influ2.com https://*.d41.co https://*.mktoresp.com https://*.zoominfo.com; frame-src 'self' https://*.googletagmanager.com https://*.youtube.com https://*.youtube-nocookie.com https://*.doubleclick.net; frame-ancestors 'self' *.dynatrace.org *.dynatrace.com *.dynatrace.cn; worker-src 'self' blob:; object-src 'none'; base-uri 'self'; form-action 'self'"
+        ],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains"
+        ]
+      },
+      "body_bytes": 62789,
+      "truncated": false,
+      "body_sha256": "c2f841f966b82ca4d875304b0bc7bf87d53ed92907a5f6dcf8d6dad672c79d1b",
+      "redirect_chain": [
+        {
+          "url": "https://www.dynatrace.com/resource-center/report/2021-global-ciso-report",
+          "status": 301,
+          "location": "/info/reports/ciso-report-state-of-application-security/",
+          "headers": {
+            "content-security-policy": [
+              "frame-ancestors 'self' *.dynatrace.org *.dynatrace.com *.dynatrace.cn"
+            ],
+            "content-security-policy-report-only": [
+              "default-src 'self'; script-src 'self' 'unsafe-inline' https://*.dynatrace.com https://*.cookielaw.org https://*.usersnap.com https://*.calibermind.com https://*.hotjar.com https://*.googletagmanager.com https://*.b0e8.com https://*.doubleclick.net https://*.bing.com https://*.licdn.com https://*.redditstatic.com https://*.6sc.co https://*.influ2.com https://*.zoominfo.com https://*.d41.co https://*.stackadapt.com https://*.marketo.net; style-src 'self' 'unsafe-inline' https://*.cookielaw.org https://cdnjs.cloudflare.com; img-src 'self' data: https://*.dynatrace.com https://dt-cdn.net https://*.cookielaw.org https://*.reddit.com https://*.google.com https://*.google.at https://*.linkedin.com https://*.bing.com https://*.6sc.co; font-src 'self' data:; connect-src 'self' https://*.dynatrace.com https://*.bc0a.com https://*.cookielaw.org https://*.calibermind.com https://*.hotjar.com https://*.hotjar.io wss://*.hotjar.com https://unpkg.com https://*.google-analytics.com https://*.google.com https://*.doubleclick.net https://*.bing.com https://*.linkedin.com https://*.reddit.com https://*.stackadapt.com https://*.6sc.co https://*.adnxs.com https://*.influ2.com https://*.d41.co https://*.mktoresp.com https://*.zoominfo.com; frame-src 'self' https://*.googletagmanager.com https://*.youtube.com https://*.youtube-nocookie.com https://*.doubleclick.net; frame-ancestors 'self' *.dynatrace.org *.dynatrace.com *.dynatrace.cn; worker-src 'self' blob:; object-src 'none'; base-uri 'self'; form-action 'self'"
+            ],
+            "strict-transport-security": [
+              "max-age=31536000; includeSubDomains"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "The state of application security in 2024",
+      "duplicate_final": false,
+      "eligible": true
+    }
+  ],
+  "robots": [
+    {
+      "url": "https://dynatrace.com/robots.txt",
+      "timestamp": "2026-11-12T21:12:05.336471+00:00",
+      "status": 200,
+      "decision": "parsed",
+      "final_url": "https://www.dynatrace.com/robots.txt",
+      "redirect_chain": [
+        {
+          "url": "https://dynatrace.com/robots.txt",
+          "status": 301,
+          "location": "https://www.dynatrace.com/robots.txt"
+        }
+      ],
+      "body_sha256": "690c910ff4bc157eabebf12fe408f90e182b76ad3fc494565248b4d144f9b732",
+      "body": "User-agent: *\nDisallow: /download/temp/\nDisallow: /plugins/viewsource/\nDisallow: /spaces/flyingpdf/\nDisallow: /harming/humans/\nDisallow: /ignoring/human/orders/\nDisallow: /harm/to/self/\nDisallow: /monitoring/\nDisallow: /hub/detail/*filter=*\nDisallow: /hub/detail/*query=*\nSitemap: https://www.dynatrace.com/sitemap.xml\n"
+    },
+    {
+      "url": "https://www.dynatrace.com/robots.txt",
+      "timestamp": "2026-11-12T21:12:05.808649+00:00",
+      "status": 200,
+      "decision": "parsed",
+      "final_url": "https://www.dynatrace.com/robots.txt",
+      "redirect_chain": [],
+      "body_sha256": "690c910ff4bc157eabebf12fe408f90e182b76ad3fc494565248b4d144f9b732",
+      "body": "User-agent: *\nDisallow: /download/temp/\nDisallow: /plugins/viewsource/\nDisallow: /spaces/flyingpdf/\nDisallow: /harming/humans/\nDisallow: /ignoring/human/orders/\nDisallow: /harm/to/self/\nDisallow: /monitoring/\nDisallow: /hub/detail/*filter=*\nDisallow: /hub/detail/*query=*\nSitemap: https://www.dynatrace.com/sitemap.xml\n"
+    }
+  ],
+  "eligible_pages": 40,
+  "canonical_origin": [
+    "https",
+    "www.dynatrace.com",
+    443
+  ],
+  "stop_reason": "page_budget",
+  "elapsed_seconds": 45.3
+}

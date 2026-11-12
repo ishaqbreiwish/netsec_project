@@ -1,0 +1,151 @@
+rank,domain,stratum,attempted_pages,eligible_pages,collector_eligible_pages,reviewed_excluded_pages,comparable,homepage_eligible,canonical_origin,stop_reason,max_discovery_depth,path_sections,elapsed_seconds,csp_pages_present,csp_home_present,csp_presence_mismatch,csp_raw_mismatch,csp_normalized_mismatch,csp_home_present_interior_absent,csp_home_absent_interior_present,csp_distinct_normalized_deliveries,csp_report_only_pages_present,csp_report_only_home_present,csp_report_only_presence_mismatch,csp_report_only_raw_mismatch,csp_report_only_normalized_mismatch,csp_report_only_home_present_interior_absent,csp_report_only_home_absent_interior_present,csp_report_only_distinct_normalized_deliveries,hsts_pages_present,hsts_home_present,hsts_presence_mismatch,hsts_raw_mismatch,hsts_normalized_mismatch,hsts_home_present_interior_absent,hsts_home_absent_interior_present,hsts_distinct_normalized_deliveries
+1533,18comic.vip,1001-10000,1,0,0,0,False,False,"[""https"", ""18comic.vip"", 443]",frontier_exhausted,0,0,0.65,0,,,,,,,0,0,,,,,,,0,0,,,,,,,0
+78,a2z.com,1-100,1,0,0,0,False,False,,frontier_exhausted,0,0,0.16,0,,,,,,,0,0,,,,,,,0,0,,,,,,,0
+6619,abplive.com,1001-10000,41,39,40,1,True,True,"[""https"", ""www.abplive.com"", 443]",page_budget,5,37,42.1,0,False,False,False,False,False,False,1,0,False,False,False,False,False,False,1,39,True,False,False,False,False,False,1
+61,adobe.com,1-100,1,0,0,0,False,False,"[""https"", ""www.adobe.com"", 443]",frontier_exhausted,0,0,1.16,0,,,,,,,0,0,,,,,,,0,0,,,,,,,0
+100,akam.net,1-100,1,0,0,0,False,False,,frontier_exhausted,0,0,0.03,0,,,,,,,0,0,,,,,,,0,0,,,,,,,0
+13,akamai.net,1-100,1,0,0,0,False,False,,frontier_exhausted,0,0,0.07,0,,,,,,,0,0,,,,,,,0,0,,,,,,,0
+15,akamaiedge.net,1-100,1,0,0,0,False,False,,frontier_exhausted,0,0,0.1,0,,,,,,,0,0,,,,,,,0,0,,,,,,,0
+28,amazon.com,1-100,6,2,2,0,True,True,"[""https"", ""www.amazon.com"", 443]",frontier_exhausted,1,2,4.7,2,True,False,False,False,False,False,1,2,True,False,False,False,False,False,1,2,True,False,False,False,False,False,1
+3628,amazon.nl,1001-10000,5,3,3,0,True,True,"[""https"", ""www.amazon.nl"", 443]",frontier_exhausted,1,3,4.86,3,True,False,False,False,False,False,1,3,True,False,False,False,False,False,1,3,True,False,False,False,False,False,1
+4,amazonaws.com,1-100,1,0,0,0,False,False,,frontier_exhausted,0,0,0.66,0,,,,,,,0,0,,,,,,,0,0,,,,,,,0
+524,amzn.to,101-1000,1,0,0,0,False,False,,frontier_exhausted,0,0,0.84,0,,,,,,,0,0,,,,,,,0,0,,,,,,,0
+8380,aniworld.to,1001-10000,41,40,40,0,True,True,"[""https"", ""aniworld.to"", 443]",page_budget,5,21,27.27,40,True,False,False,False,False,False,1,0,False,False,False,False,False,False,1,40,True,False,False,False,False,False,1
+144,apache.org,101-1000,51,40,40,0,True,True,"[""https"", ""apache.org"", 443]",page_budget,5,16,224.61,40,True,False,False,False,False,False,1,0,False,False,False,False,False,False,1,40,True,False,False,False,False,False,1
+42,apple-dns.net,1-100,1,0,0,0,False,False,,frontier_exhausted,0,0,0.0,0,,,,,,,0,0,,,,,,,0,0,,,,,,,0
+12,apple.com,1-100,46,40,40,0,True,True,"[""https"", ""www.apple.com"", 443]",page_budget,5,38,33.38,36,True,True,True,True,True,False,5,0,False,False,False,False,False,False,1,40,True,False,True,False,False,False,1
+25,appsflyersdk.com,1-100,1,0,0,0,False,False,,frontier_exhausted,0,0,0.58,0,,,,,,,0,0,,,,,,,0,0,,,,,,,0
+336,archive.is,101-1000,1,0,0,0,False,False,,frontier_exhausted,0,0,10.29,0,,,,,,,0,0,,,,,,,0,0,,,,,,,0
+791,auth0.com,101-1000,47,40,40,0,True,True,"[""https"", ""auth0.com"", 443]",page_budget,5,37,30.59,40,True,False,True,True,False,False,3,0,False,False,False,False,False,False,1,40,True,False,True,True,False,False,2
+8493,autozone.com,1001-10000,1,0,0,0,False,False,"[""https"", ""www.autozone.com"", 443]",frontier_exhausted,0,0,5.15,0,,,,,,,0,0,,,,,,,0,0,,,,,,,0
+87,aws.dev,1-100,1,0,0,0,False,False,,frontier_exhausted,0,0,0.0,0,,,,,,,0,0,,,,,,,0,0,,,,,,,0
+8394,awsdns-10.net,1001-10000,1,0,0,0,False,False,,frontier_exhausted,0,0,0.01,0,,,,,,,0,0,,,,,,,0,0,,,,,,,0
+3380,awsdns-62.com,1001-10000,1,0,0,0,False,False,,frontier_exhausted,0,0,0.0,0,,,,,,,0,0,,,,,,,0,0,,,,,,,0
+18,azure.com,1-100,1,0,0,0,False,False,,frontier_exhausted,0,0,1.09,0,,,,,,,0,0,,,,,,,0,0,,,,,,,0
+6071,bandlab.com,1001-10000,1,1,1,0,False,True,"[""https"", ""www.bandlab.com"", 443]",frontier_exhausted,0,1,2.39,0,False,,,,,,1,0,False,,,,,,1,1,True,,,,,,1
+6782,blncvpn4u.cc,1001-10000,1,0,0,0,False,False,,frontier_exhausted,0,0,0.0,0,,,,,,,0,0,,,,,,,0,0,,,,,,,0
+91,blogspot.com,1-100,1,0,0,0,False,False,,frontier_exhausted,0,0,0.04,0,,,,,,,0,0,,,,,,,0,0,,,,,,,0
+642,box.com,101-1000,80,3,3,0,True,True,"[""https"", ""www.box.com"", 443]",attempt_budget,1,3,41.31,3,True,False,False,False,False,False,1,0,False,False,False,False,False,False,1,3,True,False,False,False,False,False,1
+991,btloader.com,101-1000,1,0,0,0,False,False,,frontier_exhausted,0,0,0.33,0,,,,,,,0,0,,,,,,,0,0,,,,,,,0
+1396,businesswire.com,1001-10000,1,0,0,0,False,False,,frontier_exhausted,0,0,10.88,0,,,,,,,0,0,,,,,,,0,0,,,,,,,0
+7886,cargocollective.com,1001-10000,1,0,0,0,False,False,,frontier_exhausted,0,0,10.24,0,,,,,,,0,0,,,,,,,0,0,,,,,,,0
+94,cdn77.org,1-100,1,0,0,0,False,False,,frontier_exhausted,0,0,0.02,0,,,,,,,0,0,,,,,,,0,0,,,,,,,0
+3325,cisa.gov,1001-10000,43,40,40,0,True,True,"[""https"", ""www.cisa.gov"", 443]",page_budget,5,21,43.57,0,False,False,False,False,False,False,1,40,True,False,False,False,False,False,1,40,True,False,False,False,False,False,1
+9077,clickr.pro,1001-10000,1,0,0,0,False,False,"[""https"", ""clickr.pro"", 443]",frontier_exhausted,0,0,1.63,0,,,,,,,0,0,,,,,,,0,0,,,,,,,0
+38,cloud.microsoft,1-100,1,0,0,0,False,False,,frontier_exhausted,0,0,0.19,0,,,,,,,0,0,,,,,,,0,0,,,,,,,0
+6040,clouddatahub.net,1001-10000,1,0,0,0,False,False,,frontier_exhausted,0,0,0.03,0,,,,,,,0,0,,,,,,,0,0,,,,,,,0
+27,cloudfront.net,1-100,1,0,0,0,False,False,,frontier_exhausted,0,0,0.06,0,,,,,,,0,0,,,,,,,0,0,,,,,,,0
+570,comcast.com,101-1000,1,0,0,0,False,False,,frontier_exhausted,0,0,0.49,0,,,,,,,0,0,,,,,,,0,0,,,,,,,0
+228,criteo.com,101-1000,41,40,40,0,True,True,"[""https"", ""www.criteo.com"", 443]",page_budget,4,38,24.27,40,True,False,False,False,False,False,1,0,False,False,False,False,False,False,1,40,True,False,False,False,False,False,1
+795,crwdcntrl.net,101-1000,1,0,0,0,False,False,,frontier_exhausted,0,0,60.01,0,,,,,,,0,0,,,,,,,0,0,,,,,,,0
+581,dailymail.com,101-1000,44,40,40,0,True,True,"[""https"", ""www.dailymail.com"", 443]",page_budget,5,39,50.9,0,False,False,False,False,False,False,1,40,True,False,False,False,False,False,1,0,False,False,False,False,False,False,1
+277,datadoghq.com,101-1000,49,40,40,0,True,True,"[""https"", ""www.datadoghq.com"", 443]",page_budget,5,36,30.41,40,True,False,True,True,False,False,2,0,False,False,False,False,False,False,1,40,True,False,True,True,False,False,2
+8823,dayunlinks.cn,1001-10000,1,1,1,0,False,True,"[""https"", ""dayunlinks.cn"", 443]",frontier_exhausted,0,1,2.1,0,False,,,,,,1,0,False,,,,,,1,0,False,,,,,,1
+5722,degruyter.com,1001-10000,1,0,0,0,False,False,,frontier_exhausted,0,0,1.48,0,,,,,,,0,0,,,,,,,0,0,,,,,,,0
+7892,deped.gov.ph,1001-10000,1,0,0,0,False,False,,frontier_exhausted,0,0,1.0,0,,,,,,,0,0,,,,,,,0,0,,,,,,,0
+812,discordapp.com,101-1000,1,0,0,0,False,False,,frontier_exhausted,0,0,0.2,0,,,,,,,0,0,,,,,,,0,0,,,,,,,0
+8227,dishtech.org,1001-10000,1,0,0,0,False,False,,frontier_exhausted,0,0,0.01,0,,,,,,,0,0,,,,,,,0,0,,,,,,,0
+389,dns.google,101-1000,2,2,2,0,True,True,"[""https"", ""dns.google"", 443]",frontier_exhausted,1,2,1.14,2,True,False,True,True,False,False,2,2,True,False,True,True,False,False,2,2,True,False,False,False,False,False,1
+1709,dord.gov.in,1001-10000,1,1,1,0,False,True,"[""https"", ""www.dord.gov.in"", 443]",frontier_exhausted,0,1,4.92,1,True,,,,,,1,0,False,,,,,,1,1,True,,,,,,1
+4680,dynadot.com,1001-10000,57,38,40,2,True,True,"[""https"", ""www.dynadot.com"", 443]",page_budget,3,38,38.63,0,False,False,False,False,False,False,1,0,False,False,False,False,False,False,1,10,False,True,True,True,False,True,2
+370,dynatrace.com,101-1000,46,40,40,0,True,True,"[""https"", ""www.dynatrace.com"", 443]",page_budget,5,19,45.3,40,True,False,False,False,False,False,1,40,True,False,False,False,False,False,1,40,True,False,False,False,False,False,1
+44,dzen.ru,1-100,1,0,0,0,False,False,,frontier_exhausted,0,0,1.42,0,,,,,,,0,0,,,,,,,0,0,,,,,,,0
+83,epicgames.com,1-100,1,0,0,0,False,False,,frontier_exhausted,0,0,0.82,0,,,,,,,0,0,,,,,,,0,0,,,,,,,0
+829,erome.com,101-1000,47,40,40,0,True,True,"[""https"", ""www.erome.com"", 443]",page_budget,5,27,32.59,0,False,False,False,False,False,False,1,0,False,False,False,False,False,False,1,40,True,False,False,False,False,False,1
+180,example.com,101-1000,1,1,1,0,False,True,"[""https"", ""example.com"", 443]",frontier_exhausted,0,1,0.83,0,False,,,,,,1,0,False,,,,,,1,0,False,,,,,,1
+3,ezviz7.com,1-100,1,0,0,0,False,False,,frontier_exhausted,0,0,0.03,0,,,,,,,0,0,,,,,,,0,0,,,,,,,0
+97,f5.com,1-100,43,40,40,0,True,True,"[""https"", ""www.f5.com"", 443]",page_budget,5,24,51.12,38,True,True,True,True,True,False,2,0,False,False,False,False,False,False,1,40,True,False,False,False,False,False,1
+5,facebook.com,1-100,1,0,0,0,False,False,,frontier_exhausted,0,0,0.7,0,,,,,,,0,0,,,,,,,0,0,,,,,,,0
+7079,fakt.pl,1001-10000,43,38,40,2,True,True,"[""https"", ""www.fakt.pl"", 443]",page_budget,5,20,29.12,38,True,False,False,False,False,False,1,0,False,False,False,False,False,False,1,38,True,False,False,False,False,False,1
+41,fastly.net,1-100,1,0,0,0,False,False,,frontier_exhausted,0,0,0.1,0,,,,,,,0,0,,,,,,,0,0,,,,,,,0
+9731,futbol11.com,1001-10000,24,23,23,0,True,True,"[""https"", ""futbol11.com"", 443]",frontier_exhausted,1,23,13.95,23,True,False,False,False,False,False,1,0,False,False,False,False,False,False,1,0,False,False,False,False,False,False,1
+2818,gamespot.com,1001-10000,1,0,0,0,False,False,"[""https"", ""www.gamespot.com"", 443]",frontier_exhausted,0,0,1.3,0,,,,,,,0,0,,,,,,,0,0,,,,,,,0
+68,gandi.net,1-100,41,40,40,0,True,True,"[""https"", ""www.gandi.net"", 443]",page_budget,5,19,27.85,0,False,False,False,False,False,False,1,0,False,False,False,False,False,False,1,40,True,False,False,False,False,False,1
+8999,gegen-hartz.de,1001-10000,47,40,40,0,True,True,"[""https"", ""www.gegen-hartz.de"", 443]",page_budget,4,40,73.7,0,False,False,False,False,False,False,1,0,False,False,False,False,False,False,1,40,True,False,False,False,False,False,1
+716,globalsign.com,101-1000,46,40,40,0,True,True,"[""https"", ""www.globalsign.com"", 443]",page_budget,3,10,37.54,0,False,False,False,False,False,False,1,0,False,False,False,False,False,False,1,0,False,False,False,False,False,False,1
+388,globo.com,101-1000,1,0,0,0,False,False,"[""https"", ""www.globo.com"", 443]",frontier_exhausted,0,0,5.03,0,,,,,,,0,0,,,,,,,0,0,,,,,,,0
+970,go-mpulse.net,101-1000,1,0,0,0,False,False,,frontier_exhausted,0,0,0.01,0,,,,,,,0,0,,,,,,,0,0,,,,,,,0
+5075,google.com.py,1001-10000,1,0,0,0,False,False,,frontier_exhausted,0,0,0.36,0,,,,,,,0,0,,,,,,,0,0,,,,,,,0
+7,googleapis.com,1-100,1,0,0,0,False,False,"[""https"", ""googleapis.com"", 443]",frontier_exhausted,0,0,1.2,0,,,,,,,0,0,,,,,,,0,0,,,,,,,0
+70,googledomains.com,1-100,1,0,0,0,False,False,,frontier_exhausted,0,0,0.06,0,,,,,,,0,0,,,,,,,0,0,,,,,,,0
+23,googlevideo.com,1-100,1,0,0,0,False,False,,frontier_exhausted,0,0,0.57,0,,,,,,,0,0,,,,,,,0,0,,,,,,,0
+587,goskope.com,101-1000,1,0,0,0,False,False,,frontier_exhausted,0,0,0.01,0,,,,,,,0,0,,,,,,,0,0,,,,,,,0
+6862,gotoassist.com,1001-10000,1,0,0,0,False,False,,frontier_exhausted,0,0,0.64,0,,,,,,,0,0,,,,,,,0,0,,,,,,,0
+167,gravatar.com,101-1000,9,5,5,0,True,True,"[""https"", ""gravatar.com"", 443]",frontier_exhausted,1,5,7.34,5,True,False,True,False,False,False,1,0,False,False,False,False,False,False,1,5,True,False,False,False,False,False,1
+3081,hellotalk8.com,1001-10000,1,0,0,0,False,False,,frontier_exhausted,0,0,1.0,0,,,,,,,0,0,,,,,,,0,0,,,,,,,0
+670,hstgr.net,101-1000,1,0,0,0,False,False,,frontier_exhausted,0,0,0.14,0,,,,,,,0,0,,,,,,,0,0,,,,,,,0
+6727,hvg.hu,1001-10000,45,40,40,0,True,True,"[""https"", ""hvg.hu"", 443]",page_budget,5,37,41.94,0,False,False,False,False,False,False,1,0,False,False,False,False,False,False,1,0,False,False,False,False,False,False,1
+56,icloud.com,1-100,1,1,1,0,False,True,"[""https"", ""www.icloud.com"", 443]",frontier_exhausted,0,1,1.14,1,True,,,,,,1,0,False,,,,,,1,1,True,,,,,,1
+6004,igvita.com,1001-10000,1,0,0,0,False,False,,frontier_exhausted,0,0,2.36,0,,,,,,,0,0,,,,,,,0,0,,,,,,,0
+6545,infoworld.com,1001-10000,40,39,40,1,True,True,"[""https"", ""www.infoworld.com"", 443]",page_budget,5,39,35.19,0,False,False,False,False,False,False,1,0,False,False,False,False,False,False,1,39,True,False,False,False,False,False,1
+532,inmobi.com,101-1000,32,22,22,0,True,True,"[""https"", ""www.inmobi.com"", 443]",frontier_exhausted,3,9,23.73,0,False,False,False,False,False,False,1,0,False,False,False,False,False,False,1,0,False,False,False,False,False,False,1
+14,instagram.com,1-100,1,0,0,0,False,False,,frontier_exhausted,0,0,20.43,0,,,,,,,0,0,,,,,,,0,0,,,,,,,0
+902,instructure.com,101-1000,41,40,40,0,True,True,"[""https"", ""www.instructure.com"", 443]",page_budget,5,38,31.56,0,False,False,False,False,False,False,1,40,True,False,False,False,False,False,1,40,True,False,False,False,False,False,1
+651,iso.org,101-1000,1,0,0,0,False,False,,frontier_exhausted,0,0,0.34,0,,,,,,,0,0,,,,,,,0,0,,,,,,,0
+815,life360.com,101-1000,1,0,0,0,False,False,,frontier_exhausted,0,0,0.45,0,,,,,,,0,0,,,,,,,0,0,,,,,,,0
+32,live.com,1-100,1,0,0,0,False,False,,frontier_exhausted,0,0,0.13,0,,,,,,,0,0,,,,,,,0,0,,,,,,,0
+766,livejournal.com,101-1000,52,25,40,15,True,True,"[""https"", ""www.livejournal.com"", 443]",page_budget,5,9,134.23,25,True,False,False,False,False,False,1,0,False,False,False,False,False,False,1,0,False,False,False,False,False,False,1
+4817,marksandspencer.com,1001-10000,46,37,40,3,True,True,"[""https"", ""www.marksandspencer.com"", 443]",page_budget,4,36,102.7,37,True,False,True,True,False,False,9,0,False,False,False,False,False,False,1,37,True,False,False,False,False,False,1
+915,mercadolivre.com.br,101-1000,49,40,40,0,True,True,"[""https"", ""www.mercadolivre.com.br"", 443]",page_budget,3,20,39.74,40,True,False,True,True,False,False,40,25,True,True,True,True,True,False,26,40,True,False,False,False,False,False,1
+5308,michigan.gov,1001-10000,43,40,40,0,True,True,"[""https"", ""www.michigan.gov"", 443]",page_budget,5,36,52.47,40,True,False,False,False,False,False,1,0,False,False,False,False,False,False,1,0,False,False,False,False,False,False,1
+11,microsoft.com,1-100,51,40,40,0,True,True,"[""https"", ""www.microsoft.com"", 443]",page_budget,5,10,225.72,0,False,False,False,False,False,False,1,0,False,False,False,False,False,False,1,31,False,True,True,True,False,True,2
+4506,microsoft365.com,1001-10000,1,0,0,0,False,False,,frontier_exhausted,0,0,0.46,0,,,,,,,0,0,,,,,,,0,0,,,,,,,0
+64,microsoftonline.com,1-100,1,0,0,0,False,False,,frontier_exhausted,0,0,0.01,0,,,,,,,0,0,,,,,,,0,0,,,,,,,0
+57,myfritz.net,1-100,1,0,0,0,False,False,,frontier_exhausted,0,0,1.71,0,,,,,,,0,0,,,,,,,0,0,,,,,,,0
+6616,neal.fun,1001-10000,1,0,0,0,False,False,"[""https"", ""neal.fun"", 443]",frontier_exhausted,0,0,0.85,0,,,,,,,0,0,,,,,,,0,0,,,,,,,0
+445,netcraze.io,101-1000,1,0,0,0,False,False,,frontier_exhausted,0,0,1.27,0,,,,,,,0,0,,,,,,,0,0,,,,,,,0
+43,netflix.com,1-100,1,0,0,0,False,False,,frontier_exhausted,0,0,0.52,0,,,,,,,0,0,,,,,,,0,0,,,,,,,0
+95,nginx.org,1-100,60,40,40,0,True,True,"[""https"", ""nginx.org"", 443]",page_budget,5,22,49.12,0,False,False,False,False,False,False,1,0,False,False,False,False,False,False,1,40,True,False,False,False,False,False,1
+674,nike.com,101-1000,40,40,40,0,True,True,"[""https"", ""www.nike.com"", 443]",page_budget,5,40,65.43,40,True,False,False,False,False,False,1,0,False,False,False,False,False,False,1,40,True,False,False,False,False,False,1
+1318,noodlemagazine.com,1001-10000,1,0,0,0,False,False,"[""https"", ""noodlemagazine.com"", 443]",frontier_exhausted,0,0,0.63,0,,,,,,,0,0,,,,,,,0,0,,,,,,,0
+86,ntp.org,1-100,41,40,40,0,True,True,"[""https"", ""www.ntp.org"", 443]",page_budget,5,11,25.98,0,False,False,False,False,False,False,1,0,False,False,False,False,False,False,1,40,True,False,False,False,False,False,1
+30,office.com,1-100,1,0,0,0,False,False,,frontier_exhausted,0,0,0.68,0,,,,,,,0,0,,,,,,,0,0,,,,,,,0
+348,ok.ru,101-1000,44,40,40,0,True,True,"[""https"", ""ok.ru"", 443]",page_budget,5,40,120.81,40,True,False,False,False,False,False,1,40,True,False,False,False,False,False,1,40,True,False,False,False,False,False,1
+720,outbrain.com,101-1000,16,13,13,0,True,True,"[""https"", ""www.outbrain.com"", 443]",time_budget,4,13,240.91,0,False,False,False,False,False,False,1,0,False,False,False,False,False,False,1,13,True,False,False,False,False,False,1
+767,ovscdns.com,101-1000,1,0,0,0,False,False,,frontier_exhausted,0,0,0.01,0,,,,,,,0,0,,,,,,,0,0,,,,,,,0
+1700,pla3.com,1001-10000,1,1,1,0,False,True,"[""https"", ""pla3.com"", 443]",frontier_exhausted,0,1,0.77,0,False,,,,,,1,0,False,,,,,,1,1,True,,,,,,1
+6254,plesk.page,1001-10000,1,0,0,0,False,False,,frontier_exhausted,0,0,0.0,0,,,,,,,0,0,,,,,,,0,0,,,,,,,0
+4314,producthunt.com,1001-10000,1,0,0,0,False,False,"[""https"", ""producthunt.com"", 443]",frontier_exhausted,0,0,0.65,0,,,,,,,0,0,,,,,,,0,0,,,,,,,0
+48,pv-cdn.net,1-100,1,0,0,0,False,False,,frontier_exhausted,0,0,0.0,0,,,,,,,0,0,,,,,,,0,0,,,,,,,0
+835,px-cloud.net,101-1000,1,0,0,0,False,False,"[""https"", ""px-cloud.net"", 443]",frontier_exhausted,0,0,0.6,0,,,,,,,0,0,,,,,,,0,0,,,,,,,0
+750,python.org,101-1000,49,40,40,0,True,True,"[""https"", ""www.python.org"", 443]",page_budget,5,16,30.96,0,False,False,False,False,False,False,1,40,True,False,True,True,False,False,11,40,True,False,False,False,False,False,1
+92,qq.com,1-100,1,1,1,0,False,True,"[""https"", ""www.qq.com"", 443]",frontier_exhausted,0,1,4.66,1,True,,,,,,1,0,False,,,,,,1,0,False,,,,,,1
+233,researchgate.net,101-1000,1,0,0,0,False,False,"[""https"", ""www.researchgate.net"", 443]",frontier_exhausted,0,0,1.49,0,,,,,,,0,0,,,,,,,0,0,,,,,,,0
+540,rocket-cdn.com,101-1000,1,0,0,0,False,False,,frontier_exhausted,0,0,0.0,0,,,,,,,0,0,,,,,,,0,0,,,,,,,0
+584,samsungqbe.com,101-1000,1,0,0,0,False,False,,frontier_exhausted,0,0,0.01,0,,,,,,,0,0,,,,,,,0,0,,,,,,,0
+9577,sarkariresult.com,1001-10000,40,40,40,0,True,True,"[""https"", ""www.sarkariresult.com"", 443]",page_budget,3,40,21.3,0,False,False,False,False,False,False,1,0,False,False,False,False,False,False,1,0,False,False,False,False,False,False,1
+104,sentry.io,101-1000,48,39,40,1,True,True,"[""https"", ""sentry.io"", 443]",page_budget,4,24,29.31,39,True,False,True,True,False,False,2,0,False,False,False,False,False,False,1,1,False,True,True,True,False,True,2
+2286,sharethis.com,1001-10000,42,40,40,0,True,True,"[""https"", ""sharethis.com"", 443]",page_budget,5,40,22.48,40,True,False,False,False,False,False,1,0,False,False,False,False,False,False,1,40,True,False,False,False,False,False,1
+2392,shorturl.at,1001-10000,1,0,0,0,False,False,"[""https"", ""shorturl.at"", 443]",frontier_exhausted,0,0,0.73,0,,,,,,,0,0,,,,,,,0,0,,,,,,,0
+9630,spicymms.com,1001-10000,80,1,1,0,False,True,"[""https"", ""www.spicymms.com"", 443]",attempt_budget,0,1,42.1,0,False,,,,,,1,0,False,,,,,,1,1,True,,,,,,1
+77,spotify.com,1-100,1,0,0,0,False,False,,frontier_exhausted,0,0,1.39,0,,,,,,,0,0,,,,,,,0,0,,,,,,,0
+8878,sssinstagram.com,1001-10000,1,1,1,0,False,True,"[""https"", ""sssinstagram.com"", 443]",frontier_exhausted,0,1,1.45,0,False,,,,,,1,0,False,,,,,,1,0,False,,,,,,1
+1771,staseraintv.com,1001-10000,40,40,40,0,True,True,"[""https"", ""staseraintv.com"", 443]",page_budget,3,40,37.85,0,False,False,False,False,False,False,1,0,False,False,False,False,False,False,1,0,False,False,False,False,False,False,1
+342,steamserver.net,101-1000,1,0,0,0,False,False,,frontier_exhausted,0,0,0.0,0,,,,,,,0,0,,,,,,,0,0,,,,,,,0
+212,stripe.com,101-1000,41,40,40,0,True,True,"[""https"", ""stripe.com"", 443]",page_budget,3,40,24.81,40,True,False,True,True,False,False,24,0,False,False,False,False,False,False,1,40,True,False,False,False,False,False,1
+9124,supersport.hr,1001-10000,1,0,0,0,False,False,,frontier_exhausted,0,0,0.68,0,,,,,,,0,0,,,,,,,0,0,,,,,,,0
+3424,swrve.com,1001-10000,1,0,0,0,False,False,,frontier_exhausted,0,0,0.21,0,,,,,,,0,0,,,,,,,0,0,,,,,,,0
+1638,syosetu.org,1001-10000,1,0,0,0,False,False,,frontier_exhausted,0,0,0.11,0,,,,,,,0,0,,,,,,,0,0,,,,,,,0
+98,t-online.de,1-100,45,40,40,0,True,True,"[""https"", ""www.t-online.de"", 443]",page_budget,5,34,32.05,40,True,False,False,False,False,False,1,0,False,False,False,False,False,False,1,40,True,False,False,False,False,False,1
+844,teads.tv,101-1000,1,0,0,0,False,False,,frontier_exhausted,0,0,0.66,0,,,,,,,0,0,,,,,,,0,0,,,,,,,0
+203,theguardian.com,101-1000,42,39,40,1,True,True,"[""https"", ""www.theguardian.com"", 443]",page_budget,5,38,30.56,39,True,False,False,False,False,False,1,0,False,False,False,False,False,False,1,39,True,False,False,False,False,False,1
+36,trafficmanager.net,1-100,1,0,0,0,False,False,,frontier_exhausted,0,0,0.03,0,,,,,,,0,0,,,,,,,0,0,,,,,,,0
+589,tripadvisor.com,101-1000,42,40,40,0,True,True,"[""https"", ""www.tripadvisor.com"", 443]",page_budget,5,40,32.58,31,True,True,True,True,True,False,2,0,False,False,False,False,False,False,1,40,True,False,False,False,False,False,1
+769,twc.com,101-1000,1,0,0,0,False,False,,frontier_exhausted,0,0,0.32,0,,,,,,,0,0,,,,,,,0,0,,,,,,,0
+981,twilio.com,101-1000,43,40,40,0,True,True,"[""https"", ""www.twilio.com"", 443]",page_budget,5,8,38.78,0,False,False,False,False,False,False,1,0,False,False,False,False,False,False,1,33,True,True,True,True,True,False,2
+8801,twister.porn,1001-10000,45,40,40,0,True,True,"[""https"", ""twister.porn"", 443]",page_budget,5,2,20.5,0,False,False,False,False,False,False,1,0,False,False,False,False,False,False,1,0,False,False,False,False,False,False,1
+16,twitter.com,1-100,1,0,0,0,False,False,,frontier_exhausted,0,0,0.69,0,,,,,,,0,0,,,,,,,0,0,,,,,,,0
+9637,uc.pt,1001-10000,1,0,0,0,False,False,"[""https"", ""www.uc.pt"", 443]",frontier_exhausted,0,0,3.9,0,,,,,,,0,0,,,,,,,0,0,,,,,,,0
+657,ups.com,101-1000,1,0,0,0,False,False,"[""https"", ""www.ups.com"", 443]",frontier_exhausted,0,0,1.28,0,,,,,,,0,0,,,,,,,0,0,,,,,,,0
+326,vercel-dns-016.com,101-1000,1,0,0,0,False,False,,frontier_exhausted,0,0,0.0,0,,,,,,,0,0,,,,,,,0,0,,,,,,,0
+65,whatsapp.com,1-100,44,40,40,0,True,True,"[""https"", ""www.whatsapp.com"", 443]",page_budget,4,20,26.27,40,True,False,True,True,False,False,2,40,True,False,True,True,False,False,2,40,True,False,False,False,False,False,1
+46,whatsapp.net,1-100,1,0,0,0,False,False,,frontier_exhausted,0,0,0.06,0,,,,,,,0,0,,,,,,,0,0,,,,,,,0
+39,wikipedia.org,1-100,1,0,0,0,False,False,,frontier_exhausted,0,0,0.44,0,,,,,,,0,0,,,,,,,0,0,,,,,,,0
+99,wordpress.com,1-100,42,40,40,0,True,True,"[""https"", ""wordpress.com"", 443]",page_budget,3,40,23.74,0,False,False,False,False,False,False,1,3,False,True,True,True,False,True,2,40,True,False,False,False,False,False,1
+67,wordpress.org,1-100,47,40,40,0,True,True,"[""https"", ""wordpress.org"", 443]",page_budget,5,18,36.25,0,False,False,False,False,False,False,1,0,False,False,False,False,False,False,1,40,True,False,False,False,False,False,1
+779,wpguardian.com,101-1000,1,1,1,0,False,True,"[""https"", ""wpguardian.com"", 443]",frontier_exhausted,0,1,1.02,0,False,,,,,,1,0,False,,,,,,1,0,False,,,,,,1
+247,wsdvs.com,101-1000,1,0,0,0,False,False,,frontier_exhausted,0,0,0.04,0,,,,,,,0,0,,,,,,,0,0,,,,,,,0
+49,x.com,1-100,1,0,0,0,False,False,,frontier_exhausted,0,0,0.28,0,,,,,,,0,0,,,,,,,0,0,,,,,,,0
+53,youtu.be,1-100,1,0,0,0,False,False,,frontier_exhausted,0,0,0.79,0,,,,,,,0,0,,,,,,,0,0,,,,,,,0
+59,zoom.us,1-100,1,0,0,0,False,False,,frontier_exhausted,0,0,0.62,0,,,,,,,0,0,,,,,,,0,0,,,,,,,0
+3344,zscloud.net,1001-10000,1,0,0,0,False,False,,frontier_exhausted,0,0,0.01,0,,,,,,,0,0,,,,,,,0,0,,,,,,,0

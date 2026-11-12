@@ -1,0 +1,1706 @@
+{
+  "site": {
+    "rank": "791",
+    "domain": "auth0.com",
+    "stratum": "101-1000"
+  },
+  "rows": [
+    {
+      "rank": "791",
+      "domain": "auth0.com",
+      "stratum": "101-1000",
+      "requested_url": "https://auth0.com/",
+      "depth": 0,
+      "parent_url": "",
+      "attempt": 1,
+      "timestamp": "2026-11-12T21:07:30.803322+00:00",
+      "final_url": "https://auth0.com/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 439854,
+      "truncated": false,
+      "body_sha256": "41cf07e7cb3c7c2641660cfca2a794b7bc9808dde702673a1fe14a5380439fca",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Secure Authentication & Ship Faster | Auth0",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "791",
+      "domain": "auth0.com",
+      "stratum": "101-1000",
+      "requested_url": "https://auth0.com/ai/docs/intro/overview",
+      "depth": 1,
+      "parent_url": "https://auth0.com/",
+      "attempt": 2,
+      "timestamp": "2026-11-12T21:07:31.287961+00:00",
+      "final_url": "https://auth0.com/ai/docs/intro/overview",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "worker-src 'self' blob:; object-src 'none'; base-uri 'self'; upgrade-insecure-requests; frame-ancestors 'self' https://*.auth0.com https://dashboard.mintlify.com https://app.mintlify.com; form-action 'self'; default-src 'self' https:; script-src 'self' 'unsafe-inline' 'unsafe-eval' https:; style-src 'self' 'unsafe-inline' https:; img-src 'self' data: blob: https:; font-src 'self' data: https:; media-src 'self' data: blob: https:; frame-src 'self' blob: https:; connect-src 'self' data: https: wss:;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000"
+        ]
+      },
+      "body_bytes": 660629,
+      "truncated": false,
+      "body_sha256": "b5bef6520c5b98ce7db2564f58f58c380809895f5005d40ece080e4f75de3b3f",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Concepts - Auth0 Docs",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "791",
+      "domain": "auth0.com",
+      "stratum": "101-1000",
+      "requested_url": "https://auth0.com/docs/",
+      "depth": 2,
+      "parent_url": "https://auth0.com/ai/docs/intro/overview",
+      "attempt": 3,
+      "timestamp": "2026-11-12T21:07:32.119236+00:00",
+      "final_url": "https://auth0.com/docs",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "worker-src 'self' blob:; object-src 'none'; base-uri 'self'; upgrade-insecure-requests; frame-ancestors 'self' https://*.auth0.com https://dashboard.mintlify.com https://app.mintlify.com; form-action 'self'; default-src 'self' https:; script-src 'self' 'unsafe-inline' 'unsafe-eval' https:; style-src 'self' 'unsafe-inline' https:; img-src 'self' data: blob: https:; font-src 'self' data: https:; media-src 'self' data: blob: https:; frame-src 'self' blob: https:; connect-src 'self' data: https: wss:;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000"
+        ]
+      },
+      "body_bytes": 715278,
+      "truncated": false,
+      "body_sha256": "13030c75ad3e07211340cb22a678a640086e5aeb8941c2a953dfc9950bb9f147",
+      "redirect_chain": [
+        {
+          "url": "https://auth0.com/docs/",
+          "status": 308,
+          "location": "/docs",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": []
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Auth0 Docs - Auth0 Docs",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "791",
+      "domain": "auth0.com",
+      "stratum": "101-1000",
+      "requested_url": "https://auth0.com/changelog",
+      "depth": 1,
+      "parent_url": "https://auth0.com/",
+      "attempt": 4,
+      "timestamp": "2026-11-12T21:07:32.755590+00:00",
+      "final_url": "https://auth0.com/changelog",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 2000001,
+      "truncated": true,
+      "body_sha256": "ab5379f4f4b5389b4a0307668c55cf15b6308274cd4a679935d3a61f3dc06cb6",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "791",
+      "domain": "auth0.com",
+      "stratum": "101-1000",
+      "requested_url": "https://auth0.com/blog/newsletter",
+      "depth": 2,
+      "parent_url": "https://auth0.com/ai/docs/intro/overview",
+      "attempt": 5,
+      "timestamp": "2026-11-12T21:07:33.797580+00:00",
+      "final_url": "https://auth0.com/blog/newsletter/",
+      "status": 308,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 0,
+      "truncated": false,
+      "body_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "redirect_chain": [
+        {
+          "url": "https://auth0.com/blog/newsletter",
+          "status": 308,
+          "location": "/blog/newsletter/",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=63072000; includeSubDomains; preload"
+            ]
+          }
+        },
+        {
+          "url": "https://auth0.com/blog/newsletter/",
+          "status": 308,
+          "location": "https://developer.auth0.com/newsletter",
+          "headers": {
+            "content-security-policy": [
+              "frame-ancestors 'self'"
+            ],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000"
+            ]
+          }
+        }
+      ],
+      "error": "redirect_out_of_scope",
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "791",
+      "domain": "auth0.com",
+      "stratum": "101-1000",
+      "requested_url": "https://auth0.com/camp-ai",
+      "depth": 1,
+      "parent_url": "https://auth0.com/",
+      "attempt": 6,
+      "timestamp": "2026-11-12T21:07:34.305120+00:00",
+      "final_url": "https://auth0.com/camp-ai",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 205250,
+      "truncated": false,
+      "body_sha256": "2ae53b444c319607dc9640e2fbe7ca5e279ef4d2d56abf758fe42cee23db1ac0",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Join Us at Camp AI | Auth0",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "791",
+      "domain": "auth0.com",
+      "stratum": "101-1000",
+      "requested_url": "https://auth0.com/learn",
+      "depth": 2,
+      "parent_url": "https://auth0.com/ai/docs/intro/overview",
+      "attempt": 7,
+      "timestamp": "2026-11-12T21:07:34.914468+00:00",
+      "final_url": "https://auth0.com/learn",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 534582,
+      "truncated": false,
+      "body_sha256": "941bea8c077bf067893d046f0c133958119c93bfd21b841f93163d389882adc1",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Learn about Authentication, Security, Growth and, More",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "791",
+      "domain": "auth0.com",
+      "stratum": "101-1000",
+      "requested_url": "https://auth0.com/resources/events/streamcast-ep9-agentic-commerce/",
+      "depth": 1,
+      "parent_url": "https://auth0.com/",
+      "attempt": 8,
+      "timestamp": "2026-11-12T21:07:35.420915+00:00",
+      "final_url": "https://auth0.com/resources/events/streamcast-ep9-agentic-commerce/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://experience.adobe.com"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000"
+        ]
+      },
+      "body_bytes": 225110,
+      "truncated": false,
+      "body_sha256": "698cb7b98d96e5ca90f5f10e671421e9fc46aeeebbc9f2a2e0af338e8e363583",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Streamcast Ep9: Agentic commerce\u2014Don't let agents steal your customers | Auth0",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "791",
+      "domain": "auth0.com",
+      "stratum": "101-1000",
+      "requested_url": "https://auth0.com/security",
+      "depth": 2,
+      "parent_url": "https://auth0.com/ai/docs/intro/overview",
+      "attempt": 9,
+      "timestamp": "2026-11-12T21:07:36.460644+00:00",
+      "final_url": "https://auth0.com/security",
+      "status": 308,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 0,
+      "truncated": false,
+      "body_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "redirect_chain": [
+        {
+          "url": "https://auth0.com/security",
+          "status": 308,
+          "location": "https://security.okta.com/",
+          "headers": {
+            "content-security-policy": [
+              "frame-ancestors 'self'"
+            ],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000"
+            ]
+          }
+        }
+      ],
+      "error": "redirect_out_of_scope",
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "791",
+      "domain": "auth0.com",
+      "stratum": "101-1000",
+      "requested_url": "https://auth0.com/features/universal-login",
+      "depth": 1,
+      "parent_url": "https://auth0.com/",
+      "attempt": 10,
+      "timestamp": "2026-11-12T21:07:36.621499+00:00",
+      "final_url": "https://auth0.com/features/universal-login",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 256887,
+      "truncated": false,
+      "body_sha256": "d51a8a93fbc229cce22ce18ab5168b7afd7c9884c9b7c2bd36a96aa20339bd4a",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Universal Login - SSO Between Multiple Apps | Auth0",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "791",
+      "domain": "auth0.com",
+      "stratum": "101-1000",
+      "requested_url": "https://auth0.com/about",
+      "depth": 2,
+      "parent_url": "https://auth0.com/ai/docs/intro/overview",
+      "attempt": 11,
+      "timestamp": "2026-11-12T21:07:37.312015+00:00",
+      "final_url": "https://auth0.com/about",
+      "status": 308,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 0,
+      "truncated": false,
+      "body_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "redirect_chain": [
+        {
+          "url": "https://auth0.com/about",
+          "status": 308,
+          "location": "https://www.okta.com/company/",
+          "headers": {
+            "content-security-policy": [
+              "frame-ancestors 'self'"
+            ],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000"
+            ]
+          }
+        }
+      ],
+      "error": "redirect_out_of_scope",
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "791",
+      "domain": "auth0.com",
+      "stratum": "101-1000",
+      "requested_url": "https://auth0.com/platform/user-management",
+      "depth": 1,
+      "parent_url": "https://auth0.com/",
+      "attempt": 12,
+      "timestamp": "2026-11-12T21:07:37.666668+00:00",
+      "final_url": "https://auth0.com/platform/user-management",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 274348,
+      "truncated": false,
+      "body_sha256": "924f9e3b393e6c0f6a476cc66e51ee907a72ec30b77516a6a457039898da26c8",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "User Management - From Sign-up to Purchase | Auth0",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "791",
+      "domain": "auth0.com",
+      "stratum": "101-1000",
+      "requested_url": "https://auth0.com/enterprise",
+      "depth": 1,
+      "parent_url": "https://auth0.com/",
+      "attempt": 13,
+      "timestamp": "2026-11-12T21:07:38.222306+00:00",
+      "final_url": "https://auth0.com/enterprise",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 284508,
+      "truncated": false,
+      "body_sha256": "1b6b9f89016c2ad0c860ec7a611ca5f116159100e509d9353408e921d8f505af",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Enterprise Identity & Access Management | Auth0",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "791",
+      "domain": "auth0.com",
+      "stratum": "101-1000",
+      "requested_url": "https://auth0.com/b2b-saas",
+      "depth": 1,
+      "parent_url": "https://auth0.com/",
+      "attempt": 14,
+      "timestamp": "2026-11-12T21:07:38.881423+00:00",
+      "final_url": "https://auth0.com/b2b-saas",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 304420,
+      "truncated": false,
+      "body_sha256": "b1762ab02a7d994ac04167b239bded8952faa74bbdaa808833f09edcd293a82a",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Scale Your B2B SaaS Applications with Secure Identity | Auth0",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "791",
+      "domain": "auth0.com",
+      "stratum": "101-1000",
+      "requested_url": "https://auth0.com/case-studies/icims",
+      "depth": 2,
+      "parent_url": "https://auth0.com/b2b-saas",
+      "attempt": 15,
+      "timestamp": "2026-11-12T21:07:39.279809+00:00",
+      "final_url": "https://auth0.com/case-studies/icims",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 272186,
+      "truncated": false,
+      "body_sha256": "504c14734920b160278759eabb9c094858f2490f3c636e64f18b2b0f81a9b545",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "iCIMS unifies CIAM with Auth0 | Auth0",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "791",
+      "domain": "auth0.com",
+      "stratum": "101-1000",
+      "requested_url": "https://auth0.com/b2c-customer-identity-management",
+      "depth": 1,
+      "parent_url": "https://auth0.com/",
+      "attempt": 16,
+      "timestamp": "2026-11-12T21:07:39.797595+00:00",
+      "final_url": "https://auth0.com/b2c-customer-identity-management",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 316716,
+      "truncated": false,
+      "body_sha256": "4ac2379cf7dac14f7b139167c23d69dc66746d0f107e35436fd7d9b7d01e67c7",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "CIAM Solutions for Consumer-Facing (B2C) Brands | Auth0",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "791",
+      "domain": "auth0.com",
+      "stratum": "101-1000",
+      "requested_url": "https://auth0.com/startups",
+      "depth": 1,
+      "parent_url": "https://auth0.com/",
+      "attempt": 17,
+      "timestamp": "2026-11-12T21:07:40.263375+00:00",
+      "final_url": "https://auth0.com/startups",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 290932,
+      "truncated": false,
+      "body_sha256": "e9fea21ad6fa3381fef93a7a05589d63ff35d055d1d889a7eb4602925f8842f1",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Auth0 for Startups | Enjoy One Year Free | Auth0",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "791",
+      "domain": "auth0.com",
+      "stratum": "101-1000",
+      "requested_url": "https://auth0.com/b2b-enterprise-identity-management",
+      "depth": 2,
+      "parent_url": "https://auth0.com/startups",
+      "attempt": 18,
+      "timestamp": "2026-11-12T21:07:40.777981+00:00",
+      "final_url": "https://auth0.com/b2b-enterprise-identity-management",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 238654,
+      "truncated": false,
+      "body_sha256": "a88a72397c7030935ec25c51609c20f1afd5cc60a61a3c85e03d3529da11675f",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Enterprise Identity Management for Business Partners | Auth0",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "791",
+      "domain": "auth0.com",
+      "stratum": "101-1000",
+      "requested_url": "https://auth0.com/lock",
+      "depth": 3,
+      "parent_url": "https://auth0.com/b2b-enterprise-identity-management",
+      "attempt": 19,
+      "timestamp": "2026-11-12T21:07:41.277678+00:00",
+      "final_url": "https://auth0.com/lock",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 210058,
+      "truncated": false,
+      "body_sha256": "f689aac28e9fccb4c6134688bb94476fdc8fef720907ea3b572b7dd24408e1ec",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Lock - Secure Your Website & Mobile Apps | Auth0",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "791",
+      "domain": "auth0.com",
+      "stratum": "101-1000",
+      "requested_url": "https://auth0.com/nonprofits",
+      "depth": 1,
+      "parent_url": "https://auth0.com/",
+      "attempt": 20,
+      "timestamp": "2026-11-12T21:07:41.753997+00:00",
+      "final_url": "https://auth0.com/nonprofits",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 278873,
+      "truncated": false,
+      "body_sha256": "6837edfcfb8e815716f5883dfc40fcc51ff8cecae013efc9a45a0b55c27b16a6",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Authentication and Authorization for Nonprofits | Auth0",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "791",
+      "domain": "auth0.com",
+      "stratum": "101-1000",
+      "requested_url": "https://auth0.com/financial-services",
+      "depth": 1,
+      "parent_url": "https://auth0.com/",
+      "attempt": 21,
+      "timestamp": "2026-11-12T21:07:42.349619+00:00",
+      "final_url": "https://auth0.com/financial-services",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 350607,
+      "truncated": false,
+      "body_sha256": "167c2eb0d6cd504aa98c5a5cd2c4019921f9ebc1b776a5d9ce98fe0610cb25fc",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Financial Services - Secure Identity Platform | Auth0",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "791",
+      "domain": "auth0.com",
+      "stratum": "101-1000",
+      "requested_url": "https://auth0.com/healthcare",
+      "depth": 1,
+      "parent_url": "https://auth0.com/",
+      "attempt": 22,
+      "timestamp": "2026-11-12T21:07:42.787604+00:00",
+      "final_url": "https://auth0.com/healthcare",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 269821,
+      "truncated": false,
+      "body_sha256": "c5ef177e0c981970c73d1a7dc429bb28dce032b37a4d36f1970824ea5b696bdc",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Healthcare CIAM & Identity Management | Auth0",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "791",
+      "domain": "auth0.com",
+      "stratum": "101-1000",
+      "requested_url": "https://auth0.com/retail",
+      "depth": 1,
+      "parent_url": "https://auth0.com/",
+      "attempt": 23,
+      "timestamp": "2026-11-12T21:07:43.290107+00:00",
+      "final_url": "https://auth0.com/retail",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 349362,
+      "truncated": false,
+      "body_sha256": "6ea3e085fd3ed0ec6f770fa0dce245f0e9f66f45252f3e22dc903e1b7e470ced",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Data Security for Retailers - Retail Identity Management | Auth0",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "791",
+      "domain": "auth0.com",
+      "stratum": "101-1000",
+      "requested_url": "https://auth0.com/partners",
+      "depth": 1,
+      "parent_url": "https://auth0.com/",
+      "attempt": 24,
+      "timestamp": "2026-11-12T21:07:43.834044+00:00",
+      "final_url": "https://auth0.com/partners",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 236106,
+      "truncated": false,
+      "body_sha256": "f24823db469760bbf02281226ded836aacca6e7a0a57f765ef6a697f63d2758c",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Auth0 Partners | Auth0",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "791",
+      "domain": "auth0.com",
+      "stratum": "101-1000",
+      "requested_url": "https://auth0.com/integrate",
+      "depth": 2,
+      "parent_url": "https://auth0.com/partners",
+      "attempt": 25,
+      "timestamp": "2026-11-12T21:07:44.273569+00:00",
+      "final_url": "https://auth0.com/integrate",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 233826,
+      "truncated": false,
+      "body_sha256": "92d48db39daf1a8cefa67bfc0dec75a334cf9b3001d79988f5d47d369a0f084f",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Integrate with Auth0 | Auth0",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "791",
+      "domain": "auth0.com",
+      "stratum": "101-1000",
+      "requested_url": "https://auth0.com/pricing/",
+      "depth": 1,
+      "parent_url": "https://auth0.com/",
+      "attempt": 26,
+      "timestamp": "2026-11-12T21:07:45.181993+00:00",
+      "final_url": "https://auth0.com/pricing",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 507139,
+      "truncated": false,
+      "body_sha256": "9626eab77eb0447d5081f6217a68a84f33597990b4afbcb8f1a4490e6d597c36",
+      "redirect_chain": [
+        {
+          "url": "https://auth0.com/pricing/",
+          "status": 308,
+          "location": "/pricing",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=63072000; includeSubDomains; preload"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Pricing - Auth0",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "791",
+      "domain": "auth0.com",
+      "stratum": "101-1000",
+      "requested_url": "https://auth0.com/customers/",
+      "depth": 2,
+      "parent_url": "https://auth0.com/pricing",
+      "attempt": 27,
+      "timestamp": "2026-11-12T21:07:46.187708+00:00",
+      "final_url": "https://auth0.com/customers",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 392332,
+      "truncated": false,
+      "body_sha256": "6aff55faae4b8de81fde04f55a9695e8e9522587ada559318c14733d31d490c2",
+      "redirect_chain": [
+        {
+          "url": "https://auth0.com/customers/",
+          "status": 308,
+          "location": "/customers",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=63072000; includeSubDomains; preload"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Auth0 Customers",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "791",
+      "domain": "auth0.com",
+      "stratum": "101-1000",
+      "requested_url": "https://auth0.com/login-security",
+      "depth": 1,
+      "parent_url": "https://auth0.com/",
+      "attempt": 28,
+      "timestamp": "2026-11-12T21:07:47.335073+00:00",
+      "final_url": "https://auth0.com/platform/login-security",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 285857,
+      "truncated": false,
+      "body_sha256": "040560354f16896c70772fa99ea26000dc7e639458e8bfd2b75db97d71ce2909",
+      "redirect_chain": [
+        {
+          "url": "https://auth0.com/login-security",
+          "status": 308,
+          "location": "/platform/login-security",
+          "headers": {
+            "content-security-policy": [
+              "frame-ancestors 'self'"
+            ],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Auth0 Does Login Security | Auth0",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "791",
+      "domain": "auth0.com",
+      "stratum": "101-1000",
+      "requested_url": "https://auth0.com/organizations",
+      "depth": 1,
+      "parent_url": "https://auth0.com/",
+      "attempt": 29,
+      "timestamp": "2026-11-12T21:07:47.953221+00:00",
+      "final_url": "https://auth0.com/organizations",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 209102,
+      "truncated": false,
+      "body_sha256": "33ffab844654544c9eb277b152e8ee8df0ead8d87da49577f3a937d9ec7eabf6",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Business Customer Identity - Organizations | Auth0",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "791",
+      "domain": "auth0.com",
+      "stratum": "101-1000",
+      "requested_url": "https://auth0.com/fine-grained-authorization",
+      "depth": 1,
+      "parent_url": "https://auth0.com/",
+      "attempt": 30,
+      "timestamp": "2026-11-12T21:07:48.422826+00:00",
+      "final_url": "https://auth0.com/fine-grained-authorization",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 209191,
+      "truncated": false,
+      "body_sha256": "d97a9b4b462fb4d5775a7b7283d3f0af7b5a820d54e36e5b272b0ec72b128906",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Fine-Grained Authorization (FGA) at Scale for Developers | Auth0",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "791",
+      "domain": "auth0.com",
+      "stratum": "101-1000",
+      "requested_url": "https://auth0.com/ai-identity/commerce",
+      "depth": 2,
+      "parent_url": "https://auth0.com/fine-grained-authorization",
+      "attempt": 31,
+      "timestamp": "2026-11-12T21:07:49.293403+00:00",
+      "final_url": "https://auth0.com/ai-identity/commerce",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 325177,
+      "truncated": false,
+      "body_sha256": "55273e3c02f182414d1b06ff2881e1482bcfaea9a56817fe2abe19707d636c96",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "AI Identity for Commerce | Auth0",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "791",
+      "domain": "auth0.com",
+      "stratum": "101-1000",
+      "requested_url": "https://auth0.com/customer-identity-trends-report",
+      "depth": 1,
+      "parent_url": "https://auth0.com/",
+      "attempt": 32,
+      "timestamp": "2026-11-12T21:07:51.390770+00:00",
+      "final_url": "https://auth0.com/customer-identity-trends-report/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://experience.adobe.com"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000"
+        ]
+      },
+      "body_bytes": 320341,
+      "truncated": false,
+      "body_sha256": "4fa2d00772282d1be6db5ee4b300654f4e79a16424b35566db7d8530298b1156",
+      "redirect_chain": [
+        {
+          "url": "https://auth0.com/customer-identity-trends-report",
+          "status": 308,
+          "location": "/customer-identity-trends-report/",
+          "headers": {
+            "content-security-policy": [
+              "frame-ancestors 'self' https://experience.adobe.com"
+            ],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=63072000"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "2026 Customer Identity Trends Report | Auth0",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "791",
+      "domain": "auth0.com",
+      "stratum": "101-1000",
+      "requested_url": "https://auth0.com/solutions/ship-ai-agents",
+      "depth": 1,
+      "parent_url": "https://auth0.com/",
+      "attempt": 33,
+      "timestamp": "2026-11-12T21:07:52.342964+00:00",
+      "final_url": "https://auth0.com/solutions/ship-ai-agents",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 282687,
+      "truncated": false,
+      "body_sha256": "b3f9fff580f62b118fab014f62718b44d64d8e6beafb03e9332b1d96a0b8fa1b",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Ship AI Agents Faster & More Securely | Auth0",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "791",
+      "domain": "auth0.com",
+      "stratum": "101-1000",
+      "requested_url": "https://auth0.com/architectural-playbook/identity",
+      "depth": 1,
+      "parent_url": "https://auth0.com/",
+      "attempt": 34,
+      "timestamp": "2026-11-12T21:07:52.607679+00:00",
+      "final_url": "https://auth0.com/architectural-playbook/identity",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 246028,
+      "truncated": false,
+      "body_sha256": "f37c2e57c9199d45bd66c067b89ef30d54f77b3a02a255c3365238a93f12cc4c",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Identity Architecture Playbooks for AI & Apps | Auth0",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "791",
+      "domain": "auth0.com",
+      "stratum": "101-1000",
+      "requested_url": "https://auth0.com/intro-to-iam",
+      "depth": 1,
+      "parent_url": "https://auth0.com/",
+      "attempt": 35,
+      "timestamp": "2026-11-12T21:07:53.085263+00:00",
+      "final_url": "https://auth0.com/intro-to-iam",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 200665,
+      "truncated": false,
+      "body_sha256": "9247105d343b609f142bb2fc7d7dd7891a28725350503c6b30f2778ad55b8f46",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Intro to CIAM | Customer Identity & Access Management | Auth0",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "791",
+      "domain": "auth0.com",
+      "stratum": "101-1000",
+      "requested_url": "https://auth0.com/agent-experience",
+      "depth": 1,
+      "parent_url": "https://auth0.com/",
+      "attempt": 36,
+      "timestamp": "2026-11-12T21:07:53.633178+00:00",
+      "final_url": "https://auth0.com/agent-experience",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 322673,
+      "truncated": false,
+      "body_sha256": "165621c3da822ad35c1e7546c89e036273bfcbdd9e04c2952dfed164233c6204",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Agent Experience Score for Auth0 | Auth0",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "791",
+      "domain": "auth0.com",
+      "stratum": "101-1000",
+      "requested_url": "https://auth0.com/contact-us",
+      "depth": 1,
+      "parent_url": "https://auth0.com/",
+      "attempt": 37,
+      "timestamp": "2026-11-12T21:07:54.128246+00:00",
+      "final_url": "https://auth0.com/contact-us",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 79535,
+      "truncated": false,
+      "body_sha256": "f88330e70e4e5a43f1af144d83521fa3b3f172ca8c3e4a1d976c420726f5ad24",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Contact Us - Auth0",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "791",
+      "domain": "auth0.com",
+      "stratum": "101-1000",
+      "requested_url": "https://auth0.com/web-terms",
+      "depth": 2,
+      "parent_url": "https://auth0.com/contact-us",
+      "attempt": 38,
+      "timestamp": "2026-11-12T21:07:54.876494+00:00",
+      "final_url": "https://auth0.com/web-terms",
+      "status": 308,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 0,
+      "truncated": false,
+      "body_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "redirect_chain": [
+        {
+          "url": "https://auth0.com/web-terms",
+          "status": 308,
+          "location": "https://www.okta.com/terms-of-service",
+          "headers": {
+            "content-security-policy": [
+              "frame-ancestors 'self'"
+            ],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000"
+            ]
+          }
+        }
+      ],
+      "error": "redirect_out_of_scope",
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "791",
+      "domain": "auth0.com",
+      "stratum": "101-1000",
+      "requested_url": "https://auth0.com/privacy",
+      "depth": 1,
+      "parent_url": "https://auth0.com/",
+      "attempt": 39,
+      "timestamp": "2026-11-12T21:07:55.086843+00:00",
+      "final_url": "https://auth0.com/privacy",
+      "status": 308,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 0,
+      "truncated": false,
+      "body_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "redirect_chain": [
+        {
+          "url": "https://auth0.com/privacy",
+          "status": 308,
+          "location": "https://www.okta.com/privacy-policy/",
+          "headers": {
+            "content-security-policy": [
+              "frame-ancestors 'self'"
+            ],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000"
+            ]
+          }
+        }
+      ],
+      "error": "redirect_out_of_scope",
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "791",
+      "domain": "auth0.com",
+      "stratum": "101-1000",
+      "requested_url": "https://auth0.com/your-privacy-choices",
+      "depth": 1,
+      "parent_url": "https://auth0.com/",
+      "attempt": 40,
+      "timestamp": "2026-11-12T21:07:55.621841+00:00",
+      "final_url": "https://auth0.com/your-privacy-choices",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 184639,
+      "truncated": false,
+      "body_sha256": "380e54b7b51ab3a9e1c2a1df5c43f500695498628093f600c1c436c23d8f954a",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Auth0: Secure access for everyone. But not just anyone.",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "791",
+      "domain": "auth0.com",
+      "stratum": "101-1000",
+      "requested_url": "https://auth0.com/docs/libraries/lock",
+      "depth": 4,
+      "parent_url": "https://auth0.com/lock",
+      "attempt": 41,
+      "timestamp": "2026-11-12T21:07:56.239343+00:00",
+      "final_url": "https://auth0.com/docs/libraries/lock",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "worker-src 'self' blob:; object-src 'none'; base-uri 'self'; upgrade-insecure-requests; frame-ancestors 'self' https://*.auth0.com https://dashboard.mintlify.com https://app.mintlify.com; form-action 'self'; default-src 'self' https:; script-src 'self' 'unsafe-inline' 'unsafe-eval' https:; style-src 'self' 'unsafe-inline' https:; img-src 'self' data: blob: https:; font-src 'self' data: https:; media-src 'self' data: blob: https:; frame-src 'self' blob: https:; connect-src 'self' data: https: wss:;"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=63072000"
+        ]
+      },
+      "body_bytes": 736147,
+      "truncated": false,
+      "body_sha256": "e7e5b5469f7130f6d3b48102f1e73f150f4ce9d3ab2faf9c7e4b295a4b795e89",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Lock for Web - Auth0 Docs",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "791",
+      "domain": "auth0.com",
+      "stratum": "101-1000",
+      "requested_url": "https://auth0.com/blog/",
+      "depth": 3,
+      "parent_url": "https://auth0.com/learn",
+      "attempt": 42,
+      "timestamp": "2026-11-12T21:07:57.612469+00:00",
+      "final_url": "https://auth0.com/blog/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 535621,
+      "truncated": false,
+      "body_sha256": "f4119f92e4235ee05b653f913532d3a788bfb5b32255c755684165d88be2b68f",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Auth0 Blog",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "791",
+      "domain": "auth0.com",
+      "stratum": "101-1000",
+      "requested_url": "https://auth0.com/research-program",
+      "depth": 4,
+      "parent_url": "https://auth0.com/blog/",
+      "attempt": 43,
+      "timestamp": "2026-11-12T21:07:57.887236+00:00",
+      "final_url": "https://auth0.com/research-program",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 240643,
+      "truncated": false,
+      "body_sha256": "d50a7974ba40fce776a5ba0d41836ebaa1960cb0601baab61b0bf0994dd77b59",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Auth0 Research Program | Auth0",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "791",
+      "domain": "auth0.com",
+      "stratum": "101-1000",
+      "requested_url": "https://auth0.com/careers",
+      "depth": 5,
+      "parent_url": "https://auth0.com/research-program",
+      "attempt": 44,
+      "timestamp": "2026-11-12T21:07:58.399011+00:00",
+      "final_url": "https://auth0.com/careers",
+      "status": 308,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 0,
+      "truncated": false,
+      "body_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "redirect_chain": [
+        {
+          "url": "https://auth0.com/careers",
+          "status": 308,
+          "location": "https://www.okta.com/company/careers/",
+          "headers": {
+            "content-security-policy": [
+              "frame-ancestors 'self'"
+            ],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000"
+            ]
+          }
+        }
+      ],
+      "error": "redirect_out_of_scope",
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "791",
+      "domain": "auth0.com",
+      "stratum": "101-1000",
+      "requested_url": "https://auth0.com/marketplace",
+      "depth": 4,
+      "parent_url": "https://auth0.com/blog/",
+      "attempt": 45,
+      "timestamp": "2026-11-12T21:07:58.803228+00:00",
+      "final_url": "https://auth0.com/marketplace",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 255939,
+      "truncated": false,
+      "body_sha256": "4eb8544e127d1e4e454aef49ce657b3c333d15741e70d8b9a928884d638605f5",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Explore our Marketplace | Auth0",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "791",
+      "domain": "auth0.com",
+      "stratum": "101-1000",
+      "requested_url": "https://auth0.com/developers/lab/web3",
+      "depth": 5,
+      "parent_url": "https://auth0.com/marketplace",
+      "attempt": 46,
+      "timestamp": "2026-11-12T21:07:59.388778+00:00",
+      "final_url": "https://auth0.com/developers/lab/web3",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 229733,
+      "truncated": false,
+      "body_sha256": "b4a5e07e52ce37725b730929840875527538a2ae4e8bf590cbb6da4d1313a8d6",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Web3 Marketplace Integrations | Auth0",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "791",
+      "domain": "auth0.com",
+      "stratum": "101-1000",
+      "requested_url": "https://auth0.com/learn/anomaly-detection",
+      "depth": 3,
+      "parent_url": "https://auth0.com/learn",
+      "attempt": 47,
+      "timestamp": "2026-11-12T21:08:00.265947+00:00",
+      "final_url": "https://auth0.com/learn/anomaly-detection",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 175384,
+      "truncated": false,
+      "body_sha256": "8710f86f7a9c5875f7aba36686b09fd16bd24a26890f67a31ecca5a8996cda87",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Protect Your Users with Attack Protection | Auth0",
+      "duplicate_final": false,
+      "eligible": true
+    }
+  ],
+  "robots": [
+    {
+      "url": "https://auth0.com/robots.txt",
+      "timestamp": "2026-11-12T21:07:30.803262+00:00",
+      "status": 200,
+      "decision": "parsed",
+      "body_sha256": "6762d12841916f793b9d5c3b8c1a2655f3d6ca21289087ceace6681ae9b80f45",
+      "body": "User-agent: *\nAllow: /\nSitemap: https://auth0.com/sitemap.xml\n\nDisallow: /docs/addons/*\nDisallow: /terms*\nDisallow: /docs/email-wall/*\nDisallow: /docs/video-series/*\nDisallow: /*wp-includes*\nDisallow: /login/*\nDisallow: /connect/*\nDisallow: /docs*?*utm_source=*\nDisallow: /learn/lp-auth0-vs-stormpath*\nDisallow: /legal*\n"
+    }
+  ],
+  "eligible_pages": 40,
+  "canonical_origin": [
+    "https",
+    "auth0.com",
+    443
+  ],
+  "stop_reason": "page_budget",
+  "elapsed_seconds": 30.04
+}

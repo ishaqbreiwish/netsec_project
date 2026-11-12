@@ -1,0 +1,86 @@
+{
+  "site": {
+    "rank": "6071",
+    "domain": "bandlab.com",
+    "stratum": "1001-10000"
+  },
+  "rows": [
+    {
+      "rank": "6071",
+      "domain": "bandlab.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://bandlab.com/",
+      "depth": 0,
+      "parent_url": "",
+      "attempt": 1,
+      "timestamp": "2026-11-12T21:13:58.980677+00:00",
+      "final_url": "https://www.bandlab.com/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains"
+        ]
+      },
+      "body_bytes": 1619,
+      "truncated": false,
+      "body_sha256": "1f171c0f1bd8e55834306298a2361083d05e2c277333f355378615d839851279",
+      "redirect_chain": [
+        {
+          "url": "https://bandlab.com/",
+          "status": 301,
+          "location": "https://www.bandlab.com/",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": []
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": true
+    }
+  ],
+  "robots": [
+    {
+      "url": "https://bandlab.com/robots.txt",
+      "timestamp": "2026-11-12T21:13:57.404711+00:00",
+      "status": 200,
+      "decision": "parsed",
+      "final_url": "https://www.bandlab.com/robots.txt",
+      "redirect_chain": [
+        {
+          "url": "https://bandlab.com/robots.txt",
+          "status": 301,
+          "location": "https://www.bandlab.com/robots.txt"
+        }
+      ],
+      "body_sha256": "9833bc606a7d940276fed96fee3e84c7650b86e185c08ebaa5dd6b270914212e",
+      "body": "User-agent: *\nDisallow: /0$\nDisallow: /403$\nDisallow: /404$\nDisallow: /500$\nDisallow: /email-confirm\nDisallow: /join\nDisallow: /membership/get-membership\nDisallow: /search/\nDisallow: /update-browser\nSitemap: https://www.bandlab.com/web-app/sitemap-8cdefab6ca.xml\nSitemap: https://www.bandlab.com/promo/sitemap.xml\n\nUser-agent: Amazonbot\nDisallow: /\n\nUser-agent: Bytespider\nDisallow: /\n\nUser-agent: CCBot\nDisallow: /\n\nUser-agent: DataForSeoBot\nDisallow: /\n\nUser-agent: Google-Extended\nDisallow: /\n\nUser-agent: magpie-crawler\nDisallow: /\n\nUser-agent: SemrushBot\nDisallow: /\n\nUser-agent: Webzio-Extended\nDisallow: /\n\nUser-agent: ClaudeBot\nUser-agent: GPTBot\nDisallow: /\nAllow: /$\nAllow: /360ra$\nAllow: /ai$\nAllow: /boost$\nAllow: /creation-features$\nAllow: /distribution$\nAllow: /download$\nAllow: /fan-reach$\nAllow: /features/albums$\nAllow: /fx$\nAllow: /mastering$\nAllow: /membership$\nAllow: /membership-reddit$\nAllow: /opportunities$\nAllow: /pages$\nAllow: /products/ai-tools$\nAllow: /products/beatmaker$\nAllow: /products/mastering$\nAllow: /products/vocal-tools$\nAllow: /products/vocalist$\nAllow: /products/voice-cleaner$\nAllow: /promote-your-track$\nAllow: /songstarter$\nAllow: /sounds/home$\nAllow: /splitter$\n"
+    },
+    {
+      "url": "https://www.bandlab.com/robots.txt",
+      "timestamp": "2026-11-12T21:13:58.980556+00:00",
+      "status": 200,
+      "decision": "parsed",
+      "final_url": "https://www.bandlab.com/robots.txt",
+      "redirect_chain": [],
+      "body_sha256": "9833bc606a7d940276fed96fee3e84c7650b86e185c08ebaa5dd6b270914212e",
+      "body": "User-agent: *\nDisallow: /0$\nDisallow: /403$\nDisallow: /404$\nDisallow: /500$\nDisallow: /email-confirm\nDisallow: /join\nDisallow: /membership/get-membership\nDisallow: /search/\nDisallow: /update-browser\nSitemap: https://www.bandlab.com/web-app/sitemap-8cdefab6ca.xml\nSitemap: https://www.bandlab.com/promo/sitemap.xml\n\nUser-agent: Amazonbot\nDisallow: /\n\nUser-agent: Bytespider\nDisallow: /\n\nUser-agent: CCBot\nDisallow: /\n\nUser-agent: DataForSeoBot\nDisallow: /\n\nUser-agent: Google-Extended\nDisallow: /\n\nUser-agent: magpie-crawler\nDisallow: /\n\nUser-agent: SemrushBot\nDisallow: /\n\nUser-agent: Webzio-Extended\nDisallow: /\n\nUser-agent: ClaudeBot\nUser-agent: GPTBot\nDisallow: /\nAllow: /$\nAllow: /360ra$\nAllow: /ai$\nAllow: /boost$\nAllow: /creation-features$\nAllow: /distribution$\nAllow: /download$\nAllow: /fan-reach$\nAllow: /features/albums$\nAllow: /fx$\nAllow: /mastering$\nAllow: /membership$\nAllow: /membership-reddit$\nAllow: /opportunities$\nAllow: /pages$\nAllow: /products/ai-tools$\nAllow: /products/beatmaker$\nAllow: /products/mastering$\nAllow: /products/vocal-tools$\nAllow: /products/vocalist$\nAllow: /products/voice-cleaner$\nAllow: /promote-your-track$\nAllow: /songstarter$\nAllow: /sounds/home$\nAllow: /splitter$\n"
+    }
+  ],
+  "eligible_pages": 1,
+  "canonical_origin": [
+    "https",
+    "www.bandlab.com",
+    443
+  ],
+  "stop_reason": "frontier_exhausted",
+  "elapsed_seconds": 2.39
+}

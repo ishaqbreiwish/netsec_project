@@ -1,0 +1,18 @@
+{
+  "started_at": "2026-11-12T21:07:19.407118+00:00",
+  "user_agent": "HeaderConsistencyResearch/1.0 (public-page academic measurement; no login)",
+  "sample_sha256": "5f11f1335b84b04f0058d540e357b33f36dd0780f2cef90d175764d4c12284ff",
+  "config": {
+    "sample": "data/sample.csv",
+    "output": "data/run",
+    "pages": 40,
+    "max_depth": 5,
+    "max_attempts": 80,
+    "workers": 12,
+    "delay": 0.5,
+    "timeout": 10,
+    "site_seconds": 240,
+    "max_bytes": 2000000
+  },
+  "last_completed_at": "2026-11-12T21:11:05.641509+00:00"
+}

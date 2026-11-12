@@ -1,0 +1,1760 @@
+{
+  "site": {
+    "rank": "12",
+    "domain": "apple.com",
+    "stratum": "1-100"
+  },
+  "rows": [
+    {
+      "rank": "12",
+      "domain": "apple.com",
+      "stratum": "1-100",
+      "requested_url": "https://apple.com/",
+      "depth": 0,
+      "parent_url": "",
+      "attempt": 1,
+      "timestamp": "2026-11-12T21:11:29.604998+00:00",
+      "final_url": "https://www.apple.com/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'self' blob: data: *.akamaized.net *.apple.com *.apple-mapkit.com *.cdn-apple.com *.organicfruitapps.com; child-src blob: mailto: embed.music.apple.com embed.podcasts.apple.com https://recyclingprogram.apple.com https://smb.apple.com https://nova.apple.com swdlp.apple.com www.apple.com www.instagram.com platform.twitter.com www.youtube-nocookie.com; img-src 'unsafe-inline' blob: data: *.apple.com *.apple-mapkit.com *.cdn-apple.com *.mzstatic.com; script-src 'unsafe-inline' 'unsafe-eval' blob: *.apple.com *.apple-mapkit.com www.instagram.com platform.twitter.com; style-src 'unsafe-inline' *.apple.com"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubdomains; preload"
+        ]
+      },
+      "body_bytes": 256032,
+      "truncated": false,
+      "body_sha256": "9061fe25e1c56deaafaa99da0dc5c875ce2cb82e464181d6fe1b9be87a24bb66",
+      "redirect_chain": [
+        {
+          "url": "https://apple.com/",
+          "status": 301,
+          "location": "https://www.apple.com/",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": []
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Apple",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "12",
+      "domain": "apple.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.apple.com/us/shop/goto/store",
+      "depth": 1,
+      "parent_url": "https://www.apple.com/",
+      "attempt": 2,
+      "timestamp": "2026-11-12T21:11:31.252916+00:00",
+      "final_url": "https://www.apple.com/store",
+      "status": 200,
+      "content_type": "text/html;charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'none'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 983785,
+      "truncated": false,
+      "body_sha256": "f279a914a33369f9b49ff54aaef5c08712662be4185b8f4d98ae5dc06876ff67",
+      "redirect_chain": [
+        {
+          "url": "https://www.apple.com/us/shop/goto/store",
+          "status": 303,
+          "location": "https://www.apple.com/us/shop/go/store",
+          "headers": {
+            "content-security-policy": [
+              "frame-ancestors 'none'"
+            ],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000; includeSubDomains; preload"
+            ]
+          }
+        },
+        {
+          "url": "https://www.apple.com/us/shop/go/store",
+          "status": 301,
+          "location": "/store",
+          "headers": {
+            "content-security-policy": [
+              "frame-ancestors 'none'"
+            ],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000; includeSubDomains; preload"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Apple Store Online - Apple",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "12",
+      "domain": "apple.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.apple.com/store",
+      "depth": 2,
+      "parent_url": "https://www.apple.com/store",
+      "attempt": 3,
+      "timestamp": "2026-11-12T21:11:31.833865+00:00",
+      "final_url": "https://www.apple.com/store",
+      "status": 200,
+      "content_type": "text/html;charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'none'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 983785,
+      "truncated": false,
+      "body_sha256": "f279a914a33369f9b49ff54aaef5c08712662be4185b8f4d98ae5dc06876ff67",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Apple Store Online - Apple",
+      "duplicate_final": true,
+      "eligible": false
+    },
+    {
+      "rank": "12",
+      "domain": "apple.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.apple.com/mac/",
+      "depth": 1,
+      "parent_url": "https://www.apple.com/",
+      "attempt": 4,
+      "timestamp": "2026-11-12T21:11:32.371137+00:00",
+      "final_url": "https://www.apple.com/mac/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubdomains; preload"
+        ]
+      },
+      "body_bytes": 854501,
+      "truncated": false,
+      "body_sha256": "6701615d2e3da21fd78f52c74948c0c41d446c783421af81bc5bb0e5b7278bde",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Mac - Apple",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "12",
+      "domain": "apple.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.apple.com/services/",
+      "depth": 2,
+      "parent_url": "https://www.apple.com/store",
+      "attempt": 5,
+      "timestamp": "2026-11-12T21:11:32.831977+00:00",
+      "final_url": "https://www.apple.com/services/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'self' blob: data: *.akamaized.net *.apple.com *.apple-mapkit.com *.cdn-apple.com *.organicfruitapps.com; child-src blob: mailto: embed.music.apple.com embed.podcasts.apple.com https://recyclingprogram.apple.com https://smb.apple.com https://nova.apple.com swdlp.apple.com www.apple.com www.instagram.com platform.twitter.com www.youtube-nocookie.com; img-src 'unsafe-inline' blob: data: *.apple.com *.apple-mapkit.com *.cdn-apple.com *.mzstatic.com; script-src 'unsafe-inline' 'unsafe-eval' blob: *.apple.com *.apple-mapkit.com www.instagram.com platform.twitter.com; style-src 'unsafe-inline' *.apple.com"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubdomains; preload"
+        ]
+      },
+      "body_bytes": 171150,
+      "truncated": false,
+      "body_sha256": "a40a04be701ae3e924db76f48668ec5c832a8ed92bf89663d60a0b8dbfb47df4",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Entertainment - Services - Apple",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "12",
+      "domain": "apple.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.apple.com/ipad/",
+      "depth": 1,
+      "parent_url": "https://www.apple.com/",
+      "attempt": 6,
+      "timestamp": "2026-11-12T21:11:33.318583+00:00",
+      "final_url": "https://www.apple.com/ipad/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubdomains; preload"
+        ]
+      },
+      "body_bytes": 660358,
+      "truncated": false,
+      "body_sha256": "442f931dcdbf41417628187e9e77c61287da7cd866b4282adf1f67d81c4cc03a",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "iPad - Apple",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "12",
+      "domain": "apple.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.apple.com/shop/accessories/all",
+      "depth": 2,
+      "parent_url": "https://www.apple.com/store",
+      "attempt": 7,
+      "timestamp": "2026-11-12T21:11:33.876451+00:00",
+      "final_url": "https://www.apple.com/shop/accessories/all",
+      "status": 200,
+      "content_type": "text/html;charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'none'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 1075614,
+      "truncated": false,
+      "body_sha256": "31aa51b84811bb8793f24bdb9462f787d6cbfbb9bdc4ade4530a3a86b94acdc8",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Apple Accessories for Apple Watch, iPhone, iPad, Mac and Vision Pro - Apple",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "12",
+      "domain": "apple.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.apple.com/iphone/",
+      "depth": 1,
+      "parent_url": "https://www.apple.com/",
+      "attempt": 8,
+      "timestamp": "2026-11-12T21:11:34.845192+00:00",
+      "final_url": "https://www.apple.com/iphone/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'self' blob: data: *.akamaized.net *.apple.com *.apple-mapkit.com *.cdn-apple.com *.organicfruitapps.com; child-src blob: mailto: embed.music.apple.com embed.podcasts.apple.com https://recyclingprogram.apple.com https://smb.apple.com https://nova.apple.com swdlp.apple.com www.apple.com www.instagram.com platform.twitter.com www.youtube-nocookie.com; img-src 'unsafe-inline' blob: data: *.apple.com *.apple-mapkit.com *.cdn-apple.com *.mzstatic.com; script-src 'unsafe-inline' 'unsafe-eval' blob: *.apple.com *.apple-mapkit.com www.instagram.com platform.twitter.com; style-src 'unsafe-inline' *.apple.com"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubdomains; preload"
+        ]
+      },
+      "body_bytes": 416588,
+      "truncated": false,
+      "body_sha256": "2aebc90db6ef1e89d1027ef3d0fecc48631b4bf02342a52503d57fbb06699828",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "iPhone - Apple",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "12",
+      "domain": "apple.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.apple.com/support/",
+      "depth": 2,
+      "parent_url": "https://www.apple.com/store",
+      "attempt": 9,
+      "timestamp": "2026-11-12T21:11:34.966900+00:00",
+      "final_url": "https://www.apple.com/support/",
+      "status": 301,
+      "content_type": "text/html; charset=iso-8859-1",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'self' blob: data: *.akamaized.net *.apple.com *.apple-mapkit.com *.cdn-apple.com *.organicfruitapps.com; child-src blob: mailto: embed.music.apple.com embed.podcasts.apple.com https://recyclingprogram.apple.com https://smb.apple.com https://nova.apple.com swdlp.apple.com www.apple.com www.instagram.com platform.twitter.com www.youtube-nocookie.com; img-src 'unsafe-inline' blob: data: *.apple.com *.apple-mapkit.com *.cdn-apple.com *.mzstatic.com; script-src 'unsafe-inline' 'unsafe-eval' blob: *.apple.com *.apple-mapkit.com www.instagram.com platform.twitter.com; style-src 'unsafe-inline' *.apple.com"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubdomains; preload"
+        ]
+      },
+      "body_bytes": 0,
+      "truncated": false,
+      "body_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "redirect_chain": [
+        {
+          "url": "https://www.apple.com/support/",
+          "status": 301,
+          "location": "https://support.apple.com",
+          "headers": {
+            "content-security-policy": [
+              "default-src 'self' blob: data: *.akamaized.net *.apple.com *.apple-mapkit.com *.cdn-apple.com *.organicfruitapps.com; child-src blob: mailto: embed.music.apple.com embed.podcasts.apple.com https://recyclingprogram.apple.com https://smb.apple.com https://nova.apple.com swdlp.apple.com www.apple.com www.instagram.com platform.twitter.com www.youtube-nocookie.com; img-src 'unsafe-inline' blob: data: *.apple.com *.apple-mapkit.com *.cdn-apple.com *.mzstatic.com; script-src 'unsafe-inline' 'unsafe-eval' blob: *.apple.com *.apple-mapkit.com www.instagram.com platform.twitter.com; style-src 'unsafe-inline' *.apple.com"
+            ],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000; includeSubdomains; preload"
+            ]
+          }
+        }
+      ],
+      "error": "redirect_out_of_scope",
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "12",
+      "domain": "apple.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.apple.com/watch/",
+      "depth": 1,
+      "parent_url": "https://www.apple.com/",
+      "attempt": 10,
+      "timestamp": "2026-11-12T21:11:35.424433+00:00",
+      "final_url": "https://www.apple.com/watch/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubdomains; preload"
+        ]
+      },
+      "body_bytes": 628717,
+      "truncated": false,
+      "body_sha256": "88164ff2f354758b04d91326eb3ecc269d26af839521f82af0d693755b93e6d8",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Apple Watch - Apple",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "12",
+      "domain": "apple.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.apple.com/search",
+      "depth": 2,
+      "parent_url": "https://www.apple.com/store",
+      "attempt": 11,
+      "timestamp": "2026-11-12T21:11:36.504632+00:00",
+      "final_url": "https://www.apple.com/us/search",
+      "status": 200,
+      "content_type": "text/html;charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'none'; report-uri 'https://www.apple.com/shop/mdp/api/csp-error'; report-to aos-csp-error"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 164312,
+      "truncated": false,
+      "body_sha256": "12f12af9deb1b49ecdb0df548b4b4aa610178a2eb70bf65fd34689d0e656c3ac",
+      "redirect_chain": [
+        {
+          "url": "https://www.apple.com/search",
+          "status": 303,
+          "location": "https://www.apple.com/us/search",
+          "headers": {
+            "content-security-policy": [
+              "frame-ancestors 'none'; report-uri 'https://www.apple.com/shop/mdp/api/csp-error'; report-to aos-csp-error"
+            ],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000; includeSubDomains; preload"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Apple Store Search Results - Apple",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "12",
+      "domain": "apple.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.apple.com/apple-vision-pro/",
+      "depth": 1,
+      "parent_url": "https://www.apple.com/",
+      "attempt": 12,
+      "timestamp": "2026-11-12T21:11:37.021867+00:00",
+      "final_url": "https://www.apple.com/apple-vision-pro/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'self' blob: data: *.akamaized.net *.apple.com *.apple-mapkit.com *.cdn-apple.com *.organicfruitapps.com; child-src blob: mailto: embed.music.apple.com embed.podcasts.apple.com https://recyclingprogram.apple.com https://smb.apple.com https://nova.apple.com swdlp.apple.com www.apple.com www.instagram.com platform.twitter.com www.youtube-nocookie.com; img-src 'unsafe-inline' blob: data: *.apple.com *.apple-mapkit.com *.cdn-apple.com *.mzstatic.com; script-src 'unsafe-inline' 'unsafe-eval' blob: *.apple.com *.apple-mapkit.com www.instagram.com platform.twitter.com; style-src 'unsafe-inline' *.apple.com"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubdomains; preload"
+        ]
+      },
+      "body_bytes": 351592,
+      "truncated": false,
+      "body_sha256": "f75babaeb3d1ba1181dc0b092e1083cf1adf89aa594f187cd031dab7745def95",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Apple Vision Pro - Apple",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "12",
+      "domain": "apple.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.apple.com/airpods",
+      "depth": 2,
+      "parent_url": "https://www.apple.com/store",
+      "attempt": 13,
+      "timestamp": "2026-11-12T21:11:38.045957+00:00",
+      "final_url": "https://www.apple.com/airpods/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'self' blob: data: *.akamaized.net *.apple.com *.apple-mapkit.com *.cdn-apple.com *.organicfruitapps.com; child-src blob: mailto: embed.music.apple.com embed.podcasts.apple.com https://recyclingprogram.apple.com https://smb.apple.com https://nova.apple.com swdlp.apple.com www.apple.com www.instagram.com platform.twitter.com www.youtube-nocookie.com; img-src 'unsafe-inline' blob: data: *.apple.com *.apple-mapkit.com *.cdn-apple.com *.mzstatic.com; script-src 'unsafe-inline' 'unsafe-eval' blob: *.apple.com *.apple-mapkit.com www.instagram.com platform.twitter.com; style-src 'unsafe-inline' *.apple.com"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubdomains; preload"
+        ]
+      },
+      "body_bytes": 231757,
+      "truncated": false,
+      "body_sha256": "af58ee64a63bd10f86e8efbcc4cd23de9a46dc7089cee822f353fb93b7ede1cf",
+      "redirect_chain": [
+        {
+          "url": "https://www.apple.com/airpods",
+          "status": 301,
+          "location": "https://www.apple.com/airpods/",
+          "headers": {
+            "content-security-policy": [
+              "default-src 'self' blob: data: *.akamaized.net *.apple.com *.apple-mapkit.com *.cdn-apple.com *.organicfruitapps.com; child-src blob: mailto: embed.music.apple.com embed.podcasts.apple.com https://recyclingprogram.apple.com https://smb.apple.com https://nova.apple.com swdlp.apple.com www.apple.com www.instagram.com platform.twitter.com www.youtube-nocookie.com; img-src 'unsafe-inline' blob: data: *.apple.com *.apple-mapkit.com *.cdn-apple.com *.mzstatic.com; script-src 'unsafe-inline' 'unsafe-eval' blob: *.apple.com *.apple-mapkit.com www.instagram.com platform.twitter.com; style-src 'unsafe-inline' *.apple.com"
+            ],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000; includeSubdomains; preload"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "AirPods - Apple",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "12",
+      "domain": "apple.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.apple.com/airpods-5/",
+      "depth": 3,
+      "parent_url": "https://www.apple.com/airpods/",
+      "attempt": 14,
+      "timestamp": "2026-11-12T21:11:38.585475+00:00",
+      "final_url": "https://www.apple.com/airpods-5/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'self' blob: data: *.akamaized.net *.apple.com *.apple-mapkit.com *.cdn-apple.com *.organicfruitapps.com; child-src blob: mailto: embed.music.apple.com embed.podcasts.apple.com https://recyclingprogram.apple.com https://smb.apple.com https://nova.apple.com swdlp.apple.com www.apple.com www.instagram.com platform.twitter.com www.youtube-nocookie.com; img-src 'unsafe-inline' blob: data: *.apple.com *.apple-mapkit.com *.cdn-apple.com *.mzstatic.com; script-src 'unsafe-inline' 'unsafe-eval' blob: *.apple.com *.apple-mapkit.com www.instagram.com platform.twitter.com; style-src 'unsafe-inline' *.apple.com"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubdomains; preload"
+        ]
+      },
+      "body_bytes": 366367,
+      "truncated": false,
+      "body_sha256": "fd6d5512000b3cea05efda9d7e0250335089359b5c45f75fce74a541c17b3d9b",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "AirPods 5 - Apple",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "12",
+      "domain": "apple.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.apple.com/105/media/us/airpods-5/2026/1bae77a6-82ef-46c2-875f-571e880dbfe2/films/product/airpods-5-product-tpl-us-2026_16x9.m3u8",
+      "depth": 4,
+      "parent_url": "https://www.apple.com/airpods-5/",
+      "attempt": 15,
+      "timestamp": "2026-11-12T21:11:39.123218+00:00",
+      "final_url": "https://www.apple.com/105/media/us/airpods-5/2026/1bae77a6-82ef-46c2-875f-571e880dbfe2/films/product/airpods-5-product-tpl-us-2026_16x9.m3u8",
+      "status": 200,
+      "content_type": "application/x-mpegurl",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'self' blob: data: *.akamaized.net *.apple.com *.apple-mapkit.com *.cdn-apple.com *.organicfruitapps.com; child-src blob: mailto: embed.music.apple.com embed.podcasts.apple.com https://recyclingprogram.apple.com https://smb.apple.com https://nova.apple.com swdlp.apple.com www.apple.com www.instagram.com platform.twitter.com www.youtube-nocookie.com; img-src 'unsafe-inline' blob: data: *.apple.com *.apple-mapkit.com *.cdn-apple.com *.mzstatic.com; script-src 'unsafe-inline' 'unsafe-eval' blob: *.apple.com *.apple-mapkit.com www.instagram.com platform.twitter.com; style-src 'unsafe-inline' *.apple.com"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubdomains; preload"
+        ]
+      },
+      "body_bytes": 5735,
+      "truncated": false,
+      "body_sha256": "c0ee76490a13d95ac8b48c34eb337ebd7d24382978e3c7b60c91e38c35e7b05c",
+      "redirect_chain": [],
+      "html": false,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "12",
+      "domain": "apple.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.apple.com/airpods-max/",
+      "depth": 3,
+      "parent_url": "https://www.apple.com/airpods/",
+      "attempt": 16,
+      "timestamp": "2026-11-12T21:11:39.647430+00:00",
+      "final_url": "https://www.apple.com/airpods-max/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'self' blob: data: *.akamaized.net *.apple.com *.apple-mapkit.com *.cdn-apple.com *.organicfruitapps.com; child-src blob: mailto: embed.music.apple.com embed.podcasts.apple.com https://recyclingprogram.apple.com https://smb.apple.com https://nova.apple.com swdlp.apple.com www.apple.com www.instagram.com platform.twitter.com www.youtube-nocookie.com; img-src 'unsafe-inline' blob: data: *.apple.com *.apple-mapkit.com *.cdn-apple.com *.mzstatic.com; script-src 'unsafe-inline' 'unsafe-eval' blob: *.apple.com *.apple-mapkit.com www.instagram.com platform.twitter.com; style-src 'unsafe-inline' *.apple.com"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubdomains; preload"
+        ]
+      },
+      "body_bytes": 403638,
+      "truncated": false,
+      "body_sha256": "246a3295de5422078c5499e2fa19677c13654104a5ba514f0985fd961666d943",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "AirPods Max 2 - Apple",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "12",
+      "domain": "apple.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.apple.com/ios/feature-availability/",
+      "depth": 3,
+      "parent_url": "https://www.apple.com/airpods/",
+      "attempt": 17,
+      "timestamp": "2026-11-12T21:11:40.139660+00:00",
+      "final_url": "https://www.apple.com/ios/feature-availability/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'self' blob: data: *.akamaized.net *.apple.com *.apple-mapkit.com *.cdn-apple.com *.organicfruitapps.com; child-src blob: mailto: embed.music.apple.com embed.podcasts.apple.com https://recyclingprogram.apple.com https://smb.apple.com https://nova.apple.com swdlp.apple.com www.apple.com www.instagram.com platform.twitter.com www.youtube-nocookie.com; img-src 'unsafe-inline' blob: data: *.apple.com *.apple-mapkit.com *.cdn-apple.com *.mzstatic.com; script-src 'unsafe-inline' 'unsafe-eval' blob: *.apple.com *.apple-mapkit.com www.instagram.com platform.twitter.com; style-src 'unsafe-inline' *.apple.com"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubdomains; preload"
+        ]
+      },
+      "body_bytes": 525242,
+      "truncated": false,
+      "body_sha256": "4cb1e695bb9be8457c08a2eb79b0ea67d0e6b8ae491acfc872b604369253fc41",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "iOS and iPadOS 27 - Feature Availability - Apple",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "12",
+      "domain": "apple.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.apple.com/airpods-pro/feature-availability/",
+      "depth": 3,
+      "parent_url": "https://www.apple.com/airpods/",
+      "attempt": 18,
+      "timestamp": "2026-11-12T21:11:40.740331+00:00",
+      "final_url": "https://www.apple.com/airpods-pro/feature-availability/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'self' blob: data: *.akamaized.net *.apple.com *.apple-mapkit.com *.cdn-apple.com *.organicfruitapps.com; child-src blob: mailto: embed.music.apple.com embed.podcasts.apple.com https://recyclingprogram.apple.com https://smb.apple.com https://nova.apple.com swdlp.apple.com www.apple.com www.instagram.com platform.twitter.com www.youtube-nocookie.com; img-src 'unsafe-inline' blob: data: *.apple.com *.apple-mapkit.com *.cdn-apple.com *.mzstatic.com; script-src 'unsafe-inline' 'unsafe-eval' blob: *.apple.com *.apple-mapkit.com www.instagram.com platform.twitter.com; style-src 'unsafe-inline' *.apple.com"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubdomains; preload"
+        ]
+      },
+      "body_bytes": 143859,
+      "truncated": false,
+      "body_sha256": "0256cb58587fc4a9a41aa2755c7d113d3efddbd4828a70cbd42caea3a18fee10",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "AirPods Pro 3 - Hearing Health Feature Availability - Apple",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "12",
+      "domain": "apple.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.apple.com/promo/",
+      "depth": 3,
+      "parent_url": "https://www.apple.com/airpods/",
+      "attempt": 19,
+      "timestamp": "2026-11-12T21:11:41.325349+00:00",
+      "final_url": "https://www.apple.com/promo/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'self' blob: data: *.akamaized.net *.apple.com *.apple-mapkit.com *.cdn-apple.com *.organicfruitapps.com; child-src blob: mailto: embed.music.apple.com embed.podcasts.apple.com https://recyclingprogram.apple.com https://smb.apple.com https://nova.apple.com swdlp.apple.com www.apple.com www.instagram.com platform.twitter.com www.youtube-nocookie.com; img-src 'unsafe-inline' blob: data: *.apple.com *.apple-mapkit.com *.cdn-apple.com *.mzstatic.com; script-src 'unsafe-inline' 'unsafe-eval' blob: *.apple.com *.apple-mapkit.com www.instagram.com platform.twitter.com; style-src 'unsafe-inline' *.apple.com"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubdomains; preload"
+        ]
+      },
+      "body_bytes": 123708,
+      "truncated": false,
+      "body_sha256": "a9518de666ce3cffb6acf8aaa7595090e3c0fe26f4e1b6eb34e61db92bc981ef",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Offers - Apple",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "12",
+      "domain": "apple.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.apple.com/home/",
+      "depth": 1,
+      "parent_url": "https://www.apple.com/",
+      "attempt": 20,
+      "timestamp": "2026-11-12T21:11:42.279269+00:00",
+      "final_url": "https://www.apple.com/home/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'self' blob: data: *.akamaized.net *.apple.com *.apple-mapkit.com *.cdn-apple.com *.organicfruitapps.com; child-src blob: mailto: embed.music.apple.com embed.podcasts.apple.com https://recyclingprogram.apple.com https://smb.apple.com https://nova.apple.com swdlp.apple.com www.apple.com www.instagram.com platform.twitter.com www.youtube-nocookie.com; img-src 'unsafe-inline' blob: data: *.apple.com *.apple-mapkit.com *.cdn-apple.com *.mzstatic.com; script-src 'unsafe-inline' 'unsafe-eval' blob: *.apple.com *.apple-mapkit.com www.instagram.com platform.twitter.com; style-src 'unsafe-inline' *.apple.com"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubdomains; preload"
+        ]
+      },
+      "body_bytes": 248969,
+      "truncated": false,
+      "body_sha256": "9217617a2e923ca8e74ded6f0adc1e054c14119bb9c523ccf1c952a2867827a1",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Home - Apple",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "12",
+      "domain": "apple.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.apple.com/business/small-business",
+      "depth": 2,
+      "parent_url": "https://www.apple.com/store",
+      "attempt": 21,
+      "timestamp": "2026-11-12T21:11:42.908796+00:00",
+      "final_url": "https://www.apple.com/business/small-business/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'self' blob: data: *.akamaized.net *.apple.com *.apple-mapkit.com *.cdn-apple.com *.organicfruitapps.com; child-src blob: mailto: embed.music.apple.com embed.podcasts.apple.com https://recyclingprogram.apple.com https://smb.apple.com https://nova.apple.com swdlp.apple.com www.apple.com www.instagram.com platform.twitter.com www.youtube-nocookie.com; img-src 'unsafe-inline' blob: data: *.apple.com *.apple-mapkit.com *.cdn-apple.com *.mzstatic.com; script-src 'unsafe-inline' 'unsafe-eval' blob: *.apple.com *.apple-mapkit.com www.instagram.com platform.twitter.com; style-src 'unsafe-inline' *.apple.com"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubdomains; preload"
+        ]
+      },
+      "body_bytes": 191777,
+      "truncated": false,
+      "body_sha256": "d8d9afd3411487e056212ff5e5ed48227bf20734868c20716841cbb7c7d41843",
+      "redirect_chain": [
+        {
+          "url": "https://www.apple.com/business/small-business",
+          "status": 301,
+          "location": "https://www.apple.com/business/small-business/",
+          "headers": {
+            "content-security-policy": [
+              "default-src 'self' blob: data: *.akamaized.net *.apple.com *.apple-mapkit.com *.cdn-apple.com *.organicfruitapps.com; child-src blob: mailto: embed.music.apple.com embed.podcasts.apple.com https://recyclingprogram.apple.com https://smb.apple.com https://nova.apple.com swdlp.apple.com www.apple.com www.instagram.com platform.twitter.com www.youtube-nocookie.com; img-src 'unsafe-inline' blob: data: *.apple.com *.apple-mapkit.com *.cdn-apple.com *.mzstatic.com; script-src 'unsafe-inline' 'unsafe-eval' blob: *.apple.com *.apple-mapkit.com www.instagram.com platform.twitter.com; style-src 'unsafe-inline' *.apple.com"
+            ],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000; includeSubdomains; preload"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Business - Small Business - Apple",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "12",
+      "domain": "apple.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.apple.com/us-smb/store",
+      "depth": 3,
+      "parent_url": "https://www.apple.com/business/small-business/",
+      "attempt": 22,
+      "timestamp": "2026-11-12T21:11:43.394349+00:00",
+      "final_url": "https://www.apple.com/us-smb/store",
+      "status": 303,
+      "content_type": "",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'none'; report-uri 'https://www.apple.com/shop/mdp/api/csp-error'; report-to aos-csp-error"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 0,
+      "truncated": false,
+      "body_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "redirect_chain": [
+        {
+          "url": "https://www.apple.com/us-smb/store",
+          "status": 303,
+          "location": "https://secure.store.apple.com/us-smb/shop/signIn/smb?ssi=4AAABodGaKjMBIANsqUFA6RcSnHlpeunVqEmYJcPB_ijYm2F1wa0CtqOvAAAAR2h0dHBzOi8vd3d3LmFwcGxlLmNvbS91cy1zbWIvc3RvcmU_c2lnbmluPXRydWV8aHR0cHM6Ly93d3cuYXBwbGUuY29tL3x8AAIBaOwG2Iw6o-WVtioJwh1UECYx7bJ59zE5MBTOF63QIwhTNxv86UrBG5ZEDQ93PbBp",
+          "headers": {
+            "content-security-policy": [
+              "frame-ancestors 'none'; report-uri 'https://www.apple.com/shop/mdp/api/csp-error'; report-to aos-csp-error"
+            ],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000; includeSubDomains; preload"
+            ]
+          }
+        }
+      ],
+      "error": "redirect_out_of_scope",
+      "html": false,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "12",
+      "domain": "apple.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.apple.com/batteries/",
+      "depth": 3,
+      "parent_url": "https://www.apple.com/business/small-business/",
+      "attempt": 23,
+      "timestamp": "2026-11-12T21:11:43.946820+00:00",
+      "final_url": "https://www.apple.com/batteries/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'self' blob: data: *.akamaized.net *.apple.com *.apple-mapkit.com *.cdn-apple.com *.organicfruitapps.com; child-src blob: mailto: embed.music.apple.com embed.podcasts.apple.com https://recyclingprogram.apple.com https://smb.apple.com https://nova.apple.com swdlp.apple.com www.apple.com www.instagram.com platform.twitter.com www.youtube-nocookie.com; img-src 'unsafe-inline' blob: data: *.apple.com *.apple-mapkit.com *.cdn-apple.com *.mzstatic.com; script-src 'unsafe-inline' 'unsafe-eval' blob: *.apple.com *.apple-mapkit.com www.instagram.com platform.twitter.com; style-src 'unsafe-inline' *.apple.com"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubdomains; preload"
+        ]
+      },
+      "body_bytes": 125618,
+      "truncated": false,
+      "body_sha256": "33ccd7f2c3ea970585aa245c3096061a636b19bfc1ac8c36ac8b7aa0276e1607",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Batteries - Apple",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "12",
+      "domain": "apple.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.apple.com/entertainment/",
+      "depth": 1,
+      "parent_url": "https://www.apple.com/",
+      "attempt": 24,
+      "timestamp": "2026-11-12T21:11:44.949143+00:00",
+      "final_url": "https://www.apple.com/services/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'self' blob: data: *.akamaized.net *.apple.com *.apple-mapkit.com *.cdn-apple.com *.organicfruitapps.com; child-src blob: mailto: embed.music.apple.com embed.podcasts.apple.com https://recyclingprogram.apple.com https://smb.apple.com https://nova.apple.com swdlp.apple.com www.apple.com www.instagram.com platform.twitter.com www.youtube-nocookie.com; img-src 'unsafe-inline' blob: data: *.apple.com *.apple-mapkit.com *.cdn-apple.com *.mzstatic.com; script-src 'unsafe-inline' 'unsafe-eval' blob: *.apple.com *.apple-mapkit.com www.instagram.com platform.twitter.com; style-src 'unsafe-inline' *.apple.com"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubdomains; preload"
+        ]
+      },
+      "body_bytes": 171150,
+      "truncated": false,
+      "body_sha256": "a40a04be701ae3e924db76f48668ec5c832a8ed92bf89663d60a0b8dbfb47df4",
+      "redirect_chain": [
+        {
+          "url": "https://www.apple.com/entertainment/",
+          "status": 301,
+          "location": "https://www.apple.com/services/",
+          "headers": {
+            "content-security-policy": [
+              "default-src 'self' blob: data: *.akamaized.net *.apple.com *.apple-mapkit.com *.cdn-apple.com *.organicfruitapps.com; child-src blob: mailto: embed.music.apple.com embed.podcasts.apple.com https://recyclingprogram.apple.com https://smb.apple.com https://nova.apple.com swdlp.apple.com www.apple.com www.instagram.com platform.twitter.com www.youtube-nocookie.com; img-src 'unsafe-inline' blob: data: *.apple.com *.apple-mapkit.com *.cdn-apple.com *.mzstatic.com; script-src 'unsafe-inline' 'unsafe-eval' blob: *.apple.com *.apple-mapkit.com www.instagram.com platform.twitter.com; style-src 'unsafe-inline' *.apple.com"
+            ],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000; includeSubdomains; preload"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Entertainment - Services - Apple",
+      "duplicate_final": true,
+      "eligible": false
+    },
+    {
+      "rank": "12",
+      "domain": "apple.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.apple.com/retail",
+      "depth": 2,
+      "parent_url": "https://www.apple.com/store",
+      "attempt": 25,
+      "timestamp": "2026-11-12T21:11:45.919570+00:00",
+      "final_url": "https://www.apple.com/retail/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'self' *.apple.com *.apple.com.cn *.apple-mapkit.com *.cdn-apple.com *.akamaized.net;  script-src 'self' 'unsafe-eval' 'unsafe-inline' *.apple.com *.apple.com.cn *.apple-mapkit.com;  style-src 'self' 'unsafe-inline' blob: *.apple.com *.apple.com.cn;  img-src 'self' blob: data: *.apple.com *.apple.com.cn *.apple-mapkit.com *.cdn-apple.com *.mzstatic.com;  font-src 'self';  object-src 'none';  worker-src 'self' blob: *.apple.com *.apple.com.cn;  base-uri 'self';  form-action 'self';  frame-ancestors 'none';",
+          "default-src 'self' blob: data: *.akamaized.net *.apple.com *.apple-mapkit.com *.cdn-apple.com *.organicfruitapps.com; child-src blob: mailto: embed.music.apple.com embed.podcasts.apple.com https://recyclingprogram.apple.com https://smb.apple.com https://nova.apple.com swdlp.apple.com www.apple.com www.instagram.com platform.twitter.com www.youtube-nocookie.com; img-src 'unsafe-inline' blob: data: *.apple.com *.apple-mapkit.com *.cdn-apple.com *.mzstatic.com; script-src 'unsafe-inline' 'unsafe-eval' blob: *.apple.com *.apple-mapkit.com www.instagram.com platform.twitter.com; style-src 'unsafe-inline' *.apple.com"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubdomains; preload"
+        ]
+      },
+      "body_bytes": 275157,
+      "truncated": false,
+      "body_sha256": "9942be1382ec2756293b321e4c767211ad023c6f8defd498a35560b80cd6d8e7",
+      "redirect_chain": [
+        {
+          "url": "https://www.apple.com/retail",
+          "status": 308,
+          "location": "/retail/",
+          "headers": {
+            "content-security-policy": [
+              "default-src 'self' blob: data: *.akamaized.net *.apple.com *.apple-mapkit.com *.cdn-apple.com *.organicfruitapps.com; child-src blob: mailto: embed.music.apple.com embed.podcasts.apple.com https://recyclingprogram.apple.com https://smb.apple.com https://nova.apple.com swdlp.apple.com www.apple.com www.instagram.com platform.twitter.com www.youtube-nocookie.com; img-src 'unsafe-inline' blob: data: *.apple.com *.apple-mapkit.com *.cdn-apple.com *.mzstatic.com; script-src 'unsafe-inline' 'unsafe-eval' blob: *.apple.com *.apple-mapkit.com www.instagram.com platform.twitter.com; style-src 'unsafe-inline' *.apple.com"
+            ],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000; includeSubdomains; preload"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Apple Store - Find a Store - Apple",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "12",
+      "domain": "apple.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.apple.com/iphone-duo/",
+      "depth": 1,
+      "parent_url": "https://www.apple.com/",
+      "attempt": 26,
+      "timestamp": "2026-11-12T21:11:46.558570+00:00",
+      "final_url": "https://www.apple.com/iphone-duo/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'self' blob: data: *.akamaized.net *.apple.com *.apple-mapkit.com *.cdn-apple.com *.organicfruitapps.com; child-src blob: mailto: embed.music.apple.com embed.podcasts.apple.com https://recyclingprogram.apple.com https://smb.apple.com https://nova.apple.com swdlp.apple.com www.apple.com www.instagram.com platform.twitter.com www.youtube-nocookie.com; img-src 'unsafe-inline' blob: data: *.apple.com *.apple-mapkit.com *.cdn-apple.com *.mzstatic.com; script-src 'unsafe-inline' 'unsafe-eval' blob: *.apple.com *.apple-mapkit.com www.instagram.com platform.twitter.com; style-src 'unsafe-inline' *.apple.com"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubdomains; preload"
+        ]
+      },
+      "body_bytes": 781152,
+      "truncated": false,
+      "body_sha256": "124e9cebf962de88c57e9c0e2c67649fe1a3847520a5eaba47332da5fe42c7fc",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "iPhone Duo - Apple",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "12",
+      "domain": "apple.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.apple.com/us-edu/shop/browse/open/salespolicies/edu",
+      "depth": 2,
+      "parent_url": "https://www.apple.com/store",
+      "attempt": 27,
+      "timestamp": "2026-11-12T21:11:47.536861+00:00",
+      "final_url": "https://www.apple.com/us-edu/shop/browse/open/salespolicies/edu",
+      "status": 200,
+      "content_type": "text/html;charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'none'"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 171778,
+      "truncated": false,
+      "body_sha256": "51b1230c61fe5978be37564c2f4c3fd24d279235e0b15af0b758d7ad234ce5d8",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Sales and Refunds - Education - Apple",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "12",
+      "domain": "apple.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.apple.com/legal/sales-support/iphoneupgrade_us",
+      "depth": 3,
+      "parent_url": "https://www.apple.com/us-edu/shop/browse/open/salespolicies/edu",
+      "attempt": 28,
+      "timestamp": "2026-11-12T21:11:48.442566+00:00",
+      "final_url": "https://www.apple.com/legal/sales-support/iphoneupgrade_us/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubdomains; preload"
+        ]
+      },
+      "body_bytes": 114184,
+      "truncated": false,
+      "body_sha256": "11ee370f83b58de80eaf7f11b93c925378deb78ad1ab4b74c45cda8c78a18d7d",
+      "redirect_chain": [
+        {
+          "url": "https://www.apple.com/legal/sales-support/iphoneupgrade_us",
+          "status": 301,
+          "location": "https://www.apple.com/legal/sales-support/iphoneupgrade_us/",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000; includeSubdomains; preload"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "iPhone Upgrade Program Terms and Conditions",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "12",
+      "domain": "apple.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.apple.com/privacy/government-information-requests/",
+      "depth": 4,
+      "parent_url": "https://www.apple.com/legal/sales-support/iphoneupgrade_us/",
+      "attempt": 29,
+      "timestamp": "2026-11-12T21:11:49.095660+00:00",
+      "final_url": "https://www.apple.com/privacy/government-information-requests/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'self' blob: data: *.akamaized.net *.apple.com *.apple-mapkit.com *.cdn-apple.com *.organicfruitapps.com; child-src blob: mailto: embed.music.apple.com embed.podcasts.apple.com https://recyclingprogram.apple.com https://smb.apple.com https://nova.apple.com swdlp.apple.com www.apple.com www.instagram.com platform.twitter.com www.youtube-nocookie.com; img-src 'unsafe-inline' blob: data: *.apple.com *.apple-mapkit.com *.cdn-apple.com *.mzstatic.com; script-src 'unsafe-inline' 'unsafe-eval' blob: *.apple.com *.apple-mapkit.com www.instagram.com platform.twitter.com; style-src 'unsafe-inline' *.apple.com"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubdomains; preload"
+        ]
+      },
+      "body_bytes": 116600,
+      "truncated": false,
+      "body_sha256": "41af9119b5af618ca620eb08c6eca398904bad8647b3aafcbb9d969aa1d58d26",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Privacy - Government Information Requests - Apple",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "12",
+      "domain": "apple.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.apple.com/macbook-pro/proled-xdr-display/",
+      "depth": 1,
+      "parent_url": "https://www.apple.com/",
+      "attempt": 30,
+      "timestamp": "2026-11-12T21:11:50.102405+00:00",
+      "final_url": "https://www.apple.com/macbook-pro/proled-xdr-display/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'self' blob: data: *.akamaized.net *.apple.com *.apple-mapkit.com *.cdn-apple.com *.organicfruitapps.com; child-src blob: mailto: embed.music.apple.com embed.podcasts.apple.com https://recyclingprogram.apple.com https://smb.apple.com https://nova.apple.com swdlp.apple.com www.apple.com www.instagram.com platform.twitter.com www.youtube-nocookie.com; img-src 'unsafe-inline' blob: data: *.apple.com *.apple-mapkit.com *.cdn-apple.com *.mzstatic.com; script-src 'unsafe-inline' 'unsafe-eval' blob: *.apple.com *.apple-mapkit.com www.instagram.com platform.twitter.com; style-src 'unsafe-inline' *.apple.com"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubdomains; preload"
+        ]
+      },
+      "body_bytes": 897682,
+      "truncated": false,
+      "body_sha256": "a55d3dc1fb4f0593b3697b7ff907741647ceea4bff5f94ede6f9bbb857c0f7cb",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "MacBook Pro with PROLED XDR Display - Apple",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "12",
+      "domain": "apple.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.apple.com/tv/",
+      "depth": 2,
+      "parent_url": "https://www.apple.com/store",
+      "attempt": 31,
+      "timestamp": "2026-11-12T21:11:50.676375+00:00",
+      "final_url": "https://www.apple.com/home/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'self' blob: data: *.akamaized.net *.apple.com *.apple-mapkit.com *.cdn-apple.com *.organicfruitapps.com; child-src blob: mailto: embed.music.apple.com embed.podcasts.apple.com https://recyclingprogram.apple.com https://smb.apple.com https://nova.apple.com swdlp.apple.com www.apple.com www.instagram.com platform.twitter.com www.youtube-nocookie.com; img-src 'unsafe-inline' blob: data: *.apple.com *.apple-mapkit.com *.cdn-apple.com *.mzstatic.com; script-src 'unsafe-inline' 'unsafe-eval' blob: *.apple.com *.apple-mapkit.com www.instagram.com platform.twitter.com; style-src 'unsafe-inline' *.apple.com"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubdomains; preload"
+        ]
+      },
+      "body_bytes": 248969,
+      "truncated": false,
+      "body_sha256": "9217617a2e923ca8e74ded6f0adc1e054c14119bb9c523ccf1c952a2867827a1",
+      "redirect_chain": [
+        {
+          "url": "https://www.apple.com/tv/",
+          "status": 301,
+          "location": "https://www.apple.com/home/",
+          "headers": {
+            "content-security-policy": [
+              "default-src 'self' blob: data: *.akamaized.net *.apple.com *.apple-mapkit.com *.cdn-apple.com *.organicfruitapps.com; child-src blob: mailto: embed.music.apple.com embed.podcasts.apple.com https://recyclingprogram.apple.com https://smb.apple.com https://nova.apple.com swdlp.apple.com www.apple.com www.instagram.com platform.twitter.com www.youtube-nocookie.com; img-src 'unsafe-inline' blob: data: *.apple.com *.apple-mapkit.com *.cdn-apple.com *.mzstatic.com; script-src 'unsafe-inline' 'unsafe-eval' blob: *.apple.com *.apple-mapkit.com www.instagram.com platform.twitter.com; style-src 'unsafe-inline' *.apple.com"
+            ],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000; includeSubdomains; preload"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Home - Apple",
+      "duplicate_final": true,
+      "eligible": false
+    },
+    {
+      "rank": "12",
+      "domain": "apple.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.apple.com/iphone-18-pro/",
+      "depth": 1,
+      "parent_url": "https://www.apple.com/",
+      "attempt": 32,
+      "timestamp": "2026-11-12T21:11:51.266693+00:00",
+      "final_url": "https://www.apple.com/iphone-18-pro/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'self' blob: data: *.akamaized.net *.apple.com *.apple-mapkit.com *.cdn-apple.com *.organicfruitapps.com; child-src blob: mailto: embed.music.apple.com embed.podcasts.apple.com https://recyclingprogram.apple.com https://smb.apple.com https://nova.apple.com swdlp.apple.com www.apple.com www.instagram.com platform.twitter.com www.youtube-nocookie.com; img-src 'unsafe-inline' blob: data: *.apple.com *.apple-mapkit.com *.cdn-apple.com *.mzstatic.com; script-src 'unsafe-inline' 'unsafe-eval' blob: *.apple.com *.apple-mapkit.com www.instagram.com platform.twitter.com; style-src 'unsafe-inline' *.apple.com"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubdomains; preload"
+        ]
+      },
+      "body_bytes": 895793,
+      "truncated": false,
+      "body_sha256": "29e610e1c70ea0669abd563b64d033d463268a4ca3d092065735554e9261fdc0",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "iPhone 18 Pro and iPhone 18 Pro Max - Apple",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "12",
+      "domain": "apple.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.apple.com/apple-tv-plus/",
+      "depth": 2,
+      "parent_url": "https://www.apple.com/store",
+      "attempt": 33,
+      "timestamp": "2026-11-12T21:11:52.223732+00:00",
+      "final_url": "https://www.apple.com/apple-tv/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'self' blob: data: *.akamaized.net *.apple.com *.apple-mapkit.com *.cdn-apple.com *.organicfruitapps.com; child-src blob: mailto: embed.music.apple.com embed.podcasts.apple.com https://recyclingprogram.apple.com https://smb.apple.com https://nova.apple.com swdlp.apple.com www.apple.com www.instagram.com platform.twitter.com www.youtube-nocookie.com; img-src 'unsafe-inline' blob: data: *.apple.com *.apple-mapkit.com *.cdn-apple.com *.mzstatic.com; script-src 'unsafe-inline' 'unsafe-eval' blob: *.apple.com *.apple-mapkit.com www.instagram.com platform.twitter.com; style-src 'unsafe-inline' *.apple.com"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubdomains; preload"
+        ]
+      },
+      "body_bytes": 183987,
+      "truncated": false,
+      "body_sha256": "78526dcf7fcb10b0a95b586982a3fb4d56adc92afc65bcbbaad9a05639e3034f",
+      "redirect_chain": [
+        {
+          "url": "https://www.apple.com/apple-tv-plus/",
+          "status": 301,
+          "location": "https://www.apple.com/apple-tv/",
+          "headers": {
+            "content-security-policy": [
+              "default-src 'self' blob: data: *.akamaized.net *.apple.com *.apple-mapkit.com *.cdn-apple.com *.organicfruitapps.com; child-src blob: mailto: embed.music.apple.com embed.podcasts.apple.com https://recyclingprogram.apple.com https://smb.apple.com https://nova.apple.com swdlp.apple.com www.apple.com www.instagram.com platform.twitter.com www.youtube-nocookie.com; img-src 'unsafe-inline' blob: data: *.apple.com *.apple-mapkit.com *.cdn-apple.com *.mzstatic.com; script-src 'unsafe-inline' 'unsafe-eval' blob: *.apple.com *.apple-mapkit.com www.instagram.com platform.twitter.com; style-src 'unsafe-inline' *.apple.com"
+            ],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000; includeSubdomains; preload"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "\n\t\tApple TV - Apple\n\t\t\n\t",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "12",
+      "domain": "apple.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.apple.com/airplay/",
+      "depth": 3,
+      "parent_url": "https://www.apple.com/apple-tv/",
+      "attempt": 34,
+      "timestamp": "2026-11-12T21:11:52.875461+00:00",
+      "final_url": "https://www.apple.com/airplay/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'self' blob: data: *.akamaized.net *.apple.com *.apple-mapkit.com *.cdn-apple.com *.organicfruitapps.com; child-src blob: mailto: embed.music.apple.com embed.podcasts.apple.com https://recyclingprogram.apple.com https://smb.apple.com https://nova.apple.com swdlp.apple.com www.apple.com www.instagram.com platform.twitter.com www.youtube-nocookie.com; img-src 'unsafe-inline' blob: data: *.apple.com *.apple-mapkit.com *.cdn-apple.com *.mzstatic.com; script-src 'unsafe-inline' 'unsafe-eval' blob: *.apple.com *.apple-mapkit.com www.instagram.com platform.twitter.com; style-src 'unsafe-inline' *.apple.com"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubdomains; preload"
+        ]
+      },
+      "body_bytes": 180005,
+      "truncated": false,
+      "body_sha256": "a41dd0c49e1c5663a72e637c51a329308c341d4676802b77bb14e09c662812ca",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "AirPlay - Apple",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "12",
+      "domain": "apple.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.apple.com/home-app/accessories/",
+      "depth": 4,
+      "parent_url": "https://www.apple.com/airplay/",
+      "attempt": 35,
+      "timestamp": "2026-11-12T21:11:53.794849+00:00",
+      "final_url": "https://www.apple.com/home/accessories/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'self' blob: data: *.akamaized.net *.apple.com *.apple-mapkit.com *.cdn-apple.com *.organicfruitapps.com; child-src blob: mailto: embed.music.apple.com embed.podcasts.apple.com https://recyclingprogram.apple.com https://smb.apple.com https://nova.apple.com swdlp.apple.com www.apple.com www.instagram.com platform.twitter.com www.youtube-nocookie.com; img-src 'unsafe-inline' blob: data: *.apple.com *.apple-mapkit.com *.cdn-apple.com *.mzstatic.com; script-src 'unsafe-inline' 'unsafe-eval' blob: *.apple.com *.apple-mapkit.com www.instagram.com platform.twitter.com; style-src 'unsafe-inline' *.apple.com"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubdomains; preload"
+        ]
+      },
+      "body_bytes": 448210,
+      "truncated": false,
+      "body_sha256": "870cbd5e7352ed5eede3c77c7eec33bb1c280d898d04ef21934d02b4ef7d900e",
+      "redirect_chain": [
+        {
+          "url": "https://www.apple.com/home-app/accessories/",
+          "status": 301,
+          "location": "https://www.apple.com/home/accessories/",
+          "headers": {
+            "content-security-policy": [
+              "default-src 'self' blob: data: *.akamaized.net *.apple.com *.apple-mapkit.com *.cdn-apple.com *.organicfruitapps.com; child-src blob: mailto: embed.music.apple.com embed.podcasts.apple.com https://recyclingprogram.apple.com https://smb.apple.com https://nova.apple.com swdlp.apple.com www.apple.com www.instagram.com platform.twitter.com www.youtube-nocookie.com; img-src 'unsafe-inline' blob: data: *.apple.com *.apple-mapkit.com *.cdn-apple.com *.mzstatic.com; script-src 'unsafe-inline' 'unsafe-eval' blob: *.apple.com *.apple-mapkit.com www.instagram.com platform.twitter.com; style-src 'unsafe-inline' *.apple.com"
+            ],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000; includeSubdomains; preload"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Home Accessories - Apple",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "12",
+      "domain": "apple.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.apple.com/contact/feedback/",
+      "depth": 5,
+      "parent_url": "https://www.apple.com/home/accessories/",
+      "attempt": 36,
+      "timestamp": "2026-11-12T21:11:54.606086+00:00",
+      "final_url": "https://www.apple.com/contact/feedback/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'self' blob: data: *.akamaized.net *.apple.com *.apple-mapkit.com *.cdn-apple.com *.organicfruitapps.com; child-src blob: mailto: embed.music.apple.com embed.podcasts.apple.com https://recyclingprogram.apple.com https://smb.apple.com https://nova.apple.com swdlp.apple.com www.apple.com www.instagram.com platform.twitter.com www.youtube-nocookie.com; img-src 'unsafe-inline' blob: data: *.apple.com *.apple-mapkit.com *.cdn-apple.com *.mzstatic.com; script-src 'unsafe-inline' 'unsafe-eval' blob: *.apple.com *.apple-mapkit.com www.instagram.com platform.twitter.com; style-src 'unsafe-inline' *.apple.com"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubdomains; preload"
+        ]
+      },
+      "body_bytes": 124990,
+      "truncated": false,
+      "body_sha256": "e3816c7832a848d3bcc8ebdaf71ef69d1593d5aea7642a681020edbed2b7c191",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Feedback - Apple.com Website - Apple",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "12",
+      "domain": "apple.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.apple.com/homepod/",
+      "depth": 4,
+      "parent_url": "https://www.apple.com/airplay/",
+      "attempt": 37,
+      "timestamp": "2026-11-12T21:11:55.032773+00:00",
+      "final_url": "https://www.apple.com/homepod/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'self' blob: data: *.akamaized.net *.apple.com *.apple-mapkit.com *.cdn-apple.com *.organicfruitapps.com; child-src blob: mailto: embed.music.apple.com embed.podcasts.apple.com https://recyclingprogram.apple.com https://smb.apple.com https://nova.apple.com swdlp.apple.com www.apple.com www.instagram.com platform.twitter.com www.youtube-nocookie.com; img-src 'unsafe-inline' blob: data: *.apple.com *.apple-mapkit.com *.cdn-apple.com *.mzstatic.com; script-src 'unsafe-inline' 'unsafe-eval' blob: *.apple.com *.apple-mapkit.com www.instagram.com platform.twitter.com; style-src 'unsafe-inline' *.apple.com"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubdomains; preload"
+        ]
+      },
+      "body_bytes": 118762,
+      "truncated": false,
+      "body_sha256": "f18c442bab9726556b8671968ce42fd353027dc335d67238ed2ae82ffc360127",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "HomePod - Apple",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "12",
+      "domain": "apple.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.apple.com/family-sharing/",
+      "depth": 3,
+      "parent_url": "https://www.apple.com/apple-tv/",
+      "attempt": 38,
+      "timestamp": "2026-11-12T21:11:55.398833+00:00",
+      "final_url": "https://www.apple.com/family-sharing/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'self' blob: data: *.akamaized.net *.apple.com *.apple-mapkit.com *.cdn-apple.com *.organicfruitapps.com; child-src blob: mailto: embed.music.apple.com embed.podcasts.apple.com https://recyclingprogram.apple.com https://smb.apple.com https://nova.apple.com swdlp.apple.com www.apple.com www.instagram.com platform.twitter.com www.youtube-nocookie.com; img-src 'unsafe-inline' blob: data: *.apple.com *.apple-mapkit.com *.cdn-apple.com *.mzstatic.com; script-src 'unsafe-inline' 'unsafe-eval' blob: *.apple.com *.apple-mapkit.com www.instagram.com platform.twitter.com; style-src 'unsafe-inline' *.apple.com"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubdomains; preload"
+        ]
+      },
+      "body_bytes": 201734,
+      "truncated": false,
+      "body_sha256": "153993395e080d95a1809bd0c7766b492af3c2609d044c49fe8dba0f8e4e4096",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Family Sharing - Apple",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "12",
+      "domain": "apple.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.apple.com/apple-watch-series-12/",
+      "depth": 1,
+      "parent_url": "https://www.apple.com/",
+      "attempt": 39,
+      "timestamp": "2026-11-12T21:11:55.883426+00:00",
+      "final_url": "https://www.apple.com/apple-watch-series-12/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'self' blob: data: *.akamaized.net *.apple.com *.apple-mapkit.com *.cdn-apple.com *.organicfruitapps.com; child-src blob: mailto: embed.music.apple.com embed.podcasts.apple.com https://recyclingprogram.apple.com https://smb.apple.com https://nova.apple.com swdlp.apple.com www.apple.com www.instagram.com platform.twitter.com www.youtube-nocookie.com; img-src 'unsafe-inline' blob: data: *.apple.com *.apple-mapkit.com *.cdn-apple.com *.mzstatic.com; script-src 'unsafe-inline' 'unsafe-eval' blob: *.apple.com *.apple-mapkit.com www.instagram.com platform.twitter.com; style-src 'unsafe-inline' *.apple.com"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubdomains; preload"
+        ]
+      },
+      "body_bytes": 718254,
+      "truncated": false,
+      "body_sha256": "a09221c351aeec9846a72c0ef130bb533e6f4cccabc69b16b738617a7a88c8f0",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Apple Watch Series 12 - Apple",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "12",
+      "domain": "apple.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.apple.com/healthcare/apple-watch/",
+      "depth": 2,
+      "parent_url": "https://www.apple.com/store",
+      "attempt": 40,
+      "timestamp": "2026-11-12T21:11:57.351399+00:00",
+      "final_url": "https://www.apple.com/healthcare/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'self' blob: data: *.akamaized.net *.apple.com *.apple-mapkit.com *.cdn-apple.com *.organicfruitapps.com; child-src blob: mailto: embed.music.apple.com embed.podcasts.apple.com https://recyclingprogram.apple.com https://smb.apple.com https://nova.apple.com swdlp.apple.com www.apple.com www.instagram.com platform.twitter.com www.youtube-nocookie.com; img-src 'unsafe-inline' blob: data: *.apple.com *.apple-mapkit.com *.cdn-apple.com *.mzstatic.com; script-src 'unsafe-inline' 'unsafe-eval' blob: *.apple.com *.apple-mapkit.com www.instagram.com platform.twitter.com; style-src 'unsafe-inline' *.apple.com"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubdomains; preload"
+        ]
+      },
+      "body_bytes": 210180,
+      "truncated": false,
+      "body_sha256": "5ea7a17077be4c5b465c3dfc8d7af260f420b19722c5012cbec4e9d78274798d",
+      "redirect_chain": [
+        {
+          "url": "https://www.apple.com/healthcare/apple-watch/",
+          "status": 301,
+          "location": "https://www.apple.com/healthcare/",
+          "headers": {
+            "content-security-policy": [
+              "default-src 'self' blob: data: *.akamaized.net *.apple.com *.apple-mapkit.com *.cdn-apple.com *.organicfruitapps.com; child-src blob: mailto: embed.music.apple.com embed.podcasts.apple.com https://recyclingprogram.apple.com https://smb.apple.com https://nova.apple.com swdlp.apple.com www.apple.com www.instagram.com platform.twitter.com www.youtube-nocookie.com; img-src 'unsafe-inline' blob: data: *.apple.com *.apple-mapkit.com *.cdn-apple.com *.mzstatic.com; script-src 'unsafe-inline' 'unsafe-eval' blob: *.apple.com *.apple-mapkit.com www.instagram.com platform.twitter.com; style-src 'unsafe-inline' *.apple.com"
+            ],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000; includeSubdomains; preload"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Healthcare - Apple",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "12",
+      "domain": "apple.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.apple.com/ipad-11/",
+      "depth": 1,
+      "parent_url": "https://www.apple.com/",
+      "attempt": 41,
+      "timestamp": "2026-11-12T21:11:57.504708+00:00",
+      "final_url": "https://www.apple.com/ipad-11/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'self' blob: data: *.akamaized.net *.apple.com *.apple-mapkit.com *.cdn-apple.com *.organicfruitapps.com; child-src blob: mailto: embed.music.apple.com embed.podcasts.apple.com https://recyclingprogram.apple.com https://smb.apple.com https://nova.apple.com swdlp.apple.com www.apple.com www.instagram.com platform.twitter.com www.youtube-nocookie.com; img-src 'unsafe-inline' blob: data: *.apple.com *.apple-mapkit.com *.cdn-apple.com *.mzstatic.com; script-src 'unsafe-inline' 'unsafe-eval' blob: *.apple.com *.apple-mapkit.com www.instagram.com platform.twitter.com; style-src 'unsafe-inline' *.apple.com"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubdomains; preload"
+        ]
+      },
+      "body_bytes": 314856,
+      "truncated": false,
+      "body_sha256": "0864b2c9b76ef7ecda80c531ca6604a6d02af05a3a91f6097397b8e34893e037",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "iPad 11-inch (A16) - Apple",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "12",
+      "domain": "apple.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.apple.com/r/store/government",
+      "depth": 2,
+      "parent_url": "https://www.apple.com/store",
+      "attempt": 42,
+      "timestamp": "2026-11-12T21:11:58.491563+00:00",
+      "final_url": "https://www.apple.com/government/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'self' blob: data: *.akamaized.net *.apple.com *.apple-mapkit.com *.cdn-apple.com *.organicfruitapps.com; child-src blob: mailto: embed.music.apple.com embed.podcasts.apple.com https://recyclingprogram.apple.com https://smb.apple.com https://nova.apple.com swdlp.apple.com www.apple.com www.instagram.com platform.twitter.com www.youtube-nocookie.com; img-src 'unsafe-inline' blob: data: *.apple.com *.apple-mapkit.com *.cdn-apple.com *.mzstatic.com; script-src 'unsafe-inline' 'unsafe-eval' blob: *.apple.com *.apple-mapkit.com www.instagram.com platform.twitter.com; style-src 'unsafe-inline' *.apple.com"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubdomains; preload"
+        ]
+      },
+      "body_bytes": 281430,
+      "truncated": false,
+      "body_sha256": "429d304f44ef540d693bfb18d6bae7a7aee98a057988b066c4f5dc03fd7bc4d7",
+      "redirect_chain": [
+        {
+          "url": "https://www.apple.com/r/store/government",
+          "status": 301,
+          "location": "https://www.apple.com/government/",
+          "headers": {
+            "content-security-policy": [
+              "default-src 'self' blob: data: *.akamaized.net *.apple.com *.apple-mapkit.com *.cdn-apple.com *.organicfruitapps.com; child-src blob: mailto: embed.music.apple.com embed.podcasts.apple.com https://recyclingprogram.apple.com https://smb.apple.com https://nova.apple.com swdlp.apple.com www.apple.com www.instagram.com platform.twitter.com www.youtube-nocookie.com; img-src 'unsafe-inline' blob: data: *.apple.com *.apple-mapkit.com *.cdn-apple.com *.mzstatic.com; script-src 'unsafe-inline' 'unsafe-eval' blob: *.apple.com *.apple-mapkit.com www.instagram.com platform.twitter.com; style-src 'unsafe-inline' *.apple.com"
+            ],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000; includeSubdomains; preload"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Government - Apple",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "12",
+      "domain": "apple.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.apple.com/government/resources/",
+      "depth": 3,
+      "parent_url": "https://www.apple.com/government/",
+      "attempt": 43,
+      "timestamp": "2026-11-12T21:11:59.465128+00:00",
+      "final_url": "https://www.apple.com/government/resources/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'self' blob: data: *.akamaized.net *.apple.com *.apple-mapkit.com *.cdn-apple.com *.organicfruitapps.com; child-src blob: mailto: embed.music.apple.com embed.podcasts.apple.com https://recyclingprogram.apple.com https://smb.apple.com https://nova.apple.com swdlp.apple.com www.apple.com www.instagram.com platform.twitter.com www.youtube-nocookie.com; img-src 'unsafe-inline' blob: data: *.apple.com *.apple-mapkit.com *.cdn-apple.com *.mzstatic.com; script-src 'unsafe-inline' 'unsafe-eval' blob: *.apple.com *.apple-mapkit.com www.instagram.com platform.twitter.com; style-src 'unsafe-inline' *.apple.com"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubdomains; preload"
+        ]
+      },
+      "body_bytes": 162484,
+      "truncated": false,
+      "body_sha256": "93691d4774624fd113f0d429893c5a24220e2e5ffea8050fa9a527f973ca8edc",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Government - Resources - Apple",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "12",
+      "domain": "apple.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.apple.com/us_epp_55499/shop/browse/home/veterans_military",
+      "depth": 4,
+      "parent_url": "https://www.apple.com/government/resources/",
+      "attempt": 44,
+      "timestamp": "2026-11-12T21:11:59.790285+00:00",
+      "final_url": "https://www.apple.com/us_epp_55499/shop/browse/home/veterans_military",
+      "status": 200,
+      "content_type": "text/html;charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'none'; report-uri 'https://www.apple.com/shop/mdp/api/csp-error'; report-to aos-csp-error"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains; preload"
+        ]
+      },
+      "body_bytes": 150483,
+      "truncated": false,
+      "body_sha256": "2138df2b0be3899b64af78d278ac105e962d946b6d75bfe65cef2f8a0326a7b7",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Government Purchase Program - Shopping Agreement - Apple",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "12",
+      "domain": "apple.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.apple.com/apple-card/",
+      "depth": 1,
+      "parent_url": "https://www.apple.com/",
+      "attempt": 45,
+      "timestamp": "2026-11-12T21:12:00.183921+00:00",
+      "final_url": "https://www.apple.com/apple-card/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'self' blob: data: *.akamaized.net *.apple.com *.apple-mapkit.com *.cdn-apple.com *.organicfruitapps.com; child-src blob: mailto: embed.music.apple.com embed.podcasts.apple.com https://recyclingprogram.apple.com https://smb.apple.com https://nova.apple.com swdlp.apple.com www.apple.com www.instagram.com platform.twitter.com www.youtube-nocookie.com; img-src 'unsafe-inline' blob: data: *.apple.com *.apple-mapkit.com *.cdn-apple.com *.mzstatic.com; script-src 'unsafe-inline' 'unsafe-eval' blob: *.apple.com *.apple-mapkit.com www.instagram.com platform.twitter.com; style-src 'unsafe-inline' *.apple.com"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubdomains; preload"
+        ]
+      },
+      "body_bytes": 207956,
+      "truncated": false,
+      "body_sha256": "076037d6b42e1e11d518f5591a227c4aaf27e0a50b3386f808d649cdf0687962",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Apple Card - Apple",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "12",
+      "domain": "apple.com",
+      "stratum": "1-100",
+      "requested_url": "https://www.apple.com/education/connectED/",
+      "depth": 2,
+      "parent_url": "https://www.apple.com/store",
+      "attempt": 46,
+      "timestamp": "2026-11-12T21:12:01.107796+00:00",
+      "final_url": "https://www.apple.com/education-initiative/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "headers": {
+        "content-security-policy": [
+          "default-src 'self' blob: data: *.akamaized.net *.apple.com *.apple-mapkit.com *.cdn-apple.com *.organicfruitapps.com; child-src blob: mailto: embed.music.apple.com embed.podcasts.apple.com https://recyclingprogram.apple.com https://smb.apple.com https://nova.apple.com swdlp.apple.com www.apple.com www.instagram.com platform.twitter.com www.youtube-nocookie.com; img-src 'unsafe-inline' blob: data: *.apple.com *.apple-mapkit.com *.cdn-apple.com *.mzstatic.com; script-src 'unsafe-inline' 'unsafe-eval' blob: *.apple.com *.apple-mapkit.com www.instagram.com platform.twitter.com; style-src 'unsafe-inline' *.apple.com"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubdomains; preload"
+        ]
+      },
+      "body_bytes": 295883,
+      "truncated": false,
+      "body_sha256": "7c4748415b33e98fd340b9d5aa3a247db12e819b13bf9adbba3e386664672fe0",
+      "redirect_chain": [
+        {
+          "url": "https://www.apple.com/education/connectED/",
+          "status": 301,
+          "location": "https://www.apple.com/education-initiative/",
+          "headers": {
+            "content-security-policy": [
+              "default-src 'self' blob: data: *.akamaized.net *.apple.com *.apple-mapkit.com *.cdn-apple.com *.organicfruitapps.com; child-src blob: mailto: embed.music.apple.com embed.podcasts.apple.com https://recyclingprogram.apple.com https://smb.apple.com https://nova.apple.com swdlp.apple.com www.apple.com www.instagram.com platform.twitter.com www.youtube-nocookie.com; img-src 'unsafe-inline' blob: data: *.apple.com *.apple-mapkit.com *.cdn-apple.com *.mzstatic.com; script-src 'unsafe-inline' 'unsafe-eval' blob: *.apple.com *.apple-mapkit.com www.instagram.com platform.twitter.com; style-src 'unsafe-inline' *.apple.com"
+            ],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000; includeSubdomains; preload"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Education - Apple",
+      "duplicate_final": false,
+      "eligible": true
+    }
+  ],
+  "robots": [
+    {
+      "url": "https://apple.com/robots.txt",
+      "timestamp": "2026-11-12T21:11:29.158843+00:00",
+      "status": 200,
+      "decision": "parsed",
+      "final_url": "https://www.apple.com/robots.txt",
+      "redirect_chain": [
+        {
+          "url": "https://apple.com/robots.txt",
+          "status": 301,
+          "location": "https://www.apple.com/robots.txt"
+        }
+      ],
+      "body_sha256": "3115f45c98cfa19341978dcab5dfbc0fd3e0ff4eb3ab1fe8192c3fbf7227dee7",
+      "body": "# robots.txt for https://www.apple.com/\n\nUser-agent: *\nDisallow: /*shop/browse/overlay/*\nDisallow: /*shop/iphone/payments/overlay/*\nDisallow: /cn/*/aow/*\nDisallow: /tmall*\nAllow: /ac/globalnav/2.0/*/images/ac-globalnav/globalnav/search/* \t\n\nUser-agent: Baiduspider\nDisallow: /*\nAllow: /cn/*\nAllow: /cn-edu/*\nAllow: /cn-k12/*\n\nUser-agent: HaoSouSpider\nDisallow: /*\nAllow: /cn/*\nAllow: /cn-edu/*\nAllow: /cn-k12/*\n\nUser-agent: Sogou web spider\nDisallow: /*\nAllow: /cn/*\nAllow: /cn-k12/*\n\nUser-agent: Sogou inst spider\nDisallow: /*\nAllow: /cn/*\nAllow: /cn-k12/*\n\nUser-agent: Sogou spider2\nDisallow: /*\nAllow: /cn/*\nAllow: /cn-k12/*\n\n#DaumWebMasterTool:6ff40e0f09564a9d4e3bc80e7cbde7c196677a2f5f610eb9c029836774f9a8e9:D9a8IEFAzmC/NWsQ3tB0Wg==\n\nSitemap: https://www.apple.com/shop/sitemap.xml\nSitemap: https://www.apple.com/autopush/sitemap/sitemap-index.xml\nSitemap: https://www.apple.com/newsroom/sitemap.xml\nSitemap: https://www.apple.com/retail/sitemap/sitemap.xml\nSitemap: https://www.apple.com/today/sitemap-index.xml\n"
+    },
+    {
+      "url": "https://www.apple.com/robots.txt",
+      "timestamp": "2026-11-12T21:11:29.604957+00:00",
+      "status": 200,
+      "decision": "parsed",
+      "final_url": "https://www.apple.com/robots.txt",
+      "redirect_chain": [],
+      "body_sha256": "3115f45c98cfa19341978dcab5dfbc0fd3e0ff4eb3ab1fe8192c3fbf7227dee7",
+      "body": "# robots.txt for https://www.apple.com/\n\nUser-agent: *\nDisallow: /*shop/browse/overlay/*\nDisallow: /*shop/iphone/payments/overlay/*\nDisallow: /cn/*/aow/*\nDisallow: /tmall*\nAllow: /ac/globalnav/2.0/*/images/ac-globalnav/globalnav/search/* \t\n\nUser-agent: Baiduspider\nDisallow: /*\nAllow: /cn/*\nAllow: /cn-edu/*\nAllow: /cn-k12/*\n\nUser-agent: HaoSouSpider\nDisallow: /*\nAllow: /cn/*\nAllow: /cn-edu/*\nAllow: /cn-k12/*\n\nUser-agent: Sogou web spider\nDisallow: /*\nAllow: /cn/*\nAllow: /cn-k12/*\n\nUser-agent: Sogou inst spider\nDisallow: /*\nAllow: /cn/*\nAllow: /cn-k12/*\n\nUser-agent: Sogou spider2\nDisallow: /*\nAllow: /cn/*\nAllow: /cn-k12/*\n\n#DaumWebMasterTool:6ff40e0f09564a9d4e3bc80e7cbde7c196677a2f5f610eb9c029836774f9a8e9:D9a8IEFAzmC/NWsQ3tB0Wg==\n\nSitemap: https://www.apple.com/shop/sitemap.xml\nSitemap: https://www.apple.com/autopush/sitemap/sitemap-index.xml\nSitemap: https://www.apple.com/newsroom/sitemap.xml\nSitemap: https://www.apple.com/retail/sitemap/sitemap.xml\nSitemap: https://www.apple.com/today/sitemap-index.xml\n"
+    }
+  ],
+  "eligible_pages": 40,
+  "canonical_origin": [
+    "https",
+    "www.apple.com",
+    443
+  ],
+  "stop_reason": "page_budget",
+  "elapsed_seconds": 33.38
+}

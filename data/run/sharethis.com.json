@@ -1,0 +1,1401 @@
+{
+  "site": {
+    "rank": "2286",
+    "domain": "sharethis.com",
+    "stratum": "1001-10000"
+  },
+  "rows": [
+    {
+      "rank": "2286",
+      "domain": "sharethis.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://sharethis.com/",
+      "depth": 0,
+      "parent_url": "",
+      "attempt": 1,
+      "timestamp": "2026-11-12T21:13:34.952149+00:00",
+      "final_url": "https://sharethis.com/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://*.shopify.com https://*.myshopify.com"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 140885,
+      "truncated": false,
+      "body_sha256": "bb014827caa3e0f10471092df30b9a4e991b924666a051d69856b5e05de72f59",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "ShareThis | Share Buttons | Website Tools | Behavioral IntelligenceShareThis | Share Buttons | Website Tools | Behavioral Intelligence",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "2286",
+      "domain": "sharethis.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://sharethis.com/platform/",
+      "depth": 1,
+      "parent_url": "https://sharethis.com/",
+      "attempt": 2,
+      "timestamp": "2026-11-12T21:13:35.462079+00:00",
+      "final_url": "https://sharethis.com/platform/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://*.shopify.com https://*.myshopify.com"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 136179,
+      "truncated": false,
+      "body_sha256": "7e9702c3c216c5d3487e4ceb443608b2b49ed538678b15b508b6981d7cf151a5",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Website Tools for Increased Web Traffic Today | ShareThis",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "2286",
+      "domain": "sharethis.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://sharethis.com/es/platform/",
+      "depth": 2,
+      "parent_url": "https://sharethis.com/platform/",
+      "attempt": 3,
+      "timestamp": "2026-11-12T21:13:35.983590+00:00",
+      "final_url": "https://sharethis.com/es/platform/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://*.shopify.com https://*.myshopify.com"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 137255,
+      "truncated": false,
+      "body_sha256": "8d0b19bfa6aa10bf69012ae46d2d8224c5a8766c6fd5b1a3f20ee77677280b62",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Website Tools for Increased Web Traffic Today | ShareThis",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "2286",
+      "domain": "sharethis.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://sharethis.com/consent-management-platform/",
+      "depth": 1,
+      "parent_url": "https://sharethis.com/",
+      "attempt": 4,
+      "timestamp": "2026-11-12T21:13:36.539408+00:00",
+      "final_url": "https://sharethis.com/consent-management-platform/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://*.shopify.com https://*.myshopify.com"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 159277,
+      "truncated": false,
+      "body_sha256": "6e236f579f2a5f3b1a7d094c8332618cb9f316f41767d5f26e0a938d24d88982",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Consent Management for EU Privacy Compliance",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "2286",
+      "domain": "sharethis.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://sharethis.com/de/platform/",
+      "depth": 2,
+      "parent_url": "https://sharethis.com/platform/",
+      "attempt": 5,
+      "timestamp": "2026-11-12T21:13:37.061519+00:00",
+      "final_url": "https://sharethis.com/de/platform/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://*.shopify.com https://*.myshopify.com"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 136991,
+      "truncated": false,
+      "body_sha256": "ef56a9163aed27f0dced066d3c65c5c2d74acd8d915ec8e51ffa547c2b2dbc59",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Website Tools for Increased Web Traffic Today | ShareThis",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "2286",
+      "domain": "sharethis.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://sharethis.com/social-plugins/",
+      "depth": 1,
+      "parent_url": "https://sharethis.com/",
+      "attempt": 6,
+      "timestamp": "2026-11-12T21:13:37.568076+00:00",
+      "final_url": "https://sharethis.com/social-plugins/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://*.shopify.com https://*.myshopify.com"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 126748,
+      "truncated": false,
+      "body_sha256": "cfc799711c4dcc8317cb2d7224d96c458701dc93dcf97373f6c71030e90a5237",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Social Media Plugins for WordPress, Shopify & More | ShareThis",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "2286",
+      "domain": "sharethis.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://sharethis.com/fr/platform/",
+      "depth": 2,
+      "parent_url": "https://sharethis.com/platform/",
+      "attempt": 7,
+      "timestamp": "2026-11-12T21:13:38.111589+00:00",
+      "final_url": "https://sharethis.com/fr/platform/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://*.shopify.com https://*.myshopify.com"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 137214,
+      "truncated": false,
+      "body_sha256": "dbb2e9976803f444e116b08df5896a95bed4c6fcb96c4d7228a1c010ff61a2a0",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Website Tools for Increased Web Traffic Today | ShareThis",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "2286",
+      "domain": "sharethis.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://sharethis.com/mcp/",
+      "depth": 1,
+      "parent_url": "https://sharethis.com/",
+      "attempt": 8,
+      "timestamp": "2026-11-12T21:13:38.619686+00:00",
+      "final_url": "https://sharethis.com/mcp/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://*.shopify.com https://*.myshopify.com"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 148418,
+      "truncated": false,
+      "body_sha256": "2e0fecc048ee478b50e27b0995f96591550701e26b5a4b7d2d4c352c577f2fbb",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "MCP - ShareThis",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "2286",
+      "domain": "sharethis.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://sharethis.com/it/platform/",
+      "depth": 2,
+      "parent_url": "https://sharethis.com/platform/",
+      "attempt": 9,
+      "timestamp": "2026-11-12T21:13:39.175119+00:00",
+      "final_url": "https://sharethis.com/it/platform/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://*.shopify.com https://*.myshopify.com"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 137397,
+      "truncated": false,
+      "body_sha256": "1286ec740f20150a1fba7c994198c35ccecf01ef521654ad8a24e32b698c9841",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Website Tools for Increased Web Traffic Today | ShareThis",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "2286",
+      "domain": "sharethis.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://sharethis.com/support/installation/how-to-install-sharethis-tools-on-reactjs/",
+      "depth": 1,
+      "parent_url": "https://sharethis.com/",
+      "attempt": 10,
+      "timestamp": "2026-11-12T21:13:39.605461+00:00",
+      "final_url": "https://sharethis.com/support/installation/how-to-install-sharethis-tools-on-reactjs/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://*.shopify.com https://*.myshopify.com"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 133745,
+      "truncated": false,
+      "body_sha256": "ac725e4d2387856ac0617c312ba112c3836a78ee85fe5185e50cdd22e55456d4",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Install ShareThis Tools on ReactJS | Step\u2011by\u2011Step Guide",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "2286",
+      "domain": "sharethis.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://sharethis.com/tw/platform/",
+      "depth": 2,
+      "parent_url": "https://sharethis.com/platform/",
+      "attempt": 11,
+      "timestamp": "2026-11-12T21:13:40.234709+00:00",
+      "final_url": "https://sharethis.com/tw/platform/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://*.shopify.com https://*.myshopify.com"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 136647,
+      "truncated": false,
+      "body_sha256": "6702ad6db131ec7604a13ffe21958c2a6ff7855357ae36c0abd196cd58804ae3",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Website Tools for Increased Web Traffic Today | ShareThis",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "2286",
+      "domain": "sharethis.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://sharethis.com/data/",
+      "depth": 1,
+      "parent_url": "https://sharethis.com/",
+      "attempt": 12,
+      "timestamp": "2026-11-12T21:13:40.540707+00:00",
+      "final_url": "https://sharethis.com/data/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://*.shopify.com https://*.myshopify.com"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 165050,
+      "truncated": false,
+      "body_sha256": "02274676697475a83ccf9db57fa0875353a925a0f3cb6dd59e974a0d4daa0630",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Data Solutions for Targeting, Personalization & Insights | ShareThis",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "2286",
+      "domain": "sharethis.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://sharethis.com/pt/platform/",
+      "depth": 2,
+      "parent_url": "https://sharethis.com/platform/",
+      "attempt": 13,
+      "timestamp": "2026-11-12T21:13:41.206616+00:00",
+      "final_url": "https://sharethis.com/pt/platform/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://*.shopify.com https://*.myshopify.com"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 137674,
+      "truncated": false,
+      "body_sha256": "1b026dffde61a1728bfa5c097ec11d8e303b529621477b4f830cb81ce75ba909",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Website Tools for Increased Web Traffic Today | ShareThis",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "2286",
+      "domain": "sharethis.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://sharethis.com/data-topics/",
+      "depth": 1,
+      "parent_url": "https://sharethis.com/",
+      "attempt": 14,
+      "timestamp": "2026-11-12T21:13:41.476786+00:00",
+      "final_url": "https://sharethis.com/data-topics/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://*.shopify.com https://*.myshopify.com"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 176699,
+      "truncated": false,
+      "body_sha256": "529521bcac89683e78fec59f8e4ce81c0e1cbd4ffbc9e7c144b2726fd386dda2",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Data Topics & Privacy Insights Archive | ShareThis Blog",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "2286",
+      "domain": "sharethis.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://sharethis.com/ja/platform/",
+      "depth": 2,
+      "parent_url": "https://sharethis.com/platform/",
+      "attempt": 15,
+      "timestamp": "2026-11-12T21:13:42.224512+00:00",
+      "final_url": "https://sharethis.com/ja/platform/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://*.shopify.com https://*.myshopify.com"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 137887,
+      "truncated": false,
+      "body_sha256": "6cebd36932b0b421442b04a374240aeaaf2b59acb384e4c740fb6a42a334c8f1",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Website Tools for Increased Web Traffic Today | ShareThis",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "2286",
+      "domain": "sharethis.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://sharethis.com/about/",
+      "depth": 1,
+      "parent_url": "https://sharethis.com/",
+      "attempt": 16,
+      "timestamp": "2026-11-12T21:13:42.469797+00:00",
+      "final_url": "https://sharethis.com/about/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://*.shopify.com https://*.myshopify.com"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 138844,
+      "truncated": false,
+      "body_sha256": "01ca8429e12aaef380ebfbaa25c1a8d8a6c0a4dcc116fa477cdc4ca92614fcf4",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "About ShareThis | Unlocking Digital Behavior Since 2007",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "2286",
+      "domain": "sharethis.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://sharethis.com/news/2024/02/sharethis-delivers-on-the-promise-of-cookieless-data/",
+      "depth": 2,
+      "parent_url": "https://sharethis.com/about/",
+      "attempt": 17,
+      "timestamp": "2026-11-12T21:13:42.993708+00:00",
+      "final_url": "https://sharethis.com/news/2024/02/sharethis-delivers-on-the-promise-of-cookieless-data/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://*.shopify.com https://*.myshopify.com"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 127047,
+      "truncated": false,
+      "body_sha256": "f358bc222c57bbc12617a3d6ccbcc1d5f1fe0595a537f0e51ce2766150897536",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Delivering on Cookieless Data Solutions | ShareThis",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "2286",
+      "domain": "sharethis.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://sharethis.com/careers/",
+      "depth": 1,
+      "parent_url": "https://sharethis.com/",
+      "attempt": 18,
+      "timestamp": "2026-11-12T21:13:43.498992+00:00",
+      "final_url": "https://sharethis.com/careers/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://*.shopify.com https://*.myshopify.com"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 174760,
+      "truncated": false,
+      "body_sha256": "cbb713c87920ee20485c335ed7b526d28c6e14d2ab1fc91088101e5b121d27fb",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Explore Careers at ShareThis | Join Our Team",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "2286",
+      "domain": "sharethis.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://sharethis.com/engineering-culture/",
+      "depth": 1,
+      "parent_url": "https://sharethis.com/",
+      "attempt": 19,
+      "timestamp": "2026-11-12T21:13:44.005728+00:00",
+      "final_url": "https://sharethis.com/engineering-culture/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://*.shopify.com https://*.myshopify.com"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 137764,
+      "truncated": false,
+      "body_sha256": "1f1c64f3c51fdc764969112f560a4bea3a1d98f65cb6e1ade6e384d91fb145b3",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Engineering Culture - ShareThis",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "2286",
+      "domain": "sharethis.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://sharethis.com/contact/",
+      "depth": 1,
+      "parent_url": "https://sharethis.com/",
+      "attempt": 20,
+      "timestamp": "2026-11-12T21:13:44.537546+00:00",
+      "final_url": "https://sharethis.com/contact/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://*.shopify.com https://*.myshopify.com"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 132207,
+      "truncated": false,
+      "body_sha256": "9cc43d727bf35aec3bf9a329aff594cf633896f0ae685e66ff795adb0b17bdf6",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Contact Us - ShareThis",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "2286",
+      "domain": "sharethis.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://sharethis.com/blog/",
+      "depth": 1,
+      "parent_url": "https://sharethis.com/",
+      "attempt": 21,
+      "timestamp": "2026-11-12T21:13:45.002719+00:00",
+      "final_url": "https://sharethis.com/blog/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://*.shopify.com https://*.myshopify.com"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 187434,
+      "truncated": false,
+      "body_sha256": "a413b9cdbaaea4feb0a894311e5440558783c8ea9ef4853db09a496c1a970982",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "ShareThis Blog | Social, Marketing, Data & Trends Insights",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "2286",
+      "domain": "sharethis.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://sharethis.com/best-practices/2018/07/instagram-profile-photo-size-plus-tips-tricks/",
+      "depth": 2,
+      "parent_url": "https://sharethis.com/blog/",
+      "attempt": 22,
+      "timestamp": "2026-11-12T21:13:45.518723+00:00",
+      "final_url": "https://sharethis.com/best-practices/2018/07/instagram-profile-photo-size-plus-tips-tricks/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://*.shopify.com https://*.myshopify.com"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 156544,
+      "truncated": false,
+      "body_sha256": "07c02c0693f505ab34875b96cfc5dc12a47ba6e4a5dbd83d8980354ebf188e8e",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Instagram Profile Picture Size: Dimensions, Tips & Tricks",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "2286",
+      "domain": "sharethis.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://sharethis.com/marketing/2021/06/what-is-brand-awareness-tips-and-best-practices/",
+      "depth": 3,
+      "parent_url": "https://sharethis.com/best-practices/2018/07/instagram-profile-photo-size-plus-tips-tricks/",
+      "attempt": 23,
+      "timestamp": "2026-11-12T21:13:46.033250+00:00",
+      "final_url": "https://sharethis.com/marketing/2021/06/what-is-brand-awareness-tips-and-best-practices/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://*.shopify.com https://*.myshopify.com"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 141257,
+      "truncated": false,
+      "body_sha256": "e5ee6acece173d6242c9fe895c16a9a8fe12b5ca895bf15759b5d469b8009767",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "What Is Brand Awareness? 6 Tips and Best Practices - ShareThis",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "2286",
+      "domain": "sharethis.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://sharethis.com/thought-leadership/2020/08/how-to-grow-your-social-media-presence/",
+      "depth": 4,
+      "parent_url": "https://sharethis.com/marketing/2021/06/what-is-brand-awareness-tips-and-best-practices/",
+      "attempt": 24,
+      "timestamp": "2026-11-12T21:13:46.531839+00:00",
+      "final_url": "https://sharethis.com/thought-leadership/2020/08/how-to-grow-your-social-media-presence/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://*.shopify.com https://*.myshopify.com"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 182892,
+      "truncated": false,
+      "body_sha256": "856698bb2c230a8fa1d54a53884605660b856aa68c3bc8dac53964f87245730b",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "25 Ways to Grow Your Social Media Presence - ShareThis",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "2286",
+      "domain": "sharethis.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://sharethis.com/social-media/2021/01/what-is-social-media-marketing-for-business/",
+      "depth": 4,
+      "parent_url": "https://sharethis.com/marketing/2021/06/what-is-brand-awareness-tips-and-best-practices/",
+      "attempt": 25,
+      "timestamp": "2026-11-12T21:13:47.056626+00:00",
+      "final_url": "https://sharethis.com/social-media/2021/01/what-is-social-media-marketing-for-business/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://*.shopify.com https://*.myshopify.com"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 140801,
+      "truncated": false,
+      "body_sha256": "e8eaeaf9d545a4d79ea4d8a6e47b59b586ccfbd152f7a79a69ffe6609ffe7055",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "What is Social Media Marketing for Business? - ShareThis",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "2286",
+      "domain": "sharethis.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://sharethis.com/uncategorized/2020/09/how-to-tackle-social-media-customer-service/",
+      "depth": 5,
+      "parent_url": "https://sharethis.com/social-media/2021/01/what-is-social-media-marketing-for-business/",
+      "attempt": 26,
+      "timestamp": "2026-11-12T21:13:47.564820+00:00",
+      "final_url": "https://sharethis.com/uncategorized/2020/09/how-to-tackle-social-media-customer-service/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://*.shopify.com https://*.myshopify.com"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 151445,
+      "truncated": false,
+      "body_sha256": "f57746c7821a0bbf3fec35cfcb1f309a00c2eb24475cc5944a06cd4f0915e4a9",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "How to Tackle Social Media Customer Service - ShareThis",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "2286",
+      "domain": "sharethis.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://sharethis.com/website-tips/2023/07/best-financial-blogs/",
+      "depth": 2,
+      "parent_url": "https://sharethis.com/blog/",
+      "attempt": 27,
+      "timestamp": "2026-11-12T21:13:48.079153+00:00",
+      "final_url": "https://sharethis.com/website-tips/2023/07/best-financial-blogs/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://*.shopify.com https://*.myshopify.com"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 222486,
+      "truncated": false,
+      "body_sha256": "63a2539ede688d29cf0ed201671dfda5b9285de20e56a1d81caa1f09718db077",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "The Best Financial Blogs for All Things Money & Finance - ShareThis",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "2286",
+      "domain": "sharethis.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://sharethis.com/insights/2023/05/consumers-consider-agriculture-and-energy-to-be-key-elements-for-limiting-climate-change/",
+      "depth": 2,
+      "parent_url": "https://sharethis.com/blog/",
+      "attempt": 28,
+      "timestamp": "2026-11-12T21:13:48.593579+00:00",
+      "final_url": "https://sharethis.com/insights/2023/05/consumers-consider-agriculture-and-energy-to-be-key-elements-for-limiting-climate-change/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://*.shopify.com https://*.myshopify.com"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 128080,
+      "truncated": false,
+      "body_sha256": "1ad76b705d7dcba830af5a7ad0ddafc5012fcab87f0adba4824711e257f6393a",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Agriculture and Energy Are Key For Limiting Climate Change",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "2286",
+      "domain": "sharethis.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://sharethis.com/platform-api/",
+      "depth": 1,
+      "parent_url": "https://sharethis.com/",
+      "attempt": 29,
+      "timestamp": "2026-11-12T21:13:49.093869+00:00",
+      "final_url": "https://sharethis.com/platform-api/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://*.shopify.com https://*.myshopify.com"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 152632,
+      "truncated": false,
+      "body_sha256": "50894f2cbafc191d4a46b4cb6c485c204df8256b385dab6166742c0440a5ab8a",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "ShareThis Platform API",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "2286",
+      "domain": "sharethis.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://sharethis.com/api-docs",
+      "depth": 2,
+      "parent_url": "https://sharethis.com/platform-api/",
+      "attempt": 30,
+      "timestamp": "2026-11-12T21:13:50.135675+00:00",
+      "final_url": "https://sharethis.com/api-docs/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://*.shopify.com https://*.myshopify.com"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 104135,
+      "truncated": false,
+      "body_sha256": "1d7024b9009549438b47d5e6989216faec5763e4a3b74eec4f6dccab6876aa41",
+      "redirect_chain": [
+        {
+          "url": "https://sharethis.com/api-docs",
+          "status": 301,
+          "location": "https://sharethis.com/api-docs/",
+          "headers": {
+            "content-security-policy": [
+              "frame-ancestors 'self' https://*.shopify.com https://*.myshopify.com"
+            ],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "API Docs - ShareThis",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "2286",
+      "domain": "sharethis.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://sharethis.com/social-media-buttons/chatgpt-share-button/",
+      "depth": 1,
+      "parent_url": "https://sharethis.com/",
+      "attempt": 31,
+      "timestamp": "2026-11-12T21:13:50.678467+00:00",
+      "final_url": "https://sharethis.com/social-media-buttons/chatgpt-share-button/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://*.shopify.com https://*.myshopify.com"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 140166,
+      "truncated": false,
+      "body_sha256": "a5d9a78b918fdd4e0096f8c7fd2c19f4506cf0c3e061d61089b78bec941f38da",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "ChatGPT Share Button: How to Add to Your Website - ShareThis",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "2286",
+      "domain": "sharethis.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://sharethis.com/privacy/",
+      "depth": 1,
+      "parent_url": "https://sharethis.com/",
+      "attempt": 32,
+      "timestamp": "2026-11-12T21:13:51.225496+00:00",
+      "final_url": "https://sharethis.com/privacy/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://*.shopify.com https://*.myshopify.com"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 234412,
+      "truncated": false,
+      "body_sha256": "3eedd5946d153206a6f660603d3a78ff1028b1c7941d4ac3caec5cfe3ede4d7e",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "ShareThis - Privacy Notice",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "2286",
+      "domain": "sharethis.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://sharethis.com/data-deletion-request/",
+      "depth": 2,
+      "parent_url": "https://sharethis.com/privacy/",
+      "attempt": 33,
+      "timestamp": "2026-11-12T21:13:52.167088+00:00",
+      "final_url": "https://sharethis.com/data-subject-privacy-request/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://*.shopify.com https://*.myshopify.com"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 110307,
+      "truncated": false,
+      "body_sha256": "63b78aaf10e43ab0961a05fe89abd7cdf1c0eb3171bc19b08788238177c9293e",
+      "redirect_chain": [
+        {
+          "url": "https://sharethis.com/data-deletion-request/",
+          "status": 301,
+          "location": "https://sharethis.com/data-subject-privacy-request/",
+          "headers": {
+            "content-security-policy": [],
+            "content-security-policy-report-only": [],
+            "strict-transport-security": [
+              "max-age=31536000"
+            ]
+          }
+        }
+      ],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Data Subject Privacy Request - ShareThis",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "2286",
+      "domain": "sharethis.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://sharethis.com/do-not-sell-my-data-page/",
+      "depth": 1,
+      "parent_url": "https://sharethis.com/",
+      "attempt": 34,
+      "timestamp": "2026-11-12T21:13:52.784198+00:00",
+      "final_url": "https://sharethis.com/do-not-sell-my-data-page/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://*.shopify.com https://*.myshopify.com"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 113186,
+      "truncated": false,
+      "body_sha256": "4e213db4548ed7373748da0c062a2f733b1148c82ae3bc9eb0604f7faac3bcf5",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Do Not Sell My Data - ShareThis",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "2286",
+      "domain": "sharethis.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://sharethis.com/publisher-terms-of-use/",
+      "depth": 1,
+      "parent_url": "https://sharethis.com/",
+      "attempt": 35,
+      "timestamp": "2026-11-12T21:13:53.071483+00:00",
+      "final_url": "https://sharethis.com/publisher-terms-of-use/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://*.shopify.com https://*.myshopify.com"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 189508,
+      "truncated": false,
+      "body_sha256": "46cc974d31f88804cfce5ecf3ff340c53e8892e6466c30b9e02c18410badfa6c",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Publisher Terms of Use - ShareThis",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "2286",
+      "domain": "sharethis.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://sharethis.com/data-subject-privacy-request/",
+      "depth": 1,
+      "parent_url": "https://sharethis.com/",
+      "attempt": 36,
+      "timestamp": "2026-11-12T21:13:53.840982+00:00",
+      "final_url": "https://sharethis.com/data-subject-privacy-request/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://*.shopify.com https://*.myshopify.com"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 110307,
+      "truncated": false,
+      "body_sha256": "63b78aaf10e43ab0961a05fe89abd7cdf1c0eb3171bc19b08788238177c9293e",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "Data Subject Privacy Request - ShareThis",
+      "duplicate_final": true,
+      "eligible": false
+    },
+    {
+      "rank": "2286",
+      "domain": "sharethis.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://sharethis.com/vs-others/",
+      "depth": 1,
+      "parent_url": "https://sharethis.com/",
+      "attempt": 37,
+      "timestamp": "2026-11-12T21:13:54.052718+00:00",
+      "final_url": "https://sharethis.com/vs-others/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://*.shopify.com https://*.myshopify.com"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 143933,
+      "truncated": false,
+      "body_sha256": "b253862e60801ef7c880136df1623a4075a4469071c50e5f7295366b654443af",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "ShareThis Vs. Others: What's the Best Free Social Sharing Tool?",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "2286",
+      "domain": "sharethis.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://sharethis.com/sharethis-vs-elfsight/",
+      "depth": 2,
+      "parent_url": "https://sharethis.com/vs-others/",
+      "attempt": 38,
+      "timestamp": "2026-11-12T21:13:54.871157+00:00",
+      "final_url": "https://sharethis.com/sharethis-vs-elfsight/",
+      "status": 403,
+      "content_type": "text/html",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self'; object-src 'self';"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000; includeSubDomains"
+        ]
+      },
+      "body_bytes": 1323,
+      "truncated": false,
+      "body_sha256": "c75fc5fd89365dd9da8f7d9a5fab8a22b853bcd943c098becb259bfcaea15de2",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "",
+      "duplicate_final": false,
+      "eligible": false
+    },
+    {
+      "rank": "2286",
+      "domain": "sharethis.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://sharethis.com/vs-addthis/",
+      "depth": 1,
+      "parent_url": "https://sharethis.com/",
+      "attempt": 39,
+      "timestamp": "2026-11-12T21:13:55.032189+00:00",
+      "final_url": "https://sharethis.com/vs-addthis/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://*.shopify.com https://*.myshopify.com"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 129016,
+      "truncated": false,
+      "body_sha256": "45eaea06ac8687ab7aed6133cac6415d03ede7159dc1e4b7c00f2ec909167d10",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "ShareThis vs AddThis: Best Free AddThis Alternative",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "2286",
+      "domain": "sharethis.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://sharethis.com/vs-addtoany/",
+      "depth": 1,
+      "parent_url": "https://sharethis.com/",
+      "attempt": 40,
+      "timestamp": "2026-11-12T21:13:55.576363+00:00",
+      "final_url": "https://sharethis.com/vs-addtoany/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://*.shopify.com https://*.myshopify.com"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 123051,
+      "truncated": false,
+      "body_sha256": "3151b341d27c1cf5f6023175089b7432c68a51f609505932ea7ded98610e7cfe",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "ShareThis vs AddToAny: What's the Best Free Social Sharing Tool?",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "2286",
+      "domain": "sharethis.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://sharethis.com/vs-elfsight/",
+      "depth": 1,
+      "parent_url": "https://sharethis.com/",
+      "attempt": 41,
+      "timestamp": "2026-11-12T21:13:56.084774+00:00",
+      "final_url": "https://sharethis.com/vs-elfsight/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://*.shopify.com https://*.myshopify.com"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 126047,
+      "truncated": false,
+      "body_sha256": "b5fd6868e8c1e3daf65bef112118d2f7a6724499776792be29411e3dbfd88faa",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "ShareThis vs Elfsight: Best Share Buttons Alternative",
+      "duplicate_final": false,
+      "eligible": true
+    },
+    {
+      "rank": "2286",
+      "domain": "sharethis.com",
+      "stratum": "1001-10000",
+      "requested_url": "https://sharethis.com/vs-shareaholic/",
+      "depth": 1,
+      "parent_url": "https://sharethis.com/",
+      "attempt": 42,
+      "timestamp": "2026-11-12T21:13:56.588961+00:00",
+      "final_url": "https://sharethis.com/vs-shareaholic/",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "headers": {
+        "content-security-policy": [
+          "frame-ancestors 'self' https://*.shopify.com https://*.myshopify.com"
+        ],
+        "content-security-policy-report-only": [],
+        "strict-transport-security": [
+          "max-age=31536000"
+        ]
+      },
+      "body_bytes": 124650,
+      "truncated": false,
+      "body_sha256": "2a09ff054330415bb23b2682ebc8a9eb57430605532b86fc9d756e80e679cfd0",
+      "redirect_chain": [],
+      "html": true,
+      "challenge_suspected": false,
+      "meta_csp": [],
+      "title": "ShareThis vs Shareaholic: Best Social Sharing Alternative",
+      "duplicate_final": false,
+      "eligible": true
+    }
+  ],
+  "robots": [
+    {
+      "url": "https://sharethis.com/robots.txt",
+      "timestamp": "2026-11-12T21:13:34.952129+00:00",
+      "status": 200,
+      "decision": "parsed",
+      "final_url": "https://sharethis.com/robots.txt",
+      "redirect_chain": [],
+      "body_sha256": "88d691253b4c35129863692a5a0439cdfc0cf8ec79ba8293920bcb1fd18d25fe",
+      "body": "# START YOAST BLOCK\n# ---------------------------\nUser-agent: *\nDisallow:\n\nSitemap: https://sharethis.com/sitemap_index.xml\n# ---------------------------\n# END YOAST BLOCK"
+    }
+  ],
+  "eligible_pages": 40,
+  "canonical_origin": [
+    "https",
+    "sharethis.com",
+    443
+  ],
+  "stop_reason": "page_budget",
+  "elapsed_seconds": 22.48
+}
